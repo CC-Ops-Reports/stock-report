@@ -3,9 +3,9 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ site.title }}</title>
+  <title>Chatterbox | Market Analysis</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&family=Playfair+Display:wght@700;800&display=swap" rel="stylesheet">
   <style>
     :root {
       --navy: #0f1729;
@@ -39,23 +39,43 @@
     .site-header {
       background: linear-gradient(135deg, var(--navy) 0%, var(--dark-blue) 100%);
       color: white;
-      padding: 2.5rem 2rem;
+      padding: 3rem 2rem 2.5rem;
       text-align: center;
       border-bottom: 4px solid var(--accent-blue);
     }
 
-    .site-header h1 {
-      font-size: 1.8rem;
-      font-weight: 700;
-      letter-spacing: 2px;
+    .site-header .brand-name {
+      font-family: "Playfair Display", Georgia, serif;
+      font-size: 3rem;
+      font-weight: 800;
+      letter-spacing: 3px;
       text-transform: uppercase;
       margin-bottom: 0.3rem;
+      background: linear-gradient(135deg, #ffffff 0%, #94a3b8 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
     }
 
-    .site-header p {
+    .site-header .tagline {
+      color: var(--accent-blue);
+      font-size: 0.9rem;
+      font-weight: 500;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      margin-bottom: 1rem;
+    }
+
+    .site-header .description {
       color: var(--gray-400);
       font-size: 0.85rem;
-      letter-spacing: 1px;
+      max-width: 600px;
+      margin: 0 auto;
+      line-height: 1.5;
+    }
+
+    .site-header h1 {
+      display: none;
     }
 
     .container {
@@ -165,8 +185,8 @@
     }
 
     @media (max-width: 600px) {
-      .site-header { padding: 1.5rem 1rem; }
-      .site-header h1 { font-size: 1.3rem; }
+      .site-header { padding: 2rem 1rem; }
+      .site-header .brand-name { font-size: 2.2rem; }
       .container { padding: 1rem; }
       h2 { font-size: 1.1rem; }
       table { font-size: 0.8rem; }
@@ -185,14 +205,15 @@
 </head>
 <body>
   <div class="site-header">
-    <h1>{{ site.title }}</h1>
-    <p>AUTOMATED NIGHTLY MARKET ANALYSIS</p>
+    <div class="brand-name">Chatterbox</div>
+    <div class="tagline">Automated Nightly Market Analysis</div>
+    <div class="description">A daily digest of the most talked-about stocks across financial media, compiled automatically after market close. Each report tracks sentiment, analyst targets, and key metrics to help you stay informed without the noise.</div>
   </div>
   <div class="container">
     {{ content }}
   </div>
   <div class="footer">
-    Auto-generated daily at 9:00 PM ET &bull; CC Ops Reports
+    Auto-generated daily at 9:15 PM ET &bull; Chatterbox by CC Ops
   </div>
 </body>
 </html>
