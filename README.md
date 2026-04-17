@@ -1,356 +1,368 @@
 # DAILY STOCK SENTIMENT REPORT
 
-**DATE:** 2026-04-16
+**DATE:** 2026-04-17
 **TOTAL STOCKS TRACKED:** 12
 **MARKET TONE:** Bullish
-**KEY THEMES:** AI Infrastructure, Q1 Earnings Season, Iran War / Hormuz Oil Disruption, Insider Buying, Semiconductor Demand
+**KEY THEMES:** AI/Semiconductors, Earnings Season, Geopolitical Stability (Iran Ceasefire Optimism), Antitrust/Regulatory Risk, Workforce Restructuring
 
-**S&P 500:** 7,034 (+0.16%) • **NASDAQ:** 24,011 (-0.02%)
+**S&P 500:** 7,041.09 (+0.26%) • **NASDAQ:** 24,102.70 (+0.36%)
 
 ---
 
 ## NVIDIA CORPORATION (NVDA)
 
-**Discussion Driver:** AI trade regaining momentum after TSMC's blowout Q1 earnings; on pace for 11th consecutive winning session — a company record. Upgraded to Buy by multiple analysts.
+**Discussion Driver:** Nvidia is at the center of the AI semiconductor supercycle, with BofA projecting global chip sales to cross $1 trillion in 2026 led by NVDA. The stock has posted 10 consecutive days of gains and is up 75%+ over the past year, with 38+ analysts rating it Strong Buy.
 
 **Bull Case:**
-- Record fiscal Q4 revenue of $68.1B (+73% YoY); Q1 FY2027 guidance of ~$78B signals accelerating AI data-center demand
-- Raymond James raised target to $323 (Strong Buy); 55% of covering analysts rate it Strong Buy
+- Unrivaled AI training and inference GPU leadership; BofA, Morgan Stanley, and Raymond James all carry large upside targets ($250–$323 range)
+- Semiconductor sector approaching $1 trillion milestone in 2026 with Nvidia positioned as the primary beneficiary
 
 **Bear Case:**
-- Elevated trailing P/E of ~41 leaves little room for execution misses
-- China export restrictions on advanced chips remain an ongoing regulatory headwind
+- Trailing P/E of ~40x leaves limited margin of safety if AI data-center spending slows or pauses
+- U.S. export restrictions on advanced chips to China remain an active headwind to revenue upside
 
 **Recommendation:** Buy
 
 **Metrics:**
 | Metric | Value |
 |--------|-------|
-| Current Price | $189.50 |
-| Price Target | $273.57 avg (+44%) |
-| P/E Ratio | 41.28 |
+| Current Price | $199.63 |
+| Price Target | $275.25 avg (+37.9%) |
+| P/E Ratio | 40.09 |
 | RSI | N/A |
+| vs 52-Wk High | -5.9% below high ($212.19) |
 | Analyst Rating | Strong Buy |
 | Sector | Technology – Semiconductors |
 
-**Sources:** CNBC, Capital.com, Nasdaq.com, MarketBeat
+**Sources:** BofA/Merrill Lynch, Morgan Stanley, Raymond James, CNBC, Bloomberg, MarketBeat
 
 ---
 
-## TAIWAN SEMICONDUCTOR MANUFACTURING (TSM)
+## NETFLIX, INC. (NFLX)
 
-**Discussion Driver:** Q1 2026 earnings released today; posted a 58% jump in net profit and 35.1% YoY revenue growth to NT$1.134 trillion (~$35B), lifting the entire semiconductor sector.
+**Discussion Driver:** Q1 2026 earnings were released April 16 — EPS of $1.23 crushed the $0.66 estimate and revenue of $12.25B (+16% YoY) beat expectations. However, soft Q2 revenue guidance and co-founder Reed Hastings' announced board exit in June triggered an after-hours selloff, with shares falling to ~$97.
 
 **Bull Case:**
-- 2nm era arrival signals further pricing power and margin expansion as hyperscalers queue for capacity
-- Direct read-through benefit for Nvidia, Apple, and AMD — validating ongoing AI chip supercycle
+- Exceptional Q1 earnings beat demonstrates durable monetization power from ad-supported tiers and live content strategy
+- Analysts maintain a Buy consensus with a 12-month target of $119.69, implying 22.8% upside from post-earnings price
 
 **Bear Case:**
-- Geopolitical Taiwan Strait risk is a perennial overhang on the stock
-- Average analyst target ($374) is near current price, limiting near-term upside
+- Q2 revenue guidance fell short of Wall Street expectations, raising concerns about sequential growth deceleration
+- Reed Hastings' board departure removes a key founder presence at a critical inflection point for strategy
 
 **Recommendation:** Hold
 
 **Metrics:**
 | Metric | Value |
 |--------|-------|
-| Current Price | $376.00 |
-| Price Target | $374.29 avg (-0.5%) |
-| P/E Ratio | N/A |
+| Current Price | $97.44 |
+| Price Target | $119.69 (+22.8%) |
+| P/E Ratio | 42.04 |
 | RSI | N/A |
-| Analyst Rating | Strong Buy |
-| Sector | Technology – Semiconductors |
+| vs 52-Wk High | -27.3% below high ($134.12) |
+| Analyst Rating | Buy |
+| Sector | Communication Services – Streaming |
 
-**Sources:** CNBC, Motley Fool, TipRanks, FinancialContent
+**Sources:** CNBC, Quiver Quantitative, Seeking Alpha, Bloomberg, public.com
 
 ---
 
-## JOHNSON & JOHNSON (JNJ)
+## META PLATFORMS, INC. (META)
 
-**Discussion Driver:** Beat Q1 2026 estimates on both EPS ($2.70 vs. $2.67 expected) and revenue ($24.06B vs. $23.63B expected); raised full-year guidance. Multiple analysts raised price targets.
+**Discussion Driver:** Named a top internet pick by RBC Capital Markets; Meta announced an extension of its AI chip partnership with Broadcom through 2029 with an initial computing capacity commitment exceeding one gigawatt, reinforcing Meta's in-house AI infrastructure strategy.
 
 **Bull Case:**
-- Revenue +9.9% YoY driven by pharmaceutical pipeline and MedTech; Exact Sciences acquisition ($3B incremental 2026 sales) broadens diagnostics portfolio
-- Wells Fargo raised target to $263; Argus and RBC both lifted targets post-earnings with Buy ratings
+- AI-driven advertising targeting delivers consistent double-digit revenue growth with expanding margins; P/E of ~27.6x is reasonable for the growth profile
+- Broadcom partnership secures long-term custom silicon supply, reducing dependence on Nvidia for AI inference workloads
 
 **Bear Case:**
-- Talc litigation liability remains unresolved and is a persistent legal/financial overhang
-- Raised guidance is only modestly above prior consensus, limiting upside surprise potential
+- Regulatory scrutiny from U.S. FTC and EU antitrust authorities creates ongoing legal risk to core ad-targeting business
+- Massive capex commitments to AI infrastructure and Reality Labs suppress near-term free cash flow generation
 
 **Recommendation:** Buy
 
 **Metrics:**
 | Metric | Value |
 |--------|-------|
-| Current Price | ~$204 |
-| Price Target | $245 median (+20%) |
-| P/E Ratio | N/A |
+| Current Price | $675.00 |
+| Price Target | $834.36 (+23.6%) |
+| P/E Ratio | 27.63 |
 | RSI | N/A |
+| vs 52-Wk High | -15.2% below high ($796.25) |
 | Analyst Rating | Strong Buy |
-| Sector | Healthcare |
+| Sector | Technology – Social Media |
 
-**Sources:** CNBC, Benzinga, Investing.com, Quiver Quantitative
+**Sources:** RBC Capital Markets, GuruFocus, 247WallSt, CNBC, Bloomberg
 
 ---
 
-## NIKE INC. (NKE)
+## AMAZON.COM, INC. (AMZN)
 
-**Discussion Driver:** CEO Elliott Hill purchased ~23,660 shares (~$1M) on April 13; Apple board member (and Nike director) Tim Cook separately bought 25,000 shares (~$1.1M). Combined insider buying triggered a 3.8% single-day rally.
+**Discussion Driver:** J.P. Morgan analyst Doug Anmuth named Amazon one of his top three internet stocks to own for 2026, citing AWS's dominant cloud position and accelerating enterprise AI adoption. AMZN recently maintained a Buy rating with a $285 price target following a recent acquisition.
 
 **Bull Case:**
-- High-conviction insider purchases at multi-year lows signal management belief in a turnaround under Elliott Hill's leadership
-- Analyst consensus Buy with average target of $64.84 implies ~43% upside from current levels
+- AWS remains the market-leading cloud platform, directly benefiting from surging enterprise AI workload migrations
+- Retail margin expansion continues as fulfillment cost optimization and advertising segment growth compound
 
 **Bear Case:**
-- Stock is down >25% YTD with floating losses tied to China tariffs and weak consumer sentiment
-- U.S.-China trade war and 25%+ tariffs on imported footwear continue to compress margins
+- Tariff uncertainty could weigh on e-commerce gross margins if trade policy tightens further in 2026
+- P/E of ~33x is elevated relative to historical norms, leaving valuation vulnerable to any earnings shortfall
+
+**Recommendation:** Buy
+
+**Metrics:**
+| Metric | Value |
+|--------|-------|
+| Current Price | $238.38 |
+| Price Target | $284.20 avg (+19.2%) |
+| P/E Ratio | 33.25 |
+| RSI | N/A |
+| vs 52-Wk High | -7.8% below high ($258.60) |
+| Analyst Rating | Strong Buy |
+| Sector | Technology – E-Commerce / Cloud |
+
+**Sources:** J.P. Morgan, GuruFocus, CNBC, Bloomberg, TipRanks
+
+---
+
+## BROADCOM INC. (AVGO)
+
+**Discussion Driver:** Shares surged 4.2% after Meta announced an extended multi-year AI chip partnership with Broadcom through 2029, with an initial commitment exceeding 1 gigawatt of computing capacity. The deal cements Broadcom's position as the dominant custom AI ASIC supplier to hyperscalers.
+
+**Bull Case:**
+- Multi-year hyperscaler contracts (Meta, Google, Apple) provide exceptional revenue visibility and custom-silicon design dominance
+- BofA identifies Broadcom as a top-six stock to own in the $1 trillion global chip surge of 2026
+
+**Bear Case:**
+- Heavy customer concentration risk: material dependence on three to four hyperscalers for AI ASIC revenue
+- VMware integration execution risk and elevated goodwill remain on the balance sheet
+
+**Recommendation:** Buy
+
+**Metrics:**
+| Metric | Value |
+|--------|-------|
+| Current Price | $392.97 |
+| Price Target | $438.43 avg (+11.6%) |
+| P/E Ratio | N/A |
+| RSI | N/A |
+| vs 52-Wk High | -5.2% below high ($414.61) |
+| Analyst Rating | Strong Buy |
+| Sector | Technology – Semiconductors |
+
+**Sources:** BofA/Merrill Lynch, Bloomberg, GuruFocus, ARTVOICE, CNBC
+
+---
+
+## NIKE, INC. (NKE)
+
+**Discussion Driver:** CEO Elliott Hill purchased over 23,000 shares (~$1 million) on April 13, while Apple board member and Nike director Tim Cook made a separate insider purchase of ~$1.1 million. The combined insider buying signaled strong management conviction and sent NKE up approximately 3% on the session.
+
+**Bull Case:**
+- High-conviction insider purchases at multi-year lows by both the CEO and a prominent board director signal genuine confidence in the turnaround
+- Consensus analyst target of $63.81 implies 41.3% upside from current depressed levels
+
+**Bear Case:**
+- Stock is down more than 43% from its 52-week high, reflecting persistent margin compression from elevated promotions and China market headwinds
+- Mixed analyst consensus (17 Buy / 17 Hold / 2 Sell) suggests the turnaround timeline remains uncertain
+
+**Recommendation:** Hold
+
+**Metrics:**
+| Metric | Value |
+|--------|-------|
+| Current Price | $45.15 |
+| Price Target | $63.81 avg (+41.3%) |
+| P/E Ratio | 28.27 |
+| RSI | N/A |
+| vs 52-Wk High | -43.7% below high ($80.17) |
+| Analyst Rating | Buy |
+| Sector | Consumer Discretionary – Apparel |
+
+**Sources:** CNBC, GuruFocus, The Markets Daily, Benzinga, JPMorgan
+
+---
+
+## SNAP INC. (SNAP)
+
+**Discussion Driver:** Snap announced layoffs affecting approximately 1,000 employees (16% of full-time staff) and eliminating 300 open positions, targeting over $500 million in annualized cost reductions by H2 2026. The company reframed the cuts as a transition to AI-driven efficiency, sending shares up more than 5% on the news.
+
+**Bull Case:**
+- $500M+ annualized cost base reduction accelerates the path to free cash flow profitability
+- BMO Capital raised its price target to $15 (from $13) with Outperform, citing improved economics and AI-driven monetization
+
+**Bear Case:**
+- Structural competition from TikTok and Instagram Reels continues to suppress user growth and advertiser pricing power
+- Stock is down approximately 90% over the past five years; near-term cost-cut bounce may not sustain without revenue reacceleration
 
 **Recommendation:** Speculative Buy
 
 **Metrics:**
 | Metric | Value |
 |--------|-------|
-| Current Price | $45.44 |
-| Price Target | $64.84 avg (+43%) |
+| Current Price | $6.04 |
+| Price Target | $9.05 avg (+49.8%) |
 | P/E Ratio | N/A |
 | RSI | N/A |
-| Analyst Rating | Buy |
-| Sector | Consumer Discretionary |
+| vs 52-Wk High | -42.0% below high ($10.41) |
+| Analyst Rating | Hold |
+| Sector | Technology – Social Media |
 
-**Sources:** CNBC, Investing.com, GuruFocus, TheStreet, 247WallSt
-
----
-
-## ORACLE CORPORATION (ORCL)
-
-**Discussion Driver:** Stock surged 5%+ after a major power supply agreement with Bloom Energy to support AI infrastructure buildout; prior session already +12% on momentum. Cloud revenue up 41% YoY.
-
-**Bull Case:**
-- AI-driven cloud database demand growing at 243%+ YoY; multi-cloud database workloads up 531%
-- 35 analysts hold a Buy consensus with avg target of $261.29 — implying ~60% upside
-
-**Bear Case:**
-- Valuation has expanded sharply; near-term multiple compression risk if AI spending decelerates
-- Heavy capex requirements for AI infrastructure weigh on near-term free cash flow
-
-**Recommendation:** Buy
-
-**Metrics:**
-| Metric | Value |
-|--------|-------|
-| Current Price | ~$165 |
-| Price Target | $261.29 avg (+58%) |
-| P/E Ratio | N/A |
-| RSI | N/A |
-| Analyst Rating | Buy |
-| Sector | Technology – Cloud / Enterprise Software |
-
-**Sources:** IBTimes, Investing.com, Timothy Sykes, StockAnalysis
-
----
-
-## BROADCOM INC. (AVGO)
-
-**Discussion Driver:** Rose 4% after Meta Platforms extended its partnership with Broadcom for custom AI inference chips, deepening AVGO's position as the dominant custom silicon supplier to hyperscalers.
-
-**Bull Case:**
-- Meta deal extension locks in revenue visibility through 2027; custom AI ASIC demand growing rapidly
-- VMware integration synergies continue to compound; infrastructure software revenue gaining scale
-
-**Bear Case:**
-- Trailing P/E of 72.5 is the highest among large-cap semiconductor peers — expensive relative to growth
-- Customer concentration risk: significant dependence on Apple, Meta, and Google
-
-**Recommendation:** Hold
-
-**Metrics:**
-| Metric | Value |
-|--------|-------|
-| Current Price | $392.97 |
-| Price Target | N/A |
-| P/E Ratio | 72.48 |
-| RSI | N/A |
-| Analyst Rating | Buy |
-| Sector | Technology – Semiconductors |
-
-**Sources:** CNBC, Robinhood, StockAnalysis, MacroTrends
-
----
-
-## PEPSICO INC. (PEP)
-
-**Discussion Driver:** Q1 2026 earnings beat consensus — adjusted EPS of $1.61 vs. $1.55 expected; revenue of $19.44B vs. $18.95B expected, driven by Frito-Lay volume recovery and international growth.
-
-**Bull Case:**
-- Consistent earnings outperformance (beat in all 5 prior quarters); Frito-Lay snack volumes rebounding after price-driven declines
-- UBS maintains Buy with $186 target; defensive staples play offers stability amid geopolitical uncertainty
-
-**Bear Case:**
-- North American beverage volume growth remains sluggish; GLP-1 drug adoption is a long-term volume headwind for snacks
-- Stock already trades near analyst average target, limiting upside
-
-**Recommendation:** Hold
-
-**Metrics:**
-| Metric | Value |
-|--------|-------|
-| Current Price | $155.08 |
-| Price Target | $166.35 avg (+7%) |
-| P/E Ratio | 20.36 |
-| RSI | N/A |
-| Analyst Rating | Buy |
-| Sector | Consumer Staples |
-
-**Sources:** CNBC, Benzinga, Parameter.io, Public.com
-
----
-
-## EXXON MOBIL CORPORATION (XOM)
-
-**Discussion Driver:** Direct beneficiary of the Iran war and closure of the Strait of Hormuz; Brent Crude surpassed $120/barrel, making XOM one of the biggest YTD winners (+40%) in the S&P 500.
-
-**Bull Case:**
-- Highest-quality integrated energy balance sheet; Permian Basin production at record levels, offsetting Hormuz disruption
-- Windfall profits at $120 oil generate extraordinary free cash flow, supporting buybacks and dividends
-
-**Bear Case:**
-- Stock is trading at or above average analyst price target of ~$145-152, suggesting limited near-term upside
-- Any US-Iran peace deal or Hormuz reopening would rapidly deflate oil prices and the stock
-
-**Recommendation:** Hold
-
-**Metrics:**
-| Metric | Value |
-|--------|-------|
-| Current Price | ~$152 |
-| Price Target | $152.65 avg (+0.4%) |
-| P/E Ratio | 23.98 |
-| RSI | N/A |
-| Analyst Rating | Moderate Buy |
-| Sector | Energy |
-
-**Sources:** Motley Fool, 247WallSt, Investing.com, MarketBeat, IEA
-
----
-
-## CHEVRON CORPORATION (CVX)
-
-**Discussion Driver:** Highlighted by Wall Street as the preferred oil major in a Hormuz-disrupted environment; Permian Basin exposure insulates it from Middle East supply risk compared to more exposed peers.
-
-**Bull Case:**
-- Trading at $190 with a median analyst target of $209 (+10%); more near-term upside than XOM from current levels
-- Strong Permian Basin operations and downstream resilience make CVX a defensive energy play
-
-**Bear Case:**
-- P/E of 28.8 is elevated relative to historical energy sector norms
-- Kazakhstan Tengiz project cost overruns remain an operational drag on capital efficiency
-
-**Recommendation:** Buy
-
-**Metrics:**
-| Metric | Value |
-|--------|-------|
-| Current Price | $190.36 |
-| Price Target | $209.00 median (+10%) |
-| P/E Ratio | 28.8 |
-| RSI | N/A |
-| Analyst Rating | Buy |
-| Sector | Energy |
-
-**Sources:** Motley Fool, TipRanks, Investing.com, MarketBeat
-
----
-
-## ABBOTT LABORATORIES (ABT)
-
-**Discussion Driver:** Reported Q1 2026 results this morning — revenue of $11.16B topped expectations but EPS of $1.15 only matched consensus; company lowered full-year EPS guidance, sending shares down ~4%.
-
-**Bull Case:**
-- Exact Sciences acquisition (closed March 23) adds ~$3B in incremental 2026 revenue and significantly expands diagnostics capabilities
-- Q2 guidance of $1.25-$1.31 adjusted EPS suggests sequential improvement ahead
-
-**Bear Case:**
-- Full-year guidance cut is a red flag; stock is in a downtrend and selling off on earnings day
-- Integration risks from the large Exact Sciences deal may weigh on margins in the near term
-
-**Recommendation:** Hold
-
-**Metrics:**
-| Metric | Value |
-|--------|-------|
-| Current Price | $97.45 |
-| Price Target | N/A |
-| P/E Ratio | N/A |
-| RSI | N/A |
-| Analyst Rating | N/A |
-| Sector | Healthcare – Medical Devices |
-
-**Sources:** FinancialContent, Motley Fool, Benzinga, GuruFocus
-
----
-
-## CHARLES SCHWAB CORPORATION (SCHW)
-
-**Discussion Driver:** Reported Q1 2026 results — adjusted EPS of $1.43 beat the $1.38 consensus (+38% YoY) but net revenue of $6.48B missed estimates by $28M; shares fell ~2.5% despite record metrics.
-
-**Bull Case:**
-- Record $6.48B quarterly revenue (+16% YoY); total client assets hit $11.77 trillion (+19% YoY); 9.9M daily average trades is an all-time record
-- 1.3M new brokerage accounts added in Q1; $140B net new assets shows platform stickiness
-
-**Bear Case:**
-- Revenue miss despite bottom-line beat signals margin pressure; "buy the rumor, sell the news" dynamic at play
-- Rising rate environment has shifted net interest revenue dynamics unfavorably
-
-**Recommendation:** Hold
-
-**Metrics:**
-| Metric | Value |
-|--------|-------|
-| Current Price | N/A |
-| Price Target | N/A |
-| P/E Ratio | N/A |
-| RSI | N/A |
-| Analyst Rating | N/A |
-| Sector | Financials – Brokerage |
-
-**Sources:** Quiver Quantitative, Motley Fool, ChartMill, Yahoo Finance
+**Sources:** CNBC, BMO Capital Markets, Rosenblatt Securities, Investing.com, Motley Fool
 
 ---
 
 ## CATERPILLAR INC. (CAT)
 
-**Discussion Driver:** Stock dropped ~5% after Bloomberg reported CAT acquired Monarch Tractor (autonomous electric tractors), raising concerns about capital allocation at a lofty valuation. Morgan Stanley maintains Underweight.
+**Discussion Driver:** Bloomberg reported that Caterpillar acquired Monarch Tractor, a collapsed autonomous electric tractor startup, extending CAT's agricultural automation strategy. Shares dropped approximately 5% on the news as investors questioned capital allocation at stretched valuations. Tariff costs are expected to total $2.6 billion in 2026.
 
 **Bull Case:**
-- Citigroup has a Buy with a $905 price target, citing infrastructure supercycle and nearshoring-driven construction demand
-- Autonomous tractor technology (Monarch deal) positions CAT for long-term precision agriculture growth
+- Monarch Tractor acquisition bolsters long-term precision agriculture automation capabilities at distressed asset prices
+- Strong global infrastructure demand and robust backlog visibility underpin core equipment revenue
 
 **Bear Case:**
-- P/E of 41.4 is 106% above its 10-year median; consensus analyst average target of $702 implies ~11% downside from current price
-- Morgan Stanley is Underweight at a $430 target — a stark contrast to Citi's bullish view
+- $2.6 billion in projected tariff costs for 2026 will compress margins even as revenue holds steady
+- Stock currently trades approximately 2.1% above the analyst consensus price target, offering negligible near-term upside at current levels
 
-**Recommendation:** Sell
+**Recommendation:** Hold
 
 **Metrics:**
 | Metric | Value |
 |--------|-------|
-| Current Price | $790.66 |
-| Price Target | $702.37 avg (-11%) |
+| Current Price | $770.17 |
+| Price Target | $754.33 avg (-2.1% vs current) |
 | P/E Ratio | 41.44 |
 | RSI | N/A |
-| Analyst Rating | Buy (Divided) |
-| Sector | Industrials |
+| vs 52-Wk High | -3.6% below high ($798.54) |
+| Analyst Rating | Hold |
+| Sector | Industrials – Heavy Equipment |
 
-**Sources:** Bloomberg via CNBC, GuruFocus, MarketBeat, Benzinga
+**Sources:** Bloomberg, TechCrunch, SimplyWallSt, 247WallSt, GuruFocus
+
+---
+
+## LIVE NATION ENTERTAINMENT (LYV)
+
+**Discussion Driver:** A New York federal jury ruled that Live Nation and Ticketmaster operated an illegal monopoly over the live events ticketing market, overcharging fans. The verdict — a win for 33 states and the DOJ — found illegal control over 200+ major venues. Shares fell 6.3% to $155.82. A remedies trial will determine whether a forced Ticketmaster divestiture is ordered.
+
+**Bull Case:**
+- Live Nation is appealing the verdict; management stated "the game is not over," with strong free cash flow to fund a prolonged legal defense
+- Analyst consensus remains Strong Buy at $189.38 target, suggesting 21.5% upside even after the adverse ruling
+
+**Bear Case:**
+- A forced Ticketmaster divestiture would fundamentally restructure the business model and eliminate the integrated venue-ticketing flywheel
+- $700M+ in liability plus multi-year legal overhang creates persistent uncertainty for long-term investors
+
+**Recommendation:** Speculative Buy
+
+**Metrics:**
+| Metric | Value |
+|--------|-------|
+| Current Price | $155.82 |
+| Price Target | $189.38 avg (+21.5%) |
+| P/E Ratio | N/A |
+| RSI | N/A |
+| vs 52-Wk High | -11.1% below high ($175.25) |
+| Analyst Rating | Strong Buy |
+| Sector | Entertainment – Live Events |
+
+**Sources:** Bloomberg, NPR, Fox Business, CNN, GuruFocus, Parameter.io
+
+---
+
+## AUTODESK, INC. (ADSK)
+
+**Discussion Driver:** Jefferies initiated coverage on Autodesk with a Buy rating and a $300 price target on April 15, calling it a "durable double-digit grower" with one of the highest EBIT margins (~38%) in enterprise software. The firm dismissed market concerns about AI disruption to Autodesk's AEC (architecture, engineering & construction) customer base.
+
+**Bull Case:**
+- Capital-light model with approximately 38% EBIT margins and durable double-digit revenue growth through the late 2020s
+- Jefferies sees earnings and free cash flow compounding ahead, supported by AEC software's structural importance in global construction demand
+
+**Bear Case:**
+- Stock is down 26% from its 52-week high as the market prices in AI design-tool disruption risk to Autodesk's core workflows
+- AI-native design competitors (generative CAD, AI-assisted architecture) represent an emerging long-term competitive threat
+
+**Recommendation:** Buy
+
+**Metrics:**
+| Metric | Value |
+|--------|-------|
+| Current Price | $242.37 |
+| Price Target | $300.00 (Jefferies, +23.8%) |
+| P/E Ratio | N/A |
+| RSI | N/A |
+| vs 52-Wk High | -26.4% below high ($329.09) |
+| Analyst Rating | Buy |
+| Sector | Technology – Design Software |
+
+**Sources:** Jefferies, TipRanks, ProactiveInvestors, GuruFocus, Investing.com
+
+---
+
+## PALO ALTO NETWORKS, INC. (PANW)
+
+**Discussion Driver:** Named by a Hightower Advisors chief investment strategist as one of three high-conviction names to own in the current environment. PANW is navigating a sell-off driven by fears that AI-native security tools could disrupt traditional cybersecurity platforms, but its platformization strategy is showing early traction.
+
+**Bull Case:**
+- Platformization strategy consolidating enterprise security spend is gaining traction, simplifying IT architecture while growing wallet share
+- AI attack surface expansion is a structural tailwind for cybersecurity demand, benefiting PANW's integrated multi-product platform
+
+**Bear Case:**
+- Stock has declined 25.9% from its 52-week high, underperforming the broader tech rally significantly as AI disruption fears weigh on sentiment
+- AI-native security startups could disrupt PANW's traditional NGFW and SIEM product lines faster than anticipated
+
+**Recommendation:** Buy
+
+**Metrics:**
+| Metric | Value |
+|--------|-------|
+| Current Price | $165.79 |
+| Price Target | $215.97 avg (+30.3%) |
+| P/E Ratio | N/A |
+| RSI | N/A |
+| vs 52-Wk High | -25.9% below high ($223.61) |
+| Analyst Rating | Buy |
+| Sector | Technology – Cybersecurity |
+
+**Sources:** CNBC, Hightower Advisors, MarketBeat, TipRanks, Investing.com
+
+---
+
+## SERVICENOW, INC. (NOW)
+
+**Discussion Driver:** Named by Hightower Advisors as a core AI workflow holding. However, ServiceNow stock has fallen 54.5% from its 52-week high as investors fear AI agents could replace traditional ITSM workflows. Multiple analysts cut targets in April: Baird to $125 (from $175) and TD Cowen to $140 (from $185), though both maintain Buy ratings.
+
+**Bull Case:**
+- Deep enterprise integration and multi-year contract structures create high switching costs, protecting ServiceNow's $10B+ ARR revenue base
+- AI-native workflow automation could expand ServiceNow's addressable market well beyond traditional IT service management
+
+**Bear Case:**
+- Stock down 54.5% from 52-week high reflects deep investor fear that AI agents will automate the workflows ServiceNow charges to manage
+- Multiple analyst target cuts in April 2026 signal deteriorating near-term sentiment and execution uncertainty
+
+**Recommendation:** Hold
+
+**Metrics:**
+| Metric | Value |
+|--------|-------|
+| Current Price | $96.20 |
+| Price Target | $133.33 avg (+38.6%) |
+| P/E Ratio | N/A |
+| RSI | N/A |
+| vs 52-Wk High | -54.5% below high ($211.48) |
+| Analyst Rating | Buy |
+| Sector | Technology – Enterprise Software |
+
+**Sources:** CNBC, Hightower Advisors, Deutsche Bank, Baird, TD Cowen, Benzinga
 
 ---
 
 ## DAILY INSIGHTS
 
-- **Most Bullish Sector:** Energy — Iran war and Hormuz blockade have driven Brent Crude above $120/barrel; XOM and CVX up ~40% YTD as supply shock reshapes global energy markets
-- **Most Bearish Sector:** Consumer Discretionary — tariffs on imported goods (footwear, electronics) are squeezing margins; Nike down 25%+ YTD with CAT peers also under pressure from trade uncertainty
-- **Most Mentioned Stock:** NVDA — AI sentiment anchor for the entire market; positive TSMC read-through and a record consecutive winning-session streak kept it at the center of every major financial media conversation
-- **Sentiment Shift:** Markets pivoted from Iran war fears (which had caused brief sell-offs in early April) to cautious optimism as the US and Iran reportedly discussed a potential peace deal; the S&P 500 and Nasdaq closed at record highs on April 15, with today's session consolidating near those levels. Earnings season is broadly tracking ahead of expectations, reinforcing the bullish bias.
+- **Most Bullish Sector:** Technology / Semiconductors — AI infrastructure spending is accelerating into a $1 trillion global chip market milestone in 2026, with NVDA and AVGO at the epicenter. The NASDAQ posted its 12th consecutive positive session, its longest winning streak since 2009.
+- **Most Bearish Sector:** Technology / Enterprise Software — ServiceNow and Palo Alto Networks are trading 26–55% below their 52-week highs as AI disruption fears pressure traditional SaaS and cybersecurity valuations, with multiple analyst price target cuts signaling near-term caution.
+- **Most Mentioned Stock:** NVDA — Nvidia appears across virtually every major analyst's top picks list, with 38+ Buy ratings, 44% upside to the average price target, and its 10th consecutive day of gains anchoring broader AI market sentiment.
+- **Sentiment Shift:** The tone has shifted decisively from geopolitical risk-off (Iran war fears dominated late March through early April) to cautious optimism, with the S&P 500 and Nasdaq posting fresh record highs on Iran ceasefire hopes. Earnings season is broadly beating expectations, led by Netflix's Q1 revenue beat — though Netflix's soft Q2 guidance and the Live Nation monopoly verdict introduced the first notable negative catalysts of the week, testing the market's bullish conviction heading into the weekend.
 
 ---
 
