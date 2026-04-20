@@ -1,0 +1,138 @@
+{
+  "report_date": "2026-04-19",
+  "market_data_date": "2026-04-17",
+  "market_note": "April 19 is a Saturday; data reflects Friday April 17 close (most recent trading day)",
+  "market_tone": "Bullish",
+  "key_themes": [
+    "Iran/Strait of Hormuz ceasefire relief rally",
+    "AI infrastructure buildout (Oracle, CoreWeave)",
+    "Earnings season (Netflix, UnitedHealth preview)",
+    "Travel & consumer discretionary recovery",
+    "Energy sector rotation/selloff",
+    "Analyst upgrades in tech and fintech"
+  ],
+  "sp500": {
+    "value": "7,041.28",
+    "change": "+0.62%",
+    "note": "Record closing high"
+  },
+  "nasdaq": {
+    "value": "24,468.48",
+    "change": "+0.95%",
+    "note": "13th consecutive daily gain — longest streak since 1992"
+  },
+  "stocks": [
+    {
+      "ticker": "NFLX",
+      "company": "Netflix Inc.",
+      "reason": "Q1 2026 revenue beat (+16% YoY to $12.25B) but Q2 guidance missed consensus; stock fell ~10% after-hours. Co-founder Reed Hastings also announced he is stepping down after 29 years.",
+      "category": "earnings",
+      "sources": ["CNBC", "Bloomberg", "Yahoo Finance", "Variety", "Hollywood Reporter"]
+    },
+    {
+      "ticker": "ORCL",
+      "company": "Oracle Corporation",
+      "reason": "Surged ~30% for the week on massive AI momentum — remaining performance obligations hit $553B (up 325% YoY), including contracts with OpenAI, Meta, and xAI. Additional catalyst: a deal to procure 2.8 GW of power from Bloom Energy for AI data centers.",
+      "category": "sector",
+      "sources": ["CNBC", "Yahoo Finance", "24/7 Wall St.", "FX Leaders"]
+    },
+    {
+      "ticker": "RCL",
+      "company": "Royal Caribbean Group",
+      "reason": "Surged 9.7% as Iran declared the Strait of Hormuz fully open under ceasefire, driving a broad travel and consumer discretionary rally.",
+      "category": "news",
+      "sources": ["CNBC", "TheStreet", "247wallst.com"]
+    },
+    {
+      "ticker": "UAL",
+      "company": "United Airlines Holdings",
+      "reason": "Jumped more than 9% alongside the broader travel rally triggered by the Iran ceasefire and reopening of the Strait of Hormuz.",
+      "category": "news",
+      "sources": ["CNBC", "TheStreet"]
+    },
+    {
+      "ticker": "EXPE",
+      "company": "Expedia Group Inc.",
+      "reason": "Gained approximately 5% as geopolitical relief from the Iran ceasefire boosted the entire travel sector.",
+      "category": "news",
+      "sources": ["CNBC"]
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple Inc.",
+      "reason": "Rose ~1.4% after Reuters reported iPhone shipments in China jumped 20% in Q1 2026; Bank of America reiterated Buy, calling it the 'highest quality name' and a 'high-quality compounder.'",
+      "category": "news",
+      "sources": ["CNBC", "Yahoo Finance"]
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA Corporation",
+      "reason": "On pace for its 11th consecutive winning session — the longest daily win streak on record — amid ongoing AI infrastructure investment enthusiasm and recurring positive analyst coverage.",
+      "category": "sector",
+      "sources": ["CNBC", "Yahoo Finance"]
+    },
+    {
+      "ticker": "BE",
+      "company": "Bloom Energy Corporation",
+      "reason": "Soared 22% after Oracle announced a deal to procure up to 2.8 gigawatts of on-site fuel cell capacity from Bloom Energy to power AI data centers, plus a $400M warrant.",
+      "category": "news",
+      "sources": ["CNBC", "Yahoo Finance", "HeyGoTrade"]
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla Inc.",
+      "reason": "UBS upgraded Tesla to Neutral from Sell, citing that current share levels 'more evenly balance' near-term demand challenges with its long-term physical AI opportunity.",
+      "category": "upgrade",
+      "sources": ["Yahoo Finance", "CNBC", "TipRanks"]
+    },
+    {
+      "ticker": "APP",
+      "company": "AppLovin Corporation",
+      "reason": "Argus initiated coverage with a Buy rating and $520 price target; Wells Fargo raised its price target to $560 (from $543), keeping Overweight, citing strong double-digit revenue growth and margin expansion.",
+      "category": "upgrade",
+      "sources": ["Yahoo Finance", "CNBC", "Bloomberg"]
+    },
+    {
+      "ticker": "CRWV",
+      "company": "CoreWeave Inc.",
+      "reason": "Wolfe Research initiated coverage at Outperform, noting the company has a differentiated AI cloud infrastructure offering; also featured in CNBC's Thursday top analyst calls.",
+      "category": "upgrade",
+      "sources": ["CNBC"]
+    },
+    {
+      "ticker": "AFRM",
+      "company": "Affirm Holdings Inc.",
+      "reason": "Jumped more than 3% after Morgan Stanley named it a top pick, citing potential for significant earnings upside in the buy-now-pay-later space.",
+      "category": "upgrade",
+      "sources": ["CNBC", "Yahoo Finance"]
+    },
+    {
+      "ticker": "XOM",
+      "company": "Exxon Mobil Corporation",
+      "reason": "Fell more than 5% as oil prices plunged 12%+ following Iran's declaration that the Strait of Hormuz is 'completely open'; one of the largest one-day drops in the energy sector in a year.",
+      "category": "news",
+      "sources": ["CNBC", "Seeking Alpha", "Benzinga"]
+    },
+    {
+      "ticker": "OXY",
+      "company": "Occidental Petroleum Corporation",
+      "reason": "Dropped approximately 7% as the Iran ceasefire and sharp oil price decline triggered a sector-wide selloff in energy stocks.",
+      "category": "news",
+      "sources": ["Yahoo Finance", "Benzinga"]
+    },
+    {
+      "ticker": "APA",
+      "company": "APA Corporation",
+      "reason": "Shed more than 9% — one of the worst performers in the energy selloff — as WTI crude futures posted their sharpest single-session decline since April 2020 on ceasefire news.",
+      "category": "news",
+      "sources": ["CNBC", "Benzinga"]
+    },
+    {
+      "ticker": "UNH",
+      "company": "UnitedHealth Group Inc.",
+      "reason": "Featured in Friday analyst calls ahead of its Q1 2026 earnings on April 21; Bank of America raised price target to $337 following CMS finalizing Medicare Advantage rates with a net +2.48% increase.",
+      "category": "earnings",
+      "sources": ["CNBC", "Yahoo Finance", "24/7 Wall St."]
+    }
+  ]
+}
