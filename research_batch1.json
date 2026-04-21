@@ -1,133 +1,127 @@
 {
-  "report_date": "2026-04-19",
+  "report_date": "2026-04-20",
   "batch": 1,
-  "market_tone": "Bullish",
+  "market_tone": "Neutral",
   "key_themes": [
-    "Iran/Strait of Hormuz ceasefire relief rally",
-    "AI infrastructure buildout (Oracle, CoreWeave)",
-    "Earnings season (Netflix, UnitedHealth preview)",
-    "Travel & consumer discretionary recovery",
-    "Energy sector rotation/selloff",
-    "Analyst upgrades in tech and fintech"
+    "Apple CEO leadership transition (Tim Cook → John Ternus)",
+    "Q1 2026 earnings season peak week (Tesla, Boeing, IBM, GE Vernova)",
+    "US-Iran geopolitical tensions weighing on sentiment",
+    "Industrial sector rally (SHW, HD, CAT, MMM)",
+    "AI infrastructure and enterprise AI spend",
+    "Defense sector in focus amid geopolitical risks"
   ],
-  "sp500": {
-    "value": "7,041.28",
-    "change": "+0.62%"
-  },
-  "nasdaq": {
-    "value": "24,468.48",
-    "change": "+0.95%"
-  },
+  "sp500": {"value": "7,109.14", "change": "-0.24%"},
+  "nasdaq": {"value": "24,404.39", "change": "-0.26%"},
   "stocks": [
     {
-      "ticker": "NFLX",
-      "company": "Netflix Inc.",
-      "discussion_driver": "Netflix reported Q1 2026 revenue of $12.25B (+16% YoY), beating estimates with EPS boosted by a $2.8B Warner Bros. termination fee, but Q2 guidance of $12.57B fell short of the $12.63B consensus, sending shares down ~10% after-hours. Co-founder and longtime chairman Reed Hastings also announced he will exit the board in June to focus on philanthropy, adding a leadership transition overhang to the post-earnings weakness.",
+      "ticker": "AAPL",
+      "company": "Apple Inc.",
+      "discussion_driver": "Apple shocked markets after hours on April 20 by announcing Tim Cook will step down as CEO effective September 1, 2026, with hardware engineering chief John Ternus named as successor. Cook, who oversaw more than 1,000% stock gains since 2011, will become executive chairman. Shares slid over 1% in extended trading on the surprise announcement, with Wedbush's Dan Ives flagging significant pressure on Ternus to deliver on AI from day one.",
       "bull_case": [
-        "Advertising revenue is on track to double to $3B in 2026, validating Netflix's ad-supported tier as a major incremental growth driver; full-year guidance of $50.7–$51.7B was maintained despite Q2 conservatism, signaling management confidence in H2 content slate strength.",
-        "Netflix's dominant streaming position — with no credible near-term competitor — combined with a proven price-increase playbook and continued international expansion gives the business durable pricing power and multiple paths to margin expansion."
+        "Cook remains as executive chairman ensuring institutional continuity, while Ternus — who led Apple Silicon, iPhone, Mac, and AirPods hardware engineering — brings deep execution expertise at a critical time for Vision Pro and next-gen AI device strategy.",
+        "Apple's $4 trillion market cap is underpinned by a dominant services flywheel with over $416B in annual revenue; the 2+ billion active device installed base generates recurring subscription income that is largely CEO-agnostic and provides durable earnings resilience."
       ],
       "bear_case": [
-        "Q2 revenue guidance implies deceleration to ~12% FX-neutral growth from Q1's 14%, and the Q2 guidance miss relative to consensus suggests analysts may need to re-baseline forward estimates downward, putting pressure on the premium 40x PE multiple.",
-        "Reed Hastings' board exit removes the company's founding visionary at a pivotal strategic moment, creating uncertainty about long-term cultural direction and increasing headline risk for an already pressured stock."
+        "Markets historically apply a risk premium to CEO transitions at mega-cap companies, and analyst consensus flags that Ternus will face immediate pressure to demonstrate AI capabilities in areas — generative AI features, Siri overhaul — where Apple has visibly lagged Google, Microsoft, and OpenAI.",
+        "Ongoing tariffs from the Trump administration on Chinese manufacturing and an intensifying memory crunch tied to AI chip demand create near-term margin headwinds, while a complex geopolitical supply chain is harder for a new CEO to navigate without Cook's established relationships."
       ],
       "recommendation": "Hold",
-      "current_price": "$97.31",
-      "price_target": "$119.13 (+22.4%)",
-      "pe_ratio": "40.76",
-      "rsi": "N/A",
-      "vs_52wk_high": "-27.4% below high ($134.12)",
+      "current_price": "$273.05",
+      "price_target": "$301.33 (+10.4%)",
+      "pe_ratio": "32.93",
+      "rsi": "50.37",
+      "vs_52wk_high": "-5.4% below high ($288.62)",
       "analyst_rating": "Buy",
-      "sector": "Communication Services - Streaming",
-      "sources": ["CNBC", "Variety", "Hollywood Reporter", "Yahoo Finance", "Investing.com", "MarketBeat"]
+      "sector": "Technology - Consumer Electronics",
+      "sources": ["CNBC", "TechCrunch", "9to5Mac", "Yahoo Finance", "Investing.com", "stockanalysis.com", "marketbeat.com"]
     },
     {
-      "ticker": "ORCL",
-      "company": "Oracle Corporation",
-      "discussion_driver": "Oracle surged ~30% during the week as its Remaining Performance Obligations (RPO) hit $553B — up 325% YoY — driven by landmark AI cloud contracts with OpenAI, Meta, and xAI. A new deal to procure up to 2.8 GW of on-site fuel cell power from Bloom Energy for AI data centers further cemented Oracle's emergence as the leading alternative AI infrastructure provider to AWS and Azure.",
+      "ticker": "TSLA",
+      "company": "Tesla, Inc.",
+      "discussion_driver": "Tesla reports Q1 2026 earnings on April 22, with the options market implying a ~6% move. Q1 deliveries of 358,023 vehicles came in below internal consensus of ~365K, and analysts expect operating margins below 3%. Jefferies raised its price target from $300 to $350 but maintains a Hold, noting that without a credible robotaxi update, doubts around long-term strategy could increase. The stock slipped ~2% on April 20 ahead of the report.",
       "bull_case": [
-        "The $553B RPO backlog — equivalent to roughly 3x Oracle's annual revenue — represents years of locked-in contracted cloud revenue and is the strongest forward visibility signal in enterprise tech, with analysts targeting ~$261 and implying ~49% upside from current levels.",
-        "AI contracts are structured with customer prepayments or customer-supplied GPUs, significantly limiting Oracle's capital deployment risk while its multi-cloud infrastructure positions it to benefit from hyperscaler customers seeking redundancy away from AWS and Azure."
+        "The April 22 earnings event is a near-term catalyst — a credible robotaxi rollout update or better-than-feared margins could trigger the options-implied 6% move higher, and Tesla's energy storage and Megapack businesses provide high-margin revenue diversification beyond the pressured automotive segment.",
+        "Tesla's AI-driven Full Self-Driving subscription upgrades represent significant optionality not captured in traditional auto P/E frameworks; any positive signal on FSD monetization or the SpaceX merger speculation could re-rate the stock meaningfully from current levels."
       ],
       "bear_case": [
-        "Oracle's non-current debt has surged to $124.7B (up from $85.3B at fiscal year-end) and the company is expected to generate minimal free cash flow until the 2030s, creating significant balance sheet risk if AI contract conversion timelines slip or OpenAI concentration risk materializes.",
-        "The stock remains ~49% below its 52-week high of $345.68, reflecting deep market skepticism about near-term earnings power; technical analysis signals are bearish, and a Melius analyst has downgraded to Hold arguing the stock should trade more like an infrastructure company than a software business."
-      ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$175.06",
-      "price_target": "$261.29 (+49.3%)",
-      "pe_ratio": "31.34",
-      "rsi": "N/A",
-      "vs_52wk_high": "-49.4% below high ($345.68)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Cloud/Enterprise Software",
-      "sources": ["CNBC", "Yahoo Finance", "24/7 Wall St.", "Seeking Alpha", "Invezz", "StockAnalysis", "MarketBeat"]
-    },
-    {
-      "ticker": "RCL",
-      "company": "Royal Caribbean Group",
-      "discussion_driver": "Royal Caribbean surged ~9.7% on April 17 after Iran declared the Strait of Hormuz 'completely open' under ceasefire terms, triggering a sector-wide travel rally. The relief is especially material for RCL since fuel is one of its largest operating costs — WTI crude plunged ~12% on the news — and geopolitical de-escalation directly improves consumer confidence for international cruise bookings heading into the peak summer season.",
-      "bull_case": [
-        "The Iran ceasefire removes the single largest macro overhang on Royal Caribbean's cost structure by sending oil prices sharply lower; with fuel representing a major share of operating expenses and the company unhedged in the near term, every sustained dollar decline in crude oil directly improves margins.",
-        "Royal Caribbean's 'Trifecta' strategic program has consistently driven earnings beats through pricing power, new ship deployments, and onboard revenue growth, and the current geopolitical relief positions RCL to reassert premium valuation as the stock remains ~22% below its 52-week high."
-      ],
-      "bear_case": [
-        "The ceasefire-driven surge may prove short-lived; if geopolitical tensions re-escalate or the ceasefire collapses, fuel costs would rebound quickly, consumer confidence would be dented, and RCL's high-beta characteristics would amplify any reversal more than the broader market.",
-        "At 22x trailing earnings with significant leverage on the balance sheet from fleet expansion, RCL has limited valuation cushion if broader consumer discretionary demand softens due to macro pressures or a U.S. recession scenario in 2026."
-      ],
-      "recommendation": "Buy",
-      "current_price": "$285.48",
-      "price_target": "$353.44 (+23.8%)",
-      "pe_ratio": "22.26",
-      "rsi": "N/A",
-      "vs_52wk_high": "-22.1% below high ($366.50)",
-      "analyst_rating": "Buy",
-      "sector": "Consumer Discretionary - Cruise Lines",
-      "sources": ["CNBC", "TheStreet", "247wallst.com", "Seeking Alpha", "Benzinga", "Motley Fool", "MarketBeat"]
-    },
-    {
-      "ticker": "UAL",
-      "company": "United Airlines Holdings",
-      "discussion_driver": "United Airlines jumped more than 9% on April 17 as the Iran ceasefire sent WTI crude futures down ~12%, providing critical relief for an airline that does not hedge its jet fuel exposure. The fuel cost relief arrives at a pivotal moment: Q1 2026 earnings are due in late April with EPS estimates already cut 18% over the past 60 days due to prior fuel cost headwinds, and UAL had been forced to cut 5% of capacity and suspend inefficient routes.",
-      "bull_case": [
-        "UAL trades at an extremely low 8.7x trailing PE — near its 10-year median of 9.07x — and carries a Strong Buy consensus among analysts targeting ~$131, representing ~29% upside; the combination of cheap valuation and the sudden fuel cost tailwind from the ceasefire creates a compelling risk/reward entry.",
-        "Despite macro headwinds, United's premium cabin and transatlantic routes continue to show resilient demand, and the 'United Next' transformation program is on track to deliver structural cost improvements and fleet modernization that should expand margins as jet fuel normalizes."
-      ],
-      "bear_case": [
-        "UAL and the major U.S. carriers do not hedge jet fuel, leaving them fully exposed to any oil price reversal if the ceasefire breaks down; a single escalation event could quickly erase Friday's gains and restore the fuel headwinds that caused the 18% EPS estimate cuts.",
-        "Q1 2026 EPS consensus has been revised down 18% in 60 days to ~$1.08, the airline has cut 5% of capacity, and margin guidance has been trimmed — indicating genuine underlying demand/cost pressure that a one-day oil price move does not resolve."
-      ],
-      "recommendation": "Buy",
-      "current_price": "$101.80",
-      "price_target": "$131.19 (+28.9%)",
-      "pe_ratio": "8.71",
-      "rsi": "N/A",
-      "vs_52wk_high": "-14.6% below high ($119.21)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Industrials - Airlines",
-      "sources": ["CNBC", "TheStreet", "Yahoo Finance", "Benzinga", "TIKR", "Markets Daily", "TradingKey"]
-    },
-    {
-      "ticker": "EXPE",
-      "company": "Expedia Group Inc.",
-      "discussion_driver": "Expedia gained ~5% on April 17 as the Iran ceasefire boosted the entire online travel sector, reversing a key headwind: the Strait of Hormuz crisis had caused over 20,000 flight cancellations and temporary hub closures in the Middle East, suppressing summer booking demand. The ceasefire normalizes those routes and restores consumer confidence for international leisure travel, which is Expedia's core revenue driver.",
-      "bull_case": [
-        "Expedia's platform diversification — spanning Vrbo, Hotels.com, and its B2B partner network — gives it multiple levers to capture recovering leisure and business travel demand; Bernstein noted online travel agencies are seeing high-single to low-double-digit volume growth with Expedia particularly well-positioned to outpace peers in Q1.",
-        "Management targets 2026 revenue of $15.6–$16.0B with EPS of ~$19.35 (up 22% YoY), and the ceasefire-driven normalization of Middle East travel routes removes a significant wildcard from the summer booking outlook, potentially supporting upside to guidance."
-      ],
-      "bear_case": [
-        "The analyst consensus sits at Hold with 69% of covering analysts advising to hold, and the average price target of ~$282 implies only ~6% upside from current levels — a modest reward that barely compensates for the macro and competitive risks from Airbnb and Google's growing travel ecosystem.",
-        "Expedia issued cautious margin guidance in early 2026, and Truist cut its price target in April citing geopolitical risk and softening macro visibility; while the ceasefire helps, any re-escalation or a domestic consumer slowdown could quickly outweigh the single-day relief rally."
+        "Q1 deliveries missed internal consensus, operating margins are projected below 3%, and free cash flow is forecast to turn deeply negative (~$5.5B) in 2026 as capital expenditures surge to $19-20B annually — a challenging financial backdrop for a stock trading at a 385x trailing P/E.",
+        "The consensus analyst price target of ~$397 represents minimal upside from current levels, and with a Hold consensus and intensifying competition from BYD and legacy OEMs, any earnings miss or weak robotaxi guidance on April 22 could accelerate the stock's 21% drawdown from its 52-week high."
       ],
       "recommendation": "Hold",
-      "current_price": "$265.79",
-      "price_target": "$282.29 (+6.2%)",
-      "pe_ratio": "22.51",
-      "rsi": "63.19",
-      "vs_52wk_high": "-12.5% below high ($303.80)",
+      "current_price": "$392.61",
+      "price_target": "$397.35 (+1.2%)",
+      "pe_ratio": "384.64",
+      "rsi": "N/A",
+      "vs_52wk_high": "-21.3% below high ($498.83)",
       "analyst_rating": "Hold",
-      "sector": "Consumer Discretionary - Online Travel",
-      "sources": ["CNBC", "MarketBeat", "StockAnalysis", "Bernstein", "Truist", "Jefferies", "Simply Wall St", "FinancialContent"]
+      "sector": "Consumer Discretionary - Electric Vehicles",
+      "sources": ["CNBC", "Seeking Alpha", "Yahoo Finance", "IG International", "coindcx.com", "invezz.com", "ca.investing.com"]
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA Corporation",
+      "discussion_driver": "NVIDIA was featured in Monday's analyst calls as investors buy the dip following the Magnificent 7 pullback earlier in 2026. The stock trades ~4.5% below its 52-week high with a Strong Buy consensus from 94% of covering analysts. CEO Jensen Huang's GTC 2026 assertion of at least $1 trillion in Blackwell and Vera Rubin GPU orders through 2027 — with firm commitments from Meta, OpenAI, and CoreWeave — underpins the AI infrastructure bull thesis.",
+      "bull_case": [
+        "NVIDIA's Q4 FY26 revenue of $68.13B grew 73.2% year-over-year, with Data Center Networking up 263% — signaling full-stack platform stickiness that raises customer switching costs and cements NVIDIA's competitive moat across the AI infrastructure stack.",
+        "With a $1 trillion forward order backlog and 94% of covering analysts rating the stock Buy or Strong Buy, the current ~$202 price represents a buy-the-dip entry with 31%+ upside to the $264 analyst consensus target and 36% to the $275 high-end target."
+      ],
+      "bear_case": [
+        "Export restrictions have effectively zeroed out what was $17.1B in China and Hong Kong revenue in FY2025, and the Trump administration's global licensing review for large-scale chip shipments extends geopolitical revenue risk beyond China to additional markets.",
+        "NVDA's 41x trailing P/E embeds near-perfect execution with much of the bull thesis dependent on cash flows arriving after 2030, leaving minimal margin of safety if competing AI chips from AMD, Intel, or hyperscaler custom silicon gain meaningful traction sooner than expected."
+      ],
+      "recommendation": "Buy",
+      "current_price": "$201.68",
+      "price_target": "$264.54 (+31.2%)",
+      "pe_ratio": "41.16",
+      "rsi": "69.77",
+      "vs_52wk_high": "-4.5% below high ($211.19)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Technology - Semiconductors",
+      "sources": ["CNBC", "Yahoo Finance", "stockanalysis.com", "marketbeat.com", "247wallst.com", "TipRanks", "TIKR.com", "Investing.com"]
+    },
+    {
+      "ticker": "DELL",
+      "company": "Dell Technologies Inc.",
+      "discussion_driver": "Melius Research reaffirmed its Buy rating and raised its two-year price target for Dell from $200 to $245 on April 20, citing growing AI server demand and expanding market share. The stock rose 3.47% to a new all-time high near $203.69. This follows Q4 FY26 AI-optimized server revenue of $8.95B (up 342% YoY) and a record $43B AI backlog entering FY27, prompting Goldman Sachs, Mizuho, and BofA to all recently lift their 12-month targets to the $205-$215 range.",
+      "bull_case": [
+        "Dell's AI server business is in hypergrowth — $8.95B in Q4 FY26 AI-optimized server revenue (up 342% YoY) and a $43B record backlog entering FY27 provide multi-year revenue visibility that most analysts believe is still underpriced relative to Dell's approximately 20x P/E multiple.",
+        "Multiple tier-1 investment banks — Goldman Sachs, Mizuho, and BofA — have raised targets to $205-$215 in recent weeks, with Melius now projecting $245 on a two-year basis, reflecting growing consensus that Dell's AI infrastructure market share gains represent a structural earnings step-change."
+      ],
+      "bear_case": [
+        "Dell's traditional PC and enterprise hardware segments face secular demand headwinds, and heavy concentration in AI-server revenue creates earnings volatility risk if hyperscaler CapEx cycles pause or shift toward custom silicon alternatives from Broadcom or Marvell.",
+        "At approximately 20x trailing earnings and at all-time highs after a massive run, Dell's valuation already incorporates significant AI server outperformance, narrowing the margin of safety if AI infrastructure spending decelerates or competitive pricing compresses server gross margins."
+      ],
+      "recommendation": "Buy",
+      "current_price": "$203.69",
+      "price_target": "$215.00 (+5.6%)",
+      "pe_ratio": "20.91",
+      "rsi": "63.5",
+      "vs_52wk_high": "At 52-week high (~$203.69)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - IT Infrastructure",
+      "sources": ["CNBC", "gurufocus.com", "tradingkey.com", "TIKR.com", "stockanalysis.com", "Yahoo Finance"]
+    },
+    {
+      "ticker": "SHW",
+      "company": "The Sherwin-Williams Company",
+      "discussion_driver": "Sherwin-Williams led the broad industrial sector rally on April 20, rising 4.22% to $347.61 as investors rotated into defensive industrial names amid US-Iran geopolitical uncertainty. Q1 2026 earnings are scheduled for April 28 before market open with analysts projecting EPS of $2.34 (up 4% YoY). UBS maintained its Buy rating while trimming its target from $420 to $380, reflecting energy cost headwinds tied to geopolitical tensions that could pressure paint manufacturing margins.",
+      "bull_case": [
+        "Q1 2026 earnings on April 28 are an imminent catalyst; SHW's PRO-contractor segment has demonstrated consistent pricing power, and full-year FY2026 EPS is projected to grow 4.2% to $11.80 — with potential H2 upside if early price increases offset energy cost headwinds ahead of schedule.",
+        "Sherwin-Williams holds a dominant market position in professional paint contracting and benefits from structural demand recovery potential: any Fed rate cut progress in H2 2026 that stimulates housing market activity could unlock significant pent-up residential repaint demand and accelerate earnings re-rating toward the $384 analyst consensus target."
+      ],
+      "bear_case": [
+        "Elevated mortgage rates and persistent housing affordability constraints continue to suppress home sales and renovation activity — the primary demand drivers for Sherwin-Williams — and the company has already issued conservative FY2026 profit guidance below Wall Street estimates.",
+        "US-Iran geopolitical tensions are driving energy cost inflation that pressures paint manufacturing input costs, and with shares still 8.4% below their 52-week high despite today's rally, the stock's extended period of underperformance reflects genuine market skepticism about near-term demand recovery."
+      ],
+      "recommendation": "Buy",
+      "current_price": "$347.61",
+      "price_target": "$384.64 (+10.7%)",
+      "pe_ratio": "30.96",
+      "rsi": "40.8",
+      "vs_52wk_high": "-8.4% below high ($379.65)",
+      "analyst_rating": "Buy",
+      "sector": "Materials - Paints & Coatings",
+      "sources": ["CNBC", "Barchart", "marketbeat.com", "stockanalysis.com", "gurufocus.com", "financialcontent.com", "public.com"]
     }
   ]
 }
