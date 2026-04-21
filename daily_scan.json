@@ -1,138 +1,121 @@
 {
-  "report_date": "2026-04-19",
-  "market_data_date": "2026-04-17",
-  "market_note": "April 19 is a Saturday; data reflects Friday April 17 close (most recent trading day)",
-  "market_tone": "Bullish",
+  "report_date": "2026-04-20",
+  "market_tone": "Neutral",
   "key_themes": [
-    "Iran/Strait of Hormuz ceasefire relief rally",
-    "AI infrastructure buildout (Oracle, CoreWeave)",
-    "Earnings season (Netflix, UnitedHealth preview)",
-    "Travel & consumer discretionary recovery",
-    "Energy sector rotation/selloff",
-    "Analyst upgrades in tech and fintech"
+    "Apple CEO leadership transition (Tim Cook → John Ternus)",
+    "Q1 2026 earnings season peak week (Tesla, Boeing, IBM, GE Vernova)",
+    "US-Iran geopolitical tensions weighing on sentiment",
+    "Industrial sector rally (SHW, HD, CAT, MMM)",
+    "AI infrastructure and enterprise AI spend",
+    "Defense sector in focus amid geopolitical risks"
   ],
-  "sp500": {
-    "value": "7,041.28",
-    "change": "+0.62%",
-    "note": "Record closing high"
-  },
-  "nasdaq": {
-    "value": "24,468.48",
-    "change": "+0.95%",
-    "note": "13th consecutive daily gain — longest streak since 1992"
-  },
+  "sp500": {"value": "7,109.14", "change": "-0.24%"},
+  "nasdaq": {"value": "24,404.39", "change": "-0.26%"},
   "stocks": [
-    {
-      "ticker": "NFLX",
-      "company": "Netflix Inc.",
-      "reason": "Q1 2026 revenue beat (+16% YoY to $12.25B) but Q2 guidance missed consensus; stock fell ~10% after-hours. Co-founder Reed Hastings also announced he is stepping down after 29 years.",
-      "category": "earnings",
-      "sources": ["CNBC", "Bloomberg", "Yahoo Finance", "Variety", "Hollywood Reporter"]
-    },
-    {
-      "ticker": "ORCL",
-      "company": "Oracle Corporation",
-      "reason": "Surged ~30% for the week on massive AI momentum — remaining performance obligations hit $553B (up 325% YoY), including contracts with OpenAI, Meta, and xAI. Additional catalyst: a deal to procure 2.8 GW of power from Bloom Energy for AI data centers.",
-      "category": "sector",
-      "sources": ["CNBC", "Yahoo Finance", "24/7 Wall St.", "FX Leaders"]
-    },
-    {
-      "ticker": "RCL",
-      "company": "Royal Caribbean Group",
-      "reason": "Surged 9.7% as Iran declared the Strait of Hormuz fully open under ceasefire, driving a broad travel and consumer discretionary rally.",
-      "category": "news",
-      "sources": ["CNBC", "TheStreet", "247wallst.com"]
-    },
-    {
-      "ticker": "UAL",
-      "company": "United Airlines Holdings",
-      "reason": "Jumped more than 9% alongside the broader travel rally triggered by the Iran ceasefire and reopening of the Strait of Hormuz.",
-      "category": "news",
-      "sources": ["CNBC", "TheStreet"]
-    },
-    {
-      "ticker": "EXPE",
-      "company": "Expedia Group Inc.",
-      "reason": "Gained approximately 5% as geopolitical relief from the Iran ceasefire boosted the entire travel sector.",
-      "category": "news",
-      "sources": ["CNBC"]
-    },
     {
       "ticker": "AAPL",
       "company": "Apple Inc.",
-      "reason": "Rose ~1.4% after Reuters reported iPhone shipments in China jumped 20% in Q1 2026; Bank of America reiterated Buy, calling it the 'highest quality name' and a 'high-quality compounder.'",
+      "reason": "Major breaking news: Tim Cook announced he will step down as CEO effective September 1, 2026, with hardware engineering chief John Ternus named as his successor. Stock slid in extended trading on the surprise announcement.",
       "category": "news",
-      "sources": ["CNBC", "Yahoo Finance"]
+      "sources": ["CNBC", "Bloomberg", "Yahoo Finance", "Seeking Alpha", "Apple Newsroom"]
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla, Inc.",
+      "reason": "Reports Q1 2026 earnings on Wednesday April 22; options market implies a ~6% move. Jefferies raised its price target to $350 from $300 ahead of results, expecting ~40% year-on-year earnings growth.",
+      "category": "earnings",
+      "sources": ["CNBC", "Seeking Alpha", "Yahoo Finance"]
     },
     {
       "ticker": "NVDA",
       "company": "NVIDIA Corporation",
-      "reason": "On pace for its 11th consecutive winning session — the longest daily win streak on record — amid ongoing AI infrastructure investment enthusiasm and recurring positive analyst coverage.",
+      "reason": "Featured in Monday analyst calls; continued discussion around AI chip demand and Magnificent 7 recovery from earlier-year pullback. Investors buying the dip.",
       "category": "sector",
-      "sources": ["CNBC", "Yahoo Finance"]
+      "sources": ["CNBC", "Yahoo Finance", "Zacks"]
     },
     {
-      "ticker": "BE",
-      "company": "Bloom Energy Corporation",
-      "reason": "Soared 22% after Oracle announced a deal to procure up to 2.8 gigawatts of on-site fuel cell capacity from Bloom Energy to power AI data centers, plus a $400M warrant.",
-      "category": "news",
-      "sources": ["CNBC", "Yahoo Finance", "HeyGoTrade"]
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla Inc.",
-      "reason": "UBS upgraded Tesla to Neutral from Sell, citing that current share levels 'more evenly balance' near-term demand challenges with its long-term physical AI opportunity.",
-      "category": "upgrade",
-      "sources": ["Yahoo Finance", "CNBC", "TipRanks"]
-    },
-    {
-      "ticker": "APP",
-      "company": "AppLovin Corporation",
-      "reason": "Argus initiated coverage with a Buy rating and $520 price target; Wells Fargo raised its price target to $560 (from $543), keeping Overweight, citing strong double-digit revenue growth and margin expansion.",
-      "category": "upgrade",
-      "sources": ["Yahoo Finance", "CNBC", "Bloomberg"]
-    },
-    {
-      "ticker": "CRWV",
-      "company": "CoreWeave Inc.",
-      "reason": "Wolfe Research initiated coverage at Outperform, noting the company has a differentiated AI cloud infrastructure offering; also featured in CNBC's Thursday top analyst calls.",
+      "ticker": "DELL",
+      "company": "Dell Technologies Inc.",
+      "reason": "Melius Research doubled down on its Buy rating, raising the two-year price target to $245 from $200 on growing AI server demand and Dell's increasing market share.",
       "category": "upgrade",
       "sources": ["CNBC"]
     },
     {
-      "ticker": "AFRM",
-      "company": "Affirm Holdings Inc.",
-      "reason": "Jumped more than 3% after Morgan Stanley named it a top pick, citing potential for significant earnings upside in the buy-now-pay-later space.",
+      "ticker": "SHW",
+      "company": "The Sherwin-Williams Company",
+      "reason": "Led the industrial sector rally, rising 4.22% to $347.61. Q1 2026 earnings are anticipated with analysts projecting EPS of $2.34, up 4% year-over-year.",
+      "category": "earnings",
+      "sources": ["CNBC", "Barchart"]
+    },
+    {
+      "ticker": "HD",
+      "company": "Home Depot, Inc.",
+      "reason": "Gained 3.55% to $349.45 as part of the broad industrial and home improvement sector rally.",
+      "category": "sector",
+      "sources": ["CNBC"]
+    },
+    {
+      "ticker": "CAT",
+      "company": "Caterpillar Inc.",
+      "reason": "Rose 3.11% to $797.23; Morgan Stanley raised its price target to $430 from $425. Company reported $19.1B in sales and a $51B backlog, expanding into agricultural automation via the Monarch Tractor acquisition.",
       "category": "upgrade",
       "sources": ["CNBC", "Yahoo Finance"]
     },
     {
-      "ticker": "XOM",
-      "company": "Exxon Mobil Corporation",
-      "reason": "Fell more than 5% as oil prices plunged 12%+ following Iran's declaration that the Strait of Hormuz is 'completely open'; one of the largest one-day drops in the energy sector in a year.",
-      "category": "news",
-      "sources": ["CNBC", "Seeking Alpha", "Benzinga"]
+      "ticker": "MMM",
+      "company": "3M Company",
+      "reason": "Gained 3.34% to $155.65 as part of the broad industrial sector rally, benefiting from investor rotation into industrials amid geopolitical uncertainty.",
+      "category": "sector",
+      "sources": ["CNBC"]
     },
     {
-      "ticker": "OXY",
-      "company": "Occidental Petroleum Corporation",
-      "reason": "Dropped approximately 7% as the Iran ceasefire and sharp oil price decline triggered a sector-wide selloff in energy stocks.",
-      "category": "news",
-      "sources": ["Yahoo Finance", "Benzinga"]
+      "ticker": "ECL",
+      "company": "Ecolab Inc.",
+      "reason": "Analyst upgraded to Buy from Hold with a $325 price target (18% upside), citing early price increases to offset energy cost headwinds from US-Iran tensions that could drive second-half earnings upside.",
+      "category": "upgrade",
+      "sources": ["CNBC", "Yahoo Finance"]
     },
     {
-      "ticker": "APA",
-      "company": "APA Corporation",
-      "reason": "Shed more than 9% — one of the worst performers in the energy selloff — as WTI crude futures posted their sharpest single-session decline since April 2020 on ceasefire news.",
-      "category": "news",
-      "sources": ["CNBC", "Benzinga"]
-    },
-    {
-      "ticker": "UNH",
-      "company": "UnitedHealth Group Inc.",
-      "reason": "Featured in Friday analyst calls ahead of its Q1 2026 earnings on April 21; Bank of America raised price target to $337 following CMS finalizing Medicare Advantage rates with a net +2.48% increase.",
+      "ticker": "BA",
+      "company": "Boeing Company",
+      "reason": "Q1 2026 earnings report due Wednesday April 22; analysts focused on 737 MAX production rate and free cash flow trajectory, with revenue growth forecast exceeding 10% year-over-year.",
       "category": "earnings",
-      "sources": ["CNBC", "Yahoo Finance", "24/7 Wall St."]
+      "sources": ["CNBC", "Seeking Alpha"]
+    },
+    {
+      "ticker": "GEV",
+      "company": "GE Vernova LLC",
+      "reason": "Earnings due April 22; highlighted as a key beneficiary of data center power demand with multi-year AI infrastructure order visibility driving investor interest.",
+      "category": "earnings",
+      "sources": ["CNBC", "MarketBeat"]
+    },
+    {
+      "ticker": "IBM",
+      "company": "International Business Machines Corporation",
+      "reason": "Earnings due April 22 alongside ServiceNow and Texas Instruments, providing a read on enterprise AI spending. Results closely watched for hybrid cloud and AI revenue trends.",
+      "category": "earnings",
+      "sources": ["CNBC", "Seeking Alpha"]
+    },
+    {
+      "ticker": "OKTA",
+      "company": "Okta, Inc.",
+      "reason": "Featured in Monday analyst calls; upgraded to Outperform by Raymond James on April 16. Okta for AI Agents product launches April 30, providing near-term catalyst for stock down ~20% YTD.",
+      "category": "upgrade",
+      "sources": ["CNBC", "Yahoo Finance", "TIKR"]
+    },
+    {
+      "ticker": "LMT",
+      "company": "Lockheed Martin Corporation",
+      "reason": "Q1 2026 earnings webcast scheduled for April 23; defense sector in focus as renewed US-Iran tensions over the Strait of Hormuz heighten demand for defense spending.",
+      "category": "earnings",
+      "sources": ["CNBC", "Lockheed Martin IR"]
+    },
+    {
+      "ticker": "NFLX",
+      "company": "Netflix, Inc.",
+      "reason": "Stock dropped approximately 10% following Q2 revenue guidance miss despite Q1 beat; CEO Reed Hastings departure added to negative sentiment. Remains a key recent market mover discussed heading into the week.",
+      "category": "earnings",
+      "sources": ["CNBC", "Schwab Market Update", "Bloomberg"]
     }
   ]
 }
