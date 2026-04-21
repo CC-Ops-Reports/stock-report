@@ -1,138 +1,116 @@
 {
-  "report_date": "2026-04-19",
+  "report_date": "2026-04-20",
   "batch": 3,
   "stocks": [
     {
-      "ticker": "CRWV",
-      "company": "CoreWeave Inc.",
-      "discussion_driver": "Wolfe Research initiated coverage with an Outperform rating and $150 price target on April 17, calling out CoreWeave's differentiated AI cloud infrastructure; Cantor Fitzgerald also raised its target to $156. The stock featured in CNBC's top analyst calls and has gained ~38% in 30 days amid surging AI infrastructure demand, with committed contracts from OpenAI, Meta, and xAI.",
+      "ticker": "GEV",
+      "company": "GE Vernova LLC",
+      "discussion_driver": "GE Vernova hit a new 52-week high on April 20 ahead of its Q1 2026 earnings report (due April 22), fueled by an explosive data center power backlog — the gas turbine slot reservation book swelled from 62 GW to 83 GW in a single quarter. A data-center power generation deal with Microsoft and Chevron further underscores GEV's position as a direct beneficiary of AI infrastructure build-out, while Susquehanna raised its price target to $1,080.",
       "bull_case": [
-        "AI infrastructure spending is accelerating and CoreWeave's specialized GPU cloud—anchored by massive committed contracts—provides high revenue visibility that general-purpose hyperscalers cannot replicate, positioning the company as a critical picks-and-shovels play on the AI buildout.",
-        "Multiple analyst initiations at Outperform and Buy with targets of $150–$156 reflect confidence in CoreWeave's differentiated IaaS model, which commands premium pricing and sticky enterprise customers unwilling to migrate mid-project."
+        "GE Vernova entered 2026 with a $150 billion total backlog (up 50%+ in four years) and Q4 2025 orders surging 65% YoY to $22.2 billion, providing multi-year revenue visibility tied directly to accelerating AI data center electricity demand; EBITDA grew 79.8% YoY to $5.75 billion in 2025 and consensus projects $8.67 billion for 2026.",
+        "The exclusive Microsoft-Chevron data center power generation partnership and a growing gas turbine backlog stretching into 2029 mean every incremental AI megawatt added by hyperscalers flows through GEV's order pipeline, cementing it as a critical picks-and-shovels play on the AI power build-out."
       ],
       "bear_case": [
-        "CoreWeave operates with a -22.74% profit margin and relies on debt-financed GPU purchases; if hyperscaler AI capex slows or large clients in-source their compute needs, the path to profitability becomes substantially more difficult.",
-        "The stock's valuation requires sustained hyper-growth with no meaningful trailing earnings multiple as a guardrail; any guidance miss, customer concentration risk, or competitive pressure from AWS/Azure AI cloud offerings could trigger a sharp correction."
-      ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$116.85",
-      "price_target": "$124.09 (+6.2%)",
-      "pe_ratio": "N/A",
-      "rsi": "42",
-      "vs_52wk_high": "-37.5% below high ($187.00)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - AI Cloud Infrastructure",
-      "sources": ["Wolfe Research", "CNBC", "Insider Monkey", "Cantor Fitzgerald", "Yahoo Finance", "stockanalysis.com"]
-    },
-    {
-      "ticker": "AFRM",
-      "company": "Affirm Holdings Inc.",
-      "discussion_driver": "Morgan Stanley named Affirm a top pick on April 17, citing strong Q2 results and a promising May investor forum as near-term catalysts; the stock surged approximately 7% on the endorsement. The designation reflects growing analyst conviction that Affirm's BNPL platform is reaching the scale needed for sustained profitability, a key debate in the fintech sector.",
-      "bull_case": [
-        "Morgan Stanley's top pick designation—backed by strong Q2 results and an upcoming May investor forum—signals accelerating monetization of Affirm's BNPL platform, with the potential for significant earnings upside as transaction volumes compound across its merchant network.",
-        "BNPL adoption continues to structurally displace high-interest credit cards, and Affirm's deep integrations with Amazon, Shopify, and major retailers create a durable, growing revenue base with improving unit economics at scale."
-      ],
-      "bear_case": [
-        "A trailing P/E of ~60x and a price that remains nearly 40% below its 52-week high leave little room for error; any deceleration in GMV growth or deterioration in credit quality could prompt a sharp multiple compression.",
-        "The BNPL lending model is inherently sensitive to interest rates—rising funding costs compress net interest margins and can outpace revenue growth, undermining the profitability trajectory that underpins the current bullish consensus."
+        "Wind segment losses ran $600 million in 2025, and while management guides for $400 million in 2026, any further overruns would push out consolidated margin-expansion timelines and pressure the premium 56x trailing PE valuation.",
+        "The stock hit a new 52-week high on earnings eve and is trading near or above analyst median price targets, meaning much of the backlog optimism may already be priced in; any Q1 2026 earnings shortfall or cautious guidance could trigger a sharp mean-reversion from elevated levels."
       ],
       "recommendation": "Buy",
-      "current_price": "$60.28",
-      "price_target": "$85.25 (+41.4%)",
-      "pe_ratio": "59.7",
+      "current_price": "$996.52",
+      "price_target": "$990.18 (-0.6%)",
+      "pe_ratio": "56.0",
       "rsi": "N/A",
-      "vs_52wk_high": "-39.7% below high ($100.00)",
-      "analyst_rating": "Buy",
-      "sector": "Financial Technology - Buy Now Pay Later",
-      "sources": ["Morgan Stanley", "CNBC", "Yahoo Finance", "WallStreetZen", "MarketBeat", "Investing.com"]
+      "vs_52wk_high": "-1.3% below high ($1,009.89)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Industrials - Power Equipment & Energy Technology",
+      "sources": ["Benzinga", "StockAnalysis", "MarketBeat", "eToro", "TIKR", "Utility Dive", "GE Vernova IR", "Simply Wall St", "Yahoo Finance"]
     },
     {
-      "ticker": "XOM",
-      "company": "Exxon Mobil Corporation",
-      "discussion_driver": "Exxon Mobil fell over 6% on April 17—one of its largest single-session declines in a year—as Iran declared the Strait of Hormuz fully open under the ceasefire agreement, sending WTI crude prices down roughly 12%. The move erased significant geopolitical risk premium that had buoyed energy stocks and triggered a sector-wide reassessment of oil price assumptions.",
+      "ticker": "IBM",
+      "company": "International Business Machines Corporation",
+      "discussion_driver": "IBM reports Q1 2026 earnings on April 22 alongside ServiceNow and Texas Instruments, providing an early read on enterprise AI spending. Analysts broadly expect a beat on hybrid cloud and AI consulting revenues, with Wedbush projecting ~35% upside as enterprises accelerate from AI pilots to large-scale production deployments. IBM also recently acquired Confluent to bolster real-time data streaming capabilities for AI agents.",
       "bull_case": [
-        "ExxonMobil's integration of Pioneer Natural Resources dramatically expanded its low-cost Permian Basin footprint, providing a production base that remains highly profitable even at $75–$80 WTI, while the company's scale and refining diversity buffer against pure upstream commodity swings.",
-        "A Buy consensus from 19 analysts with a $153 average target, combined with ExxonMobil's ongoing buyback program and growing dividend, makes XOM a high-quality total-return vehicle for investors willing to wait out the near-term oil price dislocation."
+        "IBM has beaten consensus EPS estimates in each of the last four quarters and analysts expect continued momentum from AI consulting, hybrid cloud (Red Hat), automation, and cybersecurity as enterprises shift from AI experimentation to production deployment — a secular trend Wedbush says can drive 35% upside from current levels.",
+        "The Confluent acquisition creates a unified real-time data foundation enabling AI models and agents to operate with live context across on-premises, cloud, and hybrid environments, differentiating IBM's platform and expanding its AI services addressable market at a time when enterprise AI budgets are growing rapidly."
       ],
       "bear_case": [
-        "The Iran ceasefire reopens roughly 20% of global oil supply that had been restricted, and if the deal holds, structurally lower oil prices ($75–$85 WTI range) could materially reduce ExxonMobil's earnings and free cash flow versus prior consensus estimates.",
-        "XOM's trailing P/E of ~24x is approximately 47% above its 10-year median of 16x, reflecting a valuation premium that may not be sustainable in a lower oil price environment where earnings could reset meaningfully lower."
+        "Red Hat growth decelerated from 12% to 8% last quarter, and IBM faces stiff competition from AWS and Azure; Claude Code and other AI tools that can modernize legacy COBOL systems directly threaten IBM's high-margin mainframe services revenue — a foundational business that underpins its financial model.",
+        "Frequent acquisitions have elevated goodwill and net intangibles, compressing margins and raising integration risk; if enterprise AI spending softens amid geopolitical uncertainty or macro headwinds, IBM's guidance could disappoint and partially reverse the stock's recent multiple expansion."
       ],
-      "recommendation": "Hold",
-      "current_price": "$142.24",
-      "price_target": "$153.13 (+7.7%)",
-      "pe_ratio": "23.98",
-      "rsi": "18",
-      "vs_52wk_high": "-19.4% below high ($176.41)",
+      "recommendation": "Buy",
+      "current_price": "$253.47",
+      "price_target": "$311.31 (+22.8%)",
+      "pe_ratio": "21.6",
+      "rsi": "N/A",
+      "vs_52wk_high": "-22.0% below high ($324.90)",
       "analyst_rating": "Buy",
-      "sector": "Energy - Oil & Gas Integrated",
-      "sources": ["Motley Fool", "AAII", "stockanalysis.com", "MarketBeat", "MacroTrends", "CNBC"]
+      "sector": "Technology - Enterprise Software & IT Services",
+      "sources": ["MarketBeat", "Yahoo Finance", "Proactive Investors", "GuruFocus", "TipRanks", "TradingView", "Barchart", "StockTitan", "FinanceCharts"]
     },
     {
-      "ticker": "OXY",
-      "company": "Occidental Petroleum Corporation",
-      "discussion_driver": "Occidental Petroleum dropped approximately 7–8% on April 17 as Iran's ceasefire declaration and Strait of Hormuz reopening pushed WTI crude to its lowest level since early March (~$82/barrel). OXY's high operational leverage to oil prices makes it one of the most volatile names in the energy sector during commodity price swings, amplifying both the upside during the Iran conflict and the selloff on ceasefire news.",
+      "ticker": "OKTA",
+      "company": "Okta, Inc.",
+      "discussion_driver": "Okta jumped 4.7% on April 20 after Raymond James (April 16) and Barclays both upgraded the stock, citing AI agents as a major new demand catalyst for identity security. Okta's 'Okta for AI Agents' product — which assigns distinct non-human identities to AI agents — launches April 30, providing a concrete near-term catalyst for a stock that has been down ~20% YTD and ~40% off its 52-week high.",
       "bull_case": [
-        "Warren Buffett's Berkshire Hathaway continues to hold a substantial position in OXY, providing a valuation floor and signaling long-term confidence in the company's Permian Basin asset quality and management's capital allocation discipline.",
-        "OXY's chemical (OxyChem) and midstream segments provide meaningful revenue diversification beyond pure E&P, and the company's low-cost Permian operations maintain positive free cash flow across a range of oil price scenarios above ~$50 WTI."
+        "The rise of agentic AI creates an entirely new identity management category: every AI agent requires a distinct non-human identity, dramatically widening Okta's total addressable market and opening cross-sell opportunities into identity governance and privileged access management across its enterprise customer base.",
+        "COVID-era contract renewal headwinds are largely resolved, with net revenue retention normalizing around 106%, and Okta reported its first year of GAAP profitability ($149M operating income, $863M free cash flow) — removing a key overhang and supporting a path back to double-digit revenue growth."
       ],
       "bear_case": [
-        "At a trailing P/E of ~39x with a Hold consensus and a 52-week high of $67.45 still well above the current $53 price, OXY carries a valuation premium that is difficult to justify if oil prices remain in the $80–$85 range following the ceasefire.",
-        "Substantial debt from the 2019 Anadarko Petroleum acquisition continues to constrain balance sheet flexibility; if oil prices decline below $70, free cash flow generation could compress significantly, limiting share buybacks and dividend growth."
+        "Approximately 20% of channel partners surveyed by KeyBanc are reducing software spend in favor of AI-native alternatives, and large enterprises could increasingly prefer integrated multi-function security platforms (CrowdStrike, Microsoft) over a standalone identity provider, capping Okta's long-term market share.",
+        "At roughly 61x trailing earnings, OKTA's valuation prices in an aggressive recovery contingent on both the AI agents thesis materializing and renewal headwinds staying resolved; the stock remains 40% below its 52-week high with limited near-term earnings power to anchor the multiple."
+      ],
+      "recommendation": "Speculative Buy",
+      "current_price": "$75.67",
+      "price_target": "$100.00 (+32.2%)",
+      "pe_ratio": "60.8",
+      "rsi": "52.5",
+      "vs_52wk_high": "-40.6% below high ($127.30)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - Cybersecurity / Identity Management",
+      "sources": ["Seeking Alpha", "Raymond James via Yahoo Finance", "247 Wall St", "GuruFocus", "Investing.com", "FinancialContent", "MarketBeat", "StockAnalysis", "eToro"]
+    },
+    {
+      "ticker": "LMT",
+      "company": "Lockheed Martin Corporation",
+      "discussion_driver": "Lockheed Martin reports Q1 2026 earnings on April 23 with defense sector sentiment elevated as US-Iran tensions prompt Pentagon requests for $50 billion in supplemental war funding and Trump signals a $1.5 trillion defense budget. LMT's F-35s and Aegis missile defense systems are actively deployed in ongoing operations, while a $173 billion backlog representing ~2 years of sales provides exceptional revenue visibility heading into the call.",
+      "bull_case": [
+        "The US-Iran conflict is driving real-time consumption of Lockheed's F-35 jets, Aegis systems, and missiles, and a proposed $1.5 trillion defense budget — plus $50 billion in Congressional war supplementals — would directly expand LMT's already-record $173 billion backlog and support multi-year revenue growth above 5%.",
+        "Q1 2026 preliminary results show revenue growing 4% YoY to $18 billion with net earnings of $1.7 billion, beating consensus; Aeronautics sales exceeded $7 billion and Missiles & Fire Control reached $3.3 billion, demonstrating broad execution across all four operating segments."
+      ],
+      "bear_case": [
+        "Management guided ~25% segment profit growth in Missiles & Fire Control contingent on production ramps executing on schedule — any delays would compress near-term margins and cause earnings misses against elevated expectations embedded in the stock's 26%+ YTD gain.",
+        "The analyst consensus is Hold with median price targets near $655 versus the $581 spot price, suggesting modest upside; any diplomatic de-escalation with Iran would remove a significant war premium from defense stocks and could trigger a notable sentiment reversal."
       ],
       "recommendation": "Hold",
-      "current_price": "$53.71",
-      "price_target": "$68.67 (+27.9%)",
-      "pe_ratio": "38.88",
-      "rsi": "N/A",
-      "vs_52wk_high": "-20.4% below high ($67.45)",
+      "current_price": "$581.28",
+      "price_target": "$655.91 (+12.8%)",
+      "pe_ratio": "27.5",
+      "rsi": "50.6",
+      "vs_52wk_high": "-16.0% below high ($692.00)",
       "analyst_rating": "Hold",
-      "sector": "Energy - Oil & Gas E&P",
-      "sources": ["Motley Fool", "Yahoo Finance", "Benzinga", "Capital One Financial", "Investing.com", "MarketBeat"]
+      "sector": "Industrials - Aerospace & Defense",
+      "sources": ["Barchart", "MarketBeat", "Invezz", "247 Wall St", "TIKR", "Trefis", "StockAnalysis", "Yahoo Finance", "Lockheed Martin IR"]
     },
     {
-      "ticker": "APA",
-      "company": "APA Corporation",
-      "discussion_driver": "APA shed more than 9% on April 17—one of the worst decliners in the energy sector—as WTI crude posted its sharpest single-session decline since April 2020 following the Iran ceasefire and Strait of Hormuz reopening. As a mid-cap E&P with higher cost structures than integrated majors, APA faces disproportionate earnings pressure when commodity prices fall sharply, and analyst consensus already points to a 12-month price target below current levels.",
+      "ticker": "NFLX",
+      "company": "Netflix, Inc.",
+      "discussion_driver": "Netflix fell ~10% after reporting strong Q1 2026 results (EPS $1.23 vs. $0.79 estimate, +56% beat) but guiding Q2 revenue to $12.57B versus the $12.64B consensus — the weakest guided growth rate in a year. Co-founder and Chairman Reed Hastings simultaneously announced he will not stand for re-election in June and will depart the board, adding leadership uncertainty to the guidance-driven sell-off. Morgan Stanley and JPMorgan responded by reiterating Buy ratings and advising investors to buy the dip.",
       "bull_case": [
-        "APA trades at roughly 9x trailing earnings—a deep-value multiple relative to energy peers—and its diversified production across the Permian Basin, North Sea, and Egypt provides geographic diversification that could help stabilize cash flows if any one region underperforms.",
-        "Recent cost-reduction initiatives and portfolio optimization efforts have improved APA's operating efficiency; its Permian Basin acreage retains significant upside optionality if oil prices recover toward the $90+ range."
+        "Despite the 10% sell-off, Netflix's Q1 2026 EPS beat of 56% demonstrates exceptional margin execution, and both Morgan Stanley ($115 target) and JPMorgan ($118 target) view the Q2 guidance miss as an overreaction — citing continued growth headroom in advertising, gaming, and live events as structural tailwinds.",
+        "With RSI at ~27 (deeply oversold territory), 37 Buy ratings versus just 1 Sell among covering analysts, and the stock trading 27% below its 52-week high, the technical setup and consensus conviction create a compelling risk/reward entry for long-term investors willing to look past a one-quarter guidance shortfall."
       ],
       "bear_case": [
-        "Analyst consensus from 23 analysts points to a 12-month price target of $31.09—approximately 18% below the current price—reflecting expectations of continued earnings pressure from lower oil prices; the company's smaller scale vs. integrated majors makes it less able to absorb commodity downturns.",
-        "APA's 9%+ single-session decline was among the sector's worst, signaling that the market views APA as a high-beta, lower-quality energy name; sustained oil prices below $75 WTI could result in free cash flow turning negative and potentially necessitate a dividend cut."
+        "Q2 2026 guidance implies revenue growth decelerating to a one-year low of 13%, and Reed Hastings' board departure removes a key institutional anchor — together these signals raise legitimate concerns about whether Netflix's post-password-sharing-crackdown growth algorithm is running out of steam.",
+        "Wolfe Research and Barclays both trimmed price targets on the guidance miss (Wolfe to $107, Barclays to $110), and if Q2 results disappoint again, current buyback levels offer limited support and the stock could test lower technical support levels near the $75 52-week low."
       ],
       "recommendation": "Hold",
-      "current_price": "$37.90",
-      "price_target": "$31.09 (-18.0%)",
-      "pe_ratio": "9.1",
-      "rsi": "N/A",
-      "vs_52wk_high": "-17.0% below high ($45.66)",
-      "analyst_rating": "Hold",
-      "sector": "Energy - Oil & Gas E&P",
-      "sources": ["CNBC", "Benzinga", "stockanalysis.com", "Yahoo Finance", "GuruFocus", "Finviz"]
-    },
-    {
-      "ticker": "UNH",
-      "company": "UnitedHealth Group Inc.",
-      "discussion_driver": "UnitedHealth Group is in focus ahead of its Q1 2026 earnings report on April 21, with CMS finalizing Medicare Advantage rates at a net +2.48% increase—at the higher end of expectations—boosting the managed care sector. Bank of America raised its price target to $337 following the CMS decision, while Bernstein targets $411; the stock surged ~15% in the prior week to $324.63, pushing RSI to an extreme 94.",
-      "bull_case": [
-        "The finalized CMS Medicare Advantage rate increase of +2.48% for 2027 came in better than feared, reducing reimbursement uncertainty for UnitedHealth's largest business segment and providing a clearer earnings floor heading into Q1 2026 results on April 21.",
-        "UNH trades at a significant discount to its $453.50 52-week high with 79% of analysts at Buy or Strong Buy and a consensus target of $377+; if Q1 earnings confirm favorable medical cost ratio (MCR) trends, the stock has meaningful room to recover toward analyst targets."
-      ],
-      "bear_case": [
-        "RSI of 94 signals extreme overbought conditions after a 15%+ rally in a single week; UNH is highly vulnerable to a sharp pullback if Q1 earnings on April 21 fail to exceed elevated expectations or if MCR guidance disappoints.",
-        "Persistent medical cost ratio pressure—driven by elevated healthcare utilization post-pandemic—remains the key structural risk for UNH; any upside surprise in claims costs or pharmacy spend could quickly reverse the recent rally and pressure the stock toward its 52-week lows."
-      ],
-      "recommendation": "Hold",
-      "current_price": "$324.63",
-      "price_target": "$377.83 (+16.4%)",
-      "pe_ratio": "21.32",
-      "rsi": "94",
-      "vs_52wk_high": "-28.4% below high ($453.50)",
+      "current_price": "$97.31",
+      "price_target": "$114.23 (+17.4%)",
+      "pe_ratio": "31.4",
+      "rsi": "26.6",
+      "vs_52wk_high": "-27.4% below high ($134.12)",
       "analyst_rating": "Buy",
-      "sector": "Healthcare - Managed Care",
-      "sources": ["Bank of America", "Bernstein", "CNBC", "Yahoo Finance", "Historical Option Data", "MarketBeat", "24/7 Wall St."]
+      "sector": "Communication Services - Streaming Media",
+      "sources": ["Intellectia AI", "Yahoo Finance", "Investing.com", "247 Wall St", "QZ", "Benzinga", "MarketBeat", "TipRanks", "StockAnalysis"]
     }
   ]
 }
