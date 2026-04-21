@@ -1,4 +1,116 @@
 {
-  "error": "No scan data",
-  "report_date": "2026-04-20"
+  "report_date": "2026-04-20",
+  "batch": 2,
+  "stocks": [
+    {
+      "ticker": "HD",
+      "company": "Home Depot, Inc.",
+      "discussion_driver": "Gained 3.55% to $349.45 as part of the broad industrial and home improvement sector rally on April 21, 2026, as investors rotated into cyclical names amid geopolitical uncertainty. Home Depot's scale in the professional contractor segment and dominant market position make it a benchmark holding in the home improvement theme.",
+      "bull_case": [
+        "Wall Street is broadly bullish with 80%+ of analysts rating the stock Buy or Strong Buy; the consensus price target of ~$414 implies roughly 18% upside, backed by Home Depot's dominant market share and strong pro-contractor revenue mix that consistently outgrows the DIY segment.",
+        "Any easing of mortgage rates or recovery in housing turnover could drive a significant acceleration in renovation spending — a key cyclical tailwind that could push same-store sales growth back toward the high single digits."
+      ],
+      "bear_case": [
+        "HD remains ~18% below its 52-week high of $426.75, reflecting persistent headwinds from elevated mortgage rates that continue to suppress major renovation project demand and housing market activity.",
+        "Tariff escalation on imported building materials could drive up input costs; if Home Depot cannot fully pass price increases to customers, it faces margin compression at a time when top-line growth is already under pressure."
+      ],
+      "recommendation": "Buy",
+      "current_price": "$349.45",
+      "price_target": "$414.17 (+18.5%)",
+      "pe_ratio": "23.5",
+      "rsi": "66.1",
+      "vs_52wk_high": "-18.2% below high ($426.75)",
+      "analyst_rating": "Buy",
+      "sector": "Consumer Discretionary - Home Improvement Retail",
+      "sources": ["Yahoo Finance", "StockAnalysis", "MarketBeat", "Investing.com", "Financhill"]
+    },
+    {
+      "ticker": "CAT",
+      "company": "Caterpillar Inc.",
+      "discussion_driver": "Rose 3.11% to $797.23, setting a new 52-week high as the industrial sector rallied broadly. Caterpillar reported $19.1B in sales and holds a $51B backlog, and recently expanded into agricultural automation via the Monarch Tractor acquisition, adding a new growth vertical to its heavy equipment franchise.",
+      "bull_case": [
+        "Caterpillar's $51B order backlog provides exceptional multi-year revenue visibility, while the Monarch Tractor acquisition opens a high-growth avenue in precision agriculture automation — diversifying beyond traditional construction and mining cycles.",
+        "Rising global infrastructure spending, particularly in emerging markets and energy transition projects, continues to sustain strong equipment demand; the company's track record of dividend growth and share buybacks rewards long-term shareholders."
+      ],
+      "bear_case": [
+        "With a trailing PE of ~38-40x versus a peer average of ~28x and a historical median of ~18x, Caterpillar is richly valued and priced for perfection — any macro slowdown, earnings miss, or guidance cut could trigger a sharp de-rating.",
+        "Global construction softening in key markets like China, combined with potential US-China trade friction restricting international equipment sales, could slow backlog conversion and compress future revenue growth."
+      ],
+      "recommendation": "Hold",
+      "current_price": "$797.23",
+      "price_target": "$751.00 (-5.8% vs current; consensus of 26 analysts)",
+      "pe_ratio": "38.5",
+      "rsi": "46.1",
+      "vs_52wk_high": "At new 52-wk high (+0.9% vs prior high of $789.81)",
+      "analyst_rating": "Buy",
+      "sector": "Industrials - Construction & Mining Equipment",
+      "sources": ["MarketBeat", "StockAnalysis", "GuruFocus", "Yahoo Finance", "CNBC", "Benzinga"]
+    },
+    {
+      "ticker": "MMM",
+      "company": "3M Company",
+      "discussion_driver": "Gained 3.34% to $155.65 as part of the broad industrial sector rally on April 21, 2026, benefiting from investor rotation into industrials amid geopolitical tensions over the Strait of Hormuz. Post-Solventum spin-off, 3M is being re-evaluated as a leaner industrial and consumer technology company with improved margin potential.",
+      "bull_case": [
+        "Following the Solventum healthcare spin-off, 3M is now a more focused industrial technology company; the leaner structure supports cost reduction and R&D prioritization, which could drive meaningful margin expansion over the next 2-3 years.",
+        "Trading at ~21x PE — a discount to many diversified industrial peers — with a historically strong dividend, MMM offers relative value for income-oriented investors seeking industrial sector exposure during a rotation cycle."
+      ],
+      "bear_case": [
+        "Significant ongoing litigation risk from PFAS (forever chemicals) environmental liabilities and historical military earplug settlements could amount to billions in additional cash outflows, creating persistent uncertainty around earnings and capital allocation.",
+        "Analyst consensus is Hold, and with the stock ~12% below its 52-week high of $177.41, Wall Street sees only modest near-term upside; the turnaround story requires sustained execution that has historically proved elusive for the company."
+      ],
+      "recommendation": "Hold",
+      "current_price": "$155.65",
+      "price_target": "$171.75 (+10.3%)",
+      "pe_ratio": "21.3",
+      "rsi": "N/A",
+      "vs_52wk_high": "-12.3% below high ($177.41)",
+      "analyst_rating": "Hold",
+      "sector": "Industrials - Diversified Manufacturing",
+      "sources": ["Yahoo Finance", "StockAnalysis", "MarketBeat", "MacroTrends", "Public.com"]
+    },
+    {
+      "ticker": "ECL",
+      "company": "Ecolab Inc.",
+      "discussion_driver": "Upgraded to Buy from Hold by a Wall Street analyst with a $325 price target implying ~18% upside, citing Ecolab's proactive price increases designed to offset energy cost headwinds from US-Iran geopolitical tensions and potential for second-half 2026 earnings upside. Earnings are scheduled for April 28, 2026, providing a near-term catalyst.",
+      "bull_case": [
+        "The analyst upgrade highlights Ecolab's strong pricing power and ability to pass energy cost increases to customers, a competitive moat that could drive meaningful second-half 2026 earnings upside as geopolitical energy market volatility persists.",
+        "Ecolab's mission-critical water treatment, hygiene, and infection prevention services generate highly recurring revenue with exceptional customer retention — a defensive quality business model that holds up well across economic cycles."
+      ],
+      "bear_case": [
+        "Energy cost spikes from geopolitical tensions can temporarily outpace pricing adjustments, compressing margins in the near term before price increases take full effect — a risk that could weigh on the imminent April 28 earnings report.",
+        "At a trailing PE of ~36x and forward PE of ~31x, Ecolab's premium valuation leaves limited margin for error; any earnings miss or guidance reduction at the April 28 report could trigger a sharp selloff from elevated levels."
+      ],
+      "recommendation": "Buy",
+      "current_price": "$275.19",
+      "price_target": "$318.29 (+15.7%)",
+      "pe_ratio": "36.3",
+      "rsi": "N/A",
+      "vs_52wk_high": "-11.0% below high ($309.27)",
+      "analyst_rating": "Buy",
+      "sector": "Materials/Services - Water Treatment & Hygiene",
+      "sources": ["Yahoo Finance", "StockAnalysis", "CNBC", "Finviz", "WallStreetZen"]
+    },
+    {
+      "ticker": "BA",
+      "company": "The Boeing Company",
+      "discussion_driver": "Q1 2026 earnings are due Wednesday April 22; analysts are focused on the 737 MAX production ramp and free cash flow trajectory, with revenue growth forecast exceeding 10% year-over-year. Early Q1 data showed $19.5B in revenue with 130 commercial aircraft delivered — the strongest quarterly delivery count in years — signaling a meaningful production recovery is underway.",
+      "bull_case": [
+        "Boeing's $545B backlog and 130 Q1 2026 aircraft deliveries signal that the long-awaited operational recovery is gaining real momentum, with free cash flow expected to turn positive as production rates normalize and deferred revenue converts to cash.",
+        "Strong and growing defense revenues, amplified by geopolitical tensions driving global defense spending increases, provide a stable multi-billion dollar revenue stream that buffers commercial aerospace execution risk."
+      ],
+      "bear_case": [
+        "With a trailing PE of ~90x reflecting deeply depressed earnings and a forward PE of ~140x, Boeing is priced as a long-duration recovery play — any production setback, FAA regulatory action, or quality control incident could severely impair the thesis.",
+        "Boeing's substantial debt load accumulated during years of losses, combined with ongoing supply chain constraints and FAA production oversight, creates significant execution risk in the ramp-up that could extend cash burn and delay the return to sustained profitability."
+      ],
+      "recommendation": "Speculative Buy",
+      "current_price": "$224.20",
+      "price_target": "$250.00 (+11.5%)",
+      "pe_ratio": "90.1",
+      "rsi": "54.7",
+      "vs_52wk_high": "-11.9% below high ($254.35)",
+      "analyst_rating": "Buy",
+      "sector": "Industrials - Aerospace & Defense",
+      "sources": ["Yahoo Finance", "MarketBeat", "FinanceCharts", "Benzinga", "Barchart", "MEXC Blog"]
+    }
+  ]
 }
