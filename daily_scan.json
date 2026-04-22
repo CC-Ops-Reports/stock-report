@@ -1,121 +1,93 @@
 {
-  "report_date": "2026-04-20",
-  "market_tone": "Neutral",
-  "key_themes": [
-    "Apple CEO leadership transition (Tim Cook → John Ternus)",
-    "Q1 2026 earnings season peak week (Tesla, Boeing, IBM, GE Vernova)",
-    "US-Iran geopolitical tensions weighing on sentiment",
-    "Industrial sector rally (SHW, HD, CAT, MMM)",
-    "AI infrastructure and enterprise AI spend",
-    "Defense sector in focus amid geopolitical risks"
-  ],
-  "sp500": {"value": "7,109.14", "change": "-0.24%"},
-  "nasdaq": {"value": "24,404.39", "change": "-0.26%"},
+  "report_date": "2026-04-22",
+  "market_tone": "Mixed",
+  "key_themes": ["Mega-Cap Earnings", "AI Infrastructure Investment", "CEO Transition", "Geopolitical Risk", "Semiconductor Recovery"],
+  "sp500": {"value": "7,064.01", "change": "-0.6%"},
+  "nasdaq": {"value": "24,259.96", "change": "-0.6%"},
   "stocks": [
-    {
-      "ticker": "AAPL",
-      "company": "Apple Inc.",
-      "reason": "Major breaking news: Tim Cook announced he will step down as CEO effective September 1, 2026, with hardware engineering chief John Ternus named as his successor. Stock slid in extended trading on the surprise announcement.",
-      "category": "news",
-      "sources": ["CNBC", "Bloomberg", "Yahoo Finance", "Seeking Alpha", "Apple Newsroom"]
-    },
     {
       "ticker": "TSLA",
       "company": "Tesla, Inc.",
-      "reason": "Reports Q1 2026 earnings on Wednesday April 22; options market implies a ~6% move. Jefferies raised its price target to $350 from $300 ahead of results, expecting ~40% year-on-year earnings growth.",
+      "reason": "Reports Q1 2026 earnings after market close today; Q1 deliveries of 358,023 units missed consensus of ~372K; analysts expect EPS of $0.36 on ~$22B revenue with automotive gross margin trajectory as the central investor concern amid intensifying BYD competition",
       "category": "earnings",
-      "sources": ["CNBC", "Seeking Alpha", "Yahoo Finance"]
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA Corporation",
-      "reason": "Featured in Monday analyst calls; continued discussion around AI chip demand and Magnificent 7 recovery from earlier-year pullback. Investors buying the dip.",
-      "category": "sector",
-      "sources": ["CNBC", "Yahoo Finance", "Zacks"]
-    },
-    {
-      "ticker": "DELL",
-      "company": "Dell Technologies Inc.",
-      "reason": "Melius Research doubled down on its Buy rating, raising the two-year price target to $245 from $200 on growing AI server demand and Dell's increasing market share.",
-      "category": "upgrade",
-      "sources": ["CNBC"]
-    },
-    {
-      "ticker": "SHW",
-      "company": "The Sherwin-Williams Company",
-      "reason": "Led the industrial sector rally, rising 4.22% to $347.61. Q1 2026 earnings are anticipated with analysts projecting EPS of $2.34, up 4% year-over-year.",
-      "category": "earnings",
-      "sources": ["CNBC", "Barchart"]
-    },
-    {
-      "ticker": "HD",
-      "company": "Home Depot, Inc.",
-      "reason": "Gained 3.55% to $349.45 as part of the broad industrial and home improvement sector rally.",
-      "category": "sector",
-      "sources": ["CNBC"]
-    },
-    {
-      "ticker": "CAT",
-      "company": "Caterpillar Inc.",
-      "reason": "Rose 3.11% to $797.23; Morgan Stanley raised its price target to $430 from $425. Company reported $19.1B in sales and a $51B backlog, expanding into agricultural automation via the Monarch Tractor acquisition.",
-      "category": "upgrade",
-      "sources": ["CNBC", "Yahoo Finance"]
-    },
-    {
-      "ticker": "MMM",
-      "company": "3M Company",
-      "reason": "Gained 3.34% to $155.65 as part of the broad industrial sector rally, benefiting from investor rotation into industrials amid geopolitical uncertainty.",
-      "category": "sector",
-      "sources": ["CNBC"]
-    },
-    {
-      "ticker": "ECL",
-      "company": "Ecolab Inc.",
-      "reason": "Analyst upgraded to Buy from Hold with a $325 price target (18% upside), citing early price increases to offset energy cost headwinds from US-Iran tensions that could drive second-half earnings upside.",
-      "category": "upgrade",
-      "sources": ["CNBC", "Yahoo Finance"]
+      "sources": ["CNBC", "Electrek", "MarketPulse"]
     },
     {
       "ticker": "BA",
       "company": "Boeing Company",
-      "reason": "Q1 2026 earnings report due Wednesday April 22; analysts focused on 737 MAX production rate and free cash flow trajectory, with revenue growth forecast exceeding 10% year-over-year.",
+      "reason": "Released Q1 2026 results today before market open with earnings call at 10:30 a.m. ET; analysts expected EPS loss of $0.69 on revenue of $21.97B with 12%+ YoY growth; market scrutinizing recovery trajectory under CEO Kelly Ortberg",
       "category": "earnings",
-      "sources": ["CNBC", "Seeking Alpha"]
-    },
-    {
-      "ticker": "GEV",
-      "company": "GE Vernova LLC",
-      "reason": "Earnings due April 22; highlighted as a key beneficiary of data center power demand with multi-year AI infrastructure order visibility driving investor interest.",
-      "category": "earnings",
-      "sources": ["CNBC", "MarketBeat"]
+      "sources": ["Boeing IR", "CNBC", "TipRanks"]
     },
     {
       "ticker": "IBM",
       "company": "International Business Machines Corporation",
-      "reason": "Earnings due April 22 alongside ServiceNow and Texas Instruments, providing a read on enterprise AI spending. Results closely watched for hybrid cloud and AI revenue trends.",
+      "reason": "Reports Q1 2026 earnings today after market close at 5 p.m. ET; consensus expects EPS of $1.81 on revenue of $15.6B; stock down ~13.5% YTD as investors weigh AI disruption risk against enterprise software momentum and an anticipated 27th consecutive dividend hike",
       "category": "earnings",
-      "sources": ["CNBC", "Seeking Alpha"]
+      "sources": ["Seeking Alpha", "TipRanks", "TheStreet"]
     },
     {
-      "ticker": "OKTA",
-      "company": "Okta, Inc.",
-      "reason": "Featured in Monday analyst calls; upgraded to Outperform by Raymond James on April 16. Okta for AI Agents product launches April 30, providing near-term catalyst for stock down ~20% YTD.",
-      "category": "upgrade",
-      "sources": ["CNBC", "Yahoo Finance", "TIKR"]
+      "ticker": "NOW",
+      "company": "ServiceNow, Inc.",
+      "reason": "Reports Q1 2026 earnings today after market close; consensus expects EPS of $0.95 on $3.75B revenue; has beaten EPS estimates 100% of the time over the past two years, making this a high-visibility AI-enterprise software bellwether",
+      "category": "earnings",
+      "sources": ["ServiceNow IR", "MarketBeat", "Yahoo Finance"]
     },
     {
-      "ticker": "LMT",
-      "company": "Lockheed Martin Corporation",
-      "reason": "Q1 2026 earnings webcast scheduled for April 23; defense sector in focus as renewed US-Iran tensions over the Strait of Hormuz heighten demand for defense spending.",
+      "ticker": "TXN",
+      "company": "Texas Instruments Incorporated",
+      "reason": "Reports Q1 2026 earnings today after market close; analysts expect $1.37 EPS on $4.52B revenue; multiple recent analyst upgrades ahead of results including Stifel (Hold to Buy, $250 PT) and Mizuho (Underperform to Neutral, PT raised to $215) on analog semiconductor cycle recovery thesis",
       "category": "earnings",
-      "sources": ["CNBC", "Lockheed Martin IR"]
+      "sources": ["Meyka", "Benzinga", "Ainvest"]
     },
     {
-      "ticker": "NFLX",
-      "company": "Netflix, Inc.",
-      "reason": "Stock dropped approximately 10% following Q2 revenue guidance miss despite Q1 beat; CEO Reed Hastings departure added to negative sentiment. Remains a key recent market mover discussed heading into the week.",
+      "ticker": "UNH",
+      "company": "UnitedHealth Group Incorporated",
+      "reason": "Q1 2026 earnings reported April 21 beat estimates by 9.4%: adjusted EPS $7.23 on $111.7B revenue; medical benefit ratio improved sharply to 83.9% vs. 85.5% expected; full-year adjusted EPS guidance raised to $18.25+; stock surged ~10% and remains a leading market story today",
       "category": "earnings",
-      "sources": ["CNBC", "Schwab Market Update", "Bloomberg"]
+      "sources": ["CNBC", "Benzinga", "TipRanks"]
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple Inc.",
+      "reason": "Tim Cook announced he will step down as CEO effective Sept. 1, 2026; hardware engineering SVP John Ternus named successor; Cook becomes executive chairman; stock fell ~2.5% on leadership transition uncertainty for the $4 trillion company",
+      "category": "news",
+      "sources": ["CNBC", "Fortune", "9to5Mac"]
+    },
+    {
+      "ticker": "AMZN",
+      "company": "Amazon.com, Inc.",
+      "reason": "Announced up to $25 billion in additional investment in Anthropic (on top of prior $8B total), with Anthropic committing $100B+ to AWS over 10 years at a $380B Anthropic valuation; shares climbed ~1.8% on the expanded AI infrastructure partnership",
+      "category": "news",
+      "sources": ["CNBC", "GeekWire", "Engadget"]
+    },
+    {
+      "ticker": "COF",
+      "company": "Capital One Financial Corporation",
+      "reason": "Missed Q1 2026 estimates on both lines: revenue $15.23B vs. $15.36B consensus; EPS $4.42 vs. $4.60 expected; net interest margin declined 39 basis points to 7.87%; stock fell ~5-6% on the double miss",
+      "category": "earnings",
+      "sources": ["StockStory", "Investing.com", "Benzinga"]
+    },
+    {
+      "ticker": "GE",
+      "company": "GE Aerospace",
+      "reason": "Q1 2026 earnings beat reported April 21: EPS $1.86 vs. $1.60 estimate, revenue $12.4B vs. $10.72B expected; total orders surged 87% YoY to $23B; stock paradoxically fell ~4% as management held full-year guidance unchanged amid Middle East geopolitical and fuel cost uncertainty",
+      "category": "earnings",
+      "sources": ["Yahoo Finance", "Investing.com", "Leeham News"]
+    },
+    {
+      "ticker": "ADBE",
+      "company": "Adobe Inc.",
+      "reason": "Board approved a new $25 billion stock repurchase program through April 2030; shares rose more than 2% on the capital return announcement",
+      "category": "news",
+      "sources": ["CNBC"]
+    },
+    {
+      "ticker": "LHX",
+      "company": "L3Harris Technologies, Inc.",
+      "reason": "Reports Q1 2026 earnings after market close today; defense contractor closely watched as U.S.-Iran ceasefire negotiations stalled on April 21, sending defense names higher on elevated conflict risk",
+      "category": "earnings",
+      "sources": ["Meyka", "MarketBeat"]
     }
   ]
 }
