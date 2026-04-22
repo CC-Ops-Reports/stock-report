@@ -1,116 +1,50 @@
 {
-  "report_date": "2026-04-20",
+  "report_date": "2026-04-22",
   "batch": 3,
   "stocks": [
     {
-      "ticker": "GEV",
-      "company": "GE Vernova LLC",
-      "discussion_driver": "GE Vernova hit a new 52-week high on April 20 ahead of its Q1 2026 earnings report (due April 22), fueled by an explosive data center power backlog — the gas turbine slot reservation book swelled from 62 GW to 83 GW in a single quarter. A data-center power generation deal with Microsoft and Chevron further underscores GEV's position as a direct beneficiary of AI infrastructure build-out, while Susquehanna raised its price target to $1,080.",
+      "ticker": "ADBE",
+      "company": "Adobe Inc.",
+      "discussion_driver": "Adobe's board approved a new $25 billion stock repurchase program through April 2030, lifting shares ~2% in extended trading. The buyback follows a period of deep stock pressure—ADBE is down ~46% from its 52-week peak—driven by persistent fears that AI-native tools from Canva, Google, and OpenAI will erode Adobe's creative software dominance. Management's aggressive capital return signals confidence in intrinsic value at current historically low PE multiples.",
       "bull_case": [
-        "GE Vernova entered 2026 with a $150 billion total backlog (up 50%+ in four years) and Q4 2025 orders surging 65% YoY to $22.2 billion, providing multi-year revenue visibility tied directly to accelerating AI data center electricity demand; EBITDA grew 79.8% YoY to $5.75 billion in 2025 and consensus projects $8.67 billion for 2026.",
-        "The exclusive Microsoft-Chevron data center power generation partnership and a growing gas turbine backlog stretching into 2029 mean every incremental AI megawatt added by hyperscalers flows through GEV's order pipeline, cementing it as a critical picks-and-shovels play on the AI power build-out."
+        "Adobe's Firefly AI platform is showing accelerating commercial traction—generative credit consumption surged 45%+ quarter-over-quarter and Firefly Enterprise new customer acquisition grew 50% year-over-year, demonstrating that AI features are becoming an incremental revenue driver rather than a pure threat to the existing subscription base.",
+        "The $25 billion buyback program (~10% of current market cap) provides meaningful per-share earnings accretion and downside support while the stock trades at a historically depressed ~12.7x trailing PE, well below its long-run average; management's willingness to deploy capital at this valuation reinforces the bull case that current prices are a multi-year low."
       ],
       "bear_case": [
-        "Wind segment losses ran $600 million in 2025, and while management guides for $400 million in 2026, any further overruns would push out consolidated margin-expansion timelines and pressure the premium 56x trailing PE valuation.",
-        "The stock hit a new 52-week high on earnings eve and is trading near or above analyst median price targets, meaning much of the backlog optimism may already be priced in; any Q1 2026 earnings shortfall or cautious guidance could trigger a sharp mean-reversion from elevated levels."
-      ],
-      "recommendation": "Buy",
-      "current_price": "$996.52",
-      "price_target": "$990.18 (-0.6%)",
-      "pe_ratio": "56.0",
-      "rsi": "N/A",
-      "vs_52wk_high": "-1.3% below high ($1,009.89)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Industrials - Power Equipment & Energy Technology",
-      "sources": ["Benzinga", "StockAnalysis", "MarketBeat", "eToro", "TIKR", "Utility Dive", "GE Vernova IR", "Simply Wall St", "Yahoo Finance"]
-    },
-    {
-      "ticker": "IBM",
-      "company": "International Business Machines Corporation",
-      "discussion_driver": "IBM reports Q1 2026 earnings on April 22 alongside ServiceNow and Texas Instruments, providing an early read on enterprise AI spending. Analysts broadly expect a beat on hybrid cloud and AI consulting revenues, with Wedbush projecting ~35% upside as enterprises accelerate from AI pilots to large-scale production deployments. IBM also recently acquired Confluent to bolster real-time data streaming capabilities for AI agents.",
-      "bull_case": [
-        "IBM has beaten consensus EPS estimates in each of the last four quarters and analysts expect continued momentum from AI consulting, hybrid cloud (Red Hat), automation, and cybersecurity as enterprises shift from AI experimentation to production deployment — a secular trend Wedbush says can drive 35% upside from current levels.",
-        "The Confluent acquisition creates a unified real-time data foundation enabling AI models and agents to operate with live context across on-premises, cloud, and hybrid environments, differentiating IBM's platform and expanding its AI services addressable market at a time when enterprise AI budgets are growing rapidly."
-      ],
-      "bear_case": [
-        "Red Hat growth decelerated from 12% to 8% last quarter, and IBM faces stiff competition from AWS and Azure; Claude Code and other AI tools that can modernize legacy COBOL systems directly threaten IBM's high-margin mainframe services revenue — a foundational business that underpins its financial model.",
-        "Frequent acquisitions have elevated goodwill and net intangibles, compressing margins and raising integration risk; if enterprise AI spending softens amid geopolitical uncertainty or macro headwinds, IBM's guidance could disappoint and partially reverse the stock's recent multiple expansion."
-      ],
-      "recommendation": "Buy",
-      "current_price": "$253.47",
-      "price_target": "$311.31 (+22.8%)",
-      "pe_ratio": "21.6",
-      "rsi": "N/A",
-      "vs_52wk_high": "-22.0% below high ($324.90)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Enterprise Software & IT Services",
-      "sources": ["MarketBeat", "Yahoo Finance", "Proactive Investors", "GuruFocus", "TipRanks", "TradingView", "Barchart", "StockTitan", "FinanceCharts"]
-    },
-    {
-      "ticker": "OKTA",
-      "company": "Okta, Inc.",
-      "discussion_driver": "Okta jumped 4.7% on April 20 after Raymond James (April 16) and Barclays both upgraded the stock, citing AI agents as a major new demand catalyst for identity security. Okta's 'Okta for AI Agents' product — which assigns distinct non-human identities to AI agents — launches April 30, providing a concrete near-term catalyst for a stock that has been down ~20% YTD and ~40% off its 52-week high.",
-      "bull_case": [
-        "The rise of agentic AI creates an entirely new identity management category: every AI agent requires a distinct non-human identity, dramatically widening Okta's total addressable market and opening cross-sell opportunities into identity governance and privileged access management across its enterprise customer base.",
-        "COVID-era contract renewal headwinds are largely resolved, with net revenue retention normalizing around 106%, and Okta reported its first year of GAAP profitability ($149M operating income, $863M free cash flow) — removing a key overhang and supporting a path back to double-digit revenue growth."
-      ],
-      "bear_case": [
-        "Approximately 20% of channel partners surveyed by KeyBanc are reducing software spend in favor of AI-native alternatives, and large enterprises could increasingly prefer integrated multi-function security platforms (CrowdStrike, Microsoft) over a standalone identity provider, capping Okta's long-term market share.",
-        "At roughly 61x trailing earnings, OKTA's valuation prices in an aggressive recovery contingent on both the AI agents thesis materializing and renewal headwinds staying resolved; the stock remains 40% below its 52-week high with limited near-term earnings power to anchor the multiple."
-      ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$75.67",
-      "price_target": "$100.00 (+32.2%)",
-      "pe_ratio": "60.8",
-      "rsi": "52.5",
-      "vs_52wk_high": "-40.6% below high ($127.30)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Cybersecurity / Identity Management",
-      "sources": ["Seeking Alpha", "Raymond James via Yahoo Finance", "247 Wall St", "GuruFocus", "Investing.com", "FinancialContent", "MarketBeat", "StockAnalysis", "eToro"]
-    },
-    {
-      "ticker": "LMT",
-      "company": "Lockheed Martin Corporation",
-      "discussion_driver": "Lockheed Martin reports Q1 2026 earnings on April 23 with defense sector sentiment elevated as US-Iran tensions prompt Pentagon requests for $50 billion in supplemental war funding and Trump signals a $1.5 trillion defense budget. LMT's F-35s and Aegis missile defense systems are actively deployed in ongoing operations, while a $173 billion backlog representing ~2 years of sales provides exceptional revenue visibility heading into the call.",
-      "bull_case": [
-        "The US-Iran conflict is driving real-time consumption of Lockheed's F-35 jets, Aegis systems, and missiles, and a proposed $1.5 trillion defense budget — plus $50 billion in Congressional war supplementals — would directly expand LMT's already-record $173 billion backlog and support multi-year revenue growth above 5%.",
-        "Q1 2026 preliminary results show revenue growing 4% YoY to $18 billion with net earnings of $1.7 billion, beating consensus; Aeronautics sales exceeded $7 billion and Missiles & Fire Control reached $3.3 billion, demonstrating broad execution across all four operating segments."
-      ],
-      "bear_case": [
-        "Management guided ~25% segment profit growth in Missiles & Fire Control contingent on production ramps executing on schedule — any delays would compress near-term margins and cause earnings misses against elevated expectations embedded in the stock's 26%+ YTD gain.",
-        "The analyst consensus is Hold with median price targets near $655 versus the $581 spot price, suggesting modest upside; any diplomatic de-escalation with Iran would remove a significant war premium from defense stocks and could trigger a notable sentiment reversal."
+        "AI-native competitors—Canva, Google, and OpenAI's image and video generation tools—continue commoditizing creative workflows, threatening Adobe's ability to sustain subscription pricing power and average revenue per user growth over the next several years.",
+        "Despite the buyback, the Wall Street consensus remains Hold with a wide target range ($220–$510), reflecting deep disagreement over Adobe's AI monetization potential; a recovery above $300 likely requires sustained ARR acceleration that analysts have not yet been convinced Adobe can reliably deliver."
       ],
       "recommendation": "Hold",
-      "current_price": "$581.28",
-      "price_target": "$655.91 (+12.8%)",
-      "pe_ratio": "27.5",
-      "rsi": "50.6",
-      "vs_52wk_high": "-16.0% below high ($692.00)",
+      "current_price": "$247.12",
+      "price_target": "$349.29 (+41.3%)",
+      "pe_ratio": "12.68",
+      "rsi": "29.19",
+      "vs_52wk_high": "-41.6% below high ($422.95)",
       "analyst_rating": "Hold",
-      "sector": "Industrials - Aerospace & Defense",
-      "sources": ["Barchart", "MarketBeat", "Invezz", "247 Wall St", "TIKR", "Trefis", "StockAnalysis", "Yahoo Finance", "Lockheed Martin IR"]
+      "sector": "Technology - Software",
+      "sources": ["GuruFocus", "TipRanks", "Benzinga", "MarketBeat", "StockAnalysis", "MacroTrends", "CNBC"]
     },
     {
-      "ticker": "NFLX",
-      "company": "Netflix, Inc.",
-      "discussion_driver": "Netflix fell ~10% after reporting strong Q1 2026 results (EPS $1.23 vs. $0.79 estimate, +56% beat) but guiding Q2 revenue to $12.57B versus the $12.64B consensus — the weakest guided growth rate in a year. Co-founder and Chairman Reed Hastings simultaneously announced he will not stand for re-election in June and will depart the board, adding leadership uncertainty to the guidance-driven sell-off. Morgan Stanley and JPMorgan responded by reiterating Buy ratings and advising investors to buy the dip.",
+      "ticker": "LHX",
+      "company": "L3Harris Technologies, Inc.",
+      "discussion_driver": "L3Harris reports fiscal Q2 2026 earnings after market close today (April 22) with defense stocks broadly bid higher as U.S.-Iran ceasefire negotiations stalled on April 21, raising conflict risk premiums. Investors are focused on execution within the company's record $38.7 billion backlog, margin trends across fixed-price development programs, and any update on the planned Missile Solutions unit IPO targeted for H2 2026.",
       "bull_case": [
-        "Despite the 10% sell-off, Netflix's Q1 2026 EPS beat of 56% demonstrates exceptional margin execution, and both Morgan Stanley ($115 target) and JPMorgan ($118 target) view the Q2 guidance miss as an overreaction — citing continued growth headroom in advertising, gaming, and live events as structural tailwinds.",
-        "With RSI at ~27 (deeply oversold territory), 37 Buy ratings versus just 1 Sell among covering analysts, and the stock trading 27% below its 52-week high, the technical setup and consensus conviction create a compelling risk/reward entry for long-term investors willing to look past a one-quarter guidance shortfall."
+        "L3Harris's $38.7 billion contractual backlog—built on expanding missile defense, ISR, and night-vision programs including a ~$400M THAAD solid rocket motor contract—provides exceptional multi-year revenue visibility as U.S. and NATO allies drive global defense budgets toward nearly $1.5 trillion by 2027.",
+        "The planned Missile Solutions IPO in H2 2026 could unlock over $4 billion in shareholder value and sharpen the company's strategic profile, while strong earnings momentum (+22% YoY EPS growth last quarter, +30.6% YoY free cash flow) demonstrates that the LHX NeXt cost-savings program is translating into real margin expansion."
       ],
       "bear_case": [
-        "Q2 2026 guidance implies revenue growth decelerating to a one-year low of 13%, and Reed Hastings' board departure removes a key institutional anchor — together these signals raise legitimate concerns about whether Netflix's post-password-sharing-crackdown growth algorithm is running out of steam.",
-        "Wolfe Research and Barclays both trimmed price targets on the guidance miss (Wolfe to $107, Barclays to $110), and if Q2 results disappoint again, current buyback levels offer limited support and the stock could test lower technical support levels near the $75 52-week low."
+        "A significant portion of L3Harris's backlog involves fixed-price development contracts where cost overruns could meaningfully compress operating margins, and the company's dependence on large government program funding creates revenue timing risk if U.S. defense appropriations face sequestration or prioritization shifts.",
+        "A former executive at L3Harris's Trenchant unit pled guilty to stealing and selling advanced hacking tools to a Russian-linked company between 2022 and 2025, raising corporate governance concerns and potential risks to sensitive government contracts and security clearances."
       ],
       "recommendation": "Hold",
-      "current_price": "$97.31",
-      "price_target": "$114.23 (+17.4%)",
-      "pe_ratio": "31.4",
-      "rsi": "26.6",
-      "vs_52wk_high": "-27.4% below high ($134.12)",
+      "current_price": "$348.57",
+      "price_target": "$330.23 (-5.3%)",
+      "pe_ratio": "40.94",
+      "rsi": "N/A",
+      "vs_52wk_high": "-8.1% below high ($379.23)",
       "analyst_rating": "Buy",
-      "sector": "Communication Services - Streaming Media",
-      "sources": ["Intellectia AI", "Yahoo Finance", "Investing.com", "247 Wall St", "QZ", "Benzinga", "MarketBeat", "TipRanks", "StockAnalysis"]
+      "sector": "Aerospace & Defense",
+      "sources": ["Meyka", "MarketBeat", "StockAnalysis", "Yahoo Finance", "Simply Wall St", "Zacks", "Seeking Alpha"]
     }
   ]
 }
