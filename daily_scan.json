@@ -1,129 +1,60 @@
 {
-  "report_date": "2026-04-22",
-  "market_tone": "Bullish",
+  "report_date": "2026-04-23",
+  "market_tone": "Mixed",
   "key_themes": [
-    "Trump extends Iran ceasefire indefinitely, boosting risk-on sentiment",
-    "Strong Q1 earnings season with ~85% of S&P 500 companies beating estimates",
-    "AI infrastructure demand driving outsized moves in energy and compute names"
+    "Iran War tensions resurge as Strait of Hormuz remains blocked, Brent crude tops $105/bbl",
+    "AI subscription anxiety reignited: IBM and ServiceNow earnings beats punished on slowing growth and geopolitical deal delays",
+    "Semiconductor analog upcycle confirmed: Texas Instruments Q1 blowout (+19% day) signals industrial and data center demand inflection"
   ],
   "sp500": {
-    "value": "7,137.90",
-    "change": "+1.05%"
+    "value": "7,108.40",
+    "change": "-0.41%"
   },
   "nasdaq": {
-    "value": "24,657.57",
-    "change": "+1.64%"
+    "value": "24,438.50",
+    "change": "-0.89%"
   },
   "stocks": [
     {
-      "ticker": "GEV",
-      "company": "GE Vernova",
-      "reason": "Surged 12% on Q1 earnings beat ($9.34B revenue vs $9.25B est.) driven by AI power infrastructure demand",
+      "ticker": "TXN",
+      "company": "Texas Instruments",
+      "reason": "Surged 19% to record high after Q1 2026 blowout: revenue $4.83B (+19% YoY) and EPS $1.68 both crushed estimates; CEO cited 90% data center revenue growth; multiple analyst upgrades from Stifel, TD Cowen, and Mizuho",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "Bloomberg",
-        "Sunday Guardian Live"
-      ]
-    },
-    {
-      "ticker": "AGPU",
-      "company": "Axe Compute",
-      "reason": "Surged 166% after announcing $260M, 36-month contract to supply 2,304 Nvidia B300 GPUs to undisclosed enterprise client",
-      "category": "news",
-      "sources": [
-        "Seeking Alpha",
         "GuruFocus",
-        "Barchart"
-      ]
-    },
-    {
-      "ticker": "UNH",
-      "company": "UnitedHealth Group",
-      "reason": "Jumped 8.75% on strong Q1 earnings beat; also upgraded to Buy at Argus with $400 price target",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "247WallSt",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "reason": "Q1 earnings beat after hours: EPS $0.41 vs $0.35 expected, revenue $22.39B vs $22.08B; stock rose 3% AH",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Electrek",
-        "Drive Tesla Canada"
-      ]
-    },
-    {
-      "ticker": "BA",
-      "company": "Boeing",
-      "reason": "Q1 results far better than feared: adjusted loss $0.20/share vs $0.80 expected; revenue $22.22B vs $21.78B est.; shares +5%",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Bloomberg",
+        "Motley Fool",
         "Yahoo Finance"
       ]
     },
     {
       "ticker": "NOW",
       "company": "ServiceNow",
-      "reason": "Q1 earnings and revenue beat expectations but stock fell 13%+ after hours as Armis acquisition integration weighed on outlook",
+      "reason": "Tumbled ~18% despite Q1 revenue beat ($3.77B vs $3.74B est); 75bps headwind to subscription growth from Middle East deal delays tied to Iran War; AI-disruption fears amplified by weak outlook optics",
       "category": "earnings",
       "sources": [
-        "CNBC"
+        "CNBC",
+        "Benzinga",
+        "Motley Fool",
+        "Investing.com"
       ]
     },
     {
-      "ticker": "BSX",
-      "company": "Boston Scientific",
-      "reason": "Jumped ~9% on Q1 earnings beat that reset growth expectations higher for medical devices",
+      "ticker": "IBM",
+      "company": "IBM",
+      "reason": "Fell nearly 8% after Q1 2026 beat (EPS beat by $0.10, revenue beat by $300M) failed to impress; revenue growth slowed to 9% from 12.2%; company offered no guidance raise, reigniting AI-disruption concerns for enterprise software",
       "category": "earnings",
       "sources": [
-        "Motley Fool",
+        "CNBC",
+        "Benzinga",
+        "Investing.com",
         "Yahoo Finance"
       ]
     },
     {
-      "ticker": "UAL",
-      "company": "United Airlines",
-      "reason": "Fell 6% after slashing 2026 EPS guidance to $7-$11 from prior $12-$14, citing macro uncertainty",
-      "category": "earnings",
-      "sources": [
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "ASTS",
-      "company": "AST SpaceMobile",
-      "reason": "FCC approved satellite network license modification; rose 6%+ midday despite BlueBird 7 satellite orbital failure setback",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "GuruFocus",
-        "TheStreet"
-      ]
-    },
-    {
-      "ticker": "ABNB",
-      "company": "Airbnb",
-      "reason": "Upgraded to Overweight at Wells Fargo with PT raised to $178 from $136, citing accelerating pace of innovation",
-      "category": "upgrade",
-      "sources": [
-        "Yahoo Finance",
-        "CNBC",
-        "247WallSt"
-      ]
-    },
-    {
-      "ticker": "VRT",
-      "company": "Vertiv",
-      "reason": "Fell 4%+ despite Q1 earnings beat (EPS $1.17 vs $1.00 est.); investors concerned about forward guidance",
+      "ticker": "INTC",
+      "company": "Intel",
+      "reason": "Soared 15-19% in after-hours trading after Q1 2026 earnings crushed expectations on revenue growth; marked a significant beat for the chipmaker amid its ongoing turnaround effort",
       "category": "earnings",
       "sources": [
         "CNBC",
@@ -131,42 +62,114 @@
       ]
     },
     {
-      "ticker": "LUV",
-      "company": "Southwest Airlines",
-      "reason": "Q1 after-hours miss: EPS $0.45 vs $0.47 expected, revenue $7.20B vs $7.27B expected",
+      "ticker": "PENN",
+      "company": "Penn Entertainment",
+      "reason": "Rallied 15% after Q1 results beat expectations, driven by strength in regional casinos and interactive/online gambling segments",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Bloomberg"
+      ]
+    },
+    {
+      "ticker": "URI",
+      "company": "United Rentals",
+      "reason": "Jumped 13%+ after Q1 beat and raised full-year sales guidance to $16.9B\u2013$17.4B range, signaling robust infrastructure and construction demand",
       "category": "earnings",
       "sources": [
         "CNBC"
       ]
     },
     {
-      "ticker": "BIIB",
-      "company": "Biogen",
-      "reason": "Upgraded to Buy from Neutral at UBS with price target raised to $225 from $185",
-      "category": "upgrade",
-      "sources": [
-        "Yahoo Finance",
-        "247WallSt"
-      ]
-    },
-    {
-      "ticker": "CAVA",
-      "company": "Cava Group",
-      "reason": "Roth Capital initiated coverage at Buy with $106 price target, citing conservative 2026 same-store sales outlook as upside",
-      "category": "upgrade",
-      "sources": [
-        "CNBC",
-        "247WallSt"
-      ]
-    },
-    {
-      "ticker": "T",
-      "company": "AT&T",
-      "reason": "Q1 results beat on both EPS ($0.57 vs $0.55 est.) and revenue ($31.5B vs $31.25B est.) but stock reaction was mixed",
+      "ticker": "NOK",
+      "company": "Nokia",
+      "reason": "Shares surged 8.2% after posting a Q1 2026 quarterly profit beat, rebounding from prior weakness in telecom infrastructure spending",
       "category": "earnings",
       "sources": [
+        "CNBC",
+        "Bloomberg",
+        "Benzinga"
+      ]
+    },
+    {
+      "ticker": "IREN",
+      "company": "Iren (formerly Iris Energy)",
+      "reason": "Rose 7.5% to $52.02 as the market continued rewarding its pivot from Bitcoin mining toward AI data center operations; ongoing narrative of GPU compute monetization",
+      "category": "news",
+      "sources": [
         "Motley Fool",
+        "Bloomberg"
+      ]
+    },
+    {
+      "ticker": "CSX",
+      "company": "CSX Corporation",
+      "reason": "Popped 7% after Q1 2026 EPS of $0.43 beat the $0.39 consensus; results highlighted in Bloomberg premarket movers list",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Bloomberg"
+      ]
+    },
+    {
+      "ticker": "HON",
+      "company": "Honeywell International",
+      "reason": "Fell ~3% in premarket and regular session despite Q1 EPS beat; revenue came in below expectations, disappointing investors who had anticipated a full beat",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
         "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "LMT",
+      "company": "Lockheed Martin",
+      "reason": "Dropped ~4% after Q1 2026 earnings and revenue both missed Wall Street forecasts, a notable stumble for the defense giant despite elevated geopolitical tensions from the Iran War",
+      "category": "earnings",
+      "sources": [
+        "GuruFocus",
+        "TheStreet"
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "reason": "Volatile session: Q1 delivered a top- and bottom-line beat with automotive business better than feared, but shares reversed after CEO Musk announced plans to increase capital investments to over $25B for robotics pivot",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Bloomberg",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "AAL",
+      "company": "American Airlines",
+      "reason": "Beat Q1 earnings and revenue forecasts but cut full-year 2026 earnings outlook citing surging oil prices driven by the Iran War and Strait of Hormuz disruptions",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Investing.com"
+      ]
+    },
+    {
+      "ticker": "BYD",
+      "company": "Boyd Gaming",
+      "reason": "Slipped 7% in after-hours trading after Q1 adjusted EPS of $1.60 missed the $1.73 consensus; revenue of $997.4M also fell short of the expected $1B",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Barchart"
+      ]
+    },
+    {
+      "ticker": "CAR",
+      "company": "Avis Budget Group",
+      "reason": "JPMorgan downgraded to Underweight from Neutral citing unsustainable valuation not supported by fundamentals; new price target $165",
+      "category": "downgrade",
+      "sources": [
+        "Yahoo Finance",
+        "Benzinga"
       ]
     }
   ]
