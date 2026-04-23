@@ -479,6 +479,26 @@
 
 | Stock | Rec | Price | Target | vs 52-Wk High |
 |-------|-----|-------|--------|---------------|
+| GEV ⭐ | Hold | $1,121.30 | $809.00 (-27.8% to consensus; Susquehanna raised PT to $1,080) | At new 52-week high (prior high $1,009.49 on Apr 17; today's surge set new all-time record) |
+| AGPU | Spec. Buy | $13.61 | $4.50 (TipRanks AI analyst, Neutral — pre-contract; no formal sell-side consensus) | -57.5% below 52-week high ($32.10) |
+| UNH ⭐ | Buy | $352.04 | $395.68 (+12.4%) | -19.8% below 52-week high ($438.85) |
+| TSLA ⭐ | Hold | $387.51 | $397.15 (+2.5%) | -22.3% below 52-week high ($498.83 on Dec 22, 2025) |
+| BA ⭐ | Buy | $230.20 | $256.44 (+11.4%) | -9.5% below 52-week high ($254.35) |
+| NOW ⭐ | Spec. Buy | $90.55 | $173.46 (+91.6%) | -57.2% below high ($211.48) |
+| BSX | Buy | $64.87 | $96.66 (+49.0%) | -40.8% below high ($109.50) |
+| UAL ⭐ | Hold | $90.78 | $130.59 (+43.8%) | -22.8% below high ($117.53) |
+| ASTS | Spec. Buy | $84.76 | $82.51 (-2.7%) | -34.7% below high ($129.89) |
+| ABNB | Buy | $131.40 | $150.10 (+14.2%) | -8.7% below high ($143.88) |
+| VRT | Buy | $303.00 | $309.75 (+2.2%) | -6.2% below high ($323.04) |
+| LUV | Hold | $39.27 | $46.50 (+18.4%) | -28.7% below high ($55.11) |
+| BIIB | Spec. Buy | $187.62 | $198.22 (+5.6%) | -7.3% below high ($202.41) |
+| CAVA | Hold | $96.27 | $106.00 (+10.1%) | -5.2% below high ($101.50) |
+| T ⭐ | Buy | $25.88 | $30.43 (+17.6%) | -11.2% below high ($29.14) |
+
+### 2026-04-22 | Bullish | Trump extends Iran ceasefire indefinitely, boosting risk-on sentiment, Strong Q1 earnings season with ~85% of S&P 500 companies beating estimates, AI infrastructure demand driving outsized moves in energy and compute names
+
+| Stock | Rec | Price | Target | vs 52-Wk High |
+|-------|-----|-------|--------|---------------|
 | TSLA ⭐ | Hold | $388.99 | $397.35 (+2.2%) | -22.0% below high ($498.83) |
 | BA ⭐ | Buy | $225.08 | $256.44 (+13.9%) | -11.5% below high ($254.35) |
 | IBM ⭐ | Hold | $234.84 | $302.00 (+28.6%) | -27.7% below high ($324.90) |
