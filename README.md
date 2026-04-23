@@ -1,372 +1,389 @@
 # DAILY STOCK SENTIMENT REPORT
 
-**DATE:** 2026-04-21
+**DATE:** 2026-04-22
 **TOTAL STOCKS TRACKED:** 12
-**MARKET TONE:** Mixed
-**KEY THEMES:** Mega-Cap Earnings, AI Infrastructure Investment, CEO Transition, Geopolitical Risk, Semiconductor Recovery
+**MARKET TONE:** Bullish
+**KEY THEMES:** Trump extends Iran ceasefire indefinitely, boosting risk-on sentiment, Strong Q1 earnings season with ~85% of S&P 500 companies beating estimates, AI infrastructure demand driving outsized moves in energy and compute names
 
-**S&P 500:** 7,064.01 (-0.6%) • **NASDAQ:** 24,259.96 (-0.6%)
+**S&P 500:** 7,137.90 (+1.05%) • **NASDAQ:** 24,657.57 (+1.64%)
 
 ---
 
 ## TESLA, INC. (TSLA) ⭐
 
-**Discussion Driver:** Tesla reports Q1 2026 earnings after market close today; Q1 deliveries of 358,023 units missed consensus of ~372K, raising concerns about demand erosion. Analysts expect $0.37 EPS on ~$22.7B revenue, with automotive gross margin trajectory as the central investor debate amid intensifying BYD competition in China.
+**Discussion Driver:** Tesla reports Q1 2026 earnings after market close today with Wall Street focused on margin trajectory after Q1 deliveries of 358,023 units came in ~14K below the 372K consensus estimate. Intensifying BYD competition in China and questions about Robotaxi timeline are central investor concerns, while the EPS print and automotive gross margin guidance will set the tone for near-term sentiment.
 
 **Bull Case:**
-- Tesla's energy business (Megapack, Powerwall) is growing rapidly and diversifying revenue away from automotive; Full Self-Driving and robotaxi commercialization represent a potentially massive, high-margin revenue layer not priced into consensus models.
-- Q1 earnings could surprise positively given analysts have already reset expectations lower; the stock is already trading 21% below its 52-week high, partly reflecting the delivery miss, which may limit further downside.
+- Tesla's Full Self-Driving technology and upcoming Robotaxi service represent a transformational high-margin revenue opportunity beyond vehicle sales, potentially creating a fleet business at massive scale that is not yet reflected in consensus earnings models.
+- The Megapack energy storage business continues to grow rapidly at superior margins compared to vehicles, providing meaningful revenue diversification as global utility-scale battery storage demand accelerates across grid modernization projects.
 
 **Bear Case:**
-- BYD is outselling Tesla in China and aggressively expanding globally with competitive models at lower price points, putting structural pressure on Tesla's market share and margins in its most important growth market.
-- At a trailing P/E of ~384x, Tesla remains one of the most expensive mega-cap stocks; if automotive gross margins continue to compress, the valuation is difficult to justify relative to actual earnings power.
+- Q1 deliveries missed consensus by ~14K units and BYD's aggressive pricing in China is eroding Tesla's market share in its most important growth region, putting sustained pressure on both revenue volumes and automotive gross margin recovery.
+- A trailing PE of ~317x is difficult to justify on near-term fundamentals, and with the consensus price target only 2.2% above current levels, Tesla's premium valuation leaves virtually no room for an earnings-night disappointment.
 
 **Recommendation:** Hold
 
 **Metrics:**
 | Metric | Value |
 |--------|-------| 
-| Current Price | $392.50 |
-| Price Target | $397.35 (+1.2%) |
-| P/E Ratio | 384.64 |
-| RSI | N/A |
-| vs 52-Wk High | -21.3% below high ($498.83) |
+| Current Price | $388.99 |
+| Price Target | $397.35 (+2.2%) |
+| P/E Ratio | 317.23 |
+| RSI | 47.96 |
+| vs 52-Wk High | -22.0% below high ($498.83) |
 | Analyst Rating | Hold |
 | Sector | Consumer Discretionary - Electric Vehicles |
 
-**Sources:** Yahoo Finance, Electrek, Meyka, CNBC, TipRanks
+**Sources:** Yahoo Finance, GuruFocus, Electrek, CNBC, StockAnalysis
 
 ---
 
-## THE BOEING COMPANY (BA) ⭐
+## BOEING COMPANY (BA) ⭐
 
-**Discussion Driver:** Boeing reported Q1 2026 results before market open today; the company beat EPS estimates with a narrower core loss of -$0.49 vs. -$0.69 expected, but revenue of $19.5B missed the $21.97B consensus. Boeing delivered 143 commercial aircraft in Q1, beating Airbus for the first time since ~2019, and booked 221 net orders, but investors are closely scrutinizing CEO Kelly Ortberg's recovery timeline and path to cash flow breakeven.
+**Discussion Driver:** Boeing reported Q1 2026 earnings this morning that significantly beat consensus on both lines — EPS of -$0.20 vs. the expected -$0.75 loss, and revenue of $22.22B (+14% YoY) vs. $21.97B consensus — lifting shares ~4% as investors gain confidence in CEO Kelly Ortberg's turnaround. Commercial deliveries rose 10% YoY to 143 aircraft, and defense revenue surged 21%, providing broad-based evidence the recovery is taking hold.
 
 **Bull Case:**
-- Boeing's $545B backlog and record 143 commercial deliveries in Q1—its first quarterly delivery win over Airbus since 2019—signal a meaningful production recovery; the 737 MAX production ramp provides clear multi-year revenue visibility.
-- EPS beat expectations significantly (-$0.49 vs. -$0.69 expected), and CEO Ortberg is executing a credible recovery plan; continued production ramp evidence should attract institutional buyers back to the stock.
+- Boeing's Q1 2026 beat — far smaller EPS loss than expected and revenue $22.22B (+14% YoY) — provides the first concrete multi-segment evidence that Ortberg's operational recovery plan is working across commercial, defense, and services simultaneously.
+- A 10% increase in commercial aircraft deliveries and an 87% surge in total orders to $23B shows the production and backlog pipeline is rebuilding, suggesting Boeing can approach its 737 MAX delivery rate targets in the second half of 2026.
 
 **Bear Case:**
-- Revenue of $19.5B significantly missed the $21.97B consensus, indicating the production ramp is slower than hoped; Boeing continues to burn cash with ongoing quarterly losses, and supply chain bottlenecks remain a real constraint.
-- Persistent regulatory scrutiny following prior safety scandals makes fundamental valuation challenging; any new quality or safety incident could sharply set back the recovery narrative and pressure the stock.
+- Despite the top-line recovery, Boeing's commercial unit still posted an operating loss in Q1, indicating that volume growth has not yet translated into positive per-unit economics due to lingering supply chain costs and regulatory compliance investments.
+- Boeing's defense segment carries fixed-price contract exposure that has historically triggered multi-billion dollar charges, and management holding full-year guidance flat despite the Q1 beat signals caution about geopolitical and fuel cost headwinds.
 
-**Recommendation:** Hold
+**Recommendation:** Buy
 
 **Metrics:**
 | Metric | Value |
 |--------|-------| 
 | Current Price | $225.08 |
-| Price Target | $250.00 (+11.1%) |
-| P/E Ratio | N/A |
-| RSI | 45.64 |
+| Price Target | $256.44 (+13.9%) |
+| P/E Ratio | 81.12 |
+| RSI | 53.29 |
 | vs 52-Wk High | -11.5% below high ($254.35) |
-| Analyst Rating | Hold |
+| Analyst Rating | Strong Buy |
 | Sector | Industrials - Aerospace & Defense |
 
-**Sources:** Boeing IR, CNBC, TipRanks, MarketBeat, TIKR, Meyka
+**Sources:** CNBC, Boeing IR, TipRanks, Yahoo Finance, StockAnalysis, TradingKey
 
 ---
 
 ## INTERNATIONAL BUSINESS MACHINES CORPORATION (IBM) ⭐
 
-**Discussion Driver:** IBM reports Q1 2026 earnings tonight at 5 PM ET; consensus expects $1.81 EPS on $15.64B revenue representing 7% YoY growth. IBM has beaten estimates for 12 consecutive quarters and its anticipated 27th consecutive dividend hike would extend its Dividend Aristocrat streak. The stock is down ~13.5% YTD as investors debate whether AI-native competitors pose a structural risk to IBM's IT consulting and enterprise services business.
+**Discussion Driver:** IBM reports Q1 2026 earnings tonight after a 13.5% YTD decline driven by investor concern that AI-native competitors are eroding its enterprise software moat. Consensus expects EPS of $1.81 on $15.6B revenue, and the market is also watching for what would be IBM's 27th consecutive annual dividend hike — a signal of management confidence in underlying cash flow resilience amid the AI disruption debate.
 
 **Bull Case:**
-- IBM's watsonx AI platform and enterprise hybrid cloud offerings are gaining traction in regulated industries; 12 straight EPS beats suggest management's conservative guidance de-risks negative surprises, and a 27th consecutive dividend hike reinforces its Dividend Aristocrat status and yield appeal.
-- At a trailing PE of ~22x and with analyst consensus projecting 17% upside to the $302 price target, IBM offers an attractive risk-reward for value-oriented investors seeking AI infrastructure exposure at a reasonable valuation.
+- IBM's hybrid cloud platform (Red Hat/OpenShift) and WatsonX AI services are deeply embedded in Fortune 500 enterprise workflows, creating high switching costs and durable recurring revenue that cloud-native AI competitors cannot displace quickly without major re-platforming projects.
+- A 27th consecutive dividend increase would reinforce IBM's capital return credentials, and with the stock now 27.7% below its 52-week high and RSI approaching oversold at 34.6, the risk/reward is becoming increasingly attractive for income and value-oriented investors.
 
 **Bear Case:**
-- AI-native platforms (Microsoft Copilot, Google Cloud AI, AWS Bedrock) are increasingly cannibalizing IBM's IT consulting and services revenue as enterprise clients automate work that IBM consultants historically performed.
-- The stock's 13.5% YTD underperformance reflects genuine market concern that IBM's legacy infrastructure revenue is declining faster than new AI business can backfill it, creating a structural revenue growth headwind.
+- AI-native tools from Microsoft Azure OpenAI, Salesforce Einstein, and open-source models increasingly compete directly with IBM's enterprise AI and consulting offerings at a fraction of the cost, threatening to commoditize IBM's highest-margin revenue streams over the next 2-3 years.
+- The stock is down 13.5% YTD and 27.7% from its 52-week high with RSI at 34.6, suggesting persistent institutional selling pressure — an indication that investors are fundamentally re-rating IBM's long-term growth prospects rather than treating the decline as a temporary dip.
 
 **Recommendation:** Hold
 
 **Metrics:**
 | Metric | Value |
 |--------|-------| 
-| Current Price | $257.93 |
-| Price Target | $302.00 (+17.1%) |
-| P/E Ratio | 21.96 |
-| RSI | N/A |
-| vs 52-Wk High | -20.6% below high ($324.90) |
+| Current Price | $234.84 |
+| Price Target | $302.00 (+28.6%) |
+| P/E Ratio | 21.55 |
+| RSI | 34.63 |
+| vs 52-Wk High | -27.7% below high ($324.90) |
 | Analyst Rating | Buy |
-| Sector | Technology - IT Services & Cloud |
+| Sector | Technology - Enterprise Software & Cloud |
 
-**Sources:** Seeking Alpha, TipRanks, TheStreet, Benzinga, MarketBeat, GuruFocus
+**Sources:** Yahoo Finance, Benzinga, MarketBeat, StockAnalysis, FinanceCharts, GuruFocus
 
 ---
 
 ## SERVICENOW, INC. (NOW) ⭐
 
-**Discussion Driver:** ServiceNow reports Q1 2026 earnings tonight; consensus expects $0.95 EPS on $3.75B revenue. The company has beaten EPS estimates 100% of the time over the past two years, making it a high-visibility AI-enterprise software bellwether. The stock has fallen ~52% from its 52-week high amid a broad SaaS sector selloff, creating a stark tension between strong fundamental execution and deeply compressed equity multiples.
+**Discussion Driver:** ServiceNow reports Q1 2026 earnings after market close tonight as the stock sits in deeply oversold territory — RSI 24.6 — having shed over 57% from its 52-week high of $211.48. The company has beaten EPS estimates 100% of the time over the prior two years (consensus: $0.95 EPS, $3.75B revenue), making tonight's print and subscription revenue guidance the pivotal test for whether the stock can begin a recovery or faces further de-rating.
 
 **Bull Case:**
-- ServiceNow's perfect 2-year EPS beat record and 20.7% Q4 revenue growth demonstrate exceptional execution discipline; its Now Platform is deeply embedded in enterprise workflows, and expanding AI automation features (Now Assist) open significant new monetization opportunities across its large installed base.
-- A Strong Buy consensus from 30 of 35 analysts—with a median price target implying ~80% upside—reflects conviction that the SaaS selloff has created a compelling entry point into one of the highest-quality enterprise software franchises available.
+- ServiceNow's 100% EPS beat rate over the prior two years and deeply embedded AI-powered enterprise platform across IT service management, HR, and security operations provide strong recurring revenue visibility, and a beat tonight could catalyze a significant relief rally from oversold RSI levels.
+- Now Assist generative AI features represent a high-value upsell opportunity across ServiceNow's large installed base, and if management raises subscription revenue guidance, it could begin to close the gap between the current $90.55 price and the analyst consensus target of $212.67.
 
 **Bear Case:**
-- At a trailing P/E of ~56x, ServiceNow still carries a significant premium to the broader market even after its selloff; if revenue growth moderates from 20%+ to the mid-teens, further multiple compression could continue to limit near-term upside.
-- Microsoft Copilot, Salesforce Agentforce, and other AI workflow platforms are increasingly targeting ServiceNow's core enterprise automation market with bundled offerings, posing a real competitive threat to its pricing power and customer retention.
+- The stock's 57% decline from its 52-week high reflects deep investor concern that geopolitical deal delays and tightening enterprise IT budgets are structurally slowing ServiceNow's subscription growth, and disappointing guidance tonight could accelerate the selloff toward the 52-week low of $81.24.
+- UBS recently downgraded to Neutral with a $100 price target — barely above current levels — suggesting that even cautious bulls see limited near-term upside, and further analyst downgrades following an uncertain guidance print would create sustained selling pressure.
+
+**Recommendation:** Speculative Buy
+
+**Metrics:**
+| Metric | Value |
+|--------|-------| 
+| Current Price | $90.55 |
+| Price Target | $212.67 (+134.9%) |
+| P/E Ratio | 41.29 |
+| RSI | 24.60 |
+| vs 52-Wk High | -57.2% below high ($211.48) |
+| Analyst Rating | Buy |
+| Sector | Technology - Enterprise Software |
+
+**Sources:** ServiceNow IR, MarketBeat, Yahoo Finance, GuruFocus, Benzinga, WallStreetZen
+
+---
+
+## TEXAS INSTRUMENTS INCORPORATED (TXN) ⭐
+
+**Discussion Driver:** Texas Instruments reported Q1 2026 earnings after market close tonight, beating across all metrics: EPS $1.68 vs. $1.37 expected (+22%), revenue $4.83B (+19% YoY) vs. $4.52B consensus, and Q2 guidance of $5.0-5.4B vs. $4.85B expected — sending shares up ~8% after hours. The results confirm the analog semiconductor upcycle thesis that drove multiple analyst upgrades ahead of earnings, including Stifel's upgrade to Buy with a $250 price target.
+
+**Bull Case:**
+- Q1 revenue of $4.83B (+19% YoY) and Q2 guidance of $5.0-5.4B — well above the $4.85B consensus — confirm the analog semiconductor upcycle is accelerating in industrial and data center markets, driven by AI infrastructure buildout and industrial automation demand.
+- Multiple pre-earnings analyst upgrades (Stifel to Buy/$250, Mizuho to Neutral/$215) signal growing Street confidence in the cycle recovery, and the strong Q1 beat positions Texas Instruments for a wave of further price target increases that could sustain near-term momentum.
+
+**Bear Case:**
+- At a trailing PE of 39.47x — 71% above Texas Instruments' 10-year median of 23.14x — the stock is priced for a robust cycle recovery, and any unexpected deceleration in industrial or automotive semiconductor demand could trigger a rapid and severe multiple compression.
+- Geopolitical trade tensions and U.S.-China technology restrictions pose a structural risk to TI's exposure to Chinese industrial and automotive customers, and an escalation in export controls could impair a meaningful portion of the company's total addressable market.
 
 **Recommendation:** Buy
 
 **Metrics:**
 | Metric | Value |
 |--------|-------| 
-| Current Price | $100.97 |
-| Price Target | $182.50 (+80.7%) |
-| P/E Ratio | 55.88 |
+| Current Price | $225.90 |
+| Price Target | $225.48 (flat; pre-earnings consensus, likely revised upward after strong beat) |
+| P/E Ratio | 39.47 |
 | RSI | N/A |
-| vs 52-Wk High | -52.3% below high ($211.48) |
-| Analyst Rating | Strong Buy |
-| Sector | Technology - Enterprise Software |
-
-**Sources:** ServiceNow IR, MarketBeat, Yahoo Finance, StockAnalysis, WallStreetZen
-
----
-
-## TEXAS INSTRUMENTS INCORPORATED (TXN)
-
-**Discussion Driver:** Texas Instruments reports Q1 2026 earnings tonight after market close; analysts expect $1.37 EPS on $4.52B revenue, implying 7% and 11% YoY growth respectively. Multiple recent analyst upgrades ahead of results—including Stifel (Hold to Buy, $250 PT) and Mizuho (Underperform to Neutral)—reflect growing conviction in the analog semiconductor cycle recovery thesis, and the stock has surged 29% YTD in anticipation.
-
-**Bull Case:**
-- The analog semiconductor cycle recovery is gaining momentum in TXN's key industrial and automotive end markets after a prolonged inventory correction; a Q1 2026 beat tonight would validate the recovery thesis and likely drive further analyst upgrades and multiple expansion.
-- Texas Instruments' dominant position in analog/embedded processing and its low-cost fab strategy provide durable competitive moats; the dividend has grown consistently and free cash flow is expected to recover significantly as elevated capex normalizes.
-
-**Bear Case:**
-- Trading at ~36x trailing earnings—approximately 48% above historical averages—TXN is priced for a robust recovery that may prove uneven; tariffs affecting industrial and automotive customers could dampen capital spending and delay the demand recovery timeline.
-- Revenue growth expectations of ~11% may disappoint if industrial inventory re-stocking stalls; elevated capex from its 300mm fab expansion will continue to pressure near-term free cash flow, limiting buyback-driven EPS support.
-
-**Recommendation:** Hold
-
-**Metrics:**
-| Metric | Value |
-|--------|-------| 
-| Current Price | $212.63 |
-| Price Target | $223.89 (+5.3%) |
-| P/E Ratio | 35.97 |
-| RSI | 63.00 |
-| vs 52-Wk High | -8.1% below high ($231.32) |
+| vs 52-Wk High | -2.3% below high ($231.32) |
 | Analyst Rating | Hold |
 | Sector | Technology - Semiconductors (Analog) |
 
-**Sources:** Meyka, Benzinga, Ainvest, StockAnalysis, MarketBeat, TIKR
+**Sources:** Meyka, Benzinga, Yahoo Finance, Bloomberg, GuruFocus, TipRanks, eToro
 
 ---
 
 ## UNITEDHEALTH GROUP INCORPORATED (UNH) ⭐
 
-**Discussion Driver:** UnitedHealth reported Q1 2026 earnings on April 21 that beat estimates by 9.4%: adjusted EPS $7.23 vs. $6.61 expected, revenue $111.7B, and medical benefit ratio improved sharply to 83.9% vs. 85.5% expected. Full-year adjusted EPS guidance was raised to $18.25+, sending shares up ~6% and making it a leading market story heading into April 22.
+**Discussion Driver:** UNH surged ~10% on April 21 after Q1 2026 earnings sharply beat estimates (adj. EPS $7.23 vs. $6.58 est.) with the medical benefit ratio improving to 83.9% vs. 85.5% expected; full-year adjusted EPS guidance was raised to $18.25+, signaling management confidence in a utilization cost turnaround that had punished the stock through 2025.
 
 **Bull Case:**
 - Medical benefit ratio improvement to 83.9%—well below the feared 85.5%—signals better cost management and utilization normalization, supporting meaningful margin expansion through the remainder of 2026.
-- The stock remains ~24% below its 52-week high of $453.50 with full-year guidance just raised, offering substantial recovery runway for investors who missed the initial post-earnings surge.
+- Wells Fargo raised its price target to $397 (Overweight) and Morgan Stanley named UNH a Top Pick at $375, reflecting conviction that the earnings recovery is durable and the stock remains undervalued at ~18x PE versus its 22x historical average.
 
 **Bear Case:**
-- Medicare Advantage membership headwinds persist with projected losses of 1.3–1.4 million members in 2026—significantly more than previously forecast—creating a structural revenue drag even as margins improve.
-- RSI at 73 signals an overbought condition following the post-earnings surge, raising the near-term risk of profit-taking before the stock can sustain further gains.
+- Medicare Advantage membership headwinds persist with projected losses of 1.3–1.4 million members in 2026, creating a structural revenue drag even as margins improve.
+- RSI near 80 signals overbought conditions following the post-earnings surge, raising near-term profit-taking risk before the stock can sustain further gains toward analyst targets.
 
-**Recommendation:** Buy
+**Recommendation:** Hold
 
 **Metrics:**
 | Metric | Value |
 |--------|-------| 
-| Current Price | $342.89 |
-| Price Target | $370.70 (+8.1%) |
+| Current Price | $345.10 |
+| Price Target | $377.83 (+9.5%) |
 | P/E Ratio | 24.52 |
-| RSI | 73.14 |
-| vs 52-Wk High | -24.4% below high ($453.50) |
+| RSI | ~80 (overbought) |
+| vs 52-Wk High | -23.9% below high ($453.50) |
 | Analyst Rating | Buy |
 | Sector | Healthcare - Managed Care |
 
-**Sources:** CNBC, Benzinga, TipRanks, MarketBeat, GuruFocus, StockAnalysis
+**Sources:** CNBC, Benzinga, TipRanks, MarketBeat, GuruFocus, Wells Fargo via Daily Political
 
 ---
 
 ## APPLE INC. (AAPL) ⭐
 
-**Discussion Driver:** Tim Cook announced he will step down as CEO effective September 1, 2026, with hardware engineering SVP John Ternus named as successor; Cook becomes Executive Chairman. The stock fell approximately 2.5% on leadership transition uncertainty at a company approaching $4 trillion in market cap, making it a top market story heading into April 22.
+**Discussion Driver:** Tim Cook announced he will step down as CEO effective September 1, 2026, with hardware engineering SVP John Ternus named as his successor; Cook becomes Executive Chairman. The stock fell approximately 2.5% on leadership transition uncertainty at a company approaching $4 trillion in market cap.
 
 **Bull Case:**
 - Apple's deeply entrenched ecosystem, $90B+ annual services revenue, and accelerating AI integration via Apple Intelligence provide durable earnings power that transcends any individual executive change.
-- The consensus analyst price target of ~$300 represents roughly 10% upside from current levels, and Wedbush's $350 bull-case target reflects continued confidence in an AI-driven iPhone upgrade supercycle over the next two to three years.
+- AAPL's RSI fell to ~27.6 (deeply oversold), suggesting the CEO-transition selloff is overdone; 28 analysts maintain a Buy consensus with ~14% upside to the $303 average price target.
 
 **Bear Case:**
 - John Ternus is a celebrated hardware engineer but has never managed a major business unit or public company, raising legitimate execution risk at a $3.85 trillion firm navigating intense AI competition and regulatory scrutiny.
 - Ongoing U.S.-China tariff risks threaten Apple's supply chain and China App Store revenue (~17% of total sales), and any escalation could compress margins before the iPhone 18 volume ramp later in 2026.
-
-**Recommendation:** Hold
-
-**Metrics:**
-| Metric | Value |
-|--------|-------| 
-| Current Price | $273.05 |
-| Price Target | $300.09 (+9.9%) |
-| P/E Ratio | 34.7 |
-| RSI | N/A |
-| vs 52-Wk High | -5.4% below high ($288.62) |
-| Analyst Rating | Buy |
-| Sector | Technology - Consumer Electronics |
-
-**Sources:** CNBC, Fortune, 9to5Mac, StockAnalysis, MarketBeat, Wedbush
-
----
-
-## AMAZON.COM, INC. (AMZN) ⭐
-
-**Discussion Driver:** Amazon announced up to $25 billion in additional investment in Anthropic—bringing its total commitment to ~$33 billion—while Anthropic pledged $100B+ to AWS over 10 years at a $380B Anthropic valuation. Shares climbed ~2.3% on the deal, which cements Amazon as the primary AI infrastructure provider for one of the world's leading frontier AI labs.
-
-**Bull Case:**
-- Anthropic's $100B+ AWS spend commitment over a decade is transformational for cloud revenue visibility, and Amazon's combined position as investor, infrastructure provider, and developer-tools platform makes it uniquely positioned to capture enterprise AI spending at scale.
-- Amazon's high-margin advertising and third-party marketplace segments continue generating strong free cash flow while AWS AI capacity—including proprietary Trainium chips and Graviton cores—positions AMZN as a multi-decade AI infrastructure compounder.
-
-**Bear Case:**
-- The $25 billion Anthropic bet concentrates AI risk on a single partner at a $380B valuation; if OpenAI, Google Gemini, or Meta's Llama displaces Anthropic in enterprise AI adoption, the return on that capital could significantly disappoint.
-- AMZN is trading within 2% of its 52-week high at a trailing P/E of ~35x, leaving limited margin of safety if AWS growth guidance disappoints or macroeconomic headwinds dampen consumer e-commerce spending.
 
 **Recommendation:** Buy
 
 **Metrics:**
 | Metric | Value |
 |--------|-------| 
-| Current Price | $253.96 |
-| Price Target | $281.95 (+11.0%) |
-| P/E Ratio | 34.95 |
-| RSI | N/A |
-| vs 52-Wk High | -1.8% below high ($258.60) |
-| Analyst Rating | Strong Buy |
-| Sector | Consumer Discretionary / Technology - E-Commerce & Cloud |
+| Current Price | $266.17 |
+| Price Target | $303.06 (+13.9%) |
+| P/E Ratio | 34.7 |
+| RSI | 27.6 (oversold) |
+| vs 52-Wk High | -7.8% below high ($288.62) |
+| Analyst Rating | Buy |
+| Sector | Technology - Consumer Electronics |
 
-**Sources:** CNBC, GeekWire, Benzinga, StockAnalysis, MarketBeat, BofA, KeyBanc
+**Sources:** CNBC, Fortune, 9to5Mac, TradersUnion, StockAnalysis, MarketBeat, Motley Fool
 
 ---
 
-## CAPITAL ONE FINANCIAL CORPORATION (COF)
+## AMAZON.COM, INC. (AMZN) ⭐
 
-**Discussion Driver:** Capital One missed Q1 2026 consensus estimates on both lines: EPS $4.42 vs. $4.60 expected and revenue $15.23B vs. $15.36B consensus, while net interest margin declined 39 basis points to 7.87%. The double-miss sent shares down ~5–6%, raising questions about post-Discover-merger integration execution and deteriorating consumer credit health.
+**Discussion Driver:** Amazon announced up to $25 billion in additional investment in Anthropic—bringing total to ~$33B—while Anthropic committed $100B+ to AWS over 10 years at a $380B Anthropic valuation. Shares climbed ~1.8% on the deal, cementing Amazon as the primary AI infrastructure provider for one of the world's leading frontier AI labs.
 
 **Bull Case:**
-- Capital One's completed acquisition of Discover Financial creates the largest U.S. credit card company by purchase volume, with potential annual revenue synergies of $1.5–2B as network integration and cross-selling opportunities ramp over the next 18–24 months.
-- The consensus analyst price target of ~$261 implies roughly 28% upside from current levels, suggesting analysts view the Q1 miss as a temporary integration-related setback rather than a structural deterioration in the business.
+- Anthropic's $100B+ AWS spend commitment over a decade is transformational for cloud revenue visibility, and Amazon's combined position as investor, infrastructure provider, and developer-tools platform makes it uniquely positioned to capture enterprise AI spending at scale.
+- Amazon's high-margin advertising and third-party marketplace segments continue generating strong free cash flow while AWS AI capacity—including proprietary Trainium chips—positions AMZN as a multi-decade AI infrastructure compounder.
+
+**Bear Case:**
+- With RSI above 80, AMZN is in deeply overbought territory while trading within 3% of its 52-week high, raising near-term pullback risk even as the long-term thesis remains intact.
+- The $33B total Anthropic investment concentrates AI risk on a single partner at a $380B valuation; if OpenAI, Google Gemini, or Meta's Llama displaces Anthropic in enterprise AI adoption, returns on that capital could significantly disappoint.
+
+**Recommendation:** Buy
+
+**Metrics:**
+| Metric | Value |
+|--------|-------| 
+| Current Price | $251.70 |
+| Price Target | $284.50 (+13.0%) |
+| P/E Ratio | 34.95 |
+| RSI | 80.7 (overbought) |
+| vs 52-Wk High | -2.7% below high ($258.60) |
+| Analyst Rating | Strong Buy |
+| Sector | Consumer Discretionary / Technology - E-Commerce & Cloud |
+
+**Sources:** CNBC, GeekWire, Engadget, StockAnalysis, MarketBeat, AltIndex
+
+---
+
+## CAPITAL ONE FINANCIAL CORPORATION (COF) ⭐
+
+**Discussion Driver:** Capital One missed Q1 2026 consensus estimates on both lines: EPS $4.42 vs. $4.60 expected and revenue $15.23B vs. $15.36B consensus, while net interest margin declined 39 basis points to 7.87%. The double-miss sent shares down ~5-6%, with multiple banks cutting price targets (Morgan Stanley to $273, BofA to $236, RBC to $235, Wells Fargo to $260).
+
+**Bull Case:**
+- Capital One's completed acquisition of Discover Financial creates the largest U.S. credit card company by purchase volume, with potential annual revenue synergies of $1.5-2B as network integration and cross-selling opportunities ramp over the next 18-24 months.
+- Despite the Q1 miss, 18 analysts maintain Buy ratings with a median price target of $270, implying ~33% upside from current levels, as analysts view the miss as a temporary integration-related setback rather than structural deterioration.
 
 **Bear Case:**
 - Net interest margin declining 39 basis points to 7.87% signals intensifying credit cost pressure; if consumer credit quality deteriorates further in a slowing economy, higher loan-loss provisions could materially impair 2026 earnings.
-- Integrating a large acquisition (Discover) while simultaneously reporting a top- and bottom-line miss in the same quarter elevates execution risk, and any further margin compression could erode the valuation re-rating thesis.
+- Integrating a large acquisition while simultaneously reporting a top- and bottom-line miss elevates execution risk, and the PE of 60x on depressed earnings leaves limited margin of safety if margins compress further.
 
 **Recommendation:** Hold
 
 **Metrics:**
 | Metric | Value |
 |--------|-------| 
-| Current Price | $202.89 |
-| Price Target | $260.87 (+28.6%) |
+| Current Price | $202.70 |
+| Price Target | $270.00 (+33.2%) |
 | P/E Ratio | 60.51 |
 | RSI | 60.81 |
 | vs 52-Wk High | -21.9% below high ($259.64) |
 | Analyst Rating | Buy |
 | Sector | Financials - Consumer Finance |
 
-**Sources:** StockStory, Investing.com, Benzinga, Meyka, MarketBeat, JP Morgan, Goldman Sachs
+**Sources:** StockStory, Investing.com, Benzinga, Meyka, MarketBeat
 
 ---
 
-## GE AEROSPACE (GE)
+## GE AEROSPACE (GE) ⭐
 
-**Discussion Driver:** GE Aerospace delivered a strong Q1 2026 beat on April 21—EPS $1.86 vs. $1.60 estimate, revenue $12.4B vs. $10.72B expected, total orders surged 87% YoY to $23B—yet the stock fell ~4% paradoxically because management held full-year guidance unchanged, citing stalled Middle East ceasefire negotiations and elevated fuel costs as headwinds for airline customer spending.
+**Discussion Driver:** GE Aerospace delivered a strong Q1 2026 beat on April 21 (EPS $1.86 vs. $1.60 est., revenue $12.4B vs. $10.72B est., orders surged 87% YoY to $23B), yet the stock fell ~4-5% paradoxically because management held full-year guidance unchanged, citing Middle East geopolitical risk and fuel cost headwinds reducing the 2026 departures outlook to flat/low-single-digit growth.
 
 **Bull Case:**
-- An 87% YoY order surge to $23B signals extraordinary demand durability for GE's aviation engines and high-margin services business, underpinned by the global commercial aviation recovery and a record backlog providing multi-year revenue visibility.
-- Bernstein raised its price target to $405 with an Outperform rating, and the consensus analyst target of ~$349 represents ~22% upside from current levels; the post-earnings selloff on unchanged guidance appears to be an overreaction given the magnitude of Q1 outperformance.
+- Record Q1 orders of $23B—up 87% YoY—demonstrate exceptional aftermarket engine demand and multi-year revenue visibility, underpinned by the global commercial aviation recovery and a record backlog.
+- UBS and Bank of America reiterated Buy ratings with $350-$365 price targets after the selloff, arguing the market overreacted to conservative guidance and management is tilting toward the high end of its $7.10-$7.40 FY2026 EPS range.
 
 **Bear Case:**
-- Management's decision to hold full-year guidance unchanged despite a massive Q1 beat signals real caution about geopolitical risks—particularly the stalled U.S.-Iran ceasefire—and sustained high fuel costs that could crimp airline fleet expansion and engine order conversion.
-- At roughly 37–38x trailing P/E, GE Aerospace is priced for continued execution; any geopolitically-driven slowdown in commercial aviation demand or slippage in Commercial Engine Services margins could trigger meaningful multiple compression from elevated levels.
+- Management's decision to hold full-year guidance unchanged despite a massive Q1 beat, while cutting the departures outlook, signals genuine caution about Middle East conflict and potential airline demand softness that could weigh on engine order conversion.
+- At ~38x trailing P/E, GE Aerospace is priced for continued execution; GuruFocus estimates the stock is ~35% overvalued, and operating margin pressure from supply chain challenges and labor costs persists.
 
 **Recommendation:** Buy
 
 **Metrics:**
 | Metric | Value |
 |--------|-------| 
-| Current Price | $285.17 |
-| Price Target | $349.34 (+22.5%) |
-| P/E Ratio | 37.3 |
+| Current Price | $272.93 |
+| Price Target | $350.88 (+28.6%) |
+| P/E Ratio | 37.76 |
 | RSI | N/A |
-| vs 52-Wk High | -18.2% below high ($348.48) |
-| Analyst Rating | Buy |
+| vs 52-Wk High | -21.7% below high ($348.48) |
+| Analyst Rating | Strong Buy |
 | Sector | Industrials - Aerospace & Defense |
 
-**Sources:** Yahoo Finance, Investing.com, Leeham News, MarketBeat, Bernstein, GuruFocus, TradingKey
+**Sources:** Yahoo Finance, Investing.com, Leeham News, GuruFocus, Benzinga, 247 Wall St., GE Aerospace IR
 
 ---
 
-## ADOBE INC. (ADBE)
+## ADOBE INC. (ADBE) ⭐
 
-**Discussion Driver:** Adobe's board approved a new $25 billion stock repurchase program through April 2030, lifting shares ~2% in extended trading. The buyback follows a period of deep stock pressure—ADBE is down ~46% from its 52-week peak—driven by persistent fears that AI-native tools from Canva, Google, and OpenAI will erode Adobe's creative software dominance. Management's aggressive capital return signals confidence in intrinsic value at current historically low PE multiples.
+**Discussion Driver:** Adobe's board approved a new $25 billion stock repurchase program through April 2030, lifting shares ~2-3% on April 22, as the company attempts to restore investor confidence after a ~60% decline from its 2024 peak. The buyback follows CEO Shantanu Narayen's March 2026 announcement that he will step down once a successor is named — the company's first leadership transition in 18 years — amid mounting fears that AI-native tools from Canva, Google, and OpenAI are eroding Adobe's creative software dominance.
 
 **Bull Case:**
-- Adobe's Firefly AI platform is showing accelerating commercial traction—generative credit consumption surged 45%+ quarter-over-quarter and Firefly Enterprise new customer acquisition grew 50% year-over-year, demonstrating that AI features are becoming an incremental revenue driver rather than a pure threat to the existing subscription base.
-- The $25 billion buyback program (~10% of current market cap) provides meaningful per-share earnings accretion and downside support while the stock trades at a historically depressed ~12.7x trailing PE, well below its long-run average; management's willingness to deploy capital at this valuation reinforces the bull case that current prices are a multi-year low.
+- At ~13x trailing P/E with an RSI of 29 (deeply oversold territory), Adobe trades at its most attractive valuation in years despite ~89% gross margins and ~$9.3 billion in annual free cash flow; the $25B buyback (~25% of current market cap) signals management's conviction in intrinsic value and provides meaningful EPS accretion at current depressed prices.
+- Adobe's Firefly AI platform is showing accelerating commercial traction, with Firefly Enterprise new customer acquisition growing 50% year-over-year; an Nvidia partnership and deep integrations across Creative Cloud and Document Cloud reinforce that AI features are becoming an incremental revenue driver rather than a pure competitive threat.
 
 **Bear Case:**
-- AI-native competitors—Canva, Google, and OpenAI's image and video generation tools—continue commoditizing creative workflows, threatening Adobe's ability to sustain subscription pricing power and average revenue per user growth over the next several years.
-- Despite the buyback, the Wall Street consensus remains Hold with a wide target range ($220–$510), reflecting deep disagreement over Adobe's AI monetization potential; a recovery above $300 likely requires sustained ARR acceleration that analysts have not yet been convinced Adobe can reliably deliver.
+- AI-native competitors — Canva, Midjourney, and OpenAI's image and video generation tools — continue commoditizing creative workflows, threatening Adobe's ability to sustain subscription pricing power and average revenue per user growth, particularly in the mid-market and prosumer segments.
+- CEO Narayen's pending departure after 18 years creates leadership uncertainty at a critical strategic inflection point; the stock has lost ~60% from its 2024 all-time high, and Wall Street consensus remains Hold with a wide target range ($220–$510), reflecting deep disagreement over Adobe's AI monetization potential.
 
-**Recommendation:** Hold
+**Recommendation:** Speculative Buy
 
 **Metrics:**
 | Metric | Value |
 |--------|-------| 
-| Current Price | $247.12 |
-| Price Target | $349.29 (+41.3%) |
-| P/E Ratio | 12.68 |
+| Current Price | $255.28 |
+| Price Target | $349.29 (+36.8%) |
+| P/E Ratio | 13.38 |
 | RSI | 29.19 |
-| vs 52-Wk High | -41.6% below high ($422.95) |
+| vs 52-Wk High | -39.6% below high ($422.95) |
 | Analyst Rating | Hold |
-| Sector | Technology - Software |
+| Sector | Technology - Application Software |
 
-**Sources:** GuruFocus, TipRanks, Benzinga, MarketBeat, StockAnalysis, MacroTrends, CNBC
+**Sources:** CNBC, Bloomberg, GuruFocus, Benzinga, Adobe IR, MarketBeat, StockAnalysis
 
 ---
 
-## L3HARRIS TECHNOLOGIES, INC. (LHX)
+## L3HARRIS TECHNOLOGIES, INC. (LHX) ⭐
 
-**Discussion Driver:** L3Harris reports fiscal Q2 2026 earnings after market close today (April 22) with defense stocks broadly bid higher as U.S.-Iran ceasefire negotiations stalled on April 21, raising conflict risk premiums. Investors are focused on execution within the company's record $38.7 billion backlog, margin trends across fixed-price development programs, and any update on the planned Missile Solutions unit IPO targeted for H2 2026.
+**Discussion Driver:** L3Harris reports fiscal Q2 2026 earnings after market close today (April 22, 2026), a closely watched event as stalled U.S.-Iran ceasefire negotiations on April 21 sent defense names broadly higher on elevated geopolitical risk. Investors are focused on execution within the company's record backlog, margin trends on fixed-price development programs, and any update on the planned Missile Solutions unit IPO targeted for H2 2026.
 
 **Bull Case:**
-- L3Harris's $38.7 billion contractual backlog—built on expanding missile defense, ISR, and night-vision programs including a ~$400M THAAD solid rocket motor contract—provides exceptional multi-year revenue visibility as U.S. and NATO allies drive global defense budgets toward nearly $1.5 trillion by 2027.
-- The planned Missile Solutions IPO in H2 2026 could unlock over $4 billion in shareholder value and sharpen the company's strategic profile, while strong earnings momentum (+22% YoY EPS growth last quarter, +30.6% YoY free cash flow) demonstrates that the LHX NeXt cost-savings program is translating into real margin expansion.
+- L3Harris's record multi-year backlog — built on expanding missile defense, ISR, and night-vision programs including a ~$465 million next-generation night-vision contract — provides exceptional revenue visibility as U.S. and NATO allies drive global defense budgets toward nearly $1.5 trillion by 2027, supporting the company's 7% organic revenue growth guidance for 2026.
+- Strong earnings momentum (+22.3% YoY EPS growth, +30.6% YoY free cash flow) and consistent EPS beats in three of the past four quarters demonstrate that the LHX NeXt cost-savings program is delivering real margin expansion; 19 of 24 analysts rate the stock Buy with a consensus target of $392.16.
 
 **Bear Case:**
-- A significant portion of L3Harris's backlog involves fixed-price development contracts where cost overruns could meaningfully compress operating margins, and the company's dependence on large government program funding creates revenue timing risk if U.S. defense appropriations face sequestration or prioritization shifts.
-- A former executive at L3Harris's Trenchant unit pled guilty to stealing and selling advanced hacking tools to a Russian-linked company between 2022 and 2025, raising corporate governance concerns and potential risks to sensitive government contracts and security clearances.
+- A significant portion of L3Harris's backlog involves fixed-price development contracts where cost overruns could meaningfully compress operating margins; dependence on large government program funding also creates revenue timing risk if U.S. defense appropriations face sequestration or prioritization shifts.
+- The stock already trades near its 52-week high at ~43x trailing P/E, leaving limited margin for error; if U.S.-Iran tensions de-escalate or Q2 guidance disappoints, the defense premium embedded in the current valuation could unwind sharply.
 
-**Recommendation:** Hold
+**Recommendation:** Buy
 
 **Metrics:**
 | Metric | Value |
 |--------|-------| 
-| Current Price | $348.57 |
-| Price Target | $330.23 (-5.3%) |
-| P/E Ratio | 40.94 |
+| Current Price | $348.43 |
+| Price Target | $392.16 (+12.5%) |
+| P/E Ratio | 42.98 |
 | RSI | N/A |
 | vs 52-Wk High | -8.1% below high ($379.23) |
 | Analyst Rating | Buy |
-| Sector | Aerospace & Defense |
+| Sector | Industrials - Aerospace & Defense |
 
-**Sources:** Meyka, MarketBeat, StockAnalysis, Yahoo Finance, Simply Wall St, Zacks, Seeking Alpha
+**Sources:** Meyka, MarketBeat, Yahoo Finance, StockAnalysis, Seeking Alpha, Benzinga, CNBC
 
 ---
 
 ## DAILY INSIGHTS
 
-- **Most Bullish Sector:** Technology - Enterprise Software
+- **Most Bullish Sector:** Industrials - Aerospace & Defense
 - **Most Bearish Sector:** Consumer Discretionary - Electric Vehicles
-- **Most Mentioned Stock:** AMZN — appeared in 7 sources
-- **Sentiment Shift:** Market tone is Mixed
+- **Most Mentioned Stock:** TXN — appeared in 7 sources
+- **Sentiment Shift:** Market tone is Bullish
 
 ---
 
 ## REPORT ARCHIVE
+
+### 2026-04-22 | Bullish | Trump extends Iran ceasefire indefinitely, boosting risk-on sentiment, Strong Q1 earnings season with ~85% of S&P 500 companies beating estimates, AI infrastructure demand driving outsized moves in energy and compute names
+
+| Stock | Rec | Price | Target | vs 52-Wk High |
+|-------|-----|-------|--------|---------------|
+| TSLA ⭐ | Hold | $388.99 | $397.35 (+2.2%) | -22.0% below high ($498.83) |
+| BA ⭐ | Buy | $225.08 | $256.44 (+13.9%) | -11.5% below high ($254.35) |
+| IBM ⭐ | Hold | $234.84 | $302.00 (+28.6%) | -27.7% below high ($324.90) |
+| NOW ⭐ | Spec. Buy | $90.55 | $212.67 (+134.9%) | -57.2% below high ($211.48) |
+| TXN ⭐ | Buy | $225.90 | $225.48 (flat; pre-earnings consensus, likely revised upward after strong beat) | -2.3% below high ($231.32) |
+| UNH ⭐ | Hold | $345.10 | $377.83 (+9.5%) | -23.9% below high ($453.50) |
+| AAPL ⭐ | Buy | $266.17 | $303.06 (+13.9%) | -7.8% below high ($288.62) |
+| AMZN ⭐ | Buy | $251.70 | $284.50 (+13.0%) | -2.7% below high ($258.60) |
+| COF ⭐ | Hold | $202.70 | $270.00 (+33.2%) | -21.9% below high ($259.64) |
+| GE ⭐ | Buy | $272.93 | $350.88 (+28.6%) | -21.7% below high ($348.48) |
+| ADBE ⭐ | Spec. Buy | $255.28 | $349.29 (+36.8%) | -39.6% below high ($422.95) |
+| LHX ⭐ | Buy | $348.43 | $392.16 (+12.5%) | -8.1% below high ($379.23) |
 
 ### 2026-04-21 | Mixed | Mega-Cap Earnings, AI Infrastructure Investment, CEO Transition, Geopolitical Risk, Semiconductor Recovery
 
