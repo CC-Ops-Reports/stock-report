@@ -3,114 +3,114 @@
   "batch": 2,
   "stocks": [
     {
-      "ticker": "UNH",
-      "company": "UnitedHealth Group Incorporated",
-      "discussion_driver": "UNH surged ~10% on April 21 after Q1 2026 earnings sharply beat estimates (adj. EPS $7.23 vs. $6.58 est.) with the medical benefit ratio improving to 83.9% vs. 85.5% expected; full-year adjusted EPS guidance was raised to $18.25+, signaling management confidence in a utilization cost turnaround that had punished the stock through 2025.",
+      "ticker": "NOW",
+      "company": "ServiceNow, Inc.",
+      "discussion_driver": "ServiceNow reported Q1 2026 earnings on April 22 that beat EPS expectations ($0.97 vs $0.80 est.) with 22% YoY revenue growth, but the stock sank ~14% after subscription revenue guidance cited ~75 basis point headwinds from delayed large enterprise deals in the Middle East due to ongoing regional conflict. The company also completed its $7.75B acquisition of Armis on April 21, raising investor concerns about integration costs and near-term margin pressure.",
       "bull_case": [
-        "Medical benefit ratio improvement to 83.9%—well below the feared 85.5%—signals better cost management and utilization normalization, supporting meaningful margin expansion through the remainder of 2026.",
-        "Wells Fargo raised its price target to $397 (Overweight) and Morgan Stanley named UNH a Top Pick at $375, reflecting conviction that the earnings recovery is durable and the stock remains undervalued at ~18x PE versus its 22x historical average."
+        "ServiceNow's 22% YoY revenue growth and consistent EPS beats demonstrate a durable, compounding enterprise software business with high switching costs and broad AI-platform expansion — the Armis acquisition triples its security addressable market, opening a major new growth vector.",
+        "At ~$90, the stock trades near its 52-week low and at a steep discount to its former highs; 31 analysts maintain a Strong Buy consensus, suggesting the post-earnings selloff is an overreaction to a temporary geopolitical headwind rather than structural deterioration."
       ],
       "bear_case": [
-        "Medicare Advantage membership headwinds persist with projected losses of 1.3–1.4 million members in 2026, creating a structural revenue drag even as margins improve.",
-        "RSI near 80 signals overbought conditions following the post-earnings surge, raising near-term profit-taking risk before the stock can sustain further gains toward analyst targets."
+        "The Middle East conflict is actively delaying large enterprise deal closings, and with ~75 bps of subscription revenue growth already lost in Q1, further escalation could compound guidance misses across multiple quarters.",
+        "A 60x trailing P/E leaves virtually no margin for error — even after the 14% drop the valuation remains elevated for a company facing near-term deal slippage and $7.75B of acquisition-related debt integration."
       ],
-      "recommendation": "Hold",
-      "current_price": "$345.10",
-      "price_target": "$377.83 (+9.5%)",
-      "pe_ratio": "24.52",
-      "rsi": "~80 (overbought)",
-      "vs_52wk_high": "-23.9% below high ($453.50)",
-      "analyst_rating": "Buy",
-      "sector": "Healthcare - Managed Care",
-      "sources": ["CNBC", "Benzinga", "TipRanks", "MarketBeat", "GuruFocus", "Wells Fargo via Daily Political"]
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple Inc.",
-      "discussion_driver": "Tim Cook announced he will step down as CEO effective September 1, 2026, with hardware engineering SVP John Ternus named as his successor; Cook becomes Executive Chairman. The stock fell approximately 2.5% on leadership transition uncertainty at a company approaching $4 trillion in market cap.",
-      "bull_case": [
-        "Apple's deeply entrenched ecosystem, $90B+ annual services revenue, and accelerating AI integration via Apple Intelligence provide durable earnings power that transcends any individual executive change.",
-        "AAPL's RSI fell to ~27.6 (deeply oversold), suggesting the CEO-transition selloff is overdone; 28 analysts maintain a Buy consensus with ~14% upside to the $303 average price target."
-      ],
-      "bear_case": [
-        "John Ternus is a celebrated hardware engineer but has never managed a major business unit or public company, raising legitimate execution risk at a $3.85 trillion firm navigating intense AI competition and regulatory scrutiny.",
-        "Ongoing U.S.-China tariff risks threaten Apple's supply chain and China App Store revenue (~17% of total sales), and any escalation could compress margins before the iPhone 18 volume ramp later in 2026."
-      ],
-      "recommendation": "Buy",
-      "current_price": "$266.17",
-      "price_target": "$303.06 (+13.9%)",
-      "pe_ratio": "34.7",
-      "rsi": "27.6 (oversold)",
-      "vs_52wk_high": "-7.8% below high ($288.62)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Consumer Electronics",
-      "sources": ["CNBC", "Fortune", "9to5Mac", "TradersUnion", "StockAnalysis", "MarketBeat", "Motley Fool"]
-    },
-    {
-      "ticker": "AMZN",
-      "company": "Amazon.com, Inc.",
-      "discussion_driver": "Amazon announced up to $25 billion in additional investment in Anthropic—bringing total to ~$33B—while Anthropic committed $100B+ to AWS over 10 years at a $380B Anthropic valuation. Shares climbed ~1.8% on the deal, cementing Amazon as the primary AI infrastructure provider for one of the world's leading frontier AI labs.",
-      "bull_case": [
-        "Anthropic's $100B+ AWS spend commitment over a decade is transformational for cloud revenue visibility, and Amazon's combined position as investor, infrastructure provider, and developer-tools platform makes it uniquely positioned to capture enterprise AI spending at scale.",
-        "Amazon's high-margin advertising and third-party marketplace segments continue generating strong free cash flow while AWS AI capacity—including proprietary Trainium chips—positions AMZN as a multi-decade AI infrastructure compounder."
-      ],
-      "bear_case": [
-        "With RSI above 80, AMZN is in deeply overbought territory while trading within 3% of its 52-week high, raising near-term pullback risk even as the long-term thesis remains intact.",
-        "The $33B total Anthropic investment concentrates AI risk on a single partner at a $380B valuation; if OpenAI, Google Gemini, or Meta's Llama displaces Anthropic in enterprise AI adoption, returns on that capital could significantly disappoint."
-      ],
-      "recommendation": "Buy",
-      "current_price": "$251.70",
-      "price_target": "$284.50 (+13.0%)",
-      "pe_ratio": "34.95",
-      "rsi": "80.7 (overbought)",
-      "vs_52wk_high": "-2.7% below high ($258.60)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Consumer Discretionary / Technology - E-Commerce & Cloud",
-      "sources": ["CNBC", "GeekWire", "Engadget", "StockAnalysis", "MarketBeat", "AltIndex"]
-    },
-    {
-      "ticker": "COF",
-      "company": "Capital One Financial Corporation",
-      "discussion_driver": "Capital One missed Q1 2026 consensus estimates on both lines: EPS $4.42 vs. $4.60 expected and revenue $15.23B vs. $15.36B consensus, while net interest margin declined 39 basis points to 7.87%. The double-miss sent shares down ~5-6%, with multiple banks cutting price targets (Morgan Stanley to $273, BofA to $236, RBC to $235, Wells Fargo to $260).",
-      "bull_case": [
-        "Capital One's completed acquisition of Discover Financial creates the largest U.S. credit card company by purchase volume, with potential annual revenue synergies of $1.5-2B as network integration and cross-selling opportunities ramp over the next 18-24 months.",
-        "Despite the Q1 miss, 18 analysts maintain Buy ratings with a median price target of $270, implying ~33% upside from current levels, as analysts view the miss as a temporary integration-related setback rather than structural deterioration."
-      ],
-      "bear_case": [
-        "Net interest margin declining 39 basis points to 7.87% signals intensifying credit cost pressure; if consumer credit quality deteriorates further in a slowing economy, higher loan-loss provisions could materially impair 2026 earnings.",
-        "Integrating a large acquisition while simultaneously reporting a top- and bottom-line miss elevates execution risk, and the PE of 60x on depressed earnings leaves limited margin of safety if margins compress further."
-      ],
-      "recommendation": "Hold",
-      "current_price": "$202.70",
-      "price_target": "$270.00 (+33.2%)",
-      "pe_ratio": "60.51",
-      "rsi": "60.81",
-      "vs_52wk_high": "-21.9% below high ($259.64)",
-      "analyst_rating": "Buy",
-      "sector": "Financials - Consumer Finance",
-      "sources": ["StockStory", "Investing.com", "Benzinga", "Meyka", "MarketBeat"]
-    },
-    {
-      "ticker": "GE",
-      "company": "GE Aerospace",
-      "discussion_driver": "GE Aerospace delivered a strong Q1 2026 beat on April 21 (EPS $1.86 vs. $1.60 est., revenue $12.4B vs. $10.72B est., orders surged 87% YoY to $23B), yet the stock fell ~4-5% paradoxically because management held full-year guidance unchanged, citing Middle East geopolitical risk and fuel cost headwinds reducing the 2026 departures outlook to flat/low-single-digit growth.",
-      "bull_case": [
-        "Record Q1 orders of $23B—up 87% YoY—demonstrate exceptional aftermarket engine demand and multi-year revenue visibility, underpinned by the global commercial aviation recovery and a record backlog.",
-        "UBS and Bank of America reiterated Buy ratings with $350-$365 price targets after the selloff, arguing the market overreacted to conservative guidance and management is tilting toward the high end of its $7.10-$7.40 FY2026 EPS range."
-      ],
-      "bear_case": [
-        "Management's decision to hold full-year guidance unchanged despite a massive Q1 beat, while cutting the departures outlook, signals genuine caution about Middle East conflict and potential airline demand softness that could weigh on engine order conversion.",
-        "At ~38x trailing P/E, GE Aerospace is priced for continued execution; GuruFocus estimates the stock is ~35% overvalued, and operating margin pressure from supply chain challenges and labor costs persists."
-      ],
-      "recommendation": "Buy",
-      "current_price": "$272.93",
-      "price_target": "$350.88 (+28.6%)",
-      "pe_ratio": "37.76",
+      "recommendation": "Speculative Buy",
+      "current_price": "$90.55",
+      "price_target": "$173.46 (+91.6%)",
+      "pe_ratio": "59.98",
       "rsi": "N/A",
-      "vs_52wk_high": "-21.7% below high ($348.48)",
+      "vs_52wk_high": "-57.2% below high ($211.48)",
       "analyst_rating": "Strong Buy",
-      "sector": "Industrials - Aerospace & Defense",
-      "sources": ["Yahoo Finance", "Investing.com", "Leeham News", "GuruFocus", "Benzinga", "247 Wall St.", "GE Aerospace IR"]
+      "sector": "Technology - Enterprise Software",
+      "sources": ["CNBC", "Yahoo Finance", "MarketBeat", "Benzinga", "ServiceNow Newsroom", "GuruFocus"]
+    },
+    {
+      "ticker": "BSX",
+      "company": "Boston Scientific Corporation",
+      "discussion_driver": "Boston Scientific jumped ~9% on April 22 after reporting Q1 2026 earnings of $0.80/share (beating $0.79 est.) on $5.2B revenue (+11.6% YoY), with organic sales growth of 9.4% ahead of guidance. The company cut its full-year organic revenue growth outlook to 6.5%–8%, citing unexpected headwinds in its Electrophysiology, WATCHMAN, and Urology segments — the stock rallied nonetheless as results were better than feared following a 2.4% pre-earnings pullback.",
+      "bull_case": [
+        "Boston Scientific's diversified medical device portfolio delivered 11.6% revenue growth in Q1, and the stock's ~40% discount from its 52-week high leaves room for multiple re-expansion as headwinds in EP and WATCHMAN prove transitory.",
+        "With a trailing P/E of 32x and Strong Buy consensus across 21+ analysts with ~49% average upside to target, the company's cardiac rhythm management and interventional cardiology franchises provide durable, procedure-volume-driven revenue largely insulated from tariff and macro risks."
+      ],
+      "bear_case": [
+        "The full-year organic revenue growth guidance cut to 6.5%–8% signals that multiple business segments — EP, WATCHMAN, and Urology — are facing simultaneous headwinds, raising concern about execution breadth across the portfolio.",
+        "At a 52-week high of $109.50 versus today's ~$65, the stock remains more than 40% below its peak; if guidance is cut again in subsequent quarters, investor confidence could erode further despite headline beats."
+      ],
+      "recommendation": "Buy",
+      "current_price": "$64.87",
+      "price_target": "$96.66 (+49.0%)",
+      "pe_ratio": "32.38",
+      "rsi": "33.74",
+      "vs_52wk_high": "-40.8% below high ($109.50)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Healthcare - Medical Devices",
+      "sources": ["Yahoo Finance", "Benzinga", "Investing.com", "TradingKey", "StockAnalysis", "Daily Political", "Motley Fool"]
+    },
+    {
+      "ticker": "UAL",
+      "company": "United Airlines Holdings, Inc.",
+      "discussion_driver": "United Airlines fell ~7% on April 22 after slashing its full-year 2026 EPS guidance to $7–$11 from a prior range of $12–$14, citing rising fuel costs and macro uncertainty tied to geopolitical tensions and potential tariff impacts on business travel demand. Despite a solid Q1 — revenue up 10.6% YoY to $14.61B and adjusted EPS of $1.19 beating estimates — investors focused on the dramatically lowered forward outlook.",
+      "bull_case": [
+        "United Airlines' Q1 revenue growth of 10.6% and EPS beat show the underlying demand environment remains healthy; at just ~10x trailing earnings, the stock is one of the cheapest large-cap airlines on a P/E basis, pricing in a near-recessionary scenario.",
+        "Seventeen analysts maintain a Strong Buy consensus with an average price target of $130.59 (+44% upside), and the company's hub dominance, loyalty program, and international network provide competitive moats that support recovery if macro headwinds ease."
+      ],
+      "bear_case": [
+        "A guidance cut of nearly 40% at the midpoint — from $13 to $9/share — signals deep uncertainty about fuel costs and travel demand; rising oil prices or a U.S. recession could push actual EPS toward the low end of the new range or below.",
+        "Airline stocks carry high operating leverage and significant debt loads; any sustained demand softening from tariff-driven economic slowdown or consumer retrenchment could compress margins far faster than management forecasts."
+      ],
+      "recommendation": "Hold",
+      "current_price": "$90.78",
+      "price_target": "$130.59 (+43.8%)",
+      "pe_ratio": "9.98",
+      "rsi": "N/A",
+      "vs_52wk_high": "-22.8% below high ($117.53)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Industrials - Airlines",
+      "sources": ["CNBC", "StockAnalysis", "MarketBeat", "FX Leaders", "TIKR", "FinancialContent", "Markets Daily"]
+    },
+    {
+      "ticker": "ASTS",
+      "company": "AST SpaceMobile, Inc.",
+      "discussion_driver": "AST SpaceMobile rose 6%+ midday on April 22 after the FCC approved a license modification allowing deployment of up to 248 next-generation satellites for direct-to-smartphone broadband coverage across the U.S. — a major regulatory milestone. The positive news partially offset the April 19 orbital failure of its BlueBird 7 satellite, which launched aboard Blue Origin's New Glenn rocket from Cape Canaveral and failed to reach proper orbit, raising questions about execution pace and constellation build-out timelines.",
+      "bull_case": [
+        "The FCC's approval for a 248-satellite constellation clears the largest regulatory hurdle for AST SpaceMobile's commercial network, and existing partnerships with AT&T, Verizon, and T-Mobile provide a built-in distribution channel for direct-to-smartphone broadband that could be transformational for both parties.",
+        "AST's next-generation BlueBird satellites feature nearly 2,400 sq ft phased arrays — the largest commercial communications arrays ever deployed in LEO — giving the company a significant technical lead over potential competitors in the space-based cellular broadband market."
+      ],
+      "bear_case": [
+        "The BlueBird 7 orbital failure is a material setback that reduces near-term constellation density and delays revenue ramp; with a P/S ratio of 314.77 and a pre-profitability balance sheet, any execution stumble triggers outsized stock volatility.",
+        "Scotiabank maintains a Sector Underperform rating with a $41.20 target, reflecting deep skepticism about on-schedule multi-satellite deployment and budget discipline; BofA and UBS are both Neutral, suggesting limited consensus upside at current prices."
+      ],
+      "recommendation": "Speculative Buy",
+      "current_price": "$84.76",
+      "price_target": "$82.51 (-2.7%)",
+      "pe_ratio": "N/A",
+      "rsi": "43.27",
+      "vs_52wk_high": "-34.7% below high ($129.89)",
+      "analyst_rating": "Hold",
+      "sector": "Technology - Satellite Communications",
+      "sources": ["GuruFocus", "CNBC", "StockTitan", "Investing.com", "MarketBeat", "TheStreet", "Advanced Television"]
+    },
+    {
+      "ticker": "ABNB",
+      "company": "Airbnb, Inc.",
+      "discussion_driver": "Wells Fargo upgraded Airbnb to Overweight on April 22, raising its price target from $136 to $178, citing an accelerating pace of innovation and a business inflection point. Analyst Ken Gawrelski highlighted Q4 2025 Gross Booking Value growth of 16% YoY to $20.4B, AI-powered support resolving one-third of customer issues, a Reserve Now Pay Later feature with 70%+ U.S. adoption, and mobile-first bookings rising to 64% of nights booked as evidence that growth is reaccelerating after two years of deceleration.",
+      "bull_case": [
+        "Wells Fargo's upgrade cites a genuine revenue reacceleration — Q4 2025 GBV growth of 16% YoY and Q1 2026 revenue guidance of 14%–16% — combined with AI-powered operational improvements and hotel supply expansion that broaden Airbnb's addressable market and structurally expand margins.",
+        "Airbnb's platform network effects, global host supply, and direct-booking dominance (64% via app) create durable competitive moats at a reasonable 31x P/E relative to its growth profile; the Wells Fargo $178 target implies ~35% upside from current levels."
+      ],
+      "bear_case": [
+        "Despite the Wells Fargo upgrade, approximately 33% of analysts maintain Sell ratings on ABNB, reflecting concern that travel demand could soften materially under tariff-driven consumer uncertainty — particularly for international travel which represents a significant share of premium bookings.",
+        "At only ~8.7% below its 52-week high, the stock has limited margin of safety; if innovation-driven growth fails to materialize in Q1 2026 results (due to report in May), the stock could quickly give back the upgrade-driven rally."
+      ],
+      "recommendation": "Buy",
+      "current_price": "$131.40",
+      "price_target": "$150.10 (+14.2%)",
+      "pe_ratio": "30.93",
+      "rsi": "52.6",
+      "vs_52wk_high": "-8.7% below high ($143.88)",
+      "analyst_rating": "Buy",
+      "sector": "Consumer Discretionary - Travel/Vacation Rental",
+      "sources": ["247WallSt", "CNBC", "MarketBeat", "WallStreetZen", "Yahoo Finance", "Benzinga", "ainvest.com"]
     }
   ]
 }
