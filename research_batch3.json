@@ -3,48 +3,114 @@
   "batch": 3,
   "stocks": [
     {
-      "ticker": "ADBE",
-      "company": "Adobe Inc.",
-      "discussion_driver": "Adobe's board approved a new $25 billion stock repurchase program through April 2030, lifting shares ~2-3% on April 22, as the company attempts to restore investor confidence after a ~60% decline from its 2024 peak. The buyback follows CEO Shantanu Narayen's March 2026 announcement that he will step down once a successor is named — the company's first leadership transition in 18 years — amid mounting fears that AI-native tools from Canva, Google, and OpenAI are eroding Adobe's creative software dominance.",
+      "ticker": "VRT",
+      "company": "Vertiv Holdings Co.",
+      "discussion_driver": "Vertiv fell 4%+ despite a strong Q1 2026 beat (EPS $1.17 vs $1.00 est., revenue +30% YoY to $2.65B) as investors focused on Q2 guidance midpoints that lagged analyst consensus on both revenue ($3.35B vs $3.41B est.) and EPS ($1.40 vs $1.43 est.). EMEA segment revenues plunged 20.3% YoY, raising concerns about regional demand softness. Full-year EPS guidance was raised to a $6.35 midpoint beating Street estimates, and the $15B backlog remains a compelling long-term demand signal for AI data center infrastructure.",
       "bull_case": [
-        "At ~13x trailing P/E with an RSI of 29 (deeply oversold territory), Adobe trades at its most attractive valuation in years despite ~89% gross margins and ~$9.3 billion in annual free cash flow; the $25B buyback (~25% of current market cap) signals management's conviction in intrinsic value and provides meaningful EPS accretion at current depressed prices.",
-        "Adobe's Firefly AI platform is showing accelerating commercial traction, with Firefly Enterprise new customer acquisition growing 50% year-over-year; an Nvidia partnership and deep integrations across Creative Cloud and Document Cloud reinforce that AI features are becoming an incremental revenue driver rather than a pure competitive threat."
+        "Vertiv reported 30% revenue growth in Q1, raised full-year EPS guidance to a $6.35 midpoint above the $6.16 consensus, and holds a $15B backlog that provides strong revenue visibility as AI data center capex accelerates globally.",
+        "Management lifted full-year revenue, EPS, and margin outlooks simultaneously — and the Strong Buy analyst consensus (16 Buys, 1 Hold) with a $309.75 average price target reflects conviction that the post-earnings selloff is an overreaction to near-term Q2 guidance noise."
       ],
       "bear_case": [
-        "AI-native competitors — Canva, Midjourney, and OpenAI's image and video generation tools — continue commoditizing creative workflows, threatening Adobe's ability to sustain subscription pricing power and average revenue per user growth, particularly in the mid-market and prosumer segments.",
-        "CEO Narayen's pending departure after 18 years creates leadership uncertainty at a critical strategic inflection point; the stock has lost ~60% from its 2024 all-time high, and Wall Street consensus remains Hold with a wide target range ($220–$510), reflecting deep disagreement over Adobe's AI monetization potential."
-      ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$255.28",
-      "price_target": "$349.29 (+36.8%)",
-      "pe_ratio": "13.38",
-      "rsi": "29.19",
-      "vs_52wk_high": "-39.6% below high ($422.95)",
-      "analyst_rating": "Hold",
-      "sector": "Technology - Application Software",
-      "sources": ["CNBC", "Bloomberg", "GuruFocus", "Benzinga", "Adobe IR", "MarketBeat", "StockAnalysis"]
-    },
-    {
-      "ticker": "LHX",
-      "company": "L3Harris Technologies, Inc.",
-      "discussion_driver": "L3Harris reports fiscal Q2 2026 earnings after market close today (April 22, 2026), a closely watched event as stalled U.S.-Iran ceasefire negotiations on April 21 sent defense names broadly higher on elevated geopolitical risk. Investors are focused on execution within the company's record backlog, margin trends on fixed-price development programs, and any update on the planned Missile Solutions unit IPO targeted for H2 2026.",
-      "bull_case": [
-        "L3Harris's record multi-year backlog — built on expanding missile defense, ISR, and night-vision programs including a ~$465 million next-generation night-vision contract — provides exceptional revenue visibility as U.S. and NATO allies drive global defense budgets toward nearly $1.5 trillion by 2027, supporting the company's 7% organic revenue growth guidance for 2026.",
-        "Strong earnings momentum (+22.3% YoY EPS growth, +30.6% YoY free cash flow) and consistent EPS beats in three of the past four quarters demonstrate that the LHX NeXt cost-savings program is delivering real margin expansion; 19 of 24 analysts rate the stock Buy with a consensus target of $392.16."
-      ],
-      "bear_case": [
-        "A significant portion of L3Harris's backlog involves fixed-price development contracts where cost overruns could meaningfully compress operating margins; dependence on large government program funding also creates revenue timing risk if U.S. defense appropriations face sequestration or prioritization shifts.",
-        "The stock already trades near its 52-week high at ~43x trailing P/E, leaving limited margin for error; if U.S.-Iran tensions de-escalate or Q2 guidance disappoints, the defense premium embedded in the current valuation could unwind sharply."
+        "Q2 2026 guidance midpoints for revenue ($3.35B) and EPS ($1.40) both fell below analyst consensus ($3.41B and $1.43 respectively), suggesting near-term deceleration that could weigh on the premium 89x trailing P/E valuation.",
+        "EMEA segment revenues collapsed 20.3% YoY in Q1, signaling meaningful regional weakness, and increasing production costs to meet AI-driven order volumes may limit margin expansion despite the strong backlog."
       ],
       "recommendation": "Buy",
-      "current_price": "$348.43",
-      "price_target": "$392.16 (+12.5%)",
-      "pe_ratio": "42.98",
+      "current_price": "$303.00",
+      "price_target": "$309.75 (+2.2%)",
+      "pe_ratio": "89.48",
+      "rsi": "47.8",
+      "vs_52wk_high": "-6.2% below high ($323.04)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Industrials - Data Center Infrastructure",
+      "sources": ["CNBC", "Bloomberg", "TipRanks", "Motley Fool", "TradingKey", "StockAnalysis"]
+    },
+    {
+      "ticker": "LUV",
+      "company": "Southwest Airlines Co.",
+      "discussion_driver": "Southwest reported Q1 2026 EPS of $0.45 (slightly missing $0.47 est.) and record revenue of $7.2B, but shares fell 4%+ after Q2 fuel cost guidance of $4.10-$4.15/gallon signaled severe margin pressure versus the already-elevated Q1 actual of $2.73/gallon — creating a $164M headwind that was $0.22/share above prior guidance. The airline maintained its full-year $4.00 EPS target but explicitly flagged it requires lower fuel prices or stronger revenue to achieve. Business transformation initiatives drove RASM up 11.2% YoY, a bright spot in an otherwise cautious print.",
+      "bull_case": [
+        "Southwest's business transformation is delivering measurable results: RASM up 11.2% YoY in Q1 and new revenue streams from assigned seating and bag fees are gaining traction, while Q1 profit of $227M demonstrates operational progress even against a significant fuel cost headwind.",
+        "Analysts hold a consensus price target of $46.50 (+18.4% upside from current levels), reflecting confidence that fuel cost pressures are transitory and that the revenue momentum from transformation initiatives will continue to outpace cost inflation over the second half of 2026."
+      ],
+      "bear_case": [
+        "Q2 2026 fuel cost guidance of $4.10-$4.15/gallon represents a dramatic jump from Q1 actuals ($2.73/gallon), with the forward curve implying sustained cost pressure that directly threatens the $4.00 full-year EPS target the company is already hedging on.",
+        "Macro uncertainty is significant enough that Southwest declined to reaffirm full-year guidance with confidence, leaving the $4.00 EPS target dependent on fuel price relief and demand strength that are not currently visible in the forward curve."
+      ],
+      "recommendation": "Hold",
+      "current_price": "$39.27",
+      "price_target": "$46.50 (+18.4%)",
+      "pe_ratio": "48.15",
+      "rsi": "68.88",
+      "vs_52wk_high": "-28.7% below high ($55.11)",
+      "analyst_rating": "Hold",
+      "sector": "Industrials - Airlines",
+      "sources": ["CNBC", "StockTitan", "PRNewswire", "Seeking Alpha", "MarketBeat", "Quiver Quantitative"]
+    },
+    {
+      "ticker": "BIIB",
+      "company": "Biogen Inc.",
+      "discussion_driver": "UBS upgraded Biogen to Buy from Neutral with a price target raised to $225 from $185, citing a 'slew of pipeline catalysts' arriving over the next 12-15 months. Key near-term readouts include BIIB080 tau data expected this summer and Phase 3 litifilimab data for systemic lupus (SLE) due Q4 2026, both of which UBS views as underpriced by the market. A PDUFA date of May 24 for the subcutaneous LEQEMBI IQLIK formulation adds a near-term binary catalyst that could accelerate the Alzheimer's franchise, which grew 54% YoY in Q4 2025.",
+      "bull_case": [
+        "UBS identifies a concentrated window of high-impact pipeline catalysts over the next 12-15 months — BIIB080 tau data this summer, subcutaneous Leqembi PDUFA on May 24, and Phase 3 litifilimab SLE data in Q4 2026 — any of which could materially re-rate the stock.",
+        "Biogen trades at approximately 13x forward P/E, a significant discount to large-cap biopharma peers, while the Leqembi Alzheimer's franchise grew 54% YoY in Q4 2025 and the market appears to be not yet pricing in upcoming pipeline upside."
+      ],
+      "bear_case": [
+        "Total revenue is expected to decline mid-single digits in 2026 as the legacy MS franchise faces ongoing erosion from generics and biosimilar competition, limiting near-term fundamental support if pipeline catalysts disappoint.",
+        "Pipeline catalysts carry binary risk — UBS cautioned the BIIB080 study size reduction may limit statistical power, and a Phase 3 failure in SLE or disappointing Leqembi subcutaneous launch could quickly reverse the upgrade-driven gains."
+      ],
+      "recommendation": "Speculative Buy",
+      "current_price": "$187.62",
+      "price_target": "$198.22 (+5.6%)",
+      "pe_ratio": "20.49",
+      "rsi": "57.03",
+      "vs_52wk_high": "-7.3% below high ($202.41)",
+      "analyst_rating": "Hold",
+      "sector": "Healthcare - Biotechnology",
+      "sources": ["247WallSt", "GuruFocus", "Proactive Investors", "Yahoo Finance", "AOL Finance", "StockAnalysis"]
+    },
+    {
+      "ticker": "CAVA",
+      "company": "Cava Group Inc.",
+      "discussion_driver": "Roth Capital initiated coverage on Cava Group with a Buy rating and a $106 price target, citing management's conservative 2026 same-store sales guidance of 3%-5% as a source of meaningful upside given the chain's strong underlying traffic trends. The Mediterranean fast-casual chain crossed $1 billion in annual revenue for the first time in fiscal 2025 (22.5% growth YoY) and plans 74-76 net new restaurant openings in 2026 toward its long-term goal of 1,000+ locations by 2032. KeyCorp also raised its target to $105 (Overweight) and Morgan Stanley issued a positive forecast in the same week.",
+      "bull_case": [
+        "Cava is executing a differentiated Mediterranean fast-casual concept with strong unit economics, 22.5% revenue growth in fiscal 2025, and 74-76 new restaurant openings planned for 2026 — a durable expansion path with no direct national competitor at scale, offering a Chipotle-like growth runway.",
+        "Multiple major analysts — Roth Capital ($106 Buy), KeyCorp ($105 Overweight), and Morgan Stanley (positive) — see meaningful upside from current levels, and management's conservative SSS guidance of 3%-5% creates a high probability of beat-and-raise dynamics through the year."
+      ],
+      "bear_case": [
+        "CAVA's trailing P/E of 163.78x implies near-perfection; at $21M in market cap per restaurant — nearly double Chipotle's $11M per-unit multiple — the valuation leaves almost no margin for execution misses or macro-driven traffic slowdowns.",
+        "Same-store sales growth decelerated to just 0.5% in Q4 2025, signaling traffic pressure at existing units, and Northcoast initiated with a Sell rating and $63 price target on April 21, 2026, warning that the premium valuation is unjustified relative to near-term fundamentals."
+      ],
+      "recommendation": "Hold",
+      "current_price": "$96.27",
+      "price_target": "$106.00 (+10.1%)",
+      "pe_ratio": "163.78",
       "rsi": "N/A",
-      "vs_52wk_high": "-8.1% below high ($379.23)",
+      "vs_52wk_high": "-5.2% below high ($101.50)",
       "analyst_rating": "Buy",
-      "sector": "Industrials - Aerospace & Defense",
-      "sources": ["Meyka", "MarketBeat", "Yahoo Finance", "StockAnalysis", "Seeking Alpha", "Benzinga", "CNBC"]
+      "sector": "Consumer Discretionary - Restaurants",
+      "sources": ["CNBC", "247WallSt", "Investing.com", "TIKR", "Quiver Quantitative", "Markets Daily"]
+    },
+    {
+      "ticker": "T",
+      "company": "AT&T Inc.",
+      "discussion_driver": "AT&T beat Q1 2026 estimates on both EPS ($0.57 vs $0.55 est.) and revenue ($31.5B vs $31.25B est.), reporting 294K postpaid wireless net adds and a record 584K internet net adds (292K fiber + 292K FWA) — its sixth consecutive quarter with 500K+ combined internet additions. The company maintained its full-year 2026 adjusted EPS guidance of $2.25-$2.35 and reiterated its 60M+ fiber location target by decade's end. Despite the beat, the stock's mixed reaction reflects investor focus on $138.4B in total debt and Q1 free cash flow of $2.5B falling short of expectations.",
+      "bull_case": [
+        "AT&T's fiber franchise now covers 37M+ customer locations with a 45% convergence rate (fiber + wireless bundle), and six consecutive quarters of 500K+ internet net adds demonstrate a durable competitive advantage being built as the company executes its $10B share buyback authorization.",
+        "The stock's RSI near 30 (near oversold territory), a ~4.2% dividend yield, and analyst consensus Buy rating with a $30.43 price target (+17.6% upside) make AT&T an attractive risk/reward for income investors as the fiber investment cycle moves from build to harvest."
+      ],
+      "bear_case": [
+        "AT&T carries $138.4B in total debt with only $2.5B in Q1 free cash flow, limiting financial flexibility and creating meaningful sensitivity to interest rate changes that could constrain both capital returns and the pace of ongoing fiber buildout simultaneously.",
+        "Despite years of heavy network investment, wireless postpaid adds of 294K remain modest relative to capital deployed, and fixed wireless and satellite alternatives from cable and SpaceX could pressure the fiber economics that underpin the long-term bull case."
+      ],
+      "recommendation": "Buy",
+      "current_price": "$25.88",
+      "price_target": "$30.43 (+17.6%)",
+      "pe_ratio": "8.63",
+      "rsi": "30",
+      "vs_52wk_high": "-11.2% below high ($29.14)",
+      "analyst_rating": "Buy",
+      "sector": "Communication Services - Telecom",
+      "sources": ["MarketBeat", "AT&T Investor Relations", "247WallSt", "StockTitan", "Yahoo Finance", "Investing.com"]
     }
   ]
 }
