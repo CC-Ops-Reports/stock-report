@@ -1,120 +1,130 @@
 {
   "report_date": "2026-04-22",
   "batch": 1,
-  "market_tone": "Mixed",
-  "key_themes": ["Mega-Cap Earnings", "AI Infrastructure Investment", "CEO Transition", "Geopolitical Risk", "Semiconductor Recovery"],
-  "sp500": {"value": "7,064.01", "change": "-0.6%"},
-  "nasdaq": {"value": "24,259.96", "change": "-0.6%"},
+  "market_tone": "Bullish",
+  "key_themes": [
+    "Trump extends Iran ceasefire indefinitely, boosting risk-on sentiment",
+    "Strong Q1 earnings season with ~85% of S&P 500 companies beating estimates",
+    "AI infrastructure demand driving outsized moves in energy and compute names"
+  ],
+  "sp500": {
+    "value": "7,137.90",
+    "change": "+1.05%"
+  },
+  "nasdaq": {
+    "value": "24,657.57",
+    "change": "+1.64%"
+  },
   "stocks": [
     {
-      "ticker": "TSLA",
-      "company": "Tesla, Inc.",
-      "discussion_driver": "Tesla reports Q1 2026 earnings after market close today with Wall Street focused on margin trajectory after Q1 deliveries of 358,023 units came in ~14K below the 372K consensus estimate. Intensifying BYD competition in China and questions about Robotaxi timeline are central investor concerns, while the EPS print and automotive gross margin guidance will set the tone for near-term sentiment.",
+      "ticker": "GEV",
+      "company": "GE Vernova",
+      "discussion_driver": "GE Vernova surged 13% after a blowout Q1 2026 earnings beat driven by AI power demand: orders hit $18.3B (up 71% YoY), data center equipment bookings reached $2.4B in Q1 alone — more than all of 2025 combined. Management raised free cash flow guidance 40% to $6.5–$7.5B and pushed the stock to an all-time high.",
       "bull_case": [
-        "Tesla's Full Self-Driving technology and upcoming Robotaxi service represent a transformational high-margin revenue opportunity beyond vehicle sales, potentially creating a fleet business at massive scale that is not yet reflected in consensus earnings models.",
-        "The Megapack energy storage business continues to grow rapidly at superior margins compared to vehicles, providing meaningful revenue diversification as global utility-scale battery storage demand accelerates across grid modernization projects."
+        "AI data center power demand is accelerating: GEV's Electrification segment booked $2.4B in Q1 data center orders — more than full-year 2025 — with a book-to-bill ratio of ~2.5x, signaling a multi-year demand wave with strong pricing power (new orders priced 10–20% higher than Q4 2025).",
+        "Raised 2026 guidance across the board: revenue $44.5–$45.5B, adjusted EBITDA margin 12–14%, and free cash flow $6.5–$7.5B — a ~40% FCF guidance increase. CEO confirmed Q2 is already tracking ahead of Q1 in power equipment order value."
       ],
       "bear_case": [
-        "Q1 deliveries missed consensus by ~14K units and BYD's aggressive pricing in China is eroding Tesla's market share in its most important growth region, putting sustained pressure on both revenue volumes and automotive gross margin recovery.",
-        "A trailing PE of ~317x is difficult to justify on near-term fundamentals, and with the consensus price target only 2.2% above current levels, Tesla's premium valuation leaves virtually no room for an earnings-night disappointment."
+        "Wind segment remains a significant drag: revenue fell 23% YoY and management expects ~$400M in Wind EBITDA losses for the full year, limiting overall margin expansion and creating execution risk in a business still bleeding cash.",
+        "Valuation is stretched after a 200%+ 52-week run: the analyst consensus price target of ~$809 is well below the current price of ~$1,121. Tariff headwinds of $250–$350M are factored in but global supply chain risks persist. The stock trades at 56x trailing earnings."
       ],
       "recommendation": "Hold",
-      "current_price": "$388.99",
-      "price_target": "$397.35 (+2.2%)",
-      "pe_ratio": "317.23",
-      "rsi": "47.96",
-      "vs_52wk_high": "-22.0% below high ($498.83)",
+      "current_price": "$1,121.30",
+      "price_target": "$809.00 (-27.8% to consensus; Susquehanna raised PT to $1,080)",
+      "pe_ratio": "56.03",
+      "rsi": "84 (overbought)",
+      "vs_52wk_high": "At new 52-week high (prior high $1,009.49 on Apr 17; today's surge set new all-time record)",
+      "analyst_rating": "Buy",
+      "sector": "Industrials / Energy - Power Equipment & Grid Technology",
+      "sources": ["CNBC", "Investing.com", "Yahoo Finance", "Barchart", "TradingKey", "Benzinga", "StockAnalysis"]
+    },
+    {
+      "ticker": "AGPU",
+      "company": "Axe Compute",
+      "discussion_driver": "Axe Compute exploded 166% after announcing a $260M, 36-month enterprise contract to supply 2,304 NVIDIA B300 GPUs with deployment targeted for Q3 2026. The deal — the largest in company history — provides rare long-dated revenue visibility for this small-cap AI infrastructure company, but the stock remains 57% below its 52-week high.",
+      "bull_case": [
+        "The $260M, 36-month contract for 2,304 NVIDIA B300 GPUs to an undisclosed enterprise client provides unprecedented revenue visibility for Axe Compute, with deployment set for Q3 2026. This validates the company's ability to compete for large-scale enterprise AI infrastructure contracts.",
+        "AI GPU compute demand is structurally growing as enterprises race to build dedicated inference and training clusters. Axe Compute's positioning as a specialist GPU deployment provider could attract additional enterprise partnerships as AI spending accelerates."
+      ],
+      "bear_case": [
+        "Axe Compute is not currently profitable (TTM EPS: -$13.36), carries no formal sell-side analyst coverage, and the 166% single-day surge dramatically increases the risk of a post-announcement reversal as momentum traders take profits.",
+        "Single-contract concentration risk is severe: the $260M deal represents a transformational but lumpy revenue source. If the unnamed enterprise client delays or cancels, the stock could collapse. The stock also sits 57% below its 52-week high of $32.10, signaling prior investor disappointment."
+      ],
+      "recommendation": "Speculative Buy",
+      "current_price": "$13.61",
+      "price_target": "$4.50 (TipRanks AI analyst, Neutral — pre-contract; no formal sell-side consensus)",
+      "pe_ratio": "N/A (not profitable; TTM EPS: -$13.36)",
+      "rsi": "N/A",
+      "vs_52wk_high": "-57.5% below 52-week high ($32.10)",
+      "analyst_rating": "Neutral (AI analyst only; no formal sell-side consensus)",
+      "sector": "Technology - AI Infrastructure / Cloud Compute",
+      "sources": ["Seeking Alpha", "GuruFocus", "CNBC", "StockTitan", "TipRanks", "GoInvest", "StockAnalysis"]
+    },
+    {
+      "ticker": "UNH",
+      "company": "UnitedHealth Group",
+      "discussion_driver": "UnitedHealth jumped 8.75% after a strong Q1 2026 earnings beat — EPS $7.23 vs $6.59 expected — with the medical cost ratio falling to 83.9% vs 85.6% feared, signaling genuine turnaround progress. Management raised full-year 2026 adjusted EPS guidance above $18.25/share, and Argus upgraded the stock to Buy with a $400 price target.",
+      "bull_case": [
+        "Medical cost ratio improvement to 83.9% (vs. 85.6% consensus estimate) shows the company has regained control of claims management. Optum Health drove a 35% YoY reduction in skilled nursing admissions in the West Region, validating operational efficiency gains and improving the profitability outlook.",
+        "Raised 2026 guidance to >$18.25 adjusted EPS with $8.9B in operating cash flow (1.4x net income) and a committed $2B share buyback program through Q2. The company's $1.5B AI investment is targeting a 2:1 return, positioning it well for long-term cost efficiency."
+      ],
+      "bear_case": [
+        "Medicaid segment margins remain negative throughout 2026, with ACA membership expected to shrink by approximately one-third as UNH prioritizes profitability over enrollment. This revenue compression limits top-line growth and exposes the company to policy and regulatory risk.",
+        "Guidance is heavily front-half weighted — over 75% of UnitedHealthcare profit is expected in the first two quarters — making H2 sustainability uncertain. If Q2 medical cost trends deteriorate, the full-year guide could quickly fall out of reach."
+      ],
+      "recommendation": "Buy",
+      "current_price": "$352.04",
+      "price_target": "$395.68 (+12.4%)",
+      "pe_ratio": "24.45",
+      "rsi": "~80 (overbought near-term)",
+      "vs_52wk_high": "-19.8% below 52-week high ($438.85)",
+      "analyst_rating": "Buy",
+      "sector": "Healthcare - Managed Care",
+      "sources": ["CNBC", "Benzinga", "247WallSt", "Yahoo Finance", "TradingKey", "Investing.com", "GuruFocus"]
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "discussion_driver": "Tesla reported Q1 2026 after the close with a modest EPS beat ($0.41 vs $0.35 expected) and gross margin surging to 21.1% — the best in years. However, shares gave back initial 4% after-hours gains after management disclosed 2026 capex would be $5B above prior guidance at $25B+, raising near-term free cash flow concerns.",
+      "bull_case": [
+        "Gross margin expanded to 21.1% in Q1 2026 — up 478 basis points YoY and above Q4 2025's 20.1% — demonstrating meaningful improvement in vehicle economics. Deliveries of 358,023 vehicles rose 6.3% YoY, beating estimates and suggesting demand stabilization.",
+        "Tesla's long-term AI and robotics narrative — FSD, the Cybercab robotaxi, and the Optimus humanoid robot — positions the company as potentially more valuable than its automotive segment alone. Management's aggressive $25B+ capex signals conviction in building autonomous infrastructure at scale."
+      ],
+      "bear_case": [
+        "2026 capex guidance raised by $5B to $25B+, directly dampening near-term free cash flow and investor confidence. The stock trades at a trailing P/E of ~365x, an extreme premium pricing in a robotics/AI moonshot scenario that remains years from material revenue contribution.",
+        "Tesla is down ~12% YTD and is the worst performer among the Magnificent Seven in 2026. CEO Elon Musk's political controversies and brand damage in Europe and other key markets continue to weigh on sentiment and could affect demand in upcoming quarters."
+      ],
+      "recommendation": "Hold",
+      "current_price": "$387.51",
+      "price_target": "$397.15 (+2.5%)",
+      "pe_ratio": "364.78",
+      "rsi": "N/A",
+      "vs_52wk_high": "-22.3% below 52-week high ($498.83 on Dec 22, 2025)",
       "analyst_rating": "Hold",
-      "sector": "Consumer Discretionary - Electric Vehicles",
-      "sources": ["Yahoo Finance", "GuruFocus", "Electrek", "CNBC", "StockAnalysis"]
+      "sector": "Consumer Discretionary - Electric Vehicles & AI",
+      "sources": ["CNBC", "Electrek", "Yahoo Finance", "Investing.com", "TradingKey", "Shacknews"]
     },
     {
       "ticker": "BA",
-      "company": "Boeing Company",
-      "discussion_driver": "Boeing reported Q1 2026 earnings this morning that significantly beat consensus on both lines — EPS of -$0.20 vs. the expected -$0.75 loss, and revenue of $22.22B (+14% YoY) vs. $21.97B consensus — lifting shares ~4% as investors gain confidence in CEO Kelly Ortberg's turnaround. Commercial deliveries rose 10% YoY to 143 aircraft, and defense revenue surged 21%, providing broad-based evidence the recovery is taking hold.",
+      "company": "Boeing",
+      "discussion_driver": "Boeing surged 5%+ after Q1 2026 results came in far better than feared: adjusted loss of -$0.20/share vs -$0.66 expected, revenue of $22.22B vs $21.78B estimated (up 14% YoY). Deliveries rose to 130 aircraft in Q1 vs 83 in Q1 2025, and 737 production is targeting 47/month by summer 2026, reinforcing the production recovery narrative.",
       "bull_case": [
-        "Boeing's Q1 2026 beat — far smaller EPS loss than expected and revenue $22.22B (+14% YoY) — provides the first concrete multi-segment evidence that Ortberg's operational recovery plan is working across commercial, defense, and services simultaneously.",
-        "A 10% increase in commercial aircraft deliveries and an 87% surge in total orders to $23B shows the production and backlog pipeline is rebuilding, suggesting Boeing can approach its 737 MAX delivery rate targets in the second half of 2026."
+        "Production recovery is accelerating: Boeing delivered 130 aircraft in Q1 vs 83 in Q1 2025, and is targeting 737 MAX production of 47/month by summer 2026 and 52/month by year-end. A record $695B backlog covering 6,100+ commercial airplanes provides multi-year revenue visibility as rates normalize.",
+        "The Q1 EPS beat (-$0.20 vs -$0.66 consensus) significantly exceeded expectations and reflects genuine manufacturing improvement. Strong Buy consensus with an average price target of $274.92 implies ~19.4% upside from current levels."
       ],
       "bear_case": [
-        "Despite the top-line recovery, Boeing's commercial unit still posted an operating loss in Q1, indicating that volume growth has not yet translated into positive per-unit economics due to lingering supply chain costs and regulatory compliance investments.",
-        "Boeing's defense segment carries fixed-price contract exposure that has historically triggered multi-billion dollar charges, and management holding full-year guidance flat despite the Q1 beat signals caution about geopolitical and fuel cost headwinds."
+        "Boeing remains loss-making with negative free cash flow. Commercial Airplanes continues to post operating losses on program accounting, and elevated capex and working capital requirements mean FCF recovery is still deferred. Any production disruption from labor, regulatory action, or supply chain could delay the timeline.",
+        "Tariff risks threaten Boeing's complex global supply chain, and the company cannot yet report a positive P/E — indicating the recovery story, while improving, remains unproven. Nine analysts revised earnings estimates downward ahead of this report, signaling persistent caution."
       ],
       "recommendation": "Buy",
-      "current_price": "$225.08",
-      "price_target": "$256.44 (+13.9%)",
-      "pe_ratio": "81.12",
-      "rsi": "53.29",
-      "vs_52wk_high": "-11.5% below high ($254.35)",
+      "current_price": "$230.20",
+      "price_target": "$256.44 (+11.4%)",
+      "pe_ratio": "N/A (loss-making; negative earnings)",
+      "rsi": "N/A",
+      "vs_52wk_high": "-9.5% below 52-week high ($254.35)",
       "analyst_rating": "Strong Buy",
       "sector": "Industrials - Aerospace & Defense",
-      "sources": ["CNBC", "Boeing IR", "TipRanks", "Yahoo Finance", "StockAnalysis", "TradingKey"]
-    },
-    {
-      "ticker": "IBM",
-      "company": "International Business Machines Corporation",
-      "discussion_driver": "IBM reports Q1 2026 earnings tonight after a 13.5% YTD decline driven by investor concern that AI-native competitors are eroding its enterprise software moat. Consensus expects EPS of $1.81 on $15.6B revenue, and the market is also watching for what would be IBM's 27th consecutive annual dividend hike — a signal of management confidence in underlying cash flow resilience amid the AI disruption debate.",
-      "bull_case": [
-        "IBM's hybrid cloud platform (Red Hat/OpenShift) and WatsonX AI services are deeply embedded in Fortune 500 enterprise workflows, creating high switching costs and durable recurring revenue that cloud-native AI competitors cannot displace quickly without major re-platforming projects.",
-        "A 27th consecutive dividend increase would reinforce IBM's capital return credentials, and with the stock now 27.7% below its 52-week high and RSI approaching oversold at 34.6, the risk/reward is becoming increasingly attractive for income and value-oriented investors."
-      ],
-      "bear_case": [
-        "AI-native tools from Microsoft Azure OpenAI, Salesforce Einstein, and open-source models increasingly compete directly with IBM's enterprise AI and consulting offerings at a fraction of the cost, threatening to commoditize IBM's highest-margin revenue streams over the next 2-3 years.",
-        "The stock is down 13.5% YTD and 27.7% from its 52-week high with RSI at 34.6, suggesting persistent institutional selling pressure — an indication that investors are fundamentally re-rating IBM's long-term growth prospects rather than treating the decline as a temporary dip."
-      ],
-      "recommendation": "Hold",
-      "current_price": "$234.84",
-      "price_target": "$302.00 (+28.6%)",
-      "pe_ratio": "21.55",
-      "rsi": "34.63",
-      "vs_52wk_high": "-27.7% below high ($324.90)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Enterprise Software & Cloud",
-      "sources": ["Yahoo Finance", "Benzinga", "MarketBeat", "StockAnalysis", "FinanceCharts", "GuruFocus"]
-    },
-    {
-      "ticker": "NOW",
-      "company": "ServiceNow, Inc.",
-      "discussion_driver": "ServiceNow reports Q1 2026 earnings after market close tonight as the stock sits in deeply oversold territory — RSI 24.6 — having shed over 57% from its 52-week high of $211.48. The company has beaten EPS estimates 100% of the time over the prior two years (consensus: $0.95 EPS, $3.75B revenue), making tonight's print and subscription revenue guidance the pivotal test for whether the stock can begin a recovery or faces further de-rating.",
-      "bull_case": [
-        "ServiceNow's 100% EPS beat rate over the prior two years and deeply embedded AI-powered enterprise platform across IT service management, HR, and security operations provide strong recurring revenue visibility, and a beat tonight could catalyze a significant relief rally from oversold RSI levels.",
-        "Now Assist generative AI features represent a high-value upsell opportunity across ServiceNow's large installed base, and if management raises subscription revenue guidance, it could begin to close the gap between the current $90.55 price and the analyst consensus target of $212.67."
-      ],
-      "bear_case": [
-        "The stock's 57% decline from its 52-week high reflects deep investor concern that geopolitical deal delays and tightening enterprise IT budgets are structurally slowing ServiceNow's subscription growth, and disappointing guidance tonight could accelerate the selloff toward the 52-week low of $81.24.",
-        "UBS recently downgraded to Neutral with a $100 price target — barely above current levels — suggesting that even cautious bulls see limited near-term upside, and further analyst downgrades following an uncertain guidance print would create sustained selling pressure."
-      ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$90.55",
-      "price_target": "$212.67 (+134.9%)",
-      "pe_ratio": "41.29",
-      "rsi": "24.60",
-      "vs_52wk_high": "-57.2% below high ($211.48)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Enterprise Software",
-      "sources": ["ServiceNow IR", "MarketBeat", "Yahoo Finance", "GuruFocus", "Benzinga", "WallStreetZen"]
-    },
-    {
-      "ticker": "TXN",
-      "company": "Texas Instruments Incorporated",
-      "discussion_driver": "Texas Instruments reported Q1 2026 earnings after market close tonight, beating across all metrics: EPS $1.68 vs. $1.37 expected (+22%), revenue $4.83B (+19% YoY) vs. $4.52B consensus, and Q2 guidance of $5.0-5.4B vs. $4.85B expected — sending shares up ~8% after hours. The results confirm the analog semiconductor upcycle thesis that drove multiple analyst upgrades ahead of earnings, including Stifel's upgrade to Buy with a $250 price target.",
-      "bull_case": [
-        "Q1 revenue of $4.83B (+19% YoY) and Q2 guidance of $5.0-5.4B — well above the $4.85B consensus — confirm the analog semiconductor upcycle is accelerating in industrial and data center markets, driven by AI infrastructure buildout and industrial automation demand.",
-        "Multiple pre-earnings analyst upgrades (Stifel to Buy/$250, Mizuho to Neutral/$215) signal growing Street confidence in the cycle recovery, and the strong Q1 beat positions Texas Instruments for a wave of further price target increases that could sustain near-term momentum."
-      ],
-      "bear_case": [
-        "At a trailing PE of 39.47x — 71% above Texas Instruments' 10-year median of 23.14x — the stock is priced for a robust cycle recovery, and any unexpected deceleration in industrial or automotive semiconductor demand could trigger a rapid and severe multiple compression.",
-        "Geopolitical trade tensions and U.S.-China technology restrictions pose a structural risk to TI's exposure to Chinese industrial and automotive customers, and an escalation in export controls could impair a meaningful portion of the company's total addressable market."
-      ],
-      "recommendation": "Buy",
-      "current_price": "$225.90",
-      "price_target": "$225.48 (flat; pre-earnings consensus, likely revised upward after strong beat)",
-      "pe_ratio": "39.47",
-      "rsi": "N/A",
-      "vs_52wk_high": "-2.3% below high ($231.32)",
-      "analyst_rating": "Hold",
-      "sector": "Technology - Semiconductors (Analog)",
-      "sources": ["Meyka", "Benzinga", "Yahoo Finance", "Bloomberg", "GuruFocus", "TipRanks", "eToro"]
+      "sources": ["CNBC", "Bloomberg", "Yahoo Finance", "TipRanks", "GuruFocus", "Investing.com", "MarketBeat"]
     }
   ]
 }
