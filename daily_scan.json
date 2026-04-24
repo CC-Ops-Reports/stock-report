@@ -1,175 +1,189 @@
 {
-  "report_date": "2026-04-23",
-  "market_tone": "Mixed",
+  "report_date": "2026-04-24",
+  "market_tone": "Bullish",
   "key_themes": [
-    "Iran War tensions resurge as Strait of Hormuz remains blocked, Brent crude tops $105/bbl",
-    "AI subscription anxiety reignited: IBM and ServiceNow earnings beats punished on slowing growth and geopolitical deal delays",
-    "Semiconductor analog upcycle confirmed: Texas Instruments Q1 blowout (+19% day) signals industrial and data center demand inflection"
+    "Semiconductor/AI boom: 18-day chip-stock rally, Intel earnings ignite sector, Nvidia retakes $5T market cap",
+    "Iran/geopolitical risk: ceasefire extension and peace-talk hopes ease tensions, but ServiceNow flagged deal delays",
+    "Nuclear energy resurgence: X-Energy Amazon-backed IPO raises $1B+ as AI data center demand drives power needs",
+    "Cable cord-cutting crisis deepens: Charter loses 120K broadband subscribers, cable names hit hard",
+    "GLP-1 weight-loss drug expansion: Hims & Hers adds Eli Lilly Zepbound/Mounjaro to platform"
   ],
   "sp500": {
-    "value": "7,108.40",
-    "change": "-0.41%"
+    "value": "7,165.08",
+    "change": "+0.80%"
   },
   "nasdaq": {
-    "value": "24,438.50",
-    "change": "-0.89%"
+    "value": "24,836.60",
+    "change": "+1.63%"
   },
   "stocks": [
     {
-      "ticker": "TXN",
-      "company": "Texas Instruments",
-      "reason": "Surged 19% to record high after Q1 2026 blowout: revenue $4.83B (+19% YoY) and EPS $1.68 both crushed estimates; CEO cited 90% data center revenue growth; multiple analyst upgrades from Stifel, TD Cowen, and Mizuho",
+      "ticker": "INTC",
+      "company": "Intel Corporation",
+      "reason": "Q1 2026 earnings massive beat: EPS $0.29 vs $0.01 expected, revenue $13.58B vs $12.42B; data center revenue +22% to $5.1B; Q2 guidance well above consensus; stock surged ~24%, surpassing its 2000 dot-com peak for first time",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "GuruFocus",
+        "Bloomberg",
+        "Yahoo Finance",
+        "BusinessWire"
+      ]
+    },
+    {
+      "ticker": "AMD",
+      "company": "Advanced Micro Devices",
+      "reason": "Surged ~14% on Intel earnings sympathy rally; DA Davidson upgraded to Buy with $375 PT (from $220); Stifel raised PT to $320; renewed AI trade confidence lifted semiconductor peers",
+      "category": "upgrade",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance",
+        "247WallSt"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA Corporation",
+      "reason": "Closed +4.3% at $208.27, reclaiming $5 trillion market cap (first company ever to close above that threshold); record closing high aided by Intel earnings and AI infrastructure demand",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance",
+        "Motley Fool"
+      ]
+    },
+    {
+      "ticker": "CHTR",
+      "company": "Charter Communications",
+      "reason": "Q1 2026 earnings miss: EPS $9.17 vs $9.97 expected; lost 120K broadband subscribers vs expectations; stock fell ~21%, one of biggest single-day declines in its history",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
         "Motley Fool",
-        "Yahoo Finance"
+        "Yahoo Finance",
+        "QuiverQuant"
       ]
     },
     {
       "ticker": "NOW",
       "company": "ServiceNow",
-      "reason": "Tumbled ~18% despite Q1 revenue beat ($3.77B vs $3.74B est); 75bps headwind to subscription growth from Middle East deal delays tied to Iran War; AI-disruption fears amplified by weak outlook optics",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Benzinga",
-        "Motley Fool",
-        "Investing.com"
-      ]
-    },
-    {
-      "ticker": "IBM",
-      "company": "IBM",
-      "reason": "Fell nearly 8% after Q1 2026 beat (EPS beat by $0.10, revenue beat by $300M) failed to impress; revenue growth slowed to 9% from 12.2%; company offered no guidance raise, reigniting AI-disruption concerns for enterprise software",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Benzinga",
-        "Investing.com",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "INTC",
-      "company": "Intel",
-      "reason": "Soared 15-19% in after-hours trading after Q1 2026 earnings crushed expectations on revenue growth; marked a significant beat for the chipmaker amid its ongoing turnaround effort",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Bloomberg"
-      ]
-    },
-    {
-      "ticker": "PENN",
-      "company": "Penn Entertainment",
-      "reason": "Rallied 15% after Q1 results beat expectations, driven by strength in regional casinos and interactive/online gambling segments",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Bloomberg"
-      ]
-    },
-    {
-      "ticker": "URI",
-      "company": "United Rentals",
-      "reason": "Jumped 13%+ after Q1 beat and raised full-year sales guidance to $16.9B\u2013$17.4B range, signaling robust infrastructure and construction demand",
-      "category": "earnings",
-      "sources": [
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "NOK",
-      "company": "Nokia",
-      "reason": "Shares surged 8.2% after posting a Q1 2026 quarterly profit beat, rebounding from prior weakness in telecom infrastructure spending",
+      "reason": "Q1 beat on EPS ($0.97 vs $0.96) and revenue ($3.77B vs $3.74B) but stock fell ~14-18% \u2014 worst single-day drop ever \u2014 as Iran war caused ~75bp headwind from delayed large on-premise deals in the Middle East; Armis acquisition also pressured margins",
       "category": "earnings",
       "sources": [
         "CNBC",
         "Bloomberg",
-        "Benzinga"
+        "Yahoo Finance",
+        "Meyka"
       ]
     },
     {
-      "ticker": "IREN",
-      "company": "Iren (formerly Iris Energy)",
-      "reason": "Rose 7.5% to $52.02 as the market continued rewarding its pivot from Bitcoin mining toward AI data center operations; ongoing narrative of GPU compute monetization",
+      "ticker": "XE",
+      "company": "X-Energy",
+      "reason": "IPO debut: Amazon-backed small modular nuclear reactor developer raised $1.02B (upsized, priced at $23, above $16-$19 range); opened at $30.11, closed +27%; largest nuclear public offering on record driven by AI data center power demand",
       "category": "news",
       "sources": [
-        "Motley Fool",
-        "Bloomberg"
-      ]
-    },
-    {
-      "ticker": "CSX",
-      "company": "CSX Corporation",
-      "reason": "Popped 7% after Q1 2026 EPS of $0.43 beat the $0.39 consensus; results highlighted in Bloomberg premarket movers list",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Bloomberg"
-      ]
-    },
-    {
-      "ticker": "HON",
-      "company": "Honeywell International",
-      "reason": "Fell ~3% in premarket and regular session despite Q1 EPS beat; revenue came in below expectations, disappointing investors who had anticipated a full beat",
-      "category": "earnings",
-      "sources": [
+        "Bloomberg",
+        "TechCrunch",
         "CNBC",
         "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "HIMS",
+      "company": "Hims & Hers Health",
+      "reason": "Stock jumped +7% after expanding Eli Lilly GLP-1 partnership: platform now offers Zepbound, Mounjaro, and Foundayo via LillyDirect, alongside existing Novo Nordisk Ozempic/Wegovy access; broadens weight-loss drug offerings ahead of FDA compounding review",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance",
+        "GuruFocus"
+      ]
+    },
+    {
+      "ticker": "LLY",
+      "company": "Eli Lilly",
+      "reason": "Fell ~3.7% as Hims & Hers partnership (routing GLP-1 prescriptions through LillyDirect) raised margin concerns; investors await full earnings call April 30 for clarity on deal economics and compounding competitive impact",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance",
+        "GuruFocus"
+      ]
+    },
+    {
+      "ticker": "PG",
+      "company": "Procter & Gamble",
+      "reason": "Q1 2026 earnings beat; shares climbed ~3% in premarket and held gains; consumer staples outperformed defensively amid mixed broader market open",
+      "category": "earnings",
+      "sources": [
+        "Bloomberg",
+        "CNBC",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "HCA",
+      "company": "HCA Healthcare",
+      "reason": "Fell ~8% after lowering 2026 profit guidance to low end of prior forecast; attributed shortfall to storm-related disruptions and lost revenue from Hurricanes Helene and Milton; unusual late-season hurricane impact on hospital volumes",
+      "category": "earnings",
+      "sources": [
+        "Bloomberg",
+        "CNBC",
+        "TheStreet"
+      ]
+    },
+    {
+      "ticker": "CMCSA",
+      "company": "Comcast",
+      "reason": "Tumbled ~8% after Deutsche Bank downgraded to Hold from Buy, cutting PT to $34 from $35; Charter's massive subscriber-loss report amplified sector-wide cable concern",
+      "category": "downgrade",
+      "sources": [
+        "CNBC",
+        "247WallSt",
+        "Barchart"
       ]
     },
     {
       "ticker": "LMT",
       "company": "Lockheed Martin",
-      "reason": "Dropped ~4% after Q1 2026 earnings and revenue both missed Wall Street forecasts, a notable stumble for the defense giant despite elevated geopolitical tensions from the Iran War",
+      "reason": "Q1 2026 earnings and revenue miss: EPS $6.44 vs $6.69 expected, revenue $18.02B vs $18.19B; free cash flow turned deeply negative (-$291M vs +$955M a year ago); F-16 and C-130 production delays flagged; stock fell ~4-5%",
       "category": "earnings",
       "sources": [
-        "GuruFocus",
-        "TheStreet"
+        "Yahoo Finance",
+        "Investing.com",
+        "StockStory"
       ]
     },
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "reason": "Volatile session: Q1 delivered a top- and bottom-line beat with automotive business better than feared, but shares reversed after CEO Musk announced plans to increase capital investments to over $25B for robotics pivot",
-      "category": "earnings",
+      "ticker": "DKNG",
+      "company": "DraftKings",
+      "reason": "Downgraded to Neutral from Buy by MoffettNathanson alongside Flutter Entertainment (FLUT); online sports betting sector faces near-term headwinds cited by analyst",
+      "category": "downgrade",
       "sources": [
-        "CNBC",
-        "Bloomberg",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "AAL",
-      "company": "American Airlines",
-      "reason": "Beat Q1 earnings and revenue forecasts but cut full-year 2026 earnings outlook citing surging oil prices driven by the Iran War and Strait of Hormuz disruptions",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Investing.com"
-      ]
-    },
-    {
-      "ticker": "BYD",
-      "company": "Boyd Gaming",
-      "reason": "Slipped 7% in after-hours trading after Q1 adjusted EPS of $1.60 missed the $1.73 consensus; revenue of $997.4M also fell short of the expected $1B",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
+        "Yahoo Finance",
+        "247WallSt",
         "Barchart"
       ]
     },
     {
-      "ticker": "CAR",
-      "company": "Avis Budget Group",
-      "reason": "JPMorgan downgraded to Underweight from Neutral citing unsustainable valuation not supported by fundamentals; new price target $165",
-      "category": "downgrade",
+      "ticker": "ORCL",
+      "company": "Oracle",
+      "reason": "Wedbush initiated with Outperform and $225 PT, calling Oracle \"on a path to become foundational infrastructure provider for the AI Revolution\"; cloud and database momentum in focus",
+      "category": "upgrade",
       "sources": [
         "Yahoo Finance",
-        "Benzinga"
+        "247WallSt",
+        "Barchart"
+      ]
+    },
+    {
+      "ticker": "PSX",
+      "company": "Phillips 66",
+      "reason": "Morgan Stanley raised to Overweight from Equal Weight, lifting PT to $174 from $147; refining and midstream sector seen as beneficiary of easing Iran tensions and stabilizing oil prices",
+      "category": "upgrade",
+      "sources": [
+        "Yahoo Finance",
+        "247WallSt",
+        "Barchart"
       ]
     }
   ]
