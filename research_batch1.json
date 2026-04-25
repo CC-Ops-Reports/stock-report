@@ -1,130 +1,132 @@
 {
-  "report_date": "2026-04-23",
+  "report_date": "2026-04-24",
   "batch": 1,
-  "market_tone": "Mixed",
+  "market_tone": "Bullish",
   "key_themes": [
-    "Iran War tensions resurge as Strait of Hormuz remains blocked, Brent crude tops $105/bbl",
-    "AI subscription anxiety reignited: IBM and ServiceNow earnings beats punished on slowing growth and geopolitical deal delays",
-    "Semiconductor analog upcycle confirmed: Texas Instruments Q1 blowout (+19% day) signals industrial and data center demand inflection"
+    "Semiconductor/AI boom: 18-day chip-stock rally, Intel earnings ignite sector, Nvidia retakes $5T market cap",
+    "Iran/geopolitical risk: ceasefire extension and peace-talk hopes ease tensions, but ServiceNow flagged deal delays",
+    "Nuclear energy resurgence: X-Energy Amazon-backed IPO raises $1B+ as AI data center demand drives power needs",
+    "Cable cord-cutting crisis deepens: Charter loses 120K broadband subscribers, cable names hit hard",
+    "GLP-1 weight-loss drug expansion: Hims & Hers adds Eli Lilly Zepbound/Mounjaro to platform"
   ],
   "sp500": {
-    "value": "7,108.40",
-    "change": "-0.41%"
+    "value": "7,165.08",
+    "change": "+0.80%"
   },
   "nasdaq": {
-    "value": "24,438.50",
-    "change": "-0.89%"
+    "value": "24,836.60",
+    "change": "+1.63%"
   },
   "stocks": [
     {
-      "ticker": "TXN",
-      "company": "Texas Instruments",
-      "discussion_driver": "Texas Instruments surged 18-19% to a new 52-week high on April 23 after Q1 2026 results crushed estimates—revenue of $4.83B (+19% YoY) and EPS of $1.68 both topped forecasts, with data center revenue up 90% YoY and industrial revenue up ~30% YoY. Multiple analysts upgraded the stock (Stifel, TD Cowen, Mizuho, B of A, Barclays), confirming a long-awaited analog demand inflection spanning AI infrastructure and factory automation. The stock now trades above the analyst consensus target, raising the question of whether upside is already priced in.",
+      "ticker": "INTC",
+      "company": "Intel Corporation",
+      "discussion_driver": "Intel's Q1 2026 earnings obliterated expectations — EPS $0.29 vs $0.01 forecast and revenue $13.58B vs $12.42B — with data center revenue surging 22% YoY on AI infrastructure demand. The stock surged ~24% to a 26-year high surpassing the 2000 dot-com peak, sparking a wave of analyst upgrades and target resets as Lip-Bu Tan's turnaround shifts from narrative to verified fundamentals.",
       "bull_case": [
-        "Data center chip revenue surged 90% YoY in Q1 2026 while industrial revenue rose ~30% YoY across robotics and aerospace/defense subsegments, validating a durable analog demand cycle tied to AI infrastructure buildout and factory automation.",
-        "The Silicon Labs acquisition, transition to internal 300mm wafer manufacturing, and structural FCF inflection as capital intensity moderates position TI for sustained margin expansion over the next 2-3 years."
+        "Q1 2026 earnings dramatically beat on both EPS and revenue with data center revenue up 22% YoY, validating Intel's Xeon AI server and 18A foundry strategy; analysts are rapidly resetting targets with KeyBanc raising to $110 (Overweight), HSBC upgrading to Buy at $95, and Roth/MKM upgrading to Buy at $100.",
+        "Intel's 18A manufacturing node is gaining foundry customer traction and hyperscaler relationships are being rebuilt, creating a multi-year re-rating opportunity as the AI infrastructure build-out expands beyond GPU compute to CPUs, memory controllers, and custom silicon."
       ],
       "bear_case": [
-        "The updated inventory target range of 150-250 days (raised from 130-200 days) signals potential demand uncertainty or future write-down risk, undermining the FCF expansion narrative the market is pricing in.",
-        "At 42.9x trailing earnings and RSI of 76.67 (overbought territory), TXN is trading above even the post-upgrade analyst consensus target of ~$271, leaving limited near-term upside and elevated correction risk."
+        "After a 109% YTD rally and 24% single-day earnings surge, INTC's RSI hit 78 (overbought) and many analysts remain cautious (BofA $56, Stifel $75); the stock has significantly outpaced even the most aggressive post-earnings consensus targets, leaving little margin for any Q2 execution miss.",
+        "Structural competitive threats persist: AMD's EPYC CPUs continue winning server share, TSMC and Samsung hold manufacturing advantages at leading nodes, and any slip in the 18A yield ramp could reignite existential questions about Intel's foundry ambitions."
       ],
       "recommendation": "Hold",
-      "current_price": "$279.84",
-      "price_target": "$271.74 (-2.9%)",
-      "pe_ratio": "42.9",
-      "rsi": "76.67",
-      "vs_52wk_high": "-0.7% below high ($281.72)",
+      "current_price": "$82.58",
+      "price_target": "~$86.00 (+4.1%)",
+      "pe_ratio": "N/A",
+      "rsi": "78",
+      "vs_52wk_high": "-4.4% below high ($86.44)",
       "analyst_rating": "Hold",
       "sector": "Technology - Semiconductors",
-      "sources": ["CNBC", "GuruFocus", "Motley Fool", "Yahoo Finance", "24/7 Wall St.", "Bloomberg", "Benzinga", "TIKR"]
+      "sources": ["CNBC", "Yahoo Finance", "Benzinga", "TheStreet", "247WallSt", "Investing.com", "TradingKey", "Meyka"]
+    },
+    {
+      "ticker": "AMD",
+      "company": "Advanced Micro Devices",
+      "discussion_driver": "AMD surged ~14% on April 23 in a sympathy rally following Intel's blowout Q1 earnings, as investors rotated broadly into semiconductors on renewed AI trade confidence. DA Davidson upgraded AMD to Buy with a $375 PT and Stifel raised its target to $320, reflecting optimism about AMD's dual AI tailwinds: EPYC data center CPU share gains and multi-year Instinct GPU deployment contracts with Meta (6GW) and OpenAI (6GW).",
+      "bull_case": [
+        "AMD has secured multi-year Instinct GPU deployment agreements with Meta (up to 6GW) and OpenAI (6GW), creating a clear revenue pipeline for MI-series accelerators independent of Nvidia market-share dynamics and anchoring a visible multi-year backlog.",
+        "EPYC server CPUs continue winning hyperscaler and enterprise workloads on performance-per-dollar, and Intel's bullish data center commentary reinforces AMD's H2 2026 outlook — with DA Davidson upgrading to Buy ($375 PT) and BofA raising to $310, leading bulls have meaningfully reset targets."
+      ],
+      "bear_case": [
+        "AMD trades at ~109x trailing P/E with the consensus price target ($290) now below the current stock price ($348), meaning the stock has run far ahead of analyst models; Nvidia's entrenched CUDA ecosystem and AMD's ROCm software gaps create barriers to the GPU market share gains needed to justify this premium.",
+        "US-China export controls have already eliminated a meaningful portion of the Instinct GPU TAM, and any further trade restrictions, MI500 GPU roadmap delays, or broader hyperscaler capex deceleration could rapidly send the stock back toward the $150-$180 range cited by bears."
+      ],
+      "recommendation": "Hold",
+      "current_price": "$348.20",
+      "price_target": "$290.19 (-16.7%)",
+      "pe_ratio": "109.00",
+      "rsi": "N/A",
+      "vs_52wk_high": "-1.4% below high ($352.99)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Technology - Semiconductors",
+      "sources": ["MarketBeat", "TipRanks", "Yahoo Finance", "TheStreet", "IBTimes", "Motley Fool", "StockAnalysis"]
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA Corporation",
+      "discussion_driver": "NVIDIA made history on April 23, 2026, becoming the first company ever to close a trading session with a $5 trillion market cap, rising +4.3% to $208.27 on the Intel AI infrastructure earnings wave. The milestone crystallizes NVIDIA's data center GPU dominance at a moment when hyperscaler AI capex is projected at $527B for 2026, even as the stock settled back to ~$199 on April 24.",
+      "bull_case": [
+        "NVIDIA controls ~90% of the AI accelerator market via Hopper/Blackwell architecture and the CUDA-X software ecosystem, with hyperscaler AI capex projected at $527B in 2026 (revised up from $465B), creating a sustained demand floor that supports Blackwell GPU pricing and margins at record levels.",
+        "58 of 65 analysts rate NVIDIA Strong Buy or Buy with a consensus PT of $266 (+33% upside), and the Blackwell Ultra platform is entering its highest-margin phase with inference workload expansion driving GPU utilization across cloud and enterprise deployments."
+      ],
+      "bear_case": [
+        "Big Tech (Google TPU, Amazon Trainium, Meta MTIA) is accelerating custom silicon programs specifically to reduce NVIDIA GPU dependence and inference costs, which could gradually erode pricing power and market share over a 2-3 year horizon as these chips mature.",
+        "Zero China data center compute guidance for Q1 FY2027 removes an estimated $50B addressable market due to export controls, and an ongoing DOJ probe into NVIDIA's $20B Groq licensing deal adds regulatory overhang at a moment of peak market cap and valuation."
+      ],
+      "recommendation": "Buy",
+      "current_price": "$199.55",
+      "price_target": "$266.24 (+33.4%)",
+      "pe_ratio": "40.74",
+      "rsi": "51.52",
+      "vs_52wk_high": "-6.0% below high ($212.19)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Technology - Semiconductors",
+      "sources": ["Yahoo Finance", "StockAnalysis", "MarketBeat", "Investing.com", "247WallSt", "TipRanks", "Nasdaq", "MacroTrends"]
+    },
+    {
+      "ticker": "CHTR",
+      "company": "Charter Communications",
+      "discussion_driver": "Charter Communications plunged ~24% on April 24 — one of the largest single-day drops in company history — after Q1 2026 earnings revealed a net loss of 120,000 broadband subscribers (worse than feared) and an EPS miss ($9.17 vs $9.97 expected). The selloff deepens the cord-cutting narrative and raises acute questions about whether Charter can stabilize its core broadband business amid relentless competition from T-Mobile Fixed Wireless Access and fiber overbuilders.",
+      "bull_case": [
+        "Charter's capex cycle is set to fall sharply from $11B in 2026 to below $8B by 2028, while the pending Cox acquisition is projected to deliver $800M+ in run-rate synergies — a combination that could unlock $100+ in free cash flow per share by 2028-2029 and support large-scale buybacks at current depressed valuations.",
+        "Charter added 368K mobile net additions in Q1 2026, pushing total lines past 12 million (+17% YoY), demonstrating successful diversification into mobile that provides a new long-term growth engine partially offsetting structural broadband headwinds."
+      ],
+      "bear_case": [
+        "Charter has now reported four consecutive quarters of broadband net subscriber losses with competition from T-Mobile FWA and AT&T/Lumen fiber intensifying rather than easing, raising the prospect that broadband may never return to net growth under Charter's current footprint and pricing structure.",
+        "Down ~58% from its 52-week high, the 6.8x PE multiple looks cheap only if the FCF inflection trajectory materializes as projected; any simultaneous broadband acceleration and Cox integration misstep could cause further severe multiple compression."
+      ],
+      "recommendation": "Speculative Buy",
+      "current_price": "$183.89",
+      "price_target": "$298.58 (+62.4%)",
+      "pe_ratio": "6.80",
+      "rsi": "N/A",
+      "vs_52wk_high": "-57.9% below high ($437.06)",
+      "analyst_rating": "Hold",
+      "sector": "Communication Services - Telecommunications",
+      "sources": ["QuiverQuant", "Fierce Network", "TIKR", "GuruFocus", "Deadline", "Yahoo Finance", "Seeking Alpha", "BigGoFinance"]
     },
     {
       "ticker": "NOW",
       "company": "ServiceNow",
-      "discussion_driver": "ServiceNow tumbled ~18% on April 23 despite Q1 revenue of $3.77B beating estimates, as a 75bps subscription growth headwind from Middle East deal delays tied to the Iran War triggered aggressive analyst target cuts. Strong AI product momentum—Now Assist $1M+ ACV customers up 130% YoY—couldn't offset market fears about AI disruption to ServiceNow's seat-based growth model and margin compression from acquisitions. The stock is now down ~33% in 2026 and ~60% from its 52-week high, creating a potential value opportunity if the deal delays prove transitory.",
+      "discussion_driver": "ServiceNow beat Q1 2026 EPS ($0.97 vs $0.96) and revenue ($3.77B vs $3.74B) but suffered its worst single-day stock decline on record (-14 to -18%), as management flagged a ~75bp subscription revenue headwind from delayed large on-premise deals in the Middle East due to the Iran war, and cut full-year adjusted operating margin guidance to 31.5% from the $7.75B Armis acquisition. The stock partially recovered +5.3% on April 24 but remains ~58% below its 52-week high.",
       "bull_case": [
-        "Now Assist AI product momentum is exceptional—customers spending $1M+ in ACV grew 130% YoY, 16 deals over $5M in net new ACV (80% YoY growth), and AI product revenue forecast raised to ~$1.5B for 2026 (50% above prior estimates), showing enterprise AI workflow adoption is accelerating.",
-        "At ~60% below its 52-week high with a Moderate Buy consensus and $173 average target, NOW trades at a rare multi-year discount for a compounder with 21%+ subscription revenue growth guidance and 630 customers with $5M+ ACV."
+        "Q1 fundamentals were operationally solid: revenue beat, 16 large $5M+ ACV deals closed (80% YoY growth), and AI products are on track to exceed $1B in 2026; CEO McDermott explicitly characterized the Middle East delays as a timing issue with those contracts expected to close throughout the year.",
+        "At RSI 35 and ~58% below its 52-week high, the stock is at deeply oversold levels; Goldman Sachs, Baird, and UBS all maintain price targets of $100-$163 even after aggressive cuts, implying even the most cautious analysts see 12-82% upside from current levels."
       ],
       "bear_case": [
-        "AI disruption risk is structural—ServiceNow's growth model relies on enterprise seat expansion, but as AI reduces human workforces, that core demand driver faces long-term pressure; KeyBanc maintains an Underweight rating with an $85 target near current price.",
-        "Iran War deal delays created a 75bps subscription growth headwind in Q1, margin compression from acquisitions weighed on guidance, and multiple analysts cut targets significantly post-earnings (Wolfe to $125, Citi to $177, KeyBanc to $85)."
+        "The $7.75B Armis acquisition is already compressing margins (full-year operating margin guidance cut to 31.5%) and introduces significant integration execution risk while management simultaneously navigates a geopolitical revenue headwind — a combination that has driven aggressive analyst target cuts in a single session.",
+        "With the Iran conflict ongoing and Q2 guidance cautious, there is real risk that Middle East deal delays extend beyond Q1 and convert a supposed one-time timing headwind into a recurring structural issue, justifying further multiple compression and additional analyst downgrades."
       ],
       "recommendation": "Hold",
-      "current_price": "$84.79",
-      "price_target": "$173.46 (+104.6%)",
-      "pe_ratio": "41.29",
-      "rsi": "N/A",
-      "vs_52wk_high": "-59.9% below high ($211.48)",
-      "analyst_rating": "Moderate Buy",
-      "sector": "Technology - Enterprise Software",
-      "sources": ["CNBC", "Benzinga", "Motley Fool", "Investing.com", "24/7 Wall St.", "Yahoo Finance", "Fortune", "MarketBeat"]
-    },
-    {
-      "ticker": "IBM",
-      "company": "IBM",
-      "discussion_driver": "IBM fell nearly 8% on April 23 despite Q1 2026 results that beat both earnings ($1.91 vs $1.81 est) and revenue ($15.92B, +9% YoY) expectations, as investors focused on decelerating revenue growth (9% vs prior 12.2%) and management's refusal to raise full-year guidance. The sell-on-beat reaction reinforces persistent market skepticism about whether IBM's AI strategy (Watsonx) can sustain enterprise relevance as hyperscalers dominate AI infrastructure spending.",
-      "bull_case": [
-        "IBM delivered Q1 2026 EPS of $1.91 (beat $1.81 est) and revenue of $15.92B (+9% YoY) with 13% free cash flow growth driven by margin expansion, demonstrating sustained operational improvement under its hybrid cloud and AI (Watsonx) strategy.",
-        "The Buy consensus with a $302 average target implies ~28% upside from current depressed levels; at 21.96x trailing PE, IBM is modestly valued relative to enterprise software peers and offers a durable dividend yield while the AI narrative matures."
-      ],
-      "bear_case": [
-        "Revenue growth decelerated to 9% from 12.2% in the prior period, and IBM declined to raise full-year guidance after the Q1 beat—a signal of management caution that the market has punished with an 8% single-day sell-off.",
-        "IBM's AI aspirations (Watsonx) face structural competitive pressure from hyperscaler AI platforms (AWS Bedrock, Azure OpenAI, Google Vertex) that have deeper model ecosystems and faster development cycles than any legacy enterprise IT vendor."
-      ],
-      "recommendation": "Hold",
-      "current_price": "$235.60",
-      "price_target": "$302.00 (+28.2%)",
-      "pe_ratio": "21.96",
-      "rsi": "N/A",
-      "vs_52wk_high": "-27.5% below high ($324.90)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - IT Services",
-      "sources": ["CNBC", "Benzinga", "GuruFocus", "Yahoo Finance", "Investing.com", "TipRanks"]
-    },
-    {
-      "ticker": "INTC",
-      "company": "Intel",
-      "discussion_driver": "Intel soared 15-19% in after-hours trading on April 23 after Q1 2026 results dramatically exceeded expectations—EPS of $0.29 vs $0.01 expected and revenue of $13.58B vs $12.42B expected, with Data Center & AI revenue surging 22% to $5.05B. Q2 guidance of $13.8-14.8B revenue (vs $13.07B consensus) and EPS of $0.20 (vs $0.09 expected) signals the turnaround is accelerating, while the stock's 74% YTD surge ahead of earnings means a major analyst consensus revision cycle is now likely.",
-      "bull_case": [
-        "Q1 2026 blowout—EPS of $0.29 vs $0.01 expected, revenue of $13.58B vs $12.42B expected, Data Center & AI revenue up 22% to $5.05B—signals Intel's Gaudi AI chips and Xeon processors are gaining real enterprise traction in the AI infrastructure buildout.",
-        "Q2 guidance of $13.8-14.8B revenue and EPS of $0.20 (vs $0.09 consensus) confirms broadening momentum; with analysts still at a $49.68 average target vs. $77+ current price, a significant upward estimate revision cycle has only just begun."
-      ],
-      "bear_case": [
-        "Negative trailing TTM PE (company still unprofitable on a full-year basis) and a forward PE of ~91x leave no margin for execution error; Intel must sustain multiple consecutive earnings beats to justify current valuations.",
-        "The analyst consensus target of $49.68 remains ~36% below the regular-session close of $77.46, reflecting persistent structural skepticism about Intel's ability to recapture AI accelerator share from NVIDIA or CPU share from AMD long-term."
-      ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$77.46",
-      "price_target": "$49.68 (-35.9%)",
-      "pe_ratio": "N/A (negative TTM; fwd: ~91x)",
-      "rsi": "78.20",
-      "vs_52wk_high": "-0.8% below high ($78.10)",
+      "current_price": "$89.47",
+      "price_target": "$173.46 (+93.9%)",
+      "pe_ratio": "50.57",
+      "rsi": "35.29",
+      "vs_52wk_high": "-57.7% below high ($211.48)",
       "analyst_rating": "Hold",
-      "sector": "Technology - Semiconductors",
-      "sources": ["CNBC", "Bloomberg", "GuruFocus", "Benzinga", "MarketScreener", "Invezz", "Shacknews", "TradingKey"]
-    },
-    {
-      "ticker": "PENN",
-      "company": "Penn Entertainment",
-      "discussion_driver": "Penn Entertainment rallied ~15% on April 23 after Q1 2026 EPS of $0.11 crushed the $0.03 estimate by 267%, and the company raised 2026 revenue and EBITDAR guidance by $20M and $12M respectively. The interactive gaming segment's 88% YoY loss narrowing signals ESPN Bet and iCasino investments are approaching the profitability inflection point the market has long awaited, while Stifel reiterated its Buy/$22 target.",
-      "bull_case": [
-        "Q1 2026 EPS of $0.11 crushed the $0.03 estimate by 267%, and management raised full-year 2026 revenue and EBITDAR guidance by $20M and $12M respectively, signaling improving operational leverage across its 43-property portfolio spanning 20 states.",
-        "Interactive gaming losses narrowed 88% YoY in Q1 2026, with iCasino GGR market share growing in Michigan—a critical proof point that ESPN Bet and iCasino investments are approaching profitability and could be a meaningful multi-year earnings catalyst."
-      ],
-      "bear_case": [
-        "PENN faces persistent online sports betting market share pressure from DraftKings and FanDuel due to below-market promotional reinvestment levels across multiple states, leaving it structurally disadvantaged in the digital wagering market.",
-        "Negative TTM EPS means the company remains unprofitable on a full-year basis; high financial leverage and leverage-reduction targets constrain reinvestment capacity in the digital segment critical to long-term growth."
-      ],
-      "recommendation": "Buy",
-      "current_price": "$16.77",
-      "price_target": "$20.38 (+21.5%)",
-      "pe_ratio": "N/A (negative TTM earnings)",
-      "rsi": "N/A",
-      "vs_52wk_high": "-18.6% below high ($20.61)",
-      "analyst_rating": "Buy",
-      "sector": "Consumer Discretionary - Gaming",
-      "sources": ["CNBC", "Bloomberg", "GuruFocus", "Investing.com", "Motley Fool", "Benzinga", "Yahoo Finance"]
+      "sector": "Technology - Enterprise Software",
+      "sources": ["CNBC", "Yahoo Finance", "Meyka", "Benzinga", "Motley Fool", "TheMarketsDaily", "TradersUnion", "GuruFocus", "FXLeaders"]
     }
   ]
 }
