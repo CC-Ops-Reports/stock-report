@@ -1,177 +1,181 @@
 {
-  "report_date": "2026-04-27",
-  "market_tone": "Bullish",
+  "report_date": "2026-04-28",
+  "market_tone": "Mixed",
   "key_themes": [
-    "AI chip partnerships reshaping smartphone and memory landscape",
-    "Mixed Q1 earnings \u2014 consumer/pizza disappoints, telecoms and steel beat",
-    "Iran-Strait of Hormuz tensions cap equity gains; oil pushes higher"
+    "OpenAI revenue & user-growth miss sparks broad AI/chip selloff (Oracle, AMD, Broadcom, ARM down)",
+    "Earnings season split: consumer/financial names (GM, Visa, Starbucks, Coca-Cola, Centene) beat big while Spotify and Robinhood disappoint",
+    "Biotech clinical-trial risk: Erasca halved after patient fatality in ERAS-0015 cancer drug trial"
   ],
   "sp500": {
-    "value": "7,173.91",
-    "change": "+0.12%"
+    "value": "7,138.80",
+    "change": "-0.49%"
   },
   "nasdaq": {
-    "value": "24,887.10",
-    "change": "+0.20%"
+    "value": "24,663.80",
+    "change": "-0.90%"
   },
   "stocks": [
     {
-      "ticker": "QCOM",
-      "company": "Qualcomm",
-      "reason": "Surged 12-13% after reports that OpenAI is partnering with Qualcomm and MediaTek to develop AI smartphone processors targeting 300-400M annual units for a 2028 device launch",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "Bloomberg",
-        "247WallSt",
-        "Schaeffer's"
-      ]
-    },
-    {
-      "ticker": "POET",
-      "company": "POET Technologies",
-      "reason": "Plunged ~46% after Marvell Technology (which acquired Celestial AI) cancelled all purchase orders citing alleged confidentiality violations by POET regarding public order disclosures",
-      "category": "news",
-      "sources": [
-        "Yahoo Finance",
-        "GlobeNewswire",
-        "Investing.com",
-        "TipRanks"
-      ]
-    },
-    {
-      "ticker": "DPZ",
-      "company": "Domino's Pizza",
-      "reason": "Fell ~10% after Q1 US same-store sales grew only 0.9%, badly missing the 2.3% analyst consensus; EPS also disappointed",
+      "ticker": "CNC",
+      "company": "Centene Corporation",
+      "reason": "Q1 2026 beat: adj. EPS $3.37 on $49.9B revenue; raised full-year EPS guidance to >$3.40 (from >$3.00), driving shares up ~14.6%",
       "category": "earnings",
       "sources": [
         "CNBC",
+        "Seeking Alpha",
         "Yahoo Finance"
       ]
     },
     {
-      "ticker": "VZ",
-      "company": "Verizon",
-      "reason": "Gained ~3.5% after Q1 adjusted EPS of $1.28 beat $1.20 estimate; company raised full-year 2026 earnings guidance",
+      "ticker": "GM",
+      "company": "General Motors",
+      "reason": "Q1 2026 adj. EPS $3.70 crushed $2.62 estimate; raised full-year EPS guidance to $11.50-$13.50; shares up 5%+",
       "category": "earnings",
       "sources": [
         "CNBC",
         "Bloomberg",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron Technology",
-      "reason": "Surged ~5% after Melius Research initiated with a Buy rating citing 41% upside; analyst highlighted sustained HBM demand powering AI data centers through 2030",
-      "category": "upgrade",
-      "sources": [
-        "CNBC",
-        "RollingOut",
-        "TipRanks"
-      ]
-    },
-    {
-      "ticker": "SNDK",
-      "company": "SanDisk",
-      "reason": "Jumped 8.1% to fresh all-time highs as Melius memory-demand note lifted the sector; stock is up 3,000%+ over the past year on AI storage tailwinds",
-      "category": "sector",
-      "sources": [
-        "CNBC",
-        "Benzinga",
-        "StocksToTrade"
-      ]
-    },
-    {
-      "ticker": "SNAP",
-      "company": "Snap Inc.",
-      "reason": "Upgraded to Buy from Neutral by Redburn (Rothschild & Co) with PT raised to $10 from $5; analyst cited first-ever GAAP profitability and Spectacles-driven core-business breakout potential",
-      "category": "upgrade",
-      "sources": [
-        "Yahoo Finance",
-        "Investing.com",
-        "TipRanks"
-      ]
-    },
-    {
-      "ticker": "PINS",
-      "company": "Pinterest",
-      "reason": "Downgraded to Neutral from Buy by Redburn; analyst argued Pinterest is \"doubling down on the same approach that has failed it\" and faces the least revenue-diversification potential among social peers amid AI-driven ad-market bifurcation",
-      "category": "downgrade",
-      "sources": [
-        "Yahoo Finance",
-        "Investing.com"
-      ]
-    },
-    {
-      "ticker": "GEV",
-      "company": "GE Vernova",
-      "reason": "Slid ~3% after BNP Paribas Exane downgraded to Neutral from Outperform with $1,190 PT; analyst noted 90% of gas turbine capacity already contracted through 2030, limiting further upside catalysts",
-      "category": "downgrade",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "LC",
-      "company": "LendingClub",
-      "reason": "Surged 12% after hours after Q1 EPS of $0.44 beat $0.36 estimate; net interest margin of 6.28% topped 6.06% consensus, signaling strong lending spread performance",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Investing.com"
-      ]
-    },
-    {
-      "ticker": "NUE",
-      "company": "Nucor",
-      "reason": "Added ~4% after hours after Q1 EPS of $3.23 beat $2.82 estimate; revenue of $9.50B exceeded $8.88B expectation, signaling steel demand resilience",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance",
-        "Investing.com"
-      ]
-    },
-    {
-      "ticker": "RMBS",
-      "company": "Rambus",
-      "reason": "Fell ~10% after hours as Q1 adjusted operating margin came in at 42%, down from 46% a year ago, disappointing investors expecting margin expansion in the memory IP cycle",
-      "category": "earnings",
-      "sources": [
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "CLF",
-      "company": "Cleveland-Cliffs",
-      "reason": "Jumped ~9% after Q1 revenue of $4.92B slightly beat estimates; adjusted loss narrowed sharply to $0.40/share from $0.93 a year ago; management guided for Q2 profitability swing",
-      "category": "earnings",
-      "sources": [
-        "Motley Fool",
-        "Yahoo Finance",
-        "StocksToTrade"
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "reason": "Gained 4.45% on sustained AI chip demand optimism; named in multiple Buy-reiterations on Monday as the dominant GPU provider for data-center HBM workloads heading into Mag-7 earnings week",
-      "category": "sector",
-      "sources": [
-        "Yahoo Finance",
-        "CNBC",
         "Motley Fool"
       ]
     },
     {
-      "ticker": "RBRK",
-      "company": "Rubrik",
-      "reason": "Jefferies initiated with Buy rating, calling Rubrik well-positioned for long-term growth driven by ransomware proliferation, SaaS/cloud workload expansion, and secular data-growth tailwinds",
-      "category": "upgrade",
+      "ticker": "V",
+      "company": "Visa Inc.",
+      "reason": "Q2 adj. EPS $3.31 and revenue $11.23B both beat consensus; shares up ~5% after hours",
+      "category": "earnings",
       "sources": [
-        "CNBC"
+        "CNBC",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "SBUX",
+      "company": "Starbucks Corporation",
+      "reason": "Raised full-year outlook; global and U.S. same-store sales guide lifted to +5% (from +3%); shares up ~5% after hours",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance",
+        "Benzinga"
+      ]
+    },
+    {
+      "ticker": "KO",
+      "company": "Coca-Cola Company",
+      "reason": "Strong Q1 2026 earnings beat; shares rose ~6% to $79.98, one of the top S&P 500 gainers on the day",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Bloomberg"
+      ]
+    },
+    {
+      "ticker": "SPOT",
+      "company": "Spotify Technology",
+      "reason": "Q1 MAUs surpassed 760M but Q2 operating income guidance missed; ad-supported revenue -5% YoY; shares fell ~13%",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Spotify Newsroom",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "ERAS",
+      "company": "Erasca Inc.",
+      "reason": "Patient died from treatment-related pneumonitis in ERAS-0015 early-stage cancer trial; shares plunged ~50-55% (record single-day drop)",
+      "category": "news",
+      "sources": [
+        "Bloomberg",
+        "CNBC",
+        "Motley Fool",
+        "Seeking Alpha"
+      ]
+    },
+    {
+      "ticker": "ORCL",
+      "company": "Oracle Corporation",
+      "reason": "WSJ report that OpenAI missed revenue and user-growth targets hit Oracle (-4%) given its $300B, 5-year cloud computing partnership with OpenAI",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance",
+        "TheStreet"
+      ]
+    },
+    {
+      "ticker": "HOOD",
+      "company": "Robinhood Markets",
+      "reason": "Q1 2026 earnings miss: EPS $0.38 vs $0.43 est., revenue $1.07B vs $1.18B est.; shares down ~6-9% after hours",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "NXPI",
+      "company": "NXP Semiconductors",
+      "reason": "Q1 2026 beat: revenue $3.18B vs $3.16B est.; Q2 guidance midpoint of $3.45B beat consensus by 5.3%; shares up ~11.4%",
+      "category": "earnings",
+      "sources": [
+        "Yahoo Finance",
+        "Motley Fool",
+        "FinancialContent"
+      ]
+    },
+    {
+      "ticker": "STX",
+      "company": "Seagate Technology",
+      "reason": "Q3 FY2026 earnings beat with better-than-expected outlook; shares surged ~15% after hours on strong data-storage demand",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Seeking Alpha",
+        "Investing.com"
+      ]
+    },
+    {
+      "ticker": "GLW",
+      "company": "Corning Inc.",
+      "reason": "Beat Q1 on EPS ($0.70) and revenue ($4.35B) but Q2 guidance of ~$4.6B missed estimates; shares dropped ~7-8% on valuation concerns",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance",
+        "FinancialContent"
+      ]
+    },
+    {
+      "ticker": "ARE",
+      "company": "Alexandria Real Estate Equities",
+      "reason": "Q1 2026 NOI guidance cut (same-property NOI now -10.5% to -8.5%); year-end occupancy forecast lowered to 86.2-87.8%; shares fell 9-11%",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Seeking Alpha",
+        "Investing.com"
+      ]
+    },
+    {
+      "ticker": "ARM",
+      "company": "Arm Holdings",
+      "reason": "Worst Nasdaq-100 performer (-8%) as investors took profits from AI-driven rally and OpenAI revenue miss fueled broader AI sentiment shift",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "Bloomberg",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "BKNG",
+      "company": "Booking Holdings",
+      "reason": "Beat Q1 estimates on both top and bottom lines; shares moved higher after hours as travel demand remains resilient",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Investing.com",
+        "Seeking Alpha"
       ]
     }
   ]
