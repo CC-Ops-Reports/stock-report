@@ -1,132 +1,130 @@
 {
-  "report_date": "2026-04-24",
+  "report_date": "2026-04-27",
   "batch": 1,
   "market_tone": "Bullish",
   "key_themes": [
-    "Semiconductor/AI boom: 18-day chip-stock rally, Intel earnings ignite sector, Nvidia retakes $5T market cap",
-    "Iran/geopolitical risk: ceasefire extension and peace-talk hopes ease tensions, but ServiceNow flagged deal delays",
-    "Nuclear energy resurgence: X-Energy Amazon-backed IPO raises $1B+ as AI data center demand drives power needs",
-    "Cable cord-cutting crisis deepens: Charter loses 120K broadband subscribers, cable names hit hard",
-    "GLP-1 weight-loss drug expansion: Hims & Hers adds Eli Lilly Zepbound/Mounjaro to platform"
+    "AI chip partnerships reshaping smartphone and memory landscape",
+    "Mixed Q1 earnings — consumer/pizza disappoints, telecoms and steel beat",
+    "Iran-Strait of Hormuz tensions cap equity gains; oil pushes higher"
   ],
   "sp500": {
-    "value": "7,165.08",
-    "change": "+0.80%"
+    "value": "7,173.91",
+    "change": "+0.12%"
   },
   "nasdaq": {
-    "value": "24,836.60",
-    "change": "+1.63%"
+    "value": "24,887.10",
+    "change": "+0.20%"
   },
   "stocks": [
     {
-      "ticker": "INTC",
-      "company": "Intel Corporation",
-      "discussion_driver": "Intel's Q1 2026 earnings obliterated expectations — EPS $0.29 vs $0.01 forecast and revenue $13.58B vs $12.42B — with data center revenue surging 22% YoY on AI infrastructure demand. The stock surged ~24% to a 26-year high surpassing the 2000 dot-com peak, sparking a wave of analyst upgrades and target resets as Lip-Bu Tan's turnaround shifts from narrative to verified fundamentals.",
+      "ticker": "QCOM",
+      "company": "Qualcomm",
+      "discussion_driver": "Qualcomm surged 8-13% after analyst Ming-Chi Kuo reported that OpenAI is partnering with Qualcomm and MediaTek to develop AI smartphone processors targeting 300-400M annual units for a 2028 device launch. The move adds a new AI-device silicon revenue stream for Qualcomm ahead of its Q2 earnings report on April 29, where investors will scrutinize guidance given the looming Apple modem exit and near-term earnings headwinds.",
       "bull_case": [
-        "Q1 2026 earnings dramatically beat on both EPS and revenue with data center revenue up 22% YoY, validating Intel's Xeon AI server and 18A foundry strategy; analysts are rapidly resetting targets with KeyBanc raising to $110 (Overweight), HSBC upgrading to Buy at $95, and Roth/MKM upgrading to Buy at $100.",
-        "Intel's 18A manufacturing node is gaining foundry customer traction and hyperscaler relationships are being rebuilt, creating a multi-year re-rating opportunity as the AI infrastructure build-out expands beyond GPU compute to CPUs, memory controllers, and custom silicon."
+        "The OpenAI-MediaTek partnership positions Qualcomm as the preferred on-device AI chip provider, leveraging its Snapdragon platform's existing inference capabilities; if production targets 300-400M units by 2028, this could more than offset the Apple modem revenue headwind and represent a new multi-billion dollar revenue stream.",
+        "Qualcomm's growing diversification into Windows PCs (Snapdragon X Elite), automotive, and IoT reduces smartphone dependence; 24/7 Wall St. sets a bull-case target of ~$184, implying 23% upside, with the AI device tailwind as the primary re-rating catalyst."
       ],
       "bear_case": [
-        "After a 109% YTD rally and 24% single-day earnings surge, INTC's RSI hit 78 (overbought) and many analysts remain cautious (BofA $56, Stifel $75); the stock has significantly outpaced even the most aggressive post-earnings consensus targets, leaving little margin for any Q2 execution miss.",
-        "Structural competitive threats persist: AMD's EPYC CPUs continue winning server share, TSMC and Samsung hold manufacturing advantages at leading nodes, and any slip in the 18A yield ramp could reignite existential questions about Intel's foundry ambitions."
-      ],
-      "recommendation": "Hold",
-      "current_price": "$82.58",
-      "price_target": "~$86.00 (+4.1%)",
-      "pe_ratio": "N/A",
-      "rsi": "78",
-      "vs_52wk_high": "-4.4% below high ($86.44)",
-      "analyst_rating": "Hold",
-      "sector": "Technology - Semiconductors",
-      "sources": ["CNBC", "Yahoo Finance", "Benzinga", "TheStreet", "247WallSt", "Investing.com", "TradingKey", "Meyka"]
-    },
-    {
-      "ticker": "AMD",
-      "company": "Advanced Micro Devices",
-      "discussion_driver": "AMD surged ~14% on April 23 in a sympathy rally following Intel's blowout Q1 earnings, as investors rotated broadly into semiconductors on renewed AI trade confidence. DA Davidson upgraded AMD to Buy with a $375 PT and Stifel raised its target to $320, reflecting optimism about AMD's dual AI tailwinds: EPYC data center CPU share gains and multi-year Instinct GPU deployment contracts with Meta (6GW) and OpenAI (6GW).",
-      "bull_case": [
-        "AMD has secured multi-year Instinct GPU deployment agreements with Meta (up to 6GW) and OpenAI (6GW), creating a clear revenue pipeline for MI-series accelerators independent of Nvidia market-share dynamics and anchoring a visible multi-year backlog.",
-        "EPYC server CPUs continue winning hyperscaler and enterprise workloads on performance-per-dollar, and Intel's bullish data center commentary reinforces AMD's H2 2026 outlook — with DA Davidson upgrading to Buy ($375 PT) and BofA raising to $310, leading bulls have meaningfully reset targets."
-      ],
-      "bear_case": [
-        "AMD trades at ~109x trailing P/E with the consensus price target ($290) now below the current stock price ($348), meaning the stock has run far ahead of analyst models; Nvidia's entrenched CUDA ecosystem and AMD's ROCm software gaps create barriers to the GPU market share gains needed to justify this premium.",
-        "US-China export controls have already eliminated a meaningful portion of the Instinct GPU TAM, and any further trade restrictions, MI500 GPU roadmap delays, or broader hyperscaler capex deceleration could rapidly send the stock back toward the $150-$180 range cited by bears."
-      ],
-      "recommendation": "Hold",
-      "current_price": "$348.20",
-      "price_target": "$290.19 (-16.7%)",
-      "pe_ratio": "109.00",
-      "rsi": "N/A",
-      "vs_52wk_high": "-1.4% below high ($352.99)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Technology - Semiconductors",
-      "sources": ["MarketBeat", "TipRanks", "Yahoo Finance", "TheStreet", "IBTimes", "Motley Fool", "StockAnalysis"]
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA Corporation",
-      "discussion_driver": "NVIDIA made history on April 23, 2026, becoming the first company ever to close a trading session with a $5 trillion market cap, rising +4.3% to $208.27 on the Intel AI infrastructure earnings wave. The milestone crystallizes NVIDIA's data center GPU dominance at a moment when hyperscaler AI capex is projected at $527B for 2026, even as the stock settled back to ~$199 on April 24.",
-      "bull_case": [
-        "NVIDIA controls ~90% of the AI accelerator market via Hopper/Blackwell architecture and the CUDA-X software ecosystem, with hyperscaler AI capex projected at $527B in 2026 (revised up from $465B), creating a sustained demand floor that supports Blackwell GPU pricing and margins at record levels.",
-        "58 of 65 analysts rate NVIDIA Strong Buy or Buy with a consensus PT of $266 (+33% upside), and the Blackwell Ultra platform is entering its highest-margin phase with inference workload expansion driving GPU utilization across cloud and enterprise deployments."
-      ],
-      "bear_case": [
-        "Big Tech (Google TPU, Amazon Trainium, Meta MTIA) is accelerating custom silicon programs specifically to reduce NVIDIA GPU dependence and inference costs, which could gradually erode pricing power and market share over a 2-3 year horizon as these chips mature.",
-        "Zero China data center compute guidance for Q1 FY2027 removes an estimated $50B addressable market due to export controls, and an ongoing DOJ probe into NVIDIA's $20B Groq licensing deal adds regulatory overhang at a moment of peak market cap and valuation."
+        "Apple's transition to in-house modems means Qualcomm supplies only ~20% of iPhones in FY2026, declining to zero by 2027, removing a once-reliable and high-margin revenue stream that will weigh on near-term results.",
+        "The OpenAI partnership remains speculative with a 2028 mass-production timeline and no official confirmation from either OpenAI or Qualcomm; if Q2 earnings guidance on April 29 disappoints or the deal falls through, the recent 8-13% surge could unwind rapidly."
       ],
       "recommendation": "Buy",
-      "current_price": "$199.55",
-      "price_target": "$266.24 (+33.4%)",
-      "pe_ratio": "40.74",
-      "rsi": "51.52",
-      "vs_52wk_high": "-6.0% below high ($212.19)",
-      "analyst_rating": "Strong Buy",
+      "current_price": "$149.87",
+      "price_target": "$160.09 (+6.8%)",
+      "pe_ratio": "28.01",
+      "rsi": "62.59",
+      "vs_52wk_high": "-27.2% below high ($205.95)",
+      "analyst_rating": "Buy",
       "sector": "Technology - Semiconductors",
-      "sources": ["Yahoo Finance", "StockAnalysis", "MarketBeat", "Investing.com", "247WallSt", "TipRanks", "Nasdaq", "MacroTrends"]
+      "sources": ["CNBC", "Bloomberg", "247WallSt", "Schaeffer's", "Alphastreet", "StockAnalysis"]
     },
     {
-      "ticker": "CHTR",
-      "company": "Charter Communications",
-      "discussion_driver": "Charter Communications plunged ~24% on April 24 — one of the largest single-day drops in company history — after Q1 2026 earnings revealed a net loss of 120,000 broadband subscribers (worse than feared) and an EPS miss ($9.17 vs $9.97 expected). The selloff deepens the cord-cutting narrative and raises acute questions about whether Charter can stabilize its core broadband business amid relentless competition from T-Mobile Fixed Wireless Access and fiber overbuilders.",
+      "ticker": "POET",
+      "company": "POET Technologies",
+      "discussion_driver": "POET plunged ~46% after Marvell Technology (which acquired Celestial AI) cancelled all purchase orders, alleging POET violated confidentiality obligations by publicly disclosing order details and shipping information. The crash is a dramatic reversal: the stock had surged sharply the prior week when news emerged that its Optical Interposer technology was being integrated into Marvell's AI hardware stack, only to collapse when Marvell walked away entirely.",
       "bull_case": [
-        "Charter's capex cycle is set to fall sharply from $11B in 2026 to below $8B by 2028, while the pending Cox acquisition is projected to deliver $800M+ in run-rate synergies — a combination that could unlock $100+ in free cash flow per share by 2028-2029 and support large-scale buybacks at current depressed valuations.",
-        "Charter added 368K mobile net additions in Q1 2026, pushing total lines past 12 million (+17% YoY), demonstrating successful diversification into mobile that provides a new long-term growth engine partially offsetting structural broadband headwinds."
+        "POET's Optical Interposer platform addresses a genuine structural need for photonic integration in AI data centers; a separate $5M purchase order from another undisclosed technology company confirms the customer pipeline extends beyond Marvell and that the technology has validated commercial appeal.",
+        "At current prices ~47% below the 52-week high set just days ago, POET is deeply discounted relative to its recent valuation; if the company successfully engages alternative hyperscaler or OEM customers, recovery could be substantial given the secular AI photonics tailwind."
       ],
       "bear_case": [
-        "Charter has now reported four consecutive quarters of broadband net subscriber losses with competition from T-Mobile FWA and AT&T/Lumen fiber intensifying rather than easing, raising the prospect that broadband may never return to net growth under Charter's current footprint and pricing structure.",
-        "Down ~58% from its 52-week high, the 6.8x PE multiple looks cheap only if the FCF inflection trajectory materializes as projected; any simultaneous broadband acceleration and Cox integration misstep could cause further severe multiple compression."
+        "The loss of Marvell/Celestial AI orders removes the primary near-term revenue catalyst and raises serious questions about POET's commercial execution — specifically its ability to honor standard confidentiality obligations, a basic expectation for any enterprise technology partner.",
+        "The alleged breach creates lasting reputational risk that may deter future strategic partners; POET's limited financial resources provide minimal runway to survive prolonged revenue shortfalls while attempting to rebuild trust with potential customers."
       ],
       "recommendation": "Speculative Buy",
-      "current_price": "$183.89",
-      "price_target": "$298.58 (+62.4%)",
-      "pe_ratio": "6.80",
+      "current_price": "$8.08",
+      "price_target": "$8.20 (+1.5%)",
+      "pe_ratio": "N/A",
       "rsi": "N/A",
-      "vs_52wk_high": "-57.9% below high ($437.06)",
-      "analyst_rating": "Hold",
-      "sector": "Communication Services - Telecommunications",
-      "sources": ["QuiverQuant", "Fierce Network", "TIKR", "GuruFocus", "Deadline", "Yahoo Finance", "Seeking Alpha", "BigGoFinance"]
+      "vs_52wk_high": "-47.9% below high ($15.50)",
+      "analyst_rating": "Strong Buy (1 analyst)",
+      "sector": "Technology - Optical Semiconductors",
+      "sources": ["Yahoo Finance", "GlobeNewswire", "Investing.com", "TipRanks", "Benzinga", "Motley Fool", "Proactive Investors"]
     },
     {
-      "ticker": "NOW",
-      "company": "ServiceNow",
-      "discussion_driver": "ServiceNow beat Q1 2026 EPS ($0.97 vs $0.96) and revenue ($3.77B vs $3.74B) but suffered its worst single-day stock decline on record (-14 to -18%), as management flagged a ~75bp subscription revenue headwind from delayed large on-premise deals in the Middle East due to the Iran war, and cut full-year adjusted operating margin guidance to 31.5% from the $7.75B Armis acquisition. The stock partially recovered +5.3% on April 24 but remains ~58% below its 52-week high.",
+      "ticker": "DPZ",
+      "company": "Domino's Pizza",
+      "discussion_driver": "Domino's fell ~10% after Q1 2026 US same-store sales grew only 0.9%, badly missing the 2.3% analyst consensus; adjusted EPS of $4.13 also missed the $4.31 estimate. Management lowered full-year same-store sales guidance to 'positive low single digits' for both US and international segments, citing intensifying macro and geopolitical uncertainty as headwinds that are likely to persist into Q2.",
       "bull_case": [
-        "Q1 fundamentals were operationally solid: revenue beat, 16 large $5M+ ACV deals closed (80% YoY growth), and AI products are on track to exceed $1B in 2026; CEO McDermott explicitly characterized the Middle East delays as a timing issue with those contracts expected to close throughout the year.",
-        "At RSI 35 and ~58% below its 52-week high, the stock is at deeply oversold levels; Goldman Sachs, Baird, and UBS all maintain price targets of $100-$163 even after aggressive cuts, implying even the most cautious analysts see 12-82% upside from current levels."
+        "Despite the soft same-store number, Domino's 'Hungry for MORE' strategy drove 3.5% revenue growth and 9.6% operating income growth in Q1 2026, demonstrating the underlying franchise model remains structurally sound and that the miss reflected macro conditions rather than a loss of brand competitiveness.",
+        "At ~26% below its 52-week high and a trailing PE of ~21x near a historical trough, the stock offers a potentially attractive entry for patient investors; 24 analysts maintain a Buy consensus with an average PT of $473 implying ~29% upside from current levels."
       ],
       "bear_case": [
-        "The $7.75B Armis acquisition is already compressing margins (full-year operating margin guidance cut to 31.5%) and introduces significant integration execution risk while management simultaneously navigates a geopolitical revenue headwind — a combination that has driven aggressive analyst target cuts in a single session.",
-        "With the Iran conflict ongoing and Q2 guidance cautious, there is real risk that Middle East deal delays extend beyond Q1 and convert a supposed one-time timing headwind into a recurring structural issue, justifying further multiple compression and additional analyst downgrades."
+        "US same-store sales of +0.9% fell far below the +2.3% consensus, and management's guidance reset to 'positive low single digits' signals macro headwinds are intensifying — value promotions that drove 2025 strength are now lapping tough comparisons with no clear near-term catalyst to reaccelerate growth.",
+        "International same-store sales declined 0.4% ex-FX, and the Domino's Pizza Enterprises (DPE) franchise drag — the brand's largest global franchisee — remains unresolved, constraining any near-term global growth recovery and adding a second ongoing headwind to the top-line narrative."
       ],
       "recommendation": "Hold",
-      "current_price": "$89.47",
-      "price_target": "$173.46 (+93.9%)",
-      "pe_ratio": "50.57",
-      "rsi": "35.29",
-      "vs_52wk_high": "-57.7% below high ($211.48)",
-      "analyst_rating": "Hold",
-      "sector": "Technology - Enterprise Software",
-      "sources": ["CNBC", "Yahoo Finance", "Meyka", "Benzinga", "Motley Fool", "TheMarketsDaily", "TradersUnion", "GuruFocus", "FXLeaders"]
+      "current_price": "$368.18",
+      "price_target": "$473.25 (+28.5%)",
+      "pe_ratio": "20.83",
+      "rsi": "N/A",
+      "vs_52wk_high": "-26.2% below high ($499.08)",
+      "analyst_rating": "Buy",
+      "sector": "Consumer Discretionary - Restaurants",
+      "sources": ["CNBC", "Yahoo Finance", "Motley Fool", "StockTitan", "GuruFocus", "QuiverQuant"]
+    },
+    {
+      "ticker": "VZ",
+      "company": "Verizon Communications",
+      "discussion_driver": "Verizon gained ~3.5% after Q1 2026 adjusted EPS of $1.28 beat the $1.20 estimate by 7.6% year-over-year, and the company raised its full-year 2026 adjusted EPS guidance to $4.95-$4.99, above the prior $4.91 analyst consensus. The quarter also delivered Verizon's first positive Q1 postpaid phone net adds since 2013, with CEO Hans Vestberg declaring the operational turnaround 'officially underway.'",
+      "bull_case": [
+        "Verizon's first positive Q1 postpaid phone net adds since 2013 and raised EPS guidance of $4.95-$4.99 confirm the operational turnaround is gaining genuine traction after years of subscriber losses, validating management's transformation strategy with hard subscriber data.",
+        "Trading at just 11.4x trailing earnings with an approximate 6.5% dividend yield, Verizon offers compelling income with meaningful capital appreciation potential as the turnaround thesis continues to be validated by quarterly execution."
+      ],
+      "bear_case": [
+        "Despite the Q1 beat, 10 analysts recently revised near-term earnings estimates downward, reflecting concerns about intensifying wireless price competition and potential macro softening dampening consumer upgrade cycles in the quarters ahead.",
+        "Verizon's massive debt load from spectrum acquisitions constrains capital allocation flexibility; with free cash flow largely committed to dividends and debt service, the company has limited capacity to respond aggressively to competitive threats or accelerate 5G infrastructure investment."
+      ],
+      "recommendation": "Hold",
+      "current_price": "$47.72",
+      "price_target": "$50.17 (+5.1%)",
+      "pe_ratio": "11.42",
+      "rsi": "53.03",
+      "vs_52wk_high": "-7.7% below high ($51.68)",
+      "analyst_rating": "Buy",
+      "sector": "Communication Services - Telecommunications",
+      "sources": ["CNBC", "Bloomberg", "Yahoo Finance", "Investing.com", "Benzinga", "Verizon IR", "GuruFocus"]
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "discussion_driver": "Micron surged ~5% after Melius Research initiated coverage with a Buy rating and $700 price target, representing ~41% upside from prior levels, citing sustained HBM demand powering AI data centers through 2030. Analyst Ben Reitzes highlighted that all of Micron's 2026 HBM output is already contracted under long-term agreements and that the compounding nature of AI memory demand — driven by growing model complexity and AI agent proliferation — has durability the market has not yet fully priced in.",
+      "bull_case": [
+        "Melius Research's $700 PT is underpinned by structural shifts: Micron's entire 2026 HBM capacity is pre-sold under long-term contracts, Nvidia selected Micron as a key HBM supplier for its Blackwell GPU platform, and AI model complexity is driving compounding memory bandwidth demand projected to persist through at least 2030.",
+        "Despite breaking to all-time highs, Micron trades at just ~6x forward earnings — a steep discount to the ~25x semiconductor sector average — creating significant multiple expansion potential as Wall Street reprices AI memory as a secular growth story rather than a cyclical trade."
+      ],
+      "bear_case": [
+        "Memory markets are inherently cyclical; if AI infrastructure spending slows or cloud customers over-order (a recurring pattern in tight supply environments), Micron could face sharp ASP declines and rapid margin compression that unwind the recent price gains.",
+        "The stock is at all-time highs with elevated RSI after a massive run; near-term profit-taking risk is significant, and any negative AI demand signal from Big Tech earnings week could trigger a sharp pullback from these stretched valuation levels."
+      ],
+      "recommendation": "Buy",
+      "current_price": "$524.56",
+      "price_target": "$543.20 (+3.5%)",
+      "pe_ratio": "23.37",
+      "rsi": "62.59",
+      "vs_52wk_high": "Above prior high ($506.99); new all-time high set April 27",
+      "analyst_rating": "Strong Buy",
+      "sector": "Technology - Semiconductors",
+      "sources": ["CNBC", "RollingOut", "TipRanks", "Investing.com", "Motley Fool", "Seeking Alpha", "Melius Research"]
     }
   ]
 }
