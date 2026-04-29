@@ -1,67 +1,89 @@
 {
-  "report_date": "2026-04-28",
+  "report_date": "2026-04-29",
   "market_tone": "Mixed",
   "key_themes": [
-    "OpenAI revenue & user-growth miss sparks broad AI/chip selloff (Oracle, AMD, Broadcom, ARM down)",
-    "Earnings season split: consumer/financial names (GM, Visa, Starbucks, Coca-Cola, Centene) beat big while Spotify and Robinhood disappoint",
-    "Biotech clinical-trial risk: Erasca halved after patient fatality in ERAS-0015 cancer drug trial"
+    "Mag 7 super-earnings night: Alphabet, Amazon, Meta, Microsoft all reported after the bell simultaneously",
+    "Federal Reserve holds rates steady at 3.5-3.75%; Powell confirms his last press conference as Fed Chair",
+    "Iran war drives oil above $100/bbl (Brent $118, WTI $107), fueling inflation concerns and Dow losses",
+    "Semiconductor earnings wave: Seagate +18%, NXP +26% (best day since 2010 IPO), Qualcomm surges on data center hyperscaler deal"
   ],
   "sp500": {
-    "value": "7,138.80",
-    "change": "-0.49%"
+    "value": "7,135.95",
+    "change": "-0.04%"
   },
   "nasdaq": {
-    "value": "24,663.80",
-    "change": "-0.90%"
+    "value": "24,673.24",
+    "change": "+0.04%"
   },
   "stocks": [
     {
-      "ticker": "CNC",
-      "company": "Centene Corporation",
-      "reason": "Q1 2026 beat: adj. EPS $3.37 on $49.9B revenue; raised full-year EPS guidance to >$3.40 (from >$3.00), driving shares up ~14.6%",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Seeking Alpha",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "GM",
-      "company": "General Motors",
-      "reason": "Q1 2026 adj. EPS $3.70 crushed $2.62 estimate; raised full-year EPS guidance to $11.50-$13.50; shares up 5%+",
+      "ticker": "GOOGL",
+      "company": "Alphabet Inc.",
+      "reason": "Q1 2026 earnings massive beat: revenue $109.9B vs $107.2B expected; Google Cloud +63% YoY to $20B; EPS $5.11 vs $2.63 expected; stock up ~7% after hours",
       "category": "earnings",
       "sources": [
         "CNBC",
         "Bloomberg",
-        "Motley Fool"
+        "9to5Google"
       ]
     },
     {
-      "ticker": "V",
-      "company": "Visa Inc.",
-      "reason": "Q2 adj. EPS $3.31 and revenue $11.23B both beat consensus; shares up ~5% after hours",
+      "ticker": "AMZN",
+      "company": "Amazon.com Inc.",
+      "reason": "Q1 2026 earnings beat: EPS $2.78 vs $1.64 expected, revenue $181.52B vs $177.3B expected; stock up ~4% after hours",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "Yahoo Finance"
+        "24/7 Wall St."
+      ]
+    },
+    {
+      "ticker": "META",
+      "company": "Meta Platforms Inc.",
+      "reason": "Q1 2026 results: capex guidance raised to $125-145B (from $115-135B) on higher data center costs, user growth disappointed; stock fell ~7% after hours",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "24/7 Wall St.",
+        "Bloomberg"
+      ]
+    },
+    {
+      "ticker": "QCOM",
+      "company": "Qualcomm Inc.",
+      "reason": "Q2 2026 earnings beat; CEO announced data center chips shipping to \"large hyperscaler\" this calendar year; stock surged 16% reversing initial post-earnings dip",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "SiliconANGLE"
+      ]
+    },
+    {
+      "ticker": "NXPI",
+      "company": "NXP Semiconductors N.V.",
+      "reason": "Q1 2026 earnings beat: revenue $3.18B (+12% YoY), EPS $3.05 vs $2.99 expected; stock surged 26% \u2014 best single day since 2010 IPO",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Benzinga",
+        "NXP Investor Relations"
+      ]
+    },
+    {
+      "ticker": "STX",
+      "company": "Seagate Technology Holdings",
+      "reason": "Q3 2026 earnings beat drove stock up ~18% premarket and intraday; lifted related memory names Western Digital and Micron",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Bloomberg",
+        "Benzinga"
       ]
     },
     {
       "ticker": "SBUX",
       "company": "Starbucks Corporation",
-      "reason": "Raised full-year outlook; global and U.S. same-store sales guide lifted to +5% (from +3%); shares up ~5% after hours",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance",
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "KO",
-      "company": "Coca-Cola Company",
-      "reason": "Strong Q1 2026 earnings beat; shares rose ~6% to $79.98, one of the top S&P 500 gainers on the day",
+      "reason": "Earnings beat and raised full-year outlook: global same-store sales guidance lifted to 5%+ (from 3%); stock climbed ~5-8%",
       "category": "earnings",
       "sources": [
         "CNBC",
@@ -69,113 +91,84 @@
       ]
     },
     {
-      "ticker": "SPOT",
-      "company": "Spotify Technology",
-      "reason": "Q1 MAUs surpassed 760M but Q2 operating income guidance missed; ad-supported revenue -5% YoY; shares fell ~13%",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Spotify Newsroom",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "ERAS",
-      "company": "Erasca Inc.",
-      "reason": "Patient died from treatment-related pneumonitis in ERAS-0015 early-stage cancer trial; shares plunged ~50-55% (record single-day drop)",
-      "category": "news",
-      "sources": [
-        "Bloomberg",
-        "CNBC",
-        "Motley Fool",
-        "Seeking Alpha"
-      ]
-    },
-    {
-      "ticker": "ORCL",
-      "company": "Oracle Corporation",
-      "reason": "WSJ report that OpenAI missed revenue and user-growth targets hit Oracle (-4%) given its $300B, 5-year cloud computing partnership with OpenAI",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance",
-        "TheStreet"
-      ]
-    },
-    {
       "ticker": "HOOD",
-      "company": "Robinhood Markets",
-      "reason": "Q1 2026 earnings miss: EPS $0.38 vs $0.43 est., revenue $1.07B vs $1.18B est.; shares down ~6-9% after hours",
+      "company": "Robinhood Markets Inc.",
+      "reason": "Q1 2026 earnings miss: EPS 38\u00a2 vs 43\u00a2 expected, revenue $1.07B vs $1.18B expected; crypto trading fees collapsed 47%; stock tumbled ~14%",
       "category": "earnings",
       "sources": [
         "CNBC",
+        "Seeking Alpha"
+      ]
+    },
+    {
+      "ticker": "V",
+      "company": "Visa Inc.",
+      "reason": "Significant earnings beat with strong forward guidance; stock up 8.76% to $336.77, one of the top S&P 500 gainers on the session",
+      "category": "earnings",
+      "sources": [
+        "Yahoo Finance",
+        "Morningstar"
+      ]
+    },
+    {
+      "ticker": "AMD",
+      "company": "Advanced Micro Devices Inc.",
+      "reason": "D.A. Davidson upgraded to Buy, raised PT to $375; stock rose 4.3% on AI data center GPU demand thesis ahead of May 5 earnings report",
+      "category": "upgrade",
+      "sources": [
+        "Motley Fool",
+        "Yahoo Finance",
+        "IndexBox"
+      ]
+    },
+    {
+      "ticker": "EAT",
+      "company": "Brinker International Inc.",
+      "reason": "Q3 2026 earnings beat: adjusted EPS $2.90 vs $2.86 consensus; Chili's parent jumped ~13% intraday",
+      "category": "earnings",
+      "sources": [
+        "TheStreet",
         "Yahoo Finance"
       ]
     },
     {
-      "ticker": "NXPI",
-      "company": "NXP Semiconductors",
-      "reason": "Q1 2026 beat: revenue $3.18B vs $3.16B est.; Q2 guidance midpoint of $3.45B beat consensus by 5.3%; shares up ~11.4%",
-      "category": "earnings",
-      "sources": [
-        "Yahoo Finance",
-        "Motley Fool",
-        "FinancialContent"
-      ]
-    },
-    {
-      "ticker": "STX",
-      "company": "Seagate Technology",
-      "reason": "Q3 FY2026 earnings beat with better-than-expected outlook; shares surged ~15% after hours on strong data-storage demand",
+      "ticker": "GNRC",
+      "company": "Generac Holdings Inc.",
+      "reason": "Q1 2026 earnings beat on both top and bottom lines: EPS $1.80, revenue $1.06B; stock jumped ~10% premarket on results",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "Seeking Alpha",
-        "Investing.com"
+        "Bloomberg"
       ]
     },
     {
-      "ticker": "GLW",
-      "company": "Corning Inc.",
-      "reason": "Beat Q1 on EPS ($0.70) and revenue ($4.35B) but Q2 guidance of ~$4.6B missed estimates; shares dropped ~7-8% on valuation concerns",
+      "ticker": "BE",
+      "company": "Bloom Energy Corporation",
+      "reason": "Q1 2026 earnings results drove stock up ~18% on the session; midday mover highlighted by CNBC alongside Seagate and GE HealthCare",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "Yahoo Finance",
-        "FinancialContent"
+        "TipRanks"
       ]
     },
     {
-      "ticker": "ARE",
-      "company": "Alexandria Real Estate Equities",
-      "reason": "Q1 2026 NOI guidance cut (same-property NOI now -10.5% to -8.5%); year-end occupancy forecast lowered to 86.2-87.8%; shares fell 9-11%",
-      "category": "earnings",
+      "ticker": "PLUG",
+      "company": "Plug Power Inc.",
+      "reason": "Closed up 12.54% to $3.41 on clean energy sector strength and an analyst price target boost",
+      "category": "upgrade",
       "sources": [
-        "CNBC",
-        "Seeking Alpha",
-        "Investing.com"
+        "Motley Fool"
       ]
     },
     {
-      "ticker": "ARM",
-      "company": "Arm Holdings",
-      "reason": "Worst Nasdaq-100 performer (-8%) as investors took profits from AI-driven rally and OpenAI revenue miss fueled broader AI sentiment shift",
-      "category": "sector",
+      "ticker": "HUM",
+      "company": "Humana Inc.",
+      "reason": "Q1 2026 earnings and revenue beat, but full-year revenue guidance came in below expectations; stock fell ~4.5% despite beat",
+      "category": "earnings",
       "sources": [
         "CNBC",
         "Bloomberg",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "BKNG",
-      "company": "Booking Holdings",
-      "reason": "Beat Q1 estimates on both top and bottom lines; shares moved higher after hours as travel demand remains resilient",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Investing.com",
-        "Seeking Alpha"
+        "Finviz"
       ]
     }
   ]
