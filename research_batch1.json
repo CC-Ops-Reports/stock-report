@@ -1,130 +1,124 @@
 {
-  "report_date": "2026-04-27",
+  "report_date": "2026-04-28",
   "batch": 1,
-  "market_tone": "Bullish",
+  "market_tone": "Mixed",
   "key_themes": [
-    "AI chip partnerships reshaping smartphone and memory landscape",
-    "Mixed Q1 earnings — consumer/pizza disappoints, telecoms and steel beat",
-    "Iran-Strait of Hormuz tensions cap equity gains; oil pushes higher"
+    "OpenAI revenue & user-growth miss sparks broad AI/chip selloff (Oracle, AMD, Broadcom, ARM down)",
+    "Earnings season split: consumer/financial names (GM, Visa, Starbucks, Coca-Cola, Centene) beat big while Spotify and Robinhood disappoint",
+    "Biotech clinical-trial risk: Erasca halved after patient fatality in ERAS-0015 cancer drug trial"
   ],
-  "sp500": {
-    "value": "7,173.91",
-    "change": "+0.12%"
-  },
-  "nasdaq": {
-    "value": "24,887.10",
-    "change": "+0.20%"
-  },
+  "sp500": {"value": "7,138.80", "change": "-0.49%"},
+  "nasdaq": {"value": "24,663.80", "change": "-0.90%"},
   "stocks": [
     {
-      "ticker": "QCOM",
-      "company": "Qualcomm",
-      "discussion_driver": "Qualcomm surged 8-13% after analyst Ming-Chi Kuo reported that OpenAI is partnering with Qualcomm and MediaTek to develop AI smartphone processors targeting 300-400M annual units for a 2028 device launch. The move adds a new AI-device silicon revenue stream for Qualcomm ahead of its Q2 earnings report on April 29, where investors will scrutinize guidance given the looming Apple modem exit and near-term earnings headwinds.",
+      "ticker": "CNC",
+      "company": "Centene Corporation",
+      "discussion_driver": "Centene's Q1 2026 results dramatically beat expectations with adj. EPS of $3.37 vs. ~$1.87 consensus estimate (+80% beat), driven by Medicaid premium strength and disciplined medical cost management. Full-year adj. EPS guidance was raised to >$3.40 from >$3.00, lifting shares ~14.6% to become one of the day's top healthcare gainers. Pre-earnings analyst price targets (~$42) are stale and likely to be revised significantly higher post-earnings.",
       "bull_case": [
-        "The OpenAI-MediaTek partnership positions Qualcomm as the preferred on-device AI chip provider, leveraging its Snapdragon platform's existing inference capabilities; if production targets 300-400M units by 2028, this could more than offset the Apple modem revenue headwind and represent a new multi-billion dollar revenue stream.",
-        "Qualcomm's growing diversification into Windows PCs (Snapdragon X Elite), automotive, and IoT reduces smartphone dependence; 24/7 Wall St. sets a bull-case target of ~$184, implying 23% upside, with the AI device tailwind as the primary re-rating catalyst."
+        "Q1 2026 adj. EPS beat was exceptional at 80%+ above consensus ($3.37 vs. ~$1.87 est.), and the raised full-year guidance of >$3.40 suggests strong earnings momentum backed by Medicaid enrollment growth and disciplined medical cost management.",
+        "Centene's massive scale in government-sponsored healthcare (Medicaid, Medicare, ACA marketplace) provides recurring premium revenues that are relatively insulated from broader economic downturns, giving the stock a defensive quality despite its low multiple."
       ],
       "bear_case": [
-        "Apple's transition to in-house modems means Qualcomm supplies only ~20% of iPhones in FY2026, declining to zero by 2027, removing a once-reliable and high-margin revenue stream that will weigh on near-term results.",
-        "The OpenAI partnership remains speculative with a 2028 mass-production timeline and no official confirmation from either OpenAI or Qualcomm; if Q2 earnings guidance on April 29 disappoints or the deal falls through, the recent 8-13% surge could unwind rapidly."
-      ],
-      "recommendation": "Buy",
-      "current_price": "$149.87",
-      "price_target": "$160.09 (+6.8%)",
-      "pe_ratio": "28.01",
-      "rsi": "62.59",
-      "vs_52wk_high": "-27.2% below high ($205.95)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Semiconductors",
-      "sources": ["CNBC", "Bloomberg", "247WallSt", "Schaeffer's", "Alphastreet", "StockAnalysis"]
-    },
-    {
-      "ticker": "POET",
-      "company": "POET Technologies",
-      "discussion_driver": "POET plunged ~46% after Marvell Technology (which acquired Celestial AI) cancelled all purchase orders, alleging POET violated confidentiality obligations by publicly disclosing order details and shipping information. The crash is a dramatic reversal: the stock had surged sharply the prior week when news emerged that its Optical Interposer technology was being integrated into Marvell's AI hardware stack, only to collapse when Marvell walked away entirely.",
-      "bull_case": [
-        "POET's Optical Interposer platform addresses a genuine structural need for photonic integration in AI data centers; a separate $5M purchase order from another undisclosed technology company confirms the customer pipeline extends beyond Marvell and that the technology has validated commercial appeal.",
-        "At current prices ~47% below the 52-week high set just days ago, POET is deeply discounted relative to its recent valuation; if the company successfully engages alternative hyperscaler or OEM customers, recovery could be substantial given the secular AI photonics tailwind."
-      ],
-      "bear_case": [
-        "The loss of Marvell/Celestial AI orders removes the primary near-term revenue catalyst and raises serious questions about POET's commercial execution — specifically its ability to honor standard confidentiality obligations, a basic expectation for any enterprise technology partner.",
-        "The alleged breach creates lasting reputational risk that may deter future strategic partners; POET's limited financial resources provide minimal runway to survive prolonged revenue shortfalls while attempting to rebuild trust with potential customers."
-      ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$8.08",
-      "price_target": "$8.20 (+1.5%)",
-      "pe_ratio": "N/A",
-      "rsi": "N/A",
-      "vs_52wk_high": "-47.9% below high ($15.50)",
-      "analyst_rating": "Strong Buy (1 analyst)",
-      "sector": "Technology - Optical Semiconductors",
-      "sources": ["Yahoo Finance", "GlobeNewswire", "Investing.com", "TipRanks", "Benzinga", "Motley Fool", "Proactive Investors"]
-    },
-    {
-      "ticker": "DPZ",
-      "company": "Domino's Pizza",
-      "discussion_driver": "Domino's fell ~10% after Q1 2026 US same-store sales grew only 0.9%, badly missing the 2.3% analyst consensus; adjusted EPS of $4.13 also missed the $4.31 estimate. Management lowered full-year same-store sales guidance to 'positive low single digits' for both US and international segments, citing intensifying macro and geopolitical uncertainty as headwinds that are likely to persist into Q2.",
-      "bull_case": [
-        "Despite the soft same-store number, Domino's 'Hungry for MORE' strategy drove 3.5% revenue growth and 9.6% operating income growth in Q1 2026, demonstrating the underlying franchise model remains structurally sound and that the miss reflected macro conditions rather than a loss of brand competitiveness.",
-        "At ~26% below its 52-week high and a trailing PE of ~21x near a historical trough, the stock offers a potentially attractive entry for patient investors; 24 analysts maintain a Buy consensus with an average PT of $473 implying ~29% upside from current levels."
-      ],
-      "bear_case": [
-        "US same-store sales of +0.9% fell far below the +2.3% consensus, and management's guidance reset to 'positive low single digits' signals macro headwinds are intensifying — value promotions that drove 2025 strength are now lapping tough comparisons with no clear near-term catalyst to reaccelerate growth.",
-        "International same-store sales declined 0.4% ex-FX, and the Domino's Pizza Enterprises (DPE) franchise drag — the brand's largest global franchisee — remains unresolved, constraining any near-term global growth recovery and adding a second ongoing headwind to the top-line narrative."
+        "Commercial enrollment continues to slide, and pre-earnings analyst consensus price targets of ~$42 now sit well below the post-earnings price of ~$49—targets will need material upward revision to validate the current stock price.",
+        "Medicaid redetermination risks and potential federal funding cuts to Medicaid programs under budget reconciliation proposals could weigh on enrollment and premium revenue in future quarters."
       ],
       "recommendation": "Hold",
-      "current_price": "$368.18",
-      "price_target": "$473.25 (+28.5%)",
-      "pe_ratio": "20.83",
+      "current_price": "$49.16",
+      "price_target": "$41.94 (-14.7%; pre-earnings consensus, pending revision)",
+      "pe_ratio": "8.1",
+      "rsi": "49.04",
+      "vs_52wk_high": "-23.4% below high ($64.15)",
+      "analyst_rating": "Hold",
+      "sector": "Healthcare - Managed Care",
+      "sources": ["Yahoo Finance", "GuruFocus", "Benzinga", "Zacks", "Seeking Alpha"]
+    },
+    {
+      "ticker": "GM",
+      "company": "General Motors",
+      "discussion_driver": "General Motors crushed Q1 2026 estimates with adj. EPS of $3.70 vs. $2.62 consensus (+41% beat), boosted by a ~$500M tariff refund from the Supreme Court's invalidation of IEEPA duties. Full-year adj. EPS guidance was raised to $11.50-$13.50 per share, and shares gained ~5% on strong North American truck and crossover demand.",
+      "bull_case": [
+        "GM's Q1 2026 adj. EPS of $3.70 crushed estimates by 41%, and the raised full-year guidance of $11.50-$13.50 implies a forward P/E of just 5-7x at current prices—one of the cheapest large-cap earnings growers relative to its profitability trajectory.",
+        "Strong North American EBIT margins (~8.6%) and disciplined incentive management on full-size pickups and crossovers provide durable profitability, while the ~$500M IEEPA tariff refund reduces 2026 gross tariff exposure to $2.5-$3.5B from an original $3-4B estimate."
+      ],
+      "bear_case": [
+        "Gross tariff costs of $2.5-$3.5B remain a significant 2026 headwind; any reversal of IEEPA tariff relief or escalation in Section 232 steel/aluminum duties could materially reset full-year EPS estimates downward.",
+        "GM stock has already rallied ~65% over the past year, compressing the margin of safety; if consumer spending softens or new vehicle pricing weakens amid elevated interest rates, the stock's depressed multiple may not provide adequate downside cushion."
+      ],
+      "recommendation": "Buy",
+      "current_price": "$78.95",
+      "price_target": "$92.67 (+17.4%)",
+      "pe_ratio": "7.63",
       "rsi": "N/A",
-      "vs_52wk_high": "-26.2% below high ($499.08)",
+      "vs_52wk_high": "-9.9% below high ($87.62)",
+      "analyst_rating": "Buy",
+      "sector": "Consumer Discretionary - Automotive",
+      "sources": ["CNBC", "GuruFocus", "Alphastreet", "RTTNews", "Supply Chain Dive", "MarketBeat"]
+    },
+    {
+      "ticker": "V",
+      "company": "Visa Inc.",
+      "discussion_driver": "Visa reported Q2 FY2026 results after hours on April 28, beating on both EPS ($3.31 vs. $3.16 est.) and revenue ($11.23B, +17% YoY), while announcing a new $20 billion share repurchase program. Shares rose ~5% after hours as resilient cross-border payment volumes and rapidly expanding value-added services impressed investors on a broadly negative market day.",
+      "bull_case": [
+        "Visa's Q2 FY2026 revenue grew 17% YoY to $11.23B, with value-added services (data analytics, fraud prevention, tokenization) up 28% in constant currency—demonstrating successful diversification well beyond traditional card processing fees.",
+        "The newly announced $20B share buyback program and consistent free cash flow generation (~$22B annually at ~67% EBIT margins) underscore management confidence and provide a strong total return driver even if revenue growth moderates."
+      ],
+      "bear_case": [
+        "At ~30x trailing earnings, Visa trades at a premium multiple that leaves limited room for error if payment volume growth decelerates as consumer spending normalizes or macro conditions deteriorate.",
+        "Regulatory risk from potential U.S. congressional action on interchange fees and competition from fintech payment alternatives and BNPL providers could gradually erode the dominant network advantage that underpins Visa's premium valuation."
+      ],
+      "recommendation": "Buy",
+      "current_price": "$312.42",
+      "price_target": "$392.27 (+25.6%)",
+      "pe_ratio": "29.78",
+      "rsi": "N/A",
+      "vs_52wk_high": "-16.8% below high ($375.51)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Financials - Payments Processing",
+      "sources": ["Quiver Quantitative", "StockAnalysis", "Sahm Capital", "TIKR", "MarketBeat", "Benzinga"]
+    },
+    {
+      "ticker": "SBUX",
+      "company": "Starbucks Corporation",
+      "discussion_driver": "Starbucks reported Q2 FY2026 earnings after hours on April 28, delivering a second consecutive quarter of same-store sales growth (+6.2% globally, +7.1% U.S.) and raised full-year SSS guidance to +5% and adj. EPS to $2.25-$2.45. CEO Brian Niccol declared 'Q2 marked the turn in our turnaround,' sending shares up ~5% in extended trading.",
+      "bull_case": [
+        "Back-to-back positive same-store sales quarters confirm Brian Niccol's turnaround is gaining real traction—U.S. SSS grew 7.1% in Q2 FY2026 driven by a 4.3% jump in transactions, the strongest comp traffic indicator the company has reported in years.",
+        "Raised full-year guidance to +5% SSS growth and adj. EPS of $2.25-$2.45 signals growing management confidence in the durability of the recovery, likely to drive further analyst estimate upgrades and price target increases in coming weeks."
+      ],
+      "bear_case": [
+        "At ~72x trailing P/E, the stock already prices in a successful turnaround, leaving limited upside if execution falters—China same-store sales grew only 0.5% in Q2 FY2026 despite being the company's critical second market.",
+        "Labor cost inflation and ongoing wage negotiations continue to compress operating margins, limiting the pace of EPS recovery even as revenue accelerates, raising questions about whether the elevated valuation premium is sustainable."
+      ],
+      "recommendation": "Buy",
+      "current_price": "$93.62",
+      "price_target": "$104.22 (+11.3%)",
+      "pe_ratio": "72.32",
+      "rsi": "38.22",
+      "vs_52wk_high": "-10.7% below high ($104.82)",
       "analyst_rating": "Buy",
       "sector": "Consumer Discretionary - Restaurants",
-      "sources": ["CNBC", "Yahoo Finance", "Motley Fool", "StockTitan", "GuruFocus", "QuiverQuant"]
+      "sources": ["CNBC", "Benzinga", "Yahoo Finance", "StockTitan", "Investing.com", "TipRanks"]
     },
     {
-      "ticker": "VZ",
-      "company": "Verizon Communications",
-      "discussion_driver": "Verizon gained ~3.5% after Q1 2026 adjusted EPS of $1.28 beat the $1.20 estimate by 7.6% year-over-year, and the company raised its full-year 2026 adjusted EPS guidance to $4.95-$4.99, above the prior $4.91 analyst consensus. The quarter also delivered Verizon's first positive Q1 postpaid phone net adds since 2013, with CEO Hans Vestberg declaring the operational turnaround 'officially underway.'",
+      "ticker": "KO",
+      "company": "Coca-Cola Company",
+      "discussion_driver": "Coca-Cola reported Q1 2026 adj. EPS of $0.86 vs. $0.81 estimate (+6.2% beat) and revenue of $12.47B vs. $12.24B estimate, with organic revenue growth of 10% driven by 8% concentrate volume growth and 2% price/mix. The company raised its full-year comparable EPS growth guidance to 8-9% (from 7-8%), and shares rose ~6% to $79.98, one of the top S&P 500 performers on a mixed market day.",
       "bull_case": [
-        "Verizon's first positive Q1 postpaid phone net adds since 2013 and raised EPS guidance of $4.95-$4.99 confirm the operational turnaround is gaining genuine traction after years of subscriber losses, validating management's transformation strategy with hard subscriber data.",
-        "Trading at just 11.4x trailing earnings with an approximate 6.5% dividend yield, Verizon offers compelling income with meaningful capital appreciation potential as the turnaround thesis continues to be validated by quarterly execution."
+        "Coca-Cola delivered 10% organic revenue growth in Q1 2026, raised its full-year adj. EPS growth guidance to 8-9%, and offers a ~3% dividend yield—making it a compelling defensive growth holding that outperforms in volatile, risk-off market environments.",
+        "The company's globally diversified brand portfolio with strong pricing power across 200+ countries provides consistent revenue growth with limited cyclical exposure, and its 6% gain on a down market day underscores its defensive value in uncertain macro conditions."
       ],
       "bear_case": [
-        "Despite the Q1 beat, 10 analysts recently revised near-term earnings estimates downward, reflecting concerns about intensifying wireless price competition and potential macro softening dampening consumer upgrade cycles in the quarters ahead.",
-        "Verizon's massive debt load from spectrum acquisitions constrains capital allocation flexibility; with free cash flow largely committed to dividends and debt service, the company has limited capacity to respond aggressively to competitive threats or accelerate 5G infrastructure investment."
-      ],
-      "recommendation": "Hold",
-      "current_price": "$47.72",
-      "price_target": "$50.17 (+5.1%)",
-      "pe_ratio": "11.42",
-      "rsi": "53.03",
-      "vs_52wk_high": "-7.7% below high ($51.68)",
-      "analyst_rating": "Buy",
-      "sector": "Communication Services - Telecommunications",
-      "sources": ["CNBC", "Bloomberg", "Yahoo Finance", "Investing.com", "Benzinga", "Verizon IR", "GuruFocus"]
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron Technology",
-      "discussion_driver": "Micron surged ~5% after Melius Research initiated coverage with a Buy rating and $700 price target, representing ~41% upside from prior levels, citing sustained HBM demand powering AI data centers through 2030. Analyst Ben Reitzes highlighted that all of Micron's 2026 HBM output is already contracted under long-term agreements and that the compounding nature of AI memory demand — driven by growing model complexity and AI agent proliferation — has durability the market has not yet fully priced in.",
-      "bull_case": [
-        "Melius Research's $700 PT is underpinned by structural shifts: Micron's entire 2026 HBM capacity is pre-sold under long-term contracts, Nvidia selected Micron as a key HBM supplier for its Blackwell GPU platform, and AI model complexity is driving compounding memory bandwidth demand projected to persist through at least 2030.",
-        "Despite breaking to all-time highs, Micron trades at just ~6x forward earnings — a steep discount to the ~25x semiconductor sector average — creating significant multiple expansion potential as Wall Street reprices AI memory as a secular growth story rather than a cyclical trade."
-      ],
-      "bear_case": [
-        "Memory markets are inherently cyclical; if AI infrastructure spending slows or cloud customers over-order (a recurring pattern in tight supply environments), Micron could face sharp ASP declines and rapid margin compression that unwind the recent price gains.",
-        "The stock is at all-time highs with elevated RSI after a massive run; near-term profit-taking risk is significant, and any negative AI demand signal from Big Tech earnings week could trigger a sharp pullback from these stretched valuation levels."
+        "At ~26x trailing earnings and within 2.5% of its 52-week high, Coca-Cola trades near the upper end of its historical valuation range, limiting potential multiple expansion and making it more sensitive to any earnings disappointments.",
+        "Input cost inflation (sugar, aluminum, logistics) and dollar strength could pressure margins in H2 2026, especially as the company left organic revenue growth guidance unchanged at 4-5% despite raising EPS targets—implying margin assumptions may prove optimistic."
       ],
       "recommendation": "Buy",
-      "current_price": "$524.56",
-      "price_target": "$543.20 (+3.5%)",
-      "pe_ratio": "23.37",
-      "rsi": "62.59",
-      "vs_52wk_high": "Above prior high ($506.99); new all-time high set April 27",
+      "current_price": "$79.98",
+      "price_target": "$85.64 (+7.1%)",
+      "pe_ratio": "25.82",
+      "rsi": "47.5",
+      "vs_52wk_high": "-2.5% below high ($82.00)",
       "analyst_rating": "Strong Buy",
-      "sector": "Technology - Semiconductors",
-      "sources": ["CNBC", "RollingOut", "TipRanks", "Investing.com", "Motley Fool", "Seeking Alpha", "Melius Research"]
+      "sector": "Consumer Staples - Beverages",
+      "sources": ["Investing.com", "Yahoo Finance", "Meyka", "StockTitan", "MarketBeat", "TIKR"]
     }
   ]
 }
