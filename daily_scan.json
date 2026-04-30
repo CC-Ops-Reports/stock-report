@@ -1,174 +1,176 @@
 {
-  "report_date": "2026-04-29",
-  "market_tone": "Mixed",
+  "report_date": "2026-04-30",
+  "market_tone": "Bullish",
   "key_themes": [
-    "Mag 7 super-earnings night: Alphabet, Amazon, Meta, Microsoft all reported after the bell simultaneously",
-    "Federal Reserve holds rates steady at 3.5-3.75%; Powell confirms his last press conference as Fed Chair",
-    "Iran war drives oil above $100/bbl (Brent $118, WTI $107), fueling inflation concerns and Dow losses",
-    "Semiconductor earnings wave: Seagate +18%, NXP +26% (best day since 2010 IPO), Qualcomm surges on data center hyperscaler deal"
+    "Big Tech earnings wave drives record closes \u2014 S&P 500 tops 7,200 for first time",
+    "AI infrastructure capex debate: cloud beats impress but massive spending spooks Meta and Microsoft investors",
+    "Earnings season strength broad-based across industrials, healthcare, and consumer sectors"
   ],
   "sp500": {
-    "value": "7,135.95",
-    "change": "-0.04%"
+    "value": "7,209.01",
+    "change": "+1.02%"
   },
   "nasdaq": {
-    "value": "24,673.24",
-    "change": "+0.04%"
+    "value": "24,892.31",
+    "change": "+0.89%"
   },
   "stocks": [
     {
       "ticker": "GOOGL",
       "company": "Alphabet Inc.",
-      "reason": "Q1 2026 earnings massive beat: revenue $109.9B vs $107.2B expected; Google Cloud +63% YoY to $20B; EPS $5.11 vs $2.63 expected; stock up ~7% after hours",
+      "reason": "Q1 2026 earnings beat: fastest cloud growth on record; stock surged ~10%, the largest single-day gain since April 2025; drove Nasdaq and S&P 500 to new closing records",
       "category": "earnings",
       "sources": [
         "CNBC",
         "Bloomberg",
-        "9to5Google"
-      ]
-    },
-    {
-      "ticker": "AMZN",
-      "company": "Amazon.com Inc.",
-      "reason": "Q1 2026 earnings beat: EPS $2.78 vs $1.64 expected, revenue $181.52B vs $177.3B expected; stock up ~4% after hours",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "24/7 Wall St."
-      ]
-    },
-    {
-      "ticker": "META",
-      "company": "Meta Platforms Inc.",
-      "reason": "Q1 2026 results: capex guidance raised to $125-145B (from $115-135B) on higher data center costs, user growth disappointed; stock fell ~7% after hours",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "24/7 Wall St.",
-        "Bloomberg"
+        "TheStreet"
       ]
     },
     {
       "ticker": "QCOM",
       "company": "Qualcomm Inc.",
-      "reason": "Q2 2026 earnings beat; CEO announced data center chips shipping to \"large hyperscaler\" this calendar year; stock surged 16% reversing initial post-earnings dip",
+      "reason": "Q2 FY2026 earnings beat (EPS $2.65 vs $2.55 est); stock surged ~16% \u2014 best day in months \u2014 on record automotive revenue exceeding $5B annualized and CEO comments on China inventory recovery and new hyperscaler data center chip deal",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "SiliconANGLE"
+        "Yahoo Finance",
+        "MarketBeat"
       ]
     },
     {
-      "ticker": "NXPI",
-      "company": "NXP Semiconductors N.V.",
-      "reason": "Q1 2026 earnings beat: revenue $3.18B (+12% YoY), EPS $3.05 vs $2.99 expected; stock surged 26% \u2014 best single day since 2010 IPO",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Benzinga",
-        "NXP Investor Relations"
-      ]
-    },
-    {
-      "ticker": "STX",
-      "company": "Seagate Technology Holdings",
-      "reason": "Q3 2026 earnings beat drove stock up ~18% premarket and intraday; lifted related memory names Western Digital and Micron",
+      "ticker": "AAPL",
+      "company": "Apple Inc.",
+      "reason": "After-hours Q2 2026 earnings: $111.2B revenue (up 17% YoY), record-breaking quarter; EPS $2.01 beat $1.94 estimate; $100B additional buyback authorized; iPhone 17 family cited as most popular ever",
       "category": "earnings",
       "sources": [
         "CNBC",
         "Bloomberg",
-        "Benzinga"
+        "9to5Mac",
+        "MacRumors"
       ]
     },
     {
-      "ticker": "SBUX",
-      "company": "Starbucks Corporation",
-      "reason": "Earnings beat and raised full-year outlook: global same-store sales guidance lifted to 5%+ (from 3%); stock climbed ~5-8%",
+      "ticker": "CAT",
+      "company": "Caterpillar Inc.",
+      "reason": "Q1 2026 earnings beat: EPS $5.54 vs $4.64 estimate (+$0.90 beat); stock popped ~10%; revenue grew 22% YoY; company raised full-year revenue outlook as power equipment business benefits from AI infrastructure surge",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "Bloomberg"
-      ]
-    },
-    {
-      "ticker": "HOOD",
-      "company": "Robinhood Markets Inc.",
-      "reason": "Q1 2026 earnings miss: EPS 38\u00a2 vs 43\u00a2 expected, revenue $1.07B vs $1.18B expected; crypto trading fees collapsed 47%; stock tumbled ~14%",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Seeking Alpha"
-      ]
-    },
-    {
-      "ticker": "V",
-      "company": "Visa Inc.",
-      "reason": "Significant earnings beat with strong forward guidance; stock up 8.76% to $336.77, one of the top S&P 500 gainers on the session",
-      "category": "earnings",
-      "sources": [
-        "Yahoo Finance",
-        "Morningstar"
-      ]
-    },
-    {
-      "ticker": "AMD",
-      "company": "Advanced Micro Devices Inc.",
-      "reason": "D.A. Davidson upgraded to Buy, raised PT to $375; stock rose 4.3% on AI data center GPU demand thesis ahead of May 5 earnings report",
-      "category": "upgrade",
-      "sources": [
-        "Motley Fool",
-        "Yahoo Finance",
-        "IndexBox"
-      ]
-    },
-    {
-      "ticker": "EAT",
-      "company": "Brinker International Inc.",
-      "reason": "Q3 2026 earnings beat: adjusted EPS $2.90 vs $2.86 consensus; Chili's parent jumped ~13% intraday",
-      "category": "earnings",
-      "sources": [
-        "TheStreet",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "GNRC",
-      "company": "Generac Holdings Inc.",
-      "reason": "Q1 2026 earnings beat on both top and bottom lines: EPS $1.80, revenue $1.06B; stock jumped ~10% premarket on results",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Bloomberg"
-      ]
-    },
-    {
-      "ticker": "BE",
-      "company": "Bloom Energy Corporation",
-      "reason": "Q1 2026 earnings results drove stock up ~18% on the session; midday mover highlighted by CNBC alongside Seagate and GE HealthCare",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "TipRanks"
-      ]
-    },
-    {
-      "ticker": "PLUG",
-      "company": "Plug Power Inc.",
-      "reason": "Closed up 12.54% to $3.41 on clean energy sector strength and an analyst price target boost",
-      "category": "upgrade",
-      "sources": [
+        "GuruFocus",
         "Motley Fool"
       ]
     },
     {
-      "ticker": "HUM",
-      "company": "Humana Inc.",
-      "reason": "Q1 2026 earnings and revenue beat, but full-year revenue guidance came in below expectations; stock fell ~4.5% despite beat",
+      "ticker": "META",
+      "company": "Meta Platforms Inc.",
+      "reason": "Fell 8.6% despite Q1 revenue beat; JPMorgan downgraded to Neutral (PT cut $825\u2192$725) citing sky-high AI capex and lack of visibility into AI product pipeline; disappointing user growth added to pressure",
+      "category": "downgrade",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance",
+        "Bloomberg"
+      ]
+    },
+    {
+      "ticker": "RBLX",
+      "company": "Roblox Corp.",
+      "reason": "After-hours crash of ~21%: slashed full-year bookings guidance to $7.33B\u2013$7.60B from prior $8.28B\u2013$8.55B \u2014 a dramatic cut that shocked the market",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "Bloomberg",
-        "Finviz"
+        "Investing.com"
+      ]
+    },
+    {
+      "ticker": "RDDT",
+      "company": "Reddit Inc.",
+      "reason": "After-hours +7%: Q1 revenue surged 69% YoY to $663M and Daily Active Uniques rose 17% YoY to 126.8M, both beating consensus estimates",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Investing.com"
+      ]
+    },
+    {
+      "ticker": "ROKU",
+      "company": "Roku Inc.",
+      "reason": "After-hours +8%: Q2 results easily beat consensus and guidance topped views in a beat-and-raise report",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Investing.com"
+      ]
+    },
+    {
+      "ticker": "LLY",
+      "company": "Eli Lilly and Co.",
+      "reason": "Q1 2026 earnings and revenue blew past analyst expectations; stock rose ~7-9%, one of the top performers in the S&P 500 today",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "TheStreet"
+      ]
+    },
+    {
+      "ticker": "SFM",
+      "company": "Sprouts Farmers Market Inc.",
+      "reason": "Stock exploded ~17% (from $71.13 to $83.49) after Q1 2026 EPS of $1.71 beat $1.67 estimate on $2.33B revenue; company raised full-year 2026 diluted EPS guidance to $5.32\u2013$5.48",
+      "category": "earnings",
+      "sources": [
+        "Motley Fool",
+        "GuruFocus",
+        "StocksToTrade"
+      ]
+    },
+    {
+      "ticker": "CMG",
+      "company": "Chipotle Mexican Grill Inc.",
+      "reason": "Q1 same-store sales rose 0.5%, crushing analyst consensus that had expected a 0.7% decline; stock rose ~4% on the reversal of bearish sentiment heading into the print",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "TheStreet"
+      ]
+    },
+    {
+      "ticker": "MRK",
+      "company": "Merck & Co. Inc.",
+      "reason": "Q1 2026 earnings beat: $16.29B revenue up 5% YoY; Keytruda cancer therapy revenue topped $8.03B (up 12%); company raised adjusted EPS outlook to $5.04\u2013$5.16; stock up ~5%",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "GuruFocus",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft Corp.",
+      "reason": "Fell 3.9% despite cloud revenue beat; $190B capex guidance for AI infrastructure raised concerns about spending discipline; weighed on Big Tech sentiment alongside Meta",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Bloomberg"
+      ]
+    },
+    {
+      "ticker": "WDC",
+      "company": "Western Digital Corp.",
+      "reason": "Q3 fiscal 2026 results impressed with strong performance surpassing market expectations across key metrics; part of broader semiconductor strength day",
+      "category": "earnings",
+      "sources": [
+        "GuruFocus",
+        "Investing.com"
+      ]
+    },
+    {
+      "ticker": "PLTR",
+      "company": "Palantir Technologies Inc.",
+      "reason": "Oppenheimer analyst Param Singh initiated coverage with an Outperform rating and $200 price target, one of the highest on the Street; bullish initiation drew significant attention",
+      "category": "upgrade",
+      "sources": [
+        "Benzinga",
+        "Yahoo Finance"
       ]
     }
   ]
