@@ -1,116 +1,153 @@
 {
-  "report_date": "2026-04-29",
+  "report_date": "2026-04-30",
   "batch": 2,
   "stocks": [
     {
-      "ticker": "STX",
-      "company": "Seagate Technology Holdings",
-      "discussion_driver": "Seagate's Q3 FY2026 earnings crushed estimates — EPS $4.10 vs $3.53 expected and revenue $3.11B vs $2.98B expected — driving the stock up ~18% intraday to record highs. Q4 guidance of $3.45B revenue and $5.00 EPS came in well above Street consensus, reflecting surging AI data center demand for hard disk drives. Rosenblatt dramatically raised its price target from $500 to $1,000, the most bullish HDD call of 2026.",
+      "ticker": "RBLX",
+      "company": "Roblox Corp.",
+      "discussion_driver": "Roblox crashed ~20% in after-hours trading after Q1 2026 results badly missed DAU estimates (132M actual vs. 143.8M expected) and the company slashed full-year bookings guidance by ~$900M to $7.33B–$7.60B from $8.28B–$8.55B. The guidance cut was attributed to a mandatory age-verification rollout in January 2026 that restricted on-platform communication for unverified users and a Russia platform ban effective December 2025, meaningfully slowing new user acquisition.",
       "bull_case": [
-        "AI-era data center buildouts are triggering a structural HDD upcycle, with Seagate's Q4 revenue guide implying 41% YoY growth — the company is a primary beneficiary as hyperscalers scale nearline storage capacity to support AI model training and inference at massive scale.",
-        "Multiple Wall Street firms raised targets post-earnings (BofA, Citi, Goldman Sachs, Barclays, Rosenblatt to $1,000), and Fitch upgraded Seagate's credit to investment grade, citing a strengthened balance sheet — rising credit quality could expand the institutional shareholder base."
+        "Revenue still grew 39% YoY to $1.4B in Q1, demonstrating strong underlying monetization momentum even as engagement metrics disappointed — the age-verification friction may prove to be a one-time adjustment rather than a structural engagement decline.",
+        "Roblox's safety-first approach could expand its long-term addressable audience by winning over parents and regulators, potentially unlocking under-monetized younger demographics at scale once compliance headwinds normalize."
       ],
       "bear_case": [
-        "The trailing P/E of 62.87x is dramatically above Seagate's 5-year median of ~18x, and at least one valuation model flags the stock as significantly overvalued at current levels — the market may have already priced in several years of the HDD upcycle.",
-        "RSI at 86.63 signals severely overbought technical conditions; after an 18% single-day surge, near-term consolidation or pullback is likely before the stock can sustainably absorb the next leg higher."
-      ],
-      "recommendation": "Buy",
-      "current_price": "$637.90",
-      "price_target": "~$700+ (targets rapidly being revised; Rosenblatt $1,000)",
-      "pe_ratio": "62.87",
-      "rsi": "86.63",
-      "vs_52wk_high": "-7.1% below high ($687.00)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Data Storage",
-      "sources": ["GuruFocus", "Benzinga", "24/7 Wall St.", "Rosenblatt Securities", "Quiver Quantitative", "Schaeffersresearch.com"]
-    },
-    {
-      "ticker": "SBUX",
-      "company": "Starbucks Corporation",
-      "discussion_driver": "Starbucks jumped 8-9% to a new 52-week high after Q2 FY2026 earnings beat on both revenue ($9.53B, +8.8% YoY) and EPS ($0.50, +13.6% vs consensus), with North America same-store sales surging 7.1% — the strongest quarter under CEO Brian Niccol's tenure. Full-year global comp guidance was raised from 3% to 5%+, and multiple analysts raised price targets to $110-$115, validating the 'Back to Starbucks' turnaround narrative.",
-      "bull_case": [
-        "CEO Brian Niccol's 'Back to Starbucks' operational reset is producing tangible results: North America comp growth of 7.1% was driven by 4.4% transaction growth and 2.6% ticket growth, showing the company is recovering both traffic and spending simultaneously.",
-        "Starbucks' deal to transfer 60% ownership of ~8,000 China stores to a licensed JV model structurally removes a margin drag on consolidated results, while full-year EPS guidance of $2.25-$2.45 implies meaningful earnings recovery with EBIT trending toward $5B by FY2027."
-      ],
-      "bear_case": [
-        "North America operating margins contracted 170 basis points due to rising labor costs, coffee commodity prices, and tariff headwinds — margin recovery remains the key unresolved risk in the turnaround thesis.",
-        "At a trailing P/E of ~81x, Starbucks trades at a significant premium to consumer discretionary peers, and with the stock now at new 52-week highs above prior analyst consensus targets, near-term upside depends on further estimate revisions."
+        "A $900M guidance cut — bookings slashed to $7.33B–$7.60B from $8.28B–$8.55B — is a severe miss that raises questions about whether the platform's engagement challenges are purely policy-driven or reflect deeper structural deceleration in its core gaming-metaverse product.",
+        "Daily active users missed consensus by nearly 12 million and hours engaged fell short as well; analysts at Deutsche Bank, Wedbush, and Goldman Sachs all cut price targets sharply, and the RSI of ~28 signals the stock was already deeply oversold before the AH crash deepened losses."
       ],
       "recommendation": "Hold",
-      "current_price": "$104.76",
-      "price_target": "$110.00 (+5.0%) — Wells Fargo & Evercore post-earnings; high target $122.00 (Tigress Financial)",
-      "pe_ratio": "81.0",
-      "rsi": "51.70",
-      "vs_52wk_high": "At 52-week high ($104.82)",
+      "current_price": "$56.70 (pre-AH close; crashed ~20% AH post-earnings)",
+      "price_target": "$102.03 (+79.9%)",
+      "pe_ratio": "N/A (unprofitable)",
+      "rsi": "27.82",
+      "vs_52wk_high": "-62.4% below high ($150.59)",
       "analyst_rating": "Buy",
-      "sector": "Consumer Discretionary - Restaurants",
-      "sources": ["GuruFocus", "Benzinga", "Investing.com", "CNBC", "24/7 Wall St.", "StockStory"]
+      "sector": "Technology - Gaming Platform",
+      "sources": [
+        "Investing.com",
+        "GuruFocus",
+        "TipRanks",
+        "Seeking Alpha",
+        "Rolling Out",
+        "MarketBeat",
+        "Proactive Investors"
+      ]
     },
     {
-      "ticker": "HOOD",
-      "company": "Robinhood Markets Inc.",
-      "discussion_driver": "Robinhood tumbled ~14% after Q1 2026 earnings missed on both revenue ($1.07B vs $1.17B expected) and EPS ($0.38 vs $0.41 expected), with crypto transaction revenues collapsing 47% to $134M as the broader crypto market sold off sharply in 2026. CEO Vladimir Tenev pivoted investors toward a 'tokenization supercycle' narrative, promising a July 2026 crypto event to outline Robinhood's real-world asset tokenization roadmap.",
+      "ticker": "RDDT",
+      "company": "Reddit Inc.",
+      "discussion_driver": "Reddit delivered a blowout Q1 2026 report with revenue surging 69% YoY to $663M and EPS of $1.01 vs. $0.58 expected, sending shares up 7–9% in after-hours trading. Daily Active Unique users reached 126.8M (+17% YoY) and Q2 revenue guidance of $715M–$725M topped the $712M analyst consensus, reinforcing Reddit's emergence as a premium advertising platform with strong interest-graph targeting capabilities.",
       "bull_case": [
-        "Despite the crypto miss, Robinhood has meaningfully diversified revenue streams across equities, options, and Robinhood Gold subscriptions — the platform's growing breadth reduces long-term dependence on volatile crypto trading fees.",
-        "The July 2026 tokenization event could catalyze a re-rating if Robinhood's real-world asset strategy gains credibility; the CEO's 'tokenization supercycle' thesis positions HOOD as a potential infrastructure player in the next phase of crypto and tokenized asset adoption."
+        "Revenue growing 69% YoY with DAUs up 17% demonstrates Reddit's expanding position as an increasingly essential advertising platform — its unique topic-based communities offer brand and performance advertisers targeting precision that larger social peers struggle to match.",
+        "Q2 guidance above consensus and adjusted earnings beat by nearly 75% ($1.01 vs. $0.58 est.) signal that Reddit's monetization engine is scaling efficiently, with analyst consensus targets averaging ~$225 implying over 40% upside from current levels."
       ],
       "bear_case": [
-        "Crypto transaction revenues dropped 47% in a single quarter, demonstrating that HOOD's earnings remain highly sensitive to crypto market conditions — another sustained crypto downturn could push results materially below consensus again.",
-        "The stock is now 53.7% below its 52-week high of $153.86, and multiple analysts cut price targets post-earnings (Barclays to $82, Keefe Bruyette to $65), signaling diminishing conviction in near-term recovery catalysts."
-      ],
-      "recommendation": "Hold",
-      "current_price": "$71.20",
-      "price_target": "$105.00 (+47.5%) — median analyst target; Barclays cut to $82, Keefe Bruyette cut to $65",
-      "pe_ratio": "37.6",
-      "rsi": "53.04",
-      "vs_52wk_high": "-53.7% below high ($153.86)",
-      "analyst_rating": "Buy",
-      "sector": "Financial Services - Fintech/Brokerage",
-      "sources": ["Motley Fool", "Yahoo Finance", "Tradingkey", "Fortune", "Blockonomi", "Seeking Alpha"]
-    },
-    {
-      "ticker": "V",
-      "company": "Visa Inc.",
-      "discussion_driver": "Visa surged 8.76% to $336.77 — one of the top S&P 500 gainers on the session — after Q2 FY2026 results showed revenue up 17% YoY to $11.2B (the biggest increase since 2022) with EPS up 20% YoY. The company also executed a record $7.9B quarterly share buyback and raised its full-year growth outlook, signaling strong management confidence amid macro headwinds from Iran war-driven oil prices above $100/bbl.",
-      "bull_case": [
-        "Visa's 17% YoY revenue growth in Q2 FY2026 — the strongest in four years — was driven by robust cross-border payment volumes tied to global travel and resilient consumer spending, demonstrating the durability of Visa's network even in a volatile macro environment with oil at $100+.",
-        "The record $7.9B quarterly share buyback (highest in Visa's history) reflects exceptional free cash flow generation and management's conviction in the business; combined with raised full-year guidance, capital returns are a meaningful tailwind for per-share earnings growth."
-      ],
-      "bear_case": [
-        "The RSI was hovering around 40 entering earnings — signaling bearish market sentiment — and Iran war-driven oil prices above $100/bbl and associated inflation concerns could dampen consumer spending and payment volumes in coming quarters.",
-        "Regulatory risk around interchange fee caps and antitrust scrutiny of the card network duopoly remains a structural long-term overhang; any adverse ruling could compress Visa's take rates and materially impact revenue trajectories."
+        "Reddit trades at a trailing P/E of ~59x, a rich valuation that leaves little room for any slowdown in revenue growth or deterioration in the digital advertising macro environment.",
+        "Despite strong quarterly results, RDDT shares remain roughly 45% below their 52-week high of $282.95, reflecting lingering market skepticism about Reddit's competitive moat versus larger platforms and the long-term sustainability of hypergrowth advertising revenue."
       ],
       "recommendation": "Buy",
-      "current_price": "$336.77",
-      "price_target": "$389.00 (+15.5%) — median analyst consensus; high target $450.00",
-      "pe_ratio": "26.96",
-      "rsi": "~40",
-      "vs_52wk_high": "-10.3% below high ($375.51)",
+      "current_price": "$154.89 (pre-AH close; up ~7–9% AH post-earnings)",
+      "price_target": "$224.67 (+45.1%)",
+      "pe_ratio": "59.12",
+      "rsi": "N/A",
+      "vs_52wk_high": "-45.3% below high ($282.95)",
       "analyst_rating": "Buy",
-      "sector": "Financial Services - Payment Processing",
-      "sources": ["Bloomberg", "Yahoo Finance", "Quiver Quantitative", "MarketBeat", "GuruFocus"]
+      "sector": "Technology - Social Media / Interactive Media",
+      "sources": [
+        "CNBC",
+        "Benzinga",
+        "MarketBeat",
+        "GuruFocus",
+        "Investing.com",
+        "FinancialContent"
+      ]
     },
     {
-      "ticker": "AMD",
-      "company": "Advanced Micro Devices Inc.",
-      "discussion_driver": "AMD rose 4.3% to $337.11 after D.A. Davidson upgraded the stock to Buy with a $375 price target, arguing that Intel's Q1 2026 earnings signal a structural shift in AI data center CPU demand that positions AMD as the primary beneficiary. The upgrade extended a remarkable week — AMD is up ~24% in 7 days — as investors build positions ahead of the company's Q1 2026 earnings report scheduled for May 5 after market close.",
+      "ticker": "ROKU",
+      "company": "Roku Inc.",
+      "discussion_driver": "Roku reported a beat-and-raise Q1 2026 quarter with EPS of $0.57 vs. $0.32 expected and revenue of $1.25B vs. $1.2B consensus, sending shares up 3.5% in after-hours trading. The company crossed the 100 million active household milestone — a key platform scale marker — while management guided above Street estimates for Q2, prompting KeyBanc to raise its price target to $140 from $130.",
       "bull_case": [
-        "D.A. Davidson raised its 2026 AMD revenue estimate by $2B (now above company guidance) and gross profit estimate by $1.5B, citing Intel's accelerating market share losses as a structural tailwind for AMD's EPYC server CPUs and data center GPUs in a multi-year AI infrastructure buildout.",
-        "AMD's Q1 2026 revenue guide of ~$9.8B implies 32% YoY growth with 55% non-GAAP gross margins; the MI300X GPU is gaining traction in AI inference workloads at hyperscalers, and the data center segment could surprise significantly to the upside at May 5 earnings."
+        "Surpassing 100 million active households cements Roku as the largest streaming platform in North America, giving advertisers unmatched connected-TV scale and making Roku an indispensable partner for streaming services seeking audience reach.",
+        "The consistent beat-and-raise pattern and rising analyst price targets (KeyBanc to $140, consensus at $126) reflect growing confidence that Roku's platform revenue model — driven by advertising and content distribution fees — can sustain profitable growth, with the stock near its 52-week high."
       ],
       "bear_case": [
-        "The trailing P/E of 123.84x is extremely elevated; with May 5 earnings approaching, any disappointing data center GPU ramp guidance or China export restriction headwinds could trigger a sharp correction following the stock's 24% surge in a single week.",
-        "NVIDIA's H100/B200 GPU ecosystem dominance in AI training remains formidable, and AMD's MI300X gains are primarily in inference — a more competitive, lower-margin segment — potentially capping long-term revenue upside relative to the current elevated market valuation."
+        "The trailing P/E of ~195x is extremely elevated for a company still generating thin margins, leaving the stock highly vulnerable to any earnings miss or ad-market softness that would quickly compress the multiple.",
+        "Competition from Amazon Fire TV, Google TV, and Apple TV+ continues to intensify, creating ongoing risks to Roku's hardware market share and potentially reducing its leverage in content-partner and advertiser negotiations over time."
       ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$337.11",
-      "price_target": "$375.00 (+11.2%) — D.A. Davidson upgrade target; consensus being revised upward",
-      "pe_ratio": "123.84",
-      "rsi": "70.8",
-      "vs_52wk_high": "-4.5% below all-time high ($352.99 on Apr 24)",
+      "recommendation": "Buy",
+      "current_price": "$113.28",
+      "price_target": "$126.14 (+11.4%)",
+      "pe_ratio": "194.85",
+      "rsi": "63.37",
+      "vs_52wk_high": "-5.6% below high ($120.00)",
       "analyst_rating": "Buy",
-      "sector": "Technology - Semiconductors",
-      "sources": ["TheStreet", "24/7 Wall St.", "Motley Fool", "InvestingCube", "TradingKey", "StocksToTrade"]
+      "sector": "Technology - Streaming / Connected TV",
+      "sources": [
+        "StockAnalysis",
+        "Investing.com",
+        "MarketBeat",
+        "247 Wall St.",
+        "Motley Fool"
+      ]
+    },
+    {
+      "ticker": "LLY",
+      "company": "Eli Lilly and Co.",
+      "discussion_driver": "Eli Lilly shattered Q1 2026 expectations with EPS of $8.55 vs. $6.85 est. (+24.8%) and revenue of $19.8B vs. $17.6B est. (+56% YoY), driven by Mounjaro's $8.66B in worldwide quarterly sales (+125% YoY). The company raised full-year 2026 revenue guidance to $82B–$85B, sparking a ~10% single-day stock surge and reaffirming Lilly's dominance in the GLP-1 obesity and diabetes drug market.",
+      "bull_case": [
+        "Mounjaro and Zepbound represent a generational pharmaceutical franchise — $8.66B in a single quarter puts Lilly's GLP-1 portfolio on pace to be the highest-revenue drug class in history, with obesity and diabetes markets still in early penetration phases globally.",
+        "Raised 2026 revenue guidance of $82B–$85B alongside a deep pipeline of next-generation GLP-1 and metabolic therapies provides multi-year earnings visibility that supports the Strong Buy consensus and $1,218 average analyst price target."
+      ],
+      "bear_case": [
+        "At ~$900/share with a trailing P/E of ~38.5x, LLY demands near-flawless execution; competition from Novo Nordisk's semaglutide franchise and incoming GLP-1 biosimilar threats could erode pricing power, and IRA Medicare drug-price negotiations remain an unresolved long-term margin headwind.",
+        "The stock is still roughly 20% below its 52-week high of $1,133.95 despite today's 10% surge, and the RSI of ~38 (pre-rally) reflects months of selling pressure that may not fully reverse even on a strong earnings beat."
+      ],
+      "recommendation": "Buy",
+      "current_price": "$901.94",
+      "price_target": "$1,218.84 (+35.1%)",
+      "pe_ratio": "38.52",
+      "rsi": "38.32",
+      "vs_52wk_high": "-20.5% below high ($1,133.95)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Healthcare - Drug Manufacturers",
+      "sources": [
+        "CNBC",
+        "PR Newswire",
+        "Motley Fool",
+        "StockAnalysis",
+        "GuruFocus",
+        "Benzinga",
+        "FinancialContent"
+      ]
+    },
+    {
+      "ticker": "SFM",
+      "company": "Sprouts Farmers Market Inc.",
+      "discussion_driver": "Sprouts Farmers Market surged ~17% after reporting Q1 2026 EPS of $1.71 (beat $1.67 est.) on $2.33B revenue, with management raising full-year 2026 diluted EPS guidance to $5.32–$5.48. The beat-and-raise report revived investor confidence in the health-focused grocer after shares had declined more than 50% from their 52-week high, with Evercore ISI raising its price target to $90 following the results.",
+      "bull_case": [
+        "Sprouts' differentiated positioning in the health, natural, and organic food space targets a high-income, brand-loyal consumer base that provides pricing power and resilience versus conventional grocery competition, supporting the company's ability to expand store count profitably.",
+        "Raised full-year EPS guidance ($5.32–$5.48) and management's track record of margin discipline give analysts confidence that Sprouts can grow earnings even in a subdued comp-sales environment, with analyst consensus targets averaging ~$96–$97 implying ~15–18% upside from current levels."
+      ],
+      "bear_case": [
+        "Despite today's 17% surge, SFM remains roughly 54% below its 52-week high of $182.00, reflecting deep market skepticism — management guided flat to slightly negative comparable store sales for FY2026, signaling no near-term organic growth acceleration.",
+        "Intensifying competition from Whole Foods (Amazon-backed), premium online grocery platforms, and Target's Fresh format poses ongoing market share risk, while consumer trade-down pressure in the premium grocery segment could weigh on ticket sizes if the macro environment softens."
+      ],
+      "recommendation": "Buy",
+      "current_price": "$83.49",
+      "price_target": "$96.65 (+15.8%)",
+      "pe_ratio": "21.8",
+      "rsi": "N/A",
+      "vs_52wk_high": "-54.1% below high ($182.00)",
+      "analyst_rating": "Buy",
+      "sector": "Consumer Staples - Grocery Retail",
+      "sources": [
+        "Motley Fool",
+        "GuruFocus",
+        "StocksToTrade",
+        "Investing.com",
+        "Markets Daily",
+        "MarketBeat",
+        "Evercore ISI"
+      ]
     }
   ]
 }
