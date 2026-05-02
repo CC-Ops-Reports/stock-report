@@ -1,153 +1,116 @@
 {
-  "report_date": "2026-04-30",
+  "report_date": "2026-05-01",
   "batch": 2,
   "stocks": [
     {
       "ticker": "RBLX",
-      "company": "Roblox Corp.",
-      "discussion_driver": "Roblox crashed ~20% in after-hours trading after Q1 2026 results badly missed DAU estimates (132M actual vs. 143.8M expected) and the company slashed full-year bookings guidance by ~$900M to $7.33B–$7.60B from $8.28B–$8.55B. The guidance cut was attributed to a mandatory age-verification rollout in January 2026 that restricted on-platform communication for unverified users and a Russia platform ban effective December 2025, meaningfully slowing new user acquisition.",
+      "company": "Roblox Corporation",
+      "discussion_driver": "Roblox slashed its full-year 2026 bookings guidance after mandatory age-verification implemented in January 2026 caused daily active users and platform engagement to plummet; the stock tumbled 17-24% in the morning session as BofA downgraded to Neutral and cut its price target from $165 to $48, with BTIG, Raymond James, and Goldman Sachs following with additional downgrades or significant target cuts.",
       "bull_case": [
-        "Revenue still grew 39% YoY to $1.4B in Q1, demonstrating strong underlying monetization momentum even as engagement metrics disappointed — the age-verification friction may prove to be a one-time adjustment rather than a structural engagement decline.",
-        "Roblox's safety-first approach could expand its long-term addressable audience by winning over parents and regulators, potentially unlocking under-monetized younger demographics at scale once compliance headwinds normalize."
+        "Free cash flow reached $596M in Q1 2026, up 40% YoY, demonstrating strong underlying financial health even as the platform absorbs short-term safety-driven costs — not the profile of a company unraveling.",
+        "Users 18+ now account for more than 45% of DAUs and monetize at roughly 40% more than younger users, and management expects DAU stabilization and growth resumption by Q3 2026 as age-verification friction normalizes."
       ],
       "bear_case": [
-        "A $900M guidance cut — bookings slashed to $7.33B–$7.60B from $8.28B–$8.55B — is a severe miss that raises questions about whether the platform's engagement challenges are purely policy-driven or reflect deeper structural deceleration in its core gaming-metaverse product.",
-        "Daily active users missed consensus by nearly 12 million and hours engaged fell short as well; analysts at Deutsche Bank, Wedbush, and Goldman Sachs all cut price targets sharply, and the RSI of ~28 signals the stock was already deeply oversold before the AH crash deepened losses."
+        "The guidance cut was severe — full-year bookings midpoint fell roughly $900M below analyst consensus — raising legitimate concerns that age-verification and algorithm changes are inflicting structural damage on engagement, not merely temporary friction.",
+        "Multiple Wall Street firms downgraded simultaneously, with BofA slashing its target from $165 to $48; the stock hit a new 52-week low near $41.35, reflecting deepening doubt about whether the Roblox growth story can recover."
       ],
       "recommendation": "Hold",
-      "current_price": "$56.70 (pre-AH close; crashed ~20% AH post-earnings)",
-      "price_target": "$102.03 (+79.9%)",
-      "pe_ratio": "N/A (unprofitable)",
-      "rsi": "27.82",
-      "vs_52wk_high": "-62.4% below high ($150.59)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Gaming Platform",
-      "sources": [
-        "Investing.com",
-        "GuruFocus",
-        "TipRanks",
-        "Seeking Alpha",
-        "Rolling Out",
-        "MarketBeat",
-        "Proactive Investors"
-      ]
-    },
-    {
-      "ticker": "RDDT",
-      "company": "Reddit Inc.",
-      "discussion_driver": "Reddit delivered a blowout Q1 2026 report with revenue surging 69% YoY to $663M and EPS of $1.01 vs. $0.58 expected, sending shares up 7–9% in after-hours trading. Daily Active Unique users reached 126.8M (+17% YoY) and Q2 revenue guidance of $715M–$725M topped the $712M analyst consensus, reinforcing Reddit's emergence as a premium advertising platform with strong interest-graph targeting capabilities.",
-      "bull_case": [
-        "Revenue growing 69% YoY with DAUs up 17% demonstrates Reddit's expanding position as an increasingly essential advertising platform — its unique topic-based communities offer brand and performance advertisers targeting precision that larger social peers struggle to match.",
-        "Q2 guidance above consensus and adjusted earnings beat by nearly 75% ($1.01 vs. $0.58 est.) signal that Reddit's monetization engine is scaling efficiently, with analyst consensus targets averaging ~$225 implying over 40% upside from current levels."
-      ],
-      "bear_case": [
-        "Reddit trades at a trailing P/E of ~59x, a rich valuation that leaves little room for any slowdown in revenue growth or deterioration in the digital advertising macro environment.",
-        "Despite strong quarterly results, RDDT shares remain roughly 45% below their 52-week high of $282.95, reflecting lingering market skepticism about Reddit's competitive moat versus larger platforms and the long-term sustainability of hypergrowth advertising revenue."
-      ],
-      "recommendation": "Buy",
-      "current_price": "$154.89 (pre-AH close; up ~7–9% AH post-earnings)",
-      "price_target": "$224.67 (+45.1%)",
-      "pe_ratio": "59.12",
+      "current_price": "$41.50",
+      "price_target": "$76.01 (+83.2%)",
+      "pe_ratio": "N/A (negative earnings)",
       "rsi": "N/A",
-      "vs_52wk_high": "-45.3% below high ($282.95)",
+      "vs_52wk_high": "-72.4% below high ($150.59)",
       "analyst_rating": "Buy",
-      "sector": "Technology - Social Media / Interactive Media",
-      "sources": [
-        "CNBC",
-        "Benzinga",
-        "MarketBeat",
-        "GuruFocus",
-        "Investing.com",
-        "FinancialContent"
-      ]
+      "sector": "Technology - Interactive Entertainment",
+      "sources": ["24/7 Wall St.", "Motley Fool", "Investing.com", "Sherwood News", "CNBC", "TradingKey", "MarketBeat"]
     },
     {
       "ticker": "ROKU",
       "company": "Roku Inc.",
-      "discussion_driver": "Roku reported a beat-and-raise Q1 2026 quarter with EPS of $0.57 vs. $0.32 expected and revenue of $1.25B vs. $1.2B consensus, sending shares up 3.5% in after-hours trading. The company crossed the 100 million active household milestone — a key platform scale marker — while management guided above Street estimates for Q2, prompting KeyBanc to raise its price target to $140 from $130.",
+      "discussion_driver": "Roku delivered a Q1 2026 double beat — revenue of $1.25B (+22% YoY) vs. $1.20B estimate and GAAP EPS of $0.57 vs. $0.35 consensus — and raised full-year revenue guidance to $5.535B; at least five Wall Street firms lifted price targets into the $140-$160 range, sending shares to a new 52-week high.",
       "bull_case": [
-        "Surpassing 100 million active households cements Roku as the largest streaming platform in North America, giving advertisers unmatched connected-TV scale and making Roku an indispensable partner for streaming services seeking audience reach.",
-        "The consistent beat-and-raise pattern and rising analyst price targets (KeyBanc to $140, consensus at $126) reflect growing confidence that Roku's platform revenue model — driven by advertising and content distribution fees — can sustain profitable growth, with the stock near its 52-week high."
+        "Q1 2026 marked Roku's return to GAAP profitability with net income of $85.7M — well above prior guidance of $50M — combined with 22% revenue growth, validating the connected TV advertising platform's monetization flywheel.",
+        "Management raised full-year 2026 adjusted EBITDA guidance to $675M and revenue to $5.535B, and broad Wall Street price-target raises signal renewed institutional confidence in Roku's dominant position in the streaming OS and CTV ad market."
       ],
       "bear_case": [
-        "The trailing P/E of ~195x is extremely elevated for a company still generating thin margins, leaving the stock highly vulnerable to any earnings miss or ad-market softness that would quickly compress the multiple.",
-        "Competition from Amazon Fire TV, Google TV, and Apple TV+ continues to intensify, creating ongoing risks to Roku's hardware market share and potentially reducing its leverage in content-partner and advertiser negotiations over time."
+        "The trailing P/E of 194.85 prices in substantial future growth, leaving little margin for error if the ad market softens or streaming platform competition from Amazon Fire TV, Google TV, and Apple TV intensifies.",
+        "Roku's revenue is heavily dependent on advertising, which is cyclically sensitive; any macro deterioration or shift in ad-spend away from CTV could rapidly compress growth and margins."
       ],
       "recommendation": "Buy",
-      "current_price": "$113.28",
-      "price_target": "$126.14 (+11.4%)",
+      "current_price": "$123.58",
+      "price_target": "$138.00 (+11.7%)",
       "pe_ratio": "194.85",
       "rsi": "63.37",
-      "vs_52wk_high": "-5.6% below high ($120.00)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Streaming / Connected TV",
-      "sources": [
-        "StockAnalysis",
-        "Investing.com",
-        "MarketBeat",
-        "247 Wall St.",
-        "Motley Fool"
-      ]
-    },
-    {
-      "ticker": "LLY",
-      "company": "Eli Lilly and Co.",
-      "discussion_driver": "Eli Lilly shattered Q1 2026 expectations with EPS of $8.55 vs. $6.85 est. (+24.8%) and revenue of $19.8B vs. $17.6B est. (+56% YoY), driven by Mounjaro's $8.66B in worldwide quarterly sales (+125% YoY). The company raised full-year 2026 revenue guidance to $82B–$85B, sparking a ~10% single-day stock surge and reaffirming Lilly's dominance in the GLP-1 obesity and diabetes drug market.",
-      "bull_case": [
-        "Mounjaro and Zepbound represent a generational pharmaceutical franchise — $8.66B in a single quarter puts Lilly's GLP-1 portfolio on pace to be the highest-revenue drug class in history, with obesity and diabetes markets still in early penetration phases globally.",
-        "Raised 2026 revenue guidance of $82B–$85B alongside a deep pipeline of next-generation GLP-1 and metabolic therapies provides multi-year earnings visibility that supports the Strong Buy consensus and $1,218 average analyst price target."
-      ],
-      "bear_case": [
-        "At ~$900/share with a trailing P/E of ~38.5x, LLY demands near-flawless execution; competition from Novo Nordisk's semaglutide franchise and incoming GLP-1 biosimilar threats could erode pricing power, and IRA Medicare drug-price negotiations remain an unresolved long-term margin headwind.",
-        "The stock is still roughly 20% below its 52-week high of $1,133.95 despite today's 10% surge, and the RSI of ~38 (pre-rally) reflects months of selling pressure that may not fully reverse even on a strong earnings beat."
-      ],
-      "recommendation": "Buy",
-      "current_price": "$901.94",
-      "price_target": "$1,218.84 (+35.1%)",
-      "pe_ratio": "38.52",
-      "rsi": "38.32",
-      "vs_52wk_high": "-20.5% below high ($1,133.95)",
+      "vs_52wk_high": "At 52-week high ($123.58)",
       "analyst_rating": "Strong Buy",
-      "sector": "Healthcare - Drug Manufacturers",
-      "sources": [
-        "CNBC",
-        "PR Newswire",
-        "Motley Fool",
-        "StockAnalysis",
-        "GuruFocus",
-        "Benzinga",
-        "FinancialContent"
-      ]
+      "sector": "Technology - Streaming Platforms",
+      "sources": ["Investing.com", "Benzinga", "Motley Fool", "24/7 Wall St.", "Variety", "Yahoo Finance", "StockAnalysis"]
     },
     {
-      "ticker": "SFM",
-      "company": "Sprouts Farmers Market Inc.",
-      "discussion_driver": "Sprouts Farmers Market surged ~17% after reporting Q1 2026 EPS of $1.71 (beat $1.67 est.) on $2.33B revenue, with management raising full-year 2026 diluted EPS guidance to $5.32–$5.48. The beat-and-raise report revived investor confidence in the health-focused grocer after shares had declined more than 50% from their 52-week high, with Evercore ISI raising its price target to $90 following the results.",
+      "ticker": "FIVN",
+      "company": "Five9 Inc.",
+      "discussion_driver": "Five9 reported Q1 2026 EPS of $0.76 beating the $0.69 estimate and revenue of $305M topping expectations, then raised its full-year revenue guidance to $1.266B midpoint; shares surged ~23% in the morning session on strong AI contact-center demand, with Needham maintaining a $40 Buy target and Barclays raising its target from $22 to $25.",
       "bull_case": [
-        "Sprouts' differentiated positioning in the health, natural, and organic food space targets a high-income, brand-loyal consumer base that provides pricing power and resilience versus conventional grocery competition, supporting the company's ability to expand store count profitably.",
-        "Raised full-year EPS guidance ($5.32–$5.48) and management's track record of margin discipline give analysts confidence that Sprouts can grow earnings even in a subdued comp-sales environment, with analyst consensus targets averaging ~$96–$97 implying ~15–18% upside from current levels."
+        "Five9 raised full-year 2026 revenue guidance to $1.266B and EPS guidance to $3.26, and plans to complete a $150M share buyback by end of Q3 — signaling management confidence in the company's financial trajectory.",
+        "AI-driven demand for cloud contact-center solutions is accelerating Five9's enterprise pipeline; Needham's $40 price target implies roughly 85% upside from current levels, reflecting conviction in the company's AI-native platform."
       ],
       "bear_case": [
-        "Despite today's 17% surge, SFM remains roughly 54% below its 52-week high of $182.00, reflecting deep market skepticism — management guided flat to slightly negative comparable store sales for FY2026, signaling no near-term organic growth acceleration.",
-        "Intensifying competition from Whole Foods (Amazon-backed), premium online grocery platforms, and Target's Fresh format poses ongoing market share risk, while consumer trade-down pressure in the premium grocery segment could weigh on ticket sizes if the macro environment softens."
+        "Despite the post-earnings surge, shares remain nearly 27% below their 52-week high, and revenue growth of 9.2% YoY is modest relative to AI-era software peers, suggesting Five9 has not yet fully capitalized on the AI contact-center opportunity.",
+        "Larger cloud players including Salesforce, Microsoft, and AWS are investing heavily in AI contact-center capabilities, threatening to commoditize the market and crowd out pure-play vendors like Five9 over the medium term."
       ],
-      "recommendation": "Buy",
-      "current_price": "$83.49",
-      "price_target": "$96.65 (+15.8%)",
-      "pe_ratio": "21.8",
+      "recommendation": "Speculative Buy",
+      "current_price": "$21.60",
+      "price_target": "$32.13 (+48.8%)",
+      "pe_ratio": "46.59",
       "rsi": "N/A",
-      "vs_52wk_high": "-54.1% below high ($182.00)",
+      "vs_52wk_high": "-26.9% below high ($29.56)",
       "analyst_rating": "Buy",
-      "sector": "Consumer Staples - Grocery Retail",
-      "sources": [
-        "Motley Fool",
-        "GuruFocus",
-        "StocksToTrade",
-        "Investing.com",
-        "Markets Daily",
-        "MarketBeat",
-        "Evercore ISI"
-      ]
+      "sector": "Technology - Cloud Communications / Contact Center",
+      "sources": ["Yahoo Finance", "Motley Fool", "GuruFocus", "Daily Political", "Seeking Alpha", "MarketBeat", "TickerReport"]
+    },
+    {
+      "ticker": "MRNA",
+      "company": "Moderna Inc.",
+      "discussion_driver": "Moderna's Q1 2026 revenue of $400M beat estimates by 54%, driven by strong international COVID vaccine sales accounting for 80% of revenue, and the EU approved mCOMBRIAX — the world's first flu+COVID combo mRNA vaccine for adults 50+; however, a $1.3B GAAP net loss (including an $878M litigation settlement) and an analyst consensus price target below the current stock price kept shares down ~2.4% on the day.",
+      "bull_case": [
+        "EU approval of mCOMBRIAX across all 27 EU member states plus Iceland, Liechtenstein, and Norway opens a large recurring market as the world's first flu+COVID combo vaccine — positioning Moderna as the first mover in next-generation combination vaccines.",
+        "Q1 2026 revenue of $400M beat estimates by 54% and the company reaffirmed full-year guidance with up to 10% growth, suggesting international demand is proving more durable than feared and the worst of the COVID vaccine revenue cliff may be behind Moderna."
+      ],
+      "bear_case": [
+        "Moderna remains deeply unprofitable — Q1 GAAP net loss was $1.3B ($3.40/share) — and the analyst consensus price target of $38.40 sits below the current stock price, implying downside risk from current levels.",
+        "US regulatory and political headwinds, including reduced government vaccine purchasing and uncertainty around the FDA's posture on combination vaccines, create significant domestic commercial risk for Moderna's pipeline."
+      ],
+      "recommendation": "Hold",
+      "current_price": "$44.82",
+      "price_target": "$38.40 (-14.3%)",
+      "pe_ratio": "N/A (unprofitable)",
+      "rsi": "45.96",
+      "vs_52wk_high": "-24.7% below high ($59.55)",
+      "analyst_rating": "Hold",
+      "sector": "Healthcare - Biotechnology",
+      "sources": ["Yahoo Finance", "BioSpace", "StockTitan", "Benzinga", "Investing.com", "Sherwood News", "CIDRAP"]
+    },
+    {
+      "ticker": "VEEV",
+      "company": "Veeva Systems Inc.",
+      "discussion_driver": "Veeva Systems was announced as the next addition to the S&P 500, joining effective May 7, 2026 (replacing Coterra Energy); shares surged ~10% in premarket trading as index-tracking funds positioned to buy, while notable investor Michael Burry publicly called VEEV 'still cheap' — all this despite the stock being down 30% YTD before the announcement amid AI disruption fears.",
+      "bull_case": [
+        "S&P 500 inclusion effective May 7 will force hundreds of billions in index-tracking funds to purchase VEEV shares, providing a structural near-term demand catalyst and raising Veeva's institutional visibility significantly.",
+        "Vault CRM migration completions and emerging AI agent monetization represent a credible path to $3.6B in FY2027 revenue (well above consensus), and at ~29x earnings the stock trades 57% below its 10-year median P/E of 76x, suggesting meaningful multiple re-rating potential."
+      ],
+      "bear_case": [
+        "VEEV was down 30% YTD in 2026 before the S&P inclusion bounce — reflecting persistent investor concern that AI-native competitors could erode Veeva's near-monopoly in life sciences cloud software — a view echoed by Citigroup's April 2026 downgrade to Neutral.",
+        "The stock remains 44.5% below its 52-week high, and any CRM migration delays or slower-than-expected AI agent monetization could disappoint a market that is buying the S&P inclusion narrative rather than near-term fundamental improvement."
+      ],
+      "recommendation": "Hold",
+      "current_price": "$172.49",
+      "price_target": "$270.93 (+57.1%)",
+      "pe_ratio": "29.07",
+      "rsi": "N/A",
+      "vs_52wk_high": "-44.5% below high ($310.50)",
+      "analyst_rating": "Moderate Buy",
+      "sector": "Health Care - Life Sciences Software",
+      "sources": ["CNBC", "Benzinga", "GuruFocus", "Investing.com", "StockTitan", "S&P Global Press", "TipRanks", "MarketBeat"]
     }
   ]
 }
