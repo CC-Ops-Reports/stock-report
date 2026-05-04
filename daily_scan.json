@@ -1,82 +1,38 @@
 {
-  "report_date": "2026-05-01",
-  "market_tone": "Bullish",
+  "report_date": "2026-05-04",
+  "market_tone": "Mixed",
   "key_themes": [
-    "AI-driven enterprise software earnings beats (Twilio, Atlassian, Five9)",
-    "Apple anchors tech rally with Q2 earnings beat, S&P 500 and Nasdaq hit fresh all-time highs",
-    "Consumer spending caution weighs on select names (Clorox cuts guidance, Roblox slashes outlook)"
+    "Middle East escalation (UAE intercepts Iranian missiles) lifts oil, weighs on travel and broad equities",
+    "Senate CLARITY Act bipartisan agreement ignites crypto rally \u2014 Coinbase, Circle surge",
+    "GameStop launches surprise $56B unsolicited bid for eBay; Amazon Supply Chain Services disrupts FedEx and UPS",
+    "Heavy earnings week: Palantir crushes Q1 with 85% revenue growth; Pinterest and Tyson also beat"
   ],
   "sp500": {
-    "value": "7,230.12",
-    "change": "+0.29%"
+    "value": "7,200.75",
+    "change": "-0.41%"
   },
   "nasdaq": {
-    "value": "25,114.44",
-    "change": "+0.89%"
+    "value": "25,067.80",
+    "change": "-0.19%"
   },
   "stocks": [
     {
-      "ticker": "AAPL",
-      "company": "Apple Inc.",
-      "reason": "Fiscal Q2 2026 earnings and revenue beat; better-than-expected Q3 revenue outlook; stock rose 3%+ powering S&P 500 and Nasdaq to new record closes",
-      "category": "earnings",
+      "ticker": "EBAY",
+      "company": "eBay Inc.",
+      "reason": "Shares surged ~10% after GameStop submitted a non-binding proposal to acquire eBay at $125/share ($56B total), a 46% premium to its unaffected price; eBay board acknowledged receipt.",
+      "category": "news",
       "sources": [
         "CNBC",
-        "Motley Fool",
-        "TheStreet",
-        "Yahoo Finance"
+        "Bloomberg",
+        "Yahoo Finance",
+        "CNN Business"
       ]
     },
     {
-      "ticker": "CAT",
-      "company": "Caterpillar Inc.",
-      "reason": "Q1 2026 earnings beat with EPS of $5.54 vs $4.63 expected, revenue $17.4B vs $16.49B est; record $62.7B backlog; AI data center power demand driving double-digit stock surge; BofA and Bernstein raise price targets",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Investing.com",
-        "Motley Fool"
-      ]
-    },
-    {
-      "ticker": "TWLO",
-      "company": "Twilio Inc.",
-      "reason": "Q1 2026 beat with EPS $1.50 vs $1.14 prior year, revenue up 20% YoY to $1.41B; raised full-year guidance 14-15% revenue growth; AI voice demand cited; stock surged 20%+ premarket",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "SiliconANGLE",
-        "24/7 Wall St.",
-        "Seeking Alpha"
-      ]
-    },
-    {
-      "ticker": "TEAM",
-      "company": "Atlassian Corporation",
-      "reason": "FQ3 2026 beat with EPS $1.75 vs $0.97 prior year, revenue up 32% YoY to $1.79B; cloud and data center growth on AI adoption; stock jumped 25% premarket",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Motley Fool",
-        "SiliconANGLE"
-      ]
-    },
-    {
-      "ticker": "RDDT",
-      "company": "Reddit Inc.",
-      "reason": "Q1 2026 beat with revenue up 69% YoY to $663M (vs $609M est) and EPS $1.01 (vs $0.56 est); CEO highlighted AI data licensing advantage; stock jumped 15-16% premarket",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "TipRanks",
-        "Seeking Alpha"
-      ]
-    },
-    {
-      "ticker": "RBLX",
-      "company": "Roblox Corporation",
-      "reason": "Slashed full-year 2026 bookings guidance to $5.87B-$6.14B from $6.02B-$6.29B; child-protection safeguards impacting user numbers; stock tumbled 17-24% premarket; BofA downgraded to neutral from buy",
-      "category": "earnings",
+      "ticker": "GME",
+      "company": "GameStop Corp.",
+      "reason": "Stock fell ~8.5% as markets questioned the $56B bid for eBay; Ryan Cohen held combative CNBC interview about financing the deal half-cash, half-stock via $20B TD Bank letter and $9.4B cash pile.",
+      "category": "news",
       "sources": [
         "CNBC",
         "Bloomberg",
@@ -84,65 +40,136 @@
       ]
     },
     {
-      "ticker": "ROKU",
-      "company": "Roku Inc.",
-      "reason": "Q1 2026 revenue of $1.25B beat expected $1.20B; raised guidance; stock rose 7-9% on the results",
+      "ticker": "PLTR",
+      "company": "Palantir Technologies",
+      "reason": "Reported Q1 2026 after hours: revenue +85% YoY to $1.63B (beat $1.54B est), U.S. revenue +104%, EPS $0.33 vs $0.28 est; raised FY2026 guidance to $7.65-7.66B (71% growth), crushing consensus of $7.27B.",
       "category": "earnings",
       "sources": [
         "CNBC",
+        "Yahoo Finance",
+        "Seeking Alpha"
+      ]
+    },
+    {
+      "ticker": "PINS",
+      "company": "Pinterest Inc.",
+      "reason": "Jumped ~15% after hours on Q2 revenue guidance of $1.13-1.15B, topping analyst consensus of $1.11B; Q1 earnings beat expectations on both top and bottom lines.",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Seeking Alpha"
+      ]
+    },
+    {
+      "ticker": "CRCL",
+      "company": "Circle Internet Group",
+      "reason": "Surged ~16% as Senate reached bipartisan agreement on the CLARITY Act crypto market structure bill, with Coinbase and Circle immediately backing the stablecoin yield compromise; Polymarket odds of passage jumped from 46% to 64%.",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "CoinDesk",
         "Yahoo Finance"
       ]
     },
     {
-      "ticker": "FIVN",
-      "company": "Five9 Inc.",
-      "reason": "Q1 2026 EPS of $0.76 beat $0.69 estimate; revenue of $305M topped expectations; raised full-year outlook; stock soared ~30% in morning session on AI contact-center demand",
-      "category": "earnings",
+      "ticker": "COIN",
+      "company": "Coinbase Global",
+      "reason": "Rose ~7% on the bipartisan CLARITY Act stablecoin compromise; CEO Brian Armstrong posted \"Mark it up\" \u2014 Coinbase has been the leading industry advocate for the legislation.",
+      "category": "news",
       "sources": [
-        "Yahoo Finance",
         "CNBC",
-        "Motley Fool"
+        "CoinDesk"
       ]
     },
     {
-      "ticker": "MRNA",
-      "company": "Moderna Inc.",
-      "reason": "Q1 2026 revenue of $400M beat estimates by 54%; EU approved mCOMBRIAX (world's first flu+COVID combo vaccine); reiterated full-year guidance; stock up ~8% premarket despite $1.3B net loss from litigation settlement",
+      "ticker": "AMD",
+      "company": "Advanced Micro Devices",
+      "reason": "Fell ~5% after HSBC downgraded from Buy to Hold (price target $340), warning the stock's 77% rally since early April has fully priced in upside ahead of Q1 earnings; foundry capacity constraints seen limiting server segment growth.",
+      "category": "downgrade",
+      "sources": [
+        "CNBC",
+        "Invezz",
+        "GuruFocus",
+        "24/7 Wall St."
+      ]
+    },
+    {
+      "ticker": "FDX",
+      "company": "FedEx Corp.",
+      "reason": "Fell ~9% as Amazon unveiled Amazon Supply Chain Services \u2014 a bundled logistics stack (freight, fulfillment, last-mile) now open to all third-party businesses, threatening FedEx's core business model.",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Seeking Alpha",
+        "24/7 Wall St."
+      ]
+    },
+    {
+      "ticker": "UPS",
+      "company": "United Parcel Service",
+      "reason": "Dropped ~10% alongside FedEx on Amazon Supply Chain Services launch; CEO Carol Tom\u00e9 noted Q1 U.S. domestic daily volumes already fell 8% from the ongoing Amazon glide-down, compounding investor concern.",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Seeking Alpha",
+        "24/7 Wall St."
+      ]
+    },
+    {
+      "ticker": "NCLH",
+      "company": "Norwegian Cruise Line Holdings",
+      "reason": "Fell ~6.5% after mixed Q1 report: EPS beat (+121% to $0.23) but full-year adjusted EPS guidance slashed to $1.45-$1.79 from prior range, citing Middle East conflict disruptions, higher fuel costs, and softer European bookings.",
       "category": "earnings",
       "sources": [
-        "Yahoo Finance",
-        "Seeking Alpha",
+        "CNBC",
+        "Bloomberg",
+        "Benzinga",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "BRK.B",
+      "company": "Berkshire Hathaway",
+      "reason": "Stock gained modestly after Q1 2026 results: operating profit +18% to $11.34B under new CEO Greg Abel (first quarter without Buffett); cash pile rose to a record $397.4B, slightly missing operating earnings consensus of $11.56B.",
+      "category": "earnings",
+      "sources": [
+        "CNN Business",
+        "Bloomberg",
+        "Fortune",
         "Investing.com"
       ]
     },
     {
-      "ticker": "VEEV",
-      "company": "Veeva Systems Inc.",
-      "reason": "S&P 500 inclusion announced, joining the index effective May 7, 2026; stock popped 11% on the news",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "CLX",
-      "company": "Clorox Company",
-      "reason": "Cut full-year profit outlook citing consumer selectivity amid higher gas prices and spending pressure; stock tumbled 9%",
+      "ticker": "TSN",
+      "company": "Tyson Foods",
+      "reason": "Rose ~3% on fiscal Q2 beat: EPS $0.87 vs $0.78 est; raised annual adjusted operating income guidance by $100M to $2.2-2.4B range; Chicken segment margin hit 11.8% and company reduced gross debt nearly $1B over past year.",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "Yahoo Finance"
+        "GlobeNewswire",
+        "Benzinga"
       ]
     },
     {
-      "ticker": "SHOP",
-      "company": "Shopify Inc.",
-      "reason": "Stock advanced 4.04% on continued momentum heading into its own earnings report; strong sector sentiment from broader e-commerce and software beats",
-      "category": "sector",
+      "ticker": "VRTX",
+      "company": "Vertex Pharmaceuticals",
+      "reason": "Reported Q1 revenue of $2.99B (+8% YoY, slightly below $3.03B est) but EPS beat at $4.47 vs $4.31 est; announced positive Phase 3 interim data from RAINIER study in IgA nephropathy, describing povetacicept as \"best-in-class potential.\"",
+      "category": "earnings",
       "sources": [
-        "TradingKey",
-        "Yahoo Finance"
+        "Investing.com",
+        "MarketBeat",
+        "Benzinga"
+      ]
+    },
+    {
+      "ticker": "ON",
+      "company": "ON Semiconductor (onsemi)",
+      "reason": "Reported Q1 EPS of $0.64 (beat $0.62 est) on revenue of $1.51B; AI data center revenue more than doubled YoY; stock traded mixed as revenue slightly missed; Q2 guidance of $1.535-1.635B with expanding gross margins signaled recovery.",
+      "category": "earnings",
+      "sources": [
+        "Investing.com",
+        "Benzinga",
+        "Seeking Alpha"
       ]
     }
   ]
