@@ -1,372 +1,449 @@
 # DAILY STOCK SENTIMENT REPORT
 
-**DATE:** 2026-05-01
-**TOTAL STOCKS TRACKED:** 12
-**MARKET TONE:** Bullish
-**KEY THEMES:** AI-driven enterprise software earnings beats (Twilio, Atlassian, Five9), Apple anchors tech rally with Q2 earnings beat, S&P 500 and Nasdaq hit fresh all-time highs, Consumer spending caution weighs on select names (Clorox cuts guidance, Roblox slashes outlook)
+**DATE:** 2026-05-04
+**TOTAL STOCKS TRACKED:** 14
+**MARKET TONE:** Mixed
+**KEY THEMES:** Middle East escalation (UAE intercepts Iranian missiles) lifts oil, weighs on travel and broad equities, Senate CLARITY Act bipartisan agreement ignites crypto rally — Coinbase, Circle surge, GameStop launches surprise $56B unsolicited bid for eBay; Amazon Supply Chain Services disrupts FedEx and UPS, Heavy earnings week: Palantir crushes Q1 with 85% revenue growth; Pinterest and Tyson also beat
 
-**S&P 500:** 7,230.12 (+0.29%) • **NASDAQ:** 25,114.44 (+0.89%)
+**S&P 500:** 7,200.75 (-0.41%) • **NASDAQ:** 25,067.80 (-0.19%)
 
 ---
 
-## APPLE INC. (AAPL) ⭐
+## EBAY INC. (EBAY)
 
-**Discussion Driver:** Apple reported fiscal Q2 2026 earnings and revenue above expectations, with Q3 guidance also beating estimates and the stock rising 3%+ to help power the S&P 500 and Nasdaq to fresh all-time highs. Services revenue and Apple Intelligence AI features are fueling optimism, though at a 34x trailing PE the stock is trading 40% above its historical valuation average.
+**Discussion Driver:** GameStop submitted an unsolicited $56B bid to acquire eBay at $125/share (a 46% premium to its unaffected price), sending shares up ~10% on the day. CEO Ryan Cohen outlined a half-cash, half-GME-stock financing structure backed by a $20B TD Bank commitment letter, but the stock trading well below the $125 offer price signals deep market skepticism the deal closes.
 
 **Bull Case:**
-- Services revenue continues compounding at a high-margin rate, reducing Apple's dependence on iPhone hardware cycles and providing durable recurring income as the installed base exceeds 2 billion active devices.
-- Apple Intelligence features are catalyzing an iPhone upgrade cycle, with tight ecosystem lock-in and best-in-class privacy positioning giving Apple a differentiated AI story versus cloud-first competitors.
+- The $125/share GameStop offer provides a hard floor and potential 15%+ upside from current levels if the deal progresses, while eBay's Q1 2026 earnings also beat expectations with strong guidance validating the underlying business strength.
+- eBay has been executing a steady turnaround with AI-powered seller tools, improved buyer experience, and disciplined cost management — metrics that make it an attractive acquisition target beyond just the speculative GameStop bid.
 
 **Bear Case:**
-- At a 34x trailing PE — 40% above Apple's historical average — the stock carries elevated valuation risk; any guidance miss or macro-driven consumer pullback could result in sharp multiple compression.
-- China market share erosion from Huawei and domestic Android rivals remains an ongoing headwind, with regulatory pressures adding uncertainty to Apple's second-largest revenue geography.
+- GameStop's deal financing is highly speculative: the $20B TD Bank commitment letter and ~$9.4B cash pile are untested at this scale, and the wide deal spread (~$16 below the $125 offer) implies a low probability of successful deal completion.
+- Even if the bid fails, eBay faces structural competitive headwinds from Amazon, Shopify, and TikTok Shop eating into its marketplace market share, limiting organic upside from current elevated levels.
 
 **Recommendation:** Hold
 
 **Metrics:**
 | Metric | Value |
 |--------|-------| 
-| Current Price | $270.17 |
-| Price Target | $300.00 (+11.0%) |
-| P/E Ratio | 34.11 |
-| RSI | 64.18 |
-| vs 52-Wk High | -6.4% below high ($288.62) |
-| Analyst Rating | Buy |
-| Sector | Technology - Consumer Electronics |
+| Current Price | $108.72 |
+| Price Target | $103.63 (-4.7%) |
+| P/E Ratio | 24.03 |
+| RSI | 61.95 |
+| vs 52-Wk High | +1.3% above prior 52wk high ($107.34) |
+| Analyst Rating | Hold |
+| Sector | Consumer Discretionary - E-Commerce |
 
-**Sources:** Yahoo Finance, MarketBeat, TipRanks, StockAnalysis, FullRatio
+**Sources:** CNBC, Bloomberg, NBC News, MarketBeat, Investing.com, MacroTrends
 
 ---
 
-## CATERPILLAR INC. (CAT) ⭐
+## GAMESTOP CORP. (GME)
 
-**Discussion Driver:** Caterpillar blew past Q1 2026 estimates with EPS of $5.54 vs $4.63 expected and revenue of $17.4B vs $16.49B est, driven by surging demand for power generation equipment tied to AI data center construction. A record $62.7B backlog and raised full-year guidance triggered a double-digit stock surge to new 52-week highs, and Morgan Stanley doubled its price target to $915 with an upgrade to Equal-Weight. The key debate is whether AI infrastructure capex is a durable multi-year tailwind or a front-loaded cycle.
+**Discussion Driver:** GameStop launched a surprise $56B unsolicited bid for eBay, seeking to pivot from a declining brick-and-mortar retailer into a major e-commerce platform. CEO Ryan Cohen's combative CNBC interview — deflecting questions about deal financing and saying 'the details are on our website' — spooked investors, and the stock fell ~8.5% as markets questioned the viability of a deal four times GameStop's own size.
 
 **Bull Case:**
-- AI data center buildout is creating unprecedented demand for Caterpillar's power and energy segment, and the record $62.7B backlog provides clear revenue visibility well into 2027, making near-term guidance cuts unlikely.
-- Reshoring of U.S. manufacturing and government infrastructure spending create durable demand in the construction segment, with Q1 construction revenue up 38% YoY demonstrating the growth story extends beyond data centers.
+- If the eBay acquisition closes, GameStop would transform into a $50B+ e-commerce operator overnight, potentially commanding a revenue multiple far above its current retail valuation and justifying a significant stock re-rating.
+- GameStop holds ~$9.4B in cash and $368M in Bitcoin — even if the eBay deal collapses entirely, the balance sheet depth (~$3.20/share in cash alone) provides meaningful downside support beyond its brick-and-mortar operations.
 
 **Bear Case:**
-- At a 44x trailing PE — a historically elevated multiple for a cyclical industrial company — CAT leaves little room for disappointment; any softening in AI capex commitments or global construction slowdown could trigger significant multiple compression.
-- The stock has surged ~191% over the past year and now trades above the old consensus price target, meaning upside is limited unless AI infrastructure investment sustains at current intensity for several more years.
+- The eBay bid requires issuing massive dilutive GME stock as half the consideration and depends on unproven bank commitments at this scale — the deal math is deeply questionable, as evidenced by the ~8.5% stock sell-off on announcement.
+- Only one Wall Street analyst covers GME, with a Sell rating and $13.50 price target, implying the stock at ~$26.53 is nearly double fundamental value and is sustained primarily by meme-driven speculation and deal excitement.
 
-**Recommendation:** Hold
+**Recommendation:** Sell
 
 **Metrics:**
 | Metric | Value |
 |--------|-------| 
-| Current Price | $884.00 |
-| Price Target | $915.00 (+3.5%) |
-| P/E Ratio | 44.45 |
-| RSI | 71.08 |
-| vs 52-Wk High | +4.6% above prior high ($845.27) — new 52-week high |
-| Analyst Rating | Buy |
-| Sector | Industrials - Construction & Mining Equipment |
+| Current Price | $26.53 |
+| Price Target | $13.50 (-49.1%) |
+| P/E Ratio | 35.37 |
+| RSI | 65.2 |
+| vs 52-Wk High | -25.9% below high ($35.80) |
+| Analyst Rating | Sell |
+| Sector | Consumer Discretionary - Specialty Retail |
 
-**Sources:** CNBC, 247WallSt, GuruFocus, Investing.com, MarketBeat
-
----
-
-## TWILIO INC. (TWLO)
-
-**Discussion Driver:** Twilio posted its fastest revenue growth in more than three years in Q1 2026 (+20% YoY to $1.41B), with AI voice and messaging demand cited as the key driver, and management raised full-year guidance to 14-15% revenue growth. The stock surged ~19% to a new 52-week high of $178.22, with at least six Wall Street firms raising price targets to the $192-$225 range. The core question is whether the trailing PE of ~715x can be rationalized by a forward PE of ~27x and accelerating AI-driven usage.
-
-**Bull Case:**
-- AI-powered communications APIs are seeing accelerating enterprise adoption as companies embed AI voice agents and intelligent messaging into their products, creating high-retention usage-based revenue that grows with customers' own AI deployments.
-- Raised full-year guidance to 14-15% revenue growth and a manageable ~27x forward PE suggest Twilio is transitioning from a growth-at-any-cost story to a profitable, AI-native communications platform.
-
-**Bear Case:**
-- The trailing PE of ~715x reflects near-zero GAAP profits; any slowdown in AI adoption rates or pricing pressure from AWS Connect, Google CCAI, or Microsoft Azure Communication Services could rapidly erode the growth premium.
-- Competition from hyperscalers offering integrated communications-as-a-service within their broader cloud bundles continues to threaten Twilio's independent positioning and pricing power in the enterprise segment.
-
-**Recommendation:** Buy
-
-**Metrics:**
-| Metric | Value |
-|--------|-------| 
-| Current Price | $176.48 |
-| Price Target | $200.00 (+13.3%) |
-| P/E Ratio | 714.92 |
-| RSI | 56.28 |
-| vs 52-Wk High | At new 52-week high ($178.22) |
-| Analyst Rating | Buy |
-| Sector | Technology - Communications Software |
-
-**Sources:** Benzinga, 247WallSt, eToro, Investing.com, MarketBeat
+**Sources:** CNBC, Bloomberg, Yahoo Finance, GuruFocus, MarketBeat, Cryptonomist
 
 ---
 
-## ATLASSIAN CORPORATION (TEAM)
+## PALANTIR TECHNOLOGIES (PLTR) ⭐
 
-**Discussion Driver:** Atlassian delivered a massive fiscal Q3 2026 beat — EPS of $1.75 vs $0.97 prior year and revenue up 32% YoY to $1.79B vs $1.57B expected — as cloud migration and AI-enhanced enterprise tools drove broad-based acceleration. The stock surged ~25% on the results, though it remains 63% below its 52-week high after a brutal SaaS selloff earlier in 2026. The earnings have prompted a fundamental reassessment of whether the selloff was overextended or structural AI disruption risks are still underpriced.
-
-**Bull Case:**
-- Cloud migration to Atlassian's platform is re-accelerating with AI-enhanced Jira and Confluence features expanding deal sizes and reducing customer churn, with 32% YoY revenue growth significantly above the $1.57B consensus estimate.
-- At 63% below its 52-week high despite improving fundamentals, TEAM offers significant mean-reversion upside as analysts revise price targets higher post-earnings; the consensus target of $152 implies ~78% upside from current levels.
-
-**Bear Case:**
-- BTIG cut its price target to $110 pre-earnings citing concerns that AI-native project management and coding tools could disintermediate Atlassian's legacy workflow tools — a structural risk that one strong quarter does not fully resolve.
-- Despite the 25% earnings-day pop, the stock remains at a fraction of its 52-week high, suggesting the market is still cautious about whether 32% revenue growth is sustainable or a one-quarter upside surprise in a tough SaaS environment.
-
-**Recommendation:** Buy
-
-**Metrics:**
-| Metric | Value |
-|--------|-------| 
-| Current Price | $85.52 |
-| Price Target | $152.22 (+78.0%) |
-| P/E Ratio | N/A |
-| RSI | N/A |
-| vs 52-Wk High | -63.2% below high ($232.36) |
-| Analyst Rating | Buy |
-| Sector | Technology - Enterprise Software |
-
-**Sources:** CNBC, Investing.com, StocksToTrade, 247WallSt, StockAnalysis
-
----
-
-## REDDIT INC. (RDDT) ⭐
-
-**Discussion Driver:** Reddit reported Q1 2026 revenue surging 69% YoY to $663M — well above the $609M estimate — with advertising revenue up 74% and GAAP EPS of $1.01 crushing the $0.56 consensus. Domestic daily active visitors rose 153% YoY to 126.8M, and the CEO highlighted Reddit's AI data licensing business as a structural competitive advantage. Shares jumped 13-16% on the session, though the stock is still 40% below its 52-week high of $282.95.
+**Discussion Driver:** Palantir reported Q1 2026 earnings after the market close with revenue of $1.63B (+85% YoY) crushing the $1.54B consensus, EPS of $0.33 beating $0.28 expected, and raised FY2026 guidance to $7.65-7.66B (71% growth), well above the $7.27B consensus. The stock was at $145.50 during the regular session and jumped to ~$152 in after-hours trading on the blowout results.
 
 **Bull Case:**
-- Reddit's AI data licensing model is a unique and growing revenue stream, as AI labs continue to pay premium prices for access to authentic, high-quality human conversational data that cannot be replicated by synthetic generation.
-- A 153% YoY surge in domestic daily active visitors demonstrates Reddit's content strategy is working at scale, providing an expanding user base to monetize through advertising as AI-powered content discovery tools improve engagement.
+- U.S. revenue grew 104% YoY and U.S. commercial revenue accelerated sharply — Palantir is at a clear AI-driven inflection point where both government and enterprise customers are rapidly scaling AIP platform deployments.
+- Raised FY2026 guidance of $7.65B implies 71% full-year growth, significantly exceeding prior consensus, suggesting management has strong pipeline visibility and that revenue acceleration may persist longer than the market expected.
 
 **Bear Case:**
-- Regulatory scrutiny around data licensing practices and potential child-safety oversight — similar to headwinds hitting Roblox — could introduce compliance costs or licensing restrictions that limit Reddit's AI data revenue growth.
-- At ~67x adjusted trailing PE after the May 1 rally and still 40% below its 52-week high, the stock faces ongoing skepticism about whether Reddit's advertising and data licensing growth rates are durable or tied to a temporary AI-spending wave.
-
-**Recommendation:** Buy
-
-**Metrics:**
-| Metric | Value |
-|--------|-------| 
-| Current Price | $169.35 |
-| Price Target | $224.67 (+32.7%) |
-| P/E Ratio | 59.12 |
-| RSI | 58.28 |
-| vs 52-Wk High | -40.1% below high ($282.95) |
-| Analyst Rating | Strong Buy |
-| Sector | Technology - Interactive Media & Services |
-
-**Sources:** TipRanks, GuruFocus, TradingKey, StocksToTrade, MarketBeat
-
----
-
-## ROBLOX CORPORATION (RBLX) ⭐
-
-**Discussion Driver:** Roblox slashed its full-year 2026 bookings guidance after mandatory age-verification implemented in January 2026 caused daily active users and platform engagement to plummet; the stock tumbled 17-24% in the morning session as BofA downgraded to Neutral and cut its price target from $165 to $48, with BTIG, Raymond James, and Goldman Sachs following with additional downgrades or significant target cuts.
-
-**Bull Case:**
-- Free cash flow reached $596M in Q1 2026, up 40% YoY, demonstrating strong underlying financial health even as the platform absorbs short-term safety-driven costs — not the profile of a company unraveling.
-- Users 18+ now account for more than 45% of DAUs and monetize at roughly 40% more than younger users, and management expects DAU stabilization and growth resumption by Q3 2026 as age-verification friction normalizes.
-
-**Bear Case:**
-- The guidance cut was severe — full-year bookings midpoint fell roughly $900M below analyst consensus — raising legitimate concerns that age-verification and algorithm changes are inflicting structural damage on engagement, not merely temporary friction.
-- Multiple Wall Street firms downgraded simultaneously, with BofA slashing its target from $165 to $48; the stock hit a new 52-week low near $41.35, reflecting deepening doubt about whether the Roblox growth story can recover.
-
-**Recommendation:** Hold
-
-**Metrics:**
-| Metric | Value |
-|--------|-------| 
-| Current Price | $41.50 |
-| Price Target | $76.01 (+83.2%) |
-| P/E Ratio | N/A (negative earnings) |
-| RSI | N/A |
-| vs 52-Wk High | -72.4% below high ($150.59) |
-| Analyst Rating | Buy |
-| Sector | Technology - Interactive Entertainment |
-
-**Sources:** 24/7 Wall St., Motley Fool, Investing.com, Sherwood News, CNBC, TradingKey, MarketBeat
-
----
-
-## ROKU INC. (ROKU) ⭐
-
-**Discussion Driver:** Roku delivered a Q1 2026 double beat — revenue of $1.25B (+22% YoY) vs. $1.20B estimate and GAAP EPS of $0.57 vs. $0.35 consensus — and raised full-year revenue guidance to $5.535B; at least five Wall Street firms lifted price targets into the $140-$160 range, sending shares to a new 52-week high.
-
-**Bull Case:**
-- Q1 2026 marked Roku's return to GAAP profitability with net income of $85.7M — well above prior guidance of $50M — combined with 22% revenue growth, validating the connected TV advertising platform's monetization flywheel.
-- Management raised full-year 2026 adjusted EBITDA guidance to $675M and revenue to $5.535B, and broad Wall Street price-target raises signal renewed institutional confidence in Roku's dominant position in the streaming OS and CTV ad market.
-
-**Bear Case:**
-- The trailing P/E of 194.85 prices in substantial future growth, leaving little margin for error if the ad market softens or streaming platform competition from Amazon Fire TV, Google TV, and Apple TV intensifies.
-- Roku's revenue is heavily dependent on advertising, which is cyclically sensitive; any macro deterioration or shift in ad-spend away from CTV could rapidly compress growth and margins.
-
-**Recommendation:** Buy
-
-**Metrics:**
-| Metric | Value |
-|--------|-------| 
-| Current Price | $123.58 |
-| Price Target | $138.00 (+11.7%) |
-| P/E Ratio | 194.85 |
-| RSI | 63.37 |
-| vs 52-Wk High | At 52-week high ($123.58) |
-| Analyst Rating | Strong Buy |
-| Sector | Technology - Streaming Platforms |
-
-**Sources:** Investing.com, Benzinga, Motley Fool, 24/7 Wall St., Variety, Yahoo Finance, StockAnalysis
-
----
-
-## FIVE9 INC. (FIVN)
-
-**Discussion Driver:** Five9 reported Q1 2026 EPS of $0.76 beating the $0.69 estimate and revenue of $305M topping expectations, then raised its full-year revenue guidance to $1.266B midpoint; shares surged ~23% in the morning session on strong AI contact-center demand, with Needham maintaining a $40 Buy target and Barclays raising its target from $22 to $25.
-
-**Bull Case:**
-- Five9 raised full-year 2026 revenue guidance to $1.266B and EPS guidance to $3.26, and plans to complete a $150M share buyback by end of Q3 — signaling management confidence in the company's financial trajectory.
-- AI-driven demand for cloud contact-center solutions is accelerating Five9's enterprise pipeline; Needham's $40 price target implies roughly 85% upside from current levels, reflecting conviction in the company's AI-native platform.
-
-**Bear Case:**
-- Despite the post-earnings surge, shares remain nearly 27% below their 52-week high, and revenue growth of 9.2% YoY is modest relative to AI-era software peers, suggesting Five9 has not yet fully capitalized on the AI contact-center opportunity.
-- Larger cloud players including Salesforce, Microsoft, and AWS are investing heavily in AI contact-center capabilities, threatening to commoditize the market and crowd out pure-play vendors like Five9 over the medium term.
+- At a trailing P/E of 227x, Palantir is priced for near-perfection — any macro deterioration, federal budget cuts to government contracts, or a single guidance miss could trigger a severe valuation de-rating given the extreme multiple.
+- Despite the strong Q1 beat, the stock remains ~30% below its 52-week high of $207.52, reflecting that even prior bulls have taken profits, and international revenue continues to lag the explosive U.S. growth numbers.
 
 **Recommendation:** Speculative Buy
 
 **Metrics:**
 | Metric | Value |
 |--------|-------| 
-| Current Price | $21.60 |
-| Price Target | $32.13 (+48.8%) |
-| P/E Ratio | 46.59 |
-| RSI | N/A |
-| vs 52-Wk High | -26.9% below high ($29.56) |
+| Current Price | $145.50 |
+| Price Target | $194.77 (+33.9%) |
+| P/E Ratio | 227.67 |
+| RSI | 55.0 |
+| vs 52-Wk High | -29.9% below high ($207.52) |
 | Analyst Rating | Buy |
-| Sector | Technology - Cloud Communications / Contact Center |
+| Sector | Technology - AI/Software |
 
-**Sources:** Yahoo Finance, Motley Fool, GuruFocus, Daily Political, Seeking Alpha, MarketBeat, TickerReport
+**Sources:** CNBC, Yahoo Finance, MarketBeat, Wedbush, Capital.com, 24/7 Wall St., Motley Fool
 
 ---
 
-## MODERNA INC. (MRNA)
+## PINTEREST INC. (PINS)
 
-**Discussion Driver:** Moderna's Q1 2026 revenue of $400M beat estimates by 54%, driven by strong international COVID vaccine sales accounting for 80% of revenue, and the EU approved mCOMBRIAX — the world's first flu+COVID combo mRNA vaccine for adults 50+; however, a $1.3B GAAP net loss (including an $878M litigation settlement) and an analyst consensus price target below the current stock price kept shares down ~2.4% on the day.
+**Discussion Driver:** Pinterest surged ~15% after hours following a strong Q1 2026 beat: EPS of $0.27 vs $0.23 expected, revenue of $1.01B vs $966M expected (+18% YoY), and Q2 guidance of $1.13-1.15B topping analyst consensus of $1.11B. Record global monthly active users of 631M (+11% YoY) and a ~$2B share repurchase announcement added to bullish momentum, despite the stock trading nearly 49% below its 52-week high entering the print.
 
 **Bull Case:**
-- EU approval of mCOMBRIAX across all 27 EU member states plus Iceland, Liechtenstein, and Norway opens a large recurring market as the world's first flu+COVID combo vaccine — positioning Moderna as the first mover in next-generation combination vaccines.
-- Q1 2026 revenue of $400M beat estimates by 54% and the company reaffirmed full-year guidance with up to 10% growth, suggesting international demand is proving more durable than feared and the worst of the COVID vaccine revenue cliff may be behind Moderna.
+- AI-powered advertising tools are driving meaningful revenue per user improvements — Q1 ARPU of $1.61 beat estimates of $1.54, and the Q2 revenue guidance implies continued monetization acceleration as the ad platform matures.
+- The ~$2B share repurchase program signals management confidence in the stock's intrinsic value at depressed levels, providing a structural buyer and potential catalyst for multiple expansion.
 
 **Bear Case:**
-- Moderna remains deeply unprofitable — Q1 GAAP net loss was $1.3B ($3.40/share) — and the analyst consensus price target of $38.40 sits below the current stock price, implying downside risk from current levels.
-- US regulatory and political headwinds, including reduced government vaccine purchasing and uncertainty around the FDA's posture on combination vaccines, create significant domestic commercial risk for Moderna's pipeline.
+- Pinterest trades nearly 49% below its 52-week high of $39.93 and faces a securities fraud class action lawsuit with a May 29, 2026 filing deadline, creating meaningful headline risk and legal uncertainty that may continue to overhang the stock.
+- Pinterest's ARPU of $1.61 remains far below Meta and Snap despite years of monetization investment, and sustaining 15-18% revenue growth will require ARPU to keep expanding at a pace not yet proven at scale.
+
+**Recommendation:** Buy
+
+**Metrics:**
+| Metric | Value |
+|--------|-------| 
+| Current Price | $20.43 |
+| Price Target | $26.74 (+30.9%) |
+| P/E Ratio | 32.7 |
+| RSI | 38.55 |
+| vs 52-Wk High | -48.8% below high ($39.93) |
+| Analyst Rating | Buy |
+| Sector | Technology - Social Media |
+
+**Sources:** CNBC, Benzinga, MarketBeat, Yahoo Finance, Motley Fool, TIKR
+
+---
+
+## CIRCLE INTERNET GROUP (CRCL)
+
+**Discussion Driver:** Circle's stock surged ~16% as the Senate reached a bipartisan compromise on the CLARITY Act crypto market structure bill, with Polymarket odds of passage jumping from 46% to 64%. Circle and Coinbase both backed the stablecoin yield compromise, which blocks savings-account-like interest on passive stablecoin deposits but allows rewards tied to user activity — a mixed ruling, but the overall regulatory clarity is seen as a major positive for USDC institutional adoption.
+
+**Bull Case:**
+- CLARITY Act passage would provide the regulatory clarity Circle needs to aggressively expand USDC into institutional and cross-border payment use cases, potentially unlocking a massive addressable market currently blocked by regulatory uncertainty.
+- Baird raised its price target to $138 with Outperform, and Buy consensus from 20 analysts reflects confidence in Circle's positioning as the most regulated and trusted stablecoin issuer — a compliance moat that deepens with each legislative milestone.
+
+**Bear Case:**
+- Circle remains unprofitable (negative P/E) and the CLARITY Act's yield restrictions limit a key USDC competitive advantage — if institutions cannot earn yield on passive holdings, demand may migrate to competing stablecoins operating in less restrictive jurisdictions.
+- The stock trades ~60% below its 52-week high of $298.99, and Compass Point's April Sell downgrade cited declining gross margins expected to contract in H1 2026, suggesting near-term profitability concerns are not yet fully resolved.
+
+**Recommendation:** Speculative Buy
+
+**Metrics:**
+| Metric | Value |
+|--------|-------| 
+| Current Price | $118.57 |
+| Price Target | $123.71 (+4.3%) |
+| P/E Ratio | N/A (negative earnings) |
+| RSI | 51.09 |
+| vs 52-Wk High | -60.3% below high ($298.99) |
+| Analyst Rating | Buy |
+| Sector | Financial Technology - Stablecoin/Crypto |
+
+**Sources:** CNBC, CoinDesk, TipRanks, Baird, Seeking Alpha, TradingKey, Finviz
+
+---
+
+## COINBASE GLOBAL (COIN)
+
+**Discussion Driver:** Coinbase surged ~7% on May 4 after the Senate reached a bipartisan agreement on the CLARITY Act, a landmark crypto market structure bill. The compromise preserves activity-linked stablecoin rewards while barring deposit-equivalent interest — a deal Coinbase had championed as the leading industry advocate. CEO Brian Armstrong's celebratory 'Mark it up' post underscored how central the legislation is to Coinbase's long-term product roadmap, with Polymarket odds of passage jumping from 46% to 64% on the news.
+
+**Bull Case:**
+- The CLARITY Act regulatory framework, if enacted, could dramatically accelerate institutional adoption of crypto and expand Coinbase's custody, staking, and trading product suite — creating significant new revenue streams in a newly legitimized regulatory environment.
+- Coinbase holds a $9B+ cash reserve and a dominant market position as the leading U.S. regulated crypto exchange, positioning it to capitalize disproportionately on any sustained regulatory clarity and market growth cycle.
+
+**Bear Case:**
+- COIN remains 54% below its 52-week high of $444.65, illustrating how dramatically crypto sentiment and transaction fee revenue can collapse during Bitcoin bear markets — a significant price correction would directly erode Coinbase's top line.
+- The CLARITY Act still faces full legislative hurdles; bipartisan committee agreement does not guarantee floor passage, and any delay or reversal could quickly unwind the elevated expectations baked into today's rally.
+
+**Recommendation:** Speculative Buy
+
+**Metrics:**
+| Metric | Value |
+|--------|-------| 
+| Current Price | $204.00 |
+| Price Target | $241.00 (+18.1%) |
+| P/E Ratio | 40.35 |
+| RSI | 47 |
+| vs 52-Wk High | -54.1% below high ($444.65) |
+| Analyst Rating | Buy |
+| Sector | Financial Services - Crypto Exchange |
+
+**Sources:** 24/7 Wall St., CNBC, CoinDesk, MarketBeat, GuruFocus, Yahoo Finance
+
+---
+
+## ADVANCED MICRO DEVICES (AMD) ⭐
+
+**Discussion Driver:** HSBC downgraded AMD from Buy to Hold on May 4 with a $340 price target, warning that the stock's 77% rally since early April has fully priced in near-term upside ahead of Q1 2026 earnings (due May 5). Analyst Frank Lee flagged stretched valuations (trailing P/E of 135x), limited near-term CPU upside, and persistent TSMC foundry capacity constraints as reasons the stock is unlikely to sustain further gains — triggering a 5% sell-off despite Jim Cramer defending the stock on CNBC.
+
+**Bull Case:**
+- AMD's MI300X and next-generation MI400 AI accelerators are gaining significant traction with hyperscalers, and Q1 earnings (due May 5) are expected to show explosive data center revenue growth as the company captures AI infrastructure spend from both cloud providers and enterprises.
+- AMD's EPYC server processors continue to take market share from Intel across cloud and enterprise workloads, while a recovering gaming segment provides additional revenue diversification beyond the AI chip narrative.
+
+**Bear Case:**
+- TSMC foundry capacity constraints are expected to persist through year-end 2026, limiting AMD's ability to fulfill surging AI chip orders and capping near-term revenue upside regardless of end demand strength.
+- A trailing P/E of 135x and a stock that has already rallied 77% in six weeks leaves virtually no margin for error — any earnings miss, cautious guidance, or macro risk-off event could trigger a sharp and swift de-rating.
 
 **Recommendation:** Hold
 
 **Metrics:**
 | Metric | Value |
 |--------|-------| 
-| Current Price | $44.82 |
-| Price Target | $38.40 (-14.3%) |
-| P/E Ratio | N/A (unprofitable) |
-| RSI | 45.96 |
-| vs 52-Wk High | -24.7% below high ($59.55) |
+| Current Price | $341.91 |
+| Price Target | $303.84 (-11.1%) |
+| P/E Ratio | 135.82 |
+| RSI | 71 |
+| vs 52-Wk High | -5.8% below high ($362.79) |
+| Analyst Rating | Buy |
+| Sector | Technology - Semiconductors |
+
+**Sources:** CNBC, Invezz, 24/7 Wall St., GuruFocus, Yahoo Finance, Investing.com
+
+---
+
+## FEDEX CORP. (FDX)
+
+**Discussion Driver:** Amazon launched Amazon Supply Chain Services on May 4 — a fully bundled logistics platform (freight, fulfillment, and last-mile delivery) now open to all third-party businesses — sending FedEx shares plunging 9%. The announcement signals Amazon's pivot from FedEx's single largest customer to its most direct competitor, threatening the core of FedEx's domestic parcel business model and raising fears of an accelerating structural volume 'glide-down.'
+
+**Bull Case:**
+- FedEx possesses decades of enterprise relationships, global network infrastructure, and deeply embedded customer integrations that Amazon cannot replicate quickly — its diversified international, freight, and B2B healthcare revenue reduces dependence on any single e-commerce customer.
+- FedEx's DRIVE restructuring program is targeting $4B+ in cumulative savings with significant operating margin improvement, and analysts still see 17% upside to the $419.70 consensus price target even after the 9% sell-off.
+
+**Bear Case:**
+- Amazon Supply Chain Services is a structural, not cyclical, threat: Amazon is simultaneously the largest shipping customer and a newly empowered direct competitor, potentially accelerating the volume glide-down and eroding FedEx's third-party customer relationships simultaneously.
+- The 9% single-day decline reflects the speed at which investor confidence can evaporate on structural disruption narratives — and if Amazon successfully captures third-party logistics customers, FedEx loses both Amazon volume and the incremental business intended to offset it.
+
+**Recommendation:** Hold
+
+**Metrics:**
+| Metric | Value |
+|--------|-------| 
+| Current Price | $357.54 |
+| Price Target | $419.70 (+17.4%) |
+| P/E Ratio | 20.06 |
+| RSI | 51 |
+| vs 52-Wk High | -11.5% below high ($404.03) |
+| Analyst Rating | Buy |
+| Sector | Industrials - Air Freight & Logistics |
+
+**Sources:** 24/7 Wall St., CNBC, Seeking Alpha, MarketBeat, Investing.com
+
+---
+
+## UNITED PARCEL SERVICE (UPS)
+
+**Discussion Driver:** UPS dropped ~10% on May 4 alongside FedEx as Amazon launched Amazon Supply Chain Services, opening its full logistics stack to all businesses. The sell-off compounded existing investor anxiety: CEO Carol Tomé had already disclosed an 8% YoY decline in U.S. domestic daily volumes in Q1 from the ongoing Amazon volume reduction, and the new competitive service now threatens to poach UPS's remaining third-party logistics clients at the worst possible time.
+
+**Bull Case:**
+- UPS's international operations and fast-growing B2B healthcare logistics segments provide meaningful diversification from the pressured domestic parcel market, and Q1 EPS of $1.07 beat estimates — suggesting the underlying business can weather the Amazon headwind better than the stock decline implies.
+- After the brutal 10% sell-off, UPS trades at a forward P/E of ~14.7x with 17% implied upside to the $113.15 analyst consensus target, and aggressive restructuring (12,000 job cuts, facility closures) is positioning the company to protect margins through the disruption.
+
+**Bear Case:**
+- CEO Carol Tomé's own Q1 disclosures — 8% YoY domestic volume decline from Amazon — show the volume glide-down is already well underway before Amazon Supply Chain Services launched, meaning competitive damage is now accelerating from an already weakened base.
+- Operating margin compressed to 6.2% in Q1 with $350M in transitional costs, and the emergence of Amazon as a direct competitor makes meaningful margin recovery structurally difficult without further deep restructuring that carries significant execution risk.
+
+**Recommendation:** Hold
+
+**Metrics:**
+| Metric | Value |
+|--------|-------| 
+| Current Price | $96.81 |
+| Price Target | $113.15 (+16.9%) |
+| P/E Ratio | N/A |
+| RSI | 58 |
+| vs 52-Wk High | -20.9% below high ($122.41) |
 | Analyst Rating | Hold |
+| Sector | Industrials - Air Freight & Logistics |
+
+**Sources:** CNBC, GuruFocus, 24/7 Wall St., Seeking Alpha, TradingKey, StockAnalysis
+
+---
+
+## NORWEGIAN CRUISE LINE HOLDINGS (NCLH)
+
+**Discussion Driver:** Norwegian Cruise Line reported Q1 2026 EPS of $0.23 (beating the $0.15 estimate) but slashed full-year adjusted EPS guidance to $1.45-$1.79 from a prior $2.38 — a 32% guidance cut at the midpoint — triggering a 6.5% stock decline. Management cited the escalating Middle East conflict as the primary driver, pointing to higher fuel costs, increased crew airfare and logistics expenses, and significantly softer European cruise bookings as consumers reassess international travel plans.
+
+**Bull Case:**
+- Q1 underlying operational strength was real — adjusted EBITDA rose 18% YoY to $533M and the EPS beat by $0.08 — suggesting the core cruise business remains healthy and the guidance cut reflects external geopolitical headwinds rather than a structural demand collapse.
+- At a forward P/E of ~10.6x on new guidance and trading 37% below its 52-week high with 39% implied upside to the $24.00 analyst consensus target, NCLH may already fully price in the bad news, and any Middle East de-escalation would serve as a rapid re-rating catalyst.
+
+**Bear Case:**
+- The severity of the guidance cut (midpoint of $1.62 vs prior $2.38 and analyst consensus of $2.12) signals a deteriorating demand environment for European itineraries, and the Middle East conflict shows no near-term signs of resolution — keeping fuel and logistical cost headwinds open-ended.
+- Norwegian carries heavy debt from its COVID-era fleet expansion with high fixed costs, making it disproportionately vulnerable to sustained fuel price spikes or any broader consumer spending slowdown that could further compress already-thin margins.
+
+**Recommendation:** Hold
+
+**Metrics:**
+| Metric | Value |
+|--------|-------| 
+| Current Price | $17.21 |
+| Price Target | $24.00 (+39.5%) |
+| P/E Ratio | N/A |
+| RSI | N/A |
+| vs 52-Wk High | -36.7% below high ($27.18) |
+| Analyst Rating | Buy |
+| Sector | Consumer Discretionary - Hotels, Resorts & Cruise Lines |
+
+**Sources:** Benzinga, Yahoo Finance, Seatrade-Cruise, Investing.com, MoneyCheck, StockTitan
+
+---
+
+## BERKSHIRE HATHAWAY INC. (CLASS B) (BRK.B)
+
+**Discussion Driver:** Greg Abel's first quarterly earnings report as Berkshire's CEO showed operating profit rising 18% YoY to $11.34B, while the company's cash pile swelled to a record $397.4B. Markets are watching closely whether Abel can deploy capital as effectively as Buffett, with the stock lagging the S&P 500 by roughly 10 percentage points since he took the helm on January 1, 2026.
+
+**Bull Case:**
+- A record $397.4B cash stockpile gives Abel enormous firepower to make transformational acquisitions or deploy capital during market dislocations; the insurance segment alone expanded profits ~28% YoY, underscoring the durability of Berkshire's core cash-generating operations.
+- At ~15x trailing P/E — modestly above its 10-year median of 14x — BRK.B remains attractively valued relative to its earnings power and fortress balance sheet, and any meaningful capital deployment could unlock significant shareholder value quickly.
+
+**Bear Case:**
+- Without Buffett's legendary capital-allocation instincts and personal brand, investor confidence may continue to erode; the stock has already underperformed the S&P 500 by ~10 percentage points since Abel took over, and Q1 operating earnings missed consensus by roughly $220M.
+- The near $400B cash pile increasingly looks like strategic paralysis — investors are growing impatient watching capital sit idle in T-bills while equity markets rally, and there is no clear near-term catalyst to force meaningful deployment.
+
+**Recommendation:** Hold
+
+**Metrics:**
+| Metric | Value |
+|--------|-------| 
+| Current Price | $474.38 |
+| Price Target | $523.00 (+10.3%) |
+| P/E Ratio | 15.29 |
+| RSI | 50.7 |
+| vs 52-Wk High | -9.0% below high ($521.26) |
+| Analyst Rating | Buy |
+| Sector | Financials - Diversified Conglomerate |
+
+**Sources:** CNN Business, Yahoo Finance, QZ, IndexBox, GuruFocus, MarketBeat
+
+---
+
+## TYSON FOODS INC. (TSN)
+
+**Discussion Driver:** Tyson rose ~3% after fiscal Q2 2026 earnings handily beat expectations — EPS of $0.87 vs. $0.78 estimated — and management raised full-year adjusted operating income guidance by $100M to $2.2–2.4B. Chicken segment margins hit 11.8%, the strongest in years, and the company reduced gross debt by nearly $1B over the past year, though Beef continues to drag on overall results amid tight cattle supplies.
+
+**Bull Case:**
+- Tyson's Chicken segment delivered an 11.8% operating margin alongside a Q2 EPS beat of +12% vs. consensus, and the $100M guidance raise signals that the multi-year restructuring is delivering tangible results across Chicken and Prepared Foods.
+- The company reduced gross debt by nearly $1B over the past year and continues to improve cash generation, strengthening its balance sheet and positioning management to return more capital to shareholders as the turnaround matures.
+
+**Bear Case:**
+- The Beef segment is expected to post a full-year operating loss in FY2026 due to structurally tight cattle supply cycles, creating a persistent earnings headwind that limits total upside even as Chicken and Prepared Foods outperform.
+- The elevated trailing P/E ratio (~114x) reflects a historically thin earnings base, leaving the stock highly susceptible to any commodity cost shock, demand slowdown, or operational miss — particularly with the stock trading near its 52-week high and limited upside to the average analyst target.
+
+**Recommendation:** Hold
+
+**Metrics:**
+| Metric | Value |
+|--------|-------| 
+| Current Price | $66.14 |
+| Price Target | $68.83 (+4.1%) |
+| P/E Ratio | 113.71 |
+| RSI | 46.7 |
+| vs 52-Wk High | -0.4% below high ($66.42) |
+| Analyst Rating | Hold |
+| Sector | Consumer Staples - Meat Processing |
+
+**Sources:** CNBC, Quiver Quantitative, Yahoo Finance, Benzinga, GlobeNewswire
+
+---
+
+## VERTEX PHARMACEUTICALS INC. (VRTX)
+
+**Discussion Driver:** Vertex reported Q1 2026 revenue of $2.99B (+8% YoY, slight miss vs. $3.03B est) but beat EPS at $4.47 vs. $4.31 consensus. The headline catalyst was positive Phase 3 interim data from the RAINIER trial of povetacicept in IgA nephropathy — achieving a 52% reduction in proteinuria vs. placebo and 85.1% hematuria resolution — with an accelerated FDA BLA filing underway that positions povetacicept as a potential best-in-class kidney therapy.
+
+**Bull Case:**
+- Povetacicept's RAINIER Phase 3 data is clinically compelling (52% proteinuria reduction vs. placebo; 85.1% vs. 61.7% hematuria resolution), and Vertex has submitted a rolling BLA targeting accelerated FDA approval using a Priority Review Voucher — a major pipeline catalyst that could open a multi-billion dollar kidney disease franchise well beyond the core CF business.
+- At ~27.7x trailing P/E, VRTX trades at a significant discount to biotech peers despite 8% top-line growth, an EPS beat, and one of the industry's richest rare-disease pipelines; the technical oversold condition (RSI below 30) may create an attractive entry point for long-term investors.
+
+**Bear Case:**
+- Q1 revenue missed the $3.03B consensus estimate, and the stock is deeply technically oversold (RSI below 30), reflecting bearish price momentum that could persist in the near term even as the fundamental pipeline story strengthens.
+- The IgAN program still faces substantial regulatory and clinical execution risk — any safety signal, enrollment miss, or FDA review delay for povetacicept could sharply deflate the premium investors are assigning to Vertex's kidney pipeline.
+
+**Recommendation:** Buy
+
+**Metrics:**
+| Metric | Value |
+|--------|-------| 
+| Current Price | $438.71 |
+| Price Target | $496.46 (+13.2%) |
+| P/E Ratio | 27.67 |
+| RSI | <30 (Oversold) |
+| vs 52-Wk High | -13.8% below high ($509.00) |
+| Analyst Rating | Buy |
 | Sector | Healthcare - Biotechnology |
 
-**Sources:** Yahoo Finance, BioSpace, StockTitan, Benzinga, Investing.com, Sherwood News, CIDRAP
+**Sources:** BusinessWire, Investing.com, MarketBeat, Benzinga, Yahoo Finance, GuruFocus
 
 ---
 
-## VEEVA SYSTEMS INC. (VEEV)
+## ON SEMICONDUCTOR CORP. (ONSEMI) (ON) ⭐
 
-**Discussion Driver:** Veeva Systems was announced as the next addition to the S&P 500, joining effective May 7, 2026 (replacing Coterra Energy); shares surged ~10% in premarket trading as index-tracking funds positioned to buy, while notable investor Michael Burry publicly called VEEV 'still cheap' — all this despite the stock being down 30% YTD before the announcement amid AI disruption fears.
+**Discussion Driver:** Onsemi reported Q1 2026 EPS of $0.64 (beat $0.62 est) on revenue of $1.51B, with AI data center revenue more than doubling YoY and growing 30%+ sequentially. Despite the beat and positive Q2 guidance ($1.535–1.635B revenue, expanding gross margins), the stock slid modestly post-earnings after a 90% YTD rally had already priced in much of the recovery. Investors are debating whether AI data center acceleration can offset still-sluggish automotive and industrial end markets.
 
 **Bull Case:**
-- S&P 500 inclusion effective May 7 will force hundreds of billions in index-tracking funds to purchase VEEV shares, providing a structural near-term demand catalyst and raising Veeva's institutional visibility significantly.
-- Vault CRM migration completions and emerging AI agent monetization represent a credible path to $3.6B in FY2027 revenue (well above consensus), and at ~29x earnings the stock trades 57% below its 10-year median P/E of 76x, suggesting meaningful multiple re-rating potential.
+- AI data center revenue more than doubled YoY and grew 30%+ quarter-over-quarter, and management expects the segment to double again for full-year 2026 — a powerful secular growth driver that could re-rate the stock materially as automotive and industrial headwinds fade.
+- Q2 guidance of $1.535–1.635B in revenue with expanding gross margins (38–40% non-GAAP) signals the cyclical trough is behind onsemi; B. Riley's recent upgrade to Buy with a $115 price target reflects growing conviction in the multi-year recovery thesis and disciplined cost structure.
 
 **Bear Case:**
-- VEEV was down 30% YTD in 2026 before the S&P inclusion bounce — reflecting persistent investor concern that AI-native competitors could erode Veeva's near-monopoly in life sciences cloud software — a view echoed by Citigroup's April 2026 downgrade to Neutral.
-- The stock remains 44.5% below its 52-week high, and any CRM migration delays or slower-than-expected AI agent monetization could disappoint a market that is buying the S&P inclusion narrative rather than near-term fundamental improvement.
+- A trailing P/E of 213x reflects a cyclically depressed earnings base and leaves almost no room for execution error; automotive and industrial end markets — historically onsemi's core — remain sluggish, and Barclays flagged elevated China and auto exposure at initiation.
+- Despite Q1 beats, the stock slid post-earnings, suggesting the 90% YTD rally has already priced in near-term upside; the broad analyst consensus average (~$75) remains well below the current trading price, indicating many on the street have yet to validate the AI-driven re-rating.
 
 **Recommendation:** Hold
 
 **Metrics:**
 | Metric | Value |
 |--------|-------| 
-| Current Price | $172.49 |
-| Price Target | $270.93 (+57.1%) |
-| P/E Ratio | 29.07 |
-| RSI | N/A |
-| vs 52-Wk High | -44.5% below high ($310.50) |
+| Current Price | $102.21 |
+| Price Target | $115.00 (+12.5%) |
+| P/E Ratio | 213.4 |
+| RSI | 57.52 |
+| vs 52-Wk High | -2.7% below high ($105.00) |
 | Analyst Rating | Moderate Buy |
-| Sector | Health Care - Life Sciences Software |
+| Sector | Technology - Semiconductors |
 
-**Sources:** CNBC, Benzinga, GuruFocus, Investing.com, StockTitan, S&P Global Press, TipRanks, MarketBeat
-
----
-
-## THE CLOROX COMPANY (CLX)
-
-**Discussion Driver:** Clorox stock hit a fresh 52-week low on May 1 after cutting full-year FY2026 profit guidance for the second time, now projecting a ~6% sales decline and EPS of $5.45–$5.65 (down from $5.95–$6.30), citing consumer selectivity amid higher gas prices and persistent input cost inflation. Goldman Sachs, UBS, Morgan Stanley, Wells Fargo, and Evercore all cut price targets following the Q3 FY2026 earnings report, sending shares down ~9%.
-
-**Bull Case:**
-- Clorox's brands command dominant market shares in essential household categories — 61% of U.S. bleach, 50% of charcoal, 35% of toilet care — with proven consumer loyalty; during recent supply disruptions, shoppers waited for restocks rather than switching to private-label alternatives, underscoring the durability of the brand moat.
-- The stock now trades near decade-low valuations (~14x trailing earnings) with an approximately 5% dividend yield, and management expects $75–$100M in annual ERP-driven cost savings to materialize, offering significant recovery upside if the macroeconomic consumer environment stabilizes.
-
-**Bear Case:**
-- The second guidance cut in 2026 — projecting a full-year 6% sales decline — signals deepening consumer spending caution, with CFO commentary citing persistent oil-price-driven input cost inflation and limited forward visibility.
-- Post-earnings analyst downgrades concentrated in the $83–$110 range (Goldman Sachs $83, UBS $96, Morgan Stanley $97, Wells Fargo $100, Evercore $110) leave minimal near-term upside at current prices, with Goldman's bear-case target essentially at or below the current stock price.
-
-**Recommendation:** Hold
-
-**Metrics:**
-| Metric | Value |
-|--------|-------| 
-| Current Price | $88.38 |
-| Price Target | $100.00 (+13.2%) |
-| P/E Ratio | 14.4 |
-| RSI | 40.6 |
-| vs 52-Wk High | -36.5% below high ($139.08) |
-| Analyst Rating | Hold |
-| Sector | Consumer Staples - Household Products |
-
-**Sources:** Blockonomi, Benzinga, Investing.com, FinancialContent / StockStory, WallStreetZen, InsiderMonkey / Yahoo Finance, MarketBeat
-
----
-
-## SHOPIFY INC. (SHOP)
-
-**Discussion Driver:** Shopify rose 4.04% on May 1 as traders positioned ahead of the company's Q1 2026 earnings report due May 5 before market open; management had guided for 'low-thirties percentage' Q1 revenue growth YoY, and the $2B share buyback announced in February 2026 has sustained bullish sentiment despite the stock remaining ~31% below its 52-week high of $182.19.
-
-**Bull Case:**
-- Shopify's revenue has been growing ~30% year-over-year driven by AI-powered merchant tools, expanding Shopify Capital, and international GMV gains; Q1 2026 guidance of low-thirties percentage growth, if delivered, would reinforce the platform's durable compounding growth narrative.
-- With 38 of 62 covering analysts rating SHOP a Buy and a median 12-month price target of $160 representing ~27% upside from current levels, institutional conviction remains strong; the $2B buyback authorization signals management's confidence in the stock's intrinsic value.
-
-**Bear Case:**
-- At ~132x trailing earnings, Shopify is priced for near-perfect execution — any Q1 earnings miss or cautious guidance on macro- or tariff-related GMV headwinds could trigger sharp multiple compression, particularly given the stock's already ~31% drawdown from its 52-week high.
-- Shopify Capital credit losses have surged from $58M in Q3 2024 to $148M in Q3 2025 as lending volumes expanded; a credit cycle deterioration in a slowing macro environment could compress margins significantly faster than current consensus expects.
-
-**Recommendation:** Hold
-
-**Metrics:**
-| Metric | Value |
-|--------|-------| 
-| Current Price | $126.15 |
-| Price Target | $162.46 (+28.8%) |
-| P/E Ratio | 132.2 |
-| RSI | 53.5 |
-| vs 52-Wk High | -30.8% below high ($182.19) |
-| Analyst Rating | Buy |
-| Sector | Technology - E-Commerce |
-
-**Sources:** QuiverQuant, TradingKey, MarketBeat, StockAnalysis, 24/7 Wall St., MEXC Finance Blog, GuruFocus, StockTitan
+**Sources:** Investing.com, GlobeNewswire, Benzinga, 24/7 Wall St., MarketBeat
 
 ---
 
 ## DAILY INSIGHTS
 
-- **Most Bullish Sector:** Technology - Communications Software
-- **Most Bearish Sector:** Technology - Consumer Electronics
-- **Most Mentioned Stock:** VEEV — appeared in 8 sources
-- **Sentiment Shift:** Market tone is Bullish
+- **Most Bullish Sector:** Technology - AI/Software
+- **Most Bearish Sector:** Technology - Semiconductors
+- **Most Mentioned Stock:** PLTR — appeared in 7 sources
+- **Sentiment Shift:** Market tone is Mixed
 
 ---
 
 ## REPORT ARCHIVE
+
+### 2026-05-04 | Mixed | Middle East escalation (UAE intercepts Iranian missiles) lifts oil, weighs on travel and broad equities, Senate CLARITY Act bipartisan agreement ignites crypto rally — Coinbase, Circle surge, GameStop launches surprise $56B unsolicited bid for eBay; Amazon Supply Chain Services disrupts FedEx and UPS, Heavy earnings week: Palantir crushes Q1 with 85% revenue growth; Pinterest and Tyson also beat
+
+| Stock | Rec | Price | Target | vs 52-Wk High |
+|-------|-----|-------|--------|---------------|
+| EBAY | Hold | $108.72 | $103.63 (-4.7%) | +1.3% above prior 52wk high ($107.34) |
+| GME | Sell | $26.53 | $13.50 (-49.1%) | -25.9% below high ($35.80) |
+| PLTR ⭐ | Spec. Buy | $145.50 | $194.77 (+33.9%) | -29.9% below high ($207.52) |
+| PINS | Buy | $20.43 | $26.74 (+30.9%) | -48.8% below high ($39.93) |
+| CRCL | Spec. Buy | $118.57 | $123.71 (+4.3%) | -60.3% below high ($298.99) |
+| COIN | Spec. Buy | $204.00 | $241.00 (+18.1%) | -54.1% below high ($444.65) |
+| AMD ⭐ | Hold | $341.91 | $303.84 (-11.1%) | -5.8% below high ($362.79) |
+| FDX | Hold | $357.54 | $419.70 (+17.4%) | -11.5% below high ($404.03) |
+| UPS | Hold | $96.81 | $113.15 (+16.9%) | -20.9% below high ($122.41) |
+| NCLH | Hold | $17.21 | $24.00 (+39.5%) | -36.7% below high ($27.18) |
+| BRK.B | Hold | $474.38 | $523.00 (+10.3%) | -9.0% below high ($521.26) |
+| TSN | Hold | $66.14 | $68.83 (+4.1%) | -0.4% below high ($66.42) |
+| VRTX | Buy | $438.71 | $496.46 (+13.2%) | -13.8% below high ($509.00) |
+| ON ⭐ | Hold | $102.21 | $115.00 (+12.5%) | -2.7% below high ($105.00) |
 
 ### 2026-05-01 | Bullish | AI-driven enterprise software earnings beats (Twilio, Atlassian, Five9), Apple anchors tech rally with Q2 earnings beat, S&P 500 and Nasdaq hit fresh all-time highs, Consumer spending caution weighs on select names (Clorox cuts guidance, Roblox slashes outlook)
 
