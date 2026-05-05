@@ -1,175 +1,155 @@
 {
-  "report_date": "2026-05-04",
-  "market_tone": "Mixed",
+  "report_date": "2026-05-05",
+  "market_tone": "Bullish",
   "key_themes": [
-    "Middle East escalation (UAE intercepts Iranian missiles) lifts oil, weighs on travel and broad equities",
-    "Senate CLARITY Act bipartisan agreement ignites crypto rally \u2014 Coinbase, Circle surge",
-    "GameStop launches surprise $56B unsolicited bid for eBay; Amazon Supply Chain Services disrupts FedEx and UPS",
-    "Heavy earnings week: Palantir crushes Q1 with 85% revenue growth; Pinterest and Tyson also beat"
+    "Intel-Apple chip manufacturing talks trigger massive semiconductor rally and new all-time highs",
+    "Heavy earnings season: sharp bifurcation between guidance beaters and guidance misers",
+    "AI server demand drives Supermicro and sector higher; Shopify and PayPal punished on slowing outlooks"
   ],
   "sp500": {
-    "value": "7,200.75",
-    "change": "-0.41%"
+    "value": "7,259.22",
+    "change": "+0.81%"
   },
   "nasdaq": {
-    "value": "25,067.80",
-    "change": "-0.19%"
+    "value": "25,326.13",
+    "change": "+1.03%"
   },
   "stocks": [
     {
-      "ticker": "EBAY",
-      "company": "eBay Inc.",
-      "reason": "Shares surged ~10% after GameStop submitted a non-binding proposal to acquire eBay at $125/share ($56B total), a 46% premium to its unaffected price; eBay board acknowledged receipt.",
+      "ticker": "INTC",
+      "company": "Intel Corporation",
+      "reason": "Surged 13-15% to a new all-time high after Bloomberg reported Apple is in early-stage talks with Intel and Samsung to manufacture main processors for its devices in the U.S., triggering a massive short squeeze; stock now up 175%+ YTD",
       "category": "news",
       "sources": [
         "CNBC",
         "Bloomberg",
-        "Yahoo Finance",
-        "CNN Business"
+        "Motley Fool",
+        "24/7 Wall St."
       ]
     },
     {
-      "ticker": "GME",
-      "company": "GameStop Corp.",
-      "reason": "Stock fell ~8.5% as markets questioned the $56B bid for eBay; Ryan Cohen held combative CNBC interview about financing the deal half-cash, half-stock via $20B TD Bank letter and $9.4B cash pile.",
-      "category": "news",
+      "ticker": "SMCI",
+      "company": "Super Micro Computer",
+      "reason": "Soared ~19% after hours after Q3 fiscal 2026 earnings blowout: non-GAAP EPS $0.84 beat by 34.5%; Q4 revenue guidance midpoint of $11.75B came in 7.6% above estimates, driven by surging AI server demand",
+      "category": "earnings",
       "sources": [
-        "CNBC",
+        "Seeking Alpha",
         "Bloomberg",
-        "Seeking Alpha"
+        "Yahoo Finance"
       ]
     },
     {
       "ticker": "PLTR",
       "company": "Palantir Technologies",
-      "reason": "Reported Q1 2026 after hours: revenue +85% YoY to $1.63B (beat $1.54B est), U.S. revenue +104%, EPS $0.33 vs $0.28 est; raised FY2026 guidance to $7.65-7.66B (71% growth), crushing consensus of $7.27B.",
+      "reason": "Dropped ~5% despite a blowout Q1 beat: adjusted EPS 33c vs 28c expected, revenue $1.63B vs $1.54B expected (+85% YoY); raised FY2026 revenue guidance to $7.65-7.66B, but high valuation concerns triggered sell-the-news reaction",
       "category": "earnings",
       "sources": [
         "CNBC",
+        "BNN Bloomberg",
+        "Proactive Investors"
+      ]
+    },
+    {
+      "ticker": "SHOP",
+      "company": "Shopify",
+      "reason": "Fell ~12.6% after Q1 2026 results: revenue +34% to $3.17B beat estimates, but Q2 guidance of \"high-twenties\" growth rate disappointed vs. 34% Q1 growth, and net loss of $581M ($0.45/share) missed the $0.24 EPS estimate",
+      "category": "earnings",
+      "sources": [
+        "Bloomberg",
         "Yahoo Finance",
-        "Seeking Alpha"
+        "Investing.com",
+        "Motley Fool"
       ]
     },
     {
-      "ticker": "PINS",
-      "company": "Pinterest Inc.",
-      "reason": "Jumped ~15% after hours on Q2 revenue guidance of $1.13-1.15B, topping analyst consensus of $1.11B; Q1 earnings beat expectations on both top and bottom lines.",
+      "ticker": "PYPL",
+      "company": "PayPal Holdings",
+      "reason": "Fell 10% after reporting better-than-expected Q1 2026 earnings but issuing a downbeat forward outlook for Q2, spooking investors focused on decelerating growth",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "Seeking Alpha"
+        "Bloomberg"
       ]
     },
     {
-      "ticker": "CRCL",
-      "company": "Circle Internet Group",
-      "reason": "Surged ~16% as Senate reached bipartisan agreement on the CLARITY Act crypto market structure bill, with Coinbase and Circle immediately backing the stablecoin yield compromise; Polymarket odds of passage jumped from 46% to 64%.",
-      "category": "news",
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "reason": "Surged ~10%, surpassing a $700 billion market cap, as Intel's Apple foundry news sparked broad chip sector rally and renewed enthusiasm for memory and storage stocks",
+      "category": "sector",
+      "sources": [
+        "TheStreet",
+        "24/7 Wall St."
+      ]
+    },
+    {
+      "ticker": "HII",
+      "company": "Huntington Ingalls Industries",
+      "reason": "Dropped 11% despite Q1 2026 revenue rising 13.4% YoY to $3.1B and reaffirmed FY26 guidance; investors sold on margin compression with net earnings flat at $149M and EPS of $3.79",
+      "category": "earnings",
       "sources": [
         "CNBC",
-        "CoinDesk",
+        "StockTitan"
+      ]
+    },
+    {
+      "ticker": "FI",
+      "company": "Fiserv",
+      "reason": "Tumbled 9% after Q1 2026 results: GAAP EPS $1.07 fell 29% YoY; GAAP revenue of $5.03B declined 2% YoY, well below expectations despite maintained full-year guidance",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "GlobeNewswire",
         "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "COIN",
-      "company": "Coinbase Global",
-      "reason": "Rose ~7% on the bipartisan CLARITY Act stablecoin compromise; CEO Brian Armstrong posted \"Mark it up\" \u2014 Coinbase has been the leading industry advocate for the legislation.",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "CoinDesk"
       ]
     },
     {
       "ticker": "AMD",
       "company": "Advanced Micro Devices",
-      "reason": "Fell ~5% after HSBC downgraded from Buy to Hold (price target $340), warning the stock's 77% rally since early April has fully priced in upside ahead of Q1 earnings; foundry capacity constraints seen limiting server segment growth.",
-      "category": "downgrade",
-      "sources": [
-        "CNBC",
-        "Invezz",
-        "GuruFocus",
-        "24/7 Wall St."
-      ]
-    },
-    {
-      "ticker": "FDX",
-      "company": "FedEx Corp.",
-      "reason": "Fell ~9% as Amazon unveiled Amazon Supply Chain Services \u2014 a bundled logistics stack (freight, fulfillment, last-mile) now open to all third-party businesses, threatening FedEx's core business model.",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "Seeking Alpha",
-        "24/7 Wall St."
-      ]
-    },
-    {
-      "ticker": "UPS",
-      "company": "United Parcel Service",
-      "reason": "Dropped ~10% alongside FedEx on Amazon Supply Chain Services launch; CEO Carol Tom\u00e9 noted Q1 U.S. domestic daily volumes already fell 8% from the ongoing Amazon glide-down, compounding investor concern.",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "Seeking Alpha",
-        "24/7 Wall St."
-      ]
-    },
-    {
-      "ticker": "NCLH",
-      "company": "Norwegian Cruise Line Holdings",
-      "reason": "Fell ~6.5% after mixed Q1 report: EPS beat (+121% to $0.23) but full-year adjusted EPS guidance slashed to $1.45-$1.79 from prior range, citing Middle East conflict disruptions, higher fuel costs, and softer European bookings.",
+      "reason": "Q1 2026 earnings beat: EPS $1.37 vs $1.25 expected (+9.6% surprise); rose ~2.4% during session ahead of after-hours report, also notable as HSBC downgraded to Hold on valuation before the print",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "Bloomberg",
-        "Benzinga",
+        "TipRanks",
+        "public.com"
+      ]
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk Corporation",
+      "reason": "Rose 7.80% on May 5 as part of the broad semiconductor and storage sector rally fueled by Intel's Apple chip news and renewed AI hardware demand",
+      "category": "sector",
+      "sources": [
+        "TradingKey",
+        "TheStreet"
+      ]
+    },
+    {
+      "ticker": "TER",
+      "company": "Teradyne",
+      "reason": "Climbed 7.67% on May 5, benefiting from the semiconductor equipment sector uplift as Intel's potential Apple foundry deal raised expectations for chip testing equipment demand",
+      "category": "sector",
+      "sources": [
+        "TradingKey"
+      ]
+    },
+    {
+      "ticker": "PFE",
+      "company": "Pfizer",
+      "reason": "Rose 2.2% after Q1 2026 earnings beat: EPS 75c vs 72c expected; revenue of $14.45B exceeded analyst estimates, marking a recovery quarter for the pharma giant",
+      "category": "earnings",
+      "sources": [
+        "TheStreet",
+        "Bloomberg"
+      ]
+    },
+    {
+      "ticker": "ANET",
+      "company": "Arista Networks",
+      "reason": "Reported Q1 2026 financial results on May 5, including strong networking demand tied to AI data center buildout; analysts maintain Buy consensus with strong NPS score of 89 among customers",
+      "category": "earnings",
+      "sources": [
+        "Arista.com",
         "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "BRK.B",
-      "company": "Berkshire Hathaway",
-      "reason": "Stock gained modestly after Q1 2026 results: operating profit +18% to $11.34B under new CEO Greg Abel (first quarter without Buffett); cash pile rose to a record $397.4B, slightly missing operating earnings consensus of $11.56B.",
-      "category": "earnings",
-      "sources": [
-        "CNN Business",
-        "Bloomberg",
-        "Fortune",
-        "Investing.com"
-      ]
-    },
-    {
-      "ticker": "TSN",
-      "company": "Tyson Foods",
-      "reason": "Rose ~3% on fiscal Q2 beat: EPS $0.87 vs $0.78 est; raised annual adjusted operating income guidance by $100M to $2.2-2.4B range; Chicken segment margin hit 11.8% and company reduced gross debt nearly $1B over past year.",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "GlobeNewswire",
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "VRTX",
-      "company": "Vertex Pharmaceuticals",
-      "reason": "Reported Q1 revenue of $2.99B (+8% YoY, slightly below $3.03B est) but EPS beat at $4.47 vs $4.31 est; announced positive Phase 3 interim data from RAINIER study in IgA nephropathy, describing povetacicept as \"best-in-class potential.\"",
-      "category": "earnings",
-      "sources": [
-        "Investing.com",
-        "MarketBeat",
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "ON",
-      "company": "ON Semiconductor (onsemi)",
-      "reason": "Reported Q1 EPS of $0.64 (beat $0.62 est) on revenue of $1.51B; AI data center revenue more than doubled YoY; stock traded mixed as revenue slightly missed; Q2 guidance of $1.535-1.635B with expanding gross margins signaled recovery.",
-      "category": "earnings",
-      "sources": [
-        "Investing.com",
-        "Benzinga",
-        "Seeking Alpha"
       ]
     }
   ]
