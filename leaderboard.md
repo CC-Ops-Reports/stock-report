@@ -5,45 +5,60 @@ title: Most-Tracked Stocks Leaderboard
 
 # 📊 Most-Tracked Stocks Leaderboard
 
-_Tracking **139 unique stocks** across **218 appearances**. Last updated: 2026-05-01_
+<p style="margin:0 0 1.5rem;"><a href="./" style="color:#3b82f6;text-decoration:none;font-weight:500;">← Back to Daily Report</a></p>
 
-[← Back to Daily Report](./)
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:1rem;margin:1.5rem 0;">
+<div style="background:white;border-radius:12px;padding:1.25rem;box-shadow:0 1px 3px rgba(0,0,0,0.08);border-left:4px solid #3b82f6;"><div style="color:#64748b;font-size:0.8rem;font-weight:500;text-transform:uppercase;letter-spacing:0.05em;">Unique Stocks</div><div style="color:#0f1729;font-size:2.25rem;font-weight:700;line-height:1;margin-top:0.4rem;">139</div></div>
+<div style="background:white;border-radius:12px;padding:1.25rem;box-shadow:0 1px 3px rgba(0,0,0,0.08);border-left:4px solid #10b981;"><div style="color:#64748b;font-size:0.8rem;font-weight:500;text-transform:uppercase;letter-spacing:0.05em;">Total Mentions</div><div style="color:#0f1729;font-size:2.25rem;font-weight:700;line-height:1;margin-top:0.4rem;">218</div></div>
+<div style="background:white;border-radius:12px;padding:1.25rem;box-shadow:0 1px 3px rgba(0,0,0,0.08);border-left:4px solid #f59e0b;"><div style="color:#64748b;font-size:0.8rem;font-weight:500;text-transform:uppercase;letter-spacing:0.05em;">Recurring (2+)</div><div style="color:#0f1729;font-size:2.25rem;font-weight:700;line-height:1;margin-top:0.4rem;">46</div></div>
+<div style="background:white;border-radius:12px;padding:1.25rem;box-shadow:0 1px 3px rgba(0,0,0,0.08);border-left:4px solid #94a3b8;"><div style="color:#64748b;font-size:0.8rem;font-weight:500;text-transform:uppercase;letter-spacing:0.05em;">Last Updated</div><div style="color:#0f1729;font-size:1.1rem;font-weight:600;line-height:1.2;margin-top:0.6rem;">2026-05-01</div></div>
+</div>
 
----
+## 🏆 Top 3 Most-Discussed
 
-## 🏆 Top 15 Most-Discussed Stocks
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1rem;margin:1.5rem 0;">
+<div style="background:linear-gradient(135deg,#fbbf2415 0%, white 100%);border-radius:12px;padding:1.5rem;box-shadow:0 2px 6px rgba(0,0,0,0.08);border-top:4px solid #fbbf24;text-align:center;"><div style="font-size:0.85rem;color:#64748b;font-weight:600;letter-spacing:0.05em;">🥇 1st</div><div style="font-size:2.5rem;font-weight:800;color:#0f1729;margin:0.3rem 0;letter-spacing:-0.02em;">AAPL</div><div style="font-size:1.1rem;font-weight:600;color:#fbbf24;margin-bottom:0.5rem;">5 day streak</div><div style="font-size:0.8rem;color:#94a3b8;">First seen 2026-04-20</div></div>
+<div style="background:linear-gradient(135deg,#94a3b815 0%, white 100%);border-radius:12px;padding:1.5rem;box-shadow:0 2px 6px rgba(0,0,0,0.08);border-top:4px solid #94a3b8;text-align:center;"><div style="font-size:0.85rem;color:#64748b;font-weight:600;letter-spacing:0.05em;">🥈 2nd</div><div style="font-size:2.5rem;font-weight:800;color:#0f1729;margin:0.3rem 0;letter-spacing:-0.02em;">NOW</div><div style="font-size:1.1rem;font-weight:600;color:#94a3b8;margin-bottom:0.5rem;">5 day streak</div><div style="font-size:0.8rem;color:#94a3b8;">First seen 2026-04-17</div></div>
+<div style="background:linear-gradient(135deg,#d9770615 0%, white 100%);border-radius:12px;padding:1.5rem;box-shadow:0 2px 6px rgba(0,0,0,0.08);border-top:4px solid #d97706;text-align:center;"><div style="font-size:0.85rem;color:#64748b;font-weight:600;letter-spacing:0.05em;">🥉 3rd</div><div style="font-size:2.5rem;font-weight:800;color:#0f1729;margin:0.3rem 0;letter-spacing:-0.02em;">NVDA</div><div style="font-size:1.1rem;font-weight:600;color:#d97706;margin-bottom:0.5rem;">5 day streak</div><div style="font-size:0.8rem;color:#94a3b8;">First seen 2026-04-16</div></div>
+</div>
 
-| Rank | Ticker | Appearances | First Seen | Last Seen | Streak |
-|------|--------|-------------|------------|-----------|--------|
-| 1 | **AAPL** 🔥 | 5 | 2026-04-20 | 2026-05-01 | 5 day streak |
-| 2 | **NOW** 🔥 | 5 | 2026-04-17 | 2026-04-24 | 5 day streak |
-| 3 | **NVDA** 🔥 | 5 | 2026-04-16 | 2026-04-27 | 5 day streak |
-| 4 | **AMD** 🔥 | 4 | 2026-04-24 | 2026-05-05 | 4 day streak |
-| 5 | **AMZN** 🔥 | 4 | 2026-04-17 | 2026-04-29 | 4 day streak |
-| 6 | **CAT** 🔥 | 4 | 2026-04-17 | 2026-05-01 | 4 day streak |
-| 7 | **IBM** 🔥 | 4 | 2026-04-20 | 2026-04-23 | 4 day streak |
-| 8 | **NFLX** 🔥 | 4 | 2026-04-16 | 2026-04-20 | 4 day streak |
-| 9 | **ORCL** 🔥 | 4 | 2026-04-19 | 2026-04-28 | 4 day streak |
-| 10 | **TSLA** 🔥 | 4 | 2026-04-20 | 2026-04-23 | 4 day streak |
-| 11 | **UNH** 🔥 | 4 | 2026-04-19 | 2026-04-22 | 4 day streak |
-| 12 | **BA** ⭐ | 3 | 2026-04-20 | 2026-04-22 | 3 day streak |
-| 13 | **INTC** ⭐ | 3 | 2026-04-23 | 2026-05-05 | 3 day streak |
-| 14 | **LMT** ⭐ | 3 | 2026-04-20 | 2026-04-24 | 3 day streak |
-| 15 | **META** ⭐ | 3 | 2026-04-17 | 2026-04-30 | 3 day streak |
+## 📋 Ranks 4–15
+
+<div style="background:white;border-radius:12px;padding:0.5rem;box-shadow:0 1px 3px rgba(0,0,0,0.08);overflow:hidden;">
+<table style="width:100%;border-collapse:collapse;">
+<thead><tr style="background:#f8fafc;"><th style="padding:0.85rem 1rem;text-align:left;font-size:0.75rem;text-transform:uppercase;letter-spacing:0.05em;color:#64748b;">Rank</th><th style="padding:0.85rem 1rem;text-align:left;font-size:0.75rem;text-transform:uppercase;letter-spacing:0.05em;color:#64748b;">Ticker</th><th style="padding:0.85rem 1rem;text-align:left;font-size:0.75rem;text-transform:uppercase;letter-spacing:0.05em;color:#64748b;">Streak</th><th style="padding:0.85rem 1rem;text-align:left;font-size:0.75rem;text-transform:uppercase;letter-spacing:0.05em;color:#64748b;">First Seen</th><th style="padding:0.85rem 1rem;text-align:left;font-size:0.75rem;text-transform:uppercase;letter-spacing:0.05em;color:#64748b;">Last Seen</th></tr></thead>
+<tbody>
+<tr style="border-top:1px solid #f1f5f9;"><td style="padding:0.85rem 1rem;color:#94a3b8;font-weight:500;">4</td><td style="padding:0.85rem 1rem;font-weight:700;color:#0f1729;font-size:1.05rem;">AMD 🔥</td><td style="padding:0.85rem 1rem;"><span style="background:#ef444415;color:#ef4444;padding:0.25rem 0.7rem;border-radius:99px;font-size:0.85rem;font-weight:600;">4 day streak</span></td><td style="padding:0.85rem 1rem;color:#64748b;font-size:0.9rem;">2026-04-24</td><td style="padding:0.85rem 1rem;color:#64748b;font-size:0.9rem;">2026-05-05</td></tr>
+<tr style="border-top:1px solid #f1f5f9;"><td style="padding:0.85rem 1rem;color:#94a3b8;font-weight:500;">5</td><td style="padding:0.85rem 1rem;font-weight:700;color:#0f1729;font-size:1.05rem;">AMZN 🔥</td><td style="padding:0.85rem 1rem;"><span style="background:#ef444415;color:#ef4444;padding:0.25rem 0.7rem;border-radius:99px;font-size:0.85rem;font-weight:600;">4 day streak</span></td><td style="padding:0.85rem 1rem;color:#64748b;font-size:0.9rem;">2026-04-17</td><td style="padding:0.85rem 1rem;color:#64748b;font-size:0.9rem;">2026-04-29</td></tr>
+<tr style="border-top:1px solid #f1f5f9;"><td style="padding:0.85rem 1rem;color:#94a3b8;font-weight:500;">6</td><td style="padding:0.85rem 1rem;font-weight:700;color:#0f1729;font-size:1.05rem;">CAT 🔥</td><td style="padding:0.85rem 1rem;"><span style="background:#ef444415;color:#ef4444;padding:0.25rem 0.7rem;border-radius:99px;font-size:0.85rem;font-weight:600;">4 day streak</span></td><td style="padding:0.85rem 1rem;color:#64748b;font-size:0.9rem;">2026-04-17</td><td style="padding:0.85rem 1rem;color:#64748b;font-size:0.9rem;">2026-05-01</td></tr>
+<tr style="border-top:1px solid #f1f5f9;"><td style="padding:0.85rem 1rem;color:#94a3b8;font-weight:500;">7</td><td style="padding:0.85rem 1rem;font-weight:700;color:#0f1729;font-size:1.05rem;">IBM 🔥</td><td style="padding:0.85rem 1rem;"><span style="background:#ef444415;color:#ef4444;padding:0.25rem 0.7rem;border-radius:99px;font-size:0.85rem;font-weight:600;">4 day streak</span></td><td style="padding:0.85rem 1rem;color:#64748b;font-size:0.9rem;">2026-04-20</td><td style="padding:0.85rem 1rem;color:#64748b;font-size:0.9rem;">2026-04-23</td></tr>
+<tr style="border-top:1px solid #f1f5f9;"><td style="padding:0.85rem 1rem;color:#94a3b8;font-weight:500;">8</td><td style="padding:0.85rem 1rem;font-weight:700;color:#0f1729;font-size:1.05rem;">NFLX 🔥</td><td style="padding:0.85rem 1rem;"><span style="background:#ef444415;color:#ef4444;padding:0.25rem 0.7rem;border-radius:99px;font-size:0.85rem;font-weight:600;">4 day streak</span></td><td style="padding:0.85rem 1rem;color:#64748b;font-size:0.9rem;">2026-04-16</td><td style="padding:0.85rem 1rem;color:#64748b;font-size:0.9rem;">2026-04-20</td></tr>
+<tr style="border-top:1px solid #f1f5f9;"><td style="padding:0.85rem 1rem;color:#94a3b8;font-weight:500;">9</td><td style="padding:0.85rem 1rem;font-weight:700;color:#0f1729;font-size:1.05rem;">ORCL 🔥</td><td style="padding:0.85rem 1rem;"><span style="background:#ef444415;color:#ef4444;padding:0.25rem 0.7rem;border-radius:99px;font-size:0.85rem;font-weight:600;">4 day streak</span></td><td style="padding:0.85rem 1rem;color:#64748b;font-size:0.9rem;">2026-04-19</td><td style="padding:0.85rem 1rem;color:#64748b;font-size:0.9rem;">2026-04-28</td></tr>
+<tr style="border-top:1px solid #f1f5f9;"><td style="padding:0.85rem 1rem;color:#94a3b8;font-weight:500;">10</td><td style="padding:0.85rem 1rem;font-weight:700;color:#0f1729;font-size:1.05rem;">TSLA 🔥</td><td style="padding:0.85rem 1rem;"><span style="background:#ef444415;color:#ef4444;padding:0.25rem 0.7rem;border-radius:99px;font-size:0.85rem;font-weight:600;">4 day streak</span></td><td style="padding:0.85rem 1rem;color:#64748b;font-size:0.9rem;">2026-04-20</td><td style="padding:0.85rem 1rem;color:#64748b;font-size:0.9rem;">2026-04-23</td></tr>
+<tr style="border-top:1px solid #f1f5f9;"><td style="padding:0.85rem 1rem;color:#94a3b8;font-weight:500;">11</td><td style="padding:0.85rem 1rem;font-weight:700;color:#0f1729;font-size:1.05rem;">UNH 🔥</td><td style="padding:0.85rem 1rem;"><span style="background:#ef444415;color:#ef4444;padding:0.25rem 0.7rem;border-radius:99px;font-size:0.85rem;font-weight:600;">4 day streak</span></td><td style="padding:0.85rem 1rem;color:#64748b;font-size:0.9rem;">2026-04-19</td><td style="padding:0.85rem 1rem;color:#64748b;font-size:0.9rem;">2026-04-22</td></tr>
+<tr style="border-top:1px solid #f1f5f9;"><td style="padding:0.85rem 1rem;color:#94a3b8;font-weight:500;">12</td><td style="padding:0.85rem 1rem;font-weight:700;color:#0f1729;font-size:1.05rem;">BA ⭐</td><td style="padding:0.85rem 1rem;"><span style="background:#f59e0b15;color:#f59e0b;padding:0.25rem 0.7rem;border-radius:99px;font-size:0.85rem;font-weight:600;">3 day streak</span></td><td style="padding:0.85rem 1rem;color:#64748b;font-size:0.9rem;">2026-04-20</td><td style="padding:0.85rem 1rem;color:#64748b;font-size:0.9rem;">2026-04-22</td></tr>
+<tr style="border-top:1px solid #f1f5f9;"><td style="padding:0.85rem 1rem;color:#94a3b8;font-weight:500;">13</td><td style="padding:0.85rem 1rem;font-weight:700;color:#0f1729;font-size:1.05rem;">INTC ⭐</td><td style="padding:0.85rem 1rem;"><span style="background:#f59e0b15;color:#f59e0b;padding:0.25rem 0.7rem;border-radius:99px;font-size:0.85rem;font-weight:600;">3 day streak</span></td><td style="padding:0.85rem 1rem;color:#64748b;font-size:0.9rem;">2026-04-23</td><td style="padding:0.85rem 1rem;color:#64748b;font-size:0.9rem;">2026-05-05</td></tr>
+<tr style="border-top:1px solid #f1f5f9;"><td style="padding:0.85rem 1rem;color:#94a3b8;font-weight:500;">14</td><td style="padding:0.85rem 1rem;font-weight:700;color:#0f1729;font-size:1.05rem;">LMT ⭐</td><td style="padding:0.85rem 1rem;"><span style="background:#f59e0b15;color:#f59e0b;padding:0.25rem 0.7rem;border-radius:99px;font-size:0.85rem;font-weight:600;">3 day streak</span></td><td style="padding:0.85rem 1rem;color:#64748b;font-size:0.9rem;">2026-04-20</td><td style="padding:0.85rem 1rem;color:#64748b;font-size:0.9rem;">2026-04-24</td></tr>
+<tr style="border-top:1px solid #f1f5f9;"><td style="padding:0.85rem 1rem;color:#94a3b8;font-weight:500;">15</td><td style="padding:0.85rem 1rem;font-weight:700;color:#0f1729;font-size:1.05rem;">META ⭐</td><td style="padding:0.85rem 1rem;"><span style="background:#f59e0b15;color:#f59e0b;padding:0.25rem 0.7rem;border-radius:99px;font-size:0.85rem;font-weight:600;">3 day streak</span></td><td style="padding:0.85rem 1rem;color:#64748b;font-size:0.9rem;">2026-04-17</td><td style="padding:0.85rem 1rem;color:#64748b;font-size:0.9rem;">2026-04-30</td></tr>
+</tbody></table></div>
 
 ## 📈 Coverage Distribution
 
-- **5 appearances** (3 stocks): AAPL, NOW, NVDA
-- **4 appearances** (8 stocks): AMD, AMZN, CAT, IBM, NFLX, ORCL, TSLA, UNH
-- **3 appearances** (8 stocks): BA, INTC, LMT, META, PLTR, QCOM, TXN, UAL
-- **2 appearances** (27 stocks): ADBE, AFRM, APA, COF, CRWV, DELL, EXPE, GE, GEV, GOOGL, HOOD, LHX, LLY, MU, NXPI, ON, OXY, RBLX, RCL, RDDT, ROKU, SBUX, SHOP, STX, T, V, XOM
-- **1 appearance** (93 stocks): _One-time mentions_
+<div style="margin:0.6rem 0;"><div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:0.3rem;"><span style="font-weight:600;color:#0f1729;">5 day streak</span><span style="color:#64748b;font-size:0.9rem;">3 stocks</span></div><div style="background:#f1f5f9;border-radius:6px;height:18px;overflow:hidden;"><div style="background:#ef4444;width:3.225806451612903%;height:100%;border-radius:6px;"></div></div></div>
+<div style="margin:0.6rem 0;"><div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:0.3rem;"><span style="font-weight:600;color:#0f1729;">4 day streak</span><span style="color:#64748b;font-size:0.9rem;">8 stocks</span></div><div style="background:#f1f5f9;border-radius:6px;height:18px;overflow:hidden;"><div style="background:#ef4444;width:8.60215053763441%;height:100%;border-radius:6px;"></div></div></div>
+<div style="margin:0.6rem 0;"><div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:0.3rem;"><span style="font-weight:600;color:#0f1729;">3 day streak</span><span style="color:#64748b;font-size:0.9rem;">8 stocks</span></div><div style="background:#f1f5f9;border-radius:6px;height:18px;overflow:hidden;"><div style="background:#f59e0b;width:8.60215053763441%;height:100%;border-radius:6px;"></div></div></div>
+<div style="margin:0.6rem 0;"><div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:0.3rem;"><span style="font-weight:600;color:#0f1729;">2 day streak</span><span style="color:#64748b;font-size:0.9rem;">27 stocks</span></div><div style="background:#f1f5f9;border-radius:6px;height:18px;overflow:hidden;"><div style="background:#f59e0b;width:29.03225806451613%;height:100%;border-radius:6px;"></div></div></div>
+<div style="margin:0.6rem 0;"><div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:0.3rem;"><span style="font-weight:600;color:#0f1729;">1-day mentions</span><span style="color:#64748b;font-size:0.9rem;">93 stocks</span></div><div style="background:#f1f5f9;border-radius:6px;height:18px;overflow:hidden;"><div style="background:#94a3b8;width:100.0%;height:100%;border-radius:6px;"></div></div></div>
 
 ---
 
-## 🔥 Legend
+<details><summary style="cursor:pointer;color:#3b82f6;font-weight:500;">View all stocks by tier</summary>
 
-- 🔥 = Appeared in 4+ reports (consistently in the news)
-- ⭐ = Appeared in 2-3 reports (recurring story)
+- **5 day streak** (3): AAPL, NOW, NVDA
+- **4 day streak** (8): AMD, AMZN, CAT, IBM, NFLX, ORCL, TSLA, UNH
+- **3 day streak** (8): BA, INTC, LMT, META, PLTR, QCOM, TXN, UAL
+- **2 day streak** (27): ADBE, AFRM, APA, COF, CRWV, DELL, EXPE, GE, GEV, GOOGL, HOOD, LHX, LLY, MU, NXPI, ON, OXY, RBLX, RCL, RDDT, ROKU, SBUX, SHOP, STX, T, V, XOM
+- **1-day mentions** (93): _One-time mentions_
 
-_The leaderboard refreshes nightly with each new daily report._
+</details>
+
