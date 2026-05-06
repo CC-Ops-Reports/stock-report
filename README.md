@@ -7,7 +7,7 @@
 
 **S&P 500:** 7,259.22 (+0.81%) • **NASDAQ:** 25,326.13 (+1.03%)
 
-<p style="text-align:center;margin:1.5rem 0;"><a href="leaderboard.html" style="display:inline-block;background:#3b82f6;color:white;padding:0.85rem 1.75rem;border-radius:8px;font-weight:600;font-size:1.05rem;text-decoration:none;box-shadow:0 2px 8px rgba(59,130,246,0.3);">📊 View Most-Tracked Stocks Leaderboard →</a></p>
+<p style="text-align:center;margin:1.5rem 0;"><a href="leaderboard.html" style="display:inline-block;background:#3b82f6;color:white;padding:0.85rem 1.75rem;border-radius:8px;font-weight:600;font-size:1.05rem;text-decoration:none;box-shadow:0 2px 8px rgba(59,130,246,0.3);margin:0 0.4rem 0.5rem 0;">📊 Leaderboard</a><a href="tracker.html" style="display:inline-block;background:#10b981;color:white;padding:0.85rem 1.75rem;border-radius:8px;font-weight:600;font-size:1.05rem;text-decoration:none;box-shadow:0 2px 8px rgba(16,185,129,0.3);margin:0 0.4rem 0.5rem 0;">📈 Recommendation Tracker</a></p>
 
 ---
 
