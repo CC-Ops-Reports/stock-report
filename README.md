@@ -7,7 +7,7 @@
 
 **S&P 500:** 7,259.22 (+0.81%) • **NASDAQ:** 25,326.13 (+1.03%)
 
-**📊 [View Most-Tracked Stocks Leaderboard →](leaderboard.html)** | [Repo](https://github.com/CC-Ops-Reports/stock-report)
+### 📊 [View Most-Tracked Stocks Leaderboard →](leaderboard.html)
 
 ---
 
