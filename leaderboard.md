@@ -1,3 +1,8 @@
+---
+layout: default
+title: Most-Tracked Stocks Leaderboard
+---
+
 # 📊 Most-Tracked Stocks Leaderboard
 
 _Tracking **139 unique stocks** across **218 appearances**. Last updated: 2026-05-01_
