@@ -1,6 +1,6 @@
 # DAILY STOCK SENTIMENT REPORT
 
-<p style="text-align:center;margin:1.5rem 0;"><a href="leaderboard.html" style="display:inline-block;background:#3b82f6;color:white;padding:0.85rem 1.75rem;border-radius:8px;font-weight:600;font-size:1.05rem;text-decoration:none;box-shadow:0 2px 8px rgba(59,130,246,0.3);margin:0 0.4rem 0.5rem 0;">📊 Leaderboard</a><a href="tracker.html" style="display:inline-block;background:#10b981;color:white;padding:0.85rem 1.75rem;border-radius:8px;font-weight:600;font-size:1.05rem;text-decoration:none;box-shadow:0 2px 8px rgba(16,185,129,0.3);margin:0 0.4rem 0.5rem 0;">📈 Recommendation Tracker</a></p>
+<div style="display:flex;gap:0.5rem;justify-content:center;margin:0.5rem 0 1.5rem;flex-wrap:wrap;"><a href="leaderboard.html" style="display:inline-flex;align-items:center;gap:0.4rem;background:#0f1729;color:white;padding:0.45rem 0.9rem;border-radius:6px;font-weight:500;font-size:0.82rem;text-decoration:none;letter-spacing:0.01em;">📊 Leaderboard</a><a href="tracker.html" style="display:inline-flex;align-items:center;gap:0.4rem;background:#0f1729;color:white;padding:0.45rem 0.9rem;border-radius:6px;font-weight:500;font-size:0.82rem;text-decoration:none;letter-spacing:0.01em;">📈 Tracker</a></div>
 
 **DATE:** 2026-05-05
 **TOTAL STOCKS TRACKED:** 13
