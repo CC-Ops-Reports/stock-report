@@ -1,130 +1,130 @@
 {
-  "report_date": "2026-05-05",
+  "report_date": "2026-05-06",
   "batch": 1,
   "market_tone": "Bullish",
   "key_themes": [
-    "Intel-Apple chip manufacturing talks trigger massive semiconductor rally and new all-time highs",
-    "Heavy earnings season: sharp bifurcation between guidance beaters and guidance misers",
-    "AI server demand drives Supermicro and sector higher; Shopify and PayPal punished on slowing outlooks"
+    "Semiconductor super-cycle: AMD, SMCI, ARM all surge on strong earnings and guidance",
+    "Iran peace deal sparks oil price drop and broad travel/airline rally",
+    "Earnings divergence: guidance beats rewarded, even beats-with-soft-outlook punished (SHOP, ANET, CDW)"
   ],
   "sp500": {
-    "value": "7,259.22",
-    "change": "+0.81%"
+    "value": "7,365.12",
+    "change": "+1.46%"
   },
   "nasdaq": {
-    "value": "25,326.13",
-    "change": "+1.03%"
+    "value": "25,838.94",
+    "change": "+2.02%"
   },
   "stocks": [
     {
-      "ticker": "INTC",
-      "company": "Intel Corporation",
-      "discussion_driver": "Intel surged 13-15% to a new all-time high after Bloomberg reported Apple is in early-stage talks with Intel and Samsung to manufacture main processors for U.S. devices, igniting a massive short squeeze. The stock is now up 175%+ YTD and has quintupled from its 2025 lows, making it the defining story of the semiconductor sector's AI-era manufacturing renaissance.",
+      "ticker": "AMD",
+      "company": "Advanced Micro Devices",
+      "discussion_driver": "AMD surged ~18% to a new 52-week high after Q1 2026 revenue of $10.3B beat estimates (+38% YoY), driven by a 57% surge in data center revenue and record free cash flow. Q2 guidance of $11.2B midpoint exceeded consensus, and Goldman Sachs upgraded the stock to Buy with a fresh $450 price target, validating the AI data center growth thesis.",
       "bull_case": [
-        "The potential Apple foundry partnership would be transformational for Intel's manufacturing division, providing a premier anchor customer that validates its U.S.-based advanced chip fabrication strategy and could unlock billions in long-term contract revenue.",
-        "Intel's foundry business (Intel Foundry Services) is gaining critical momentum at exactly the moment geopolitical pressure pushes hyperscalers and device makers toward domestic U.S. chip production, positioning Intel as the primary beneficiary of reshoring policy tailwinds."
+        "Data center revenue surged 57% YoY in Q1 2026 to a record level, fueled by hyperscaler demand for MI300 AI accelerators; Q2 guidance of $11.2B midpoint signals continued AI chip monetization acceleration with 45% YoY growth projected.",
+        "Goldman Sachs upgraded AMD to Buy with a $450 PT today citing competitive gains in AI infrastructure; AMD's forward P/E of 52.7x compares favorably to NVIDIA's premium valuation while the company is actively gaining AI data center market share."
       ],
       "bear_case": [
-        "With RSI at 82 and the stock trading ~52% above the analyst consensus price target of ~$72, INTC is extremely overbought and significantly overextended relative to fundamental valuation; mean-reversion risk is acute.",
-        "The Apple talks are explicitly described as 'early-stage,' Intel still carries a negative P/E ratio reflecting ongoing profitability challenges, and manufacturing execution against TSMC and Samsung remains unproven at scale — the stock is pricing in a deal that may not materialize."
+        "Trailing P/E of 135.8x leaves little margin for error; any guidance miss or macro softening could trigger significant multiple compression given the lofty premium embedded in current valuations after an 18% single-day surge.",
+        "NVIDIA retains dominant AI GPU market share with deep CUDA ecosystem lock-in; AMD's MI300 ramp faces competition from both NVIDIA Blackwell and custom silicon from hyperscalers (Google TPU, Amazon Trainium)."
       ],
-      "recommendation": "Hold",
-      "current_price": "$109.25",
-      "price_target": "$72.12 (-34.0%)",
-      "pe_ratio": "-159.06",
-      "rsi": "82.19",
-      "vs_52wk_high": "AT new 52-week high ($108.73 prior high)",
-      "analyst_rating": "Hold",
+      "recommendation": "Buy",
+      "current_price": "$421.43",
+      "price_target": "$450.00 (+6.8%)",
+      "pe_ratio": "135.82",
+      "rsi": "80.6",
+      "vs_52wk_high": "-2.1% below high ($430.60)",
+      "analyst_rating": "Strong Buy",
       "sector": "Technology - Semiconductors",
-      "sources": ["Bloomberg", "CNBC", "Motley Fool", "24/7 Wall St.", "StockAnalysis", "MarketBeat", "WallStreetZen"]
+      "sources": ["Goldman Sachs", "CNBC", "Bloomberg", "MarketBeat", "Benzinga", "StockAnalysis"]
     },
     {
       "ticker": "SMCI",
       "company": "Super Micro Computer",
-      "discussion_driver": "Supermicro soared ~19% after hours following a blowout Q3 fiscal 2026 earnings report: non-GAAP EPS of $0.84 beat estimates by 34.5%, and Q4 revenue guidance midpoint of $11.75B came in 7.6% above consensus, powered by surging AI server demand. The regular-session close of ~$28 is expected to reprice significantly higher when after-hours gains settle at the next open.",
+      "discussion_driver": "SMCI surged 24.5% after Q4 profit guidance of $0.65–$0.79 per share demolished the Wall Street estimate of $0.55; the company also raised FY2026 full-year revenue guidance to $38.9–$40.4B on AI server demand. Significant legal overhang persists, however, after co-founder Wally Liaw was charged with conspiring to illegally route $2.5B in Nvidia-chipped servers to China.",
       "bull_case": [
-        "The Q3 earnings blowout and strong Q4 guidance demonstrate that AI server demand remains intense, with Supermicro's ability to rapidly design and deploy custom GPU-dense server configurations giving it a durable competitive edge with hyperscaler customers.",
-        "At a trailing P/E of ~21x and trading nearly 55% below its 52-week high, SMCI's valuation is highly compressed relative to its growth trajectory — a successful earnings re-rating could close a significant portion of that gap."
+        "AI server demand remains robust enough to drive Q4 EPS guidance 18–44% above consensus; full-year revenue guidance now $38.9–$40.4B reflects SMCI's critical position as a first-to-market provider of liquid-cooled AI server infrastructure for hyperscale data center deployments.",
+        "Trailing P/E of just 17.4x is among the lowest in AI infrastructure hardware, offering value relative to semiconductor peers; recovery from 52-week lows and today's guidance-driven surge suggest the market is beginning to look past certain legal headwinds."
       ],
       "bear_case": [
-        "The company's co-founder faces serious allegations of smuggling Nvidia servers to China, creating significant governance, regulatory, and legal overhang that could result in sanctions, fines, or material disruption to the business.",
-        "Supermicro has a history of accounting compliance issues including delayed filings and restatements that have previously caused sharp selloffs; investor confidence in financial reporting remains fragile, and any further compliance missteps could trigger outsized declines."
+        "Co-founder and former executive Wally Liaw has been criminally charged with conspiring to smuggle $2.5B in Nvidia-chipped servers to China; pending securities fraud class actions create material legal risk that could impair operations or result in substantial fines.",
+        "Stock remains 44% below its 52-week high of $62.36 despite today's surge, reflecting deep structural investor skepticism; gross margin pressure and competitive pricing dynamics in AI servers could limit the pace and magnitude of a profitability recovery."
       ],
       "recommendation": "Speculative Buy",
-      "current_price": "$28.03",
-      "price_target": "$35.64 (+27.1%)",
-      "pe_ratio": "20.8",
+      "current_price": "$34.67",
+      "price_target": "$35.64 (+2.8%)",
+      "pe_ratio": "17.44",
       "rsi": "N/A",
-      "vs_52wk_high": "-55.1% below high ($62.36)",
+      "vs_52wk_high": "-44.4% below high ($62.36)",
       "analyst_rating": "Hold",
-      "sector": "Technology - Server & Storage Systems",
-      "sources": ["Seeking Alpha", "Bloomberg", "Yahoo Finance", "MarketBeat", "TipRanks", "StockAnalysis"]
+      "sector": "Technology - AI Server Infrastructure",
+      "sources": ["CNBC", "TheStreet", "Benzinga", "247WallSt", "Fortune", "StockAnalysis", "MarketBeat"]
     },
     {
-      "ticker": "PLTR",
-      "company": "Palantir Technologies",
-      "discussion_driver": "Palantir dropped ~5-7% on May 5 despite a blowout Q1 2026 earnings beat — adjusted EPS of $0.33 vs. $0.28 expected, revenue of $1.63B vs. $1.54B expected (+85% YoY) — and raised FY2026 guidance to $7.65-7.66B. The sell-the-news reaction reflects investor anxiety over Palantir's extreme valuation (~227x trailing P/E), which leaves no room for execution misses even as underlying AI platform fundamentals remain exceptional.",
+      "ticker": "ARM",
+      "company": "Arm Holdings",
+      "discussion_driver": "ARM jumped 13.6% intraday and an additional +8% after-hours after beating both revenue and earnings estimates for Q4 FY2026. UBS raised its 12-month price target from $175 to $245, reflecting accelerating AI-driven royalty growth as ARM-based chips proliferate across smartphones, data centers, and automotive platforms.",
       "bull_case": [
-        "Palantir's AIP (Artificial Intelligence Platform) is generating rapid commercial and government contract wins, with 85% YoY revenue growth demonstrating that AI is transitioning from pilot projects to full enterprise deployment — Palantir is uniquely positioned as the operational AI layer for critical infrastructure.",
-        "The consensus analyst price target of ~$195 implies ~33% upside from current levels, and the raised FY2026 guidance of $7.65B signals that management has strong revenue visibility, providing a credible path to justifying the premium valuation over time."
+        "ARM's architecture powers virtually all mobile devices globally and is rapidly expanding into AI data center compute with its v9 architecture commanding higher royalty rates per chip; UBS raised PT to $245 citing this royalty uplift cycle as a durable multi-year tailwind.",
+        "Asset-light IP licensing model generates 80%+ gross margins with minimal capital requirements; as AI inference workloads increasingly migrate to ARM-based custom silicon (Apple, Amazon Graviton, Google Axion), royalty revenue compounds regardless of which chip manufacturer wins."
       ],
       "bear_case": [
-        "A trailing P/E of ~227x is one of the highest multiples among large-cap tech stocks, meaning PLTR is priced for perfection across multiple years of flawless execution — any guidance miss, federal budget cuts, or macro slowdown could trigger a severe de-rating.",
-        "The sell-the-news selloff on strong earnings suggests the market had already priced in optimistic outcomes; with RSI indicating neutral-to-oversold conditions (~43) after the drop, near-term technical momentum is negative despite strong underlying fundamentals."
+        "Trailing P/E of 311x and forward P/E of 121.5x reflect extreme growth expectations; any deceleration in smartphone unit growth or slower-than-expected AI data center adoption could cause severe multiple compression from these elevated levels.",
+        "RISC-V open-source architecture is gaining momentum among cost-sensitive chipmakers and hyperscalers looking to reduce licensing costs; a structural shift away from ARM licensing could erode long-term royalty streams, especially in price-sensitive emerging markets."
+      ],
+      "recommendation": "Buy",
+      "current_price": "$228.12",
+      "price_target": "$245.00 (+7.4%)",
+      "pe_ratio": "311.32",
+      "rsi": "63.94",
+      "vs_52wk_high": "-4.0% below high ($237.68)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Technology - Semiconductor IP",
+      "sources": ["CNBC", "Bloomberg", "UBS", "MarketBeat", "StockAnalysis", "Benzinga"]
+    },
+    {
+      "ticker": "FLEX",
+      "company": "Flex Ltd",
+      "discussion_driver": "Flex surged ~35% after announcing plans to spin off its high-growth Cloud and Power Infrastructure segment into an independent public company (SpinCo) by Q1 2027, targeting 65–75% revenue growth in FY2027. Record Q4 FY2026 results with revenue of $7.48B beating estimates by 7.5% and FY2027 EPS guidance of $4.21–$4.51 vs. the prior consensus of $3.67 added further fuel to the rally.",
+      "bull_case": [
+        "The Cloud & Power Infrastructure SpinCo is expected to grow 65–75% in FY2027 and >80% in FY2028, unlocking substantial value previously hidden within Flex's blended conglomerate valuation; the separation should allow both entities to be valued on standalone growth multiples.",
+        "Core business momentum is strong: record Q4 FY2026 revenue of $7.48B beat estimates by 7.5% and adjusted EPS of $0.93 beat by 8.1%; FY2027 EPS guidance of $4.21–$4.51 is 15–23% above prior analyst consensus, signaling durable underlying earnings power."
+      ],
+      "bear_case": [
+        "Analyst price targets remain in the $84–$88 range, more than 30% below the post-surge stock price, indicating the market has moved far ahead of analyst models; near-term pullback risk is elevated with RSI at 77.4, firmly in overbought territory.",
+        "Spin-off execution risk is material: separating the high-growth Cloud/Power segment while maintaining operational continuity for both entities is complex, and the SpinCo timeline extends to Q1 2027, creating over nine months of structural and operational uncertainty."
       ],
       "recommendation": "Hold",
-      "current_price": "$146.03",
-      "price_target": "$194.77 (+33.4%)",
-      "pe_ratio": "227.67",
-      "rsi": "42.62",
-      "vs_52wk_high": "-29.6% below high ($207.52)",
+      "current_price": "$126.14",
+      "price_target": "$88.00 (-30.2%)",
+      "pe_ratio": "41.60",
+      "rsi": "77.44",
+      "vs_52wk_high": "-2.8% below high ($129.78)",
       "analyst_rating": "Buy",
-      "sector": "Technology - AI Software & Analytics",
-      "sources": ["CNBC", "BNN Bloomberg", "Proactive Investors", "MarketBeat", "TipRanks", "Yahoo Finance"]
+      "sector": "Technology - Electronic Manufacturing Services / AI Infrastructure",
+      "sources": ["Benzinga", "PR Newswire", "Yahoo Finance", "StockAnalysis", "MarketBeat", "Baird", "TipRanks"]
     },
     {
-      "ticker": "SHOP",
-      "company": "Shopify",
-      "discussion_driver": "Shopify fell ~12.6% after Q1 2026 results revealed a tension between strong top-line execution and disappointing forward guidance. Revenue of $3.17B (+34% YoY) beat estimates, but Q2 guidance of 'high-twenties' growth signals deceleration from Q1's pace, and a net loss of $581M ($0.45/share) significantly missed the $0.24 EPS consensus — a combination that punished the stock sharply despite continued underlying merchant platform strength.",
+      "ticker": "DIS",
+      "company": "Walt Disney",
+      "discussion_driver": "Disney rose ~7% after Q2 FY2026 EPS of $1.57 beat the $1.49 consensus estimate; streaming operating income surged 88% YoY and Disney achieved an 11% streaming operating margin for the first time ever—a major profitability milestone. Full-year FY2026 EPS guidance of $6.64 aligned with consensus, signaling steady execution across parks, streaming, and content divisions.",
       "bull_case": [
-        "Shopify's 34% YoY Q1 revenue growth and broad merchant ecosystem expansion confirm it is the dominant commerce operating system for merchants globally; the selloff on guidance deceleration may be an overreaction given that 'high-twenties' growth still represents category-leading performance.",
-        "With 62 Wall Street analysts maintaining a Buy consensus and an average price target of ~$159 (implying ~35% upside), institutional conviction in Shopify's long-term platform value — including payments, capital, and logistics services — remains strong despite near-term noise."
+        "Streaming reached 11% operating margin in Q2 FY2026—an 88% YoY improvement and a first-ever milestone—demonstrating that Disney+ and Hulu have crossed a durable profitability inflection point, transforming from a cash drain into a high-margin growth engine.",
+        "Analyst consensus Buy with a $132.62 price target implies 23.5% upside from current levels; P/E of ~15x is well below the media peer average, offering a compelling margin of safety for long-term investors as streaming margin continues to scale."
       ],
       "bear_case": [
-        "The Q2 guidance deceleration from 34% to 'high-twenties' growth, combined with a $581M net loss significantly exceeding estimates, suggests Shopify's heavy investment cycle is pressuring profitability precisely when investors are demanding a clearer path to sustainable earnings.",
-        "At a trailing P/E of 137x and trading 35% below its 52-week high, if revenue growth continues to decelerate toward 20-25%, the current valuation multiple is difficult to sustain and further compression remains likely."
+        "Despite today's surge, DIS remains 13.8% below its 52-week high of $124.69, reflecting persistent investor concerns about secular decline in traditional linear TV and ESPN cord-cutting, with structural headwinds in legacy media still weighing on sentiment.",
+        "Streaming competition from Netflix, Amazon Prime Video, and Apple TV+ continues to intensify; escalating content spending required to maintain subscriber growth and retention could pressure the newly achieved streaming margin improvements over coming quarters."
       ],
-      "recommendation": "Hold",
-      "current_price": "$117.45",
-      "price_target": "$159.49 (+35.8%)",
-      "pe_ratio": "137.15",
+      "recommendation": "Buy",
+      "current_price": "$107.42",
+      "price_target": "$132.62 (+23.5%)",
+      "pe_ratio": "15.23",
       "rsi": "N/A",
-      "vs_52wk_high": "-35.5% below high ($182.19)",
+      "vs_52wk_high": "-13.8% below high ($124.69)",
       "analyst_rating": "Buy",
-      "sector": "Technology - E-Commerce Platform",
-      "sources": ["Bloomberg", "Yahoo Finance", "Investing.com", "Motley Fool", "StockAnalysis", "MarketBeat"]
-    },
-    {
-      "ticker": "PYPL",
-      "company": "PayPal Holdings",
-      "discussion_driver": "PayPal fell ~10% after Q1 2026 earnings that beat on adjusted EPS ($1.34) and revenue (~$8.38B, +7% YoY), but investors focused on the downbeat Q2 forward outlook signaling decelerating growth. The reaction highlights persistent concerns that PayPal is losing digital payment market share to Apple Pay, Stripe, and Cash App — despite the stock now trading at one of its most attractive valuations in years at ~9x trailing earnings.",
-      "bull_case": [
-        "With a trailing P/E of ~9x representing a 77% discount to its 10-year historical average and trading at nearly one-third the valuation of fintech peers, PayPal offers compelling value; Venmo's 14% growth and $464B in quarterly TPV demonstrate the payments platform remains fundamentally healthy.",
-        "Q1 2026 execution showed continued turnaround progress — adj. EPS of $1.34, GAAP net income of $1.11B, and resilient Venmo and merchant services growth provide a foundation for a re-rating if Q2 guidance fears prove overstated."
-      ],
-      "bear_case": [
-        "The downbeat Q2 2026 outlook and -41.6% decline from the 52-week high reflect structural concerns about PayPal's competitive positioning; Apple Pay's seamless device integration, Stripe's developer dominance, and Cash App's younger demographic are eroding PayPal's network effect advantages in ways sequential earnings beats may not overcome.",
-        "Revenue growth of just 7% YoY suggests PayPal may be entering a prolonged period of slower growth as a maturing fintech franchise, making the value trap scenario — cheap for good reason — a legitimate risk that keeps institutional investors cautious."
-      ],
-      "recommendation": "Hold",
-      "current_price": "$46.40",
-      "price_target": "$61.48 (+32.5%)",
-      "pe_ratio": "9.20",
-      "rsi": "51.41",
-      "vs_52wk_high": "-41.6% below high ($79.50)",
-      "analyst_rating": "Hold",
-      "sector": "Technology - Digital Payments / Fintech",
-      "sources": ["CNBC", "Bloomberg", "StockAnalysis", "MarketBeat", "Zacks", "Yahoo Finance"]
+      "sector": "Entertainment / Streaming Media",
+      "sources": ["CNBC", "247 Wall St.", "Motley Fool", "Yahoo Finance", "StockAnalysis", "MarketBeat"]
     }
   ]
 }
