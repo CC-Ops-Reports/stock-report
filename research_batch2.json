@@ -1,116 +1,116 @@
 {
-  "report_date": "2026-05-05",
+  "report_date": "2026-05-06",
   "batch": 2,
   "stocks": [
     {
-      "ticker": "MU",
-      "company": "Micron Technology",
-      "discussion_driver": "Micron surged ~10% on May 5, crossing a $700B market cap and hitting a new 52-week high, as Intel's reported talks with Apple to manufacture U.S. chips ignited a broad semiconductor rally. The news rekindled enthusiasm for AI memory stocks given Micron's dominant HBM supply position — the company is now up over 100% YTD. Several analysts carry targets above $700 with DA Davidson at $1,000.",
+      "ticker": "SHOP",
+      "company": "Shopify Inc.",
+      "discussion_driver": "Shopify plummeted 15.6% on May 5 despite posting a strong Q1 2026 earnings beat — revenue surged 34% YoY to $3.17B, clearing the $3.09B consensus. The selloff was driven entirely by Q2 guidance of 'high-twenties' percentage revenue growth, a sharp deceleration from Q1's 34% pace that disappointed investors banking on sustained hypergrowth.",
       "bull_case": [
-        "Micron has locked in its entire 2026 HBM supply under multi-year contracts with hyperscalers, providing unprecedented revenue visibility and pricing power that legacy DRAM cycles never offered; fiscal Q2 revenue nearly tripled YoY to $23.9B with a company-record 75% gross margin.",
-        "AI infrastructure buildout is fundamentally memory-intensive — data center bits exceeded 50% of industry TAM for the first time in 2026, and Micron can only fulfill 50–66% of key customer demand in the medium term, keeping supply-demand dynamics firmly in Micron's favor."
+        "Revenue grew 34% YoY to $3.17B in Q1 2026, handily beating estimates, while AI-powered channels are driving nearly 13x order growth, indicating Shopify's commerce infrastructure is expanding meaningfully into next-generation retail. A $2B share buyback program signals management's conviction in intrinsic value at current depressed levels.",
+        "The consensus analyst price target of ~$159 implies nearly 48% upside from current levels, with 38 of 51 analysts maintaining Buy ratings. Even Wells Fargo's reduced target of $144 represents a 34% premium to the current price, suggesting broad institutional conviction that the post-earnings dip is overdone."
       ],
       "bear_case": [
-        "Memory has been cyclical for 50+ years; Samsung and SK Hynix are aggressively expanding HBM capacity, and combined industry capex of $58B+ in 2026 risks overshooting demand if AI spending moderates or macro conditions deteriorate.",
-        "At roughly 26x trailing P/E after a parabolic rally, the stock leaves little margin for error; any normalization of hyperscaler AI capex budgets (flagged in late-April WSJ reporting on OpenAI cost concerns) could trigger a sharp de-rating."
+        "Q2 revenue growth guidance of 'high-twenties' percentage marks a meaningful step-down from the 34% pace posted in Q1, signaling potential structural deceleration as Shopify's merchant base matures and macro headwinds pressure consumer spending.",
+        "The trailing P/E of ~117x leaves virtually no margin of safety if growth continues to slow. On a GAAP basis, Shopify reported a $581M net loss in Q1, highlighting the persistent gap between adjusted and reported profitability that could weigh on sentiment if growth decelerates further."
+      ],
+      "recommendation": "Hold",
+      "current_price": "$107.63",
+      "price_target": "$159.00 (+47.7%)",
+      "pe_ratio": "116.7",
+      "rsi": "53.5",
+      "vs_52wk_high": "-40.9% below high ($182.19)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - E-Commerce",
+      "sources": ["Yahoo Finance", "Investing.com", "Seeking Alpha", "247 Wall St.", "Wells Fargo Research", "Zacks", "CNBC"]
+    },
+    {
+      "ticker": "UBER",
+      "company": "Uber Technologies Inc.",
+      "discussion_driver": "Uber reported Q1 2026 results on May 6 with GAAP revenue of $13.2B slightly missing the $13.29B estimate, but gross bookings surged 25% to $53.7B above consensus. Q2 bookings guidance of $56.25–$57.75B beat expectations, reassuring investors that platform momentum is intact and sending the stock up approximately 10% as forward earnings growth of 31–38% YoY takes center stage.",
+      "bull_case": [
+        "Gross bookings grew 25% to $53.7B in Q1 — combined with Q2 guidance that implies continued acceleration — demonstrating that Uber's dual-sided mobility and delivery marketplace is expanding well ahead of Wall Street expectations. Non-GAAP EPS of $0.72 was a 44% YoY improvement, showing strong operating leverage as the platform scales.",
+        "The analyst consensus of Strong Buy carries an average price target of $107.12 implying roughly 35% upside from current post-earnings levels. At a trailing P/E of ~13x, Uber is valued well below many high-growth peers, making it one of the more attractively priced platform businesses in the market today."
+      ],
+      "bear_case": [
+        "GAAP EPS of $0.13 badly missed the $0.70 consensus estimate due to one-time charges, illustrating persistent volatility in reported profitability that clouds the true earnings trajectory. The revenue miss, however slight, may raise questions about whether top-line deceleration is beginning.",
+        "Autonomous vehicle competition from Waymo, Tesla, and others could structurally compress take rates and disrupt Uber's core ride-sharing model over the next two to three years. The stock still trades roughly 22% below its 52-week high of $101.99, reflecting ongoing market skepticism about long-term competitive positioning."
       ],
       "recommendation": "Buy",
-      "current_price": "$674.99",
-      "price_target": "$574.67 (-14.8%; consensus lags recent surge — select targets reach $1,000)",
-      "pe_ratio": "26.0",
-      "rsi": "N/A",
-      "vs_52wk_high": "-1.5% below high ($684.95)",
+      "current_price": "$79.50",
+      "price_target": "$107.12 (+34.7%)",
+      "pe_ratio": "13.35",
+      "rsi": "55.4",
+      "vs_52wk_high": "-22.1% below high ($101.99)",
       "analyst_rating": "Strong Buy",
-      "sector": "Technology - Semiconductors (Memory/HBM)",
-      "sources": ["24/7 Wall St.", "FX Leaders", "Yahoo Finance", "TikR", "Artvoice", "MarketBeat"]
+      "sector": "Technology - Ride-Sharing & Delivery",
+      "sources": ["CNBC", "Bloomberg", "Yahoo Finance", "Investing.com", "StockAnalysis.com", "Benzinga", "Rolling Out"]
     },
     {
-      "ticker": "HII",
-      "company": "Huntington Ingalls Industries",
-      "discussion_driver": "HII fell ~11% on May 5 despite reporting Q1 revenue of $3.1B (+13.4% YoY) and reaffirming full-year guidance; investors focused on operating margin compression (5.0% vs 5.9% prior year) and deeply negative free cash flow of -$461M. The disconnect between top-line growth and profitability spooked investors who had been betting on margin recovery in the U.S. Navy's largest shipbuilding cycle in decades.",
+      "ticker": "ANET",
+      "company": "Arista Networks Inc.",
+      "discussion_driver": "Arista Networks fell approximately 8% on May 5–6 despite delivering a clear beat-and-raise quarter: Q1 revenue of $2.71B grew 35% YoY above estimates, and full-year guidance was raised to ~$11.5B with an AI fabric revenue target increase to $3.5B. Investors focused on management's acknowledgment that supply chain constraints will persist for one to two years, and uncertainty around the pace of AI data-center capex spending pressured the already-extended valuation.",
       "bull_case": [
-        "HII entered Q2 with a $54B total backlog — including $4.0B in new Q1 contract awards — providing exceptional long-term revenue visibility as the U.S. Navy accelerates its largest shipbuilding program in decades, covering aircraft carriers, submarines, and surface combatants.",
-        "At 16%+ below the analyst consensus target and nearly 29% off its 52-week high, HII trades at a meaningful discount for a defense prime with a decades-long monopoly on nuclear-powered warship construction; management reaffirmed FY26 free cash flow guidance of $500–600M, suggesting Q1's cash burn was timing-related."
+        "Arista's Q1 2026 revenue of $2.71B represents 35% YoY growth, and the company raised its full-year revenue outlook to ~$11.5B while increasing its AI fabric revenue target to $3.5B — demonstrating that hyperscaler AI infrastructure buildout is translating directly into accelerating demand for Arista's high-speed networking gear.",
+        "JP Morgan raised its price target to $200 (Overweight) following the earnings report, and the consensus price target of $175.18 implies ~21.7% upside. Arista's dominant market position in cloud networking and early lead in AI fabric architecture makes it a key infrastructure beneficiary of the multi-year AI capex cycle."
       ],
       "bear_case": [
-        "Operating margin compressed to 5.0% from 5.9% due to contract adjustments and underperformance at the Newport News aircraft carrier program — persistent margin headwinds could weigh on earnings even as revenue grows.",
-        "Negative free cash flow of -$461M in Q1 is a serious concern; if the heavy investment cycle does not translate to FCF recovery in Q3–Q4 2026 as guided, investor confidence in the thesis will erode further."
+        "Despite a beat-and-raise quarter, the stock sold off ~8% as investors grew concerned about ongoing supply chain constraints that management flagged as lasting 'one to two years,' which could limit revenue upside even as demand remains robust and creates execution risk.",
+        "At a trailing P/E of ~63x, ANET is priced for sustained high growth, leaving limited room for guidance misses or macro-driven capex slowdowns from cloud hyperscalers. The stock had already rallied ~32% YTD before earnings, compressing the forward risk/reward ratio materially."
       ],
       "recommendation": "Hold",
-      "current_price": "$326.36",
-      "price_target": "$379.50 (+16.3%)",
-      "pe_ratio": "23.41",
-      "rsi": "N/A",
-      "vs_52wk_high": "-29.1% below high ($460.00)",
-      "analyst_rating": "Moderate Buy",
-      "sector": "Industrials - Aerospace & Defense (Naval Shipbuilding)",
-      "sources": ["GlobeNewswire", "ChartMill", "StockTitan", "Seeking Alpha", "MarketBeat", "Investing.com"]
+      "current_price": "$143.94",
+      "price_target": "$175.18 (+21.7%)",
+      "pe_ratio": "62.8",
+      "rsi": "53.4",
+      "vs_52wk_high": "-19.9% below high ($179.80)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Technology - Networking",
+      "sources": ["CNBC", "TheStreet", "Seeking Alpha", "Motley Fool", "JP Morgan", "StockAnalysis.com", "TIKR.com"]
     },
     {
-      "ticker": "FI",
-      "company": "Fiserv",
-      "discussion_driver": "Fiserv tumbled ~9% on May 5 after Q1 2026 results showed GAAP EPS down 29% YoY and GAAP revenue down 2%, compounding a catastrophic year-long decline from a $191 52-week high to ~$57. A leadership shakeup and ongoing lawsuit fallout added to the selling pressure. The stock's RSI of 7 marks it as one of the most extremely oversold large-cap financial stocks in the market, though the fundamental deterioration raises valid value-trap concerns.",
+      "ticker": "UAL",
+      "company": "United Airlines Holdings Inc.",
+      "discussion_driver": "United Airlines surged 7.6% on May 6 as reports of a US-Iran peace deal sent Brent crude plunging nearly 12% below $100 per barrel. Jet fuel is the single largest operating expense for airlines, and a sustained oil price decline of this magnitude would represent a significant and immediate boost to UAL's profit margins and free cash flow outlook for the remainder of 2026.",
       "bull_case": [
-        "With an RSI of just 7 and trading at roughly 9.9x trailing earnings — 70% below its 52-week high — Fiserv is priced for near-total collapse; the company maintained FY26 guidance of $8.00–$8.30 adjusted EPS and 1–3% organic revenue growth, and management expects H2 2026 to be significantly stronger.",
-        "Fiserv remains a dominant incumbent in financial technology infrastructure serving thousands of banks and credit unions; its long-term contracted revenue base and scale advantages are intact even if near-term results have disappointed, creating potential for a sharp mean-reversion bounce from extreme oversold levels."
+        "A sustained drop in crude prices — driven by the Iran peace deal unlocking additional supply — could save United Airlines hundreds of millions of dollars annually in fuel costs, meaningfully expanding operating margins and EPS beyond current analyst estimates. The airline's network scale gives it outsized leverage to falling input costs.",
+        "UAL trades at a trailing P/E of just ~8x, a steep discount to the broader market and its own historical average, while the analyst consensus Strong Buy rating carries an average price target of $130.59, implying over 39% upside from current levels. This low valuation provides a substantial margin of safety even if macro conditions soften."
       ],
       "bear_case": [
-        "GAAP operating margin collapsed to 18.3% from 27.2% YoY, GAAP EPS fell 29%, and organic revenue declined 4% — these are not one-off items but reflect structural pressures from competitive headwinds, a leadership shakeup, and lawsuit fallout that have yet to fully resolve.",
-        "With 22 of 35 analyst ratings at Hold and the stock still 43% below the median analyst target set months ago, the market has not found a floor; each earnings report brings another downside leg, making a value-trap scenario a real and ongoing risk."
+        "The stock remains ~21% below its 52-week high of $119.21, a reminder that market participants have been cautious about airline fundamentals amid recession fears and uncertain consumer spending trends — risks that don't evaporate with a single day's oil price move.",
+        "The Iran peace deal is preliminary and geopolitical situations evolve rapidly; oil prices could quickly rebound if negotiations stall or collapse, unwinding the fuel cost tailwind and likely reversing much of today's stock gain in an industry with notoriously thin operating margins."
       ],
-      "recommendation": "Hold",
-      "current_price": "$57.03",
-      "price_target": "$82.00 (+43.8%)",
-      "pe_ratio": "9.88",
-      "rsi": "7",
-      "vs_52wk_high": "-70.3% below high ($191.91)",
-      "analyst_rating": "Hold",
-      "sector": "Technology - Financial Services / Fintech",
-      "sources": ["Fiserv Investor Relations", "Motley Fool", "Benzinga", "FinTech Weekly", "Yahoo Finance", "GlobeNewswire"]
+      "recommendation": "Buy",
+      "current_price": "$93.88",
+      "price_target": "$130.59 (+39.1%)",
+      "pe_ratio": "8.04",
+      "rsi": "63.5",
+      "vs_52wk_high": "-21.2% below high ($119.21)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Industrials - Airlines",
+      "sources": ["Investing.com", "TheStreet", "Irish Times", "MarketBeat", "StockAnalysis.com", "Nasdaq.com", "TIKR.com"]
     },
     {
-      "ticker": "AMD",
-      "company": "Advanced Micro Devices",
-      "discussion_driver": "AMD delivered a strong Q1 2026 beat after the close on May 5: EPS $1.37 vs $1.25 expected, revenue $10.3B vs $9.89B expected, with Data Center revenue surging 57% YoY to $5.8B. Q2 guidance of ~$11.2B (+46% YoY) handily beat estimates. The stock rose ~2.4% during the regular session — partly lifted by the Intel-Apple chip news — and extended gains after hours. HSBC had downgraded AMD to Hold just before the print on valuation concerns.",
+      "ticker": "RCL",
+      "company": "Royal Caribbean Group",
+      "discussion_driver": "Royal Caribbean rose 7.6% on May 6 as the US-Iran peace deal triggered broad risk-on buying in travel and leisure stocks alongside a sharp drop in oil prices. This dual tailwind — lower fuel costs for cruise ships and stronger consumer confidence in leisure spending — reinforced the bullish narrative from RCL's Q1 2026 earnings beat (EPS $3.60 vs. $3.22 est.) and strong full-year guidance of $17.10–$17.50 EPS.",
       "bull_case": [
-        "AMD's Data Center segment hit $5.8B in Q1 (+57% YoY), and Q2 guidance of $11.2B signals accelerating AI infrastructure share gains; the upcoming Helios rack-scale AI system — already committed by OpenAI and Meta — positions AMD as a credible second-source to NVIDIA at the hyperscaler level.",
-        "AMD's expanding ROCm software ecosystem and MI350 GPU ramp are reducing NVIDIA's inference moat; with non-GAAP gross margin guided to ~56% in Q2, AMD is demonstrating improving AI chip economics that support the case for sustained revenue and earnings growth."
+        "Royal Caribbean delivered Q1 2026 EPS of $3.60, beating estimates by 11.8%, with revenue up 11% YoY to $4.5B. Management's full-year EPS guidance of $17.10–$17.50 and the ongoing Royal Beach Club expansion represent incremental revenue drivers that analysts value at an average price target of $341.50 — implying ~22% additional upside.",
+        "Falling oil prices are a meaningful tailwind for cruise economics, and recovering consumer confidence in international travel should sustain strong booking trends through 2026. At ~19.7x PE, RCL trades at a discount to the peer average of 35x, suggesting the market has not fully priced in the earnings recovery."
       ],
       "bear_case": [
-        "The trailing P/E of 135.8x is extraordinarily stretched; HSBC downgraded to Hold on valuation before the Q1 print, Cathie Wood shed $70M+ of AMD stock ahead of earnings, and with the stock within 3% of its 52-week high, elevated expectations leave little cushion for any guidance miss.",
-        "NVIDIA's CUDA ecosystem dominance in AI training workloads remains deep and difficult to displace; AMD's data center GPU share gains are concentrated in inference at a handful of hyperscalers, and any slowdown in AI capex could disproportionately impact AMD's growth trajectory."
+        "RCL trades approximately 24% below its 52-week high of $366.50, reflecting the market's ongoing concerns about geopolitical risk, high leverage from post-COVID fleet expansion, and potential softening in premium leisure spending if the US economy slows materially.",
+        "The Iran peace deal optimism driving today's rally is speculative — crude oil showed earlier this week it can spike aggressively on renewed US-Iran tensions, and a re-escalation would quickly reverse the fuel cost benefit and broad risk sentiment for cruise stocks, which carry higher debt than airlines."
       ],
-      "recommendation": "Hold",
-      "current_price": "$353.50",
-      "price_target": "$303.84 (-14.1%; Susquehanna raised to $375 post-earnings)",
-      "pe_ratio": "135.82",
-      "rsi": "70.8",
-      "vs_52wk_high": "-2.6% below high ($362.79)",
+      "recommendation": "Buy",
+      "current_price": "$279.00",
+      "price_target": "$341.50 (+22.4%)",
+      "pe_ratio": "22.3",
+      "rsi": "38.6",
+      "vs_52wk_high": "-23.9% below high ($366.50)",
       "analyst_rating": "Buy",
-      "sector": "Technology - Semiconductors",
-      "sources": ["StockTitan", "CNBC", "Alphastreet", "TipRanks", "MarketBeat", "stockanalysis.com"]
-    },
-    {
-      "ticker": "SNDK",
-      "company": "SanDisk Corporation",
-      "discussion_driver": "SanDisk surged 7.8% on May 5 to hit a fresh 52-week high of ~$1,419, swept up in the Intel-Apple foundry-driven semiconductor rally; the stock has now rallied over 3,314% from its spin-off lows since separating from Western Digital in February 2025. Recent Q3 FY2026 results showed non-GAAP EPS of $23.41 crushing the $14.66 estimate and revenue of $5.95B beating by 26%, validating the AI NAND supercycle thesis. Susquehanna doubled its price target to $2,000.",
-      "bull_case": [
-        "SanDisk has $42B in long-term NAND supply agreements, a $6B buyback program, and Q3 results that beat across every metric; AI data center storage demand is creating a structural NAND pricing reset — Jensen Huang declared at CES 2026 that AI has created a storage market that is 'completely unserved,' positioning SNDK for sustained multi-year demand.",
-        "As a pure-play NAND flash spin-off, SanDisk can fully redirect capex and management focus toward the highest-growth storage segment; with a forward P/E of ~8x on strong earnings momentum, the valuation is not stretched on a forward basis if the supercycle extends into 2028 as Bernstein projects in its $3,000 bull scenario."
-      ],
-      "bear_case": [
-        "With the average analyst consensus target at $953 — fully 32% below the current $1,413 price — the stock has dramatically outrun even the most optimistic pre-rally forecasts; the 3,314%+ rally from spin-off lows compresses future returns and creates extreme downside risk if NAND cycle dynamics reverse.",
-        "NAND flash has historically experienced brutal multi-year down cycles driven by supply overshoots; if AI capex moderates or SSD pricing normalizes, SNDK's forward earnings could collapse and the current premium multiple would leave the stock with no fundamental floor."
-      ],
-      "recommendation": "Hold",
-      "current_price": "$1,412.96",
-      "price_target": "$953.35 (-32.5%; Susquehanna bullish outlier at $2,000)",
-      "pe_ratio": "49.86",
-      "rsi": "N/A",
-      "vs_52wk_high": "-0.4% below high ($1,418.88)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Technology - Semiconductors (NAND Flash Storage)",
-      "sources": ["TipRanks", "24/7 Wall St.", "TradingKey", "Yahoo Finance", "MarketBeat", "MEXC Blog", "TechMarketBriefs"]
+      "sector": "Consumer Discretionary - Cruise Lines",
+      "sources": ["CNBC", "TheStreet", "MarketBeat", "StockAnalysis.com", "Simply Wall St", "Daily Political", "GuruFocus"]
     }
   ]
 }
