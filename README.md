@@ -2,402 +2,420 @@
 
 <div style="display:flex;gap:0.5rem;justify-content:center;margin:0.5rem 0 1.5rem;flex-wrap:wrap;"><a href="leaderboard.html" style="display:inline-flex;align-items:center;gap:0.4rem;background:#0f1729;color:white;padding:0.45rem 0.9rem;border-radius:6px;font-weight:500;font-size:0.82rem;text-decoration:none;letter-spacing:0.01em;">📊 Leaderboard</a><a href="tracker.html" style="display:inline-flex;align-items:center;gap:0.4rem;background:#0f1729;color:white;padding:0.45rem 0.9rem;border-radius:6px;font-weight:500;font-size:0.82rem;text-decoration:none;letter-spacing:0.01em;">📈 Tracker</a></div>
 
-**DATE:** 2026-05-05
+**DATE:** 2026-05-06
 **TOTAL STOCKS TRACKED:** 13
 **MARKET TONE:** Bullish
-**KEY THEMES:** Intel-Apple chip manufacturing talks trigger massive semiconductor rally and new all-time highs, Heavy earnings season: sharp bifurcation between guidance beaters and guidance misers, AI server demand drives Supermicro and sector higher; Shopify and PayPal punished on slowing outlooks
+**KEY THEMES:** Semiconductor super-cycle: AMD, SMCI, ARM all surge on strong earnings and guidance, Iran peace deal sparks oil price drop and broad travel/airline rally, Earnings divergence: guidance beats rewarded, even beats-with-soft-outlook punished (SHOP, ANET, CDW)
 
-**S&P 500:** 7,259.22 (+0.81%) • **NASDAQ:** 25,326.13 (+1.03%)
-
----
-
-## INTEL CORPORATION (INTC) ⭐
-
-**Discussion Driver:** Intel surged 13-15% to a new all-time high after Bloomberg reported Apple is in early-stage talks with Intel and Samsung to manufacture main processors for U.S. devices, igniting a massive short squeeze. The stock is now up 175%+ YTD and has quintupled from its 2025 lows, making it the defining story of the semiconductor sector's AI-era manufacturing renaissance.
-
-**Bull Case:**
-- The potential Apple foundry partnership would be transformational for Intel's manufacturing division, providing a premier anchor customer that validates its U.S.-based advanced chip fabrication strategy and could unlock billions in long-term contract revenue.
-- Intel's foundry business (Intel Foundry Services) is gaining critical momentum at exactly the moment geopolitical pressure pushes hyperscalers and device makers toward domestic U.S. chip production, positioning Intel as the primary beneficiary of reshoring policy tailwinds.
-
-**Bear Case:**
-- With RSI at 82 and the stock trading ~52% above the analyst consensus price target of ~$72, INTC is extremely overbought and significantly overextended relative to fundamental valuation; mean-reversion risk is acute.
-- The Apple talks are explicitly described as 'early-stage,' Intel still carries a negative P/E ratio reflecting ongoing profitability challenges, and manufacturing execution against TSMC and Samsung remains unproven at scale — the stock is pricing in a deal that may not materialize.
-
-**Recommendation:** Hold
-
-**Metrics:**
-| Metric | Value |
-|--------|-------| 
-| Current Price | $109.25 |
-| Price Target | $72.12 (-34.0%) |
-| P/E Ratio | -159.06 |
-| RSI | 82.19 |
-| vs 52-Wk High | AT new 52-week high ($108.73 prior high) |
-| Analyst Rating | Hold |
-| Sector | Technology - Semiconductors |
-
-**Sources:** Bloomberg, CNBC, Motley Fool, 24/7 Wall St., StockAnalysis, MarketBeat, WallStreetZen
+**S&P 500:** 7,365.12 (+1.46%) • **NASDAQ:** 25,838.94 (+2.02%)
 
 ---
 
-## SUPER MICRO COMPUTER (SMCI)
+## ADVANCED MICRO DEVICES (AMD) ⭐
 
-**Discussion Driver:** Supermicro soared ~19% after hours following a blowout Q3 fiscal 2026 earnings report: non-GAAP EPS of $0.84 beat estimates by 34.5%, and Q4 revenue guidance midpoint of $11.75B came in 7.6% above consensus, powered by surging AI server demand. The regular-session close of ~$28 is expected to reprice significantly higher when after-hours gains settle at the next open.
-
-**Bull Case:**
-- The Q3 earnings blowout and strong Q4 guidance demonstrate that AI server demand remains intense, with Supermicro's ability to rapidly design and deploy custom GPU-dense server configurations giving it a durable competitive edge with hyperscaler customers.
-- At a trailing P/E of ~21x and trading nearly 55% below its 52-week high, SMCI's valuation is highly compressed relative to its growth trajectory — a successful earnings re-rating could close a significant portion of that gap.
-
-**Bear Case:**
-- The company's co-founder faces serious allegations of smuggling Nvidia servers to China, creating significant governance, regulatory, and legal overhang that could result in sanctions, fines, or material disruption to the business.
-- Supermicro has a history of accounting compliance issues including delayed filings and restatements that have previously caused sharp selloffs; investor confidence in financial reporting remains fragile, and any further compliance missteps could trigger outsized declines.
-
-**Recommendation:** Speculative Buy
-
-**Metrics:**
-| Metric | Value |
-|--------|-------| 
-| Current Price | $28.03 |
-| Price Target | $35.64 (+27.1%) |
-| P/E Ratio | 20.8 |
-| RSI | N/A |
-| vs 52-Wk High | -55.1% below high ($62.36) |
-| Analyst Rating | Hold |
-| Sector | Technology - Server & Storage Systems |
-
-**Sources:** Seeking Alpha, Bloomberg, Yahoo Finance, MarketBeat, TipRanks, StockAnalysis
-
----
-
-## PALANTIR TECHNOLOGIES (PLTR) ⭐
-
-**Discussion Driver:** Palantir dropped ~5-7% on May 5 despite a blowout Q1 2026 earnings beat — adjusted EPS of $0.33 vs. $0.28 expected, revenue of $1.63B vs. $1.54B expected (+85% YoY) — and raised FY2026 guidance to $7.65-7.66B. The sell-the-news reaction reflects investor anxiety over Palantir's extreme valuation (~227x trailing P/E), which leaves no room for execution misses even as underlying AI platform fundamentals remain exceptional.
+**Discussion Driver:** AMD surged ~18% to a new 52-week high after Q1 2026 revenue of $10.3B beat estimates (+38% YoY), driven by a 57% surge in data center revenue and record free cash flow. Q2 guidance of $11.2B midpoint exceeded consensus, and Goldman Sachs upgraded the stock to Buy with a fresh $450 price target, validating the AI data center growth thesis.
 
 **Bull Case:**
-- Palantir's AIP (Artificial Intelligence Platform) is generating rapid commercial and government contract wins, with 85% YoY revenue growth demonstrating that AI is transitioning from pilot projects to full enterprise deployment — Palantir is uniquely positioned as the operational AI layer for critical infrastructure.
-- The consensus analyst price target of ~$195 implies ~33% upside from current levels, and the raised FY2026 guidance of $7.65B signals that management has strong revenue visibility, providing a credible path to justifying the premium valuation over time.
+- Data center revenue surged 57% YoY in Q1 2026 to a record level, fueled by hyperscaler demand for MI300 AI accelerators; Q2 guidance of $11.2B midpoint signals continued AI chip monetization acceleration with 45% YoY growth projected.
+- Goldman Sachs upgraded AMD to Buy with a $450 PT today citing competitive gains in AI infrastructure; AMD's forward P/E of 52.7x compares favorably to NVIDIA's premium valuation while the company is actively gaining AI data center market share.
 
 **Bear Case:**
-- A trailing P/E of ~227x is one of the highest multiples among large-cap tech stocks, meaning PLTR is priced for perfection across multiple years of flawless execution — any guidance miss, federal budget cuts, or macro slowdown could trigger a severe de-rating.
-- The sell-the-news selloff on strong earnings suggests the market had already priced in optimistic outcomes; with RSI indicating neutral-to-oversold conditions (~43) after the drop, near-term technical momentum is negative despite strong underlying fundamentals.
-
-**Recommendation:** Hold
-
-**Metrics:**
-| Metric | Value |
-|--------|-------| 
-| Current Price | $146.03 |
-| Price Target | $194.77 (+33.4%) |
-| P/E Ratio | 227.67 |
-| RSI | 42.62 |
-| vs 52-Wk High | -29.6% below high ($207.52) |
-| Analyst Rating | Buy |
-| Sector | Technology - AI Software & Analytics |
-
-**Sources:** CNBC, BNN Bloomberg, Proactive Investors, MarketBeat, TipRanks, Yahoo Finance
-
----
-
-## SHOPIFY (SHOP) ⭐
-
-**Discussion Driver:** Shopify fell ~12.6% after Q1 2026 results revealed a tension between strong top-line execution and disappointing forward guidance. Revenue of $3.17B (+34% YoY) beat estimates, but Q2 guidance of 'high-twenties' growth signals deceleration from Q1's pace, and a net loss of $581M ($0.45/share) significantly missed the $0.24 EPS consensus — a combination that punished the stock sharply despite continued underlying merchant platform strength.
-
-**Bull Case:**
-- Shopify's 34% YoY Q1 revenue growth and broad merchant ecosystem expansion confirm it is the dominant commerce operating system for merchants globally; the selloff on guidance deceleration may be an overreaction given that 'high-twenties' growth still represents category-leading performance.
-- With 62 Wall Street analysts maintaining a Buy consensus and an average price target of ~$159 (implying ~35% upside), institutional conviction in Shopify's long-term platform value — including payments, capital, and logistics services — remains strong despite near-term noise.
-
-**Bear Case:**
-- The Q2 guidance deceleration from 34% to 'high-twenties' growth, combined with a $581M net loss significantly exceeding estimates, suggests Shopify's heavy investment cycle is pressuring profitability precisely when investors are demanding a clearer path to sustainable earnings.
-- At a trailing P/E of 137x and trading 35% below its 52-week high, if revenue growth continues to decelerate toward 20-25%, the current valuation multiple is difficult to sustain and further compression remains likely.
-
-**Recommendation:** Hold
-
-**Metrics:**
-| Metric | Value |
-|--------|-------| 
-| Current Price | $117.45 |
-| Price Target | $159.49 (+35.8%) |
-| P/E Ratio | 137.15 |
-| RSI | N/A |
-| vs 52-Wk High | -35.5% below high ($182.19) |
-| Analyst Rating | Buy |
-| Sector | Technology - E-Commerce Platform |
-
-**Sources:** Bloomberg, Yahoo Finance, Investing.com, Motley Fool, StockAnalysis, MarketBeat
-
----
-
-## PAYPAL HOLDINGS (PYPL)
-
-**Discussion Driver:** PayPal fell ~10% after Q1 2026 earnings that beat on adjusted EPS ($1.34) and revenue (~$8.38B, +7% YoY), but investors focused on the downbeat Q2 forward outlook signaling decelerating growth. The reaction highlights persistent concerns that PayPal is losing digital payment market share to Apple Pay, Stripe, and Cash App — despite the stock now trading at one of its most attractive valuations in years at ~9x trailing earnings.
-
-**Bull Case:**
-- With a trailing P/E of ~9x representing a 77% discount to its 10-year historical average and trading at nearly one-third the valuation of fintech peers, PayPal offers compelling value; Venmo's 14% growth and $464B in quarterly TPV demonstrate the payments platform remains fundamentally healthy.
-- Q1 2026 execution showed continued turnaround progress — adj. EPS of $1.34, GAAP net income of $1.11B, and resilient Venmo and merchant services growth provide a foundation for a re-rating if Q2 guidance fears prove overstated.
-
-**Bear Case:**
-- The downbeat Q2 2026 outlook and -41.6% decline from the 52-week high reflect structural concerns about PayPal's competitive positioning; Apple Pay's seamless device integration, Stripe's developer dominance, and Cash App's younger demographic are eroding PayPal's network effect advantages in ways sequential earnings beats may not overcome.
-- Revenue growth of just 7% YoY suggests PayPal may be entering a prolonged period of slower growth as a maturing fintech franchise, making the value trap scenario — cheap for good reason — a legitimate risk that keeps institutional investors cautious.
-
-**Recommendation:** Hold
-
-**Metrics:**
-| Metric | Value |
-|--------|-------| 
-| Current Price | $46.40 |
-| Price Target | $61.48 (+32.5%) |
-| P/E Ratio | 9.20 |
-| RSI | 51.41 |
-| vs 52-Wk High | -41.6% below high ($79.50) |
-| Analyst Rating | Hold |
-| Sector | Technology - Digital Payments / Fintech |
-
-**Sources:** CNBC, Bloomberg, StockAnalysis, MarketBeat, Zacks, Yahoo Finance
-
----
-
-## MICRON TECHNOLOGY (MU) ⭐
-
-**Discussion Driver:** Micron surged ~10% on May 5, crossing a $700B market cap and hitting a new 52-week high, as Intel's reported talks with Apple to manufacture U.S. chips ignited a broad semiconductor rally. The news rekindled enthusiasm for AI memory stocks given Micron's dominant HBM supply position — the company is now up over 100% YTD. Several analysts carry targets above $700 with DA Davidson at $1,000.
-
-**Bull Case:**
-- Micron has locked in its entire 2026 HBM supply under multi-year contracts with hyperscalers, providing unprecedented revenue visibility and pricing power that legacy DRAM cycles never offered; fiscal Q2 revenue nearly tripled YoY to $23.9B with a company-record 75% gross margin.
-- AI infrastructure buildout is fundamentally memory-intensive — data center bits exceeded 50% of industry TAM for the first time in 2026, and Micron can only fulfill 50–66% of key customer demand in the medium term, keeping supply-demand dynamics firmly in Micron's favor.
-
-**Bear Case:**
-- Memory has been cyclical for 50+ years; Samsung and SK Hynix are aggressively expanding HBM capacity, and combined industry capex of $58B+ in 2026 risks overshooting demand if AI spending moderates or macro conditions deteriorate.
-- At roughly 26x trailing P/E after a parabolic rally, the stock leaves little margin for error; any normalization of hyperscaler AI capex budgets (flagged in late-April WSJ reporting on OpenAI cost concerns) could trigger a sharp de-rating.
+- Trailing P/E of 135.8x leaves little margin for error; any guidance miss or macro softening could trigger significant multiple compression given the lofty premium embedded in current valuations after an 18% single-day surge.
+- NVIDIA retains dominant AI GPU market share with deep CUDA ecosystem lock-in; AMD's MI300 ramp faces competition from both NVIDIA Blackwell and custom silicon from hyperscalers (Google TPU, Amazon Trainium).
 
 **Recommendation:** Buy
 
 **Metrics:**
 | Metric | Value |
 |--------|-------| 
-| Current Price | $674.99 |
-| Price Target | $574.67 (-14.8%; consensus lags recent surge — select targets reach $1,000) |
-| P/E Ratio | 26.0 |
-| RSI | N/A |
-| vs 52-Wk High | -1.5% below high ($684.95) |
-| Analyst Rating | Strong Buy |
-| Sector | Technology - Semiconductors (Memory/HBM) |
-
-**Sources:** 24/7 Wall St., FX Leaders, Yahoo Finance, TikR, Artvoice, MarketBeat
-
----
-
-## HUNTINGTON INGALLS INDUSTRIES (HII)
-
-**Discussion Driver:** HII fell ~11% on May 5 despite reporting Q1 revenue of $3.1B (+13.4% YoY) and reaffirming full-year guidance; investors focused on operating margin compression (5.0% vs 5.9% prior year) and deeply negative free cash flow of -$461M. The disconnect between top-line growth and profitability spooked investors who had been betting on margin recovery in the U.S. Navy's largest shipbuilding cycle in decades.
-
-**Bull Case:**
-- HII entered Q2 with a $54B total backlog — including $4.0B in new Q1 contract awards — providing exceptional long-term revenue visibility as the U.S. Navy accelerates its largest shipbuilding program in decades, covering aircraft carriers, submarines, and surface combatants.
-- At 16%+ below the analyst consensus target and nearly 29% off its 52-week high, HII trades at a meaningful discount for a defense prime with a decades-long monopoly on nuclear-powered warship construction; management reaffirmed FY26 free cash flow guidance of $500–600M, suggesting Q1's cash burn was timing-related.
-
-**Bear Case:**
-- Operating margin compressed to 5.0% from 5.9% due to contract adjustments and underperformance at the Newport News aircraft carrier program — persistent margin headwinds could weigh on earnings even as revenue grows.
-- Negative free cash flow of -$461M in Q1 is a serious concern; if the heavy investment cycle does not translate to FCF recovery in Q3–Q4 2026 as guided, investor confidence in the thesis will erode further.
-
-**Recommendation:** Hold
-
-**Metrics:**
-| Metric | Value |
-|--------|-------| 
-| Current Price | $326.36 |
-| Price Target | $379.50 (+16.3%) |
-| P/E Ratio | 23.41 |
-| RSI | N/A |
-| vs 52-Wk High | -29.1% below high ($460.00) |
-| Analyst Rating | Moderate Buy |
-| Sector | Industrials - Aerospace & Defense (Naval Shipbuilding) |
-
-**Sources:** GlobeNewswire, ChartMill, StockTitan, Seeking Alpha, MarketBeat, Investing.com
-
----
-
-## FISERV (FI)
-
-**Discussion Driver:** Fiserv tumbled ~9% on May 5 after Q1 2026 results showed GAAP EPS down 29% YoY and GAAP revenue down 2%, compounding a catastrophic year-long decline from a $191 52-week high to ~$57. A leadership shakeup and ongoing lawsuit fallout added to the selling pressure. The stock's RSI of 7 marks it as one of the most extremely oversold large-cap financial stocks in the market, though the fundamental deterioration raises valid value-trap concerns.
-
-**Bull Case:**
-- With an RSI of just 7 and trading at roughly 9.9x trailing earnings — 70% below its 52-week high — Fiserv is priced for near-total collapse; the company maintained FY26 guidance of $8.00–$8.30 adjusted EPS and 1–3% organic revenue growth, and management expects H2 2026 to be significantly stronger.
-- Fiserv remains a dominant incumbent in financial technology infrastructure serving thousands of banks and credit unions; its long-term contracted revenue base and scale advantages are intact even if near-term results have disappointed, creating potential for a sharp mean-reversion bounce from extreme oversold levels.
-
-**Bear Case:**
-- GAAP operating margin collapsed to 18.3% from 27.2% YoY, GAAP EPS fell 29%, and organic revenue declined 4% — these are not one-off items but reflect structural pressures from competitive headwinds, a leadership shakeup, and lawsuit fallout that have yet to fully resolve.
-- With 22 of 35 analyst ratings at Hold and the stock still 43% below the median analyst target set months ago, the market has not found a floor; each earnings report brings another downside leg, making a value-trap scenario a real and ongoing risk.
-
-**Recommendation:** Hold
-
-**Metrics:**
-| Metric | Value |
-|--------|-------| 
-| Current Price | $57.03 |
-| Price Target | $82.00 (+43.8%) |
-| P/E Ratio | 9.88 |
-| RSI | 7 |
-| vs 52-Wk High | -70.3% below high ($191.91) |
-| Analyst Rating | Hold |
-| Sector | Technology - Financial Services / Fintech |
-
-**Sources:** Fiserv Investor Relations, Motley Fool, Benzinga, FinTech Weekly, Yahoo Finance, GlobeNewswire
-
----
-
-## ADVANCED MICRO DEVICES (AMD) ⭐
-
-**Discussion Driver:** AMD delivered a strong Q1 2026 beat after the close on May 5: EPS $1.37 vs $1.25 expected, revenue $10.3B vs $9.89B expected, with Data Center revenue surging 57% YoY to $5.8B. Q2 guidance of ~$11.2B (+46% YoY) handily beat estimates. The stock rose ~2.4% during the regular session — partly lifted by the Intel-Apple chip news — and extended gains after hours. HSBC had downgraded AMD to Hold just before the print on valuation concerns.
-
-**Bull Case:**
-- AMD's Data Center segment hit $5.8B in Q1 (+57% YoY), and Q2 guidance of $11.2B signals accelerating AI infrastructure share gains; the upcoming Helios rack-scale AI system — already committed by OpenAI and Meta — positions AMD as a credible second-source to NVIDIA at the hyperscaler level.
-- AMD's expanding ROCm software ecosystem and MI350 GPU ramp are reducing NVIDIA's inference moat; with non-GAAP gross margin guided to ~56% in Q2, AMD is demonstrating improving AI chip economics that support the case for sustained revenue and earnings growth.
-
-**Bear Case:**
-- The trailing P/E of 135.8x is extraordinarily stretched; HSBC downgraded to Hold on valuation before the Q1 print, Cathie Wood shed $70M+ of AMD stock ahead of earnings, and with the stock within 3% of its 52-week high, elevated expectations leave little cushion for any guidance miss.
-- NVIDIA's CUDA ecosystem dominance in AI training workloads remains deep and difficult to displace; AMD's data center GPU share gains are concentrated in inference at a handful of hyperscalers, and any slowdown in AI capex could disproportionately impact AMD's growth trajectory.
-
-**Recommendation:** Hold
-
-**Metrics:**
-| Metric | Value |
-|--------|-------| 
-| Current Price | $353.50 |
-| Price Target | $303.84 (-14.1%; Susquehanna raised to $375 post-earnings) |
+| Current Price | $421.43 |
+| Price Target | $450.00 (+6.8%) |
 | P/E Ratio | 135.82 |
-| RSI | 70.8 |
-| vs 52-Wk High | -2.6% below high ($362.79) |
-| Analyst Rating | Buy |
+| RSI | 80.6 |
+| vs 52-Wk High | -2.1% below high ($430.60) |
+| Analyst Rating | Strong Buy |
 | Sector | Technology - Semiconductors |
 
-**Sources:** StockTitan, CNBC, Alphastreet, TipRanks, MarketBeat, stockanalysis.com
+**Sources:** Goldman Sachs, CNBC, Bloomberg, MarketBeat, Benzinga, StockAnalysis
 
 ---
 
-## SANDISK CORPORATION (SNDK)
+## SUPER MICRO COMPUTER (SMCI) ⭐
 
-**Discussion Driver:** SanDisk surged 7.8% on May 5 to hit a fresh 52-week high of ~$1,419, swept up in the Intel-Apple foundry-driven semiconductor rally; the stock has now rallied over 3,314% from its spin-off lows since separating from Western Digital in February 2025. Recent Q3 FY2026 results showed non-GAAP EPS of $23.41 crushing the $14.66 estimate and revenue of $5.95B beating by 26%, validating the AI NAND supercycle thesis. Susquehanna doubled its price target to $2,000.
+**Discussion Driver:** SMCI surged 24.5% after Q4 profit guidance of $0.65–$0.79 per share demolished the Wall Street estimate of $0.55; the company also raised FY2026 full-year revenue guidance to $38.9–$40.4B on AI server demand. Significant legal overhang persists, however, after co-founder Wally Liaw was charged with conspiring to illegally route $2.5B in Nvidia-chipped servers to China.
 
 **Bull Case:**
-- SanDisk has $42B in long-term NAND supply agreements, a $6B buyback program, and Q3 results that beat across every metric; AI data center storage demand is creating a structural NAND pricing reset — Jensen Huang declared at CES 2026 that AI has created a storage market that is 'completely unserved,' positioning SNDK for sustained multi-year demand.
-- As a pure-play NAND flash spin-off, SanDisk can fully redirect capex and management focus toward the highest-growth storage segment; with a forward P/E of ~8x on strong earnings momentum, the valuation is not stretched on a forward basis if the supercycle extends into 2028 as Bernstein projects in its $3,000 bull scenario.
+- AI server demand remains robust enough to drive Q4 EPS guidance 18–44% above consensus; full-year revenue guidance now $38.9–$40.4B reflects SMCI's critical position as a first-to-market provider of liquid-cooled AI server infrastructure for hyperscale data center deployments.
+- Trailing P/E of just 17.4x is among the lowest in AI infrastructure hardware, offering value relative to semiconductor peers; recovery from 52-week lows and today's guidance-driven surge suggest the market is beginning to look past certain legal headwinds.
 
 **Bear Case:**
-- With the average analyst consensus target at $953 — fully 32% below the current $1,413 price — the stock has dramatically outrun even the most optimistic pre-rally forecasts; the 3,314%+ rally from spin-off lows compresses future returns and creates extreme downside risk if NAND cycle dynamics reverse.
-- NAND flash has historically experienced brutal multi-year down cycles driven by supply overshoots; if AI capex moderates or SSD pricing normalizes, SNDK's forward earnings could collapse and the current premium multiple would leave the stock with no fundamental floor.
+- Co-founder and former executive Wally Liaw has been criminally charged with conspiring to smuggle $2.5B in Nvidia-chipped servers to China; pending securities fraud class actions create material legal risk that could impair operations or result in substantial fines.
+- Stock remains 44% below its 52-week high of $62.36 despite today's surge, reflecting deep structural investor skepticism; gross margin pressure and competitive pricing dynamics in AI servers could limit the pace and magnitude of a profitability recovery.
 
-**Recommendation:** Hold
+**Recommendation:** Speculative Buy
 
 **Metrics:**
 | Metric | Value |
 |--------|-------| 
-| Current Price | $1,412.96 |
-| Price Target | $953.35 (-32.5%; Susquehanna bullish outlier at $2,000) |
-| P/E Ratio | 49.86 |
+| Current Price | $34.67 |
+| Price Target | $35.64 (+2.8%) |
+| P/E Ratio | 17.44 |
 | RSI | N/A |
-| vs 52-Wk High | -0.4% below high ($1,418.88) |
+| vs 52-Wk High | -44.4% below high ($62.36) |
+| Analyst Rating | Hold |
+| Sector | Technology - AI Server Infrastructure |
+
+**Sources:** CNBC, TheStreet, Benzinga, 247WallSt, Fortune, StockAnalysis, MarketBeat
+
+---
+
+## ARM HOLDINGS (ARM) ⭐
+
+**Discussion Driver:** ARM jumped 13.6% intraday and an additional +8% after-hours after beating both revenue and earnings estimates for Q4 FY2026. UBS raised its 12-month price target from $175 to $245, reflecting accelerating AI-driven royalty growth as ARM-based chips proliferate across smartphones, data centers, and automotive platforms.
+
+**Bull Case:**
+- ARM's architecture powers virtually all mobile devices globally and is rapidly expanding into AI data center compute with its v9 architecture commanding higher royalty rates per chip; UBS raised PT to $245 citing this royalty uplift cycle as a durable multi-year tailwind.
+- Asset-light IP licensing model generates 80%+ gross margins with minimal capital requirements; as AI inference workloads increasingly migrate to ARM-based custom silicon (Apple, Amazon Graviton, Google Axion), royalty revenue compounds regardless of which chip manufacturer wins.
+
+**Bear Case:**
+- Trailing P/E of 311x and forward P/E of 121.5x reflect extreme growth expectations; any deceleration in smartphone unit growth or slower-than-expected AI data center adoption could cause severe multiple compression from these elevated levels.
+- RISC-V open-source architecture is gaining momentum among cost-sensitive chipmakers and hyperscalers looking to reduce licensing costs; a structural shift away from ARM licensing could erode long-term royalty streams, especially in price-sensitive emerging markets.
+
+**Recommendation:** Buy
+
+**Metrics:**
+| Metric | Value |
+|--------|-------| 
+| Current Price | $228.12 |
+| Price Target | $245.00 (+7.4%) |
+| P/E Ratio | 311.32 |
+| RSI | 63.94 |
+| vs 52-Wk High | -4.0% below high ($237.68) |
 | Analyst Rating | Strong Buy |
-| Sector | Technology - Semiconductors (NAND Flash Storage) |
+| Sector | Technology - Semiconductor IP |
 
-**Sources:** TipRanks, 24/7 Wall St., TradingKey, Yahoo Finance, MarketBeat, MEXC Blog, TechMarketBriefs
+**Sources:** CNBC, Bloomberg, UBS, MarketBeat, StockAnalysis, Benzinga
 
 ---
 
-## TERADYNE, INC. (TER)
+## FLEX LTD (FLEX)
 
-**Discussion Driver:** Teradyne surged 7.67% on May 5 as the broader semiconductor sector rallied on Intel-Apple chip manufacturing news. The move adds to TER's dramatic year — up ~78% YTD after its own blowout Q1 2026 earnings (revenue +87% YoY to a record $1.28B; non-GAAP EPS $2.56 beat by 23%), though shares had pulled back nearly 19% from an April 24 all-time high of $422.11 on concerns about AI demand sustainability before today's sector-wide tailwind.
+**Discussion Driver:** Flex surged ~35% after announcing plans to spin off its high-growth Cloud and Power Infrastructure segment into an independent public company (SpinCo) by Q1 2027, targeting 65–75% revenue growth in FY2027. Record Q4 FY2026 results with revenue of $7.48B beating estimates by 7.5% and FY2027 EPS guidance of $4.21–$4.51 vs. the prior consensus of $3.67 added further fuel to the rally.
 
 **Bull Case:**
-- AI chip testing demand is exploding, with AI now accounting for approximately 70% of Teradyne's revenue; Q1 2026 set records across the board including the Semiconductor Test segment exceeding $1B revenue for the first time, 60.9% gross margin, and 37.5% operating margin — demonstrating exceptional pricing power as GPU complexity rises.
-- Teradyne occupies a critical chokepoint in the AI semiconductor supply chain with high switching costs — chip designers cannot easily migrate test infrastructure mid-cycle — giving TER durable structural advantages even as competition from Advantest intensifies in specific GPU segments.
+- The Cloud & Power Infrastructure SpinCo is expected to grow 65–75% in FY2027 and >80% in FY2028, unlocking substantial value previously hidden within Flex's blended conglomerate valuation; the separation should allow both entities to be valued on standalone growth multiples.
+- Core business momentum is strong: record Q4 FY2026 revenue of $7.48B beat estimates by 7.5% and adjusted EPS of $0.93 beat by 8.1%; FY2027 EPS guidance of $4.21–$4.51 is 15–23% above prior analyst consensus, signaling durable underlying earnings power.
 
 **Bear Case:**
-- Despite a massive Q1 beat, shares plunged ~19% post-earnings as investors questioned growth sustainability; management declined to provide FY2026 TAM estimates citing AI demand uncertainty, and the ~70% AI revenue concentration means any hyperscaler capex pullback could disproportionately hurt results.
-- Rival Advantest holds a superior position in GPU testing — the highest-growth segment — representing a structural headwind to TER's market share; at a trailing P/E above 60x, the stock leaves minimal margin of safety if AI chip testing demand growth decelerates even modestly.
+- Analyst price targets remain in the $84–$88 range, more than 30% below the post-surge stock price, indicating the market has moved far ahead of analyst models; near-term pullback risk is elevated with RSI at 77.4, firmly in overbought territory.
+- Spin-off execution risk is material: separating the high-growth Cloud/Power segment while maintaining operational continuity for both entities is complex, and the SpinCo timeline extends to Q1 2027, creating over nine months of structural and operational uncertainty.
 
 **Recommendation:** Hold
 
 **Metrics:**
 | Metric | Value |
 |--------|-------| 
-| Current Price | $345.42 |
-| Price Target | $369.53 (+7.0%) |
-| P/E Ratio | 63.4 |
-| RSI | 46.7 |
-| vs 52-Wk High | -18.2% below high ($422.11) |
+| Current Price | $126.14 |
+| Price Target | $88.00 (-30.2%) |
+| P/E Ratio | 41.60 |
+| RSI | 77.44 |
+| vs 52-Wk High | -2.8% below high ($129.78) |
 | Analyst Rating | Buy |
-| Sector | Technology - Semiconductor Equipment |
+| Sector | Technology - Electronic Manufacturing Services / AI Infrastructure |
 
-**Sources:** Yahoo Finance, MarketBeat, TradingKey, Meyka, Investing.com, 24/7 Wall St., TIKR.com
+**Sources:** Benzinga, PR Newswire, Yahoo Finance, StockAnalysis, MarketBeat, Baird, TipRanks
 
 ---
 
-## PFIZER INC. (PFE)
+## WALT DISNEY (DIS)
 
-**Discussion Driver:** Pfizer rose ~2.2% on May 5 after Q1 2026 results beat on both lines: revenue $14.45B vs. $13.92B estimated and adjusted EPS $0.75 vs. $0.72 consensus. The company reaffirmed its FY2026 guidance and settled Vyndamax patent litigation extending exclusivity to June 2031 — a meaningful positive against the backdrop of a looming $17B patent cliff by 2030 that has kept the stock near multi-year lows and at a single-digit P/E.
+**Discussion Driver:** Disney rose ~7% after Q2 FY2026 EPS of $1.57 beat the $1.49 consensus estimate; streaming operating income surged 88% YoY and Disney achieved an 11% streaming operating margin for the first time ever—a major profitability milestone. Full-year FY2026 EPS guidance of $6.64 aligned with consensus, signaling steady execution across parks, streaming, and content divisions.
 
 **Bull Case:**
-- Pfizer's non-COVID portfolio is accelerating with oncology drugs Padcev (+39%), Lorbrena (+38%), and migraine drug Nurtec (+42%) posting strong Q1 growth, while the $10B acquisition of obesity biotech Metsera opens a high-growth new vertical — demonstrating real diversification beyond pandemic-era products.
-- At ~8x earnings with a 12%+ upside to consensus price target, PFE is priced for near-worst-case outcomes; the Vyndamax patent settlement extends a key revenue stream to 2031, and Pfizer's 2026 pipeline targets include ~20 pivotal study starts and 8 key data readouts — any meaningful success could re-rate the stock materially from depressed levels.
+- Streaming reached 11% operating margin in Q2 FY2026—an 88% YoY improvement and a first-ever milestone—demonstrating that Disney+ and Hulu have crossed a durable profitability inflection point, transforming from a cash drain into a high-margin growth engine.
+- Analyst consensus Buy with a $132.62 price target implies 23.5% upside from current levels; P/E of ~15x is well below the media peer average, offering a compelling margin of safety for long-term investors as streaming margin continues to scale.
 
 **Bear Case:**
-- The $17B patent cliff by 2030 is structural and unavoidable — multiple major revenue contributors will lose exclusivity and face generic competition at a scale that no single pipeline drug or acquisition can fully offset in the available timeframe.
-- Revenue is essentially flat: FY2026 guidance of $59.5–$62.5B is roughly in line with or slightly below 2025's $62.6B, as declining Comirnaty and Paxlovid sales (~$1.5B annual headwind each) weigh heavily and limit near-term earnings growth, keeping the stock range-bound absent a major pipeline catalyst.
+- Despite today's surge, DIS remains 13.8% below its 52-week high of $124.69, reflecting persistent investor concerns about secular decline in traditional linear TV and ESPN cord-cutting, with structural headwinds in legacy media still weighing on sentiment.
+- Streaming competition from Netflix, Amazon Prime Video, and Apple TV+ continues to intensify; escalating content spending required to maintain subscriber growth and retention could pressure the newly achieved streaming margin improvements over coming quarters.
 
-**Recommendation:** Hold
+**Recommendation:** Buy
 
 **Metrics:**
 | Metric | Value |
 |--------|-------| 
-| Current Price | $26.01 |
-| Price Target | $29.29 (+12.6%) |
-| P/E Ratio | 8.3 |
-| RSI | 59.3 |
-| vs 52-Wk High | -9.5% below high ($28.75) |
-| Analyst Rating | Buy |
-| Sector | Healthcare - Pharmaceuticals |
-
-**Sources:** CNBC, Proactive Investors, Benzinga, MarketBeat, GuruFocus, StockAnalysis, Morningstar
-
----
-
-## ARISTA NETWORKS, INC. (ANET)
-
-**Discussion Driver:** Arista Networks reported Q1 2026 financial results on May 5 showing revenue of $2.709B (+35.1% YoY, +8.9% QoQ) and non-GAAP EPS of $0.87 (vs. $0.66 a year ago), with non-GAAP operating margins holding at 47.8%. The company maintains an NPS customer score of 89 — best-in-class for enterprise networking — and the strong print reinforced Arista's position as the dominant AI data center networking vendor amid record hyperscaler capex spending.
-
-**Bull Case:**
-- Arista's AI cluster connectivity solutions are mission-critical for Microsoft, Meta, and other hyperscalers; Q1 2026 revenue of $2.709B at 47.8% non-GAAP operating margins demonstrates that ANET has exceptional pricing power and operating leverage as AI-driven networking demand continues to outpace supply, with the stock up 33% YTD on fundamental strength.
-- An NPS score of 89 and the sticky EOS network operating system create durable competitive advantages — once hyperscalers standardize on Arista's platform, switching costs are extremely high, protecting market share against Cisco and new entrants as AI networking budgets compound.
-
-**Bear Case:**
-- At a trailing P/E of 61x with the stock trading within 3% of its 52-week high, ANET is priced for perfection; Q1 gross margins dipped to 62.4% due to customer mix shifts and supply chain costs, and any guidance miss or meaningful deceleration in AI capex could trigger a sharp derating from current levels.
-- Hyperscaler concentration risk is significant — Arista's growth depends on a small number of very large customers whose networking capex can be deferred or redirected; historical data center spending cycles show these customers can pull back sharply, and a slowdown in AI infrastructure investment would have an outsized impact on ANET given its customer mix.
-
-**Recommendation:** Hold
-
-**Metrics:**
-| Metric | Value |
-|--------|-------| 
-| Current Price | ~$175.00 |
-| Price Target | $175.18 (+0.1%) |
-| P/E Ratio | 61.3 |
+| Current Price | $107.42 |
+| Price Target | $132.62 (+23.5%) |
+| P/E Ratio | 15.23 |
 | RSI | N/A |
-| vs 52-Wk High | -2.7% below high ($179.80) |
-| Analyst Rating | Strong Buy |
-| Sector | Technology - Cloud Networking |
+| vs 52-Wk High | -13.8% below high ($124.69) |
+| Analyst Rating | Buy |
+| Sector | Entertainment / Streaming Media |
 
-**Sources:** Arista Networks IR, BusinessWire, MarketBeat, Motley Fool, Benzinga, StockAnalysis, Tickeron
+**Sources:** CNBC, 247 Wall St., Motley Fool, Yahoo Finance, StockAnalysis, MarketBeat
+
+---
+
+## SHOPIFY INC. (SHOP) ⭐
+
+**Discussion Driver:** Shopify plummeted 15.6% on May 5 despite posting a strong Q1 2026 earnings beat — revenue surged 34% YoY to $3.17B, clearing the $3.09B consensus. The selloff was driven entirely by Q2 guidance of 'high-twenties' percentage revenue growth, a sharp deceleration from Q1's 34% pace that disappointed investors banking on sustained hypergrowth.
+
+**Bull Case:**
+- Revenue grew 34% YoY to $3.17B in Q1 2026, handily beating estimates, while AI-powered channels are driving nearly 13x order growth, indicating Shopify's commerce infrastructure is expanding meaningfully into next-generation retail. A $2B share buyback program signals management's conviction in intrinsic value at current depressed levels.
+- The consensus analyst price target of ~$159 implies nearly 48% upside from current levels, with 38 of 51 analysts maintaining Buy ratings. Even Wells Fargo's reduced target of $144 represents a 34% premium to the current price, suggesting broad institutional conviction that the post-earnings dip is overdone.
+
+**Bear Case:**
+- Q2 revenue growth guidance of 'high-twenties' percentage marks a meaningful step-down from the 34% pace posted in Q1, signaling potential structural deceleration as Shopify's merchant base matures and macro headwinds pressure consumer spending.
+- The trailing P/E of ~117x leaves virtually no margin of safety if growth continues to slow. On a GAAP basis, Shopify reported a $581M net loss in Q1, highlighting the persistent gap between adjusted and reported profitability that could weigh on sentiment if growth decelerates further.
+
+**Recommendation:** Hold
+
+**Metrics:**
+| Metric | Value |
+|--------|-------| 
+| Current Price | $107.63 |
+| Price Target | $159.00 (+47.7%) |
+| P/E Ratio | 116.7 |
+| RSI | 53.5 |
+| vs 52-Wk High | -40.9% below high ($182.19) |
+| Analyst Rating | Buy |
+| Sector | Technology - E-Commerce |
+
+**Sources:** Yahoo Finance, Investing.com, Seeking Alpha, 247 Wall St., Wells Fargo Research, Zacks, CNBC
+
+---
+
+## UBER TECHNOLOGIES INC. (UBER)
+
+**Discussion Driver:** Uber reported Q1 2026 results on May 6 with GAAP revenue of $13.2B slightly missing the $13.29B estimate, but gross bookings surged 25% to $53.7B above consensus. Q2 bookings guidance of $56.25–$57.75B beat expectations, reassuring investors that platform momentum is intact and sending the stock up approximately 10% as forward earnings growth of 31–38% YoY takes center stage.
+
+**Bull Case:**
+- Gross bookings grew 25% to $53.7B in Q1 — combined with Q2 guidance that implies continued acceleration — demonstrating that Uber's dual-sided mobility and delivery marketplace is expanding well ahead of Wall Street expectations. Non-GAAP EPS of $0.72 was a 44% YoY improvement, showing strong operating leverage as the platform scales.
+- The analyst consensus of Strong Buy carries an average price target of $107.12 implying roughly 35% upside from current post-earnings levels. At a trailing P/E of ~13x, Uber is valued well below many high-growth peers, making it one of the more attractively priced platform businesses in the market today.
+
+**Bear Case:**
+- GAAP EPS of $0.13 badly missed the $0.70 consensus estimate due to one-time charges, illustrating persistent volatility in reported profitability that clouds the true earnings trajectory. The revenue miss, however slight, may raise questions about whether top-line deceleration is beginning.
+- Autonomous vehicle competition from Waymo, Tesla, and others could structurally compress take rates and disrupt Uber's core ride-sharing model over the next two to three years. The stock still trades roughly 22% below its 52-week high of $101.99, reflecting ongoing market skepticism about long-term competitive positioning.
+
+**Recommendation:** Buy
+
+**Metrics:**
+| Metric | Value |
+|--------|-------| 
+| Current Price | $79.50 |
+| Price Target | $107.12 (+34.7%) |
+| P/E Ratio | 13.35 |
+| RSI | 55.4 |
+| vs 52-Wk High | -22.1% below high ($101.99) |
+| Analyst Rating | Strong Buy |
+| Sector | Technology - Ride-Sharing & Delivery |
+
+**Sources:** CNBC, Bloomberg, Yahoo Finance, Investing.com, StockAnalysis.com, Benzinga, Rolling Out
+
+---
+
+## ARISTA NETWORKS INC. (ANET) ⭐
+
+**Discussion Driver:** Arista Networks fell approximately 8% on May 5–6 despite delivering a clear beat-and-raise quarter: Q1 revenue of $2.71B grew 35% YoY above estimates, and full-year guidance was raised to ~$11.5B with an AI fabric revenue target increase to $3.5B. Investors focused on management's acknowledgment that supply chain constraints will persist for one to two years, and uncertainty around the pace of AI data-center capex spending pressured the already-extended valuation.
+
+**Bull Case:**
+- Arista's Q1 2026 revenue of $2.71B represents 35% YoY growth, and the company raised its full-year revenue outlook to ~$11.5B while increasing its AI fabric revenue target to $3.5B — demonstrating that hyperscaler AI infrastructure buildout is translating directly into accelerating demand for Arista's high-speed networking gear.
+- JP Morgan raised its price target to $200 (Overweight) following the earnings report, and the consensus price target of $175.18 implies ~21.7% upside. Arista's dominant market position in cloud networking and early lead in AI fabric architecture makes it a key infrastructure beneficiary of the multi-year AI capex cycle.
+
+**Bear Case:**
+- Despite a beat-and-raise quarter, the stock sold off ~8% as investors grew concerned about ongoing supply chain constraints that management flagged as lasting 'one to two years,' which could limit revenue upside even as demand remains robust and creates execution risk.
+- At a trailing P/E of ~63x, ANET is priced for sustained high growth, leaving limited room for guidance misses or macro-driven capex slowdowns from cloud hyperscalers. The stock had already rallied ~32% YTD before earnings, compressing the forward risk/reward ratio materially.
+
+**Recommendation:** Hold
+
+**Metrics:**
+| Metric | Value |
+|--------|-------| 
+| Current Price | $143.94 |
+| Price Target | $175.18 (+21.7%) |
+| P/E Ratio | 62.8 |
+| RSI | 53.4 |
+| vs 52-Wk High | -19.9% below high ($179.80) |
+| Analyst Rating | Strong Buy |
+| Sector | Technology - Networking |
+
+**Sources:** CNBC, TheStreet, Seeking Alpha, Motley Fool, JP Morgan, StockAnalysis.com, TIKR.com
+
+---
+
+## UNITED AIRLINES HOLDINGS INC. (UAL) ⭐
+
+**Discussion Driver:** United Airlines surged 7.6% on May 6 as reports of a US-Iran peace deal sent Brent crude plunging nearly 12% below $100 per barrel. Jet fuel is the single largest operating expense for airlines, and a sustained oil price decline of this magnitude would represent a significant and immediate boost to UAL's profit margins and free cash flow outlook for the remainder of 2026.
+
+**Bull Case:**
+- A sustained drop in crude prices — driven by the Iran peace deal unlocking additional supply — could save United Airlines hundreds of millions of dollars annually in fuel costs, meaningfully expanding operating margins and EPS beyond current analyst estimates. The airline's network scale gives it outsized leverage to falling input costs.
+- UAL trades at a trailing P/E of just ~8x, a steep discount to the broader market and its own historical average, while the analyst consensus Strong Buy rating carries an average price target of $130.59, implying over 39% upside from current levels. This low valuation provides a substantial margin of safety even if macro conditions soften.
+
+**Bear Case:**
+- The stock remains ~21% below its 52-week high of $119.21, a reminder that market participants have been cautious about airline fundamentals amid recession fears and uncertain consumer spending trends — risks that don't evaporate with a single day's oil price move.
+- The Iran peace deal is preliminary and geopolitical situations evolve rapidly; oil prices could quickly rebound if negotiations stall or collapse, unwinding the fuel cost tailwind and likely reversing much of today's stock gain in an industry with notoriously thin operating margins.
+
+**Recommendation:** Buy
+
+**Metrics:**
+| Metric | Value |
+|--------|-------| 
+| Current Price | $93.88 |
+| Price Target | $130.59 (+39.1%) |
+| P/E Ratio | 8.04 |
+| RSI | 63.5 |
+| vs 52-Wk High | -21.2% below high ($119.21) |
+| Analyst Rating | Strong Buy |
+| Sector | Industrials - Airlines |
+
+**Sources:** Investing.com, TheStreet, Irish Times, MarketBeat, StockAnalysis.com, Nasdaq.com, TIKR.com
+
+---
+
+## ROYAL CARIBBEAN GROUP (RCL) ⭐
+
+**Discussion Driver:** Royal Caribbean rose 7.6% on May 6 as the US-Iran peace deal triggered broad risk-on buying in travel and leisure stocks alongside a sharp drop in oil prices. This dual tailwind — lower fuel costs for cruise ships and stronger consumer confidence in leisure spending — reinforced the bullish narrative from RCL's Q1 2026 earnings beat (EPS $3.60 vs. $3.22 est.) and strong full-year guidance of $17.10–$17.50 EPS.
+
+**Bull Case:**
+- Royal Caribbean delivered Q1 2026 EPS of $3.60, beating estimates by 11.8%, with revenue up 11% YoY to $4.5B. Management's full-year EPS guidance of $17.10–$17.50 and the ongoing Royal Beach Club expansion represent incremental revenue drivers that analysts value at an average price target of $341.50 — implying ~22% additional upside.
+- Falling oil prices are a meaningful tailwind for cruise economics, and recovering consumer confidence in international travel should sustain strong booking trends through 2026. At ~19.7x PE, RCL trades at a discount to the peer average of 35x, suggesting the market has not fully priced in the earnings recovery.
+
+**Bear Case:**
+- RCL trades approximately 24% below its 52-week high of $366.50, reflecting the market's ongoing concerns about geopolitical risk, high leverage from post-COVID fleet expansion, and potential softening in premium leisure spending if the US economy slows materially.
+- The Iran peace deal optimism driving today's rally is speculative — crude oil showed earlier this week it can spike aggressively on renewed US-Iran tensions, and a re-escalation would quickly reverse the fuel cost benefit and broad risk sentiment for cruise stocks, which carry higher debt than airlines.
+
+**Recommendation:** Buy
+
+**Metrics:**
+| Metric | Value |
+|--------|-------| 
+| Current Price | $279.00 |
+| Price Target | $341.50 (+22.4%) |
+| P/E Ratio | 22.3 |
+| RSI | 38.6 |
+| vs 52-Wk High | -23.9% below high ($366.50) |
+| Analyst Rating | Buy |
+| Sector | Consumer Discretionary - Cruise Lines |
+
+**Sources:** CNBC, TheStreet, MarketBeat, StockAnalysis.com, Simply Wall St, Daily Political, GuruFocus
+
+---
+
+## CENCORA INC. (COR)
+
+**Discussion Driver:** Cencora cratered ~17% on May 6 — its worst single-day drop in years — after slashing fiscal 2026 full-year revenue growth guidance from 7–9% down to 4–6% (absolute revenue outlook cut to $334–$341B from $344–$350B), far below the $345.9B analyst consensus. Management cited faster-than-expected biosimilar conversions displacing higher-revenue branded biologics and slower-than-anticipated GLP-1 weight-loss drug uptake as culprits. Paradoxically, the company raised full-year adjusted EPS guidance to $17.65–$17.90 and announced a $1B share buyback, since biosimilar conversions carry higher margins — leaving investors torn between a reassuring profit picture and a deeply unsettling top-line deceleration.
+
+**Bull Case:**
+- Despite the revenue shock, management raised FY2026 adjusted EPS guidance to $17.65–$17.90 and authorized a $1B share buyback, demonstrating confidence in profitability; biosimilar conversions that are driving the revenue slowdown actually improve Cencora's margins, meaning earnings power is intact even as top-line growth moderates.
+- At ~$257 (~29–30x trailing earnings), COR trades at a significant discount to its 52-week high and well below the ~$397 analyst consensus target — implying ~55% upside on a 12-month horizon — while the company's scale as the #2 U.S. drug distributor, OneOncology integration tailwinds, and 13.7% international operating income growth provide durable long-term growth drivers.
+
+**Bear Case:**
+- Cencora slashed full-year revenue guidance to $334–$341B citing slower GLP-1 demand growth and accelerated biosimilar substitution — headwinds that may persist well beyond 2026 and indicate a structural deceleration in drug distribution volumes that could pressure the stock for multiple quarters.
+- Operating on razor-thin net margins of roughly 0.5%, any incremental pricing pressure from drug manufacturers, PBM reforms, or further biosimilar/GLP-1 disappointments could rapidly erode earnings; if revenue deceleration signals a prolonged industry slowdown, even the compressed post-selloff multiple may not be justified.
+
+**Recommendation:** Hold
+
+**Metrics:**
+| Metric | Value |
+|--------|-------| 
+| Current Price | $257.00 |
+| Price Target | $397.50 (+54.7%) |
+| P/E Ratio | 29.5 |
+| RSI | 38 |
+| vs 52-Wk High | -32.0% below high ($377.54) |
+| Analyst Rating | Buy |
+| Sector | Healthcare - Drug Wholesale / Pharmaceutical Distribution |
+
+**Sources:** CNBC, Morningstar, Stock Analysis, Yahoo Finance, Nasdaq, Motley Fool, Seeking Alpha
+
+---
+
+## CDW CORPORATION (CDW)
+
+**Discussion Driver:** CDW reported Q1 2026 earnings on May 6 and triggered a ~20% single-day collapse despite technically beating EPS ($2.28 vs. $2.26 expected) and revenue ($5.7B vs. $5.46B expected) forecasts. The selloff was driven by a sharp disappointment in operating income margins — falling to 6.6% from 7.0% a year ago — as higher compensation costs, coworker-related expenses, and AI initiative investments squeezed profitability. The market interpreted the margin miss as evidence that CDW's cost structure is expanding faster than its revenue, raising questions about the company's ability to sustain profitability amid ongoing supply chain pressures and competitive IT hardware pricing.
+
+**Bull Case:**
+- CDW delivered $5.7B in Q1 2026 revenue, up 9.2% year-over-year and $240M above consensus estimates, demonstrating strong enterprise IT demand; as AI infrastructure buildouts accelerate, CDW's position as a multibrand IT reseller puts it at the center of hardware and services spend cycles.
+- Trading at ~13.6x trailing earnings — well below its historical average of ~20x — and ~43% off its 52-week high, CDW is pricing in prolonged margin pressure; any stabilization in gross margins or supply chain normalization could drive a meaningful re-rating toward analyst targets near $155.
+
+**Bear Case:**
+- Gross margin fell 60 basis points year-over-year in Q1 2026 and operating income margin declined from 7.0% to 6.6%; rising coworker costs, AI investment spending, and competitive pricing dynamics may continue to weigh on profitability even as revenue grows.
+- Memory component shortages and hardware pricing volatility remain persistent headwinds, and if tariff-related supply disruptions intensify or product mix continues to shift toward lower-margin categories, CDW's profitability could deteriorate further into H2 2026.
+
+**Recommendation:** Hold
+
+**Metrics:**
+| Metric | Value |
+|--------|-------| 
+| Current Price | $108.93 |
+| Price Target | $155.00 (+42.3%) |
+| P/E Ratio | 13.6 |
+| RSI | 39 |
+| vs 52-Wk High | -43.3% below high ($192.30) |
+| Analyst Rating | Buy |
+| Sector | Technology - IT Solutions / IT Distribution & Services |
+
+**Sources:** BusinessWire, Investing.com, Alphastreet, StockAnalysis, Yahoo Finance, StockStory, Quiver Quantitative
+
+---
+
+## HEALTHPEAK PROPERTIES INC. (DOC)
+
+**Discussion Driver:** Healthpeak Properties surged 12–18% on May 6 after reporting Q1 2026 FFO of $0.45/share (beating the $0.43 consensus) and revenue of ~$753M that decisively topped Wall Street's ~$694M estimate — a standout beat driven by strong leasing momentum across outpatient and life science portfolios. The company raised full-year 2026 FFO guidance to $1.71–$1.75/share, signaling management confidence in a durable REIT recovery, further bolstered by the successful Janus Living IPO (~$880M net proceeds) and a Blackstone joint venture recap on a fully occupied outpatient portfolio at a 6.1% cap rate. The rally was amplified by positive peer results from Welltower and Ventas alongside a broader risk-on market environment.
+
+**Bull Case:**
+- Q1 2026 FFO of $0.45/share beat estimates and the company raised full-year FFO guidance to $1.71–$1.75, backed by solid leasing activity across life science and outpatient portfolios, a strengthened balance sheet from the Janus Living IPO (~$880M in proceeds), and a Blackstone joint venture recap at a 6.1% cap rate on a fully occupied portfolio.
+- With a forward P/FFO of ~10.7x and a BBB+ credit rating, DOC trades at a discount to intrinsic value (analyst fair value ~$20.17), and the secular tailwind of an aging U.S. population should drive sustained demand for outpatient medical and life science space through the decade.
+
+**Bear Case:**
+- As a REIT, DOC is structurally exposed to rate movements — net debt/EBITDA stood at 5.4x at quarter-end, and any sustained rise in the cost of capital could compress valuations and make refinancing more expensive, pressuring future FFO and dividend sustainability.
+- The life science real estate market has faced elevated vacancies as biotech funding tightened since 2022; any prolonged slowdown in biotech leasing demand, particularly in DOC's lab and research portfolio, could weigh on occupancy rates and rental growth assumptions underpinning guidance.
+
+**Recommendation:** Buy
+
+**Metrics:**
+| Metric | Value |
+|--------|-------| 
+| Current Price | $18.57 |
+| Price Target | $19.25 (+3.7%) |
+| P/E Ratio | N/A |
+| RSI | 58 |
+| vs 52-Wk High | -5.6% below high ($19.68) |
+| Analyst Rating | Moderate Buy |
+| Sector | Real Estate - Healthcare REIT |
+
+**Sources:** MarketBeat, Yahoo Finance, Zacks, Investing.com, StockTitan, TipRanks, Seeking Alpha, StockAnalysis
 
 ---
 
 ## DAILY INSIGHTS
 
-- **Most Bullish Sector:** Technology - Server & Storage Systems
-- **Most Bearish Sector:** Technology - Semiconductors
-- **Most Mentioned Stock:** INTC — appeared in 7 sources
+- **Most Bullish Sector:** Technology - Semiconductors
+- **Most Bearish Sector:** Technology - Electronic Manufacturing Services / AI Infrastructure
+- **Most Mentioned Stock:** DOC — appeared in 8 sources
 - **Sentiment Shift:** Market tone is Bullish
 
 ---
 
 ## REPORT ARCHIVE
+
+### 2026-05-06 | Bullish | Semiconductor super-cycle: AMD, SMCI, ARM all surge on strong earnings and guidance, Iran peace deal sparks oil price drop and broad travel/airline rally, Earnings divergence: guidance beats rewarded, even beats-with-soft-outlook punished (SHOP, ANET, CDW)
+
+| Stock | Rec | Price | Target | vs 52-Wk High |
+|-------|-----|-------|--------|---------------|
+| AMD ⭐ | Buy | $421.43 | $450.00 (+6.8%) | -2.1% below high ($430.60) |
+| SMCI ⭐ | Spec. Buy | $34.67 | $35.64 (+2.8%) | -44.4% below high ($62.36) |
+| ARM ⭐ | Buy | $228.12 | $245.00 (+7.4%) | -4.0% below high ($237.68) |
+| FLEX | Hold | $126.14 | $88.00 (-30.2%) | -2.8% below high ($129.78) |
+| DIS | Buy | $107.42 | $132.62 (+23.5%) | -13.8% below high ($124.69) |
+| SHOP ⭐ | Hold | $107.63 | $159.00 (+47.7%) | -40.9% below high ($182.19) |
+| UBER | Buy | $79.50 | $107.12 (+34.7%) | -22.1% below high ($101.99) |
+| ANET ⭐ | Hold | $143.94 | $175.18 (+21.7%) | -19.9% below high ($179.80) |
+| UAL ⭐ | Buy | $93.88 | $130.59 (+39.1%) | -21.2% below high ($119.21) |
+| RCL ⭐ | Buy | $279.00 | $341.50 (+22.4%) | -23.9% below high ($366.50) |
+| COR | Hold | $257.00 | $397.50 (+54.7%) | -32.0% below high ($377.54) |
+| CDW | Hold | $108.93 | $155.00 (+42.3%) | -43.3% below high ($192.30) |
+| DOC | Buy | $18.57 | $19.25 (+3.7%) | -5.6% below high ($19.68) |
 
 ### 2026-05-05 | Bullish | Intel-Apple chip manufacturing talks trigger massive semiconductor rally and new all-time highs, Heavy earnings season: sharp bifurcation between guidance beaters and guidance misers, AI server demand drives Supermicro and sector higher; Shopify and PayPal punished on slowing outlooks
 
