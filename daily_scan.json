@@ -1,90 +1,101 @@
 {
-  "report_date": "2026-05-06",
-  "market_tone": "Bullish",
+  "report_date": "2026-05-07",
+  "market_tone": "Mixed",
   "key_themes": [
-    "Semiconductor super-cycle: AMD, SMCI, ARM all surge on strong earnings and guidance",
-    "Iran peace deal sparks oil price drop and broad travel/airline rally",
-    "Earnings divergence: guidance beats rewarded, even beats-with-soft-outlook punished (SHOP, ANET, CDW)"
+    "Heavy earnings season (579 reports) with sharp bifurcation \u2014 cloud/software surging, consumer names cratering",
+    "Iran ceasefire violated \u2014 U.S. strikes Qeshm Port, geopolitical tension drags indices off record highs",
+    "Consumer discretionary weakness: Planet Fitness, Shake Shack, Vital Farms all deliver surprise misses"
   ],
   "sp500": {
-    "value": "7,365.12",
-    "change": "+1.46%"
+    "value": "7,337.11",
+    "change": "-0.38%"
   },
   "nasdaq": {
-    "value": "25,838.94",
-    "change": "+2.02%"
+    "value": "25,806.20",
+    "change": "-0.13%"
   },
   "stocks": [
     {
-      "ticker": "AMD",
-      "company": "Advanced Micro Devices",
-      "reason": "Q1 2026 earnings beat; Q2 revenue guidance of ~$11.2B topped estimates; stock surged ~17%; Goldman Sachs upgraded from Neutral to Buy with $450 PT",
+      "ticker": "DDOG",
+      "company": "Datadog",
+      "reason": "Surged 28% after Q1 2026 earnings beat: EPS $0.60 vs $0.51 expected; Q2 revenue guidance of $1.07\u2013$1.08B above consensus",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance",
+        "TipRanks"
+      ]
+    },
+    {
+      "ticker": "PLNT",
+      "company": "Planet Fitness",
+      "reason": "Plunged ~33% after slashing 2026 earnings guidance and canceling planned Black Card price hikes; net new member adds fell 36% YoY",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Motley Fool",
+        "Yahoo Finance",
+        "StreetInsider"
+      ]
+    },
+    {
+      "ticker": "VITL",
+      "company": "Vital Farms",
+      "reason": "Dropped 20% on surprise Q1 loss of -$0.03/share vs consensus +$0.06 expected; egg producer missed on both top and bottom line",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "FTNT",
+      "company": "Fortinet",
+      "reason": "Surged 15% to all-time highs after beating Q1 2026 cybersecurity earnings forecasts on both EPS and revenue",
       "category": "earnings",
       "sources": [
         "CNBC",
         "Bloomberg",
-        "Goldman Sachs"
+        "Yahoo Finance"
       ]
     },
     {
-      "ticker": "SMCI",
-      "company": "Super Micro Computer",
-      "reason": "Surged 24.5% after Q4 profit guidance of $0.65-$0.79/share crushed Wall Street estimate of $0.55/share; AI server demand drives upside",
+      "ticker": "DASH",
+      "company": "DoorDash",
+      "reason": "Rose ~10% after Q1 beat and rosy Q2 order guidance; Bloomberg premarket mover; strong delivery volume growth",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "TheStreet",
-        "Benzinga"
+        "Bloomberg",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "SHAK",
+      "company": "Shake Shack",
+      "reason": "Tumbled ~19% after missing Q1 earnings expectations; also announced new CFO Michelle Hook effective May 11",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "BusinessWire",
+        "Bloomberg"
+      ]
+    },
+    {
+      "ticker": "MCD",
+      "company": "McDonald's",
+      "reason": "Climbed 3.3% after Q1 beat: EPS $2.83 vs $2.74 expected, revenue $6.52B vs $6.47B consensus; premarket mover",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Bloomberg",
+        "Yahoo Finance"
       ]
     },
     {
       "ticker": "ARM",
       "company": "Arm Holdings",
-      "reason": "Jumped 13.6% intraday then +8% after-hours after beating revenue and earnings; UBS raised 12-month PT to $245 from $175",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Bloomberg",
-        "UBS"
-      ]
-    },
-    {
-      "ticker": "FLEX",
-      "company": "Flex Ltd",
-      "reason": "Surged 35% after announcing plan to spin off cloud and power infrastructure segment into new public company; SpinCo targeting 65-75% revenue growth in FY2027",
-      "category": "news",
-      "sources": [
-        "Benzinga",
-        "PR Newswire",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "DIS",
-      "company": "Walt Disney",
-      "reason": "Q2 FY2026 earnings beat: adjusted EPS $1.57 on $25.17B revenue; streaming operating income +88% YoY with 11% margin hit for first time; stock +8%",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "247 Wall St.",
-        "Motley Fool"
-      ]
-    },
-    {
-      "ticker": "SHOP",
-      "company": "Shopify",
-      "reason": "Plummeted 15.6% despite Q1 EPS beat ($0.36 vs $0.32 est.); investors sold on weak revenue outlook and slowing growth trajectory",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "TheStreet",
-        "Zacks"
-      ]
-    },
-    {
-      "ticker": "UBER",
-      "company": "Uber Technologies",
-      "reason": "Q1 revenue missed estimates but Q2 bookings guidance exceeded expectations; stock +8% as forward momentum reassures investors; revenue +14% YoY",
+      "reason": "Fell 7.3% despite topping Q1 earnings; said it has not secured enough supply capacity to meet $1B in additional AGI CPU demand",
       "category": "earnings",
       "sources": [
         "CNBC",
@@ -92,65 +103,75 @@
       ]
     },
     {
-      "ticker": "ANET",
-      "company": "Arista Networks",
-      "reason": "Tumbled 8% despite Q1 earnings and revenue topping consensus; investors disappointed by forward guidance amid AI data-center spending uncertainty",
+      "ticker": "AKAM",
+      "company": "Akamai Technologies",
+      "reason": "Soared 25% after hours after meeting revenue expectations and slightly beating EPS; strong cloud security segment",
       "category": "earnings",
-      "sources": [
-        "CNBC",
-        "TheStreet"
-      ]
-    },
-    {
-      "ticker": "UAL",
-      "company": "United Airlines",
-      "reason": "Led airline sector with +7.6% gain as US-Iran peace deal reports sent Brent crude plunging nearly 12% below $100/barrel, slashing fuel cost outlook",
-      "category": "sector",
       "sources": [
         "Investing.com",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "NET",
+      "company": "Cloudflare",
+      "reason": "Tumbled 14% after hours after Q2 revenue guidance fell short of analyst consensus expectations",
+      "category": "earnings",
+      "sources": [
+        "Investing.com",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "ABNB",
+      "company": "Airbnb",
+      "reason": "Q1 revenue of $2.68B beat ($2.62B expected) but EPS of $0.26 missed $0.29 estimate; lifted full-year guidance citing FIFA World Cup tailwind; noted elevated EMEA/APAC cancellations from Iran war",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Kalshi",
+        "StockTitan"
+      ]
+    },
+    {
+      "ticker": "COIN",
+      "company": "Coinbase",
+      "reason": "Announced layoffs of ~700 employees (14% of workforce) days before Q1 earnings report released today; reported Q1 results after close",
+      "category": "news",
+      "sources": [
         "TheStreet",
-        "Irish Times"
+        "Kalshi",
+        "TipRanks"
       ]
     },
     {
-      "ticker": "RCL",
-      "company": "Royal Caribbean Group",
-      "reason": "Rose 7.6% as Iran peace-deal optimism and falling oil prices triggered broad risk-on rally in travel and leisure stocks",
-      "category": "sector",
-      "sources": [
-        "CNBC",
-        "TheStreet"
-      ]
-    },
-    {
-      "ticker": "COR",
-      "company": "Cencora",
-      "reason": "Plunged 17% after cutting 2026 revenue growth guidance from 7-9% to 4-6%; drug wholesale demand slowdown spooked investors despite EPS growth of 7.5%",
+      "ticker": "WHR",
+      "company": "Whirlpool",
+      "reason": "Shares fell after home appliance maker missed Q1 earnings forecasts; Bloomberg premarket mover",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "Seeking Alpha",
-        "Motley Fool"
+        "Bloomberg"
       ]
     },
     {
-      "ticker": "CDW",
-      "company": "CDW Corporation",
-      "reason": "Dropped 19% after Q1 2026 operating income disappointed; multibrand IT provider missed profitability targets despite 9.2% net sales growth",
+      "ticker": "SITM",
+      "company": "SiTime Corporation",
+      "reason": "Surged ~$157/share (25%+) after Q1 EPS of $1.44 beat by $0.28; revenue up 88% YoY to $113.6M vs $103.4M expected; bullish Q2 guidance of $140\u2013150M revenue",
       "category": "earnings",
       "sources": [
-        "CNBC",
-        "BusinessWire"
+        "Charles Schwab Options Update",
+        "Yahoo Finance"
       ]
     },
     {
-      "ticker": "DOC",
-      "company": "Healthpeak Properties",
-      "reason": "Soared 18% after Q1 FFO and revenue both topped Wall Street estimates; raised Q2 FFO guidance to $1.71-$1.75, signaling strong REIT recovery",
-      "category": "earnings",
+      "ticker": "IREN",
+      "company": "IREN Limited",
+      "reason": "Surged 20% after announcing a strategic partnership with NVIDIA to deploy 5 gigawatts of AI infrastructure",
+      "category": "news",
       "sources": [
-        "CNBC",
-        "TheStreet"
+        "Investing.com",
+        "Yahoo Finance"
       ]
     }
   ]
