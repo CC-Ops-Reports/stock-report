@@ -1,130 +1,130 @@
 {
-  "report_date": "2026-05-06",
+  "report_date": "2026-05-07",
   "batch": 1,
-  "market_tone": "Bullish",
+  "market_tone": "Mixed",
   "key_themes": [
-    "Semiconductor super-cycle: AMD, SMCI, ARM all surge on strong earnings and guidance",
-    "Iran peace deal sparks oil price drop and broad travel/airline rally",
-    "Earnings divergence: guidance beats rewarded, even beats-with-soft-outlook punished (SHOP, ANET, CDW)"
+    "Heavy earnings season (579 reports) with sharp bifurcation — cloud/software surging, consumer names cratering",
+    "Iran ceasefire violated — U.S. strikes Qeshm Port, geopolitical tension drags indices off record highs",
+    "Consumer discretionary weakness: Planet Fitness, Shake Shack, Vital Farms all deliver surprise misses"
   ],
   "sp500": {
-    "value": "7,365.12",
-    "change": "+1.46%"
+    "value": "7,337.11",
+    "change": "-0.38%"
   },
   "nasdaq": {
-    "value": "25,838.94",
-    "change": "+2.02%"
+    "value": "25,806.20",
+    "change": "-0.13%"
   },
   "stocks": [
     {
-      "ticker": "AMD",
-      "company": "Advanced Micro Devices",
-      "discussion_driver": "AMD surged ~18% to a new 52-week high after Q1 2026 revenue of $10.3B beat estimates (+38% YoY), driven by a 57% surge in data center revenue and record free cash flow. Q2 guidance of $11.2B midpoint exceeded consensus, and Goldman Sachs upgraded the stock to Buy with a fresh $450 price target, validating the AI data center growth thesis.",
+      "ticker": "DDOG",
+      "company": "Datadog, Inc.",
+      "discussion_driver": "Datadog surged ~29% on May 7 after Q1 2026 results demolished estimates — revenue hit $1.006B (+32% YoY) vs. $960M expected, and EPS came in at $0.60 vs. $0.51 consensus. The company raised full-year 2026 guidance to $4.3–4.34B and reported that AI customers, now 6,500+, represent roughly 80% of total ARR — cementing the platform as critical infrastructure for GPU observability in AI training environments.",
       "bull_case": [
-        "Data center revenue surged 57% YoY in Q1 2026 to a record level, fueled by hyperscaler demand for MI300 AI accelerators; Q2 guidance of $11.2B midpoint signals continued AI chip monetization acceleration with 45% YoY growth projected.",
-        "Goldman Sachs upgraded AMD to Buy with a $450 PT today citing competitive gains in AI infrastructure; AMD's forward P/E of 52.7x compares favorably to NVIDIA's premium valuation while the company is actively gaining AI data center market share."
+        "AI workload observability is driving record new logo bookings that more than doubled YoY; major hyperscalers are choosing Datadog for GPU and AI training monitoring over in-house builds, signaling a durable, structural shift in enterprise IT spend.",
+        "Operating leverage is improving — Q1 non-GAAP operating margin widened to 22% on $223M operating income, and full-year guidance implies continued margin expansion, showing the platform can scale profitably alongside rapid revenue growth."
       ],
       "bear_case": [
-        "Trailing P/E of 135.8x leaves little margin for error; any guidance miss or macro softening could trigger significant multiple compression given the lofty premium embedded in current valuations after an 18% single-day surge.",
-        "NVIDIA retains dominant AI GPU market share with deep CUDA ecosystem lock-in; AMD's MI300 ramp faces competition from both NVIDIA Blackwell and custom silicon from hyperscalers (Google TPU, Amazon Trainium)."
+        "Trailing PE of ~468x and a consensus price target already below the post-surge stock price leave almost no margin of safety; any guidance miss or slowdown in AI customer expansion could trigger a sharp de-rating.",
+        "AWS CloudWatch, Dynatrace, and Grafana Labs all compete aggressively in the observability market, and hyperscalers may rebuild proprietary monitoring tools if Datadog's cost becomes prohibitive at enterprise scale."
       ],
       "recommendation": "Buy",
-      "current_price": "$421.43",
-      "price_target": "$450.00 (+6.8%)",
-      "pe_ratio": "135.82",
-      "rsi": "80.6",
-      "vs_52wk_high": "-2.1% below high ($430.60)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Technology - Semiconductors",
-      "sources": ["Goldman Sachs", "CNBC", "Bloomberg", "MarketBeat", "Benzinga", "StockAnalysis"]
-    },
-    {
-      "ticker": "SMCI",
-      "company": "Super Micro Computer",
-      "discussion_driver": "SMCI surged 24.5% after Q4 profit guidance of $0.65–$0.79 per share demolished the Wall Street estimate of $0.55; the company also raised FY2026 full-year revenue guidance to $38.9–$40.4B on AI server demand. Significant legal overhang persists, however, after co-founder Wally Liaw was charged with conspiring to illegally route $2.5B in Nvidia-chipped servers to China.",
-      "bull_case": [
-        "AI server demand remains robust enough to drive Q4 EPS guidance 18–44% above consensus; full-year revenue guidance now $38.9–$40.4B reflects SMCI's critical position as a first-to-market provider of liquid-cooled AI server infrastructure for hyperscale data center deployments.",
-        "Trailing P/E of just 17.4x is among the lowest in AI infrastructure hardware, offering value relative to semiconductor peers; recovery from 52-week lows and today's guidance-driven surge suggest the market is beginning to look past certain legal headwinds."
-      ],
-      "bear_case": [
-        "Co-founder and former executive Wally Liaw has been criminally charged with conspiring to smuggle $2.5B in Nvidia-chipped servers to China; pending securities fraud class actions create material legal risk that could impair operations or result in substantial fines.",
-        "Stock remains 44% below its 52-week high of $62.36 despite today's surge, reflecting deep structural investor skepticism; gross margin pressure and competitive pricing dynamics in AI servers could limit the pace and magnitude of a profitability recovery."
-      ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$34.67",
-      "price_target": "$35.64 (+2.8%)",
-      "pe_ratio": "17.44",
+      "current_price": "$185.64",
+      "price_target": "$179.91 (-3.1%)",
+      "pe_ratio": "467.75",
       "rsi": "N/A",
-      "vs_52wk_high": "-44.4% below high ($62.36)",
-      "analyst_rating": "Hold",
-      "sector": "Technology - AI Server Infrastructure",
-      "sources": ["CNBC", "TheStreet", "Benzinga", "247WallSt", "Fortune", "StockAnalysis", "MarketBeat"]
-    },
-    {
-      "ticker": "ARM",
-      "company": "Arm Holdings",
-      "discussion_driver": "ARM jumped 13.6% intraday and an additional +8% after-hours after beating both revenue and earnings estimates for Q4 FY2026. UBS raised its 12-month price target from $175 to $245, reflecting accelerating AI-driven royalty growth as ARM-based chips proliferate across smartphones, data centers, and automotive platforms.",
-      "bull_case": [
-        "ARM's architecture powers virtually all mobile devices globally and is rapidly expanding into AI data center compute with its v9 architecture commanding higher royalty rates per chip; UBS raised PT to $245 citing this royalty uplift cycle as a durable multi-year tailwind.",
-        "Asset-light IP licensing model generates 80%+ gross margins with minimal capital requirements; as AI inference workloads increasingly migrate to ARM-based custom silicon (Apple, Amazon Graviton, Google Axion), royalty revenue compounds regardless of which chip manufacturer wins."
-      ],
-      "bear_case": [
-        "Trailing P/E of 311x and forward P/E of 121.5x reflect extreme growth expectations; any deceleration in smartphone unit growth or slower-than-expected AI data center adoption could cause severe multiple compression from these elevated levels.",
-        "RISC-V open-source architecture is gaining momentum among cost-sensitive chipmakers and hyperscalers looking to reduce licensing costs; a structural shift away from ARM licensing could erode long-term royalty streams, especially in price-sensitive emerging markets."
-      ],
-      "recommendation": "Buy",
-      "current_price": "$228.12",
-      "price_target": "$245.00 (+7.4%)",
-      "pe_ratio": "311.32",
-      "rsi": "63.94",
-      "vs_52wk_high": "-4.0% below high ($237.68)",
+      "vs_52wk_high": "-8.0% below high ($201.69)",
       "analyst_rating": "Strong Buy",
-      "sector": "Technology - Semiconductor IP",
-      "sources": ["CNBC", "Bloomberg", "UBS", "MarketBeat", "StockAnalysis", "Benzinga"]
+      "sector": "Technology - Cloud Software/Observability",
+      "sources": ["Seeking Alpha", "StocksToTrade", "StockAnalysis", "MarketBeat", "TIKR"]
     },
     {
-      "ticker": "FLEX",
-      "company": "Flex Ltd",
-      "discussion_driver": "Flex surged ~35% after announcing plans to spin off its high-growth Cloud and Power Infrastructure segment into an independent public company (SpinCo) by Q1 2027, targeting 65–75% revenue growth in FY2027. Record Q4 FY2026 results with revenue of $7.48B beating estimates by 7.5% and FY2027 EPS guidance of $4.21–$4.51 vs. the prior consensus of $3.67 added further fuel to the rally.",
+      "ticker": "PLNT",
+      "company": "Planet Fitness, Inc.",
+      "discussion_driver": "Planet Fitness plunged 33% — its worst single-day decline on record — after reporting net new member adds fell 36% YoY and slashing 2026 guidance: same-club sales growth cut from 4–5% to ~1%, revenue growth from 9% to ~7%, and the 3-year financial outlook withdrawn entirely. Management blamed misfired marketing that rebranded toward 'premium fitness' and alienated its core value-seeking 'beginner fitness' customer; the company also paused its planned Black Card price increase, removing a key near-term revenue lever.",
       "bull_case": [
-        "The Cloud & Power Infrastructure SpinCo is expected to grow 65–75% in FY2027 and >80% in FY2028, unlocking substantial value previously hidden within Flex's blended conglomerate valuation; the separation should allow both entities to be valued on standalone growth multiples.",
-        "Core business momentum is strong: record Q4 FY2026 revenue of $7.48B beat estimates by 7.5% and adjusted EPS of $0.93 beat by 8.1%; FY2027 EPS guidance of $4.21–$4.51 is 15–23% above prior analyst consensus, signaling durable underlying earnings power."
+        "Total membership reached an all-time high of 21.5 million, demonstrating the underlying brand remains relevant; with 180–190 new club openings still planned in 2026, the network footprint continues to expand even amid near-term softness.",
+        "At a trailing PE of 16.4x — roughly 70% below its 10-year median of 55x — the stock may be pricing in maximum pessimism; any improvement in marketing execution or a macro tailwind could drive a sharp mean-reversion recovery."
       ],
       "bear_case": [
-        "Analyst price targets remain in the $84–$88 range, more than 30% below the post-surge stock price, indicating the market has moved far ahead of analyst models; near-term pullback risk is elevated with RSI at 77.4, firmly in overbought territory.",
-        "Spin-off execution risk is material: separating the high-growth Cloud/Power segment while maintaining operational continuity for both entities is complex, and the SpinCo timeline extends to Q1 2027, creating over nine months of structural and operational uncertainty."
+        "Guidance destruction signals an execution problem beyond macro: new member adds down 36%, same-club sales nearly flat, and the 3-year outlook abandoned — all pointing to a business model needing significant recalibration with no clear near-term catalyst.",
+        "Pausing the Black Card price increase and revamping marketing simultaneously creates a multi-quarter earnings overhang, and management credibility is now severely damaged with investors after missing so badly on prior guidance."
       ],
       "recommendation": "Hold",
-      "current_price": "$126.14",
-      "price_target": "$88.00 (-30.2%)",
-      "pe_ratio": "41.60",
-      "rsi": "77.44",
-      "vs_52wk_high": "-2.8% below high ($129.78)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Electronic Manufacturing Services / AI Infrastructure",
-      "sources": ["Benzinga", "PR Newswire", "Yahoo Finance", "StockAnalysis", "MarketBeat", "Baird", "TipRanks"]
+      "current_price": "$43.02",
+      "price_target": "$107.46 (+149.8%)",
+      "pe_ratio": "16.42",
+      "rsi": "N/A",
+      "vs_52wk_high": "-62.4% below high ($114.47)",
+      "analyst_rating": "Moderate Buy",
+      "sector": "Consumer Discretionary - Fitness/Gym",
+      "sources": ["Yahoo Finance", "Benzinga", "Seeking Alpha", "StockTitan", "Investing.com"]
     },
     {
-      "ticker": "DIS",
-      "company": "Walt Disney",
-      "discussion_driver": "Disney rose ~7% after Q2 FY2026 EPS of $1.57 beat the $1.49 consensus estimate; streaming operating income surged 88% YoY and Disney achieved an 11% streaming operating margin for the first time ever—a major profitability milestone. Full-year FY2026 EPS guidance of $6.64 aligned with consensus, signaling steady execution across parks, streaming, and content divisions.",
+      "ticker": "VITL",
+      "company": "Vital Farms, Inc.",
+      "discussion_driver": "Vital Farms fell ~24% after reporting a surprise Q1 2026 net loss of -$0.03/share versus a $0.16 EPS estimate — a near-120% earnings miss. Gross margin collapsed to 28.3% from 38.5% as egg market oversupply depressed prices and SG&A surged 38% YoY to $44.2M. The company slashed its 2026 EBITDA guidance to just $0–10M, exited the butter business, and began slowing construction of new production facilities, signaling a sweeping earnings reset.",
       "bull_case": [
-        "Streaming reached 11% operating margin in Q2 FY2026—an 88% YoY improvement and a first-ever milestone—demonstrating that Disney+ and Hulu have crossed a durable profitability inflection point, transforming from a cash drain into a high-margin growth engine.",
-        "Analyst consensus Buy with a $132.62 price target implies 23.5% upside from current levels; P/E of ~15x is well below the media peer average, offering a compelling margin of safety for long-term investors as streaming margin continues to scale."
+        "Net revenue still grew 15.4% YoY to $187.2M on volume and distribution gains, showing the Vital Farms brand retains consumer loyalty and shelf presence even during a difficult cost environment.",
+        "Exiting the butter business removes operational complexity and volatile international supply chain economics, allowing management to focus capital and resources on the higher-margin core egg franchise."
       ],
       "bear_case": [
-        "Despite today's surge, DIS remains 13.8% below its 52-week high of $124.69, reflecting persistent investor concerns about secular decline in traditional linear TV and ESPN cord-cutting, with structural headwinds in legacy media still weighing on sentiment.",
-        "Streaming competition from Netflix, Amazon Prime Video, and Apple TV+ continues to intensify; escalating content spending required to maintain subscriber growth and retention could pressure the newly achieved streaming margin improvements over coming quarters."
+        "Gross margin collapsed 1,020 basis points YoY to 28.3% due to egg oversupply and surging SG&A; with full-year 2026 EBITDA guided to $0–10M versus prior expectations near $60M+, the company has essentially wiped out earnings power for the year.",
+        "The stock has already fallen over 82% from its 52-week high, and analyst price targets — set before this catastrophic guidance revision — are likely to be slashed sharply as downgrades accumulate in the coming days."
+      ],
+      "recommendation": "Sell",
+      "current_price": "$9.11",
+      "price_target": "$27.00 (+196.5%)",
+      "pe_ratio": "9.06",
+      "rsi": "N/A",
+      "vs_52wk_high": "-82.8% below high ($53.13)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Consumer Staples - Food Producer",
+      "sources": ["StockTitan", "Investing.com", "StockStory", "Yahoo Finance", "GuruFocus", "ChartMill"]
+    },
+    {
+      "ticker": "FTNT",
+      "company": "Fortinet, Inc.",
+      "discussion_driver": "Fortinet surged ~24% after a blowout Q1 2026 quarter — revenue of $1.85B (+20% YoY) and EPS of $0.82 both crushed estimates ($1.73B and $0.62), with billings up 31% and product revenue up 40%+ YoY. Management raised full-year 2026 guidance to $7.71–7.87B in revenue and $3.10–3.16 EPS, citing accelerating demand from AI data center security, OT infrastructure protection, and sovereign SASE deployments. The stock hit a new 52-week high and analysts including Scotiabank (raised to $110) and RBC (raised to $107) lifted their price targets.",
+      "bull_case": [
+        "Fortinet's proprietary ASIC chip technology delivers superior price/performance for AI data center internal segmentation — a differentiator no competitor can replicate — positioning the company as a natural beneficiary of accelerating enterprise AI infrastructure buildout.",
+        "Billings growth of 31% and record operating cash flow in Q1 signal a materially improving demand environment; raised full-year guidance implies 15–18% revenue growth with 33–36% operating margins — a rare combination of growth and profitability in cybersecurity."
+      ],
+      "bear_case": [
+        "After a 24% single-day rally, FTNT trades at 44x trailing PE and within 1% of its 52-week high; elevated expectations leave the stock vulnerable to any guidance miss or sequential deceleration in billings growth in subsequent quarters.",
+        "CrowdStrike, Palo Alto Networks, and AI-native security startups are aggressively targeting enterprise AI workload security budgets, potentially limiting Fortinet's expansion in the fastest-growing segment of the market."
       ],
       "recommendation": "Buy",
-      "current_price": "$107.42",
-      "price_target": "$132.62 (+23.5%)",
-      "pe_ratio": "15.23",
-      "rsi": "N/A",
-      "vs_52wk_high": "-13.8% below high ($124.69)",
+      "current_price": "$110.47",
+      "price_target": "$107.00 (-3.1%)",
+      "pe_ratio": "44.18",
+      "rsi": "64.52",
+      "vs_52wk_high": "-1.2% below high ($111.80)",
+      "analyst_rating": "Hold",
+      "sector": "Technology - Cybersecurity",
+      "sources": ["StocksToTrade", "Proactive Investors", "Daily Political", "Ticker Report", "Yahoo Finance", "ChartMill"]
+    },
+    {
+      "ticker": "DASH",
+      "company": "DoorDash, Inc.",
+      "discussion_driver": "DoorDash rose ~10% after Q1 2026 EPS of $0.42 beat estimates by 13.5% and marketplace gross order value surged 37% YoY to $31.6B, edging past the $31.5B estimate. Q2 GOV guidance of $32.4–33.4B also topped consensus. Despite a slight revenue miss ($4.04B vs. $4.15B, partly due to winter storms), the company highlighted record U.S. grocery/retail consumer adds and accelerating international growth — Deliveroo's highest growth rate in four years and Bolt holding top market share in all operational countries.",
+      "bull_case": [
+        "GOV growth of 37% YoY with above-consensus Q2 guidance shows durable delivery demand across food, grocery, and retail; U.S. grocery and retail reached record consumer acquisitions in Q1, diversifying the platform well beyond its core restaurant segment.",
+        "International integration is delivering tangible results — Deliveroo posted its fastest growth in four years and Bolt leads its markets — giving DoorDash a credible multi-year runway for international expansion to become a material earnings contributor."
+      ],
+      "bear_case": [
+        "Revenue missed estimates by $110M and Dasher gas relief costs are projected to exceed $50M, highlighting structural cost sensitivities to weather and fuel prices that compress margins in any challenging macro environment.",
+        "The stock remains 40% below its 52-week high, and consumer spending headwinds from tariff-related inflation and macro uncertainty could dampen order frequency and average order values in the second half of 2026."
+      ],
+      "recommendation": "Buy",
+      "current_price": "$171.62",
+      "price_target": "$261.59 (+52.5%)",
+      "pe_ratio": "78.13",
+      "rsi": "56.39",
+      "vs_52wk_high": "-39.9% below high ($285.50)",
       "analyst_rating": "Buy",
-      "sector": "Entertainment / Streaming Media",
-      "sources": ["CNBC", "247 Wall St.", "Motley Fool", "Yahoo Finance", "StockAnalysis", "MarketBeat"]
+      "sector": "Technology - Food & Grocery Delivery",
+      "sources": ["CNBC", "Invezz", "TipRanks", "StockStory", "Yahoo Finance", "ChartMill"]
     }
   ]
 }
