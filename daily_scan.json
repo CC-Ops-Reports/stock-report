@@ -1,174 +1,152 @@
 {
-  "report_date": "2026-05-08",
+  "report_date": "2026-05-11",
   "market_tone": "Bullish",
   "key_themes": [
-    "AI infrastructure deals driving massive single-day gains (Akamai $1.8B contract, IREN-Nvidia 5GW partnership)",
-    "Earnings season big movers \u2014 Fluence Energy and Rocket Lab surge on beats; MercadoLibre and Cloudflare crater on misses/layoffs",
-    "Strong April jobs report (115K vs 65K expected) lifts S&P 500 and Nasdaq to new all-time highs despite Middle East tensions"
+    "AI semiconductor rally: Qualcomm 52-week high, Intel-Apple chip deal, Corning-NVIDIA optical partnership",
+    "Earnings season divergence: monday.com +26% on AI platform beat, Trade Desk -9% on miss and downgrade",
+    "Biotech/pharma reactive trading on hantavirus outbreak fears; Moderna spikes on vaccine research news"
   ],
   "sp500": {
-    "value": "7,398.93",
-    "change": "+0.41%"
+    "value": "7,412.84",
+    "change": "+0.19%"
   },
   "nasdaq": {
-    "value": "26,247.08",
-    "change": "+0.66%"
+    "value": "26,274.13",
+    "change": "+0.10%"
   },
   "stocks": [
     {
-      "ticker": "AKAM",
-      "company": "Akamai Technologies",
-      "reason": "Surged 27% after disclosing a leading U.S. frontier AI model provider committed $1.8B over 7 years for its Cloud Infrastructure Services; Q1 adjusted earnings also beat estimates",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance",
-        "Seeking Alpha"
-      ]
-    },
-    {
-      "ticker": "FLNC",
-      "company": "Fluence Energy",
-      "reason": "Soared ~30-40% after fiscal Q2 earnings beat; revenue $464.9M (+7.7% YoY), record backlog; Roth Capital doubled price target to $26 (upgrade to Buy), Goldman Sachs raised PT to $22",
+      "ticker": "MNDY",
+      "company": "monday.com",
+      "reason": "Surged 26% after Q1 2026 earnings beat; AI platform drove 24% YoY revenue growth to $351.3M, topping all estimates",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "StockTitan",
-        "Motley Fool"
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "GLW",
+      "company": "Corning Inc.",
+      "reason": "Shares surged 10.9% after announcing NVIDIA optical connectivity manufacturing partnership and being added to Bank of America's US 1 top picks list",
+      "category": "news",
+      "sources": [
+        "GuruFocus",
+        "CNBC"
       ]
     },
     {
       "ticker": "RKLB",
       "company": "Rocket Lab Corporation",
-      "reason": "Jumped ~30% on record Q1 revenue of $200.35M and signing its largest-ever launch contract (confidential customer, Neutron + Electron rockets through 2029)",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Motley Fool",
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "NET",
-      "company": "Cloudflare",
-      "reason": "Fell 24% despite beating Q1 EPS ($0.25 vs $0.17 est.) and 34% YoY revenue growth; announced layoffs of 1,100+ employees (20% of workforce) citing agentic AI changes",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance",
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "MELI",
-      "company": "MercadoLibre",
-      "reason": "Dropped ~12% after Q1 EPS of $8.23 missed estimates despite 49% YoY revenue growth to $8.85B; margin compression from rapid credit-card loan-loss provision scaling",
+      "reason": "Rose 11.26% on continued momentum and analyst price target hikes following record Q1 revenue of $200.3M (+63.5% YoY) reported May 7",
       "category": "earnings",
       "sources": [
         "Motley Fool",
-        "TheStreet",
-        "Financial Content"
-      ]
-    },
-    {
-      "ticker": "FROG",
-      "company": "JFrog",
-      "reason": "Jumped 23% after Q1 2026 earnings beat; full-year adjusted EPS guidance of $0.93-$0.97 topped analyst consensus of $0.90, Q2 top and bottom line guidance also beat",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
         "Yahoo Finance"
       ]
     },
     {
-      "ticker": "TTD",
-      "company": "The Trade Desk",
-      "reason": "Fell ~12% at open (recovered to -4.8% close) after Q1 adjusted EPS of $0.29 missed vs $0.33 prior year; revenue of $689M (+11.9% YoY) beat but profit decline spooked investors",
-      "category": "earnings",
+      "ticker": "GPRO",
+      "company": "GoPro Inc.",
+      "reason": "Jumped 20% after hours after board announced strategic alternatives review, including potential sale or merger of the company",
+      "category": "news",
+      "sources": [
+        "Benzinga",
+        "StockTitan",
+        "PR Newswire"
+      ]
+    },
+    {
+      "ticker": "QCOM",
+      "company": "Qualcomm Inc.",
+      "reason": "Surged 7-8.67% to a new 52-week high as AI device/edge-compute narrative accelerates; stock up ~70% over past month on fiscal Q2 beat",
+      "category": "sector",
       "sources": [
         "CNBC",
-        "Motley Fool",
+        "Trefis",
+        "Timothy Sykes"
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "company": "Intel Corporation",
+      "reason": "Gained 5.7-6.6% on WSJ report of preliminary agreement with Apple to manufacture chips for Apple devices; BofA raised price target to $96",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance",
+        "CoinCentral"
+      ]
+    },
+    {
+      "ticker": "MRNA",
+      "company": "Moderna Inc.",
+      "reason": "Spiked up to 9% after hantavirus case reported aboard cruise ship Hondius; Moderna confirmed early-stage hantavirus vaccine research with U.S. Army and Korea University",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Bloomberg",
+        "Investing.com"
+      ]
+    },
+    {
+      "ticker": "CSCO",
+      "company": "Cisco Systems Inc.",
+      "reason": "Rose 4.8%, leading the Dow, driven by strong AI infrastructure demand from hyperscalers; Q3 FY2026 earnings report scheduled for May 13",
+      "category": "news",
+      "sources": [
+        "Globe and Mail",
         "TipRanks"
       ]
     },
     {
-      "ticker": "SYNA",
-      "company": "Synaptics",
-      "reason": "Jumped 20% after Q3 adjusted EPS of $1.09 beat $1.01 consensus; revenue of $294.2M beat the $290.5M estimate, IoT segment driving recovery",
-      "category": "earnings",
+      "ticker": "LITE",
+      "company": "Lumentum Holdings Inc.",
+      "reason": "Rose nearly 5% premarket after announcement it will join the Nasdaq 100 index on May 18, replacing CoStar Group",
+      "category": "news",
       "sources": [
         "CNBC"
       ]
     },
     {
-      "ticker": "IREN",
-      "company": "IREN Limited",
-      "reason": "Jumped 8%+ after announcing a multi-year Nvidia partnership to deploy up to 5 gigawatts of AI compute infrastructure across its renewable-powered data centers",
+      "ticker": "TTD",
+      "company": "The Trade Desk Inc.",
+      "reason": "Fell ~9% after Q1 2026 adjusted EPS of $0.28 missed estimates, weak Q2 guidance issued, and HSBC downgraded to Reduce with $20 price target",
+      "category": "downgrade",
+      "sources": [
+        "CNBC",
+        "Benzinga",
+        "247 Wall St."
+      ]
+    },
+    {
+      "ticker": "DG",
+      "company": "Dollar General Corporation",
+      "reason": "Slipped 5.8% after company offered soft fiscal 2026 guidance and announced leadership transition, adding investor uncertainty",
       "category": "news",
       "sources": [
-        "Motley Fool",
         "Yahoo Finance",
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "CRWV",
-      "company": "CoreWeave",
-      "reason": "Declined after Q1 results showed adjusted loss of $1.12/share, wider than the $0.90 expected; operating expenses reached $2.22B even as AI cloud revenue grew",
-      "category": "earnings",
-      "sources": [
-        "Yahoo Finance",
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "MTD",
-      "company": "Mettler-Toledo International",
-      "reason": "Dropped ~15% on weak Q2 guidance: EPS $10.60-$10.85 vs $10.95 consensus, and revenue growth of ~3% YoY well below the 5.1% analysts expected",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "MSI",
-      "company": "Motorola Solutions",
-      "reason": "Fell 11% despite strong Q1 (revenue $2.71B, EPS $3.37) after Q2 guidance of $3.82-$3.88 EPS barely met consensus and investors flagged record $15.7B backlog as already priced in",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "CPAY",
-      "company": "Corpay",
-      "reason": "Jumped 10% after lifting full-year EPS guidance to $26.30-$27.10/share, above prior Street estimates, on strong corporate payments and fleet card volumes",
-      "category": "earnings",
-      "sources": [
-        "Motley Fool",
         "TheStreet"
       ]
     },
     {
-      "ticker": "PLTR",
-      "company": "Palantir Technologies",
-      "reason": "Edged higher in premarket after beating Q1 earnings expectations; continued AI platform demand from government and enterprise customers cited",
+      "ticker": "CRWD",
+      "company": "CrowdStrike Holdings Inc.",
+      "reason": "Upgraded to Buy by Seeking Alpha analyst Gary Alexander, citing sector resilience amid AI disruption sell-offs and $325B TAM with only 2% penetration",
+      "category": "upgrade",
+      "sources": [
+        "Seeking Alpha",
+        "GuruFocus"
+      ]
+    },
+    {
+      "ticker": "ACHR",
+      "company": "Archer Aviation Inc.",
+      "reason": "Reported Q1 2026 earnings with mixed results but promising FAA certification progress updates, closing at $6.54 (+0.93%)",
       "category": "earnings",
       "sources": [
         "Motley Fool",
         "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "AGL",
-      "company": "Agilon Health",
-      "reason": "Surged ~57% in premarket after Q1 EPS of $2.94 crushed the $1.05 consensus estimate; management raised full-year revenue and EBITDA guidance, signaling a major inflection in its value-based Medicare Advantage model",
-      "category": "earnings",
-      "sources": [
-        "StockCatalyst",
-        "TheStockCatalyst"
       ]
     }
   ]
