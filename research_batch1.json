@@ -1,130 +1,164 @@
 {
-  "report_date": "2026-05-08",
+  "report_date": "2026-05-11",
   "batch": 1,
   "market_tone": "Bullish",
   "key_themes": [
-    "AI infrastructure deals driving massive single-day gains (Akamai $1.8B contract, IREN-Nvidia 5GW partnership)",
-    "Earnings season big movers — Fluence Energy and Rocket Lab surge on beats; MercadoLibre and Cloudflare crater on misses/layoffs",
-    "Strong April jobs report (115K vs 65K expected) lifts S&P 500 and Nasdaq to new all-time highs despite Middle East tensions"
+    "AI semiconductor rally: Qualcomm 52-week high, Intel-Apple chip deal, Corning-NVIDIA optical partnership",
+    "Earnings season divergence: monday.com +26% on AI platform beat, Trade Desk -9% on miss and downgrade",
+    "Biotech/pharma reactive trading on hantavirus outbreak fears; Moderna spikes on vaccine research news"
   ],
   "sp500": {
-    "value": "7,398.93",
-    "change": "+0.41%"
+    "value": "7,412.84",
+    "change": "+0.19%"
   },
   "nasdaq": {
-    "value": "26,247.08",
-    "change": "+0.66%"
+    "value": "26,274.13",
+    "change": "+0.10%"
   },
   "stocks": [
     {
-      "ticker": "AKAM",
-      "company": "Akamai Technologies",
-      "discussion_driver": "Akamai surged ~27% after announcing a $1.8B, 7-year cloud infrastructure commitment from a leading frontier AI model provider alongside Q1 earnings beats on both revenue and EPS, fundamentally reframing the company as an AI compute infrastructure player. The deal triggered a wave of analyst upgrades — KeyBanc raised its target to $195, Guggenheim to $181, and Craig-Hallum to $190 — signaling a significant revaluation of Akamai's long-term growth trajectory.",
+      "ticker": "MNDY",
+      "company": "monday.com Ltd.",
+      "discussion_driver": "monday.com surged ~21% on May 11 after reporting Q1 2026 earnings that beat on every key metric: revenue of $351.3M (+24.5% YoY) exceeded estimates, adjusted EPS of $1.15 crushed the $0.93 consensus by 23.4%, and adjusted operating income of $49M beat by 28.9%. The results demonstrated that AI platform investments are driving accelerating enterprise adoption and record profitability simultaneously.",
       "bull_case": [
-        "The $1.8B, 7-year AI cloud contract validates Akamai's strategic pivot to high-margin compute infrastructure beyond legacy CDN, and fresh analyst price targets of $181–$195 from multiple firms suggest meaningful upside remains even after the post-announcement surge.",
-        "Q1 earnings beat on both revenue and EPS demonstrates underlying business momentum, and the AI infrastructure buildout provides a long-duration revenue catalyst that could support premium multiple expansion if execution on the contract proceeds as planned."
+        "AI-powered features are fueling premium tier upgrades: 42% of ARR now comes from customers spending over $50K annually, and Q1 2026 marked record GAAP and non-GAAP operating income alongside $102.8M in adjusted free cash flow, validating a path to durable profitability.",
+        "Analyst consensus price target of $122.64 implies ~59% upside from current post-surge levels, and the Buy consensus (39% Strong Buy, 35% Buy) reflects broad conviction that monday.com's AI-driven Work OS is in the early innings of enterprise market capture."
       ],
       "bear_case": [
-        "A single large AI contract drove the entire 27–30% one-day surge, and any delay, renegotiation, or early termination of the deal could rapidly unwind gains given the stretched ~47x trailing P/E at near 52-week highs.",
-        "Hyperscalers (AWS, Azure, Google Cloud) are aggressively investing in proprietary AI infrastructure, creating structural competitive pressure that may limit Akamai's ability to win additional large AI workloads beyond the current single-customer contract."
+        "Management guided for Net Dollar Retention (NDR) to slightly decline by fiscal year-end 2026, signaling that the pricing tailwinds that boosted prior periods are fading and expansion revenue growth may decelerate.",
+        "Adjusted free cash flow margin compressed from 39% in Q1 2025 to 29% in Q1 2026, and management explicitly flagged rising AI compute costs as a headwind — suggesting margin pressure could deepen as AI investment intensifies."
       ],
-      "recommendation": "Hold",
-      "current_price": "$149.01",
-      "price_target": "$165.00 (+10.7%)",
-      "pe_ratio": "47.12",
-      "rsi": "63.08",
-      "vs_52wk_high": "-2.0% below high ($152.00)",
+      "recommendation": "Buy",
+      "current_price": "$76.92",
+      "price_target": "$122.64 (+59.4%)",
+      "pe_ratio": "32.17",
+      "rsi": "43.2",
+      "vs_52wk_high": "-75.7% below high ($316.98)",
       "analyst_rating": "Buy",
-      "sector": "Technology - Cloud & CDN",
-      "sources": ["CNBC", "Benzinga", "Gurufocus", "MarketBeat", "KeyBanc", "Guggenheim"]
+      "sector": "Technology - Software (SaaS / Work OS)",
+      "sources": [
+        "StockTitan",
+        "FinancialContent / StockStory",
+        "MarketBeat",
+        "Yahoo Finance",
+        "Seeking Alpha",
+        "Motley Fool"
+      ]
     },
     {
-      "ticker": "FLNC",
-      "company": "Fluence Energy",
-      "discussion_driver": "Fluence Energy surged ~40% after its fiscal Q2 earnings beat ($464.9M revenue, +7.7% YoY) and disclosure of a record order backlog, with Wall Street bulls highlighting accelerating demand from hyperscalers and utilities for grid-scale battery storage to power AI data centers. Roth Capital doubled its price target to $26 (upgrading to Buy), Goldman Sachs raised to $22, and Susquehanna raised to $25, reflecting a reassessment of Fluence's strategic importance in the AI power infrastructure buildout.",
+      "ticker": "GLW",
+      "company": "Corning Incorporated",
+      "discussion_driver": "Corning surged ~10.9% to a new 52-week high on May 11 after announcing a $500M manufacturing partnership with NVIDIA to scale optical connectivity components for AI data centers, while Bank of America simultaneously added GLW to its US 1 top picks list. The dual catalyst cemented Corning as a critical optical infrastructure supplier in the AI buildout cycle.",
       "bull_case": [
-        "A record backlog and growing hyperscaler agreement momentum confirm that demand for grid-scale energy storage is accelerating structurally, driven by AI data center power needs and utility grid modernization — giving Fluence multi-year revenue visibility.",
-        "Multiple analyst upgrades following earnings (Roth Capital doubled PT to $26, Goldman raised to $22, Susquehanna to $25) signal growing institutional confidence in Fluence's ability to convert its backlog into sustainable revenue and approach profitability."
+        "The NVIDIA optical connectivity partnership is expected to create approximately 3,000 jobs and materially expand Corning's AI data center footprint — positioning it as a critical supplier in the hyperscaler infrastructure stack at a time when optical interconnect demand is accelerating structurally.",
+        "Corning's diversified portfolio across display, optical, life sciences, and specialty glass provides resilience and multiple growth levers beyond the AI partnership, while BofA's US 1 inclusion signals strong institutional conviction in the stock's multi-year thesis."
       ],
       "bear_case": [
-        "At ~93x P/E in a capital-intensive market, commodity cost spikes (lithium, nickel) or supply chain disruptions can rapidly compress margins on fixed-price storage contracts, making sustained profitability highly uncertain at the current valuation.",
-        "The majority analyst consensus remains Hold (63% of analysts), and the stock is still 27% below its 52-week high, reflecting lingering skepticism about execution risk as Fluence must convert its record backlog without project delays or cost overruns."
+        "At a trailing P/E of 88.1x, Corning's valuation leaves little margin for error — any delay in the NVIDIA partnership ramp or softening in AI capex spending could trigger a sharp de-rating from peak multiple levels.",
+        "The stock now trades approximately 23% above the analyst consensus price target of ~$172, meaning analyst models have not yet caught up to the post-surge price, and near-term consolidation or target catch-up risk is elevated."
       ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$24.39",
-      "price_target": "$25.00 (+2.5%)",
-      "pe_ratio": "93.4",
-      "rsi": "N/A",
-      "vs_52wk_high": "-27.2% below high ($33.51)",
-      "analyst_rating": "Hold",
-      "sector": "Energy - Grid-Scale Battery Storage",
-      "sources": ["CNBC", "StockTitan", "Motley Fool", "MarketBeat", "Gurufocus", "Susquehanna"]
+      "recommendation": "Hold",
+      "current_price": "$211.83",
+      "price_target": "$172.15 (-18.7%)",
+      "pe_ratio": "88.10",
+      "rsi": "55.01",
+      "vs_52wk_high": "-0.4% below high ($212.67)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - Specialty Materials & Optical Components",
+      "sources": [
+        "GuruFocus",
+        "StockAnalysis",
+        "CNBC",
+        "FinanceCharts",
+        "Yahoo Finance"
+      ]
     },
     {
       "ticker": "RKLB",
       "company": "Rocket Lab Corporation",
-      "discussion_driver": "Rocket Lab surged ~30% after reporting record Q1 FY2026 revenue of $200.35M and announcing its largest-ever launch contract — a multi-year deal through 2029 covering both Neutron and Electron rockets for a confidential customer — signaling the company's evolution from a niche small-sat launcher to a credible full-service space provider competing for high-value national security and commercial contracts.",
+      "discussion_driver": "Rocket Lab rose over 11% on May 11 as momentum continued to build following its record Q1 2026 results: revenue of $200.3M (+63.5% YoY) and a $2.2B backlog growing 108% YoY. Multiple analysts raised price targets — including TD Cowen to $120 and Clear Street to $98 — reinforcing conviction that Rocket Lab is cementing its position as the leading commercial alternative to SpaceX in orbital launch.",
       "bull_case": [
-        "Record Q1 revenue of $200.35M and a $2.2B backlog provide strong multi-year revenue visibility, while the largest-ever launch contract signals growing credibility with government and commercial customers seeking a reliable alternative to SpaceX.",
-        "Rocket Lab's vertically integrated model (in-house engines, spacecraft, software) and the upcoming Neutron medium-lift rocket address a substantially larger total addressable market than Electron alone, with potential for rapid margin expansion as launch cadence scales."
+        "A $2.2B backlog growing 108% YoY provides multi-year revenue visibility, and as one of only two proven commercial orbital launch providers globally, Rocket Lab commands structural pricing power as satellite constellation and government launch demand accelerates.",
+        "Development of the Neutron medium-lift rocket is progressing toward its debut — opening a substantially larger market segment than Electron alone — and the company's vertically integrated model provides cost and schedule control advantages that differentiate it from competitors."
       ],
       "bear_case": [
-        "At ~$106 the stock trades well above the analyst consensus price target of ~$87.56, suggesting post-earnings enthusiasm has priced in significant execution success from a company that remains unprofitable with a negative trailing P/E.",
-        "SpaceX's Falcon 9 reusability cost advantages continue to dominate commercial launch pricing, and any high-profile launch failure or Neutron development delay could disproportionately damage Rocket Lab's order pipeline and investor confidence."
+        "The stock carries a deeply negative trailing P/E (-319.32), reflecting that profitability remains distant; any miss in the high-growth trajectory or Neutron development delay could trigger severe valuation compression given the extreme multiples embedded in the current price.",
+        "Analyst consensus price targets of $85.07 sit nearly 27% below the current price of $117.35, indicating the market is pricing in substantial future execution that the analyst community has not yet formally validated in their models."
       ],
-      "recommendation": "Hold",
-      "current_price": "$106.35",
-      "price_target": "$87.56 (-17.7%)",
-      "pe_ratio": "N/A",
-      "rsi": "57",
-      "vs_52wk_high": "-3.9% below high ($110.69)",
-      "analyst_rating": "Buy",
-      "sector": "Aerospace & Defense - Space Launch",
-      "sources": ["CNBC", "Motley Fool", "Benzinga", "MarketBeat", "Yahoo Finance"]
-    },
-    {
-      "ticker": "NET",
-      "company": "Cloudflare",
-      "discussion_driver": "Cloudflare fell ~24% after announcing layoffs of 1,100+ employees (20% of its workforce) citing structural changes driven by agentic AI, even as Q1 EPS of $0.25 beat estimates by 47% and revenue grew 34% YoY. The market's sharp reaction reflects deep uncertainty about whether the mass restructuring signals underlying business deterioration or a calculated pivot toward AI-driven operational efficiency — and is compounded by over $121M in CEO and CFO insider selling in the prior 90 days.",
-      "bull_case": [
-        "Q1 delivered an EPS beat of 47% ($0.25 vs. $0.17 estimate) and 34% YoY revenue growth, and the workforce restructuring framed as preparation for an agentic AI model could unlock significant margin improvement and operating leverage over the next 12–18 months.",
-        "Cloudflare's Zero Trust security platform is deeply embedded in enterprise infrastructure, and its expanding AI product suite (Workers AI, AI Gateway, AI Audit) positions it to capture AI edge computing spend from existing customers, potentially accelerating net revenue retention."
-      ],
-      "bear_case": [
-        "Laying off 20% of the workforce creates near-term execution risk — disrupted go-to-market teams, reduced engineering output, and potential customer service gaps that could impair revenue growth and create competitive openings for Zscaler, CrowdStrike, and Palo Alto Networks.",
-        "Heavy insider selling ($121M+ in the past 90 days by the CEO and CFO) alongside the restructuring creates a significant credibility overhang, and the stock still carries a negative P/E trading at a substantial revenue premium even post-selloff."
-      ],
-      "recommendation": "Buy",
-      "current_price": "$196.13",
-      "price_target": "$233.28 (+19.0%)",
-      "pe_ratio": "N/A",
-      "rsi": "49.58",
-      "vs_52wk_high": "-25.5% below high ($263.08)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Cybersecurity & Cloud Networking",
-      "sources": ["CNBC", "Yahoo Finance", "Benzinga", "MarketBeat", "TipRanks"]
-    },
-    {
-      "ticker": "MELI",
-      "company": "MercadoLibre",
-      "discussion_driver": "MercadoLibre dropped ~12% after Q1 2026 EPS of $8.23 missed estimates of $8.83 despite 49% YoY revenue growth to $8.85B, as a 20% YoY decline in operating income — driven by aggressive credit card loan-loss provisioning and free shipping subsidies in Brazil — raised concerns about margin sustainability at a premium valuation. The divergence between dominant top-line momentum and deteriorating profitability has reignited debate over whether MELI deserves its historical premium multiple.",
-      "bull_case": [
-        "MercadoLibre's 49% YoY revenue growth to $8.85B demonstrates unmatched dominance in Latin America's underpenetrated digital economy, and with 87% of analysts rating it Buy or Strong Buy and a consensus target of $2,290, the post-earnings dip may be a compelling entry as near-term margin pressures are expected to normalize.",
-        "The integrated ecosystem (Mercado Libre marketplace, Mercado Pago, Mercado Credito, logistics) creates deep switching costs and powerful cross-sell opportunities; as credit loss provisioning normalizes and shipping cost efficiencies improve, the margin profile should recover materially in H2 2026."
-      ],
-      "bear_case": [
-        "Operating income declined 20% YoY as the company absorbed higher credit losses and shipping cost subsidies, and until these structural cost pressures stabilize, the stock faces a persistent earnings quality discount that limits multiple expansion despite strong revenue growth.",
-        "Operations across Brazil, Argentina, and Mexico expose MercadoLibre to material FX, regulatory, and macroeconomic risk — particularly Argentina's ongoing economic volatility — which can rapidly erode reported profitability and produce unpredictable earnings variance."
-      ],
-      "recommendation": "Buy",
-      "current_price": "$2,066.15",
-      "price_target": "$2,290.82 (+10.9%)",
-      "pe_ratio": "45.02",
-      "rsi": "60.94",
-      "vs_52wk_high": "-21.9% below high ($2,645.22)",
+      "recommendation": "Speculative Buy",
+      "current_price": "$117.35",
+      "price_target": "$85.07 (-27.5%)",
+      "pe_ratio": "N/A (negative)",
+      "rsi": "N/A",
+      "vs_52wk_high": "-5.3% below high ($123.94)",
       "analyst_rating": "Strong Buy",
-      "sector": "Consumer Discretionary - Latin America E-commerce & Fintech",
-      "sources": ["Motley Fool", "TheStreet", "Gurufocus", "Yahoo Finance", "Quiver Quantitative"]
+      "sector": "Aerospace & Defense - Space Launch Services",
+      "sources": [
+        "StockAnalysis",
+        "Yahoo Finance",
+        "MarketBeat",
+        "Motley Fool",
+        "public.com"
+      ]
+    },
+    {
+      "ticker": "GPRO",
+      "company": "GoPro Inc.",
+      "discussion_driver": "GoPro's Board announced a formal review of strategic alternatives — including a potential sale or merger — after Q1 2026 revenue fell 26% to $99.1M, gross margin collapsed to 4.3%, net loss widened to $80.8M, and stockholders' equity turned negative at -$1.9M. The announcement is a last-resort effort to maximize shareholder value as the core action camera business deteriorates rapidly.",
+      "bull_case": [
+        "The strategic alternatives review creates meaningful M&A optionality: GoPro's iconic brand, loyal user base, and proprietary camera and software IP could attract a strategic buyer in consumer electronics, media, or tech at a significant premium to current depressed trading levels.",
+        "Any confirmed acquisition bid — even at a fraction of the $3.05 52-week high — would represent a multi-bagger return from the current sub-$2 price, making GPRO a speculative event-driven trade on deal execution in the near term."
+      ],
+      "bear_case": [
+        "Q1 2026 financials are dire: revenue down 26%, gross margin at 4.3%, $80.8M net loss, only $40.7M cash versus $72M short-term debt, and negative stockholders' equity — creating significant liquidity risk if a buyer is not found quickly.",
+        "All active Wall Street analyst ratings are Sell with a median price target of $1.30 (below the current market price), reflecting broad consensus that the standalone business is fundamentally unviable without a strategic transaction."
+      ],
+      "recommendation": "Speculative Buy",
+      "current_price": "$1.58",
+      "price_target": "$1.30 (-17.7%)",
+      "pe_ratio": "N/A (negative EPS: -$0.59)",
+      "rsi": "N/A",
+      "vs_52wk_high": "-48.2% below high ($3.05)",
+      "analyst_rating": "Sell",
+      "sector": "Consumer Electronics - Action Cameras",
+      "sources": [
+        "StockTitan",
+        "PR Newswire",
+        "Benzinga",
+        "Yahoo Finance",
+        "TipRanks",
+        "eToro"
+      ]
+    },
+    {
+      "ticker": "QCOM",
+      "company": "QUALCOMM Incorporated",
+      "discussion_driver": "Qualcomm surged ~9% to a new 52-week intraday high of $247.90 on May 11 on a dual catalyst: CEO Cristiano Amon disclosed that Qualcomm's data center processors will ship to a major hyperscaler customer before year-end 2026 — opening an entirely new revenue stream — while the US-China 90-day tariff pause removed a major overhang on China handset inventory recovery, with Daiwa's Outperform upgrade (target: $225) adding institutional conviction.",
+      "bull_case": [
+        "Qualcomm's confirmed data center entry — with hyperscaler shipments expected before year-end 2026 — represents a transformative expansion beyond smartphones into AI compute, adding a significant new revenue leg that the market is only beginning to price into estimates.",
+        "The US-China tariff pause, recovering handset demand, surging edge-AI device adoption via Snapdragon chips, and growing automotive chip revenue create multiple simultaneous tailwinds supporting a materially stronger fiscal 2026 and 2027 outlook."
+      ],
+      "bear_case": [
+        "With RSI in overbought territory (near 80+) and the stock up approximately 70% over the past month, Qualcomm is technically extended and vulnerable to sharp near-term pullbacks on any disappointment in the hyperscaler ramp timeline or macro reversal.",
+        "Despite the data center opportunity, Qualcomm remains heavily smartphone-dependent, and any slowdown in China handset market recovery or shift in Apple's foundry sourcing strategy could quickly reverse momentum in the stock."
+      ],
+      "recommendation": "Buy",
+      "current_price": "$244.04",
+      "price_target": "$195.00 (-20.1%)",
+      "pe_ratio": "26.04",
+      "rsi": "N/A",
+      "vs_52wk_high": "-1.6% below high ($247.90)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - Semiconductors",
+      "sources": [
+        "FX Leaders",
+        "CoinCentral",
+        "Investing.com",
+        "Yahoo Finance",
+        "CNBC",
+        "FinancialContent",
+        "Rolling Out"
+      ]
     }
   ]
 }
