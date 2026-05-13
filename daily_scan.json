@@ -1,163 +1,171 @@
 {
-  "report_date": "2026-05-12",
+  "report_date": "2026-05-13",
   "market_tone": "Mixed",
   "key_themes": [
-    "Hot April CPI (3.8% YoY, above 3.7% estimate) dampens rate-cut hopes and pressures broad market",
-    "Oil surges above $100/barrel on Iran geopolitical tensions, boosting energy but weighing on consumer stocks",
-    "Active Q1 earnings season: strong beats in industrials and AI-adjacent tech contrast with misses in consumer/telehealth names"
+    "Trump-Xi summit in Beijing with tech CEOs (Huang, Cook, Musk) driving semiconductor and AI optimism",
+    "Hot PPI inflation data (6% YoY) spooks rates-sensitive sectors while tech/AI stocks surge to record highs",
+    "AI infrastructure spending boom: Cisco, Nebius, and others beat on surging AI demand"
   ],
   "sp500": {
-    "value": "5,870.00",
-    "change": "-0.37%"
+    "value": "7,444.25",
+    "change": "+0.58%"
   },
   "nasdaq": {
-    "value": "26,088.20",
-    "change": "-0.71%"
+    "value": "26,402.34",
+    "change": "+1.20%"
   },
   "stocks": [
     {
-      "ticker": "AMBQ",
-      "company": "Ambiq Micro Inc",
-      "reason": "Shares soared ~40% after Q1 earnings beat with bullish AI chip outlook drove outsized volume",
+      "ticker": "CSCO",
+      "company": "Cisco Systems",
+      "reason": "Q3 earnings beat after-hours (EPS $1.06 vs $1.04 est, rev $15.84B vs $15.56B est); raised AI infrastructure order forecast to $9B for FY; cutting ~4,000 jobs; stock surged 15-18% in extended trading",
       "category": "earnings",
       "sources": [
-        "Bloomberg",
+        "CNBC",
+        "Bloomberg"
+      ]
+    },
+    {
+      "ticker": "NBIS",
+      "company": "Nebius Group",
+      "reason": "Q1 2026 blowout earnings: revenue nearly 8x YoY to $399M; announced new Pennsylvania AI factory with 1.2 GW of power secured; stock surged ~17%",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Motley Fool",
         "Yahoo Finance"
       ]
     },
     {
-      "ticker": "VSTS",
-      "company": "Vestis Corp",
-      "reason": "Surged 30%+ after fiscal Q2 results beat expectations and company raised FY26 EBITDA guidance",
-      "category": "earnings",
+      "ticker": "WOLF",
+      "company": "Wolfspeed",
+      "reason": "Thematic research firm upgraded and called stock significantly undervalued citing manufacturing footprint; stock soared ~23% in one of biggest single-day moves",
+      "category": "upgrade",
       "sources": [
-        "CNBC"
+        "Rolling Out",
+        "TheStreet"
       ]
     },
     {
-      "ticker": "ZBRA",
-      "company": "Zebra Technologies",
-      "reason": "Popped 17% on Q1 beat: EPS of $4.75 vs $4.25 estimate; revenue of $1.5B vs $1.48B consensus",
+      "ticker": "DOCS",
+      "company": "Doximity",
+      "reason": "Q4 earnings miss plus weak Q1 and full-year revenue guidance well below analyst expectations; stock plunged ~19%",
       "category": "earnings",
-      "sources": [
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "PACS",
-      "company": "PACS Group Inc",
-      "reason": "Rose 22% premarket on Q1 earnings beat and surprise $250 million share buyback announcement",
-      "category": "earnings",
-      "sources": [
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "QUBT",
-      "company": "Quantum Computing Inc",
-      "reason": "Gained 25% premarket after reporting better-than-expected Q1 financial results",
-      "category": "earnings",
-      "sources": [
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "RALY",
-      "company": "Ralliant Corp",
-      "reason": "Jumped 14% on Q1 earnings beat: adj. EPS of 57 cents vs 49 cents FactSet consensus",
-      "category": "earnings",
-      "sources": [
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "HLIT",
-      "company": "Harmonic Inc",
-      "reason": "Rose 13% premarket on Q1 beat: EPS of 17 cents vs 12 cents estimate; revenue of $121.7M vs $102.2M",
-      "category": "earnings",
-      "sources": [
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "WEN",
-      "company": "Wendy's Co",
-      "reason": "Surged ~14% after Financial Times reported Nelson Peltz's Trian Fund is seeking investors for a take-private bid",
-      "category": "news",
       "sources": [
         "CNBC",
-        "Financial Times",
-        "Yahoo Finance",
-        "Benzinga"
+        "TheStreet"
       ]
     },
     {
-      "ticker": "HIMS",
-      "company": "Hims & Hers Health",
-      "reason": "Fell ~12% as Q1 revenue growth decelerated sharply to 4% YoY from 111% a year ago, signaling growth concerns",
+      "ticker": "BABA",
+      "company": "Alibaba Group",
+      "reason": "Q4 FY26 earnings miss; core adjusted EBITA plunged 84% YoY as heavy AI and cloud investments crushed profitability; stock fell ~9%",
       "category": "earnings",
       "sources": [
         "Bloomberg",
-        "Motley Fool"
+        "Seeking Alpha",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "reason": "CEO Jensen Huang joined Trump's China trip as last-minute addition alongside Cook and Musk; semiconductor sector surged on trade deal hopes; stock up ~2.7%; Oppenheimer reiterated Outperform ahead of May 20 earnings",
+      "category": "news",
+      "sources": [
+        "Bloomberg",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "AKAM",
+      "company": "Akamai Technologies",
+      "reason": "Bank of America upgraded to Buy from Neutral, raised price target to $175 from $130; stock jumped ~7% on the session",
+      "category": "upgrade",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "reason": "Gained ~4% as semiconductor sector rallied on Trump-Xi summit trade optimism and AI infrastructure demand; beneficiary of chip sales reopening to China expectations",
+      "category": "sector",
+      "sources": [
+        "Bloomberg",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "reason": "CEO Tim Cook joined Trump's Beijing delegation for Xi summit; Daiwa raised price target to $325 from $310, reiterating Outperform; potential China market access seen as positive catalyst",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Euronews",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "LOAR",
+      "company": "Loar Holdings",
+      "reason": "Q1 2026 record results (net sales +36.1% YoY to $156.1M, adj EBITDA +46.6%) but stock tumbled ~10%, likely due to valuation and high expectations already priced in",
+      "category": "earnings",
+      "sources": [
+        "FinanzWire",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "BIRK",
+      "company": "Birkenstock Holding",
+      "reason": "Fiscal Q2 earnings and revenue both missed analyst estimates; Middle East conflict (Iran war) weighing on regional growth; stock fell ~5.5-5.8%",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "TheStreet"
+      ]
+    },
+    {
+      "ticker": "AMD",
+      "company": "Advanced Micro Devices",
+      "reason": "Daiwa downgraded to Outperform from Buy on valuation but doubled price target to $500 from $250; stock active amid broader semiconductor sector rally on China trade optimism",
+      "category": "downgrade",
+      "sources": [
+        "Yahoo Finance",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "ZI",
+      "company": "ZoomInfo Technologies",
+      "reason": "Mizuho downgraded to Underperform from Neutral and slashed price target from $10 to $3, one of the most severe analyst cuts of the day",
+      "category": "downgrade",
+      "sources": [
+        "Benzinga",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "EOSE",
+      "company": "Eos Energy Enterprises",
+      "reason": "Q1 earnings beat with reaffirmed 2026 revenue guidance and Cerberus-backed Frontier Power USA venture announcement; initially surged 20% then gave back most gains",
+      "category": "earnings",
+      "sources": [
+        "Motley Fool",
+        "Bloomberg"
       ]
     },
     {
       "ticker": "UAA",
-      "company": "Under Armour Inc",
-      "reason": "Tumbled after Q4 FY2026 EPS miss and weak FY2027 guidance citing tariff headwinds and North America weakness",
-      "category": "earnings",
-      "sources": [
-        "PR Newswire",
-        "Investing.com",
-        "ChartMill"
-      ]
-    },
-    {
-      "ticker": "ONON",
-      "company": "On Holding AG",
-      "reason": "Fell 5% premarket despite Q1 earnings and revenue beat plus reaffirmed full-year net sales growth outlook",
-      "category": "earnings",
-      "sources": [
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "ASTS",
-      "company": "AST SpaceMobile",
-      "reason": "Dropped sharply after Q1 earnings miss disappointed investors who had bid up the satellite broadband stock",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Motley Fool"
-      ]
-    },
-    {
-      "ticker": "LOW",
-      "company": "Lowe's Companies",
-      "reason": "Citi analyst upgraded to Buy from Neutral today, citing improving home-improvement demand backdrop",
-      "category": "upgrade",
-      "sources": [
-        "Yahoo Finance",
-        "Bloomberg"
-      ]
-    },
-    {
-      "ticker": "CE",
-      "company": "Celanese Corp",
-      "reason": "JP Morgan analyst upgraded to Overweight from Neutral, maintaining $68 price target on improved turnaround prospects",
-      "category": "upgrade",
-      "sources": [
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "GTLB",
-      "company": "GitLab Inc",
-      "reason": "Fell ~12% premarket after Raymond James downgraded to Market Perform and company announced workforce reduction",
+      "company": "Under Armour",
+      "reason": "Stifel downgraded from Buy to Hold and cut price target from $9 to $6, no longer bullish on the apparel maker's near-term outlook",
       "category": "downgrade",
       "sources": [
         "Benzinga",
-        "Bloomberg"
+        "Yahoo Finance"
       ]
     }
   ]
