@@ -1,86 +1,96 @@
 {
-  "report_date": "2026-05-13",
-  "market_tone": "Mixed",
+  "report_date": "2026-05-14",
+  "market_tone": "Bullish",
   "key_themes": [
-    "Trump-Xi summit in Beijing with tech CEOs (Huang, Cook, Musk) driving semiconductor and AI optimism",
-    "Hot PPI inflation data (6% YoY) spooks rates-sensitive sectors while tech/AI stocks surge to record highs",
-    "AI infrastructure spending boom: Cisco, Nebius, and others beat on surging AI demand"
+    "Cisco mega-earnings: AI infrastructure orders raised to $9B, stock surges most since 2002",
+    "US-China trade summit: Trump-Xi Beijing meeting yields Boeing jet order, market-wide optimism",
+    "AI spending bifurcation: creates earnings winners (Cisco) and margin losers (Doximity -25%)",
+    "Strong Q1/Q2 earnings beats across consumer and travel sectors (YETI, StubHub, Viking)",
+    "S&P 500 and Nasdaq hit record closes; Dow retakes 50,000"
   ],
   "sp500": {
-    "value": "7,444.25",
-    "change": "+0.58%"
+    "value": "7,501.24",
+    "change": "+0.77%"
   },
   "nasdaq": {
-    "value": "26,402.34",
-    "change": "+1.20%"
+    "value": "26,635.22",
+    "change": "+0.88%"
   },
   "stocks": [
     {
       "ticker": "CSCO",
       "company": "Cisco Systems",
-      "reason": "Q3 earnings beat after-hours (EPS $1.06 vs $1.04 est, rev $15.84B vs $15.56B est); raised AI infrastructure order forecast to $9B for FY; cutting ~4,000 jobs; stock surged 15-18% in extended trading",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Bloomberg"
-      ]
-    },
-    {
-      "ticker": "NBIS",
-      "company": "Nebius Group",
-      "reason": "Q1 2026 blowout earnings: revenue nearly 8x YoY to $399M; announced new Pennsylvania AI factory with 1.2 GW of power secured; stock surged ~17%",
+      "reason": "Q3 FY2026 beat-and-raise: revenue $15.84B vs $15.56B est, EPS $1.06 vs $1.04 est; raised AI infrastructure orders target to $9B from $5B; product orders +35%, networking +50%; stock surged ~17-20%, biggest gain since 2002; six Wall Street firms hiked price targets; announced ~4,000 layoffs for AI reorg",
       "category": "earnings",
       "sources": [
         "CNBC",
         "Motley Fool",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "WOLF",
-      "company": "Wolfspeed",
-      "reason": "Thematic research firm upgraded and called stock significantly undervalued citing manufacturing footprint; stock soared ~23% in one of biggest single-day moves",
-      "category": "upgrade",
-      "sources": [
-        "Rolling Out",
-        "TheStreet"
+        "Seeking Alpha",
+        "Yahoo Finance",
+        "24/7 Wall St."
       ]
     },
     {
       "ticker": "DOCS",
       "company": "Doximity",
-      "reason": "Q4 earnings miss plus weak Q1 and full-year revenue guidance well below analyst expectations; stock plunged ~19%",
+      "reason": "Q4 FY2026 earnings miss: adjusted EPS $0.26 vs $0.28 est; full-year revenue outlook $664-676M below FY2026 level at midpoint; rising AI investment costs pressuring margins; pharma digital ad market soft; stock plunged ~25% to lowest since 2021 IPO; Jefferies downgraded to Hold, slashed PT from $51 to $19",
       "category": "earnings",
       "sources": [
-        "CNBC",
-        "TheStreet"
+        "Seeking Alpha",
+        "Gurufocus",
+        "Motley Fool",
+        "Investing.com",
+        "Bloomberg"
       ]
     },
     {
-      "ticker": "BABA",
-      "company": "Alibaba Group",
-      "reason": "Q4 FY26 earnings miss; core adjusted EBITA plunged 84% YoY as heavy AI and cloud investments crushed profitability; stock fell ~9%",
+      "ticker": "STUB",
+      "company": "StubHub",
+      "reason": "Q1 2026 earnings beat: revenue $446M vs $432M expected, adjusted EBITDA $72.1M vs $65.1M expected; stock surged ~14% on strong live-events demand",
       "category": "earnings",
       "sources": [
-        "Bloomberg",
+        "CNBC",
+        "Bloomberg"
+      ]
+    },
+    {
+      "ticker": "YETI",
+      "company": "YETI Holdings",
+      "reason": "Q1 FY2026 beat on top and bottom line: EPS $0.26 vs $0.18 expected, revenue $380.4M vs $374.7M expected; raised FY2026 adjusted EPS guidance midpoint to $2.86 above $2.81 consensus; stock jumped ~10%",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance",
+        "Investing.com"
+      ]
+    },
+    {
+      "ticker": "SBUX",
+      "company": "Starbucks",
+      "reason": "TD Cowen upgraded from Hold to Buy, raised price target to $120; cited improving same-store sales (+6% comp growth in Q2), margin recovery from labor investments and cost cuts, and operational improvements under CEO Brian Niccol; stock hit 52-week high",
+      "category": "upgrade",
+      "sources": [
+        "CNBC",
+        "Gurufocus",
+        "Benzinga",
         "Seeking Alpha",
-        "CNBC"
+        "24/7 Wall St."
+      ]
+    },
+    {
+      "ticker": "F",
+      "company": "Ford Motor",
+      "reason": "Morgan Stanley highlighted Ford's energy storage business and CATL battery relationship as underappreciated growth driver for Model e segment; stock rose ~7% adding to prior day's 13% surge; two-day rally of ~20% total",
+      "category": "upgrade",
+      "sources": [
+        "CNBC",
+        "Bloomberg"
       ]
     },
     {
       "ticker": "NVDA",
-      "company": "Nvidia",
-      "reason": "CEO Jensen Huang joined Trump's China trip as last-minute addition alongside Cook and Musk; semiconductor sector surged on trade deal hopes; stock up ~2.7%; Oppenheimer reiterated Outperform ahead of May 20 earnings",
-      "category": "news",
-      "sources": [
-        "Bloomberg",
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "AKAM",
-      "company": "Akamai Technologies",
-      "reason": "Bank of America upgraded to Buy from Neutral, raised price target to $175 from $130; stock jumped ~7% on the session",
+      "company": "NVIDIA",
+      "reason": "UBS raised price target to $275 from $245, maintained Buy rating, citing strong AI infrastructure demand ahead of upcoming earnings; stock tops $230 with analysts calling it still cheap; BofA also resets price target upward",
       "category": "upgrade",
       "sources": [
         "CNBC",
@@ -88,84 +98,66 @@
       ]
     },
     {
-      "ticker": "MU",
-      "company": "Micron Technology",
-      "reason": "Gained ~4% as semiconductor sector rallied on Trump-Xi summit trade optimism and AI infrastructure demand; beneficiary of chip sales reopening to China expectations",
-      "category": "sector",
+      "ticker": "AMAT",
+      "company": "Applied Materials",
+      "reason": "Q2 FY2026 beat-and-raise reported after-hours; stock rose ~2% during regular session ahead of results then gained ~4.5% after-hours; shares up 73% YTD in 2026 on semiconductor equipment demand",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Trefis",
+        "StockTitan"
+      ]
+    },
+    {
+      "ticker": "BIIB",
+      "company": "Biogen",
+      "reason": "Experimental Alzheimer's drug advances to Phase 3 trial despite missing Phase 2 primary endpoint; showed cognitive benefits in secondary measures; stock had volatile session, up ~4% early then reversed to -5% midday",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "VIK",
+      "company": "Viking Holdings",
+      "reason": "Q1 2026 revenue rose sharply year-over-year; cruise line operator reported strong travel demand; stock moved higher on the earnings beat alongside StubHub as live-experience sector outperforms",
+      "category": "earnings",
       "sources": [
         "Bloomberg",
         "CNBC"
       ]
     },
     {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "reason": "CEO Tim Cook joined Trump's Beijing delegation for Xi summit; Daiwa raised price target to $325 from $310, reiterating Outperform; potential China market access seen as positive catalyst",
+      "ticker": "GOOS",
+      "company": "Canada Goose",
+      "reason": "Q4 and full fiscal year 2026 results reported pre-market; stock trading at $10.68, below all major moving averages amid earnings misses and declining profitability; one of Bloomberg's premarket mover features for the day",
+      "category": "earnings",
+      "sources": [
+        "Bloomberg",
+        "Yahoo Finance",
+        "Investing.com"
+      ]
+    },
+    {
+      "ticker": "BA",
+      "company": "Boeing",
+      "reason": "Trump-Xi Beijing summit: China agreed to order 200 Boeing jets per Trump announcement to Fox News; stock down ~3.8% to $231 as market had priced in higher expectations; trade deal optimism partially offset by order-size disappointment",
       "category": "news",
       "sources": [
         "CNBC",
-        "Euronews",
-        "Yahoo Finance"
+        "Bloomberg",
+        "24/7 Wall St."
       ]
     },
     {
-      "ticker": "LOAR",
-      "company": "Loar Holdings",
-      "reason": "Q1 2026 record results (net sales +36.1% YoY to $156.1M, adj EBITDA +46.6%) but stock tumbled ~10%, likely due to valuation and high expectations already priced in",
-      "category": "earnings",
+      "ticker": "NVMI",
+      "company": "Nova Measuring Instruments",
+      "reason": "BofA Securities raised price target to $612 from $510; semiconductor metrology equipment maker benefiting from AI chip manufacturing buildout demand",
+      "category": "upgrade",
       "sources": [
-        "FinanzWire",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "BIRK",
-      "company": "Birkenstock Holding",
-      "reason": "Fiscal Q2 earnings and revenue both missed analyst estimates; Middle East conflict (Iran war) weighing on regional growth; stock fell ~5.5-5.8%",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "TheStreet"
-      ]
-    },
-    {
-      "ticker": "AMD",
-      "company": "Advanced Micro Devices",
-      "reason": "Daiwa downgraded to Outperform from Buy on valuation but doubled price target to $500 from $250; stock active amid broader semiconductor sector rally on China trade optimism",
-      "category": "downgrade",
-      "sources": [
-        "Yahoo Finance",
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "ZI",
-      "company": "ZoomInfo Technologies",
-      "reason": "Mizuho downgraded to Underperform from Neutral and slashed price target from $10 to $3, one of the most severe analyst cuts of the day",
-      "category": "downgrade",
-      "sources": [
-        "Benzinga",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "EOSE",
-      "company": "Eos Energy Enterprises",
-      "reason": "Q1 earnings beat with reaffirmed 2026 revenue guidance and Cerberus-backed Frontier Power USA venture announcement; initially surged 20% then gave back most gains",
-      "category": "earnings",
-      "sources": [
-        "Motley Fool",
-        "Bloomberg"
-      ]
-    },
-    {
-      "ticker": "UAA",
-      "company": "Under Armour",
-      "reason": "Stifel downgraded from Buy to Hold and cut price target from $9 to $6, no longer bullish on the apparel maker's near-term outlook",
-      "category": "downgrade",
-      "sources": [
-        "Benzinga",
-        "Yahoo Finance"
+        "Globe and Mail",
+        "Benzinga"
       ]
     }
   ]
