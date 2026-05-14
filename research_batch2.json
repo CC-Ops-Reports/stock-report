@@ -1,116 +1,116 @@
 {
-  "report_date": "2026-05-12",
+  "report_date": "2026-05-13",
   "batch": 2,
   "stocks": [
     {
-      "ticker": "RALY",
-      "company": "Ralliant Corp",
-      "discussion_driver": "Ralliant (NYSE: RAL) surged following Q1 2026 results featuring adj. EPS of $0.57 vs. the $0.49 FactSet estimate and revenue of $534.6M topping the $520.3M consensus. Management raised full-year guidance to $2.185–$2.245B in revenue and announced a $500M share repurchase authorization, pushing the stock above pre-existing analyst price targets on heavy volume.",
+      "ticker": "NVDA",
+      "company": "Nvidia Corporation",
+      "discussion_driver": "CEO Jensen Huang joined President Trump's last-minute business delegation to Beijing for a summit with Xi Jinping — alongside Tim Cook and Elon Musk — fueling semiconductor sector optimism over potential easing of U.S.-China chip export restrictions. Oppenheimer reiterated Outperform ahead of Nvidia's Q1 FY27 earnings report on May 20, while the broader AI infrastructure spending boom (Cisco's $9B AI order forecast, Nebius 8x revenue growth) reinforces sustained GPU demand. NVDA rose ~2.7% on the session, pushing to a new all-time high near $227.",
       "bull_case": [
-        "Q1 2026 beat with adj. EPS of $0.57 vs. $0.49 estimate while revenue jumped 11% YoY; the board authorized $500M in buybacks including a $100M accelerated share repurchase, signaling strong management confidence in the business.",
-        "The defense backlog has surpassed $1 billion, providing multi-year revenue visibility, and a new Enterprise Productivity Program targets $50–60M in annualized run-rate savings by 2028, enhancing long-term margin expansion."
+        "China re-engagement catalyst: Jensen Huang's participation in the Trump-Xi summit signals potential easing of GPU export restrictions, which could unlock a multi-billion-dollar revenue opportunity in the world's second-largest economy.",
+        "Unstoppable AI infrastructure demand: Hyperscalers and cloud providers continue accelerating AI capex with no signs of slowdown; Q1 FY27 earnings on May 20 are expected to show record revenues, with analyst consensus price target of $272 implying 20%+ upside."
       ],
       "bear_case": [
-        "The post-earnings rally pushed the stock above the $51.33 analyst consensus target, suggesting much of the good news is already priced in; any macro-driven slowdown in capital-equipment spending could lead to a swift reversal.",
-        "Roughly $25M in tariff exposure remains for 2026 despite mitigation efforts through sourcing and pricing adjustments, and a broader industrial demand contraction would weigh on the Test & Measurement segment."
-      ],
-      "recommendation": "Hold",
-      "current_price": "$54.61",
-      "price_target": "$51.33 (-6.0%)",
-      "pe_ratio": "34.79",
-      "rsi": "N/A",
-      "vs_52wk_high": "-4.2% below high ($57.02)",
-      "analyst_rating": "Buy",
-      "sector": "Industrials - Precision Instruments / Test & Measurement",
-      "sources": ["Morningstar", "MarketBeat", "ChartMill", "RTT News", "eToro", "Barclays Research"]
-    },
-    {
-      "ticker": "HLIT",
-      "company": "Harmonic Inc",
-      "discussion_driver": "Harmonic (NASDAQ: HLIT) rose ~13% premarket after Q1 2026 results smashed expectations — EPS of $0.17 vs. $0.12 estimate and revenue of $121.7M vs. $102.2M consensus — driven by a 43% broadband revenue surge and 78% rest-of-market growth. The company raised its full-year broadband revenue outlook to $475–$495M and reported 87% backlog growth to $582M, signaling sustained infrastructure upgrade demand.",
-      "bull_case": [
-        "Q1 broadband revenue surged 43% YoY to $121.7M, far exceeding the $100–$105M guidance range, while backlog and deferred revenue jumped 87% YoY to $582M — providing strong multi-quarter revenue visibility as cable operators accelerate network upgrades.",
-        "Operating profit surged 115% YoY to $26M and management raised its full-year broadband revenue guidance to $475–$495M, reflecting expanding operating leverage; Needham raised its price target to $18, representing ~41% upside from current levels."
-      ],
-      "bear_case": [
-        "Top two customers account for 58% of total revenue, creating significant concentration risk; any reduction in spending by these cable operators could materially impact Harmonic's results.",
-        "Supply chain constraints around memory and components could pressure margins in H2 2026, and the trailing P/E of ~42x leaves limited room for execution shortfalls given the elevated valuation."
+        "Earnings-event risk at all-time highs: NVDA trades near its ATH at 37x earnings heading into May 20 — any guide-down or margin miss after massive expectations could trigger a sharp correction.",
+        "China policy uncertainty: Diplomatic progress does not guarantee regulatory action; export licenses can be reversed, and any deterioration in U.S.-China relations would disproportionately hurt Nvidia given its reliance on high-end GPU sales."
       ],
       "recommendation": "Buy",
-      "current_price": "$12.80",
-      "price_target": "$14.67 (+14.6%)",
-      "pe_ratio": "42.39",
-      "rsi": "N/A",
-      "vs_52wk_high": "-2.1% below high ($13.07)",
+      "current_price": "$225.57",
+      "price_target": "$272.08 (+20.6%)",
+      "pe_ratio": "37.0",
+      "rsi": "69.3",
+      "vs_52wk_high": "at new 52-week high ($227.84)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Technology - Semiconductors",
+      "sources": ["GuruFocus", "Oppenheimer", "MarketBeat", "stockanalysis.com", "Bloomberg", "CNBC"]
+    },
+    {
+      "ticker": "AKAM",
+      "company": "Akamai Technologies",
+      "discussion_driver": "Bank of America upgraded Akamai from Neutral to Buy on May 13 and raised its price target to $175 from $130, declaring 'the story has shifted from a legacy delivery network to a credible AI infrastructure platform.' The upgrade followed Akamai's landmark $1.8 billion, 7-year cloud infrastructure deal with Anthropic and Cloud Infrastructure Services growing 40% year-over-year, with BofA projecting revenue growth accelerating to 11% by 2027. Shares jumped ~7% on the session to $149.56.",
+      "bull_case": [
+        "AI infrastructure platform transformation: Akamai's $1.8B Anthropic deal and 40% YoY Cloud Infrastructure Services growth validate the company's pivot away from legacy CDN toward high-margin edge AI computing, with BofA projecting revenue acceleration to 11% by 2027 and EPS reaching $9.03 by 2028.",
+        "Significant analyst re-rating underway: BofA's upgrade to $175 and Piper Sandler's concurrent raise to $156 suggest consensus targets — still anchored around $107-$136 — are systematically too low and due for broad upward revision, creating near-term price momentum."
+      ],
+      "bear_case": [
+        "Legacy CDN structural decline: Core content delivery revenue continues to shrink under pressure from hyperscaler-native CDN solutions; the AI infrastructure pivot must fully offset CDN erosion before the transition risk truly clears.",
+        "Valuation stretched after 73% YTD rally: Trading at 48.5x P/E near its 52-week high, the stock has priced in significant execution on the AI transformation narrative — any contract delays or margin disappointment could deflate the premium quickly."
+      ],
+      "recommendation": "Buy",
+      "current_price": "$149.56",
+      "price_target": "$175.00 (+17.0%)",
+      "pe_ratio": "48.5",
+      "rsi": "63.1",
+      "vs_52wk_high": "-4.3% below high ($156.32)",
       "analyst_rating": "Buy",
-      "sector": "Technology - Broadband / Video Infrastructure",
-      "sources": ["Investing.com", "Yahoo Finance", "Gurufocus", "Needham Research", "MarketBeat", "TradingView"]
+      "sector": "Technology - Cloud Infrastructure & Security",
+      "sources": ["Bank of America via Yahoo Finance", "GuruFocus", "Proactive Investors", "Piper Sandler", "Benzinga", "ad-hoc-news.de"]
     },
     {
-      "ticker": "WEN",
-      "company": "Wendy's Co",
-      "discussion_driver": "Wendy's shares surged ~14% after the Financial Times reported that Nelson Peltz's Trian Fund Management — the company's largest shareholder with ~16% stake — is actively seeking investor backing, including from Middle Eastern investors, for a potential take-private bid. A Wedbush analyst said a deal in the $9–$12/share range is plausible given WEN's deep valuation discount versus fast-food peers, though no formal offer has yet been made.",
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "discussion_driver": "Micron surged ~4% as the semiconductor sector broadly rallied on Trump-Xi Beijing summit trade optimism, with investors anticipating a partial re-opening of China chip sales that would represent a material revenue catalyst. Deutsche Bank raised its price target to a Street-high of $1,000 citing HBM supercycle dynamics, while the stock hit a new all-time intraday high of $815.19 on May 13 — extending a remarkable 70%+ year-to-date gain driven by AI memory demand.",
       "bull_case": [
-        "Trian Fund Management (~16% stake) is actively seeking financing for a take-private bid reportedly in the $9–$12/share range, representing a 14–52% premium to pre-announcement trading levels and creating a meaningful takeover floor for the stock.",
-        "Wendy's trades at a forward P/E of ~11x versus McDonald's ~20x and Yum Brands ~21x — one of the deepest discounts in the QSR sector — making it an attractive value target for private equity independent of the Trian bid."
+        "HBM memory supercycle in full swing: Micron is a primary supplier of High-Bandwidth Memory (HBM3E) chips to Nvidia and major cloud AI clusters; surging AI server buildout is driving unprecedented pricing power and utilization rates, with the stock up 70%+ YTD reflecting this fundamental inflection.",
+        "China re-engagement upside: Potential easing of U.S. export restrictions on memory chips to China — the world's largest memory consumer — could unlock billions in incremental annual revenue, an unpriced catalyst that compounds the existing AI demand tailwind."
       ],
       "bear_case": [
-        "No formal offer has been made and financing talks are exploratory; if Trian fails to secure capital or the bid collapses, the stock will likely retrace most of today's gains back toward pre-announcement levels near $6–7.",
-        "Underlying business fundamentals remain challenged — Q1 2026 net income declined to $22.7M while slowing customer traffic, rising beef costs, and cautious consumer spending continue to pressure same-store sales and margins."
-      ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$7.91",
-      "price_target": "$10.50 (+32.7%)",
-      "pe_ratio": "N/A",
-      "rsi": "N/A",
-      "vs_52wk_high": "-36.1% below high ($12.38)",
-      "analyst_rating": "Hold",
-      "sector": "Consumer Cyclical - Quick Service Restaurants",
-      "sources": ["Financial Times", "Reuters / Investing.com", "Seeking Alpha", "Benzinga", "Invezz", "Wedbush Securities"]
-    },
-    {
-      "ticker": "HIMS",
-      "company": "Hims & Hers Health",
-      "discussion_driver": "Hims & Hers fell ~12% after Q1 2026 revenue grew just 4% YoY to $608M — a dramatic deceleration from 111% growth a year earlier — as the company pivoted away from compounded GLP-1 products following an FDA partnership deal with Novo Nordisk. A surprise Q1 net loss of $92.1M and 51% drop in adjusted EBITDA unsettled investors, even as management raised full-year 2026 revenue guidance to $2.8–3.0B on the Ozempic and Wegovy distribution opportunity.",
-      "bull_case": [
-        "The exclusive partnership with Novo Nordisk makes HIMS an official distributor of Ozempic and Wegovy, positioning the company at the center of the massive branded GLP-1 market as the FDA enforces a shift away from compounded alternatives.",
-        "Despite Q1 headwinds, management raised full-year 2026 revenue guidance to $2.8–3.0B and free cash flow remained positive at $53M, suggesting robust underlying subscriber retention and long-term financial resilience."
-      ],
-      "bear_case": [
-        "Revenue growth decelerated sharply to 4% YoY in Q1 (vs. 111% a year ago) while adjusted EBITDA fell 51% and gross margins compressed 800 bps to 65% — reflecting a painful and potentially prolonged transition from compounded to branded GLP-1 products.",
-        "Regulatory dependency on FDA enforcement posture remains a key overhang; any policy reversal on compounded GLP-1 rules or delays in the Novo Nordisk distribution ramp could extend margin compression well into 2027."
+        "Severely overbought technicals: RSI at 84.7 signals extreme overbought conditions; memory semiconductor cycles are historically violent, and current momentum-driven pricing leaves little margin of safety for a pullback.",
+        "Stock has significantly outrun analyst consensus: With MU at $802 vs. a 30-analyst average price target of ~$608, the stock trades well above most Wall Street models — either targets lag the bull case or the stock is pricing in perfection beyond even the AI supercycle."
       ],
       "recommendation": "Hold",
-      "current_price": "$24.66",
-      "price_target": "$26.04 (+5.6%)",
-      "pe_ratio": "55.43",
-      "rsi": "61.6",
-      "vs_52wk_high": "-65.0% below high ($70.43)",
-      "analyst_rating": "Hold",
-      "sector": "Healthcare - Digital Health / Telehealth",
-      "sources": ["Bloomberg", "Motley Fool", "24/7 Wall St.", "Benzinga", "Investing.com", "Gurufocus"]
+      "current_price": "$802.50",
+      "price_target": "$1,000.00 (+24.6%, Deutsche Bank Street-high)",
+      "pe_ratio": "36.2",
+      "rsi": "84.7",
+      "vs_52wk_high": "at new 52-week high ($815.19)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Technology - Semiconductors (Memory/HBM)",
+      "sources": ["Deutsche Bank via Yahoo Finance", "Mizuho", "TD Cowen", "MarketBeat", "tikr.com", "247wallst.com", "Bloomberg"]
     },
     {
-      "ticker": "UAA",
-      "company": "Under Armour Inc",
-      "discussion_driver": "Under Armour tumbled after Q4 FY2026 results revealed an EPS miss and weak FY2027 guidance citing escalating tariff costs (~260 bps gross margin headwind), a $35M Middle East conflict impact, and continued North America revenue weakness. Gross margin compressed 470 bps to 42%, and management's FY2027 operating income guidance of $140–$160M was well below Street expectations, triggering a double-digit sell-off.",
+      "ticker": "AAPL",
+      "company": "Apple Inc.",
+      "discussion_driver": "Apple CEO Tim Cook joined President Trump's business delegation to Beijing for the Trump-Xi summit, raising investor hopes for improved China market access — Apple's most critical growth region, where iPhone upgrade intent hit an all-time high (up 9 points YoY) per March 2026 Morgan Stanley data. Daiwa raised its Apple price target to $325 from $310 reiterating Outperform, while the stock closed at a new all-time high of $298.87, touching $300.92 intraday for the first time ever.",
       "bull_case": [
-        "Under Armour expects gross margin to expand 220–270 bps in FY2027 as tariff headwinds ease and the company executes on its cost restructuring plan; a potential IEEPA tariff refund could contribute ~150 bps of margin improvement.",
-        "The post-earnings drop to ~$5 prices the stock near multi-year lows and a significant discount to peers; successful execution of the cost restructuring plan and any North America stabilization could drive a meaningful re-rating from current depressed levels."
+        "China market re-opening catalyst: Cook's presence at the Beijing summit signals active diplomacy to preserve Apple's manufacturing base and expand distribution in China; improved access to the world's largest iPhone market would materially accelerate revenue and earnings growth given record upgrade intent.",
+        "AI services monetization inflection: Apple Intelligence paired with the highest-ever China upgrade intent and an upcoming WWDC AI catalyst positions Apple for a sustained premium device upgrade cycle and high-margin services revenue acceleration, underpinning Wedbush's $400 target."
       ],
       "bear_case": [
-        "Q4 FY2026 gross margin fell 470 bps to 42%, with ~260 bps driven by U.S. tariffs, and FY2027 guidance includes a $35M Middle East conflict headwind plus $30M incremental marketing spend — keeping profitability under sustained pressure with no clear near-term relief.",
-        "North America revenue continues to contract and Under Armour has struggled to reclaim market share from Nike, Adidas, and On Running; the brand lacks a clear near-term catalyst to drive volume recovery in its core market."
+        "All-time high valuation with insider selling: At 36x P/E and a new ATH near $300, the stock commands a premium that leaves minimal downside cushion; CEO Cook, the CFO, COO, and SVP all sold shares in April-May near highs — a meaningful caution signal.",
+        "AI competitive gap vs. rivals: Apple Intelligence lags Google Gemini, Microsoft Copilot, and Meta AI in capabilities; WWDC 2026 must deliver credible AI upgrades to sustain momentum, and failure to impress could trigger rotation into more AI-forward names."
       ],
-      "recommendation": "Hold",
-      "current_price": "$5.05",
-      "price_target": "$6.65 (+31.7%)",
-      "pe_ratio": "N/A",
-      "rsi": "50.84",
-      "vs_52wk_high": "-38.0% below high ($8.15)",
-      "analyst_rating": "Hold",
-      "sector": "Consumer Discretionary - Apparel & Footwear",
-      "sources": ["PR Newswire", "Investing.com", "ChartMill", "MoneyCheck", "Benzinga", "MarketBeat", "GuruFocus"]
+      "recommendation": "Buy",
+      "current_price": "$298.87",
+      "price_target": "$325.00 (+8.7%)",
+      "pe_ratio": "36.2",
+      "rsi": "64.2",
+      "vs_52wk_high": "at new all-time high ($300.92)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - Consumer Electronics",
+      "sources": ["Daiwa", "Wedbush", "Morgan Stanley", "MacDailyNews", "Yahoo Finance", "CNBC", "247wallst.com"]
+    },
+    {
+      "ticker": "LOAR",
+      "company": "Loar Holdings Inc.",
+      "discussion_driver": "Loar Holdings reported record Q1 2026 results on May 7 — net sales up 36.1% YoY to $156.1M with record 40.5% adjusted EBITDA margins — and raised its full-year guidance, yet the stock tumbled ~10% as investors questioned whether the 76-83x trailing P/E (vs. 37x industry average) already priced in exceptional execution. All five covering analysts maintain Strong Buy ratings with an average target of $93.20, implying ~39% upside from current levels near $67.",
+      "bull_case": [
+        "Proprietary product moat with record margins: 90% of Loar's product portfolio is exclusive, creating durable pricing power reflected in record 40.5% adj. EBITDA margins in Q1 2026; management guides 10%+ organic sales growth and 15%+ adj. EBITDA growth annually, backed by an aging global aircraft fleet secular tailwind.",
+        "Post-earnings sell-off creates attractive entry: The ~10% decline on strong results and raised guidance appears valuation-driven profit-taking rather than fundamental deterioration; with unanimous Strong Buy ratings and a $93 consensus target, the risk/reward at $67 is compelling."
+      ],
+      "bear_case": [
+        "Extreme valuation premium: LOAR trades at 76-83x trailing P/E versus the aerospace & defense industry average of 37x and peers at ~50x — this stretched multiple means any execution miss, macro headwind, or rate shock could cause severe multiple compression.",
+        "Defense segment softness and EPS miss: Defense revenue declined 2% YoY in Q1 2026 and net income fell to $11.1M from $15.3M in Q1 2025, signaling not all business lines are firing; stock is down ~33% from its $99.67 52-week high, suggesting the market is already discounting execution risk."
+      ],
+      "recommendation": "Buy",
+      "current_price": "$67.14",
+      "price_target": "$93.20 (+38.8%)",
+      "pe_ratio": "82.8",
+      "rsi": "~50",
+      "vs_52wk_high": "-32.6% below high ($99.67)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Industrials - Aerospace & Defense",
+      "sources": ["Simply Wall St", "Investing.com", "Yahoo Finance", "FinanzWire", "MarketBeat", "Benzinga", "MacroHint"]
     }
   ]
 }
