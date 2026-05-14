@@ -2,460 +2,480 @@
 
 <div style="display:flex;gap:0.5rem;justify-content:center;margin:0.5rem 0 1.5rem;flex-wrap:wrap;"><a href="leaderboard.html" style="display:inline-flex;align-items:center;gap:0.4rem;background:#0f1729;color:white;padding:0.45rem 0.9rem;border-radius:6px;font-weight:500;font-size:0.82rem;text-decoration:none;letter-spacing:0.01em;">📊 Leaderboard</a><a href="tracker.html" style="display:inline-flex;align-items:center;gap:0.4rem;background:#0f1729;color:white;padding:0.45rem 0.9rem;border-radius:6px;font-weight:500;font-size:0.82rem;text-decoration:none;letter-spacing:0.01em;">📈 Tracker</a></div>
 
-**DATE:** 2026-05-12
+**DATE:** 2026-05-13
 **TOTAL STOCKS TRACKED:** 15
 **MARKET TONE:** Mixed
-**KEY THEMES:** Hot April CPI (3.8% YoY, above 3.7% estimate) dampens rate-cut hopes and pressures broad market, Oil surges above $100/barrel on Iran geopolitical tensions, boosting energy but weighing on consumer stocks, Active Q1 earnings season: strong beats in industrials and AI-adjacent tech contrast with misses in consumer/telehealth names
+**KEY THEMES:** Trump-Xi summit in Beijing with tech CEOs (Huang, Cook, Musk) driving semiconductor and AI optimism, Hot PPI inflation data (6% YoY) spooks rates-sensitive sectors while tech/AI stocks surge to record highs, AI infrastructure spending boom: Cisco, Nebius, and others beat on surging AI demand
 
-**S&P 500:** 5,870.00 (-0.37%) • **NASDAQ:** 26,088.20 (-0.71%)
-
----
-
-## AMBIQ MICRO INC (AMBQ)
-
-**Discussion Driver:** Ambiq Micro surged ~40% after a blowout Q1 2026 earnings beat — revenue jumped 59.3% YoY to $25.1M vs. a $21.9M estimate, driven by accelerating edge AI adoption across wearables, IoT, and industrial devices. The company beat EPS estimates handily and provided bullish guidance, pushing the stock to a new 52-week high and sparking broad analyst attention on the edge AI chip theme.
-
-**Bull Case:**
-- Revenue growth of 59.3% YoY in Q1 2026 substantially beat consensus and reflects broad-based demand for ultra-low-power semiconductor solutions as edge AI adoption expands from wearables into industrial IoT and consumer electronics.
-- Ambiq's sub-threshold power-optimized technology (SPOT) platform is well-positioned as a differentiated edge AI enabler, and management's active push to diversify beyond legacy wearable markets creates a multi-year addressable market expansion opportunity.
-
-**Bear Case:**
-- The stock is now trading above its pre-earnings average analyst price target of $44.40, suggesting the post-surge price may be overextended and vulnerable to a pullback once sentiment normalizes and analysts refresh models.
-- Ambiq remains unprofitable (P/E -22.87), and the RSI entered overbought territory following the 40% spike, raising near-term correction risk even if the long-term growth narrative remains intact.
-
-**Recommendation:** Hold
-
-**Metrics:**
-| Metric | Value |
-|--------|-------| 
-| Current Price | $56.70 |
-| Price Target | $44.40 (-21.7%) |
-| P/E Ratio | -22.87 |
-| RSI | N/A (overbought post-earnings surge) |
-| vs 52-Wk High | -10.4% below high ($63.30) |
-| Analyst Rating | Buy |
-| Sector | Technology - Semiconductors (Edge AI) |
-
-**Sources:** Bloomberg, Yahoo Finance, MarketBeat, ChartMill, Investing.com, Motley Fool, StockTitan, Ticker Report
+**S&P 500:** 7,444.25 (+0.58%) • **NASDAQ:** 26,402.34 (+1.20%)
 
 ---
 
-## VESTIS CORP (VSTS)
+## CISCO SYSTEMS (CSCO) ⭐
 
-**Discussion Driver:** Vestis surged 30%+ after fiscal Q2 2026 results beat expectations — revenue of $659.4M topped estimates, adjusted EBITDA of $74.5M surpassed forecasts, and the company raised its full-year EBITDA guidance midpoint to $310M, above the $299.6M Street consensus. Despite the sharp rally, sell-side consensus was bearish pre-earnings with price targets well below the current trading level, creating a gap the market must reconcile.
-
-**Bull Case:**
-- The Q2 2026 EBITDA beat and raised full-year guidance ($285-315M range, midpoint $310M above consensus) signal a credible operational turnaround gaining traction in the uniform services and workplace supplies business, with 5% sequential EBITDA improvements projected beginning Q2.
-- From deeply oversold levels, the 30% single-day move reflects potential re-rating as investors price in a faster-than-expected recovery; any continued positive operational momentum in subsequent quarters could attract value and turnaround-focused investors.
-
-**Bear Case:**
-- Analyst consensus remains bearish with an average price target of ~$7.28 — roughly 40% below today's price — suggesting the sell side views the post-earnings pop as overdone relative to the company's still-challenged fundamentals.
-- Vestis carries a negative P/E (-25.83), indicating the company is still unprofitable; prior to this quarter revenue had been on a declining trend, raising the question of whether a single beat represents a durable inflection or a temporary reprieve.
-
-**Recommendation:** Hold
-
-**Metrics:**
-| Metric | Value |
-|--------|-------| 
-| Current Price | $12.17 |
-| Price Target | $7.28 (-40.2%) |
-| P/E Ratio | -25.83 |
-| RSI | N/A |
-| vs 52-Wk High | At 52-wk high ($12.17) |
-| Analyst Rating | Moderate Sell |
-| Sector | Industrials - Uniform & Workplace Supplies |
-
-**Sources:** eToro, StockAnalysis, TipRanks, Yahoo Finance, Benzinga, Investing.com (UK), MarketBeat, FinancialContent
-
----
-
-## ZEBRA TECHNOLOGIES (ZBRA)
-
-**Discussion Driver:** Zebra Technologies jumped 16-20% after Q1 2026 earnings showed 14.3% revenue growth to $1.5B and EPS of $4.75 — beating the $4.33 consensus by nearly 10% — while management raised full-year revenue, margin, and free cash flow guidance. The results demonstrated durable enterprise mobility demand and validated the company's recovery from a prolonged cyclical downturn, with analysts pointing to attractive valuation at ~14x forward earnings.
+**Discussion Driver:** Cisco's Q3 FY2026 earnings—EPS $1.06 vs $1.04 expected, revenue $15.84B vs $15.56B estimated—drove a 17% after-hours surge, the sharpest post-earnings rally since 2002. AI hyperscaler orders hit $1.9B in Q3 alone (vs $600M a year prior), pushing the FY YTD total to $5.3B and already surpassing the full-year $5B target with one quarter remaining. FY26 AI order guidance was raised to $9B.
 
 **Bull Case:**
-- Q1 2026 delivered 14.3% revenue growth and 18% YoY EPS expansion, with management raising full-year guidance on all key metrics including approximately $900M in annual free cash flow, demonstrating that demand for enterprise mobility and warehouse automation is intact and accelerating.
-- ZBRA trades at ~14x forward earnings while guiding to double-digit revenue growth — a compelling combination that a consensus of 13+ buy-rated analysts believe offers significant upside, with a median price target of $330 implying 30%+ upside from current levels.
+- AI infrastructure orders from hyperscalers grew 3x year-over-year to $1.9B in Q3, with the full-year target already exceeded—demonstrating Cisco has become a central beneficiary of the data center build-out cycle with compounding order momentum.
+- Q4 FY2026 guidance of $16.7B–$16.9B in revenue and $1.16–$1.18 in adjusted EPS signals continued acceleration; CEO Chuck Robbins cited 'very strong, broad-based demand,' and Cisco's deep networking expertise gives it durable competitive positioning in AI interconnects.
 
 **Bear Case:**
-- The stock remains 28% below its 52-week high of $352.66, and while today's earnings-driven pop is encouraging, sustained recovery to prior highs faces a backdrop of elevated inflation (CPI 3.8%) and macro uncertainty that could dampen enterprise capital spending.
-- Higher-for-longer interest rates could slow capital spending by Zebra's core retail and logistics customers, potentially decelerating the demand recovery that today's beat is pricing in for the remainder of 2026.
+- Cisco is cutting approximately 4,000 jobs as part of ongoing restructuring, introducing near-term execution risk and one-time charges that could weigh on free cash flow even as the AI narrative drives enthusiasm.
+- The pre-earnings analyst consensus price target of $90 (median) now sits 11.6% below the after-hours price; while upward revisions are expected, the sharp post-earnings gap increases the risk of near-term profit-taking once initial euphoria fades.
 
 **Recommendation:** Buy
 
 **Metrics:**
 | Metric | Value |
 |--------|-------| 
-| Current Price | $252.90 |
-| Price Target | $345.33 (+36.5%) |
-| P/E Ratio | 27.67 |
-| RSI | N/A |
-| vs 52-Wk High | -28.3% below high ($352.66) |
+| Current Price | $101.87 |
+| Price Target | $90.00 (-11.6%; pre-earnings consensus, upward revision expected; high-end target $110) |
+| P/E Ratio | 25.07 |
+| RSI | 54.61 |
+| vs 52-Wk High | +1.9% above prior high ($99.93); new 52-week high set in after-hours |
 | Analyst Rating | Strong Buy |
-| Sector | Technology - Enterprise Mobility & Automatic Identification |
+| Sector | Technology - Networking |
 
-**Sources:** Yahoo Finance, MarketBeat, eToro, StockAnalysis, GuruFocus, Motley Fool, Seeking Alpha, Benzinga, Alphastreet
+**Sources:** CNBC, Benzinga, MarketBeat, investor.cisco.com, Bloomberg
 
 ---
 
-## PACS GROUP INC (PACS)
+## NEBIUS GROUP (NBIS)
 
-**Discussion Driver:** PACS Group surged 22% premarket after Q1 2026 delivered 184% net income growth (to $80.7M) and the company surprised the market with its first-ever $250M share buyback authorization — a strong signal of management confidence. The company also raised full-year 2026 adjusted EBITDA guidance to $605-625M (implying ~22% growth at midpoint), reinforcing the bull case for this leading post-acute care and skilled nursing facility operator.
-
-**Bull Case:**
-- Q1 2026 net income surged 184% YoY to $80.7M with revenue up 11% to $1.42B, and the company raised its full-year EBITDA outlook to $605-625M — an upward revision signaling durable operational execution in a sector with powerful aging demographic tailwinds.
-- The debut $250M share buyback authorization — with no set expiration and no obligation — signals management's conviction that shares are undervalued relative to earnings power and provides a consistent source of demand beneath the stock.
-
-**Bear Case:**
-- Post-acute care operators face meaningful regulatory risk from potential CMS reimbursement rate adjustments; any negative policy changes could quickly compress facility-level margins that drove this quarter's strong results.
-- With RSI at 68.20, the stock is approaching overbought levels, and at $33 it remains 23% below its 52-week high of $43.08, suggesting a persistent valuation overhang tied to concerns about regulatory and reimbursement risk.
-
-**Recommendation:** Buy
-
-**Metrics:**
-| Metric | Value |
-|--------|-------| 
-| Current Price | $33.09 |
-| Price Target | $45.50 (+37.5%) |
-| P/E Ratio | 27.53 |
-| RSI | 68.20 |
-| vs 52-Wk High | -23.2% below high ($43.08) |
-| Analyst Rating | Strong Buy |
-| Sector | Healthcare - Post-Acute Care (Skilled Nursing Facilities) |
-
-**Sources:** Investing.com, Dev|Journal (earezki.com), Motley Fool, Yahoo Finance, StockTitan, Alphastreet, IBTimes AU, GuruFocus, ChartMill
-
----
-
-## QUANTUM COMPUTING INC (QUBT)
-
-**Discussion Driver:** Quantum Computing Inc. surged 25%+ premarket after Q1 2026 results showed revenue exploding from $39K a year ago to $3.7M — a ~9,000% increase driven by the acquisitions of Lumina Semiconductor and NuCrypt — while the company launched its NeuraWave photonic reservoir computing platform as a deployment-ready PCIe card. The results shift QUBT's narrative from theoretical quantum research toward tangible photonic AI hardware commercialization.
+**Discussion Driver:** Nebius posted Q1 2026 revenue of $399M—a 684% year-over-year surge beating the $371M consensus—alongside $621M in net income. The company simultaneously announced a new 1.2 GW AI data center campus in Pennsylvania with over 3.5 GW of contracted power capacity secured (first 250–300 MW online by end of 2027). The stock surged ~17% in one of the most dramatic AI infrastructure earnings beats this season.
 
 **Bull Case:**
-- The Q1 2026 revenue surge to $3.7M (from $39K a year ago) and the deployment-ready NeuraWave PCIe platform signal a credible transition from pure R&D to shipping hardware, with the company holding approximately $1.4B in cash and minimal debt to fund its photonic AI roadmap without near-term dilution risk.
-- Northland Capital initiated coverage with an Outperform rating and $20 price target, citing the massive quantum-photonics addressable market; McKinsey projects the sector to cross $1B in revenues in 2025 and grow to $16B+ by 2035.
+- Q1 2026 revenue grew 684% YoY and 75% QoQ to $399M, beating estimates by ~7.4%; the Pennsylvania AI factory secures massive power capacity through 2030, providing the physical infrastructure runway to sustain this extraordinary growth trajectory.
+- As AI labs and enterprises seek alternatives to hyperscaler lock-in, Nebius's specialized GPU clusters and independent platform position it as a compelling partner—Bank of America raised its price target to $205 (from $175) citing exactly this competitive differentiation.
 
 **Bear Case:**
-- QUBT carries a deeply negative P/E (-72.77) and posted a $20.6M operating loss in Q1 with negative gross margins; most revenue growth is acquisition-driven rather than organic, making the near-term path to profitability highly uncertain.
-- The stock trades roughly 50% below its 52-week high of $25.84, reflecting how quickly sentiment can reverse on quantum hype; intrinsic value analyses suggest the stock may be significantly overvalued on fundamental metrics given current cash flows.
+- The stock is trading above most analyst price targets ($168.50 average; even BofA's revised $205 target is at or below current price), suggesting near-term growth expectations may already be fully reflected after the 17% surge.
+- Despite Q1 profitability, prior-quarter operating losses, high financial leverage, and deeply negative free cash flow mean Nebius remains dependent on capital markets to fund aggressive expansion—creating dilution and execution risk at scale.
 
 **Recommendation:** Speculative Buy
 
 **Metrics:**
 | Metric | Value |
 |--------|-------| 
-| Current Price | $13.02 |
-| Price Target | $17.50 (+34.4%) |
-| P/E Ratio | -72.77 |
-| RSI | 44.39 |
-| vs 52-Wk High | -49.6% below high ($25.84) |
-| Analyst Rating | Buy |
-| Sector | Technology - Quantum Computing / Integrated Photonics |
-
-**Sources:** Yahoo Finance, Motley Fool, StockTitan, GuruFocus, PRNewswire, Benzinga, Seeking Alpha, StocksToTrade, Invezz, AlphaSpread
-
----
-
-## RALLIANT CORP (RALY)
-
-**Discussion Driver:** Ralliant (NYSE: RAL) surged following Q1 2026 results featuring adj. EPS of $0.57 vs. the $0.49 FactSet estimate and revenue of $534.6M topping the $520.3M consensus. Management raised full-year guidance to $2.185–$2.245B in revenue and announced a $500M share repurchase authorization, pushing the stock above pre-existing analyst price targets on heavy volume.
-
-**Bull Case:**
-- Q1 2026 beat with adj. EPS of $0.57 vs. $0.49 estimate while revenue jumped 11% YoY; the board authorized $500M in buybacks including a $100M accelerated share repurchase, signaling strong management confidence in the business.
-- The defense backlog has surpassed $1 billion, providing multi-year revenue visibility, and a new Enterprise Productivity Program targets $50–60M in annualized run-rate savings by 2028, enhancing long-term margin expansion.
-
-**Bear Case:**
-- The post-earnings rally pushed the stock above the $51.33 analyst consensus target, suggesting much of the good news is already priced in; any macro-driven slowdown in capital-equipment spending could lead to a swift reversal.
-- Roughly $25M in tariff exposure remains for 2026 despite mitigation efforts through sourcing and pricing adjustments, and a broader industrial demand contraction would weigh on the Test & Measurement segment.
-
-**Recommendation:** Hold
-
-**Metrics:**
-| Metric | Value |
-|--------|-------| 
-| Current Price | $54.61 |
-| Price Target | $51.33 (-6.0%) |
-| P/E Ratio | 34.79 |
-| RSI | N/A |
-| vs 52-Wk High | -4.2% below high ($57.02) |
-| Analyst Rating | Buy |
-| Sector | Industrials - Precision Instruments / Test & Measurement |
-
-**Sources:** Morningstar, MarketBeat, ChartMill, RTT News, eToro, Barclays Research
-
----
-
-## HARMONIC INC (HLIT)
-
-**Discussion Driver:** Harmonic (NASDAQ: HLIT) rose ~13% premarket after Q1 2026 results smashed expectations — EPS of $0.17 vs. $0.12 estimate and revenue of $121.7M vs. $102.2M consensus — driven by a 43% broadband revenue surge and 78% rest-of-market growth. The company raised its full-year broadband revenue outlook to $475–$495M and reported 87% backlog growth to $582M, signaling sustained infrastructure upgrade demand.
-
-**Bull Case:**
-- Q1 broadband revenue surged 43% YoY to $121.7M, far exceeding the $100–$105M guidance range, while backlog and deferred revenue jumped 87% YoY to $582M — providing strong multi-quarter revenue visibility as cable operators accelerate network upgrades.
-- Operating profit surged 115% YoY to $26M and management raised its full-year broadband revenue guidance to $475–$495M, reflecting expanding operating leverage; Needham raised its price target to $18, representing ~41% upside from current levels.
-
-**Bear Case:**
-- Top two customers account for 58% of total revenue, creating significant concentration risk; any reduction in spending by these cable operators could materially impact Harmonic's results.
-- Supply chain constraints around memory and components could pressure margins in H2 2026, and the trailing P/E of ~42x leaves limited room for execution shortfalls given the elevated valuation.
-
-**Recommendation:** Buy
-
-**Metrics:**
-| Metric | Value |
-|--------|-------| 
-| Current Price | $12.80 |
-| Price Target | $14.67 (+14.6%) |
-| P/E Ratio | 42.39 |
-| RSI | N/A |
-| vs 52-Wk High | -2.1% below high ($13.07) |
-| Analyst Rating | Buy |
-| Sector | Technology - Broadband / Video Infrastructure |
-
-**Sources:** Investing.com, Yahoo Finance, Gurufocus, Needham Research, MarketBeat, TradingView
-
----
-
-## WENDY'S CO (WEN)
-
-**Discussion Driver:** Wendy's shares surged ~14% after the Financial Times reported that Nelson Peltz's Trian Fund Management — the company's largest shareholder with ~16% stake — is actively seeking investor backing, including from Middle Eastern investors, for a potential take-private bid. A Wedbush analyst said a deal in the $9–$12/share range is plausible given WEN's deep valuation discount versus fast-food peers, though no formal offer has yet been made.
-
-**Bull Case:**
-- Trian Fund Management (~16% stake) is actively seeking financing for a take-private bid reportedly in the $9–$12/share range, representing a 14–52% premium to pre-announcement trading levels and creating a meaningful takeover floor for the stock.
-- Wendy's trades at a forward P/E of ~11x versus McDonald's ~20x and Yum Brands ~21x — one of the deepest discounts in the QSR sector — making it an attractive value target for private equity independent of the Trian bid.
-
-**Bear Case:**
-- No formal offer has been made and financing talks are exploratory; if Trian fails to secure capital or the bid collapses, the stock will likely retrace most of today's gains back toward pre-announcement levels near $6–7.
-- Underlying business fundamentals remain challenged — Q1 2026 net income declined to $22.7M while slowing customer traffic, rising beef costs, and cautious consumer spending continue to pressure same-store sales and margins.
-
-**Recommendation:** Speculative Buy
-
-**Metrics:**
-| Metric | Value |
-|--------|-------| 
-| Current Price | $7.91 |
-| Price Target | $10.50 (+32.7%) |
-| P/E Ratio | N/A |
-| RSI | N/A |
-| vs 52-Wk High | -36.1% below high ($12.38) |
-| Analyst Rating | Hold |
-| Sector | Consumer Cyclical - Quick Service Restaurants |
-
-**Sources:** Financial Times, Reuters / Investing.com, Seeking Alpha, Benzinga, Invezz, Wedbush Securities
-
----
-
-## HIMS & HERS HEALTH (HIMS) ⭐
-
-**Discussion Driver:** Hims & Hers fell ~12% after Q1 2026 revenue grew just 4% YoY to $608M — a dramatic deceleration from 111% growth a year earlier — as the company pivoted away from compounded GLP-1 products following an FDA partnership deal with Novo Nordisk. A surprise Q1 net loss of $92.1M and 51% drop in adjusted EBITDA unsettled investors, even as management raised full-year 2026 revenue guidance to $2.8–3.0B on the Ozempic and Wegovy distribution opportunity.
-
-**Bull Case:**
-- The exclusive partnership with Novo Nordisk makes HIMS an official distributor of Ozempic and Wegovy, positioning the company at the center of the massive branded GLP-1 market as the FDA enforces a shift away from compounded alternatives.
-- Despite Q1 headwinds, management raised full-year 2026 revenue guidance to $2.8–3.0B and free cash flow remained positive at $53M, suggesting robust underlying subscriber retention and long-term financial resilience.
-
-**Bear Case:**
-- Revenue growth decelerated sharply to 4% YoY in Q1 (vs. 111% a year ago) while adjusted EBITDA fell 51% and gross margins compressed 800 bps to 65% — reflecting a painful and potentially prolonged transition from compounded to branded GLP-1 products.
-- Regulatory dependency on FDA enforcement posture remains a key overhang; any policy reversal on compounded GLP-1 rules or delays in the Novo Nordisk distribution ramp could extend margin compression well into 2027.
-
-**Recommendation:** Hold
-
-**Metrics:**
-| Metric | Value |
-|--------|-------| 
-| Current Price | $24.66 |
-| Price Target | $26.04 (+5.6%) |
-| P/E Ratio | 55.43 |
-| RSI | 61.6 |
-| vs 52-Wk High | -65.0% below high ($70.43) |
-| Analyst Rating | Hold |
-| Sector | Healthcare - Digital Health / Telehealth |
-
-**Sources:** Bloomberg, Motley Fool, 24/7 Wall St., Benzinga, Investing.com, Gurufocus
-
----
-
-## UNDER ARMOUR INC (UAA)
-
-**Discussion Driver:** Under Armour tumbled after Q4 FY2026 results revealed an EPS miss and weak FY2027 guidance citing escalating tariff costs (~260 bps gross margin headwind), a $35M Middle East conflict impact, and continued North America revenue weakness. Gross margin compressed 470 bps to 42%, and management's FY2027 operating income guidance of $140–$160M was well below Street expectations, triggering a double-digit sell-off.
-
-**Bull Case:**
-- Under Armour expects gross margin to expand 220–270 bps in FY2027 as tariff headwinds ease and the company executes on its cost restructuring plan; a potential IEEPA tariff refund could contribute ~150 bps of margin improvement.
-- The post-earnings drop to ~$5 prices the stock near multi-year lows and a significant discount to peers; successful execution of the cost restructuring plan and any North America stabilization could drive a meaningful re-rating from current depressed levels.
-
-**Bear Case:**
-- Q4 FY2026 gross margin fell 470 bps to 42%, with ~260 bps driven by U.S. tariffs, and FY2027 guidance includes a $35M Middle East conflict headwind plus $30M incremental marketing spend — keeping profitability under sustained pressure with no clear near-term relief.
-- North America revenue continues to contract and Under Armour has struggled to reclaim market share from Nike, Adidas, and On Running; the brand lacks a clear near-term catalyst to drive volume recovery in its core market.
-
-**Recommendation:** Hold
-
-**Metrics:**
-| Metric | Value |
-|--------|-------| 
-| Current Price | $5.05 |
-| Price Target | $6.65 (+31.7%) |
-| P/E Ratio | N/A |
-| RSI | 50.84 |
-| vs 52-Wk High | -38.0% below high ($8.15) |
-| Analyst Rating | Hold |
-| Sector | Consumer Discretionary - Apparel & Footwear |
-
-**Sources:** PR Newswire, Investing.com, ChartMill, MoneyCheck, Benzinga, MarketBeat, GuruFocus
-
----
-
-## ON HOLDING AG (ONON)
-
-**Discussion Driver:** On Holding fell ~3-5% premarket despite beating Q1 2026 estimates, posting record net sales of CHF 831.9M (+26.4% constant currency) and raising its full-year profit outlook. The 'sell the news' reaction reflects a high bar set by the market and concern that Americas reported growth was only 3.1% in USD terms due to significant FX headwinds, raising questions about the top-line narrative even amid record gross margins of 64.2%.
-
-**Bull Case:**
-- Record gross margin of 64.2% (up 430bps YoY) and raised adjusted EBITDA margin to 21% demonstrate strong premium pricing power; management reaffirmed at least 23% constant-currency net sales growth for the full year.
-- Brand momentum spans all geographies with direct-to-consumer and running categories driving outsized growth; the platform has now exceeded CHF 800M in a single quarter for the first time, validating its path toward becoming a global footwear heavyweight.
-
-**Bear Case:**
-- Americas reported USD growth was only 3.1% due to heavy FX headwinds, which could persist as the dollar remains elevated — this creates a structural gap between constant-currency optimism and reported financials that frustrates investors.
-- Stock is down ~27% YTD and still trades at a trailing P/E of ~44.9x; if growth is perceived to be decelerating from triple-digit comps of prior years, multiple compression could extend the drawdown even as fundamentals improve.
-
-**Recommendation:** Hold
-
-**Metrics:**
-| Metric | Value |
-|--------|-------| 
-| Current Price | $33.10 |
-| Price Target | $60.15 (+81.7%) |
-| P/E Ratio | 44.89 |
-| RSI | 45.08 |
-| vs 52-Wk High | -46.0% below high ($61.29) |
+| Current Price | $206.05 |
+| Price Target | $168.50 (-18.2%; avg of 12 analysts; BofA raised to $205) |
+| P/E Ratio | 351.40 |
+| RSI | 61.33 |
+| vs 52-Wk High | -3.9% below high ($214.44) |
 | Analyst Rating | Strong Buy |
-| Sector | Consumer Discretionary - Athletic Footwear/Apparel |
+| Sector | Technology - AI Cloud Infrastructure |
 
-**Sources:** CNBC, Benzinga, TipRanks, StockAnalysis, Yahoo Finance
+**Sources:** Motley Fool, TipRanks, Yahoo Finance, StockTitan, Blockspace Media, BofA Securities
 
 ---
 
-## AST SPACEMOBILE (ASTS) ⭐
+## WOLFSPEED (WOLF)
 
-**Discussion Driver:** AST SpaceMobile dropped sharply after Q1 2026 results badly missed expectations: revenue came in at $14.7M vs. $37.5M consensus and net loss widened to $191M vs. $86.8M expected. The miss was compounded by analyst warnings that satellite deployment timelines may slip, with one consultant estimating only ~28 satellites launched by year-end vs. the company's 45-satellite target, potentially pushing commercial service to late 2027.
+**Discussion Driver:** Thematic research firm Citrini issued a bullish note calling Wolfspeed significantly undervalued relative to its strategic silicon carbide manufacturing footprint, sending the stock up ~23% to a new all-time high. Wolfspeed—which emerged from bankruptcy roughly a year ago—has now surged over 180% in 2026, spotlighting silicon carbide semiconductors as a critical enabler for EV drivetrains and power-efficient systems. The Citrini thesis diverges sharply from the institutional analyst consensus, which remains Sell.
 
 **Bull Case:**
-- The company holds ~$3.5B in cash after a February convertible notes offering, providing runway well past 100 BlueBird satellites, and has already locked in $1.2B in contracted revenue commitments from commercial partners with a 2027 revenue opportunity approaching $1B.
-- AST achieved a peak download speed of 98.9 Mbps directly to an unmodified off-the-shelf smartphone, proving commercial viability; FCC also granted Supplemental Coverage from Space authorization for up to 248 satellites, clearing a key regulatory hurdle.
+- Wolfspeed holds one of the world's largest silicon carbide manufacturing footprints; as EV adoption accelerates and power-efficient chips gain strategic importance, the company's physical assets may be undervalued relative to replacement cost—the core of Citrini's upgrade thesis.
+- Post-bankruptcy restructuring has cleaned up the balance sheet, and Q3 losses narrowed 58% year-over-year, suggesting the company is moving toward a financial inflection point even as revenue remains under near-term pressure.
 
 **Bear Case:**
-- Q1 revenue of $14.7M was less than half of the $37.5M estimate, and analysts project $1.6B cash burn in 2026 alone; if deployment timelines slip further, the capital runway story becomes less compelling.
-- SpaceX Starlink has launched commercial direct-to-cell service with T-Mobile and Amazon acquired Globalstar for over $10B, intensifying the competitive landscape before AST reaches meaningful scale.
+- Wall Street maintains a Sell consensus with an average price target of ~$20 (vs. ~$53 current), underpinned by persistent losses (FY2026 EPS forecast: -$7.34), an 18.9% revenue decline YoY, and lingering uncertainty about when silicon carbide demand will materially recover.
+- The enormous gap between Citrini's strategic-value thesis and institutional analyst targets creates binary risk—if EV demand stays sluggish or a better-capitalized competitor captures market share, the stock could rapidly give back a large portion of its 2026 gains.
 
 **Recommendation:** Speculative Buy
 
 **Metrics:**
 | Metric | Value |
 |--------|-------| 
-| Current Price | $73.54 |
-| Price Target | $90.00 (+22.4%) |
+| Current Price | ~$53.72 |
+| Price Target | ~$20.00 (-62.8%; Sell consensus; Citrini upgrade not yet reflected in Wall St. targets) |
 | P/E Ratio | N/A |
 | RSI | N/A |
-| vs 52-Wk High | -43.4% below high ($129.89) |
-| Analyst Rating | Hold |
-| Sector | Telecommunications - Satellite Services |
+| vs 52-Wk High | At new all-time high ($53.72, set today on +23% surge) |
+| Analyst Rating | Sell (Wall Street consensus; Citrini research upgrade as today's catalyst) |
+| Sector | Technology - Semiconductors (Silicon Carbide) |
 
-**Sources:** CNBC, Motley Fool, Investing.com, MarketBeat, TradingKey, Foreign Policy Journal
+**Sources:** Rolling Out, TheStreet, MarketBeat, WallStreetZen, Yahoo Finance, Investing.com
 
 ---
 
-## LOWE'S COMPANIES (LOW)
+## DOXIMITY (DOCS)
 
-**Discussion Driver:** Citi upgraded Lowe's to Buy from Neutral today, maintaining a $285 price target and citing the stock's lag in 2026 as an attractive entry point into what the firm calls a 'cyclical share gainer.' Citi highlighted that LOW has posted 4 consecutive quarters of positive same-store sales and has outperformed Home Depot on US comparable sales for 3 straight quarters — a trend analysts expect to continue as the home improvement cycle recovers ahead of May 20 Q1 earnings.
+**Discussion Driver:** Doximity's Q4 FY2026 earnings missed on EPS ($0.26 vs $0.28 expected) and FY27 revenue guidance of $664–676M badly undershot the $697M–725M consensus—implying growth decelerating from 9.8% to potentially mid-single digits. The stock plunged ~19.6% in after-hours to ~$18.81, breaking below its 52-week low of $20.55 and entering price discovery territory. Despite 800,000+ active prescribers using AI workflow tools, the market sharply re-rated the growth story.
 
 **Bull Case:**
-- Lowe's greater DIY exposure and smaller project mix make it more resilient in a weak housing-turnover environment; 4 consecutive positive comp quarters show a real recovery, and the home improvement TAM is projected to reach $1.4 trillion by 2035 at a 4.1% CAGR.
-- Shares trade at approximately 16.5x forward earnings, a discount to large retail peers, while management targets long-term EPS growth above 10%; the current pullback of ~21% from 52-week highs offers a compelling risk/reward entry point.
+- Doximity maintains a dominant position in physician networking and digital healthcare marketing with 800,000+ active prescribers—a durable platform moat that the current post-earnings sell-off may be overstating as a permanent structural concern.
+- At an RSI of 25.81 (deeply oversold) and an analyst average price target of $45.86 vs. the after-hours price of ~$18.81, mean-reversion potential is substantial if Doximity can stabilize revenue or beat next quarter's reset expectations.
 
 **Bear Case:**
-- Housing market headwinds persist with mortgage rates tied to an elevated 10-year Treasury yield; big-ticket discretionary transactions above $500 fell 4% in the most recent quarter and comparable sales declined ~2%, suggesting the recovery is fragile.
-- Bank of America removed LOW from its Buy list just one week before Citi's upgrade, reflecting genuine disagreement among top-tier analysts on the pace and durability of the home improvement cycle's recovery.
+- The FY27 guidance miss of roughly $20–50M vs. consensus signals that pharmaceutical marketing budgets are tightening in ways that may persist, undermining the core revenue driver and raising doubts about whether the platform can sustain even mid-single-digit growth.
+- The stock has broken below its 52-week low of $20.55 and entered price discovery territory with no clear technical support; further analyst downgrades and price target cuts are likely as sell-side models are reset to the lower growth baseline.
+
+**Recommendation:** Hold
+
+**Metrics:**
+| Metric | Value |
+|--------|-------| 
+| Current Price | $18.81 |
+| Price Target | $45.86 (+143.8%) |
+| P/E Ratio | 23.31 |
+| RSI | 25.81 (deeply oversold) |
+| vs 52-Wk High | -75.4% below high ($76.51) |
+| Analyst Rating | Buy |
+| Sector | Healthcare Technology |
+
+**Sources:** Benzinga, Motley Fool, StockTitan, TheStreet, StockAnalysis, CNBC
+
+---
+
+## ALIBABA GROUP (BABA)
+
+**Discussion Driver:** Alibaba's Q4 FY2026 earnings showed core adjusted EBITDA plunging 84% YoY as heavy AI and cloud capital expenditures weighed on profitability, sending the stock down ~9% on the day. Despite the miss, analysts maintain a Strong Buy consensus with a $185.15 average price target (27.6% upside). The Trump-Xi Beijing summit—attended by tech CEOs including Jensen Huang—provides a near-term geopolitical catalyst for Chinese ADRs if trade tensions continue to ease.
+
+**Bull Case:**
+- Alibaba's aggressive AI and cloud investment is building a competitive moat in China's fast-growing cloud market; if this spending cycle mirrors AWS's mid-2010s trajectory, the company could rapidly re-accelerate profitability once utilization scales.
+- At 25x trailing P/E, roughly 24.7% below its 52-week high, and with a Strong Buy consensus projecting $185 target (28% upside), BABA offers a compelling value entry point if US-China trade relations continue to improve following the Trump-Xi summit.
+
+**Bear Case:**
+- The 84% plunge in core adjusted EBITDA in Q4 FY26 signals AI and cloud investment spending is heavier than the market expected, creating meaningful near-term earnings pressure with a return timeline that remains uncertain and difficult to model.
+- US-China geopolitical risk remains a structural overhang on all Chinese ADRs—any reversal of summit-driven optimism, new tariff escalation, or regulatory action could compress multiples regardless of Alibaba's fundamental progress.
 
 **Recommendation:** Buy
 
 **Metrics:**
 | Metric | Value |
 |--------|-------| 
-| Current Price | $231.03 |
-| Price Target | $293.29 (+26.9%) |
-| P/E Ratio | 19.66 |
+| Current Price | $145.11 |
+| Price Target | $185.15 (+27.6%) |
+| P/E Ratio | 25.35 |
+| RSI | 58.01 |
+| vs 52-Wk High | -24.7% below high ($192.67) |
+| Analyst Rating | Strong Buy |
+| Sector | Consumer Technology - E-Commerce & Cloud |
+
+**Sources:** Bloomberg, Seeking Alpha, CNBC, MarketBeat, TipRanks, Yahoo Finance
+
+---
+
+## NVIDIA CORPORATION (NVDA) ⭐
+
+**Discussion Driver:** CEO Jensen Huang joined President Trump's last-minute business delegation to Beijing for a summit with Xi Jinping — alongside Tim Cook and Elon Musk — fueling semiconductor sector optimism over potential easing of U.S.-China chip export restrictions. Oppenheimer reiterated Outperform ahead of Nvidia's Q1 FY27 earnings report on May 20, while the broader AI infrastructure spending boom (Cisco's $9B AI order forecast, Nebius 8x revenue growth) reinforces sustained GPU demand. NVDA rose ~2.7% on the session, pushing to a new all-time high near $227.
+
+**Bull Case:**
+- China re-engagement catalyst: Jensen Huang's participation in the Trump-Xi summit signals potential easing of GPU export restrictions, which could unlock a multi-billion-dollar revenue opportunity in the world's second-largest economy.
+- Unstoppable AI infrastructure demand: Hyperscalers and cloud providers continue accelerating AI capex with no signs of slowdown; Q1 FY27 earnings on May 20 are expected to show record revenues, with analyst consensus price target of $272 implying 20%+ upside.
+
+**Bear Case:**
+- Earnings-event risk at all-time highs: NVDA trades near its ATH at 37x earnings heading into May 20 — any guide-down or margin miss after massive expectations could trigger a sharp correction.
+- China policy uncertainty: Diplomatic progress does not guarantee regulatory action; export licenses can be reversed, and any deterioration in U.S.-China relations would disproportionately hurt Nvidia given its reliance on high-end GPU sales.
+
+**Recommendation:** Buy
+
+**Metrics:**
+| Metric | Value |
+|--------|-------| 
+| Current Price | $225.57 |
+| Price Target | $272.08 (+20.6%) |
+| P/E Ratio | 37.0 |
+| RSI | 69.3 |
+| vs 52-Wk High | at new 52-week high ($227.84) |
+| Analyst Rating | Strong Buy |
+| Sector | Technology - Semiconductors |
+
+**Sources:** GuruFocus, Oppenheimer, MarketBeat, stockanalysis.com, Bloomberg, CNBC
+
+---
+
+## AKAMAI TECHNOLOGIES (AKAM) ⭐
+
+**Discussion Driver:** Bank of America upgraded Akamai from Neutral to Buy on May 13 and raised its price target to $175 from $130, declaring 'the story has shifted from a legacy delivery network to a credible AI infrastructure platform.' The upgrade followed Akamai's landmark $1.8 billion, 7-year cloud infrastructure deal with Anthropic and Cloud Infrastructure Services growing 40% year-over-year, with BofA projecting revenue growth accelerating to 11% by 2027. Shares jumped ~7% on the session to $149.56.
+
+**Bull Case:**
+- AI infrastructure platform transformation: Akamai's $1.8B Anthropic deal and 40% YoY Cloud Infrastructure Services growth validate the company's pivot away from legacy CDN toward high-margin edge AI computing, with BofA projecting revenue acceleration to 11% by 2027 and EPS reaching $9.03 by 2028.
+- Significant analyst re-rating underway: BofA's upgrade to $175 and Piper Sandler's concurrent raise to $156 suggest consensus targets — still anchored around $107-$136 — are systematically too low and due for broad upward revision, creating near-term price momentum.
+
+**Bear Case:**
+- Legacy CDN structural decline: Core content delivery revenue continues to shrink under pressure from hyperscaler-native CDN solutions; the AI infrastructure pivot must fully offset CDN erosion before the transition risk truly clears.
+- Valuation stretched after 73% YTD rally: Trading at 48.5x P/E near its 52-week high, the stock has priced in significant execution on the AI transformation narrative — any contract delays or margin disappointment could deflate the premium quickly.
+
+**Recommendation:** Buy
+
+**Metrics:**
+| Metric | Value |
+|--------|-------| 
+| Current Price | $149.56 |
+| Price Target | $175.00 (+17.0%) |
+| P/E Ratio | 48.5 |
+| RSI | 63.1 |
+| vs 52-Wk High | -4.3% below high ($156.32) |
+| Analyst Rating | Buy |
+| Sector | Technology - Cloud Infrastructure & Security |
+
+**Sources:** Bank of America via Yahoo Finance, GuruFocus, Proactive Investors, Piper Sandler, Benzinga, ad-hoc-news.de
+
+---
+
+## MICRON TECHNOLOGY (MU) ⭐
+
+**Discussion Driver:** Micron surged ~4% as the semiconductor sector broadly rallied on Trump-Xi Beijing summit trade optimism, with investors anticipating a partial re-opening of China chip sales that would represent a material revenue catalyst. Deutsche Bank raised its price target to a Street-high of $1,000 citing HBM supercycle dynamics, while the stock hit a new all-time intraday high of $815.19 on May 13 — extending a remarkable 70%+ year-to-date gain driven by AI memory demand.
+
+**Bull Case:**
+- HBM memory supercycle in full swing: Micron is a primary supplier of High-Bandwidth Memory (HBM3E) chips to Nvidia and major cloud AI clusters; surging AI server buildout is driving unprecedented pricing power and utilization rates, with the stock up 70%+ YTD reflecting this fundamental inflection.
+- China re-engagement upside: Potential easing of U.S. export restrictions on memory chips to China — the world's largest memory consumer — could unlock billions in incremental annual revenue, an unpriced catalyst that compounds the existing AI demand tailwind.
+
+**Bear Case:**
+- Severely overbought technicals: RSI at 84.7 signals extreme overbought conditions; memory semiconductor cycles are historically violent, and current momentum-driven pricing leaves little margin of safety for a pullback.
+- Stock has significantly outrun analyst consensus: With MU at $802 vs. a 30-analyst average price target of ~$608, the stock trades well above most Wall Street models — either targets lag the bull case or the stock is pricing in perfection beyond even the AI supercycle.
+
+**Recommendation:** Hold
+
+**Metrics:**
+| Metric | Value |
+|--------|-------| 
+| Current Price | $802.50 |
+| Price Target | $1,000.00 (+24.6%, Deutsche Bank Street-high) |
+| P/E Ratio | 36.2 |
+| RSI | 84.7 |
+| vs 52-Wk High | at new 52-week high ($815.19) |
+| Analyst Rating | Strong Buy |
+| Sector | Technology - Semiconductors (Memory/HBM) |
+
+**Sources:** Deutsche Bank via Yahoo Finance, Mizuho, TD Cowen, MarketBeat, tikr.com, 247wallst.com, Bloomberg
+
+---
+
+## APPLE INC. (AAPL) ⭐
+
+**Discussion Driver:** Apple CEO Tim Cook joined President Trump's business delegation to Beijing for the Trump-Xi summit, raising investor hopes for improved China market access — Apple's most critical growth region, where iPhone upgrade intent hit an all-time high (up 9 points YoY) per March 2026 Morgan Stanley data. Daiwa raised its Apple price target to $325 from $310 reiterating Outperform, while the stock closed at a new all-time high of $298.87, touching $300.92 intraday for the first time ever.
+
+**Bull Case:**
+- China market re-opening catalyst: Cook's presence at the Beijing summit signals active diplomacy to preserve Apple's manufacturing base and expand distribution in China; improved access to the world's largest iPhone market would materially accelerate revenue and earnings growth given record upgrade intent.
+- AI services monetization inflection: Apple Intelligence paired with the highest-ever China upgrade intent and an upcoming WWDC AI catalyst positions Apple for a sustained premium device upgrade cycle and high-margin services revenue acceleration, underpinning Wedbush's $400 target.
+
+**Bear Case:**
+- All-time high valuation with insider selling: At 36x P/E and a new ATH near $300, the stock commands a premium that leaves minimal downside cushion; CEO Cook, the CFO, COO, and SVP all sold shares in April-May near highs — a meaningful caution signal.
+- AI competitive gap vs. rivals: Apple Intelligence lags Google Gemini, Microsoft Copilot, and Meta AI in capabilities; WWDC 2026 must deliver credible AI upgrades to sustain momentum, and failure to impress could trigger rotation into more AI-forward names.
+
+**Recommendation:** Buy
+
+**Metrics:**
+| Metric | Value |
+|--------|-------| 
+| Current Price | $298.87 |
+| Price Target | $325.00 (+8.7%) |
+| P/E Ratio | 36.2 |
+| RSI | 64.2 |
+| vs 52-Wk High | at new all-time high ($300.92) |
+| Analyst Rating | Buy |
+| Sector | Technology - Consumer Electronics |
+
+**Sources:** Daiwa, Wedbush, Morgan Stanley, MacDailyNews, Yahoo Finance, CNBC, 247wallst.com
+
+---
+
+## LOAR HOLDINGS INC. (LOAR)
+
+**Discussion Driver:** Loar Holdings reported record Q1 2026 results on May 7 — net sales up 36.1% YoY to $156.1M with record 40.5% adjusted EBITDA margins — and raised its full-year guidance, yet the stock tumbled ~10% as investors questioned whether the 76-83x trailing P/E (vs. 37x industry average) already priced in exceptional execution. All five covering analysts maintain Strong Buy ratings with an average target of $93.20, implying ~39% upside from current levels near $67.
+
+**Bull Case:**
+- Proprietary product moat with record margins: 90% of Loar's product portfolio is exclusive, creating durable pricing power reflected in record 40.5% adj. EBITDA margins in Q1 2026; management guides 10%+ organic sales growth and 15%+ adj. EBITDA growth annually, backed by an aging global aircraft fleet secular tailwind.
+- Post-earnings sell-off creates attractive entry: The ~10% decline on strong results and raised guidance appears valuation-driven profit-taking rather than fundamental deterioration; with unanimous Strong Buy ratings and a $93 consensus target, the risk/reward at $67 is compelling.
+
+**Bear Case:**
+- Extreme valuation premium: LOAR trades at 76-83x trailing P/E versus the aerospace & defense industry average of 37x and peers at ~50x — this stretched multiple means any execution miss, macro headwind, or rate shock could cause severe multiple compression.
+- Defense segment softness and EPS miss: Defense revenue declined 2% YoY in Q1 2026 and net income fell to $11.1M from $15.3M in Q1 2025, signaling not all business lines are firing; stock is down ~33% from its $99.67 52-week high, suggesting the market is already discounting execution risk.
+
+**Recommendation:** Buy
+
+**Metrics:**
+| Metric | Value |
+|--------|-------| 
+| Current Price | $67.14 |
+| Price Target | $93.20 (+38.8%) |
+| P/E Ratio | 82.8 |
+| RSI | ~50 |
+| vs 52-Wk High | -32.6% below high ($99.67) |
+| Analyst Rating | Strong Buy |
+| Sector | Industrials - Aerospace & Defense |
+
+**Sources:** Simply Wall St, Investing.com, Yahoo Finance, FinanzWire, MarketBeat, Benzinga, MacroHint
+
+---
+
+## BIRKENSTOCK HOLDING PLC (BIRK)
+
+**Discussion Driver:** Birkenstock reported fiscal Q2 2026 results that missed on both EPS (€0.50 vs. €0.60 consensus, a 16.7% miss) and revenue, with operating profit declining 11% YoY as U.S. tariffs, unfavorable FX, and Middle East conflict suppressed margins and curtailed EMEA deliveries; the stock dropped ~12% intraday before partially recovering, though management confirmed full-year guidance of 13-15% constant-currency revenue growth.
+
+**Bull Case:**
+- Despite the Q2 miss, management reaffirmed FY26 guidance of 13-15% revenue growth in constant currency and an adjusted gross margin of 57-57.5%, signaling that brand pricing power and international expansion remain on track once tariff and geopolitical headwinds stabilize.
+- At roughly 15x trailing P/E versus a peer average of 26x, Birkenstock is trading at a significant valuation discount to premium footwear comparables, offering a potential re-rating catalyst as margin pressures ease in H2 2026.
+
+**Bear Case:**
+- U.S. tariffs drove gross margin compression from 57.7% to 53.9% in Q2, and with tariff policy remaining fluid, margin recovery timelines are uncertain; any additional tariff escalation could pressure FY26 guidance.
+- The ongoing Middle East conflict created a $6M direct revenue headwind in Q2 and dampened European consumer sentiment; a prolonged or broadening conflict would further weigh on the company's high-margin EMEA segment.
+
+**Recommendation:** Hold
+
+**Metrics:**
+| Metric | Value |
+|--------|-------| 
+| Current Price | $34.97 |
+| Price Target | $57.67 (+64.9%) |
+| P/E Ratio | 15.7 |
 | RSI | N/A |
-| vs 52-Wk High | -21.2% below high ($293.06) |
-| Analyst Rating | Buy |
-| Sector | Consumer Discretionary - Home Improvement Retail |
+| vs 52-Wk High | -41.2% below high ($59.50) |
+| Analyst Rating | Strong Buy |
+| Sector | Consumer Discretionary - Footwear |
 
-**Sources:** CNBC, Bloomberg, Seeking Alpha, Insider Monkey, GuruFocus, MarketBeat
+**Sources:** Investing.com, Alphastreet, Yahoo Finance, Seeking Alpha, WWD, StockTitan
 
 ---
 
-## CELANESE CORP (CE)
+## ADVANCED MICRO DEVICES (AMD) ⭐
 
-**Discussion Driver:** JPMorgan upgraded Celanese to Overweight from Neutral today, maintaining a $68 price target and citing an expected sharp rise in 2026 earnings driven by price inflation in acetic acid and acetic acid derivatives. The upgrade follows a period of severe underperformance — CE trades with an RSI near 15, indicating extreme oversold conditions — and comes as the company attempts to demonstrate it can manage its substantial post-acquisition debt load while benefiting from a chemicals cycle upturn.
+**Discussion Driver:** Wall Street split sharply on AMD on May 13: Daiwa Capital downgraded from Buy to Outperform citing valuation after the stock rallied ~150% in 60 days, while simultaneously doubling its price target to $500; Bank of America held firm with a Buy and also raised its target to $500, crystallizing a market-wide debate on whether AMD's AI fundamentals can support its extraordinary 2026 valuation run.
 
 **Bull Case:**
-- Acetic acid derivative pricing is recovering and JPMorgan forecasts earnings to rise sharply in 2026; operational efficiency gains and M&M acquisition synergies are expected to generate $1B in debt repayment capacity this year, directly addressing the market's primary concern.
-- Shares are deeply oversold (RSI ~15) and trade at a significant discount to historical P/E multiples of 10-12x; a return to normalized EPS of $5-7/share against even a modest valuation re-rating would imply substantial upside from current depressed levels.
+- AMD's MI300X AI accelerator business continues to scale rapidly, with Q1 2026 results beating expectations and a robust Q2 outlook; optimism from the Trump-Xi trade summit could also restore chip exports to China, a historically large revenue opportunity for the company.
+- Bank of America's $500 price target reflects conviction that AMD's upcoming AI GPU roadmap (MI400 series) can meaningfully displace Nvidia in AI inference workloads, backed by growing enterprise adoption and competitive pricing relative to Nvidia hardware.
 
 **Bear Case:**
-- Celanese carries a heavy debt burden from its $11B acquisition of DuPont's Mobility and Materials segment; with negative trailing earnings (P/E N/A), even modest demand disruption could challenge debt service capacity and put the dividend at risk.
-- End-market demand in autos and housing remains weak globally; management has flagged inflationary disruption risk in its second-half scenarios, and any macro deterioration from elevated oil prices or geopolitical tensions could delay the anticipated earnings recovery.
+- AMD has surged ~109% YTD and trades at a trailing P/E of ~149x; any earnings miss or slowdown in AI infrastructure spending could trigger a sharp derating — Daiwa specifically cited the 150% 60-day rally as a valuation concern warranting the downgrade.
+- Nvidia retains dominant GPU market share backed by its CUDA software ecosystem, which AMD's ROCm alternative has failed to match at scale; AMD's hardware advantages may not translate to revenue share gains in the highest-value AI training workloads.
 
 **Recommendation:** Hold
 
 **Metrics:**
 | Metric | Value |
 |--------|-------| 
-| Current Price | $58.40 |
-| Price Target | $68.00 (+16.4%) |
-| P/E Ratio | N/A |
-| RSI | 15.36 |
-| vs 52-Wk High | -17.4% below high ($70.70) |
+| Current Price | $445.27 |
+| Price Target | $449.21 (+0.9%) |
+| P/E Ratio | 149.49 |
+| RSI | N/A |
+| vs 52-Wk High | -5.1% below high ($469.22) |
+| Analyst Rating | Buy |
+| Sector | Semiconductors |
+
+**Sources:** 247WallSt, Investing.com, Seeking Alpha, Gurufocus, Yahoo Finance, Foreign Policy Journal
+
+---
+
+## ZOOMINFO TECHNOLOGIES (ZI)
+
+**Discussion Driver:** Mizuho issued one of the most severe analyst cuts of the day, downgrading ZoomInfo (which recently rebranded its ticker from ZI to GTM) to Underperform and slashing its price target from $10 to $3; the downgrade followed company guidance implying an 8.5% H2 2026 revenue decline, a shift to a consumption-based model that Mizuho believes carries significant execution risk, and broad AI-driven purchasing paralysis among enterprise software buyers.
+
+**Bull Case:**
+- Trading near its 52-week low at ~$4, ZoomInfo is priced for severe distress; a successful transition to the consumption-based model could re-accelerate revenue growth and attract price-sensitive enterprise buyers currently avoiding seat-license pricing.
+- ZoomInfo's proprietary contact database and large installed enterprise base are hard-to-replicate strategic assets; integrating AI-powered prospecting features could reduce churn and expand use cases beyond traditional outbound sales.
+
+**Bear Case:**
+- Mizuho's downgrade to Underperform with a $3 target warns that H2 2026 revenue will decline ~8.5% and that consumption revenue may fail to offset accelerating seat attrition, putting further pressure on net revenue retention.
+- Multiple analysts cut targets simultaneously — Wells Fargo to $3.50 (Underweight), Citizens JMP to $2.50 (Underperform), Canaccord to $5 (Hold) — reflecting broad consensus that AI tools are structurally disrupting ZoomInfo's core sales intelligence model with no clear near-term inflection point.
+
+**Recommendation:** Sell
+
+**Metrics:**
+| Metric | Value |
+|--------|-------| 
+| Current Price | $4.05 |
+| Price Target | $5.00 (+23.5%) |
+| P/E Ratio | 85.9 |
+| RSI | 36.31 |
+| vs 52-Wk High | -67.6% below high ($12.51) |
 | Analyst Rating | Hold |
-| Sector | Materials - Specialty Chemicals |
+| Sector | Technology - Sales Intelligence |
 
-**Sources:** Benzinga, Seeking Alpha, WallStreetZen, Celanese Q1 Earnings Call, Simply Wall St
+**Sources:** Investing.com, Benzinga, Marketscreener, Yahoo Finance, DailyPolitical, MarketBeat
 
 ---
 
-## GITLAB INC. (GTLB)
+## EOS ENERGY ENTERPRISES (EOSE)
 
-**Discussion Driver:** GitLab fell ~12% premarket after announcing a 7% workforce reduction and sweeping restructuring into what CEO Bill Staples calls the 'agentic era,' including cutting 30% of its country footprint, flattening three management layers, and reorganizing R&D into 60 autonomous AI teams. Raymond James downgraded the stock to Market Perform from Outperform, flagging the simultaneous rearchitecting of the platform and headcount cuts as creating significant execution and talent-retention risk at a critical competitive juncture.
+**Discussion Driver:** Eos Energy delivered a standout Q1 2026 earnings beat (EPS $0.12 vs. -$0.22 estimated; revenue +445% YoY to $57M) and simultaneously launched Frontier Power USA — a Cerberus Capital-backed joint venture with a $100M equity commitment targeting large-scale long-duration energy storage deployment; the stock initially surged 20-36% before giving back most gains as investors weighed the company's deep ongoing losses against its $24.3B commercial pipeline and reaffirmed $300-400M FY26 revenue guidance.
 
 **Bull Case:**
-- GitLab's aggressive pivot to agentic AI development — reorganizing entirely around autonomous AI coding teams — could position it as a first mover in the DevSecOps AI platform race, tapping a massive market before competitors can respond at the same depth of integration.
-- Analyst consensus remains Buy with an average price target of $37.17, implying ~55% upside; the stock has already declined ~56% from its 52-week high, compressing the risk/reward in favor of long-term investors willing to look through near-term restructuring noise.
+- The Frontier Power USA JV with Cerberus Capital ($100M equity, institutional insurance backing) provides a structurally de-risked path to scaling Eos's American-made zinc battery manufacturing, while the $644.6M backlog (2.6 GWh) and $24.3B pipeline signal robust commercial demand.
+- Q1 revenue of $57M represents 445% YoY growth, and management's reaffirmed FY26 guidance of $300-400M implies continued hypergrowth; achieving positive adjusted EBITDA by end of 2026 would represent a major re-rating catalyst for a stock still trading 58% below its 52-week high.
 
 **Bear Case:**
-- Raymond James analysts warned that simultaneously reducing headcount and rearchitecting the platform introduces severe operational disruption risk; the ~40% YoY decline in base customers added and ~500bps drop in dollar-based net retention rate signal growth deterioration before restructuring costs even layer in.
-- The 'agentic era' pivot risks being perceived as AI washing rather than genuine platform transformation, with critics noting the restructuring looks more like cost-cutting than innovation — risking key talent departures that undermine the execution the strategy requires.
+- Despite strong revenue growth, Eos remains deeply unprofitable with a Q1 adjusted EBITDA loss of $68M; targeting positive adjusted EBITDA by year-end is ambitious, and additional capital raises remain likely, creating dilution risk for existing shareholders.
+- The stock gave back nearly all of its 20-36% intraday surge on earnings day itself, suggesting institutional skepticism about near-term execution; long-duration zinc batteries also face intensifying competition from improving lithium-ion and flow battery alternatives with more established supply chains.
+
+**Recommendation:** Speculative Buy
+
+**Metrics:**
+| Metric | Value |
+|--------|-------| 
+| Current Price | $8.28 |
+| Price Target | $9.42 (+13.8%) |
+| P/E Ratio | N/A |
+| RSI | 59.67 |
+| vs 52-Wk High | -58.3% below high ($19.86) |
+| Analyst Rating | Hold |
+| Sector | Energy Storage - Clean Energy |
+
+**Sources:** Motley Fool, Investing.com, StreetInsider, StockTitan, CoinCentral, Seeking Alpha, Benzinga
+
+---
+
+## UNDER ARMOUR (UAA) ⭐
+
+**Discussion Driver:** Stifel downgraded Under Armour from Buy to Hold and slashed its price target from $9 to $6, citing a longer-than-expected turnaround, rising SG&A expenses, and mounting tariff headwinds; Truist Financial also cut its target to $5 the same day, following Q4 FY26 results where adjusted EPS showed a loss of $0.03, revenue fell 0.8% YoY, and gross margins contracted 360 bps to 43.1% from tariff impacts, promotions, and supply chain disruptions.
+
+**Bull Case:**
+- Under Armour trades at just 0.6x Price-to-Sales versus a peer average of 1.4x, a historically depressed valuation that could attract value investors or strategic acquirers if the brand shows even modest operational improvement in FY27.
+- A new management restructuring initiative and a potential resolution of U.S. tariff policy could stabilize margins; Under Armour retains strong brand recognition in performance athletic wear in North America, which could support a revenue recovery in a more favorable macro environment.
+
+**Bear Case:**
+- Stifel's downgrade reflects conviction that Under Armour's turnaround is structurally delayed — gross margin at 43.1% trails peers by 200-700 bps, SG&A is rising, and the company is shifting toward net debt rather than net cash, limiting financial flexibility.
+- Revenue has declined for multiple consecutive quarters and Under Armour continues to lose brand relevance with younger consumers against dominant competitors Nike and Lululemon; with Truist setting a $5 target at near-current prices, the downside scenario appears as likely as the recovery case.
 
 **Recommendation:** Hold
 
 **Metrics:**
 | Metric | Value |
 |--------|-------| 
-| Current Price | $24.00 |
-| Price Target | $37.17 (+54.9%) |
-| P/E Ratio | 23.01 |
-| RSI | 46.21 |
-| vs 52-Wk High | -55.7% below high ($54.08) |
-| Analyst Rating | Buy |
-| Sector | Technology - DevOps/Software |
+| Current Price | $5.03 |
+| Price Target | $6.48 (+28.8%) |
+| P/E Ratio | N/A |
+| RSI | N/A |
+| vs 52-Wk High | -38.3% below high ($8.15) |
+| Analyst Rating | Hold |
+| Sector | Consumer Discretionary - Athletic Apparel |
 
-**Sources:** Benzinga, Bloomberg, Seeking Alpha, Investing.com, GuruFocus, ByteIota
+**Sources:** Benzinga, StreetInsider, Yahoo Finance, Gurufocus, StockObserver, StockAnalysis
 
 ---
 
 ## DAILY INSIGHTS
 
-- **Most Bullish Sector:** Technology - Enterprise Mobility & Automatic Identification
-- **Most Bearish Sector:** Technology - Semiconductors (Edge AI)
-- **Most Mentioned Stock:** QUBT — appeared in 10 sources
+- **Most Bullish Sector:** Technology - Networking
+- **Most Bearish Sector:** Healthcare Technology
+- **Most Mentioned Stock:** MU — appeared in 7 sources
 - **Sentiment Shift:** Market tone is Mixed
 
 ---
 
 ## REPORT ARCHIVE
+
+### 2026-05-13 | Mixed | Trump-Xi summit in Beijing with tech CEOs (Huang, Cook, Musk) driving semiconductor and AI optimism, Hot PPI inflation data (6% YoY) spooks rates-sensitive sectors while tech/AI stocks surge to record highs, AI infrastructure spending boom: Cisco, Nebius, and others beat on surging AI demand
+
+| Stock | Rec | Price | Target | vs 52-Wk High |
+|-------|-----|-------|--------|---------------|
+| CSCO ⭐ | Buy | $101.87 | $90.00 (-11.6%; pre-earnings consensus, upward revision expected; high-end target $110) | +1.9% above prior high ($99.93); new 52-week high set in after-hours |
+| NBIS | Spec. Buy | $206.05 | $168.50 (-18.2%; avg of 12 analysts; BofA raised to $205) | -3.9% below high ($214.44) |
+| WOLF | Spec. Buy | ~$53.72 | ~$20.00 (-62.8%; Sell consensus; Citrini upgrade not yet reflected in Wall St. targets) | At new all-time high ($53.72, set today on +23% surge) |
+| DOCS | Hold | $18.81 | $45.86 (+143.8%) | -75.4% below high ($76.51) |
+| BABA | Buy | $145.11 | $185.15 (+27.6%) | -24.7% below high ($192.67) |
+| NVDA ⭐ | Buy | $225.57 | $272.08 (+20.6%) | at new 52-week high ($227.84) |
+| AKAM ⭐ | Buy | $149.56 | $175.00 (+17.0%) | -4.3% below high ($156.32) |
+| MU ⭐ | Hold | $802.50 | $1,000.00 (+24.6%, Deutsche Bank Street-high) | at new 52-week high ($815.19) |
+| AAPL ⭐ | Buy | $298.87 | $325.00 (+8.7%) | at new all-time high ($300.92) |
+| LOAR | Buy | $67.14 | $93.20 (+38.8%) | -32.6% below high ($99.67) |
+| BIRK | Hold | $34.97 | $57.67 (+64.9%) | -41.2% below high ($59.50) |
+| AMD ⭐ | Hold | $445.27 | $449.21 (+0.9%) | -5.1% below high ($469.22) |
+| ZI | Sell | $4.05 | $5.00 (+23.5%) | -67.6% below high ($12.51) |
+| EOSE | Spec. Buy | $8.28 | $9.42 (+13.8%) | -58.3% below high ($19.86) |
+| UAA ⭐ | Hold | $5.03 | $6.48 (+28.8%) | -38.3% below high ($8.15) |
 
 ### 2026-05-12 | Mixed | Hot April CPI (3.8% YoY, above 3.7% estimate) dampens rate-cut hopes and pressures broad market, Oil surges above $100/barrel on Iran geopolitical tensions, boosting energy but weighing on consumer stocks, Active Q1 earnings season: strong beats in industrials and AI-adjacent tech contrast with misses in consumer/telehealth names
 
