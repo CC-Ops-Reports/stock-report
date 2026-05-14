@@ -1,130 +1,130 @@
 {
-  "report_date": "2026-05-12",
+  "report_date": "2026-05-13",
   "batch": 1,
   "market_tone": "Mixed",
   "key_themes": [
-    "Hot April CPI (3.8% YoY, above 3.7% estimate) dampens rate-cut hopes and pressures broad market",
-    "Oil surges above $100/barrel on Iran geopolitical tensions, boosting energy but weighing on consumer stocks",
-    "Active Q1 earnings season: strong beats in industrials and AI-adjacent tech contrast with misses in consumer/telehealth names"
+    "Trump-Xi summit in Beijing with tech CEOs (Huang, Cook, Musk) driving semiconductor and AI optimism",
+    "Hot PPI inflation data (6% YoY) spooks rates-sensitive sectors while tech/AI stocks surge to record highs",
+    "AI infrastructure spending boom: Cisco, Nebius, and others beat on surging AI demand"
   ],
   "sp500": {
-    "value": "5,870.00",
-    "change": "-0.37%"
+    "value": "7,444.25",
+    "change": "+0.58%"
   },
   "nasdaq": {
-    "value": "26,088.20",
-    "change": "-0.71%"
+    "value": "26,402.34",
+    "change": "+1.20%"
   },
   "stocks": [
     {
-      "ticker": "AMBQ",
-      "company": "Ambiq Micro Inc",
-      "discussion_driver": "Ambiq Micro surged ~40% after a blowout Q1 2026 earnings beat — revenue jumped 59.3% YoY to $25.1M vs. a $21.9M estimate, driven by accelerating edge AI adoption across wearables, IoT, and industrial devices. The company beat EPS estimates handily and provided bullish guidance, pushing the stock to a new 52-week high and sparking broad analyst attention on the edge AI chip theme.",
+      "ticker": "CSCO",
+      "company": "Cisco Systems",
+      "discussion_driver": "Cisco's Q3 FY2026 earnings—EPS $1.06 vs $1.04 expected, revenue $15.84B vs $15.56B estimated—drove a 17% after-hours surge, the sharpest post-earnings rally since 2002. AI hyperscaler orders hit $1.9B in Q3 alone (vs $600M a year prior), pushing the FY YTD total to $5.3B and already surpassing the full-year $5B target with one quarter remaining. FY26 AI order guidance was raised to $9B.",
       "bull_case": [
-        "Revenue growth of 59.3% YoY in Q1 2026 substantially beat consensus and reflects broad-based demand for ultra-low-power semiconductor solutions as edge AI adoption expands from wearables into industrial IoT and consumer electronics.",
-        "Ambiq's sub-threshold power-optimized technology (SPOT) platform is well-positioned as a differentiated edge AI enabler, and management's active push to diversify beyond legacy wearable markets creates a multi-year addressable market expansion opportunity."
+        "AI infrastructure orders from hyperscalers grew 3x year-over-year to $1.9B in Q3, with the full-year target already exceeded—demonstrating Cisco has become a central beneficiary of the data center build-out cycle with compounding order momentum.",
+        "Q4 FY2026 guidance of $16.7B–$16.9B in revenue and $1.16–$1.18 in adjusted EPS signals continued acceleration; CEO Chuck Robbins cited 'very strong, broad-based demand,' and Cisco's deep networking expertise gives it durable competitive positioning in AI interconnects."
       ],
       "bear_case": [
-        "The stock is now trading above its pre-earnings average analyst price target of $44.40, suggesting the post-surge price may be overextended and vulnerable to a pullback once sentiment normalizes and analysts refresh models.",
-        "Ambiq remains unprofitable (P/E -22.87), and the RSI entered overbought territory following the 40% spike, raising near-term correction risk even if the long-term growth narrative remains intact."
-      ],
-      "recommendation": "Hold",
-      "current_price": "$56.70",
-      "price_target": "$44.40 (-21.7%)",
-      "pe_ratio": "-22.87",
-      "rsi": "N/A (overbought post-earnings surge)",
-      "vs_52wk_high": "-10.4% below high ($63.30)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Semiconductors (Edge AI)",
-      "sources": ["Bloomberg", "Yahoo Finance", "MarketBeat", "ChartMill", "Investing.com", "Motley Fool", "StockTitan", "Ticker Report"]
-    },
-    {
-      "ticker": "VSTS",
-      "company": "Vestis Corp",
-      "discussion_driver": "Vestis surged 30%+ after fiscal Q2 2026 results beat expectations — revenue of $659.4M topped estimates, adjusted EBITDA of $74.5M surpassed forecasts, and the company raised its full-year EBITDA guidance midpoint to $310M, above the $299.6M Street consensus. Despite the sharp rally, sell-side consensus was bearish pre-earnings with price targets well below the current trading level, creating a gap the market must reconcile.",
-      "bull_case": [
-        "The Q2 2026 EBITDA beat and raised full-year guidance ($285-315M range, midpoint $310M above consensus) signal a credible operational turnaround gaining traction in the uniform services and workplace supplies business, with 5% sequential EBITDA improvements projected beginning Q2.",
-        "From deeply oversold levels, the 30% single-day move reflects potential re-rating as investors price in a faster-than-expected recovery; any continued positive operational momentum in subsequent quarters could attract value and turnaround-focused investors."
-      ],
-      "bear_case": [
-        "Analyst consensus remains bearish with an average price target of ~$7.28 — roughly 40% below today's price — suggesting the sell side views the post-earnings pop as overdone relative to the company's still-challenged fundamentals.",
-        "Vestis carries a negative P/E (-25.83), indicating the company is still unprofitable; prior to this quarter revenue had been on a declining trend, raising the question of whether a single beat represents a durable inflection or a temporary reprieve."
-      ],
-      "recommendation": "Hold",
-      "current_price": "$12.17",
-      "price_target": "$7.28 (-40.2%)",
-      "pe_ratio": "-25.83",
-      "rsi": "N/A",
-      "vs_52wk_high": "At 52-wk high ($12.17)",
-      "analyst_rating": "Moderate Sell",
-      "sector": "Industrials - Uniform & Workplace Supplies",
-      "sources": ["eToro", "StockAnalysis", "TipRanks", "Yahoo Finance", "Benzinga", "Investing.com (UK)", "MarketBeat", "FinancialContent"]
-    },
-    {
-      "ticker": "ZBRA",
-      "company": "Zebra Technologies",
-      "discussion_driver": "Zebra Technologies jumped 16-20% after Q1 2026 earnings showed 14.3% revenue growth to $1.5B and EPS of $4.75 — beating the $4.33 consensus by nearly 10% — while management raised full-year revenue, margin, and free cash flow guidance. The results demonstrated durable enterprise mobility demand and validated the company's recovery from a prolonged cyclical downturn, with analysts pointing to attractive valuation at ~14x forward earnings.",
-      "bull_case": [
-        "Q1 2026 delivered 14.3% revenue growth and 18% YoY EPS expansion, with management raising full-year guidance on all key metrics including approximately $900M in annual free cash flow, demonstrating that demand for enterprise mobility and warehouse automation is intact and accelerating.",
-        "ZBRA trades at ~14x forward earnings while guiding to double-digit revenue growth — a compelling combination that a consensus of 13+ buy-rated analysts believe offers significant upside, with a median price target of $330 implying 30%+ upside from current levels."
-      ],
-      "bear_case": [
-        "The stock remains 28% below its 52-week high of $352.66, and while today's earnings-driven pop is encouraging, sustained recovery to prior highs faces a backdrop of elevated inflation (CPI 3.8%) and macro uncertainty that could dampen enterprise capital spending.",
-        "Higher-for-longer interest rates could slow capital spending by Zebra's core retail and logistics customers, potentially decelerating the demand recovery that today's beat is pricing in for the remainder of 2026."
+        "Cisco is cutting approximately 4,000 jobs as part of ongoing restructuring, introducing near-term execution risk and one-time charges that could weigh on free cash flow even as the AI narrative drives enthusiasm.",
+        "The pre-earnings analyst consensus price target of $90 (median) now sits 11.6% below the after-hours price; while upward revisions are expected, the sharp post-earnings gap increases the risk of near-term profit-taking once initial euphoria fades."
       ],
       "recommendation": "Buy",
-      "current_price": "$252.90",
-      "price_target": "$345.33 (+36.5%)",
-      "pe_ratio": "27.67",
-      "rsi": "N/A",
-      "vs_52wk_high": "-28.3% below high ($352.66)",
+      "current_price": "$101.87",
+      "price_target": "$90.00 (-11.6%; pre-earnings consensus, upward revision expected; high-end target $110)",
+      "pe_ratio": "25.07",
+      "rsi": "54.61",
+      "vs_52wk_high": "+1.9% above prior high ($99.93); new 52-week high set in after-hours",
       "analyst_rating": "Strong Buy",
-      "sector": "Technology - Enterprise Mobility & Automatic Identification",
-      "sources": ["Yahoo Finance", "MarketBeat", "eToro", "StockAnalysis", "GuruFocus", "Motley Fool", "Seeking Alpha", "Benzinga", "Alphastreet"]
+      "sector": "Technology - Networking",
+      "sources": ["CNBC", "Benzinga", "MarketBeat", "investor.cisco.com", "Bloomberg"]
     },
     {
-      "ticker": "PACS",
-      "company": "PACS Group Inc",
-      "discussion_driver": "PACS Group surged 22% premarket after Q1 2026 delivered 184% net income growth (to $80.7M) and the company surprised the market with its first-ever $250M share buyback authorization — a strong signal of management confidence. The company also raised full-year 2026 adjusted EBITDA guidance to $605-625M (implying ~22% growth at midpoint), reinforcing the bull case for this leading post-acute care and skilled nursing facility operator.",
+      "ticker": "NBIS",
+      "company": "Nebius Group",
+      "discussion_driver": "Nebius posted Q1 2026 revenue of $399M—a 684% year-over-year surge beating the $371M consensus—alongside $621M in net income. The company simultaneously announced a new 1.2 GW AI data center campus in Pennsylvania with over 3.5 GW of contracted power capacity secured (first 250–300 MW online by end of 2027). The stock surged ~17% in one of the most dramatic AI infrastructure earnings beats this season.",
       "bull_case": [
-        "Q1 2026 net income surged 184% YoY to $80.7M with revenue up 11% to $1.42B, and the company raised its full-year EBITDA outlook to $605-625M — an upward revision signaling durable operational execution in a sector with powerful aging demographic tailwinds.",
-        "The debut $250M share buyback authorization — with no set expiration and no obligation — signals management's conviction that shares are undervalued relative to earnings power and provides a consistent source of demand beneath the stock."
+        "Q1 2026 revenue grew 684% YoY and 75% QoQ to $399M, beating estimates by ~7.4%; the Pennsylvania AI factory secures massive power capacity through 2030, providing the physical infrastructure runway to sustain this extraordinary growth trajectory.",
+        "As AI labs and enterprises seek alternatives to hyperscaler lock-in, Nebius's specialized GPU clusters and independent platform position it as a compelling partner—Bank of America raised its price target to $205 (from $175) citing exactly this competitive differentiation."
       ],
       "bear_case": [
-        "Post-acute care operators face meaningful regulatory risk from potential CMS reimbursement rate adjustments; any negative policy changes could quickly compress facility-level margins that drove this quarter's strong results.",
-        "With RSI at 68.20, the stock is approaching overbought levels, and at $33 it remains 23% below its 52-week high of $43.08, suggesting a persistent valuation overhang tied to concerns about regulatory and reimbursement risk."
-      ],
-      "recommendation": "Buy",
-      "current_price": "$33.09",
-      "price_target": "$45.50 (+37.5%)",
-      "pe_ratio": "27.53",
-      "rsi": "68.20",
-      "vs_52wk_high": "-23.2% below high ($43.08)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Healthcare - Post-Acute Care (Skilled Nursing Facilities)",
-      "sources": ["Investing.com", "Dev|Journal (earezki.com)", "Motley Fool", "Yahoo Finance", "StockTitan", "Alphastreet", "IBTimes AU", "GuruFocus", "ChartMill"]
-    },
-    {
-      "ticker": "QUBT",
-      "company": "Quantum Computing Inc",
-      "discussion_driver": "Quantum Computing Inc. surged 25%+ premarket after Q1 2026 results showed revenue exploding from $39K a year ago to $3.7M — a ~9,000% increase driven by the acquisitions of Lumina Semiconductor and NuCrypt — while the company launched its NeuraWave photonic reservoir computing platform as a deployment-ready PCIe card. The results shift QUBT's narrative from theoretical quantum research toward tangible photonic AI hardware commercialization.",
-      "bull_case": [
-        "The Q1 2026 revenue surge to $3.7M (from $39K a year ago) and the deployment-ready NeuraWave PCIe platform signal a credible transition from pure R&D to shipping hardware, with the company holding approximately $1.4B in cash and minimal debt to fund its photonic AI roadmap without near-term dilution risk.",
-        "Northland Capital initiated coverage with an Outperform rating and $20 price target, citing the massive quantum-photonics addressable market; McKinsey projects the sector to cross $1B in revenues in 2025 and grow to $16B+ by 2035."
-      ],
-      "bear_case": [
-        "QUBT carries a deeply negative P/E (-72.77) and posted a $20.6M operating loss in Q1 with negative gross margins; most revenue growth is acquisition-driven rather than organic, making the near-term path to profitability highly uncertain.",
-        "The stock trades roughly 50% below its 52-week high of $25.84, reflecting how quickly sentiment can reverse on quantum hype; intrinsic value analyses suggest the stock may be significantly overvalued on fundamental metrics given current cash flows."
+        "The stock is trading above most analyst price targets ($168.50 average; even BofA's revised $205 target is at or below current price), suggesting near-term growth expectations may already be fully reflected after the 17% surge.",
+        "Despite Q1 profitability, prior-quarter operating losses, high financial leverage, and deeply negative free cash flow mean Nebius remains dependent on capital markets to fund aggressive expansion—creating dilution and execution risk at scale."
       ],
       "recommendation": "Speculative Buy",
-      "current_price": "$13.02",
-      "price_target": "$17.50 (+34.4%)",
-      "pe_ratio": "-72.77",
-      "rsi": "44.39",
-      "vs_52wk_high": "-49.6% below high ($25.84)",
+      "current_price": "$206.05",
+      "price_target": "$168.50 (-18.2%; avg of 12 analysts; BofA raised to $205)",
+      "pe_ratio": "351.40",
+      "rsi": "61.33",
+      "vs_52wk_high": "-3.9% below high ($214.44)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Technology - AI Cloud Infrastructure",
+      "sources": ["Motley Fool", "TipRanks", "Yahoo Finance", "StockTitan", "Blockspace Media", "BofA Securities"]
+    },
+    {
+      "ticker": "WOLF",
+      "company": "Wolfspeed",
+      "discussion_driver": "Thematic research firm Citrini issued a bullish note calling Wolfspeed significantly undervalued relative to its strategic silicon carbide manufacturing footprint, sending the stock up ~23% to a new all-time high. Wolfspeed—which emerged from bankruptcy roughly a year ago—has now surged over 180% in 2026, spotlighting silicon carbide semiconductors as a critical enabler for EV drivetrains and power-efficient systems. The Citrini thesis diverges sharply from the institutional analyst consensus, which remains Sell.",
+      "bull_case": [
+        "Wolfspeed holds one of the world's largest silicon carbide manufacturing footprints; as EV adoption accelerates and power-efficient chips gain strategic importance, the company's physical assets may be undervalued relative to replacement cost—the core of Citrini's upgrade thesis.",
+        "Post-bankruptcy restructuring has cleaned up the balance sheet, and Q3 losses narrowed 58% year-over-year, suggesting the company is moving toward a financial inflection point even as revenue remains under near-term pressure."
+      ],
+      "bear_case": [
+        "Wall Street maintains a Sell consensus with an average price target of ~$20 (vs. ~$53 current), underpinned by persistent losses (FY2026 EPS forecast: -$7.34), an 18.9% revenue decline YoY, and lingering uncertainty about when silicon carbide demand will materially recover.",
+        "The enormous gap between Citrini's strategic-value thesis and institutional analyst targets creates binary risk—if EV demand stays sluggish or a better-capitalized competitor captures market share, the stock could rapidly give back a large portion of its 2026 gains."
+      ],
+      "recommendation": "Speculative Buy",
+      "current_price": "~$53.72",
+      "price_target": "~$20.00 (-62.8%; Sell consensus; Citrini upgrade not yet reflected in Wall St. targets)",
+      "pe_ratio": "N/A",
+      "rsi": "N/A",
+      "vs_52wk_high": "At new all-time high ($53.72, set today on +23% surge)",
+      "analyst_rating": "Sell (Wall Street consensus; Citrini research upgrade as today's catalyst)",
+      "sector": "Technology - Semiconductors (Silicon Carbide)",
+      "sources": ["Rolling Out", "TheStreet", "MarketBeat", "WallStreetZen", "Yahoo Finance", "Investing.com"]
+    },
+    {
+      "ticker": "DOCS",
+      "company": "Doximity",
+      "discussion_driver": "Doximity's Q4 FY2026 earnings missed on EPS ($0.26 vs $0.28 expected) and FY27 revenue guidance of $664–676M badly undershot the $697M–725M consensus—implying growth decelerating from 9.8% to potentially mid-single digits. The stock plunged ~19.6% in after-hours to ~$18.81, breaking below its 52-week low of $20.55 and entering price discovery territory. Despite 800,000+ active prescribers using AI workflow tools, the market sharply re-rated the growth story.",
+      "bull_case": [
+        "Doximity maintains a dominant position in physician networking and digital healthcare marketing with 800,000+ active prescribers—a durable platform moat that the current post-earnings sell-off may be overstating as a permanent structural concern.",
+        "At an RSI of 25.81 (deeply oversold) and an analyst average price target of $45.86 vs. the after-hours price of ~$18.81, mean-reversion potential is substantial if Doximity can stabilize revenue or beat next quarter's reset expectations."
+      ],
+      "bear_case": [
+        "The FY27 guidance miss of roughly $20–50M vs. consensus signals that pharmaceutical marketing budgets are tightening in ways that may persist, undermining the core revenue driver and raising doubts about whether the platform can sustain even mid-single-digit growth.",
+        "The stock has broken below its 52-week low of $20.55 and entered price discovery territory with no clear technical support; further analyst downgrades and price target cuts are likely as sell-side models are reset to the lower growth baseline."
+      ],
+      "recommendation": "Hold",
+      "current_price": "$18.81",
+      "price_target": "$45.86 (+143.8%)",
+      "pe_ratio": "23.31",
+      "rsi": "25.81 (deeply oversold)",
+      "vs_52wk_high": "-75.4% below high ($76.51)",
       "analyst_rating": "Buy",
-      "sector": "Technology - Quantum Computing / Integrated Photonics",
-      "sources": ["Yahoo Finance", "Motley Fool", "StockTitan", "GuruFocus", "PRNewswire", "Benzinga", "Seeking Alpha", "StocksToTrade", "Invezz", "AlphaSpread"]
+      "sector": "Healthcare Technology",
+      "sources": ["Benzinga", "Motley Fool", "StockTitan", "TheStreet", "StockAnalysis", "CNBC"]
+    },
+    {
+      "ticker": "BABA",
+      "company": "Alibaba Group",
+      "discussion_driver": "Alibaba's Q4 FY2026 earnings showed core adjusted EBITDA plunging 84% YoY as heavy AI and cloud capital expenditures weighed on profitability, sending the stock down ~9% on the day. Despite the miss, analysts maintain a Strong Buy consensus with a $185.15 average price target (27.6% upside). The Trump-Xi Beijing summit—attended by tech CEOs including Jensen Huang—provides a near-term geopolitical catalyst for Chinese ADRs if trade tensions continue to ease.",
+      "bull_case": [
+        "Alibaba's aggressive AI and cloud investment is building a competitive moat in China's fast-growing cloud market; if this spending cycle mirrors AWS's mid-2010s trajectory, the company could rapidly re-accelerate profitability once utilization scales.",
+        "At 25x trailing P/E, roughly 24.7% below its 52-week high, and with a Strong Buy consensus projecting $185 target (28% upside), BABA offers a compelling value entry point if US-China trade relations continue to improve following the Trump-Xi summit."
+      ],
+      "bear_case": [
+        "The 84% plunge in core adjusted EBITDA in Q4 FY26 signals AI and cloud investment spending is heavier than the market expected, creating meaningful near-term earnings pressure with a return timeline that remains uncertain and difficult to model.",
+        "US-China geopolitical risk remains a structural overhang on all Chinese ADRs—any reversal of summit-driven optimism, new tariff escalation, or regulatory action could compress multiples regardless of Alibaba's fundamental progress."
+      ],
+      "recommendation": "Buy",
+      "current_price": "$145.11",
+      "price_target": "$185.15 (+27.6%)",
+      "pe_ratio": "25.35",
+      "rsi": "58.01",
+      "vs_52wk_high": "-24.7% below high ($192.67)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Consumer Technology - E-Commerce & Cloud",
+      "sources": ["Bloomberg", "Seeking Alpha", "CNBC", "MarketBeat", "TipRanks", "Yahoo Finance"]
     }
   ]
 }
