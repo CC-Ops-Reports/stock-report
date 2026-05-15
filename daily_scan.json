@@ -1,163 +1,178 @@
 {
-  "report_date": "2026-05-14",
-  "market_tone": "Bullish",
+  "report_date": "2026-05-15",
+  "market_tone": "Bearish",
   "key_themes": [
-    "Cisco mega-earnings: AI infrastructure orders raised to $9B, stock surges most since 2002",
-    "US-China trade summit: Trump-Xi Beijing meeting yields Boeing jet order, market-wide optimism",
-    "AI spending bifurcation: creates earnings winners (Cisco) and margin losers (Doximity -25%)",
-    "Strong Q1/Q2 earnings beats across consumer and travel sectors (YETI, StubHub, Viking)",
-    "S&P 500 and Nasdaq hit record closes; Dow retakes 50,000"
+    "Hot CPI inflation data drives Treasury yields above 5.1%, triggering broad tech selloff",
+    "Semiconductor/AI trade under pressure \u2014 Philadelphia Semiconductor Index -3%+",
+    "IPO surge: Cerebras biggest U.S. tech IPO since Uber, Figma surges on Q1 earnings beat",
+    "Microsoft-OpenAI deal restructured; Wedbush raises MSFT target to $575",
+    "Retail sector four-week losing streak worsens on consumer spending concerns"
   ],
   "sp500": {
-    "value": "7,501.24",
-    "change": "+0.77%"
+    "value": "7,408.50",
+    "change": "-1.24%"
   },
   "nasdaq": {
-    "value": "26,635.22",
-    "change": "+0.88%"
+    "value": "26,225.14",
+    "change": "-1.54%"
   },
   "stocks": [
     {
-      "ticker": "CSCO",
-      "company": "Cisco Systems",
-      "reason": "Q3 FY2026 beat-and-raise: revenue $15.84B vs $15.56B est, EPS $1.06 vs $1.04 est; raised AI infrastructure orders target to $9B from $5B; product orders +35%, networking +50%; stock surged ~17-20%, biggest gain since 2002; six Wall Street firms hiked price targets; announced ~4,000 layoffs for AI reorg",
+      "ticker": "CBRS",
+      "company": "Cerebras Systems",
+      "reason": "Pulled back 10% today after surging 68% in IPO debut yesterday (May 14); raised $5.55B in largest U.S. tech IPO since Uber; AI chip competitor to Nvidia trading around $280",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance",
+        "Motley Fool"
+      ]
+    },
+    {
+      "ticker": "FIG",
+      "company": "Figma",
+      "reason": "Surged 12%+ on strong Q1 2026 earnings: revenue +46% YoY to $333.4M, NDR hit 139% (highest in 2+ years), raised full-year guidance to $1.422B-$1.428B (35% growth)",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "Motley Fool",
-        "Seeking Alpha",
         "Yahoo Finance",
+        "Trefis"
+      ]
+    },
+    {
+      "ticker": "CSCO",
+      "company": "Cisco Systems",
+      "reason": "Stock up 13.4% today following blockbuster Q3 earnings (May 13 AH): revenue +12% to $15.84B, raised AI infrastructure order outlook to $9B for fiscal year, announced fewer than 4,000 layoffs",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "IndMoney",
         "24/7 Wall St."
       ]
     },
     {
-      "ticker": "DOCS",
-      "company": "Doximity",
-      "reason": "Q4 FY2026 earnings miss: adjusted EPS $0.26 vs $0.28 est; full-year revenue outlook $664-676M below FY2026 level at midpoint; rising AI investment costs pressuring margins; pharma digital ad market soft; stock plunged ~25% to lowest since 2021 IPO; Jefferies downgraded to Hold, slashed PT from $51 to $19",
-      "category": "earnings",
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "reason": "Up 3.81% after renegotiated OpenAI deal: Microsoft to receive ~$6B from OpenAI in 2026 (up from $4B), loses some exclusivity but drops revenue-sharing drag on Azure; Wedbush raised target to $575 (Outperform)",
+      "category": "news",
       "sources": [
-        "Seeking Alpha",
-        "Gurufocus",
-        "Motley Fool",
-        "Investing.com",
-        "Bloomberg"
+        "Wedbush/CNBC",
+        "CoinCentral",
+        "Motley Fool"
       ]
     },
     {
-      "ticker": "STUB",
-      "company": "StubHub",
-      "reason": "Q1 2026 earnings beat: revenue $446M vs $432M expected, adjusted EBITDA $72.1M vs $65.1M expected; stock surged ~14% on strong live-events demand",
-      "category": "earnings",
+      "ticker": "DXCM",
+      "company": "DexCom",
+      "reason": "Up ~6% standing out in a down market: Elliott Management took major stake and settled for 2 new board seats; Investor Day in Mesa revealed double-digit growth strategy through 2030; Canaccord raised PT to $100",
+      "category": "news",
       "sources": [
-        "CNBC",
-        "Bloomberg"
-      ]
-    },
-    {
-      "ticker": "YETI",
-      "company": "YETI Holdings",
-      "reason": "Q1 FY2026 beat on top and bottom line: EPS $0.26 vs $0.18 expected, revenue $380.4M vs $374.7M expected; raised FY2026 adjusted EPS guidance midpoint to $2.86 above $2.81 consensus; stock jumped ~10%",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance",
+        "GuruFocus",
+        "StocksToTrade",
         "Investing.com"
       ]
     },
     {
-      "ticker": "SBUX",
-      "company": "Starbucks",
-      "reason": "TD Cowen upgraded from Hold to Buy, raised price target to $120; cited improving same-store sales (+6% comp growth in Q2), margin recovery from labor investments and cost cuts, and operational improvements under CEO Brian Niccol; stock hit 52-week high",
-      "category": "upgrade",
+      "ticker": "PZZA",
+      "company": "Papa John's International",
+      "reason": "Surged 9%+ premarket on take-private offer: Qatari-backed Irth Capital + largest U.S. franchisee Nadeem Bajwa offered $47/share (44% premium) to take the company private",
+      "category": "news",
       "sources": [
-        "CNBC",
-        "Gurufocus",
-        "Benzinga",
-        "Seeking Alpha",
-        "24/7 Wall St."
-      ]
-    },
-    {
-      "ticker": "F",
-      "company": "Ford Motor",
-      "reason": "Morgan Stanley highlighted Ford's energy storage business and CATL battery relationship as underappreciated growth driver for Model e segment; stock rose ~7% adding to prior day's 13% surge; two-day rally of ~20% total",
-      "category": "upgrade",
-      "sources": [
-        "CNBC",
-        "Bloomberg"
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "reason": "UBS raised price target to $275 from $245, maintained Buy rating, citing strong AI infrastructure demand ahead of upcoming earnings; stock tops $230 with analysts calling it still cheap; BofA also resets price target upward",
-      "category": "upgrade",
-      "sources": [
-        "CNBC",
+        "Bloomberg",
+        "Investing.com",
         "Yahoo Finance"
       ]
     },
     {
       "ticker": "AMAT",
       "company": "Applied Materials",
-      "reason": "Q2 FY2026 beat-and-raise reported after-hours; stock rose ~2% during regular session ahead of results then gained ~4.5% after-hours; shares up 73% YTD in 2026 on semiconductor equipment demand",
+      "reason": "Reported fiscal Q2 earnings beat: EPS $2.86 vs. $2.66 expected, revenue $7.91B vs. $7.65B est. AI demand pushed margins to 25-year highs; stock volatile \u2014 up in extended hours then -2.8% premarket",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "Trefis",
-        "StockTitan"
+        "Benzinga"
       ]
     },
     {
-      "ticker": "BIIB",
-      "company": "Biogen",
-      "reason": "Experimental Alzheimer's drug advances to Phase 3 trial despite missing Phase 2 primary endpoint; showed cognitive benefits in secondary measures; stock had volatile session, up ~4% early then reversed to -5% midday",
-      "category": "news",
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "reason": "Fell 4.4% as hot April CPI report sparked inflation fears and profit-taking in high-valuation AI trade; Philadelphia Semiconductor Index declined 3%+; 30-year Treasury yield topped 5.1%",
+      "category": "sector",
+      "sources": [
+        "Yahoo Finance",
+        "Benzinga",
+        "GuruFocus"
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "company": "Intel",
+      "reason": "Dropped 6%+ in broad semiconductor selloff tied to rising Treasury yields and CPI inflation data; among the hardest-hit chip stocks on the session",
+      "category": "sector",
       "sources": [
         "CNBC",
+        "Bloomberg"
+      ]
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "reason": "Fell 6.6% \u2014 worst performer in the chip sector selloff triggered by above-consensus April CPI data stoking fears the Fed will keep rates higher for longer",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "Benzinga",
+        "StocksDownUnder"
+      ]
+    },
+    {
+      "ticker": "AMD",
+      "company": "Advanced Micro Devices",
+      "reason": "Lost 5.7% alongside Nvidia and Micron as AI trade faced broad profit-taking on inflation data; opened down 3.51% and worsened through session",
+      "category": "sector",
+      "sources": [
+        "TradingKey",
         "Yahoo Finance"
       ]
     },
     {
-      "ticker": "VIK",
-      "company": "Viking Holdings",
-      "reason": "Q1 2026 revenue rose sharply year-over-year; cruise line operator reported strong travel demand; stock moved higher on the earnings beat alongside StubHub as live-experience sector outperforms",
-      "category": "earnings",
+      "ticker": "COIN",
+      "company": "Coinbase Global",
+      "reason": "Fell 7.6% after brief CLARITY Act rally faded; Q1 earnings showed net loss of $394M with revenue of $1.41B missing $1.48B estimate; broader crypto risk-off on macro fears",
+      "category": "news",
       "sources": [
-        "Bloomberg",
+        "Invezz",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "ANET",
+      "company": "Arista Networks",
+      "reason": "Upgraded to Outperform from Neutral at Raymond James with $164 price target, cited as Friday's top analyst call; stands out amid tech selloff",
+      "category": "upgrade",
+      "sources": [
+        "24/7 Wall St.",
         "CNBC"
       ]
     },
     {
-      "ticker": "GOOS",
-      "company": "Canada Goose",
-      "reason": "Q4 and full fiscal year 2026 results reported pre-market; stock trading at $10.68, below all major moving averages amid earnings misses and declining profitability; one of Bloomberg's premarket mover features for the day",
-      "category": "earnings",
+      "ticker": "KSS",
+      "company": "Kohl's",
+      "reason": "Down double digits on the week as SPDR S&P Retail ETF posts worst weekly performance since October 2025 (-6%+); retail sector hit by softening consumer spending data (April retail sales ex-autos slowed to +0.7%)",
+      "category": "sector",
       "sources": [
-        "Bloomberg",
-        "Yahoo Finance",
-        "Investing.com"
+        "CNBC",
+        "TheStreet"
       ]
     },
     {
-      "ticker": "BA",
-      "company": "Boeing",
-      "reason": "Trump-Xi Beijing summit: China agreed to order 200 Boeing jets per Trump announcement to Fox News; stock down ~3.8% to $231 as market had priced in higher expectations; trade deal optimism partially offset by order-size disappointment",
+      "ticker": "MICC",
+      "company": "Magnum Ice Cream Company",
+      "reason": "Rose 11% among premarket gainers today; named as notable mover in CNBC premarket movers report and Bloomberg premarket movers for May 15",
       "category": "news",
       "sources": [
         "CNBC",
-        "Bloomberg",
-        "24/7 Wall St."
-      ]
-    },
-    {
-      "ticker": "NVMI",
-      "company": "Nova Measuring Instruments",
-      "reason": "BofA Securities raised price target to $612 from $510; semiconductor metrology equipment maker benefiting from AI chip manufacturing buildout demand",
-      "category": "upgrade",
-      "sources": [
-        "Globe and Mail",
-        "Benzinga"
+        "Bloomberg"
       ]
     }
   ]
