@@ -1,116 +1,72 @@
 {
-  "report_date": "2026-05-13",
+  "report_date": "2026-05-14",
   "batch": 3,
   "stocks": [
     {
-      "ticker": "BIRK",
-      "company": "Birkenstock Holding plc",
-      "discussion_driver": "Birkenstock reported fiscal Q2 2026 results that missed on both EPS (€0.50 vs. €0.60 consensus, a 16.7% miss) and revenue, with operating profit declining 11% YoY as U.S. tariffs, unfavorable FX, and Middle East conflict suppressed margins and curtailed EMEA deliveries; the stock dropped ~12% intraday before partially recovering, though management confirmed full-year guidance of 13-15% constant-currency revenue growth.",
+      "ticker": "GOOS",
+      "company": "Canada Goose Holdings Inc.",
+      "discussion_driver": "Canada Goose reported Q4 and full fiscal year 2026 results pre-market on May 14, showing Q4 revenue up 18% and DTC comparable sales growth of 10% — its fourth consecutive quarter of positive DTC comp growth. Despite the revenue beat, the stock trades near multi-year lows below all major moving averages, and fiscal 2027 guidance for only low-single-digit revenue growth with EBIT margins of 11-12% left investors cautious on the pace of recovery.",
       "bull_case": [
-        "Despite the Q2 miss, management reaffirmed FY26 guidance of 13-15% revenue growth in constant currency and an adjusted gross margin of 57-57.5%, signaling that brand pricing power and international expansion remain on track once tariff and geopolitical headwinds stabilize.",
-        "At roughly 15x trailing P/E versus a peer average of 26x, Birkenstock is trading at a significant valuation discount to premium footwear comparables, offering a potential re-rating catalyst as margin pressures ease in H2 2026."
+        "Canada Goose's Q4 results demonstrated genuine traction in its year-round brand expansion, with DTC comparable sales growth of 10% and a larger wholesale order book confirming that the brand is broadening beyond its traditional winter-coat identity — supporting sustained revenue momentum into fiscal 2027.",
+        "Management is guiding for 'meaningful margin expansion' in fiscal 2027 through cost realignment, pricing actions already implemented, and new store openings, targeting adjusted EBIT margins of 11-12%; if executed, this could drive significant earnings leverage from a depressed base."
       ],
       "bear_case": [
-        "U.S. tariffs drove gross margin compression from 57.7% to 53.9% in Q2, and with tariff policy remaining fluid, margin recovery timelines are uncertain; any additional tariff escalation could pressure FY26 guidance.",
-        "The ongoing Middle East conflict created a $6M direct revenue headwind in Q2 and dampened European consumer sentiment; a prolonged or broadening conflict would further weigh on the company's high-margin EMEA segment."
+        "Fiscal 2027 guidance calls for only low-single-digit revenue growth, with management citing softer consumer demand, reduced confidence, and lower travel in key markets — headwinds that could worsen if the macro environment deteriorates further and discretionary spending declines.",
+        "The stock has persistently underperformed and trades well below all major moving averages near multi-year lows; with 4 analyst Sell ratings, a bearish $10 price target from Jefferies, and a stretched trailing P/E of 64x, the margin-expansion thesis carries significant execution risk and the stock remains vulnerable to further downside."
       ],
       "recommendation": "Hold",
-      "current_price": "$34.97",
-      "price_target": "$57.67 (+64.9%)",
-      "pe_ratio": "15.7",
+      "current_price": "$11.93",
+      "price_target": "$13.93 (+16.8%)",
+      "pe_ratio": "64.18",
       "rsi": "N/A",
-      "vs_52wk_high": "-41.2% below high ($59.50)",
+      "vs_52wk_high": "-22.7% below high ($15.43)",
+      "analyst_rating": "Hold",
+      "sector": "Consumer Discretionary - Luxury Apparel",
+      "sources": ["BusinessWire", "Yahoo Finance", "Barchart", "TIKR", "Seeking Alpha", "Benzinga"]
+    },
+    {
+      "ticker": "BA",
+      "company": "The Boeing Company",
+      "discussion_driver": "President Trump announced at the US-China trade summit on May 14 that China agreed to purchase 200 Boeing jets — the first major Chinese commercial aircraft order in nearly a decade — but the figure disappointed markets that had anticipated 500+ planes, sending BA shares down ~4.8% despite the historic geopolitical significance of the deal reopening the Chinese aviation market.",
+      "bull_case": [
+        "The 200-jet China order reestablishes Boeing's commercial foothold with Chinese carriers after years of trade-war-driven exclusion, and represents a foundation that could grow as diplomatic relations stabilize; combined with ~100-jet Vietnam orders announced earlier in 2026, Boeing's global backlog is strengthening materially.",
+        "Boeing's operational recovery is gaining credibility — 737 production is ramping toward 52/month, free cash flow is projected to scale toward $10 billion, and analysts maintain a Strong Buy consensus with a $269.75 mean price target, reflecting confidence that the company's 'kitchen sink' period is over."
+      ],
+      "bear_case": [
+        "The 200-jet order fell far short of the ~500-plane deal widely anticipated, and remains entirely contingent on US-China diplomacy that could unravel; Boeing also carries approximately $8 billion in debt maturing in 2026 and faces ongoing FAA production oversight embedded in its facilities.",
+        "Boeing's trailing P/E of 118x reflects razor-thin margins and financial fragility; any new quality control issue discovered by the FAA, a further 777X delay beyond 2027, or a resurgence in trade tensions could rapidly derail the recovery narrative and pressure the stock further."
+      ],
+      "recommendation": "Hold",
+      "current_price": "$229.13",
+      "price_target": "$269.75 (+17.7%)",
+      "pe_ratio": "118.22",
+      "rsi": "58.45",
+      "vs_52wk_high": "-9.9% below high ($254.35)",
       "analyst_rating": "Strong Buy",
-      "sector": "Consumer Discretionary - Footwear",
-      "sources": ["Investing.com", "Alphastreet", "Yahoo Finance", "Seeking Alpha", "WWD", "StockTitan"]
+      "sector": "Industrials - Aerospace & Defense",
+      "sources": ["CNBC", "Bloomberg", "Yahoo Finance", "MarketBeat", "Motley Fool", "Simply Wall St"]
     },
     {
-      "ticker": "AMD",
-      "company": "Advanced Micro Devices",
-      "discussion_driver": "Wall Street split sharply on AMD on May 13: Daiwa Capital downgraded from Buy to Outperform citing valuation after the stock rallied ~150% in 60 days, while simultaneously doubling its price target to $500; Bank of America held firm with a Buy and also raised its target to $500, crystallizing a market-wide debate on whether AMD's AI fundamentals can support its extraordinary 2026 valuation run.",
+      "ticker": "NVMI",
+      "company": "Nova Ltd.",
+      "discussion_driver": "Bank of America Securities raised its price target on Nova Ltd. to $612 from $510 (maintaining Buy) on May 14, citing strong AI-driven semiconductor capital spending that is accelerating demand for Nova's precision metrology and process control tools. The upgrade came on the heels of Nova's record Q1 2026 revenue of $235.3M and an all-time stock high reached in late April 2026, underscoring the company's central role in the AI chip manufacturing buildout.",
       "bull_case": [
-        "AMD's MI300X AI accelerator business continues to scale rapidly, with Q1 2026 results beating expectations and a robust Q2 outlook; optimism from the Trump-Xi trade summit could also restore chip exports to China, a historically large revenue opportunity for the company.",
-        "Bank of America's $500 price target reflects conviction that AMD's upcoming AI GPU roadmap (MI400 series) can meaningfully displace Nvidia in AI inference workloads, backed by growing enterprise adoption and competitive pricing relative to Nvidia hardware."
+        "Nova's metrology tools are becoming increasingly indispensable as chip complexity surges — AI chips, gate-all-around transistors, 3D stacking, and high-bandwidth memory all demand precision measurement that Nova specializes in, substantially expanding its total addressable market beyond traditional semiconductor volumes.",
+        "Nova posted record Q1 2026 revenue of $235.3M (+10% YoY) with robust 57.7% gross margins and guided Q2 non-GAAP EPS of $2.34-$2.48; the company is cash-generative with a 29.4% profit margin and accelerating revenue growth, supporting continued analyst confidence."
       ],
       "bear_case": [
-        "AMD has surged ~109% YTD and trades at a trailing P/E of ~149x; any earnings miss or slowdown in AI infrastructure spending could trigger a sharp derating — Daiwa specifically cited the 150% 60-day rally as a valuation concern warranting the downgrade.",
-        "Nvidia retains dominant GPU market share backed by its CUDA software ecosystem, which AMD's ROCm alternative has failed to match at scale; AMD's hardware advantages may not translate to revenue share gains in the highest-value AI training workloads."
+        "NVMI trades at a trailing P/E of ~64x — approximately twice what analysts consider a fair multiple — leaving the stock highly exposed to any slowdown in AI capex spending, semiconductor inventory correction, or deceleration in advanced-node investment by key customers.",
+        "Customer concentration is a key structural risk: a pause or deferral by one or two major customers such as TSMC or Samsung could sharply impair revenue visibility, and China-related export restrictions present a persistent regulatory overhang that could limit access to a significant portion of global wafer-fab spending."
       ],
-      "recommendation": "Hold",
-      "current_price": "$445.27",
-      "price_target": "$449.21 (+0.9%)",
-      "pe_ratio": "149.49",
+      "recommendation": "Buy",
+      "current_price": "$492.29",
+      "price_target": "$505.00 (+2.6%) consensus; BofA target $612.00",
+      "pe_ratio": "63.91",
       "rsi": "N/A",
-      "vs_52wk_high": "-5.1% below high ($469.22)",
-      "analyst_rating": "Buy",
-      "sector": "Semiconductors",
-      "sources": ["247WallSt", "Investing.com", "Seeking Alpha", "Gurufocus", "Yahoo Finance", "Foreign Policy Journal"]
-    },
-    {
-      "ticker": "ZI",
-      "company": "ZoomInfo Technologies",
-      "discussion_driver": "Mizuho issued one of the most severe analyst cuts of the day, downgrading ZoomInfo (which recently rebranded its ticker from ZI to GTM) to Underperform and slashing its price target from $10 to $3; the downgrade followed company guidance implying an 8.5% H2 2026 revenue decline, a shift to a consumption-based model that Mizuho believes carries significant execution risk, and broad AI-driven purchasing paralysis among enterprise software buyers.",
-      "bull_case": [
-        "Trading near its 52-week low at ~$4, ZoomInfo is priced for severe distress; a successful transition to the consumption-based model could re-accelerate revenue growth and attract price-sensitive enterprise buyers currently avoiding seat-license pricing.",
-        "ZoomInfo's proprietary contact database and large installed enterprise base are hard-to-replicate strategic assets; integrating AI-powered prospecting features could reduce churn and expand use cases beyond traditional outbound sales."
-      ],
-      "bear_case": [
-        "Mizuho's downgrade to Underperform with a $3 target warns that H2 2026 revenue will decline ~8.5% and that consumption revenue may fail to offset accelerating seat attrition, putting further pressure on net revenue retention.",
-        "Multiple analysts cut targets simultaneously — Wells Fargo to $3.50 (Underweight), Citizens JMP to $2.50 (Underperform), Canaccord to $5 (Hold) — reflecting broad consensus that AI tools are structurally disrupting ZoomInfo's core sales intelligence model with no clear near-term inflection point."
-      ],
-      "recommendation": "Sell",
-      "current_price": "$4.05",
-      "price_target": "$5.00 (+23.5%)",
-      "pe_ratio": "85.9",
-      "rsi": "36.31",
-      "vs_52wk_high": "-67.6% below high ($12.51)",
-      "analyst_rating": "Hold",
-      "sector": "Technology - Sales Intelligence",
-      "sources": ["Investing.com", "Benzinga", "Marketscreener", "Yahoo Finance", "DailyPolitical", "MarketBeat"]
-    },
-    {
-      "ticker": "EOSE",
-      "company": "Eos Energy Enterprises",
-      "discussion_driver": "Eos Energy delivered a standout Q1 2026 earnings beat (EPS $0.12 vs. -$0.22 estimated; revenue +445% YoY to $57M) and simultaneously launched Frontier Power USA — a Cerberus Capital-backed joint venture with a $100M equity commitment targeting large-scale long-duration energy storage deployment; the stock initially surged 20-36% before giving back most gains as investors weighed the company's deep ongoing losses against its $24.3B commercial pipeline and reaffirmed $300-400M FY26 revenue guidance.",
-      "bull_case": [
-        "The Frontier Power USA JV with Cerberus Capital ($100M equity, institutional insurance backing) provides a structurally de-risked path to scaling Eos's American-made zinc battery manufacturing, while the $644.6M backlog (2.6 GWh) and $24.3B pipeline signal robust commercial demand.",
-        "Q1 revenue of $57M represents 445% YoY growth, and management's reaffirmed FY26 guidance of $300-400M implies continued hypergrowth; achieving positive adjusted EBITDA by end of 2026 would represent a major re-rating catalyst for a stock still trading 58% below its 52-week high."
-      ],
-      "bear_case": [
-        "Despite strong revenue growth, Eos remains deeply unprofitable with a Q1 adjusted EBITDA loss of $68M; targeting positive adjusted EBITDA by year-end is ambitious, and additional capital raises remain likely, creating dilution risk for existing shareholders.",
-        "The stock gave back nearly all of its 20-36% intraday surge on earnings day itself, suggesting institutional skepticism about near-term execution; long-duration zinc batteries also face intensifying competition from improving lithium-ion and flow battery alternatives with more established supply chains."
-      ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$8.28",
-      "price_target": "$9.42 (+13.8%)",
-      "pe_ratio": "N/A",
-      "rsi": "59.67",
-      "vs_52wk_high": "-58.3% below high ($19.86)",
-      "analyst_rating": "Hold",
-      "sector": "Energy Storage - Clean Energy",
-      "sources": ["Motley Fool", "Investing.com", "StreetInsider", "StockTitan", "CoinCentral", "Seeking Alpha", "Benzinga"]
-    },
-    {
-      "ticker": "UAA",
-      "company": "Under Armour",
-      "discussion_driver": "Stifel downgraded Under Armour from Buy to Hold and slashed its price target from $9 to $6, citing a longer-than-expected turnaround, rising SG&A expenses, and mounting tariff headwinds; Truist Financial also cut its target to $5 the same day, following Q4 FY26 results where adjusted EPS showed a loss of $0.03, revenue fell 0.8% YoY, and gross margins contracted 360 bps to 43.1% from tariff impacts, promotions, and supply chain disruptions.",
-      "bull_case": [
-        "Under Armour trades at just 0.6x Price-to-Sales versus a peer average of 1.4x, a historically depressed valuation that could attract value investors or strategic acquirers if the brand shows even modest operational improvement in FY27.",
-        "A new management restructuring initiative and a potential resolution of U.S. tariff policy could stabilize margins; Under Armour retains strong brand recognition in performance athletic wear in North America, which could support a revenue recovery in a more favorable macro environment."
-      ],
-      "bear_case": [
-        "Stifel's downgrade reflects conviction that Under Armour's turnaround is structurally delayed — gross margin at 43.1% trails peers by 200-700 bps, SG&A is rising, and the company is shifting toward net debt rather than net cash, limiting financial flexibility.",
-        "Revenue has declined for multiple consecutive quarters and Under Armour continues to lose brand relevance with younger consumers against dominant competitors Nike and Lululemon; with Truist setting a $5 target at near-current prices, the downside scenario appears as likely as the recovery case."
-      ],
-      "recommendation": "Hold",
-      "current_price": "$5.03",
-      "price_target": "$6.48 (+28.8%)",
-      "pe_ratio": "N/A",
-      "rsi": "N/A",
-      "vs_52wk_high": "-38.3% below high ($8.15)",
-      "analyst_rating": "Hold",
-      "sector": "Consumer Discretionary - Athletic Apparel",
-      "sources": ["Benzinga", "StreetInsider", "Yahoo Finance", "Gurufocus", "StockObserver", "StockAnalysis"]
+      "vs_52wk_high": "-10.5% below high ($550.00)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Semiconductors - Process Control & Metrology Equipment",
+      "sources": ["Benzinga", "Globe and Mail", "Yahoo Finance", "Simply Wall St", "StockAnalysis", "StockTitan"]
     }
   ]
 }
