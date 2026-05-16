@@ -1,72 +1,116 @@
 {
-  "report_date": "2026-05-14",
+  "report_date": "2026-05-15",
   "batch": 3,
   "stocks": [
     {
-      "ticker": "GOOS",
-      "company": "Canada Goose Holdings Inc.",
-      "discussion_driver": "Canada Goose reported Q4 and full fiscal year 2026 results pre-market on May 14, showing Q4 revenue up 18% and DTC comparable sales growth of 10% — its fourth consecutive quarter of positive DTC comp growth. Despite the revenue beat, the stock trades near multi-year lows below all major moving averages, and fiscal 2027 guidance for only low-single-digit revenue growth with EBIT margins of 11-12% left investors cautious on the pace of recovery.",
+      "ticker": "AMD",
+      "company": "Advanced Micro Devices",
+      "discussion_driver": "AMD fell 5.7% as the hot April CPI print pushed 30-year Treasury yields above 5.1%, triggering broad profit-taking in high-valuation AI names and a 3%+ drop in the Philadelphia Semiconductor Index. Despite the session's selloff, AMD is up over 114% YTD on strong Q1 results (revenue +38% YoY to $10.25B) and a multi-year Meta GPU deployment deal worth up to 6GW of Instinct accelerators.",
       "bull_case": [
-        "Canada Goose's Q4 results demonstrated genuine traction in its year-round brand expansion, with DTC comparable sales growth of 10% and a larger wholesale order book confirming that the brand is broadening beyond its traditional winter-coat identity — supporting sustained revenue momentum into fiscal 2027.",
-        "Management is guiding for 'meaningful margin expansion' in fiscal 2027 through cost realignment, pricing actions already implemented, and new store openings, targeting adjusted EBIT margins of 11-12%; if executed, this could drive significant earnings leverage from a depressed base."
+        "AMD's MI450-powered Helios system and a landmark multi-year Meta agreement to deploy up to 6GW of Instinct GPUs position the company to capture meaningful AI data center GPU share in H2 2026; Q1 revenue grew 38% YoY and Q2 is guided at 46% growth.",
+        "The AI workload mix is shifting from training toward inference and agentic AI, improving the CPU-to-GPU ratio from 1:8 toward 1:1 — directly expanding AMD's high-margin EPYC server CPU opportunity and setting up potential gross margin expansion."
       ],
       "bear_case": [
-        "Fiscal 2027 guidance calls for only low-single-digit revenue growth, with management citing softer consumer demand, reduced confidence, and lower travel in key markets — headwinds that could worsen if the macro environment deteriorates further and discretionary spending declines.",
-        "The stock has persistently underperformed and trades well below all major moving averages near multi-year lows; with 4 analyst Sell ratings, a bearish $10 price target from Jefferies, and a stretched trailing P/E of 64x, the margin-expansion thesis carries significant execution risk and the stock remains vulnerable to further downside."
+        "Hyperscalers including Alphabet, Amazon, Nvidia, and Arm Holdings are all developing custom AI accelerators and data center CPUs, creating a competitive squeeze that could limit AMD's ability to sustain market share gains and premium pricing.",
+        "At a trailing GAAP P/E of ~149x and a stock price that has already outrun analyst consensus by ~8%, AMD's valuation leaves little margin of safety; a miss on the MI450 ramp or a macro-driven slowdown in AI capex could trigger a sharp de-rating."
       ],
       "recommendation": "Hold",
-      "current_price": "$11.93",
-      "price_target": "$13.93 (+16.8%)",
-      "pe_ratio": "64.18",
+      "current_price": "$430.98",
+      "price_target": "$395.65 (-8.2%)",
+      "pe_ratio": "149.49",
+      "rsi": "58.5",
+      "vs_52wk_high": "-8.1% below high ($469.22)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - Semiconductors",
+      "sources": ["Motley Fool", "Seeking Alpha", "Yahoo Finance", "CNBC", "MacroTrends", "StockAnalysis"]
+    },
+    {
+      "ticker": "COIN",
+      "company": "Coinbase Global",
+      "discussion_driver": "COIN dropped 7.6% after a brief CLARITY Act-driven rally faded; Q1 2026 results revealed a $394M net loss versus a consensus profit estimate, driven by a $482M crypto asset markdown and a 37% collapse in spot trading volumes, while simultaneous announcements of 14% workforce layoffs and an AWS service outage added further uncertainty about near-term recovery.",
+      "bull_case": [
+        "Coinbase's revenue diversification is gaining traction: retail derivatives are annualizing over $200M, prediction markets crossed $100M annualized in just two months, and USDC stablecoin market cap reached an $80B ATH; the stablecoin market could expand from $300B to $3T by 2030, supporting a long-term bull case with some 12-month targets as high as $477.",
+        "Passage of the CLARITY Act would provide major U.S. regulatory clarity for crypto, potentially unlocking institutional flows and positioning Coinbase as the dominant regulated on-ramp for a multi-trillion dollar asset class."
+      ],
+      "bear_case": [
+        "Coinbase's core business is tightly correlated with crypto market cycles; Q1 2026 transaction revenue fell 23% quarter-on-quarter as crypto market cap dropped 20%+, and higher-for-longer interest rates could suppress risk appetite and trading volumes for an extended period.",
+        "The Q1 earnings miss, simultaneous 14% layoff announcement, and AWS-related service outage in the same quarter create a credibility gap; customer trust and operational reliability concerns could accelerate user attrition to offshore exchanges."
+      ],
+      "recommendation": "Hold",
+      "current_price": "$193.26",
+      "price_target": "$304.12 (+57.4%)",
+      "pe_ratio": "40.35",
       "rsi": "N/A",
-      "vs_52wk_high": "-22.7% below high ($15.43)",
-      "analyst_rating": "Hold",
-      "sector": "Consumer Discretionary - Luxury Apparel",
-      "sources": ["BusinessWire", "Yahoo Finance", "Barchart", "TIKR", "Seeking Alpha", "Benzinga"]
+      "vs_52wk_high": "-56.5% below high ($444.65)",
+      "analyst_rating": "Buy",
+      "sector": "Financial Services - Cryptocurrency Exchange",
+      "sources": ["CNBC", "CryptoTimes", "BlockchainReporter", "SimplyWallSt", "CoinDCX", "24/7 Wall St."]
     },
     {
-      "ticker": "BA",
-      "company": "The Boeing Company",
-      "discussion_driver": "President Trump announced at the US-China trade summit on May 14 that China agreed to purchase 200 Boeing jets — the first major Chinese commercial aircraft order in nearly a decade — but the figure disappointed markets that had anticipated 500+ planes, sending BA shares down ~4.8% despite the historic geopolitical significance of the deal reopening the Chinese aviation market.",
+      "ticker": "ANET",
+      "company": "Arista Networks",
+      "discussion_driver": "Arista was the top analyst call on May 15 as Raymond James upgraded the stock to Outperform from Market Perform, setting a $164 price target on the basis of AI backend infrastructure demand growth and campus network share gains; the upgrade provided a bright spot amid the broad tech selloff, though ANET still declined 3.65% on the session as macro headwinds overwhelmed the positive catalyst.",
       "bull_case": [
-        "The 200-jet China order reestablishes Boeing's commercial foothold with Chinese carriers after years of trade-war-driven exclusion, and represents a foundation that could grow as diplomatic relations stabilize; combined with ~100-jet Vietnam orders announced earlier in 2026, Boeing's global backlog is strengthening materially.",
-        "Boeing's operational recovery is gaining credibility — 737 production is ramping toward 52/month, free cash flow is projected to scale toward $10 billion, and analysts maintain a Strong Buy consensus with a $269.75 mean price target, reflecting confidence that the company's 'kitchen sink' period is over."
+        "Raymond James projects Arista revenue growing 27.7% in 2026 to $11.5B, including $3.5B in AI fabric sales; approximately 40% of revenue comes from AI-related operations and Meta plus Microsoft collectively represent over 40% of total sales, embedding Arista deeply in the hyperscaler AI buildout.",
+        "Arista's campus networking segment is gaining traction alongside AI backend work, providing a second durable growth engine; the EOS software platform and Cognitive Campus initiative create high switching costs and recurring revenue streams that are difficult for competitors to displace."
       ],
       "bear_case": [
-        "The 200-jet order fell far short of the ~500-plane deal widely anticipated, and remains entirely contingent on US-China diplomacy that could unravel; Boeing also carries approximately $8 billion in debt maturing in 2026 and faces ongoing FAA production oversight embedded in its facilities.",
-        "Boeing's trailing P/E of 118x reflects razor-thin margins and financial fragility; any new quality control issue discovered by the FAA, a further 777X delay beyond 2027, or a resurgence in trade tensions could rapidly derail the recovery narrative and pressure the stock further."
-      ],
-      "recommendation": "Hold",
-      "current_price": "$229.13",
-      "price_target": "$269.75 (+17.7%)",
-      "pe_ratio": "118.22",
-      "rsi": "58.45",
-      "vs_52wk_high": "-9.9% below high ($254.35)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Industrials - Aerospace & Defense",
-      "sources": ["CNBC", "Bloomberg", "Yahoo Finance", "MarketBeat", "Motley Fool", "Simply Wall St"]
-    },
-    {
-      "ticker": "NVMI",
-      "company": "Nova Ltd.",
-      "discussion_driver": "Bank of America Securities raised its price target on Nova Ltd. to $612 from $510 (maintaining Buy) on May 14, citing strong AI-driven semiconductor capital spending that is accelerating demand for Nova's precision metrology and process control tools. The upgrade came on the heels of Nova's record Q1 2026 revenue of $235.3M and an all-time stock high reached in late April 2026, underscoring the company's central role in the AI chip manufacturing buildout.",
-      "bull_case": [
-        "Nova's metrology tools are becoming increasingly indispensable as chip complexity surges — AI chips, gate-all-around transistors, 3D stacking, and high-bandwidth memory all demand precision measurement that Nova specializes in, substantially expanding its total addressable market beyond traditional semiconductor volumes.",
-        "Nova posted record Q1 2026 revenue of $235.3M (+10% YoY) with robust 57.7% gross margins and guided Q2 non-GAAP EPS of $2.34-$2.48; the company is cash-generative with a 29.4% profit margin and accelerating revenue growth, supporting continued analyst confidence."
-      ],
-      "bear_case": [
-        "NVMI trades at a trailing P/E of ~64x — approximately twice what analysts consider a fair multiple — leaving the stock highly exposed to any slowdown in AI capex spending, semiconductor inventory correction, or deceleration in advanced-node investment by key customers.",
-        "Customer concentration is a key structural risk: a pause or deferral by one or two major customers such as TSMC or Samsung could sharply impair revenue visibility, and China-related export restrictions present a persistent regulatory overhang that could limit access to a significant portion of global wafer-fab spending."
+        "Supply chain constraints could limit Arista's ability to fulfill large AI infrastructure orders in 2026, potentially causing revenue slippage into 2027 and disappointing near-term expectations in a market with high valuation baked in.",
+        "Significant insider selling totaling $246.7M over the past three months raises questions about near-term upside conviction among those closest to the company; a trailing P/E of ~50x leaves limited room for execution shortfalls."
       ],
       "recommendation": "Buy",
-      "current_price": "$492.29",
-      "price_target": "$505.00 (+2.6%) consensus; BofA target $612.00",
-      "pe_ratio": "63.91",
-      "rsi": "N/A",
-      "vs_52wk_high": "-10.5% below high ($550.00)",
+      "current_price": "$147.81",
+      "price_target": "$181.41 (+22.7%)",
+      "pe_ratio": "50.53",
+      "rsi": "35.2",
+      "vs_52wk_high": "-17.8% below high ($179.80)",
       "analyst_rating": "Strong Buy",
-      "sector": "Semiconductors - Process Control & Metrology Equipment",
-      "sources": ["Benzinga", "Globe and Mail", "Yahoo Finance", "Simply Wall St", "StockAnalysis", "StockTitan"]
+      "sector": "Technology - Networking",
+      "sources": ["GuruFocus", "Seeking Alpha", "24/7 Wall St.", "Blockonomi", "TradingKey", "Raymond James via MarketScreener"]
+    },
+    {
+      "ticker": "KSS",
+      "company": "Kohl's Corporation",
+      "discussion_driver": "Kohl's extended its brutal 2026 downtrend, falling double digits on the week as April retail sales showed consumer spending deceleration and the SPDR S&P Retail ETF posted its worst weekly performance since October 2025 (-6%+); with Goldman Sachs and JPMorgan maintaining Sell ratings, the stock is down approximately 38.6% YTD and trading near multi-year lows.",
+      "bull_case": [
+        "Kohl's Sephora partnership surpassed $2B in annual sales and is attracting younger, higher-income shoppers, while new CEO Ashley Buchanan's Customer-Led Strategy aims to reclaim value-conscious middle-market shoppers through proprietary brands and aggressive pricing tiers.",
+        "At a P/E of just 5x and 53% below its 52-week high, the stock is deeply discounted; DCF analysis suggests intrinsic value between $47-$70 per share, and the closure of the de minimis loophole for Chinese imports could provide incremental revenue tailwind of up to $2B annually for domestic retailers."
+      ],
+      "bear_case": [
+        "Goldman Sachs and JPMorgan both downgraded KSS to Sell/Underperform in early 2026, citing the structural decline of the department store model as consumers permanently shift to e-commerce and specialty retailers — a trend with no visible reversal in comparable-store sales data.",
+        "Kohl's core low-to-middle income shoppers are the most economically sensitive cohort; rising gas prices, tariff-driven inflation, and softening April consumer spending data create a challenging macro backdrop with no clear near-term catalyst for a traffic recovery."
+      ],
+      "recommendation": "Sell",
+      "current_price": "$11.75",
+      "price_target": "$15.31 (+30.3%)",
+      "pe_ratio": "5.00",
+      "rsi": "N/A",
+      "vs_52wk_high": "-53.4% below high ($25.22)",
+      "analyst_rating": "Sell",
+      "sector": "Consumer Discretionary - Department Stores",
+      "sources": ["Goldman Sachs", "JPMorgan", "24/7 Wall St.", "FinanceCharts", "Yahoo Finance", "Wedbush Investor"]
+    },
+    {
+      "ticker": "MICC",
+      "company": "Magnum Ice Cream Company N.V.",
+      "discussion_driver": "Magnum Ice Cream surged ~11% in premarket trading after Reuters reported that Blackstone and CD&R are evaluating a potential private equity acquisition of the company, following a significant share price decline since its Unilever spinoff; company insiders (CLO and CCO) also purchased shares on May 13-14, and management separately reaffirmed 2026 guidance of 3-5% organic sales growth.",
+      "bull_case": [
+        "Private equity takeover interest from credible acquirers Blackstone and CD&R provides a near-term price floor and upside catalyst; insider buying from the CLO and CCO in the days immediately preceding the Reuters report signals internal confidence in the company's valuation.",
+        "Magnum Ice Cream holds a global portfolio of premium consumer ice cream brands with stable recurring demand, 3-5% organic sales growth guidance for 2026, and meaningful margin improvement potential as the company optimizes its standalone cost structure post-Unilever spinoff."
+      ],
+      "bear_case": [
+        "The takeover speculation may not materialize into a formal offer; Blackstone and CD&R are reportedly only 'watching' the stock with no confirmed acquisition process, leaving significant downside risk if deal rumors fade and the stock reverts toward pre-buzz levels.",
+        "As a recently spun-off company with limited independent operating history, MICC faces integration execution risks, standalone cost headwinds from lost Unilever synergies, and valuation risk at ~27x earnings; BNP Paribas downgraded to Neutral in April 2026 on valuation concerns."
+      ],
+      "recommendation": "Speculative Buy",
+      "current_price": "$16.59",
+      "price_target": "$17.01 (+2.5%)",
+      "pe_ratio": "27.81",
+      "rsi": "N/A",
+      "vs_52wk_high": "-16.2% below high ($19.80)",
+      "analyst_rating": "Hold",
+      "sector": "Consumer Staples - Food & Beverage",
+      "sources": ["CNBC", "Reuters", "Seeking Alpha", "GuruFocus", "MarketScreener", "StockTitan"]
     }
   ]
 }
