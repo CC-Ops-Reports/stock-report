@@ -1,164 +1,161 @@
 {
-  "report_date": "2026-05-18",
+  "report_date": "2026-05-19",
   "market_tone": "Bearish",
   "key_themes": [
-    "Rising Treasury yields: 10-year hits 4.6%, highest in a year, stoking inflation fears",
-    "Landmark NextEra-Dominion $66.8B utility mega-merger driven by AI data center power demand",
-    "Ad-tech consolidation: Publicis acquires LiveRamp in $2.5B all-cash deal",
-    "AI semiconductor momentum: Nvidia pre-earnings analyst upgrades, Micron target hikes",
-    "Crypto selloff: Bitcoin falls below $77K, pressuring Coinbase and Robinhood"
+    "30-year Treasury yield hits 19-year high above 5.19%, pressuring equities for third straight session",
+    "AI infrastructure mega-investment: Blackstone commits $5B to Google AI JV; Meta reassigns 7K workers to AI amid 8K layoffs",
+    "Earnings season continues: Home Depot, Amer Sports, Agilysys report; Nvidia earnings tomorrow (May 20) in focus"
   ],
   "sp500": {
-    "value": "7,370",
-    "change": "-0.5%"
+    "value": "7,353.61",
+    "change": "-0.67%"
   },
   "nasdaq": {
-    "value": "25,971",
-    "change": "-1.0%"
+    "value": "25,870.71",
+    "change": "-0.84%"
   },
   "stocks": [
     {
-      "ticker": "RAMP",
-      "company": "LiveRamp Holdings",
-      "reason": "Surged ~27% after Publicis Groupe announced $2.5B all-cash acquisition at $38.50/share, a 30% premium; deal accelerates AI-era data co-creation capabilities",
-      "category": "news",
+      "ticker": "HD",
+      "company": "Home Depot",
+      "reason": "Q1 earnings beat: EPS $3.43 vs $3.41 expected; revenue $41.77B vs $41.52B consensus \u2014 shares moved in premarket",
+      "category": "earnings",
       "sources": [
         "CNBC",
         "Bloomberg",
-        "Seeking Alpha",
-        "StockTitan"
+        "MarketScreener"
       ]
     },
     {
-      "ticker": "D",
-      "company": "Dominion Energy",
-      "reason": "Rose ~14% after NextEra Energy announced $66.8B all-stock-and-cash acquisition \u2014 largest utility deal in US history, fueled by AI data center power demand",
-      "category": "news",
-      "sources": [
-        "Bloomberg",
-        "Yahoo Finance",
-        "Washington Post",
-        "TheStreet"
-      ]
-    },
-    {
-      "ticker": "NEE",
-      "company": "NextEra Energy",
-      "reason": "Shares fell on dilution concerns as acquirer in $66.8B Dominion deal; combined entity would be world's largest regulated utility trading under NEE ticker",
-      "category": "news",
-      "sources": [
-        "Bloomberg",
-        "Yahoo Finance",
-        "TheStreet"
-      ]
-    },
-    {
-      "ticker": "REGN",
-      "company": "Regeneron Pharmaceuticals",
-      "reason": "Dropped ~11.4% after Phase 3 trial for metastatic melanoma failed to achieve statistical significance; Evercore ISI cut price target to $825 from $875",
-      "category": "news",
+      "ticker": "AS",
+      "company": "Amer Sports",
+      "reason": "Q1 earnings beat: EPS 38c vs 31c expected; revenue $1.95B vs $1.84B forecast \u2014 shares rose 2.9% premarket",
+      "category": "earnings",
       "sources": [
         "CNBC",
+        "Bloomberg"
+      ]
+    },
+    {
+      "ticker": "AGYS",
+      "company": "Agilysys",
+      "reason": "Q4 earnings double beat: EPS 63c vs 50c expected; revenue $82.94M vs $81.56M \u2014 17th consecutive record revenue quarter; stock surged ~16%",
+      "category": "earnings",
+      "sources": [
+        "Benzinga",
         "Bloomberg",
-        "GuruFocus"
+        "Yahoo Finance"
       ]
     },
     {
-      "ticker": "MBLY",
-      "company": "Mobileye Global",
-      "reason": "Fell ~8% after Jefferies initiated coverage at Underperform with $8 price target, implying 24% downside, citing structural threats and heavy Volkswagen Group customer concentration",
-      "category": "downgrade",
+      "ticker": "MRVL",
+      "company": "Marvell Technology",
+      "reason": "Shares popped ~6% as Evercore ISI raised price target to $155 from $133, reiterating Outperform on AI chip demand outlook",
+      "category": "upgrade",
       "sources": [
-        "CNBC",
-        "Yahoo Finance",
-        "Investing.com"
-      ]
-    },
-    {
-      "ticker": "NBIS",
-      "company": "Nebius Group",
-      "reason": "Dropped ~9% after DA Davidson downgraded to Neutral from Buy; stock had surged recently on 684% revenue growth and $20-25B capex guidance for AI infrastructure",
-      "category": "downgrade",
-      "sources": [
-        "Seeking Alpha",
-        "Robinhood Markets Data",
         "CNBC"
       ]
     },
     {
       "ticker": "MU",
       "company": "Micron Technology",
-      "reason": "Gained ~4.7% on wave of AI memory analyst upgrades: Deutsche Bank raised target to $1,000, CFRA lifted to $900; HBM capacity sold out through 2026 on AI demand",
-      "category": "upgrade",
+      "reason": "Shares bounced 4%+ snapping a three-day losing streak; memory sector recovering amid AI infrastructure spending tailwinds",
+      "category": "sector",
       "sources": [
-        "24/7 Wall St.",
-        "MarketBeat",
+        "CNBC",
         "Seeking Alpha"
       ]
     },
     {
-      "ticker": "NVDA",
-      "company": "NVIDIA Corporation",
-      "reason": "Multiple analyst upgrades ahead of Wednesday earnings: KeyBanc raised target to $300, Morgan Stanley to $285, DA Davidson to $300; Blackwell GPU demand and Rubin roadmap cited",
-      "category": "upgrade",
+      "ticker": "AKAM",
+      "company": "Akamai Technologies",
+      "reason": "Shares tumbled ~4% after company announced proposed $2.6B convertible senior notes offering, diluting existing shareholders",
+      "category": "news",
+      "sources": [
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "SHAK",
+      "company": "Shake Shack",
+      "reason": "Shares rose ~5.5% on strong insider buying: CEO Robert Lynch and founder-chair Daniel Meyer purchased ~37,300 shares ($2.3M) on May 15",
+      "category": "news",
       "sources": [
         "CNBC",
-        "TheStreet",
-        "24/7 Wall St.",
+        "Timothy Sykes / Tikr",
         "Benzinga"
       ]
     },
     {
-      "ticker": "COIN",
-      "company": "Coinbase Global",
-      "reason": "Fell ~4.4% as Bitcoin slid below $77,000, down nearly 5% on the week; $1B+ in digital asset investment product outflows in prior week reversed recent regulatory-optimism rally",
-      "category": "sector",
+      "ticker": "NOW",
+      "company": "ServiceNow",
+      "reason": "Bank of America reinstated coverage at Buy with $130 PT, calling it \"workflow giant built for the agentic AI era\"; shares surged ~8.9%",
+      "category": "upgrade",
       "sources": [
-        "CNBC",
-        "Yahoo Finance",
-        "24/7 Wall St."
-      ]
-    },
-    {
-      "ticker": "HOOD",
-      "company": "Robinhood Markets",
-      "reason": "Declined alongside Coinbase as Bitcoin fell below $77K; retail crypto trading platform sensitive to crypto price swings that dampen trading activity and revenue",
-      "category": "sector",
-      "sources": [
-        "CNBC",
+        "TheStreet",
+        "247WallSt",
         "Yahoo Finance"
       ]
     },
     {
-      "ticker": "CTSH",
-      "company": "Cognizant Technology Solutions",
-      "reason": "Rose ~7% after doubling its 2026 share repurchase target to approximately $2B, signaling management confidence; buyback expansion seen as shareholder-friendly capital return",
+      "ticker": "BX",
+      "company": "Blackstone",
+      "reason": "Announced $5B equity investment in new AI infrastructure JV with Google; shares gained 0.7% premarket on deal enthusiasm",
       "category": "news",
       "sources": [
         "CNBC",
-        "Yahoo Finance"
+        "Bloomberg"
       ]
     },
     {
-      "ticker": "NU",
-      "company": "Nu Holdings",
-      "reason": "Rose modestly after record Q1 2026 results: $871M net income (+41% YoY), first-ever $5B+ revenue quarter, Mexico reached break-even ahead of plan; stock had initially dropped on elevated credit provisions",
-      "category": "earnings",
-      "sources": [
-        "Yahoo Finance",
-        "StockTitan",
-        "TIKR"
-      ]
-    },
-    {
-      "ticker": "VIK",
-      "company": "Viking Holdings",
-      "reason": "Analyst coverage wave with multiple price target raises (JPMorgan to $112, Susquehanna to $105, Stifel to $105, Citi to $101) following solid Q1 revenue of $1.05B, up 17.5% YoY",
-      "category": "upgrade",
+      "ticker": "GOOGL",
+      "company": "Alphabet",
+      "reason": "Featured as premarket mover; Blackstone-Google AI infrastructure JV announced; shares down 1.76% amid broad tech selloff",
+      "category": "news",
       "sources": [
         "CNBC",
-        "StockStory",
+        "Bloomberg",
         "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "reason": "Earnings due May 20 after close dominating market conversation; analysts expect EPS $1.78 (+120% YoY) on $79.2B revenue; stock up 1.77% AH",
+      "category": "earnings",
+      "sources": [
+        "Motley Fool",
+        "Kiplinger",
+        "Intellectia AI"
+      ]
+    },
+    {
+      "ticker": "META",
+      "company": "Meta Platforms",
+      "reason": "Announced layoffs of 8,000 workers with 7,000 reassigned to AI divisions (Superintelligence Labs); $145B 2026 capex plan; stock ~$611",
+      "category": "news",
+      "sources": [
+        "Bloomberg",
+        "CNBC",
+        "TechRepublic"
+      ]
+    },
+    {
+      "ticker": "MMM",
+      "company": "3M",
+      "reason": "Top gainer of the session, surging 3.70% to $148.62 following a significant legal breakthrough related to ongoing litigation settlements",
+      "category": "news",
+      "sources": [
+        "StockMarketWatch"
+      ]
+    },
+    {
+      "ticker": "IBM",
+      "company": "IBM",
+      "reason": "Led laggards, tumbling 2.42% to $213.40 after reporting a slowdown in enterprise cloud contracts, raising concerns about AI transition pace",
+      "category": "news",
+      "sources": [
+        "StockMarketWatch"
       ]
     }
   ]
