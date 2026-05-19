@@ -1,116 +1,72 @@
 {
-  "report_date": "2026-05-15",
+  "report_date": "2026-05-18",
   "batch": 3,
   "stocks": [
     {
-      "ticker": "AMD",
-      "company": "Advanced Micro Devices",
-      "discussion_driver": "AMD fell 5.7% as the hot April CPI print pushed 30-year Treasury yields above 5.1%, triggering broad profit-taking in high-valuation AI names and a 3%+ drop in the Philadelphia Semiconductor Index. Despite the session's selloff, AMD is up over 114% YTD on strong Q1 results (revenue +38% YoY to $10.25B) and a multi-year Meta GPU deployment deal worth up to 6GW of Instinct accelerators.",
+      "ticker": "CTSH",
+      "company": "Cognizant Technology Solutions",
+      "discussion_driver": "Cognizant doubled its 2026 share repurchase target to $2B and announced an additional $2B authorization on May 18, sending the stock up ~7%. CEO Ravi Kumar stated the current price 'significantly undervalues' the company's AI-era prospects, signaling strong conviction in the long-term opportunity AI creates for IT services.",
       "bull_case": [
-        "AMD's MI450-powered Helios system and a landmark multi-year Meta agreement to deploy up to 6GW of Instinct GPUs position the company to capture meaningful AI data center GPU share in H2 2026; Q1 revenue grew 38% YoY and Q2 is guided at 46% growth.",
-        "The AI workload mix is shifting from training toward inference and agentic AI, improving the CPU-to-GPU ratio from 1:8 toward 1:1 — directly expanding AMD's high-margin EPYC server CPU opportunity and setting up potential gross margin expansion."
+        "The $2B buyback expansion at a depressed ~10x trailing P/E — well below IT service peers — is highly accretive and signals management confidence; the CEO's explicit statement that the stock is 'significantly undervalued' supports the view that aggressive capital return is a direct response to a dislocation between intrinsic value and market price.",
+        "Cognizant is strategically positioned for enterprise AI adoption with a durable outsourcing business model; 40 Wall Street analysts maintain a median price target of $83, implying over 65% upside from current levels and suggesting the market has overly discounted near-term IT sector headwinds."
       ],
       "bear_case": [
-        "Hyperscalers including Alphabet, Amazon, Nvidia, and Arm Holdings are all developing custom AI accelerators and data center CPUs, creating a competitive squeeze that could limit AMD's ability to sustain market share gains and premium pricing.",
-        "At a trailing GAAP P/E of ~149x and a stock price that has already outrun analyst consensus by ~8%, AMD's valuation leaves little margin of safety; a miss on the MI450 ramp or a macro-driven slowdown in AI capex could trigger a sharp de-rating."
+        "CTSH trades 42% below its 52-week high with bearish technical signals across multiple moving averages; the IT services sector faces a structural threat from AI automation that could reduce demand for traditional outsourcing, which remains the core of Cognizant's revenue model.",
+        "Revenue growth has lagged faster-moving competitors, and the buyback expansion may reflect a scarcity of higher-return reinvestment opportunities rather than pure confidence — the 15 Hold vs. 13 Buy analyst split reflects widespread caution about near-term catalysts for meaningful re-rating."
       ],
       "recommendation": "Hold",
-      "current_price": "$430.98",
-      "price_target": "$395.65 (-8.2%)",
-      "pe_ratio": "149.49",
-      "rsi": "58.5",
-      "vs_52wk_high": "-8.1% below high ($469.22)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Semiconductors",
-      "sources": ["Motley Fool", "Seeking Alpha", "Yahoo Finance", "CNBC", "MacroTrends", "StockAnalysis"]
+      "current_price": "$50.07",
+      "price_target": "$83.00 (+65.8%)",
+      "pe_ratio": "10.22",
+      "rsi": "49.1",
+      "vs_52wk_high": "-42.5% below high ($87.03)",
+      "analyst_rating": "Hold",
+      "sector": "Information Technology - IT Services",
+      "sources": ["StockTitan", "TipRanks", "Insider Monkey", "MarketBeat", "Investing.com", "CNBC", "Yahoo Finance"]
     },
     {
-      "ticker": "COIN",
-      "company": "Coinbase Global",
-      "discussion_driver": "COIN dropped 7.6% after a brief CLARITY Act-driven rally faded; Q1 2026 results revealed a $394M net loss versus a consensus profit estimate, driven by a $482M crypto asset markdown and a 37% collapse in spot trading volumes, while simultaneous announcements of 14% workforce layoffs and an AWS service outage added further uncertainty about near-term recovery.",
+      "ticker": "NU",
+      "company": "Nu Holdings",
+      "discussion_driver": "Nu Holdings reported record Q1 2026 results — $871M net income (+41% YoY) and its first-ever $5B+ revenue quarter — with Mexico reaching break-even ahead of plan. Despite the beat, the stock declined as investors focused on elevated credit provisions and a rapidly expanding loan book ($37.2B, up 54% YoY), raising credit quality concerns in Brazil's high interest rate environment.",
       "bull_case": [
-        "Coinbase's revenue diversification is gaining traction: retail derivatives are annualizing over $200M, prediction markets crossed $100M annualized in just two months, and USDC stablecoin market cap reached an $80B ATH; the stablecoin market could expand from $300B to $3T by 2030, supporting a long-term bull case with some 12-month targets as high as $477.",
-        "Passage of the CLARITY Act would provide major U.S. regulatory clarity for crypto, potentially unlocking institutional flows and positioning Coinbase as the dominant regulated on-ramp for a multi-trillion dollar asset class."
+        "Nu's 131M customer base, 41% net income growth, and first-ever $5B+ revenue quarter confirm exceptional operating scale; Mexico breaking even ahead of schedule and conditional OCC approval in January 2026 opening US market optionality provide multiple durable growth runways beyond the core Brazil business.",
+        "With 21 analysts rating NU a Strong Buy and an average price target of $19.49 implying over 60% upside, institutional conviction in Nu's compounding ARPAC growth trajectory remains high — the current selloff represents a potential entry point as the market overweights near-term credit concerns relative to the long-term digital banking disruption thesis."
       ],
       "bear_case": [
-        "Coinbase's core business is tightly correlated with crypto market cycles; Q1 2026 transaction revenue fell 23% quarter-on-quarter as crypto market cap dropped 20%+, and higher-for-longer interest rates could suppress risk appetite and trading volumes for an extended period.",
-        "The Q1 earnings miss, simultaneous 14% layoff announcement, and AWS-related service outage in the same quarter create a credibility gap; customer trust and operational reliability concerns could accelerate user attrition to offshore exchanges."
-      ],
-      "recommendation": "Hold",
-      "current_price": "$193.26",
-      "price_target": "$304.12 (+57.4%)",
-      "pe_ratio": "40.35",
-      "rsi": "N/A",
-      "vs_52wk_high": "-56.5% below high ($444.65)",
-      "analyst_rating": "Buy",
-      "sector": "Financial Services - Cryptocurrency Exchange",
-      "sources": ["CNBC", "CryptoTimes", "BlockchainReporter", "SimplyWallSt", "CoinDCX", "24/7 Wall St."]
-    },
-    {
-      "ticker": "ANET",
-      "company": "Arista Networks",
-      "discussion_driver": "Arista was the top analyst call on May 15 as Raymond James upgraded the stock to Outperform from Market Perform, setting a $164 price target on the basis of AI backend infrastructure demand growth and campus network share gains; the upgrade provided a bright spot amid the broad tech selloff, though ANET still declined 3.65% on the session as macro headwinds overwhelmed the positive catalyst.",
-      "bull_case": [
-        "Raymond James projects Arista revenue growing 27.7% in 2026 to $11.5B, including $3.5B in AI fabric sales; approximately 40% of revenue comes from AI-related operations and Meta plus Microsoft collectively represent over 40% of total sales, embedding Arista deeply in the hyperscaler AI buildout.",
-        "Arista's campus networking segment is gaining traction alongside AI backend work, providing a second durable growth engine; the EOS software platform and Cognitive Campus initiative create high switching costs and recurring revenue streams that are difficult for competitors to displace."
-      ],
-      "bear_case": [
-        "Supply chain constraints could limit Arista's ability to fulfill large AI infrastructure orders in 2026, potentially causing revenue slippage into 2027 and disappointing near-term expectations in a market with high valuation baked in.",
-        "Significant insider selling totaling $246.7M over the past three months raises questions about near-term upside conviction among those closest to the company; a trailing P/E of ~50x leaves limited room for execution shortfalls."
-      ],
-      "recommendation": "Buy",
-      "current_price": "$147.81",
-      "price_target": "$181.41 (+22.7%)",
-      "pe_ratio": "50.53",
-      "rsi": "35.2",
-      "vs_52wk_high": "-17.8% below high ($179.80)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Technology - Networking",
-      "sources": ["GuruFocus", "Seeking Alpha", "24/7 Wall St.", "Blockonomi", "TradingKey", "Raymond James via MarketScreener"]
-    },
-    {
-      "ticker": "KSS",
-      "company": "Kohl's Corporation",
-      "discussion_driver": "Kohl's extended its brutal 2026 downtrend, falling double digits on the week as April retail sales showed consumer spending deceleration and the SPDR S&P Retail ETF posted its worst weekly performance since October 2025 (-6%+); with Goldman Sachs and JPMorgan maintaining Sell ratings, the stock is down approximately 38.6% YTD and trading near multi-year lows.",
-      "bull_case": [
-        "Kohl's Sephora partnership surpassed $2B in annual sales and is attracting younger, higher-income shoppers, while new CEO Ashley Buchanan's Customer-Led Strategy aims to reclaim value-conscious middle-market shoppers through proprietary brands and aggressive pricing tiers.",
-        "At a P/E of just 5x and 53% below its 52-week high, the stock is deeply discounted; DCF analysis suggests intrinsic value between $47-$70 per share, and the closure of the de minimis loophole for Chinese imports could provide incremental revenue tailwind of up to $2B annually for domestic retailers."
-      ],
-      "bear_case": [
-        "Goldman Sachs and JPMorgan both downgraded KSS to Sell/Underperform in early 2026, citing the structural decline of the department store model as consumers permanently shift to e-commerce and specialty retailers — a trend with no visible reversal in comparable-store sales data.",
-        "Kohl's core low-to-middle income shoppers are the most economically sensitive cohort; rising gas prices, tariff-driven inflation, and softening April consumer spending data create a challenging macro backdrop with no clear near-term catalyst for a traffic recovery."
-      ],
-      "recommendation": "Sell",
-      "current_price": "$11.75",
-      "price_target": "$15.31 (+30.3%)",
-      "pe_ratio": "5.00",
-      "rsi": "N/A",
-      "vs_52wk_high": "-53.4% below high ($25.22)",
-      "analyst_rating": "Sell",
-      "sector": "Consumer Discretionary - Department Stores",
-      "sources": ["Goldman Sachs", "JPMorgan", "24/7 Wall St.", "FinanceCharts", "Yahoo Finance", "Wedbush Investor"]
-    },
-    {
-      "ticker": "MICC",
-      "company": "Magnum Ice Cream Company N.V.",
-      "discussion_driver": "Magnum Ice Cream surged ~11% in premarket trading after Reuters reported that Blackstone and CD&R are evaluating a potential private equity acquisition of the company, following a significant share price decline since its Unilever spinoff; company insiders (CLO and CCO) also purchased shares on May 13-14, and management separately reaffirmed 2026 guidance of 3-5% organic sales growth.",
-      "bull_case": [
-        "Private equity takeover interest from credible acquirers Blackstone and CD&R provides a near-term price floor and upside catalyst; insider buying from the CLO and CCO in the days immediately preceding the Reuters report signals internal confidence in the company's valuation.",
-        "Magnum Ice Cream holds a global portfolio of premium consumer ice cream brands with stable recurring demand, 3-5% organic sales growth guidance for 2026, and meaningful margin improvement potential as the company optimizes its standalone cost structure post-Unilever spinoff."
-      ],
-      "bear_case": [
-        "The takeover speculation may not materialize into a formal offer; Blackstone and CD&R are reportedly only 'watching' the stock with no confirmed acquisition process, leaving significant downside risk if deal rumors fade and the stock reverts toward pre-buzz levels.",
-        "As a recently spun-off company with limited independent operating history, MICC faces integration execution risks, standalone cost headwinds from lost Unilever synergies, and valuation risk at ~27x earnings; BNP Paribas downgraded to Neutral in April 2026 on valuation concerns."
+        "The loan book surged 54% YoY to $37.2B while non-performing loans rose from $2.0B to $3.0B; expected credit loss exposure stands at $5.0B — elevated credit risk in Brazil amid persistently high interest rates and potential economic slowdown could force higher provisions and compress net interest margins.",
+        "The stock has fallen 36% from its January 2026 52-week high of $18.98 and declined 21% in the past month despite strong headline earnings, signaling that market skepticism around Brazil macro exposure, peso headwinds, and deposit-pricing competition with incumbents is consistently outweighing growth metrics."
       ],
       "recommendation": "Speculative Buy",
-      "current_price": "$16.59",
-      "price_target": "$17.01 (+2.5%)",
-      "pe_ratio": "27.81",
-      "rsi": "N/A",
-      "vs_52wk_high": "-16.2% below high ($19.80)",
-      "analyst_rating": "Hold",
-      "sector": "Consumer Staples - Food & Beverage",
-      "sources": ["CNBC", "Reuters", "Seeking Alpha", "GuruFocus", "MarketScreener", "StockTitan"]
+      "current_price": "$12.13",
+      "price_target": "$18.46 (+52.2%)",
+      "pe_ratio": "21.62",
+      "rsi": "54.4",
+      "vs_52wk_high": "-36.1% below high ($18.98)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Financials - Digital Banking",
+      "sources": ["24/7 Wall St.", "Simply Wall St", "StockTitan", "Yahoo Finance", "GuruFocus", "MarketBeat", "Tickeron"]
+    },
+    {
+      "ticker": "VIK",
+      "company": "Viking Holdings",
+      "discussion_driver": "Viking Holdings received a wave of analyst price target raises (JPMorgan to $112, Susquehanna to $105, Stifel to $105, Citi to $101, Goldman Sachs to $95) following Q1 2026 revenue of $1.05B (+17.5% YoY) and 2027 bookings running 31% ahead of the prior year's pace. The stock hit a new 52-week high amid a simultaneous CEO transition that was well-received by investors.",
+      "bull_case": [
+        "Viking's 2027 season is already 38% booked with capacity growing 15%, and ocean bookings are pacing at $882 per passenger cruise day vs. $786 for 2026 at the same point — accelerating pricing alongside advance booking momentum signals durable pricing power and resilient consumer demand for premium expedition-style cruising.",
+        "The company holds $4B in cash with no bond maturities until after 2027, providing ample financial flexibility for fleet expansion; adjusted EBITDA improved 44% YoY in Q1 2026, and 10 analyst buy signals with zero sell signals on technical indicators reflect broad institutional confidence in the growth trajectory."
+      ],
+      "bear_case": [
+        "Viking's River segment saw 8% capacity declines in Q1 and experienced brief booking softness following macroeconomic disruptions; temporary Egypt itinerary suspensions and transatlantic air cost increases represent near-term headwinds to adjusted gross margins that could pressure near-term earnings.",
+        "At a 32x trailing P/E near its 52-week high, the stock has limited margin for error — any deterioration in discretionary luxury travel spending, geopolitical disruptions to itineraries, or broader macro slowdown could trigger significant multiple compression from current elevated levels."
+      ],
+      "recommendation": "Buy",
+      "current_price": "$84.11",
+      "price_target": "$105.00 (+24.8%)",
+      "pe_ratio": "32.45",
+      "rsi": "62.4",
+      "vs_52wk_high": "-3.7% below high ($87.31)",
+      "analyst_rating": "Buy",
+      "sector": "Consumer Discretionary - Travel & Cruise",
+      "sources": ["TIKR", "Barchart", "Motley Fool", "JPMorgan", "Susquehanna", "Stifel", "Citi", "Goldman Sachs", "Benzinga", "StockTitan"]
     }
   ]
 }
