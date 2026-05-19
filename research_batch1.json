@@ -1,130 +1,132 @@
 {
-  "report_date": "2026-05-13",
+  "report_date": "2026-05-18",
   "batch": 1,
-  "market_tone": "Mixed",
+  "market_tone": "Bearish",
   "key_themes": [
-    "Trump-Xi summit in Beijing with tech CEOs (Huang, Cook, Musk) driving semiconductor and AI optimism",
-    "Hot PPI inflation data (6% YoY) spooks rates-sensitive sectors while tech/AI stocks surge to record highs",
-    "AI infrastructure spending boom: Cisco, Nebius, and others beat on surging AI demand"
+    "Rising Treasury yields: 10-year hits 4.6%, highest in a year, stoking inflation fears",
+    "Landmark NextEra-Dominion $66.8B utility mega-merger driven by AI data center power demand",
+    "Ad-tech consolidation: Publicis acquires LiveRamp in $2.5B all-cash deal",
+    "AI semiconductor momentum: Nvidia pre-earnings analyst upgrades, Micron target hikes",
+    "Crypto selloff: Bitcoin falls below $77K, pressuring Coinbase and Robinhood"
   ],
   "sp500": {
-    "value": "7,444.25",
-    "change": "+0.58%"
+    "value": "7,370",
+    "change": "-0.5%"
   },
   "nasdaq": {
-    "value": "26,402.34",
-    "change": "+1.20%"
+    "value": "25,971",
+    "change": "-1.0%"
   },
   "stocks": [
     {
-      "ticker": "CSCO",
-      "company": "Cisco Systems",
-      "discussion_driver": "Cisco's Q3 FY2026 earnings—EPS $1.06 vs $1.04 expected, revenue $15.84B vs $15.56B estimated—drove a 17% after-hours surge, the sharpest post-earnings rally since 2002. AI hyperscaler orders hit $1.9B in Q3 alone (vs $600M a year prior), pushing the FY YTD total to $5.3B and already surpassing the full-year $5B target with one quarter remaining. FY26 AI order guidance was raised to $9B.",
+      "ticker": "RAMP",
+      "company": "LiveRamp Holdings",
+      "discussion_driver": "Publicis Groupe announced an all-cash acquisition of LiveRamp at $38.50/share (~$2.5B equity value), a ~30% premium to the May 15 close. The deal is driven by AI-era data collaboration strategy and would take LiveRamp private. Shares surged ~27% to $37.90, hitting a new 52-week high. Both boards unanimously approved; closing expected by mid-2027 pending regulatory sign-off.",
       "bull_case": [
-        "AI infrastructure orders from hyperscalers grew 3x year-over-year to $1.9B in Q3, with the full-year target already exceeded—demonstrating Cisco has become a central beneficiary of the data center build-out cycle with compounding order momentum.",
-        "Q4 FY2026 guidance of $16.7B–$16.9B in revenue and $1.16–$1.18 in adjusted EPS signals continued acceleration; CEO Chuck Robbins cited 'very strong, broad-based demand,' and Cisco's deep networking expertise gives it durable competitive positioning in AI interconnects."
+        "The $38.50/share acquisition price locks in a ~27% premium for existing shareholders with unanimous board approval; Publicis gains LiveRamp's industry-leading identity resolution and data collaboration platform to power AI-driven marketing for its global client base.",
+        "LiveRamp's data connectivity infrastructure is mission-critical for advertising in a post-cookie world; Publicis's deep client relationships and global distribution accelerate monetization of the platform well beyond what standalone LiveRamp could achieve."
       ],
       "bear_case": [
-        "Cisco is cutting approximately 4,000 jobs as part of ongoing restructuring, introducing near-term execution risk and one-time charges that could weigh on free cash flow even as the AI narrative drives enthusiasm.",
-        "The pre-earnings analyst consensus price target of $90 (median) now sits 11.6% below the after-hours price; while upward revisions are expected, the sharp post-earnings gap increases the risk of near-term profit-taking once initial euphoria fades."
-      ],
-      "recommendation": "Buy",
-      "current_price": "$101.87",
-      "price_target": "$90.00 (-11.6%; pre-earnings consensus, upward revision expected; high-end target $110)",
-      "pe_ratio": "25.07",
-      "rsi": "54.61",
-      "vs_52wk_high": "+1.9% above prior high ($99.93); new 52-week high set in after-hours",
-      "analyst_rating": "Strong Buy",
-      "sector": "Technology - Networking",
-      "sources": ["CNBC", "Benzinga", "MarketBeat", "investor.cisco.com", "Bloomberg"]
-    },
-    {
-      "ticker": "NBIS",
-      "company": "Nebius Group",
-      "discussion_driver": "Nebius posted Q1 2026 revenue of $399M—a 684% year-over-year surge beating the $371M consensus—alongside $621M in net income. The company simultaneously announced a new 1.2 GW AI data center campus in Pennsylvania with over 3.5 GW of contracted power capacity secured (first 250–300 MW online by end of 2027). The stock surged ~17% in one of the most dramatic AI infrastructure earnings beats this season.",
-      "bull_case": [
-        "Q1 2026 revenue grew 684% YoY and 75% QoQ to $399M, beating estimates by ~7.4%; the Pennsylvania AI factory secures massive power capacity through 2030, providing the physical infrastructure runway to sustain this extraordinary growth trajectory.",
-        "As AI labs and enterprises seek alternatives to hyperscaler lock-in, Nebius's specialized GPU clusters and independent platform position it as a compelling partner—Bank of America raised its price target to $205 (from $175) citing exactly this competitive differentiation."
-      ],
-      "bear_case": [
-        "The stock is trading above most analyst price targets ($168.50 average; even BofA's revised $205 target is at or below current price), suggesting near-term growth expectations may already be fully reflected after the 17% surge.",
-        "Despite Q1 profitability, prior-quarter operating losses, high financial leverage, and deeply negative free cash flow mean Nebius remains dependent on capital markets to fund aggressive expansion—creating dilution and execution risk at scale."
-      ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$206.05",
-      "price_target": "$168.50 (-18.2%; avg of 12 analysts; BofA raised to $205)",
-      "pe_ratio": "351.40",
-      "rsi": "61.33",
-      "vs_52wk_high": "-3.9% below high ($214.44)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Technology - AI Cloud Infrastructure",
-      "sources": ["Motley Fool", "TipRanks", "Yahoo Finance", "StockTitan", "Blockspace Media", "BofA Securities"]
-    },
-    {
-      "ticker": "WOLF",
-      "company": "Wolfspeed",
-      "discussion_driver": "Thematic research firm Citrini issued a bullish note calling Wolfspeed significantly undervalued relative to its strategic silicon carbide manufacturing footprint, sending the stock up ~23% to a new all-time high. Wolfspeed—which emerged from bankruptcy roughly a year ago—has now surged over 180% in 2026, spotlighting silicon carbide semiconductors as a critical enabler for EV drivetrains and power-efficient systems. The Citrini thesis diverges sharply from the institutional analyst consensus, which remains Sell.",
-      "bull_case": [
-        "Wolfspeed holds one of the world's largest silicon carbide manufacturing footprints; as EV adoption accelerates and power-efficient chips gain strategic importance, the company's physical assets may be undervalued relative to replacement cost—the core of Citrini's upgrade thesis.",
-        "Post-bankruptcy restructuring has cleaned up the balance sheet, and Q3 losses narrowed 58% year-over-year, suggesting the company is moving toward a financial inflection point even as revenue remains under near-term pressure."
-      ],
-      "bear_case": [
-        "Wall Street maintains a Sell consensus with an average price target of ~$20 (vs. ~$53 current), underpinned by persistent losses (FY2026 EPS forecast: -$7.34), an 18.9% revenue decline YoY, and lingering uncertainty about when silicon carbide demand will materially recover.",
-        "The enormous gap between Citrini's strategic-value thesis and institutional analyst targets creates binary risk—if EV demand stays sluggish or a better-capitalized competitor captures market share, the stock could rapidly give back a large portion of its 2026 gains."
-      ],
-      "recommendation": "Speculative Buy",
-      "current_price": "~$53.72",
-      "price_target": "~$20.00 (-62.8%; Sell consensus; Citrini upgrade not yet reflected in Wall St. targets)",
-      "pe_ratio": "N/A",
-      "rsi": "N/A",
-      "vs_52wk_high": "At new all-time high ($53.72, set today on +23% surge)",
-      "analyst_rating": "Sell (Wall Street consensus; Citrini research upgrade as today's catalyst)",
-      "sector": "Technology - Semiconductors (Silicon Carbide)",
-      "sources": ["Rolling Out", "TheStreet", "MarketBeat", "WallStreetZen", "Yahoo Finance", "Investing.com"]
-    },
-    {
-      "ticker": "DOCS",
-      "company": "Doximity",
-      "discussion_driver": "Doximity's Q4 FY2026 earnings missed on EPS ($0.26 vs $0.28 expected) and FY27 revenue guidance of $664–676M badly undershot the $697M–725M consensus—implying growth decelerating from 9.8% to potentially mid-single digits. The stock plunged ~19.6% in after-hours to ~$18.81, breaking below its 52-week low of $20.55 and entering price discovery territory. Despite 800,000+ active prescribers using AI workflow tools, the market sharply re-rated the growth story.",
-      "bull_case": [
-        "Doximity maintains a dominant position in physician networking and digital healthcare marketing with 800,000+ active prescribers—a durable platform moat that the current post-earnings sell-off may be overstating as a permanent structural concern.",
-        "At an RSI of 25.81 (deeply oversold) and an analyst average price target of $45.86 vs. the after-hours price of ~$18.81, mean-reversion potential is substantial if Doximity can stabilize revenue or beat next quarter's reset expectations."
-      ],
-      "bear_case": [
-        "The FY27 guidance miss of roughly $20–50M vs. consensus signals that pharmaceutical marketing budgets are tightening in ways that may persist, undermining the core revenue driver and raising doubts about whether the platform can sustain even mid-single-digit growth.",
-        "The stock has broken below its 52-week low of $20.55 and entered price discovery territory with no clear technical support; further analyst downgrades and price target cuts are likely as sell-side models are reset to the lower growth baseline."
+        "Deal carries regulatory risk — CFIUS review, antitrust clearance, and shareholder approval are all required; any challenge could delay or terminate the transaction, with the merger required to close by May 2027 or trigger a $32.35M termination fee.",
+        "If the deal collapses, RAMP shares would likely revert to pre-announcement levels near $29, representing roughly 24% downside from current trading near $37.90, eliminating the entire acquisition premium."
       ],
       "recommendation": "Hold",
-      "current_price": "$18.81",
-      "price_target": "$45.86 (+143.8%)",
-      "pe_ratio": "23.31",
-      "rsi": "25.81 (deeply oversold)",
-      "vs_52wk_high": "-75.4% below high ($76.51)",
+      "current_price": "$37.90",
+      "price_target": "$38.50 (+1.6%)",
+      "pe_ratio": "27.55",
+      "rsi": "N/A",
+      "vs_52wk_high": "-0.1% below high ($37.95)",
       "analyst_rating": "Buy",
-      "sector": "Healthcare Technology",
-      "sources": ["Benzinga", "Motley Fool", "StockTitan", "TheStreet", "StockAnalysis", "CNBC"]
+      "sector": "Technology - Data Management / Ad Tech",
+      "sources": ["StockTitan", "GuruFocus", "TipRanks", "Benzinga", "AdExchanger", "Quiver Quant"]
     },
     {
-      "ticker": "BABA",
-      "company": "Alibaba Group",
-      "discussion_driver": "Alibaba's Q4 FY2026 earnings showed core adjusted EBITDA plunging 84% YoY as heavy AI and cloud capital expenditures weighed on profitability, sending the stock down ~9% on the day. Despite the miss, analysts maintain a Strong Buy consensus with a $185.15 average price target (27.6% upside). The Trump-Xi Beijing summit—attended by tech CEOs including Jensen Huang—provides a near-term geopolitical catalyst for Chinese ADRs if trade tensions continue to ease.",
+      "ticker": "D",
+      "company": "Dominion Energy",
+      "discussion_driver": "NextEra Energy announced a landmark $66.8B all-stock acquisition of Dominion Energy — the largest utility deal in U.S. history — fueled by explosive AI data center power demand in Dominion's Virginia service territory. Dominion shareholders receive 0.8138 NEE shares per D share; D jumped ~14% to a new 52-week high of $71.45 before settling near $67.72.",
       "bull_case": [
-        "Alibaba's aggressive AI and cloud investment is building a competitive moat in China's fast-growing cloud market; if this spending cycle mirrors AWS's mid-2010s trajectory, the company could rapidly re-accelerate profitability once utilization scales.",
-        "At 25x trailing P/E, roughly 24.7% below its 52-week high, and with a Strong Buy consensus projecting $185 target (28% upside), BABA offers a compelling value entry point if US-China trade relations continue to improve following the Trump-Xi summit."
+        "The merger with NextEra creates the world's largest regulated utility, giving D shareholders exposure to NEE's best-in-class renewable energy platform and the combined entity's unmatched ability to serve surging AI data center electricity demand across the expanded service footprint.",
+        "Dominion's Virginia territory hosts the world's highest concentration of hyperscale data centers; even absent the deal, D is a structural long-term beneficiary of the AI power buildout, with multi-decade regulated rate-base growth embedded in its service area."
       ],
       "bear_case": [
-        "The 84% plunge in core adjusted EBITDA in Q4 FY26 signals AI and cloud investment spending is heavier than the market expected, creating meaningful near-term earnings pressure with a return timeline that remains uncertain and difficult to model.",
-        "US-China geopolitical risk remains a structural overhang on all Chinese ADRs—any reversal of summit-driven optimism, new tariff escalation, or regulatory action could compress multiples regardless of Alibaba's fundamental progress."
+        "The all-stock deal structure ties D holders' effective value directly to NEE's share price during an expected 12-18 month regulatory approval process; if NEE continues declining on dilution concerns, D holders receive meaningfully less at closing.",
+        "Regulatory approval requires sign-off from Virginia's SCC, FERC, and multiple state public utility commissions — a complex, lengthy process with uncertain timing and outcome that creates an extended overhang on the stock."
+      ],
+      "recommendation": "Hold",
+      "current_price": "$67.72",
+      "price_target": "$68.00 (+0.4%)",
+      "pe_ratio": "17.56",
+      "rsi": "68.91",
+      "vs_52wk_high": "-5.2% below high ($71.45)",
+      "analyst_rating": "Hold",
+      "sector": "Utilities - Electric",
+      "sources": ["CNBC", "Bloomberg", "Yahoo Finance", "TheStreet", "Benzinga", "Investing.com"]
+    },
+    {
+      "ticker": "NEE",
+      "company": "NextEra Energy",
+      "discussion_driver": "NextEra Energy shares fell ~5.4% after announcing the $66.8B all-stock acquisition of Dominion Energy — the largest utility deal in U.S. history. While the strategic rationale (AI data center power demand) is compelling, investors reacted negatively to the dilutive equity-funded structure; the combined deal erased ~$10B from NEE's market cap on announcement day.",
+      "bull_case": [
+        "The Dominion acquisition transforms NextEra into the world's dominant regulated utility, adding Dominion's AI data center-rich Virginia territory to NEE's best-in-class renewable energy and grid infrastructure — potentially accelerating long-term EPS growth above the current 6-8% annual guidance.",
+        "NextEra delivered a strong Q1 2026 earnings beat ($1.09 EPS vs. $0.92 estimate), demonstrating robust operational execution; the combined company's expanded regulated utility base provides stable, predictable cash flows to support the dividend and long-term growth investment."
+      ],
+      "bear_case": [
+        "The all-stock deal creates immediate dilution for NEE shareholders, with Dominion investors receiving 25.5% of the combined company; the market's reaction — erasing ~$10B in market cap on the announcement — signals broad investor skepticism about near-term earnings accretion.",
+        "A $67B regulatory approval process spanning FERC, Virginia SCC, and multiple state PUCs could take 18+ months; prolonged uncertainty combined with the large share issuance creates a structural overhang that could limit upside until the deal closes."
+      ],
+      "recommendation": "Hold",
+      "current_price": "$93.80",
+      "price_target": "$101.00 (+7.7%)",
+      "pe_ratio": "24.44",
+      "rsi": "N/A",
+      "vs_52wk_high": "-5.0% below high ($98.75)",
+      "analyst_rating": "Buy",
+      "sector": "Utilities - Electric / Renewable Energy",
+      "sources": ["CNBC", "Bloomberg", "Motley Fool", "Yahoo Finance", "TheStreet", "Quiver Quant"]
+    },
+    {
+      "ticker": "REGN",
+      "company": "Regeneron Pharmaceuticals",
+      "discussion_driver": "Regeneron shares fell ~11% after its Phase 3 trial of fianlimab (a LAG-3 inhibitor) plus cemiplimab failed to achieve statistical significance in progression-free survival versus Merck's Keytruda in metastatic melanoma. The failure wipes out an estimated $1.6-1.8B in peak sales projections, triggering analyst price target cuts (RBC to $707) and pushing RSI to deeply oversold levels at 25.62.",
+      "bull_case": [
+        "Regeneron's core Dupixent franchise continues growing at ~20% annually across atopic dermatitis, asthma, COPD, and new indications, generating billions in recurring revenue entirely independent of the fianlimab melanoma setback — the company's fundamentals remain intact.",
+        "At ~17x trailing earnings with an RSI of 25.62 (deeply oversold), REGN now trades at a historically attractive valuation for a company of its pipeline depth, balance sheet strength, and R&D track record; 22 of 29 covering analysts maintain Buy ratings."
+      ],
+      "bear_case": [
+        "The fianlimab Phase 3 failure eliminates an estimated $1.6-1.8B in peak projected sales and raises questions about Regeneron's oncology strategy; if additional pipeline compounds disappoint, the stock could face further multiple compression.",
+        "Dupixent biosimilar competition is approaching as key patents expire mid-decade, and ongoing Medicare/Medicaid drug pricing policy pressure poses a structural risk to Regeneron's most critical revenue stream, potentially capping long-term earnings growth."
       ],
       "recommendation": "Buy",
-      "current_price": "$145.11",
-      "price_target": "$185.15 (+27.6%)",
-      "pe_ratio": "25.35",
-      "rsi": "58.01",
-      "vs_52wk_high": "-24.7% below high ($192.67)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Consumer Technology - E-Commerce & Cloud",
-      "sources": ["Bloomberg", "Seeking Alpha", "CNBC", "MarketBeat", "TipRanks", "Yahoo Finance"]
+      "current_price": "$619.00",
+      "price_target": "$841.23 (+35.9%)",
+      "pe_ratio": "17.01",
+      "rsi": "25.62",
+      "vs_52wk_high": "-24.6% below high ($821.11)",
+      "analyst_rating": "Buy",
+      "sector": "Healthcare - Biotechnology",
+      "sources": ["CNBC", "Bloomberg", "Barchart", "GuruFocus", "StockTitan", "RBC Capital", "MarketBeat"]
+    },
+    {
+      "ticker": "MBLY",
+      "company": "Mobileye Global",
+      "discussion_driver": "Jefferies initiated coverage of Mobileye at Underperform with an $8 price target — implying ~24% further downside from the prior $10.53 close — citing a precarious revenue pipeline, unproven commercial scale for higher-autonomy products, and heavy Volkswagen Group customer concentration. VW has signaled ambitions to develop autonomous driving in-house, a key structural threat cited by the analyst.",
+      "bull_case": [
+        "Mobileye raised FY2026 revenue guidance to a ~$1.98B midpoint and launched a $250M share buyback program, demonstrating management's confidence in its SuperVision and Surround ADAS product roadmap; 18 of 20 covering analysts maintain Buy ratings with an average price target of $14-16, implying significant upside.",
+        "Autonomous vehicle regulatory mandates and global ADAS adoption tailwinds create long-term secular demand; Mobileye's accumulated dataset advantage — over 1 billion miles of REM mapping data — creates a defensible technology moat that is difficult for new entrants to replicate quickly."
+      ],
+      "bear_case": [
+        "Jefferies' structural concern about Volkswagen Group concentration is significant: VW's stated intent to develop AV capabilities in-house creates an existential revenue pipeline risk; the stock has already lost ~52% from its 52-week high of $20.18, indicating persistent institutional skepticism.",
+        "Mobileye remains loss-making (negative P/E), and faces intensifying competition from Tesla FSD, Nvidia DRIVE, Qualcomm Snapdragon Ride, and Waymo's commercial deployment — all of which erode Mobileye's pricing power and market share in the rapidly evolving autonomous driving landscape."
+      ],
+      "recommendation": "Hold",
+      "current_price": "$9.72",
+      "price_target": "$14.13 (+45.4%)",
+      "pe_ratio": "N/A (negative earnings)",
+      "rsi": "N/A",
+      "vs_52wk_high": "-51.8% below high ($20.18)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - Autonomous Vehicles / Semiconductors",
+      "sources": ["CNBC", "Yahoo Finance", "Investing.com", "Barchart", "TipRanks", "StockTitan", "MarketBeat"]
     }
   ]
 }
