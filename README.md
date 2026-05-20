@@ -26,16 +26,8 @@
 **Recommendation:** Buy
 
 **Metrics:**
-| Metric | Value |
-|--------|-------| 
-| Current Price | $302.01 |
-| Price Target | $411.83 (+36.4%) |
-| P/E Ratio | 22.67 |
-| RSI | 31.5 |
-| vs 52-Wk High | -29.1% below high ($426.00) |
-| Analyst Rating | Strong Buy |
-| Sector | Consumer Discretionary - Home Improvement Retail |
 
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:0.55rem;margin:0.75rem 0 1rem;"><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">Current Price</div><div style="font-family:'JetBrains Mono',monospace;font-size:1.05rem;font-weight:600;color:#0f1729;margin-top:0.25rem;">$302.01</div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">Price Target</div><div style="font-family:'JetBrains Mono',monospace;font-size:1.05rem;font-weight:600;color:#0f1729;margin-top:0.25rem;">$411.83 (+36.4%)</div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">RSI</div><div style="font-family:'JetBrains Mono',monospace;font-size:1.05rem;font-weight:600;color:#0f1729;margin-top:0.25rem;">31.5 <span style="background:#fef3c7;color:#92400e;padding:0.1rem 0.45rem;border-radius:3px;font-size:0.65rem;font-weight:600;font-family:'Inter',sans-serif;letter-spacing:0.02em;vertical-align:1px;">Neutral</span></div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">P/E Ratio</div><div style="font-family:'JetBrains Mono',monospace;font-size:1.05rem;font-weight:600;color:#0f1729;margin-top:0.25rem;">22.67</div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">vs 52-Wk High</div><div style="font-family:'JetBrains Mono',monospace;font-size:0.9rem;font-weight:600;color:#0f1729;margin-top:0.25rem;">-29.1% below high ($426.00)</div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">Analyst Rating</div><div style="margin-top:0.25rem;"><span style="background:#a7f3d0;color:#064e3b;padding:0.2rem 0.6rem;border-radius:4px;font-size:0.78rem;font-weight:600;font-family:'Inter',sans-serif;letter-spacing:0.02em;">Strong Buy</span></div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;grid-column:span 2;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">Sector</div><div style="font-size:0.85rem;font-weight:500;color:#475569;margin-top:0.25rem;">Consumer Discretionary - Home Improvement Retail</div></div></div>
 **Sources:** CNBC, Yahoo Finance, TipRanks, GuruFocus, StockStory, AskTraders
 
 ---
@@ -55,16 +47,8 @@
 **Recommendation:** Buy
 
 **Metrics:**
-| Metric | Value |
-|--------|-------| 
-| Current Price | $35.50 |
-| Price Target | $39.84 (+12.2%) |
-| P/E Ratio | 42.99 |
-| RSI | 52.0 |
-| vs 52-Wk High | -17.0% below high ($42.76) |
-| Analyst Rating | Strong Buy |
-| Sector | Consumer Discretionary - Outdoor Sports Equipment & Apparel |
 
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:0.55rem;margin:0.75rem 0 1rem;"><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">Current Price</div><div style="font-family:'JetBrains Mono',monospace;font-size:1.05rem;font-weight:600;color:#0f1729;margin-top:0.25rem;">$35.50</div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">Price Target</div><div style="font-family:'JetBrains Mono',monospace;font-size:1.05rem;font-weight:600;color:#0f1729;margin-top:0.25rem;">$39.84 (+12.2%)</div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">RSI</div><div style="font-family:'JetBrains Mono',monospace;font-size:1.05rem;font-weight:600;color:#0f1729;margin-top:0.25rem;">52.0 <span style="background:#fef3c7;color:#92400e;padding:0.1rem 0.45rem;border-radius:3px;font-size:0.65rem;font-weight:600;font-family:'Inter',sans-serif;letter-spacing:0.02em;vertical-align:1px;">Neutral</span></div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">P/E Ratio</div><div style="font-family:'JetBrains Mono',monospace;font-size:1.05rem;font-weight:600;color:#0f1729;margin-top:0.25rem;">42.99</div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">vs 52-Wk High</div><div style="font-family:'JetBrains Mono',monospace;font-size:0.9rem;font-weight:600;color:#0f1729;margin-top:0.25rem;">-17.0% below high ($42.76)</div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">Analyst Rating</div><div style="margin-top:0.25rem;"><span style="background:#a7f3d0;color:#064e3b;padding:0.2rem 0.6rem;border-radius:4px;font-size:0.78rem;font-weight:600;font-family:'Inter',sans-serif;letter-spacing:0.02em;">Strong Buy</span></div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;grid-column:span 2;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">Sector</div><div style="font-size:0.85rem;font-weight:500;color:#475569;margin-top:0.25rem;">Consumer Discretionary - Outdoor Sports Equipment & Apparel</div></div></div>
 **Sources:** Amer Sports Investor Relations, Insider Monkey, AInvest, MarketBeat, WWD/Footwear News, AlphaStreet
 
 ---
@@ -84,16 +68,8 @@
 **Recommendation:** Buy
 
 **Metrics:**
-| Metric | Value |
-|--------|-------| 
-| Current Price | $75.27 |
-| Price Target | $128.00 (+70.1%) |
-| P/E Ratio | 66.0 |
-| RSI | 64.0 |
-| vs 52-Wk High | -48.2% below high ($145.25) |
-| Analyst Rating | Strong Buy |
-| Sector | Technology - Hospitality Software (SaaS) |
 
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:0.55rem;margin:0.75rem 0 1rem;"><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">Current Price</div><div style="font-family:'JetBrains Mono',monospace;font-size:1.05rem;font-weight:600;color:#0f1729;margin-top:0.25rem;">$75.27</div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">Price Target</div><div style="font-family:'JetBrains Mono',monospace;font-size:1.05rem;font-weight:600;color:#0f1729;margin-top:0.25rem;">$128.00 (+70.1%)</div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">RSI</div><div style="font-family:'JetBrains Mono',monospace;font-size:1.05rem;font-weight:600;color:#0f1729;margin-top:0.25rem;">64.0 <span style="background:#fef3c7;color:#92400e;padding:0.1rem 0.45rem;border-radius:3px;font-size:0.65rem;font-weight:600;font-family:'Inter',sans-serif;letter-spacing:0.02em;vertical-align:1px;">Neutral</span></div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">P/E Ratio</div><div style="font-family:'JetBrains Mono',monospace;font-size:1.05rem;font-weight:600;color:#0f1729;margin-top:0.25rem;">66.0</div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">vs 52-Wk High</div><div style="font-family:'JetBrains Mono',monospace;font-size:0.9rem;font-weight:600;color:#0f1729;margin-top:0.25rem;">-48.2% below high ($145.25)</div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">Analyst Rating</div><div style="margin-top:0.25rem;"><span style="background:#a7f3d0;color:#064e3b;padding:0.2rem 0.6rem;border-radius:4px;font-size:0.78rem;font-weight:600;font-family:'Inter',sans-serif;letter-spacing:0.02em;">Strong Buy</span></div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;grid-column:span 2;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">Sector</div><div style="font-size:0.85rem;font-weight:500;color:#475569;margin-top:0.25rem;">Technology - Hospitality Software (SaaS)</div></div></div>
 **Sources:** Yahoo Finance, Motley Fool, Investing.com, Benzinga, Quiver Quantitative, AlphaStreet
 
 ---
@@ -113,16 +89,8 @@
 **Recommendation:** Hold
 
 **Metrics:**
-| Metric | Value |
-|--------|-------| 
-| Current Price | $172.15 |
-| Price Target | $139.36 (consensus avg, -19.1%); recent upgrades: $155-$205 |
-| P/E Ratio | 58.08 |
-| RSI | 65.87 |
-| vs 52-Wk High | AT 52-week high ($172.15) |
-| Analyst Rating | Strong Buy |
-| Sector | Technology - Semiconductors (Custom AI Silicon) |
 
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:0.55rem;margin:0.75rem 0 1rem;"><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">Current Price</div><div style="font-family:'JetBrains Mono',monospace;font-size:1.05rem;font-weight:600;color:#0f1729;margin-top:0.25rem;">$172.15</div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">Price Target</div><div style="font-family:'JetBrains Mono',monospace;font-size:1.05rem;font-weight:600;color:#0f1729;margin-top:0.25rem;">$139.36 (consensus avg, -19.1%); recent upgrades: $155-$205</div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">RSI</div><div style="font-family:'JetBrains Mono',monospace;font-size:1.05rem;font-weight:600;color:#0f1729;margin-top:0.25rem;">65.87 <span style="background:#fef3c7;color:#92400e;padding:0.1rem 0.45rem;border-radius:3px;font-size:0.65rem;font-weight:600;font-family:'Inter',sans-serif;letter-spacing:0.02em;vertical-align:1px;">Neutral</span></div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">P/E Ratio</div><div style="font-family:'JetBrains Mono',monospace;font-size:1.05rem;font-weight:600;color:#0f1729;margin-top:0.25rem;">58.08</div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">vs 52-Wk High</div><div style="font-family:'JetBrains Mono',monospace;font-size:0.9rem;font-weight:600;color:#0f1729;margin-top:0.25rem;">AT 52-week high ($172.15)</div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">Analyst Rating</div><div style="margin-top:0.25rem;"><span style="background:#a7f3d0;color:#064e3b;padding:0.2rem 0.6rem;border-radius:4px;font-size:0.78rem;font-weight:600;font-family:'Inter',sans-serif;letter-spacing:0.02em;">Strong Buy</span></div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;grid-column:span 2;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">Sector</div><div style="font-size:0.85rem;font-weight:500;color:#475569;margin-top:0.25rem;">Technology - Semiconductors (Custom AI Silicon)</div></div></div>
 **Sources:** GuruFocus, StocksToTrade, Insider Monkey, MarketBeat, 247WallSt, CNBC
 
 ---
@@ -142,16 +110,8 @@
 **Recommendation:** Speculative Buy
 
 **Metrics:**
-| Metric | Value |
-|--------|-------| 
-| Current Price | $698.74 |
-| Price Target | $800.00 (+14.5%) |
-| P/E Ratio | 31.76 |
-| RSI | 75.62 |
-| vs 52-Wk High | -14.6% below high ($818.67) |
-| Analyst Rating | Buy |
-| Sector | Technology - Memory Semiconductors |
 
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:0.55rem;margin:0.75rem 0 1rem;"><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">Current Price</div><div style="font-family:'JetBrains Mono',monospace;font-size:1.05rem;font-weight:600;color:#0f1729;margin-top:0.25rem;">$698.74</div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">Price Target</div><div style="font-family:'JetBrains Mono',monospace;font-size:1.05rem;font-weight:600;color:#0f1729;margin-top:0.25rem;">$800.00 (+14.5%)</div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">RSI</div><div style="font-family:'JetBrains Mono',monospace;font-size:1.05rem;font-weight:600;color:#0f1729;margin-top:0.25rem;">75.62 <span style="background:#fee2e2;color:#991b1b;padding:0.1rem 0.45rem;border-radius:3px;font-size:0.65rem;font-weight:600;font-family:'Inter',sans-serif;letter-spacing:0.02em;vertical-align:1px;">Overbought</span></div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">P/E Ratio</div><div style="font-family:'JetBrains Mono',monospace;font-size:1.05rem;font-weight:600;color:#0f1729;margin-top:0.25rem;">31.76</div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">vs 52-Wk High</div><div style="font-family:'JetBrains Mono',monospace;font-size:0.9rem;font-weight:600;color:#0f1729;margin-top:0.25rem;">-14.6% below high ($818.67)</div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">Analyst Rating</div><div style="margin-top:0.25rem;"><span style="background:#d1fae5;color:#065f46;padding:0.2rem 0.6rem;border-radius:4px;font-size:0.78rem;font-weight:600;font-family:'Inter',sans-serif;letter-spacing:0.02em;">Buy</span></div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;grid-column:span 2;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">Sector</div><div style="font-size:0.85rem;font-weight:500;color:#475569;margin-top:0.25rem;">Technology - Memory Semiconductors</div></div></div>
 **Sources:** TradingKey, GuruFocus, Mizuho/Yahoo Finance, FX Leaders, Seeking Alpha, CNBC
 
 ---
@@ -171,16 +131,8 @@
 **Recommendation:** Hold
 
 **Metrics:**
-| Metric | Value |
-|--------|-------| 
-| Current Price | $143.67 |
-| Price Target | $156.31 (+8.8%) |
-| P/E Ratio | 50.97 |
-| RSI | 63.08 |
-| vs 52-Wk High | -13.2% below high ($165.45) |
-| Analyst Rating | Buy |
-| Sector | Technology - Cloud Computing / Cybersecurity / CDN |
 
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:0.55rem;margin:0.75rem 0 1rem;"><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">Current Price</div><div style="font-family:'JetBrains Mono',monospace;font-size:1.05rem;font-weight:600;color:#0f1729;margin-top:0.25rem;">$143.67</div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">Price Target</div><div style="font-family:'JetBrains Mono',monospace;font-size:1.05rem;font-weight:600;color:#0f1729;margin-top:0.25rem;">$156.31 (+8.8%)</div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">RSI</div><div style="font-family:'JetBrains Mono',monospace;font-size:1.05rem;font-weight:600;color:#0f1729;margin-top:0.25rem;">63.08 <span style="background:#fef3c7;color:#92400e;padding:0.1rem 0.45rem;border-radius:3px;font-size:0.65rem;font-weight:600;font-family:'Inter',sans-serif;letter-spacing:0.02em;vertical-align:1px;">Neutral</span></div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">P/E Ratio</div><div style="font-family:'JetBrains Mono',monospace;font-size:1.05rem;font-weight:600;color:#0f1729;margin-top:0.25rem;">50.97</div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">vs 52-Wk High</div><div style="font-family:'JetBrains Mono',monospace;font-size:0.9rem;font-weight:600;color:#0f1729;margin-top:0.25rem;">-13.2% below high ($165.45)</div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">Analyst Rating</div><div style="margin-top:0.25rem;"><span style="background:#d1fae5;color:#065f46;padding:0.2rem 0.6rem;border-radius:4px;font-size:0.78rem;font-weight:600;font-family:'Inter',sans-serif;letter-spacing:0.02em;">Buy</span></div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;grid-column:span 2;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">Sector</div><div style="font-size:0.85rem;font-weight:500;color:#475569;margin-top:0.25rem;">Technology - Cloud Computing / Cybersecurity / CDN</div></div></div>
 **Sources:** Investing.com, MarketBeat, StockTitan, GlobeNewswire, Benzinga, Seeking Alpha, FinancialContent
 
 ---
@@ -200,16 +152,8 @@
 **Recommendation:** Speculative Buy
 
 **Metrics:**
-| Metric | Value |
-|--------|-------| 
-| Current Price | $64.11 |
-| Price Target | $113.61 (+77.2%) |
-| P/E Ratio | 65.22 |
-| RSI | 18.0 |
-| vs 52-Wk High | -55.7% below high ($144.65) |
-| Analyst Rating | Buy |
-| Sector | Consumer Discretionary - Fast Casual Restaurants |
 
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:0.55rem;margin:0.75rem 0 1rem;"><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">Current Price</div><div style="font-family:'JetBrains Mono',monospace;font-size:1.05rem;font-weight:600;color:#0f1729;margin-top:0.25rem;">$64.11</div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">Price Target</div><div style="font-family:'JetBrains Mono',monospace;font-size:1.05rem;font-weight:600;color:#0f1729;margin-top:0.25rem;">$113.61 (+77.2%)</div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">RSI</div><div style="font-family:'JetBrains Mono',monospace;font-size:1.05rem;font-weight:600;color:#0f1729;margin-top:0.25rem;">18.0 <span style="background:#d1fae5;color:#065f46;padding:0.1rem 0.45rem;border-radius:3px;font-size:0.65rem;font-weight:600;font-family:'Inter',sans-serif;letter-spacing:0.02em;vertical-align:1px;">Oversold</span></div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">P/E Ratio</div><div style="font-family:'JetBrains Mono',monospace;font-size:1.05rem;font-weight:600;color:#0f1729;margin-top:0.25rem;">65.22</div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">vs 52-Wk High</div><div style="font-family:'JetBrains Mono',monospace;font-size:0.9rem;font-weight:600;color:#0f1729;margin-top:0.25rem;">-55.7% below high ($144.65)</div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">Analyst Rating</div><div style="margin-top:0.25rem;"><span style="background:#d1fae5;color:#065f46;padding:0.2rem 0.6rem;border-radius:4px;font-size:0.78rem;font-weight:600;font-family:'Inter',sans-serif;letter-spacing:0.02em;">Buy</span></div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;grid-column:span 2;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">Sector</div><div style="font-size:0.85rem;font-weight:500;color:#475569;margin-top:0.25rem;">Consumer Discretionary - Fast Casual Restaurants</div></div></div>
 **Sources:** GuruFocus, Timothy Sykes / Tikr, Benzinga, StockTitan, StockTwits, MarketBeat
 
 ---
@@ -229,16 +173,8 @@
 **Recommendation:** Buy
 
 **Metrics:**
-| Metric | Value |
-|--------|-------| 
-| Current Price | $103.40 |
-| Price Target | $143.06 (+38.3%) |
-| P/E Ratio | 41.29 |
-| RSI | 59.10 |
-| vs 52-Wk High | -51.1% below high ($211.48) |
-| Analyst Rating | Strong Buy |
-| Sector | Technology - Enterprise Cloud Software |
 
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:0.55rem;margin:0.75rem 0 1rem;"><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">Current Price</div><div style="font-family:'JetBrains Mono',monospace;font-size:1.05rem;font-weight:600;color:#0f1729;margin-top:0.25rem;">$103.40</div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">Price Target</div><div style="font-family:'JetBrains Mono',monospace;font-size:1.05rem;font-weight:600;color:#0f1729;margin-top:0.25rem;">$143.06 (+38.3%)</div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">RSI</div><div style="font-family:'JetBrains Mono',monospace;font-size:1.05rem;font-weight:600;color:#0f1729;margin-top:0.25rem;">59.10 <span style="background:#fef3c7;color:#92400e;padding:0.1rem 0.45rem;border-radius:3px;font-size:0.65rem;font-weight:600;font-family:'Inter',sans-serif;letter-spacing:0.02em;vertical-align:1px;">Neutral</span></div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">P/E Ratio</div><div style="font-family:'JetBrains Mono',monospace;font-size:1.05rem;font-weight:600;color:#0f1729;margin-top:0.25rem;">41.29</div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">vs 52-Wk High</div><div style="font-family:'JetBrains Mono',monospace;font-size:0.9rem;font-weight:600;color:#0f1729;margin-top:0.25rem;">-51.1% below high ($211.48)</div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">Analyst Rating</div><div style="margin-top:0.25rem;"><span style="background:#a7f3d0;color:#064e3b;padding:0.2rem 0.6rem;border-radius:4px;font-size:0.78rem;font-weight:600;font-family:'Inter',sans-serif;letter-spacing:0.02em;">Strong Buy</span></div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;grid-column:span 2;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">Sector</div><div style="font-size:0.85rem;font-weight:500;color:#475569;margin-top:0.25rem;">Technology - Enterprise Cloud Software</div></div></div>
 **Sources:** StockAnalysis, MarketBeat, Yahoo Finance, TradingKey, TheStreet, 247WallSt, Bernstein via Yahoo Finance
 
 ---
@@ -258,16 +194,8 @@
 **Recommendation:** Buy
 
 **Metrics:**
-| Metric | Value |
-|--------|-------| 
-| Current Price | $114.79 |
-| Price Target | $157.23 (+37.0%) |
-| P/E Ratio | 29.45 |
-| RSI | 30.52 |
-| vs 52-Wk High | -39.6% below high ($190.08) |
-| Analyst Rating | Buy |
-| Sector | Financials - Alternative Asset Management |
 
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:0.55rem;margin:0.75rem 0 1rem;"><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">Current Price</div><div style="font-family:'JetBrains Mono',monospace;font-size:1.05rem;font-weight:600;color:#0f1729;margin-top:0.25rem;">$114.79</div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">Price Target</div><div style="font-family:'JetBrains Mono',monospace;font-size:1.05rem;font-weight:600;color:#0f1729;margin-top:0.25rem;">$157.23 (+37.0%)</div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">RSI</div><div style="font-family:'JetBrains Mono',monospace;font-size:1.05rem;font-weight:600;color:#0f1729;margin-top:0.25rem;">30.52 <span style="background:#fef3c7;color:#92400e;padding:0.1rem 0.45rem;border-radius:3px;font-size:0.65rem;font-weight:600;font-family:'Inter',sans-serif;letter-spacing:0.02em;vertical-align:1px;">Neutral</span></div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">P/E Ratio</div><div style="font-family:'JetBrains Mono',monospace;font-size:1.05rem;font-weight:600;color:#0f1729;margin-top:0.25rem;">29.45</div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">vs 52-Wk High</div><div style="font-family:'JetBrains Mono',monospace;font-size:0.9rem;font-weight:600;color:#0f1729;margin-top:0.25rem;">-39.6% below high ($190.08)</div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">Analyst Rating</div><div style="margin-top:0.25rem;"><span style="background:#d1fae5;color:#065f46;padding:0.2rem 0.6rem;border-radius:4px;font-size:0.78rem;font-weight:600;font-family:'Inter',sans-serif;letter-spacing:0.02em;">Buy</span></div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;grid-column:span 2;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">Sector</div><div style="font-size:0.85rem;font-weight:500;color:#475569;margin-top:0.25rem;">Financials - Alternative Asset Management</div></div></div>
 **Sources:** CNBC, Bloomberg, GuruFocus, Blackstone Press Release via ConnectMoney, MarketBeat, StockAnalysis
 
 ---
@@ -287,16 +215,8 @@
 **Recommendation:** Hold
 
 **Metrics:**
-| Metric | Value |
-|--------|-------| 
-| Current Price | $396.94 |
-| Price Target | $427.89 (+7.8%) |
-| P/E Ratio | 30.28 |
-| RSI | 70.3 |
-| vs 52-Wk High | -2.9% below high ($408.61) |
-| Analyst Rating | Strong Buy |
-| Sector | Technology - Internet / Digital Advertising / Cloud |
 
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:0.55rem;margin:0.75rem 0 1rem;"><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">Current Price</div><div style="font-family:'JetBrains Mono',monospace;font-size:1.05rem;font-weight:600;color:#0f1729;margin-top:0.25rem;">$396.94</div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">Price Target</div><div style="font-family:'JetBrains Mono',monospace;font-size:1.05rem;font-weight:600;color:#0f1729;margin-top:0.25rem;">$427.89 (+7.8%)</div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">RSI</div><div style="font-family:'JetBrains Mono',monospace;font-size:1.05rem;font-weight:600;color:#0f1729;margin-top:0.25rem;">70.3 <span style="background:#fee2e2;color:#991b1b;padding:0.1rem 0.45rem;border-radius:3px;font-size:0.65rem;font-weight:600;font-family:'Inter',sans-serif;letter-spacing:0.02em;vertical-align:1px;">Overbought</span></div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">P/E Ratio</div><div style="font-family:'JetBrains Mono',monospace;font-size:1.05rem;font-weight:600;color:#0f1729;margin-top:0.25rem;">30.28</div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">vs 52-Wk High</div><div style="font-family:'JetBrains Mono',monospace;font-size:0.9rem;font-weight:600;color:#0f1729;margin-top:0.25rem;">-2.9% below high ($408.61)</div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">Analyst Rating</div><div style="margin-top:0.25rem;"><span style="background:#a7f3d0;color:#064e3b;padding:0.2rem 0.6rem;border-radius:4px;font-size:0.78rem;font-weight:600;font-family:'Inter',sans-serif;letter-spacing:0.02em;">Strong Buy</span></div></div><div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.65rem 0.85rem;grid-column:span 2;"><div style="font-size:0.68rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.06em;font-weight:500;">Sector</div><div style="font-size:0.85rem;font-weight:500;color:#475569;margin-top:0.25rem;">Technology - Internet / Digital Advertising / Cloud</div></div></div>
 **Sources:** CNBC, Bloomberg, Yahoo Finance, MarketBeat, StockAnalysis, Cryptonomist, StockTwits
 
 ---
