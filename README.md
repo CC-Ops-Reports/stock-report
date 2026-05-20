@@ -2,402 +2,330 @@
 
 <div style="display:flex;gap:0.5rem;justify-content:center;margin:0.5rem 0 1.5rem;flex-wrap:wrap;"><a href="leaderboard.html" style="display:inline-flex;align-items:center;gap:0.4rem;background:#0f1729;color:white;padding:0.45rem 0.9rem;border-radius:6px;font-weight:500;font-size:0.82rem;text-decoration:none;letter-spacing:0.01em;">📊 Leaderboard</a><a href="tracker.html" style="display:inline-flex;align-items:center;gap:0.4rem;background:#0f1729;color:white;padding:0.45rem 0.9rem;border-radius:6px;font-weight:500;font-size:0.82rem;text-decoration:none;letter-spacing:0.01em;">📈 Tracker</a></div>
 
-**DATE:** 2026-05-18
-**TOTAL STOCKS TRACKED:** 13
+**DATE:** 2026-05-19
+**TOTAL STOCKS TRACKED:** 10
 **MARKET TONE:** Bearish
-**KEY THEMES:** Rising Treasury yields: 10-year hits 4.6%, highest in a year, stoking inflation fears, Landmark NextEra-Dominion $66.8B utility mega-merger driven by AI data center power demand, Ad-tech consolidation: Publicis acquires LiveRamp in $2.5B all-cash deal, AI semiconductor momentum: Nvidia pre-earnings analyst upgrades, Micron target hikes, Crypto selloff: Bitcoin falls below $77K, pressuring Coinbase and Robinhood
+**KEY THEMES:** 30-year Treasury yield hits 19-year high above 5.19%, pressuring equities for third straight session, AI infrastructure mega-investment: Blackstone commits $5B to Google AI JV; Meta reassigns 7K workers to AI amid 8K layoffs, Earnings season continues: Home Depot, Amer Sports, Agilysys report; Nvidia earnings tomorrow (May 20) in focus
 
-**S&P 500:** 7,370 (-0.5%) • **NASDAQ:** 25,971 (-1.0%)
-
----
-
-## LIVERAMP HOLDINGS (RAMP)
-
-**Discussion Driver:** Publicis Groupe announced an all-cash acquisition of LiveRamp at $38.50/share (~$2.5B equity value), a ~30% premium to the May 15 close. The deal is driven by AI-era data collaboration strategy and would take LiveRamp private. Shares surged ~27% to $37.90, hitting a new 52-week high. Both boards unanimously approved; closing expected by mid-2027 pending regulatory sign-off.
-
-**Bull Case:**
-- The $38.50/share acquisition price locks in a ~27% premium for existing shareholders with unanimous board approval; Publicis gains LiveRamp's industry-leading identity resolution and data collaboration platform to power AI-driven marketing for its global client base.
-- LiveRamp's data connectivity infrastructure is mission-critical for advertising in a post-cookie world; Publicis's deep client relationships and global distribution accelerate monetization of the platform well beyond what standalone LiveRamp could achieve.
-
-**Bear Case:**
-- Deal carries regulatory risk — CFIUS review, antitrust clearance, and shareholder approval are all required; any challenge could delay or terminate the transaction, with the merger required to close by May 2027 or trigger a $32.35M termination fee.
-- If the deal collapses, RAMP shares would likely revert to pre-announcement levels near $29, representing roughly 24% downside from current trading near $37.90, eliminating the entire acquisition premium.
-
-**Recommendation:** Hold
-
-**Metrics:**
-| Metric | Value |
-|--------|-------| 
-| Current Price | $37.90 |
-| Price Target | $38.50 (+1.6%) |
-| P/E Ratio | 27.55 |
-| RSI | N/A |
-| vs 52-Wk High | -0.1% below high ($37.95) |
-| Analyst Rating | Buy |
-| Sector | Technology - Data Management / Ad Tech |
-
-**Sources:** StockTitan, GuruFocus, TipRanks, Benzinga, AdExchanger, Quiver Quant
+**S&P 500:** 7,353.61 (-0.67%) • **NASDAQ:** 25,870.71 (-0.84%)
 
 ---
 
-## DOMINION ENERGY (D)
+## THE HOME DEPOT, INC. (HD) ⭐
 
-**Discussion Driver:** NextEra Energy announced a landmark $66.8B all-stock acquisition of Dominion Energy — the largest utility deal in U.S. history — fueled by explosive AI data center power demand in Dominion's Virginia service territory. Dominion shareholders receive 0.8138 NEE shares per D share; D jumped ~14% to a new 52-week high of $71.45 before settling near $67.72.
-
-**Bull Case:**
-- The merger with NextEra creates the world's largest regulated utility, giving D shareholders exposure to NEE's best-in-class renewable energy platform and the combined entity's unmatched ability to serve surging AI data center electricity demand across the expanded service footprint.
-- Dominion's Virginia territory hosts the world's highest concentration of hyperscale data centers; even absent the deal, D is a structural long-term beneficiary of the AI power buildout, with multi-decade regulated rate-base growth embedded in its service area.
-
-**Bear Case:**
-- The all-stock deal structure ties D holders' effective value directly to NEE's share price during an expected 12-18 month regulatory approval process; if NEE continues declining on dilution concerns, D holders receive meaningfully less at closing.
-- Regulatory approval requires sign-off from Virginia's SCC, FERC, and multiple state public utility commissions — a complex, lengthy process with uncertain timing and outcome that creates an extended overhang on the stock.
-
-**Recommendation:** Hold
-
-**Metrics:**
-| Metric | Value |
-|--------|-------| 
-| Current Price | $67.72 |
-| Price Target | $68.00 (+0.4%) |
-| P/E Ratio | 17.56 |
-| RSI | 68.91 |
-| vs 52-Wk High | -5.2% below high ($71.45) |
-| Analyst Rating | Hold |
-| Sector | Utilities - Electric |
-
-**Sources:** CNBC, Bloomberg, Yahoo Finance, TheStreet, Benzinga, Investing.com
-
----
-
-## NEXTERA ENERGY (NEE)
-
-**Discussion Driver:** NextEra Energy shares fell ~5.4% after announcing the $66.8B all-stock acquisition of Dominion Energy — the largest utility deal in U.S. history. While the strategic rationale (AI data center power demand) is compelling, investors reacted negatively to the dilutive equity-funded structure; the combined deal erased ~$10B from NEE's market cap on announcement day.
+**Discussion Driver:** Home Depot reported Q1 FY2026 earnings on May 19 beating on both lines: EPS $3.43 vs. $3.41 expected and revenue $41.77B vs. $41.52B consensus (+4.8% YoY). Management reaffirmed full-year guidance of 2.5-4.5% revenue growth, but noted consumers remain cautious on larger projects amid elevated mortgage rates. The stock is trading near its 52-week low despite the double beat, presenting a significant disconnect between fundamentals and current valuation.
 
 **Bull Case:**
-- The Dominion acquisition transforms NextEra into the world's dominant regulated utility, adding Dominion's AI data center-rich Virginia territory to NEE's best-in-class renewable energy and grid infrastructure — potentially accelerating long-term EPS growth above the current 6-8% annual guidance.
-- NextEra delivered a strong Q1 2026 earnings beat ($1.09 EPS vs. $0.92 estimate), demonstrating robust operational execution; the combined company's expanded regulated utility base provides stable, predictable cash flows to support the dividend and long-term growth investment.
+- Q1 double beat with full-year guidance reaffirmed demonstrates fundamental resilience; the stock trading near its 52-week low offers 36%+ upside to the Strong Buy analyst consensus price target of $411.83, creating a favorable risk/reward entry for patient investors.
+- Home improvement demand remains structurally intact: as mortgage rates eventually ease, pent-up housing turnover and deferred renovation spending could trigger a multi-year revenue acceleration for the dominant 2,300-store market leader.
 
 **Bear Case:**
-- The all-stock deal creates immediate dilution for NEE shareholders, with Dominion investors receiving 25.5% of the combined company; the market's reaction — erasing ~$10B in market cap on the announcement — signals broad investor skepticism about near-term earnings accretion.
-- A $67B regulatory approval process spanning FERC, Virginia SCC, and multiple state PUCs could take 18+ months; prolonged uncertainty combined with the large share issuance creates a structural overhang that could limit upside until the deal closes.
-
-**Recommendation:** Hold
-
-**Metrics:**
-| Metric | Value |
-|--------|-------| 
-| Current Price | $93.80 |
-| Price Target | $101.00 (+7.7%) |
-| P/E Ratio | 24.44 |
-| RSI | N/A |
-| vs 52-Wk High | -5.0% below high ($98.75) |
-| Analyst Rating | Buy |
-| Sector | Utilities - Electric / Renewable Energy |
-
-**Sources:** CNBC, Bloomberg, Motley Fool, Yahoo Finance, TheStreet, Quiver Quant
-
----
-
-## REGENERON PHARMACEUTICALS (REGN)
-
-**Discussion Driver:** Regeneron shares fell ~11% after its Phase 3 trial of fianlimab (a LAG-3 inhibitor) plus cemiplimab failed to achieve statistical significance in progression-free survival versus Merck's Keytruda in metastatic melanoma. The failure wipes out an estimated $1.6-1.8B in peak sales projections, triggering analyst price target cuts (RBC to $707) and pushing RSI to deeply oversold levels at 25.62.
-
-**Bull Case:**
-- Regeneron's core Dupixent franchise continues growing at ~20% annually across atopic dermatitis, asthma, COPD, and new indications, generating billions in recurring revenue entirely independent of the fianlimab melanoma setback — the company's fundamentals remain intact.
-- At ~17x trailing earnings with an RSI of 25.62 (deeply oversold), REGN now trades at a historically attractive valuation for a company of its pipeline depth, balance sheet strength, and R&D track record; 22 of 29 covering analysts maintain Buy ratings.
-
-**Bear Case:**
-- The fianlimab Phase 3 failure eliminates an estimated $1.6-1.8B in peak projected sales and raises questions about Regeneron's oncology strategy; if additional pipeline compounds disappoint, the stock could face further multiple compression.
-- Dupixent biosimilar competition is approaching as key patents expire mid-decade, and ongoing Medicare/Medicaid drug pricing policy pressure poses a structural risk to Regeneron's most critical revenue stream, potentially capping long-term earnings growth.
+- Adjusted EPS declined YoY ($3.43 vs. $3.56 prior year Q1) despite the revenue beat, signaling margin pressure that could persist as long as housing turnover remains historically depressed with mortgage rates near multi-decade highs.
+- Wall Street lowered its earnings bar heading into this print, diminishing the quality of the beat; macro headwinds — 19-year Treasury yield highs, weak housing turnover, and softening consumer confidence — have not resolved and limit near-term catalyst visibility.
 
 **Recommendation:** Buy
 
 **Metrics:**
 | Metric | Value |
 |--------|-------| 
-| Current Price | $619.00 |
-| Price Target | $841.23 (+35.9%) |
-| P/E Ratio | 17.01 |
-| RSI | 25.62 |
-| vs 52-Wk High | -24.6% below high ($821.11) |
-| Analyst Rating | Buy |
-| Sector | Healthcare - Biotechnology |
-
-**Sources:** CNBC, Bloomberg, Barchart, GuruFocus, StockTitan, RBC Capital, MarketBeat
-
----
-
-## MOBILEYE GLOBAL (MBLY)
-
-**Discussion Driver:** Jefferies initiated coverage of Mobileye at Underperform with an $8 price target — implying ~24% further downside from the prior $10.53 close — citing a precarious revenue pipeline, unproven commercial scale for higher-autonomy products, and heavy Volkswagen Group customer concentration. VW has signaled ambitions to develop autonomous driving in-house, a key structural threat cited by the analyst.
-
-**Bull Case:**
-- Mobileye raised FY2026 revenue guidance to a ~$1.98B midpoint and launched a $250M share buyback program, demonstrating management's confidence in its SuperVision and Surround ADAS product roadmap; 18 of 20 covering analysts maintain Buy ratings with an average price target of $14-16, implying significant upside.
-- Autonomous vehicle regulatory mandates and global ADAS adoption tailwinds create long-term secular demand; Mobileye's accumulated dataset advantage — over 1 billion miles of REM mapping data — creates a defensible technology moat that is difficult for new entrants to replicate quickly.
-
-**Bear Case:**
-- Jefferies' structural concern about Volkswagen Group concentration is significant: VW's stated intent to develop AV capabilities in-house creates an existential revenue pipeline risk; the stock has already lost ~52% from its 52-week high of $20.18, indicating persistent institutional skepticism.
-- Mobileye remains loss-making (negative P/E), and faces intensifying competition from Tesla FSD, Nvidia DRIVE, Qualcomm Snapdragon Ride, and Waymo's commercial deployment — all of which erode Mobileye's pricing power and market share in the rapidly evolving autonomous driving landscape.
-
-**Recommendation:** Hold
-
-**Metrics:**
-| Metric | Value |
-|--------|-------| 
-| Current Price | $9.72 |
-| Price Target | $14.13 (+45.4%) |
-| P/E Ratio | N/A (negative earnings) |
-| RSI | N/A |
-| vs 52-Wk High | -51.8% below high ($20.18) |
-| Analyst Rating | Buy |
-| Sector | Technology - Autonomous Vehicles / Semiconductors |
-
-**Sources:** CNBC, Yahoo Finance, Investing.com, Barchart, TipRanks, StockTitan, MarketBeat
-
----
-
-## NEBIUS GROUP N.V. (NBIS) ⭐
-
-**Discussion Driver:** Nebius dropped ~9% after DA Davidson downgraded to Neutral from Buy, arguing the stock—despite being praised as 'the best executing public AI cloud'—has become too expensive, trading at a ~30% premium to backlog following its explosive run-up. The AI infrastructure pure-play had surged on stellar 684% revenue growth, but the valuation now prices in near-perfect execution for years to come.
-
-**Bull Case:**
-- 684% revenue growth in 2025 with AI cloud infrastructure spending booming; revenue projected to rise from $534M to $3.36B in 2026 and $10.6B+ in 2027, positioning NBIS as a high-growth AI infrastructure pure-play with a strategic NVIDIA alliance.
-- Described as 'the best executing public AI cloud' by analysts, with a healthy balance sheet (little net debt relative to peers), a second gigawatt-scale data center secured in Pennsylvania, and $20-25B capex guidance that signals aggressive but funded expansion.
-
-**Bear Case:**
-- DA Davidson downgraded to Neutral citing valuation stretched at ~30% premium to backlog after a massive rally; even with other analysts raising targets toward $270-$287, the stock's near-term upside is constrained by lofty expectations.
-- PE ratio above 4,000x and $20-25B capex requirements create significant financing risk, especially in a rising-rate environment where the 10-year Treasury yield hit 4.6%; rapid scaling introduces operational and margin execution risks.
-
-**Recommendation:** Hold
-
-**Metrics:**
-| Metric | Value |
-|--------|-------| 
-| Current Price | $219.94 |
-| Price Target | $270.06 (+22.8%) |
-| P/E Ratio | N/M (>4,000x) |
-| RSI | N/A |
-| vs 52-Wk High | -5.9% below high ($233.73) |
-| Analyst Rating | Hold |
-| Sector | Technology - AI Cloud Infrastructure |
-
-**Sources:** TipRanks, Seeking Alpha, Benzinga, StockTitan, MarketBeat
-
----
-
-## MICRON TECHNOLOGY INC. (MU) ⭐
-
-**Discussion Driver:** Micron surged ~4.7% as multiple analyst upgrades hit in a single session—Deutsche Bank raised its target to a street-high $1,000 and CFRA lifted to $900—both citing AI memory demand that has sold out HBM capacity through all of 2026. The upgrades signal Wall Street views Micron as a primary beneficiary of the AI infrastructure build-out alongside Nvidia, with FY2026 revenue forecasts now exceeding $108B.
-
-**Bull Case:**
-- HBM capacity sold out through 2026 under binding contracts, giving Micron unusual revenue visibility; Deutsche Bank targets $1,000 (street high) and CFRA targets $900, with HBM market share expected to reach 25% by 2026 driven by surging AI data center demand.
-- AI memory demand is creating a profit supercycle: FY2026 revenue forecast raised to $108.7B (from $79.8B) and EPS estimates raised to $58.05 (from $34.26), suggesting Micron is in the early stages of a multi-year earnings expansion driven by high-margin HBM products.
-
-**Bear Case:**
-- RSI at 84.7 signals the stock is significantly overbought after its AI-driven rally; with the broader market selling off on 4.6% Treasury yields and MU down 5.5% on Monday, a mean-reversion correction could deepen given the 16.4% gap from its 52-week high.
-- Memory is a cyclical commodity business; if AI capital expenditure growth slows or competing HBM supply from Samsung and SK Hynix expands faster than demand, HBM pricing could deteriorate sharply, compressing the margins underpinning bullish forecasts.
-
-**Recommendation:** Buy
-
-**Metrics:**
-| Metric | Value |
-|--------|-------| 
-| Current Price | $684.81 |
-| Price Target | $900.00 (+31.5%) |
-| P/E Ratio | 32.21 |
-| RSI | 84.7 |
-| vs 52-Wk High | -16.4% below high ($818.67) |
-| Analyst Rating | Buy |
-| Sector | Technology - Semiconductors (Memory) |
-
-**Sources:** Deutsche Bank via Investing.com, CFRA via AlphaSpread, MarketBeat, 24/7 Wall St., Seeking Alpha, TimothySykes.com
-
----
-
-## NVIDIA CORPORATION (NVDA) ⭐
-
-**Discussion Driver:** NVDA received a wave of analyst upgrades ahead of its Q1 FY27 earnings on May 20—KeyBanc and DA Davidson raised targets to $300 while Morgan Stanley lifted to $285—as Goldman Sachs projects a ~$2B beat above the $79.2B consensus revenue estimate. The Blackwell GPU cycle and nascent Vera Rubin architecture transition are fueling optimism about sustained AI chip demand, making Wednesday's earnings a pivotal near-term catalyst.
-
-**Bull Case:**
-- Q1 FY27 earnings (May 20) expected to beat consensus, with Goldman Sachs projecting $87.7B in revenue vs. Wall Street's $79.2B estimate; Blackwell GPU demand remains robust, a China chip sales clearance opens a significant new demand channel, and Vera Rubin ramp extends the growth runway.
-- 61 analysts maintain a Strong Buy consensus with an average target of $275.31 (+23.8%); Nvidia's dominance in AI silicon gives it unmatched pricing power with gross margins running near 75%, confirming that Blackwell scaling has not compressed economics.
-
-**Bear Case:**
-- The stock trades at 41x trailing earnings with peak expectations already priced in; any forward guidance miss or gross margin compression below 73% could trigger a sharp pullback amplified by the stock's high beta of 2.24, especially with the broader market weak on rising Treasury yields.
-- Architecture transition from Blackwell to Vera Rubin creates a potential revenue air pocket in shipment timing; rising custom silicon competition from hyperscalers (Google TPUs, Amazon Trainium) could gradually erode Nvidia's ASP premium over a multi-year horizon.
-
-**Recommendation:** Buy
-
-**Metrics:**
-| Metric | Value |
-|--------|-------| 
-| Current Price | $222.32 |
-| Price Target | $275.31 (+23.8%) |
-| P/E Ratio | 41.28 |
-| RSI | N/A |
-| vs 52-Wk High | -0.6% below high ($223.75) |
+| Current Price | $302.01 |
+| Price Target | $411.83 (+36.4%) |
+| P/E Ratio | 22.67 |
+| RSI | 31.5 |
+| vs 52-Wk High | -29.1% below high ($426.00) |
 | Analyst Rating | Strong Buy |
-| Sector | Technology - Semiconductors (AI/GPU) |
+| Sector | Consumer Discretionary - Home Improvement Retail |
 
-**Sources:** Yahoo Finance, StockAnalysis, Goldman Sachs via CNBC, HeyGoTrade, Kiplinger, Motley Fool, Intellectia AI
+**Sources:** CNBC, Yahoo Finance, TipRanks, GuruFocus, StockStory, AskTraders
 
 ---
 
-## COINBASE GLOBAL INC. (COIN) ⭐
+## AMER SPORTS, INC. (AS)
 
-**Discussion Driver:** Coinbase fell ~4.4% as Bitcoin slid below $77,000, extending a painful 2026 where the stock sits 56% below its 52-week high. The sell-off reflects both crypto price weakness and regulatory fatigue around the stalled CLARITY Act; $1B+ in digital asset investment product outflows the prior week reversed the regulatory-optimism rally, while the company's Q1 2026 crypto revenue dropped 29% and it executed its third round of 2026 layoffs.
+**Discussion Driver:** Amer Sports delivered a Q1 2026 blowout: EPS $0.38 vs. $0.31 expected (+23% beat), revenue $1.95B vs. $1.84B forecast (+32% YoY; +26% constant currency). Adjusted operating margin expanded 160 bps to 17.4%. Full-year revenue and EPS guidance was raised, with FY2026 revenue now guided to $7.54B-$7.80B. Shares gained ~2.9% premarket with intraday momentum extending further. Arc'teryx (+33%), Salomon (+42%), and Wilson (+13%) segments all outperformed estimates.
 
 **Bull Case:**
-- Analyst consensus of $299.40 implies 53% upside; passage of the CLARITY Act could unlock up to $50B in institutional crypto inflows, and if Bitcoin closes May above $76K—confirming a new bull market per Fundstrat's Tom Lee—Coinbase would be the primary trading volume beneficiary.
-- Coinbase holds a dominant position as the largest US crypto exchange with established compliance infrastructure that smaller competitors lack; long-term crypto adoption trends and potential ETF inflows remain intact regardless of near-term Bitcoin volatility.
+- 32% reported revenue growth with 160 bps margin expansion validates Amer Sports' ability to scale premium brands globally; raised full-year guidance signals management confidence in sustaining momentum, and 19 of 21 covering analysts rate the stock Buy or Strong Buy.
+- Multi-brand diversification across technical apparel (Arc'teryx), outdoor performance (Salomon), and racquet sports (Wilson) creates resilient demand across multiple consumer occasions and geographies, reducing single-brand concentration risk.
 
 **Bear Case:**
-- Q1 2026 crypto trading revenue dropped 29% and the company executed its third round of 2026 layoffs while cutting R&D budgets by 30%+, signaling fundamental business stress; at a forward PE of 72x, there is virtually no valuation buffer if Bitcoin remains weak.
-- The CLARITY Act's stalled legislative progress creates prolonged regulatory uncertainty; financial surveillance provisions and institutional opposition to decentralized trading rules could delay or dilute the crypto-friendly legislation the market had priced in.
+- Approximately 30% of inventory is manufactured in China, creating material tariff risk; escalating US-China trade tensions could compress margins at a company already trading at a premium 43x trailing PE multiple.
+- Arc'teryx faced an unprecedented brand controversy in China after sponsoring a Tibet fireworks display viewed nearly 600M times on social media, sparking widespread consumer outrage and threatening brand equity in a key Asia growth market.
+
+**Recommendation:** Buy
+
+**Metrics:**
+| Metric | Value |
+|--------|-------| 
+| Current Price | $35.50 |
+| Price Target | $39.84 (+12.2%) |
+| P/E Ratio | 42.99 |
+| RSI | 52.0 |
+| vs 52-Wk High | -17.0% below high ($42.76) |
+| Analyst Rating | Strong Buy |
+| Sector | Consumer Discretionary - Outdoor Sports Equipment & Apparel |
+
+**Sources:** Amer Sports Investor Relations, Insider Monkey, AInvest, MarketBeat, WWD/Footwear News, AlphaStreet
+
+---
+
+## AGILYSYS, INC. (AGYS)
+
+**Discussion Driver:** Agilysys delivered its 17th consecutive record revenue quarter in Q4 FY2026: revenue $82.95M (+11.7% YoY), EPS $0.63 vs. $0.50 expected (+26% beat), annual recurring revenue $205.9M, subscription SaaS revenue +30.2%, and annual EBITDA record of $67.7M. FY2027 guidance calls for $365-370M revenue with 30%+ subscription growth. Stock surged ~15-16% intraday as management cited AI-powered voice and chat ordering features as accelerating hospitality SaaS adoption.
+
+**Bull Case:**
+- Seventeen consecutive quarters of record revenue with 30%+ subscription SaaS growth demonstrate Agilysys has built a durable, high-visibility recurring revenue flywheel in the underpenetrated hospitality technology sector, supporting a premium valuation.
+- AI-powered innovations — voice ordering, chat-based PMS — are deepening the product moat and accelerating the shift from lower-margin perpetual licenses to high-retention SaaS, expanding long-term earnings power well beyond current estimates.
+
+**Bear Case:**
+- EBITDA margin is expected to compress to only 16-17% in Q1 FY2027 due to high-cost project rollouts and PMS ramp; the flagship PMS implementation is projected to take at least two years, introducing meaningful multi-year execution risk.
+- Trading at ~66x PE after a 15-16% post-earnings surge while still 48%+ below its 52-week high, Agilysys prices in substantial growth that must be continuously validated; any execution miss or guidance cut could trigger severe multiple compression.
+
+**Recommendation:** Buy
+
+**Metrics:**
+| Metric | Value |
+|--------|-------| 
+| Current Price | $75.27 |
+| Price Target | $128.00 (+70.1%) |
+| P/E Ratio | 66.0 |
+| RSI | 64.0 |
+| vs 52-Wk High | -48.2% below high ($145.25) |
+| Analyst Rating | Strong Buy |
+| Sector | Technology - Hospitality Software (SaaS) |
+
+**Sources:** Yahoo Finance, Motley Fool, Investing.com, Benzinga, Quiver Quantitative, AlphaStreet
+
+---
+
+## MARVELL TECHNOLOGY, INC. (MRVL)
+
+**Discussion Driver:** Evercore ISI raised its price target on Marvell to $155 from $133 (Outperform) on May 19, citing robust AI demand checks and strong upcoming Q1 earnings guidance visibility. Shares popped ~6%, reaching the 52-week high at $172.15 as Wall Street supercharges AI chip targets. The stock has surged 176%+ in 52 weeks on custom ASIC and optical interconnect demand. B. Riley ($205) and RBC ($200) hold bullish targets reflecting conviction in Marvell's AI silicon franchise ahead of earnings.
+
+**Bull Case:**
+- Custom ASIC demand from Amazon, Google, and Microsoft is accelerating into 2026-2028; Marvell's co-design capabilities and 800G/1.6T optical interconnect leadership directly capture the fastest-growing segment of the AI infrastructure semiconductor market.
+- NVIDIA's strategic $2B investment in Marvell validates its optical connectivity dominance; hyperscaler AI capex expansion through 2027 provides multi-year revenue visibility while the latest wave of analyst upgrades reflects conviction that guidance beats lie ahead.
+
+**Bear Case:**
+- The 43-analyst consensus price target of $139.36 sits 19% BELOW the current stock price, meaning the broad market has outrun analyst models; a Q1 earnings miss or cautious guidance at these elevated levels could trigger a sharp correction from the 52-week high.
+- At 58x trailing PE after a 176% 52-week run, Marvell prices in near-flawless AI execution; tight wafer supply constraints and intensifying competition in custom silicon from Broadcom and well-funded startups add meaningful risk to the premium valuation.
 
 **Recommendation:** Hold
 
 **Metrics:**
 | Metric | Value |
 |--------|-------| 
-| Current Price | $195.42 |
-| Price Target | $299.40 (+53.2%) |
-| P/E Ratio | 45.64 |
-| RSI | 47.2 |
-| vs 52-Wk High | -56.0% below high ($444.64) |
-| Analyst Rating | Buy |
-| Sector | Financial Services - Cryptocurrency Exchange |
+| Current Price | $172.15 |
+| Price Target | $139.36 (consensus avg, -19.1%); recent upgrades: $155-$205 |
+| P/E Ratio | 58.08 |
+| RSI | 65.87 |
+| vs 52-Wk High | AT 52-week high ($172.15) |
+| Analyst Rating | Strong Buy |
+| Sector | Technology - Semiconductors (Custom AI Silicon) |
 
-**Sources:** StockAnalysis, 24/7 Wall St., Benzinga, CoinDesk, Public.com, MarketBeat, Investtech
-
----
-
-## ROBINHOOD MARKETS INC. (HOOD) ⭐
-
-**Discussion Driver:** Robinhood declined alongside Coinbase as Bitcoin fell below $77K, compounding a brutal 2026 where the stock is down 32% year-to-date. Q1 2026 results revealed a stark 47% collapse in crypto trading revenue to $134M (from $252M), directly tied to Bitcoin's 22% Q1 decline; while event contracts revenue surged 320% as a partial offset, retail investors and analysts continue to question whether Robinhood can structurally diversify away from crypto dependency.
-
-**Bull Case:**
-- Despite a 47% crypto revenue collapse, total transaction-based revenue still grew to $623M YoY as event contracts revenue surged 320% to $147M, demonstrating that the platform's diversification into prediction markets and new products is gaining genuine traction.
-- RSI at 39.85 signals an oversold technical condition; at $75.76—50% below its 52-week high—the stock offers a significant implied discount, and the analyst consensus target of $98.44 (+30%) suggests meaningful recovery potential if crypto sentiment stabilizes.
-
-**Bear Case:**
-- Crypto revenue is a structural vulnerability: Q1 2026 crypto trading volumes fell 48% YoY, costing $118M in revenue in a single quarter; sustained Bitcoin weakness below $77K would continue to pressure the most profitable segment of Robinhood's business.
-- At a 37.5x trailing PE, Robinhood is not cheaply valued given its heavy dependence on volatile crypto trading; the stock's 32% year-to-date decline reflects a fundamental re-rating risk if Bitcoin fails to recover in H2 2026.
-
-**Recommendation:** Hold
-
-**Metrics:**
-| Metric | Value |
-|--------|-------| 
-| Current Price | $75.76 |
-| Price Target | $98.44 (+29.9%) |
-| P/E Ratio | 37.54 |
-| RSI | 39.85 |
-| vs 52-Wk High | -50.8% below high ($153.86) |
-| Analyst Rating | Buy |
-| Sector | Financial Services - Online Brokerage |
-
-**Sources:** StockAnalysis, S&P Global via StockAnalysis, Motley Fool, CoinDesk, Reelfinancial, TipRanks, CNBC
+**Sources:** GuruFocus, StocksToTrade, Insider Monkey, MarketBeat, 247WallSt, CNBC
 
 ---
 
-## COGNIZANT TECHNOLOGY SOLUTIONS (CTSH)
+## MICRON TECHNOLOGY, INC. (MU) ⭐
 
-**Discussion Driver:** Cognizant doubled its 2026 share repurchase target to $2B and announced an additional $2B authorization on May 18, sending the stock up ~7%. CEO Ravi Kumar stated the current price 'significantly undervalues' the company's AI-era prospects, signaling strong conviction in the long-term opportunity AI creates for IT services.
-
-**Bull Case:**
-- The $2B buyback expansion at a depressed ~10x trailing P/E — well below IT service peers — is highly accretive and signals management confidence; the CEO's explicit statement that the stock is 'significantly undervalued' supports the view that aggressive capital return is a direct response to a dislocation between intrinsic value and market price.
-- Cognizant is strategically positioned for enterprise AI adoption with a durable outsourcing business model; 40 Wall Street analysts maintain a median price target of $83, implying over 65% upside from current levels and suggesting the market has overly discounted near-term IT sector headwinds.
-
-**Bear Case:**
-- CTSH trades 42% below its 52-week high with bearish technical signals across multiple moving averages; the IT services sector faces a structural threat from AI automation that could reduce demand for traditional outsourcing, which remains the core of Cognizant's revenue model.
-- Revenue growth has lagged faster-moving competitors, and the buyback expansion may reflect a scarcity of higher-return reinvestment opportunities rather than pure confidence — the 15 Hold vs. 13 Buy analyst split reflects widespread caution about near-term catalysts for meaningful re-rating.
-
-**Recommendation:** Hold
-
-**Metrics:**
-| Metric | Value |
-|--------|-------| 
-| Current Price | $50.07 |
-| Price Target | $83.00 (+65.8%) |
-| P/E Ratio | 10.22 |
-| RSI | 49.1 |
-| vs 52-Wk High | -42.5% below high ($87.03) |
-| Analyst Rating | Hold |
-| Sector | Information Technology - IT Services |
-
-**Sources:** StockTitan, TipRanks, Insider Monkey, MarketBeat, Investing.com, CNBC, Yahoo Finance
-
----
-
-## NU HOLDINGS (NU)
-
-**Discussion Driver:** Nu Holdings reported record Q1 2026 results — $871M net income (+41% YoY) and its first-ever $5B+ revenue quarter — with Mexico reaching break-even ahead of plan. Despite the beat, the stock declined as investors focused on elevated credit provisions and a rapidly expanding loan book ($37.2B, up 54% YoY), raising credit quality concerns in Brazil's high interest rate environment.
+**Discussion Driver:** Micron shares bounced 4%+ on May 19, snapping a three-day losing streak, as AI infrastructure spending optimism reignited memory sector momentum. The stock surged from a 52-week low near $90.93 to an all-time high of $818.67 (May 11, 2026) before pulling back on rising yields. Q2 FY2026 revenue of $23.86B surged 196% YoY on HBM demand. HBM capacity is pre-sold through 2026, with the total HBM market projected to grow from $35B to $100B+ by 2028. RSI remains elevated at 75.62.
 
 **Bull Case:**
-- Nu's 131M customer base, 41% net income growth, and first-ever $5B+ revenue quarter confirm exceptional operating scale; Mexico breaking even ahead of schedule and conditional OCC approval in January 2026 opening US market optionality provide multiple durable growth runways beyond the core Brazil business.
-- With 21 analysts rating NU a Strong Buy and an average price target of $19.49 implying over 60% upside, institutional conviction in Nu's compounding ARPAC growth trajectory remains high — the current selloff represents a potential entry point as the market overweights near-term credit concerns relative to the long-term digital banking disruption thesis.
+- HBM memory is pre-sold through 2026 with strong demand from NVIDIA and hyperscalers; the total HBM market growing to $100B+ by 2028 — with Micron as one of only three global DRAM suppliers — creates a structural tailwind fundamentally different from prior commodity memory cycles.
+- Micron's Q2 FY2026 revenue of $23.86B surged 196% YoY with non-GAAP EPS of $12.20 smashing consensus; AI servers requiring 8-16x more memory bandwidth than conventional servers creates durable pricing power in HBM3e and LPDDR5X that insulates against cyclical downturns.
 
 **Bear Case:**
-- The loan book surged 54% YoY to $37.2B while non-performing loans rose from $2.0B to $3.0B; expected credit loss exposure stands at $5.0B — elevated credit risk in Brazil amid persistently high interest rates and potential economic slowdown could force higher provisions and compress net interest margins.
-- The stock has fallen 36% from its January 2026 52-week high of $18.98 and declined 21% in the past month despite strong headline earnings, signaling that market skepticism around Brazil macro exposure, peso headwinds, and deposit-pricing competition with incumbents is consistently outweighing growth metrics.
+- RSI at 75.62 signals overbought conditions; shares fell three consecutive sessions from the $818.67 all-time high before today's bounce, and rising 30-year Treasury yields at 19-year highs are compressing valuation multiples across all high-growth tech.
+- Memory semiconductors are historically among the most cyclical sectors in tech; insider selling into recent strength raises concerns about cycle durability, and a sustained AI capex slowdown could rapidly flip the current HBM supply shortage into damaging oversupply — as occurred violently in 2022-2023.
 
 **Recommendation:** Speculative Buy
 
 **Metrics:**
 | Metric | Value |
 |--------|-------| 
-| Current Price | $12.13 |
-| Price Target | $18.46 (+52.2%) |
-| P/E Ratio | 21.62 |
-| RSI | 54.4 |
-| vs 52-Wk High | -36.1% below high ($18.98) |
-| Analyst Rating | Strong Buy |
-| Sector | Financials - Digital Banking |
+| Current Price | $698.74 |
+| Price Target | $800.00 (+14.5%) |
+| P/E Ratio | 31.76 |
+| RSI | 75.62 |
+| vs 52-Wk High | -14.6% below high ($818.67) |
+| Analyst Rating | Buy |
+| Sector | Technology - Memory Semiconductors |
 
-**Sources:** 24/7 Wall St., Simply Wall St, StockTitan, Yahoo Finance, GuruFocus, MarketBeat, Tickeron
+**Sources:** TradingKey, GuruFocus, Mizuho/Yahoo Finance, FX Leaders, Seeking Alpha, CNBC
 
 ---
 
-## VIKING HOLDINGS (VIK)
+## AKAMAI TECHNOLOGIES, INC. (AKAM) ⭐
 
-**Discussion Driver:** Viking Holdings received a wave of analyst price target raises (JPMorgan to $112, Susquehanna to $105, Stifel to $105, Citi to $101, Goldman Sachs to $95) following Q1 2026 revenue of $1.05B (+17.5% YoY) and 2027 bookings running 31% ahead of the prior year's pace. The stock hit a new 52-week high amid a simultaneous CEO transition that was well-received by investors.
+**Discussion Driver:** Shares tumbled ~4% on May 19 after Akamai announced a proposed $2.6B convertible senior notes offering (two tranches of $1.3B due 2030 and 2032), with proceeds earmarked to accelerate its Cloud Infrastructure Services buildout and fund up to $350M in share buybacks. The move came shortly after the stock hit fresh 52-week highs on strong Q1 2026 earnings where Cloud Infrastructure Services revenue surged 40% YoY and a single AI model provider committed $1.8B over seven years.
 
 **Bull Case:**
-- Viking's 2027 season is already 38% booked with capacity growing 15%, and ocean bookings are pacing at $882 per passenger cruise day vs. $786 for 2026 at the same point — accelerating pricing alongside advance booking momentum signals durable pricing power and resilient consumer demand for premium expedition-style cruising.
-- The company holds $4B in cash with no bond maturities until after 2027, providing ample financial flexibility for fleet expansion; adjusted EBITDA improved 44% YoY in Q1 2026, and 10 analyst buy signals with zero sell signals on technical indicators reflect broad institutional confidence in the growth trajectory.
+- Akamai's pivot from legacy CDN to a cloud-to-edge infrastructure platform is gaining traction: Q1 2026 showed 40% YoY growth in Cloud Infrastructure Services and 11% security revenue growth, with a landmark $1.8B, 7-year contract from a leading frontier AI model provider validating durable enterprise demand.
+- Dilution risk from the convertible notes is partially offset by convertible hedge transactions and $350M in concurrent share buybacks; proceeds fund a high-growth CapEx cycle, and the stock's recent 52-week highs demonstrate underlying business momentum ahead of this offering.
 
 **Bear Case:**
-- Viking's River segment saw 8% capacity declines in Q1 and experienced brief booking softness following macroeconomic disruptions; temporary Egypt itinerary suspensions and transatlantic air cost increases represent near-term headwinds to adjusted gross margins that could pressure near-term earnings.
-- At a 32x trailing P/E near its 52-week high, the stock has limited margin for error — any deterioration in discretionary luxury travel spending, geopolitical disruptions to itineraries, or broader macro slowdown could trigger significant multiple compression from current elevated levels.
+- The $2.6B convertible offering creates immediate dilution overhang and typically triggers hedge fund short-selling pressure as arb desks short the stock upon buying the notes, weighing on near-term price action despite partial hedge transactions.
+- Legacy CDN revenue continues its secular decline as major media customers like Disney and Netflix build in-house delivery solutions, while the cloud segment faces intense competition from hyperscalers (AWS, Azure, GCP) with far greater scale and bundling power.
+
+**Recommendation:** Hold
+
+**Metrics:**
+| Metric | Value |
+|--------|-------| 
+| Current Price | $143.67 |
+| Price Target | $156.31 (+8.8%) |
+| P/E Ratio | 50.97 |
+| RSI | 63.08 |
+| vs 52-Wk High | -13.2% below high ($165.45) |
+| Analyst Rating | Buy |
+| Sector | Technology - Cloud Computing / Cybersecurity / CDN |
+
+**Sources:** Investing.com, MarketBeat, StockTitan, GlobeNewswire, Benzinga, Seeking Alpha, FinancialContent
+
+---
+
+## SHAKE SHACK INC. (SHAK) ⭐
+
+**Discussion Driver:** Shares rallied ~5.5-6.6% after SEC filings revealed heavy insider buying on May 15: CEO Robert Lynch purchased 5,000 shares and founder-chair Daniel Meyer acquired ~32,300 shares (combined ~$2.3M at ~$60-61/share). The buying occurred near the stock's 52-week low — a level insiders apparently viewed as a compelling entry point — drawing attention from momentum traders and prompting Stifel to upgrade to Buy, noting SHAK trades near 10-year valuation lows despite ongoing low-teens unit growth.
+
+**Bull Case:**
+- Aggressive insider buying by CEO Lynch and founder-chair Meyer at multi-year lows is a high-conviction management confidence signal; Stifel upgraded to Buy with an $85 target, and most major banks (Barclays, Oppenheimer, Raymond James, Mizuho, Morgan Stanley) maintained Buy/Outperform ratings despite near-term margin pressure, with 17 of 17 polled analysts recommending the stock.
+- Wall Street consensus price target of ~$113.61 implies roughly 77% upside from current levels, reflecting analyst conviction that the selloff is excessive relative to the brand's long-term unit growth runway and premium market positioning in an underpenetrated domestic and international market.
+
+**Bear Case:**
+- Stock has fallen ~56% from its 52-week high of $144.65 and Q1 2026 reported a net loss despite double-digit revenue growth, driven by rising labor, food, and occupancy costs; the elevated trailing P/E of ~65x leaves little margin for error if margin headwinds persist.
+- Premium fast-casual brands face structural risks from consumer trade-down in an inflationary environment; with the 30-year Treasury above 5.19%, higher rates pressure discretionary restaurant spending and compress valuation multiples for high-PE growth names.
+
+**Recommendation:** Speculative Buy
+
+**Metrics:**
+| Metric | Value |
+|--------|-------| 
+| Current Price | $64.11 |
+| Price Target | $113.61 (+77.2%) |
+| P/E Ratio | 65.22 |
+| RSI | 18.0 |
+| vs 52-Wk High | -55.7% below high ($144.65) |
+| Analyst Rating | Buy |
+| Sector | Consumer Discretionary - Fast Casual Restaurants |
+
+**Sources:** GuruFocus, Timothy Sykes / Tikr, Benzinga, StockTitan, StockTwits, MarketBeat
+
+---
+
+## SERVICENOW, INC. (NOW) ⭐
+
+**Discussion Driver:** Bank of America reinstated coverage at Buy with a $130 price target, calling ServiceNow the 'workflow giant built for the agentic AI era,' sending shares up ~8.9% on May 19. The reinstatement followed the company's Knowledge 2026 event showcasing expanded AI agent capabilities and Q1 2026 subscription revenue growth of 22% YoY — though the stock remains deeply below its 52-week high after falling ~18% post-Q1 earnings on investor concerns about guidance and valuation.
+
+**Bull Case:**
+- ServiceNow is uniquely positioned as the enterprise operating system for AI agents, with Q1 2026 subscription revenues growing 22% YoY and a consistent beat-and-raise track record; 35 of 39 covering analysts rate it Buy or Strong Buy, with Bernstein maintaining a $236 target following the Analyst Day focused on AI agent workflows.
+- Consensus price target of $143.06 implies ~38% upside from current levels, and the stock's sharp intraday bounce from near its 52-week low signals potential for multiple re-expansion as enterprise AI adoption accelerates and rate fears stabilize.
+
+**Bear Case:**
+- NOW has fallen ~51% from its 52-week high of $211.48, reflecting a significant valuation reset driven by elevated rates and post-earnings disappointment; BofA's reinstatement at $130 is well below the consensus and prior trading range, suggesting cautious near-term expectations and an elongated recovery path.
+- Enterprise software faces longer sales cycles as CFOs scrutinize AI ROI before committing to large platform contracts; if subscription growth decelerates below 20% YoY or guidance is trimmed again, the stock's premium multiple could compress further despite strong analyst sentiment.
 
 **Recommendation:** Buy
 
 **Metrics:**
 | Metric | Value |
 |--------|-------| 
-| Current Price | $84.11 |
-| Price Target | $105.00 (+24.8%) |
-| P/E Ratio | 32.45 |
-| RSI | 62.4 |
-| vs 52-Wk High | -3.7% below high ($87.31) |
-| Analyst Rating | Buy |
-| Sector | Consumer Discretionary - Travel & Cruise |
+| Current Price | $103.40 |
+| Price Target | $143.06 (+38.3%) |
+| P/E Ratio | 41.29 |
+| RSI | 59.10 |
+| vs 52-Wk High | -51.1% below high ($211.48) |
+| Analyst Rating | Strong Buy |
+| Sector | Technology - Enterprise Cloud Software |
 
-**Sources:** TIKR, Barchart, Motley Fool, JPMorgan, Susquehanna, Stifel, Citi, Goldman Sachs, Benzinga, StockTitan
+**Sources:** StockAnalysis, MarketBeat, Yahoo Finance, TradingKey, TheStreet, 247WallSt, Bernstein via Yahoo Finance
+
+---
+
+## BLACKSTONE INC. (BX)
+
+**Discussion Driver:** Blackstone announced a $5B equity commitment to a new AI infrastructure joint venture with Google, creating a U.S.-based company offering data center capacity and Google Cloud TPU chips as a compute-as-a-service platform; the first 500MW of capacity is expected online in 2027. The deal reinforces Blackstone's strategy of deploying capital into AI infrastructure demand, though shares ended the session down 2.25% to $114.79 as the broader bearish market tone (30-year Treasury at 5.19%) overwhelmed the deal catalyst.
+
+**Bull Case:**
+- The $5B Google TPU Cloud JV positions Blackstone at the epicenter of the AI infrastructure supercycle, monetizing surging compute demand through its real assets platform; Blackstone's $1T+ AUM and diversified alternative asset engine (private equity, credit, real estate, infrastructure) provides durable fee income regardless of near-term equity market volatility.
+- At $114.79, BX trades ~40% below its 52-week high of $190.08 with a consensus price target of $157.23 implying ~37% upside; 17 of 26 analysts rate it Buy, and accelerating AUM deployment in private credit and infrastructure should drive distributable earnings growth over the next 12-18 months.
+
+**Bear Case:**
+- The 30-year Treasury yield hitting 5.19% — a 19-year high — is a direct headwind: higher rates compress alternative asset valuations, slow portfolio company exits that generate performance fees, and dampen LP appetite for new illiquid PE and real estate fund commitments.
+- The $5B Google AI JV ties up significant capital in a long-dated infrastructure play with execution risk; if AI compute demand softens or competing TPU/GPU cloud offerings erode pricing power, the investment economics could disappoint relative to Blackstone's historical return targets.
+
+**Recommendation:** Buy
+
+**Metrics:**
+| Metric | Value |
+|--------|-------| 
+| Current Price | $114.79 |
+| Price Target | $157.23 (+37.0%) |
+| P/E Ratio | 29.45 |
+| RSI | 30.52 |
+| vs 52-Wk High | -39.6% below high ($190.08) |
+| Analyst Rating | Buy |
+| Sector | Financials - Alternative Asset Management |
+
+**Sources:** CNBC, Bloomberg, GuruFocus, Blackstone Press Release via ConnectMoney, MarketBeat, StockAnalysis
+
+---
+
+## ALPHABET INC. (GOOGL) ⭐
+
+**Discussion Driver:** Alphabet featured as a premarket mover after Blackstone announced the $5B Google AI TPU Cloud JV, showcasing Google's strategy to monetize its custom TPU chips beyond the core Google Cloud service. Despite the headline deal, GOOGL shares fell 1.76% in the session amid a broad tech selloff driven by 30-year Treasury yields at a 19-year high of 5.19%. The stock remains within 3% of its 52-week high following a blowout Q1 2026 with 22% total revenue growth and Google Cloud up 63% YoY to over $20B.
+
+**Bull Case:**
+- Google Cloud's 63% revenue growth in Q1 2026 validates AI infrastructure demand capture, and the Blackstone JV creates a new revenue stream by monetizing TPU compute capacity as a service; Alphabet's dominant search, YouTube, and cloud portfolio generates exceptional free cash flow supporting ongoing buybacks and continued AI investment at scale.
+- At a trailing P/E of ~30x with 57 of 57 analysts rating it Buy or Strong Buy and consensus target of $427.89, GOOGL offers a reasonable valuation relative to its growth rate for a mega-cap; continued cloud market share gains and AI-enhanced search monetization provide multiple long-term upside drivers.
+
+**Bear Case:**
+- Ongoing DOJ and EU antitrust actions targeting Google Search and digital advertising remain unresolved structural overhangs; adverse court rulings or mandated structural remedies could disrupt the core search monopoly that generates the majority of Alphabet's operating income.
+- RSI near 70 with the stock trading within 3% of its 52-week high of $408.61 signals near-term overbought conditions; in a rising-rate, risk-off environment, high-multiple tech stocks face multiple compression with limited margin of safety at current levels and only ~8% upside to consensus target.
+
+**Recommendation:** Hold
+
+**Metrics:**
+| Metric | Value |
+|--------|-------| 
+| Current Price | $396.94 |
+| Price Target | $427.89 (+7.8%) |
+| P/E Ratio | 30.28 |
+| RSI | 70.3 |
+| vs 52-Wk High | -2.9% below high ($408.61) |
+| Analyst Rating | Strong Buy |
+| Sector | Technology - Internet / Digital Advertising / Cloud |
+
+**Sources:** CNBC, Bloomberg, Yahoo Finance, MarketBeat, StockAnalysis, Cryptonomist, StockTwits
 
 ---
 
 ## DAILY INSIGHTS
 
-- **Most Bullish Sector:** Healthcare - Biotechnology
-- **Most Bearish Sector:** Technology - Data Management / Ad Tech
-- **Most Mentioned Stock:** VIK — appeared in 10 sources
+- **Most Bullish Sector:** Consumer Discretionary - Home Improvement Retail
+- **Most Bearish Sector:** Technology - Semiconductors (Custom AI Silicon)
+- **Most Mentioned Stock:** AKAM — appeared in 7 sources
 - **Sentiment Shift:** Market tone is Bearish
 
 ---
 
 ## REPORT ARCHIVE
+
+### 2026-05-19 | Bearish | 30-year Treasury yield hits 19-year high above 5.19%, pressuring equities for third straight session, AI infrastructure mega-investment: Blackstone commits $5B to Google AI JV; Meta reassigns 7K workers to AI amid 8K layoffs, Earnings season continues: Home Depot, Amer Sports, Agilysys report; Nvidia earnings tomorrow (May 20) in focus
+
+| Stock | Rec | Price | Target | vs 52-Wk High |
+|-------|-----|-------|--------|---------------|
+| HD ⭐ | Buy | $302.01 | $411.83 (+36.4%) | -29.1% below high ($426.00) |
+| AS | Buy | $35.50 | $39.84 (+12.2%) | -17.0% below high ($42.76) |
+| AGYS | Buy | $75.27 | $128.00 (+70.1%) | -48.2% below high ($145.25) |
+| MRVL | Hold | $172.15 | $139.36 (consensus avg, -19.1%); recent upgrades: $155-$205 | AT 52-week high ($172.15) |
+| MU ⭐ | Spec. Buy | $698.74 | $800.00 (+14.5%) | -14.6% below high ($818.67) |
+| AKAM ⭐ | Hold | $143.67 | $156.31 (+8.8%) | -13.2% below high ($165.45) |
+| SHAK ⭐ | Spec. Buy | $64.11 | $113.61 (+77.2%) | -55.7% below high ($144.65) |
+| NOW ⭐ | Buy | $103.40 | $143.06 (+38.3%) | -51.1% below high ($211.48) |
+| BX | Buy | $114.79 | $157.23 (+37.0%) | -39.6% below high ($190.08) |
+| GOOGL ⭐ | Hold | $396.94 | $427.89 (+7.8%) | -2.9% below high ($408.61) |
 
 ### 2026-05-18 | Bearish | Rising Treasury yields: 10-year hits 4.6%, highest in a year, stoking inflation fears, Landmark NextEra-Dominion $66.8B utility mega-merger driven by AI data center power demand, Ad-tech consolidation: Publicis acquires LiveRamp in $2.5B all-cash deal, AI semiconductor momentum: Nvidia pre-earnings analyst upgrades, Micron target hikes, Crypto selloff: Bitcoin falls below $77K, pressuring Coinbase and Robinhood
 
