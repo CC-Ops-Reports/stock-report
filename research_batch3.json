@@ -1,72 +1,70 @@
 {
-  "report_date": "2026-05-18",
+  "report_date": "2026-05-20",
   "batch": 3,
   "stocks": [
     {
-      "ticker": "CTSH",
-      "company": "Cognizant Technology Solutions",
-      "discussion_driver": "Cognizant doubled its 2026 share repurchase target to $2B and announced an additional $2B authorization on May 18, sending the stock up ~7%. CEO Ravi Kumar stated the current price 'significantly undervalues' the company's AI-era prospects, signaling strong conviction in the long-term opportunity AI creates for IT services.",
+      "ticker": "AMD",
+      "company": "Advanced Micro Devices, Inc.",
+      "discussion_driver": "AMD shares fell under pressure today as investors reassessed AI chip valuations in the wake of NVIDIA's blowout Q1 FY2027 earnings, which highlighted the competitive gap between the two chipmakers. Multiple recent Wall Street downgrades (HSBC to Hold, Daiwa to Market Perform) cite a 'too far, too fast' rally — AMD's stock has climbed ~114% YTD — while the trailing P/E of 138x leaves little room for error. The NVDA beat reinforces AMD's AI data center tailwind but simultaneously underscores NVDA's dominance, keeping AMD in a challenging second-place position.",
       "bull_case": [
-        "The $2B buyback expansion at a depressed ~10x trailing P/E — well below IT service peers — is highly accretive and signals management confidence; the CEO's explicit statement that the stock is 'significantly undervalued' supports the view that aggressive capital return is a direct response to a dislocation between intrinsic value and market price.",
-        "Cognizant is strategically positioned for enterprise AI adoption with a durable outsourcing business model; 40 Wall Street analysts maintain a median price target of $83, implying over 65% upside from current levels and suggesting the market has overly discounted near-term IT sector headwinds."
+        "Data Center segment revenue surged 57% YoY to $5.8B in Q1 2026 driven by Instinct GPU demand; Meta (up to 6 GW of MI450 deployments) and Oracle (50,000 MI450 GPU supercluster from Q3 2026) represent massive committed hyperscaler demand, with ROCm 7 software closing the gap versus NVIDIA's CUDA ecosystem",
+        "Forward PEG ratio of ~1.26 is below the sector median of 1.45 on 34% forward revenue growth; AMD's $5B+ MI300X revenue ramp has already proven the GPU business model, and the MI450 generation positions AMD for continued AI infrastructure market share gains through 2027"
       ],
       "bear_case": [
-        "CTSH trades 42% below its 52-week high with bearish technical signals across multiple moving averages; the IT services sector faces a structural threat from AI automation that could reduce demand for traditional outsourcing, which remains the core of Cognizant's revenue model.",
-        "Revenue growth has lagged faster-moving competitors, and the buyback expansion may reflect a scarcity of higher-return reinvestment opportunities rather than pure confidence — the 15 Hold vs. 13 Buy analyst split reflects widespread caution about near-term catalysts for meaningful re-rating."
+        "Trailing P/E of 138x and MACD turning negative on May 19 signal near-term valuation risk; HSBC, Daiwa, and additional analysts have downgraded citing the 250%+ rally over the past year with AI demand optimism already fully priced into the stock",
+        "Heavy reliance on TSMC manufacturing creates supply capacity constraints that could limit AMD's ability to capitalize on demand surges; stock has already fallen ~11.8% from its May 11 all-time high of $469.22 in just nine trading days, suggesting near-term momentum has stalled"
       ],
       "recommendation": "Hold",
-      "current_price": "$50.07",
-      "price_target": "$83.00 (+65.8%)",
-      "pe_ratio": "10.22",
-      "rsi": "49.1",
-      "vs_52wk_high": "-42.5% below high ($87.03)",
-      "analyst_rating": "Hold",
-      "sector": "Information Technology - IT Services",
-      "sources": ["StockTitan", "TipRanks", "Insider Monkey", "MarketBeat", "Investing.com", "CNBC", "Yahoo Finance"]
+      "current_price": "$414.05",
+      "price_target": "$459.96 (+11.1%)",
+      "pe_ratio": "138.02",
+      "rsi": "67.29",
+      "vs_52wk_high": "-11.8% below high ($469.22)",
+      "analyst_rating": "Buy",
+      "sector": "Information Technology - Semiconductors",
+      "sources": [
+        "Seeking Alpha",
+        "CNBC",
+        "24/7 Wall St.",
+        "GuruFocus",
+        "HeyGoTrade",
+        "HSBC Research",
+        "MarketBeat",
+        "StockAnalysis"
+      ],
+      "price_history_5d": [424.10, 420.99, 414.05]
     },
     {
-      "ticker": "NU",
-      "company": "Nu Holdings",
-      "discussion_driver": "Nu Holdings reported record Q1 2026 results — $871M net income (+41% YoY) and its first-ever $5B+ revenue quarter — with Mexico reaching break-even ahead of plan. Despite the beat, the stock declined as investors focused on elevated credit provisions and a rapidly expanding loan book ($37.2B, up 54% YoY), raising credit quality concerns in Brazil's high interest rate environment.",
+      "ticker": "MRK",
+      "company": "Merck & Co., Inc.",
+      "discussion_driver": "Merck shares moved modestly higher as the DRC Ebola outbreak (Bundibugyo strain, ~500 suspected cases, 116 deaths) raised investor interest in Merck's Ervebo vaccine platform; the WHO convened an emergency expert panel on May 19 to evaluate whether Ervebo — designed for the Zaire ebolavirus strain — could be deployed for emergency use despite limited cross-strain protection data. While this offers limited direct revenue upside, it elevates Merck's public health profile and CEPI partnership. The broader fundamental story remains Merck navigating KEYTRUDA's 2028 patent expiration while deploying an 80-trial Phase 3 pipeline.",
       "bull_case": [
-        "Nu's 131M customer base, 41% net income growth, and first-ever $5B+ revenue quarter confirm exceptional operating scale; Mexico breaking even ahead of schedule and conditional OCC approval in January 2026 opening US market optionality provide multiple durable growth runways beyond the core Brazil business.",
-        "With 21 analysts rating NU a Strong Buy and an average price target of $19.49 implying over 60% upside, institutional conviction in Nu's compounding ARPAC growth trajectory remains high — the current selloff represents a potential entry point as the market overweights near-term credit concerns relative to the long-term digital banking disruption thesis."
+        "KEYTRUDA growing 12% YoY to $8.03B and WINREVAIR surging 88% to $525M demonstrate durable franchise momentum; deep 80 Phase III trial pipeline includes near-term catalysts such as the WELIREG + KEYTRUDA adjuvant RCC PDUFA decision in June 2026, with Wall Street 62% bullish and zero sell ratings",
+        "Attractive valuation at 18.2x forward P/E for a large-cap pharma; subcutaneous KEYTRUDA formulation could retain 30-40% of patients post-2028 patent cliff, and the V940/Moderna mRNA cancer vaccine partnership adds a potential new multi-billion dollar revenue category beyond the core oncology franchise"
       ],
       "bear_case": [
-        "The loan book surged 54% YoY to $37.2B while non-performing loans rose from $2.0B to $3.0B; expected credit loss exposure stands at $5.0B — elevated credit risk in Brazil amid persistently high interest rates and potential economic slowdown could force higher provisions and compress net interest margins.",
-        "The stock has fallen 36% from its January 2026 52-week high of $18.98 and declined 21% in the past month despite strong headline earnings, signaling that market skepticism around Brazil macro exposure, peso headwinds, and deposit-pricing competition with incumbents is consistently outweighing growth metrics."
-      ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$12.13",
-      "price_target": "$18.46 (+52.2%)",
-      "pe_ratio": "21.62",
-      "rsi": "54.4",
-      "vs_52wk_high": "-36.1% below high ($18.98)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Financials - Digital Banking",
-      "sources": ["24/7 Wall St.", "Simply Wall St", "StockTitan", "Yahoo Finance", "GuruFocus", "MarketBeat", "Tickeron"]
-    },
-    {
-      "ticker": "VIK",
-      "company": "Viking Holdings",
-      "discussion_driver": "Viking Holdings received a wave of analyst price target raises (JPMorgan to $112, Susquehanna to $105, Stifel to $105, Citi to $101, Goldman Sachs to $95) following Q1 2026 revenue of $1.05B (+17.5% YoY) and 2027 bookings running 31% ahead of the prior year's pace. The stock hit a new 52-week high amid a simultaneous CEO transition that was well-received by investors.",
-      "bull_case": [
-        "Viking's 2027 season is already 38% booked with capacity growing 15%, and ocean bookings are pacing at $882 per passenger cruise day vs. $786 for 2026 at the same point — accelerating pricing alongside advance booking momentum signals durable pricing power and resilient consumer demand for premium expedition-style cruising.",
-        "The company holds $4B in cash with no bond maturities until after 2027, providing ample financial flexibility for fleet expansion; adjusted EBITDA improved 44% YoY in Q1 2026, and 10 analyst buy signals with zero sell signals on technical indicators reflect broad institutional confidence in the growth trajectory."
-      ],
-      "bear_case": [
-        "Viking's River segment saw 8% capacity declines in Q1 and experienced brief booking softness following macroeconomic disruptions; temporary Egypt itinerary suspensions and transatlantic air cost increases represent near-term headwinds to adjusted gross margins that could pressure near-term earnings.",
-        "At a 32x trailing P/E near its 52-week high, the stock has limited margin for error — any deterioration in discretionary luxury travel spending, geopolitical disruptions to itineraries, or broader macro slowdown could trigger significant multiple compression from current elevated levels."
+        "KEYTRUDA's 2028 patent expiration puts $8B+ in annual revenue at risk from biosimilar competition; three failed Phase 3 trials in 2025-2026 (LITESPARK-012, KEYNOTE-975, KEYNOTE-866) heighten pipeline execution risk and raise questions about the depth of replacement revenue",
+        "GARDASIL revenue in China collapsed 47%, signaling geographic concentration risk; Ervebo is strain-specific to Zaire ebolavirus while the current DRC outbreak is the Bundibugyo strain, limiting direct commercial benefit from the Ebola headline catalyst"
       ],
       "recommendation": "Buy",
-      "current_price": "$84.11",
-      "price_target": "$105.00 (+24.8%)",
-      "pe_ratio": "32.45",
-      "rsi": "62.4",
-      "vs_52wk_high": "-3.7% below high ($87.31)",
+      "current_price": "$113.95",
+      "price_target": "$129.74 (+13.9%)",
+      "pe_ratio": "31.48",
+      "rsi": "N/A",
+      "vs_52wk_high": "-8.9% below high ($125.14)",
       "analyst_rating": "Buy",
-      "sector": "Consumer Discretionary - Travel & Cruise",
-      "sources": ["TIKR", "Barchart", "Motley Fool", "JPMorgan", "Susquehanna", "Stifel", "Citi", "Goldman Sachs", "Benzinga", "StockTitan"]
+      "sector": "Healthcare - Pharmaceuticals",
+      "sources": [
+        "CNBC",
+        "NBC News",
+        "Bloomberg",
+        "STAT News",
+        "24/7 Wall St.",
+        "Seeking Alpha",
+        "MarketBeat",
+        "Infection Control Today"
+      ],
+      "price_history_5d": [111.38, 111.61, 114.24, 113.95]
     }
   ]
 }
