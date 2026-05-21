@@ -1,145 +1,174 @@
 {
-  "report_date": "2026-05-20",
-  "market_tone": "Bullish",
+  "report_date": "2026-05-21",
+  "market_tone": "Mixed",
   "key_themes": [
-    "Nvidia Q1 FY2027 earnings beat + SpaceX IPO S-1 filing dominate market narrative",
-    "Broad retail earnings beat (TGT/LOW/TJX) signal consumer spending recovery",
-    "AI restructuring wave: Intuit cuts 17% of workforce to accelerate AI pivot"
+    "Quantum computing stocks surge on $2B U.S. government grant announcement",
+    "AI-driven restructuring wave: Intuit cuts 17% of staff, Meta 8,000 jobs",
+    "Nvidia posts record $81.6B quarter (+85% YoY) but stock dips on high expectations",
+    "Retail pressure: Walmart falls 7-8% on cautious guidance as fuel costs squeeze margins",
+    "Obesity drug arms race: Eli Lilly next-gen retatrutide clears late-stage trial with 28% weight loss"
   ],
   "sp500": {
-    "value": "7,329.00",
-    "change": "+0.77%"
+    "value": "7,446",
+    "change": "-0.45%"
   },
   "nasdaq": {
-    "value": "25,973.00",
-    "change": "+1.10%"
+    "value": "26,293",
+    "change": "-0.50%"
   },
   "stocks": [
     {
       "ticker": "NVDA",
-      "company": "NVIDIA Corporation",
-      "reason": "Q1 FY2027 earnings beat after close: revenue $81.6B vs $79.2B expected, EPS $1.87 vs $1.76; announced $80B buyback and dividend hike; unusual call-side options activity noted by CNBC pre-earnings",
+      "company": "Nvidia Corporation",
+      "reason": "Q1 FY2027 earnings beat: $1.87 EPS vs $1.75 est, revenue $81.6B (+85% YoY); announced $80B buyback and dividend raised to $0.25/share; stock slightly lower despite record results as bar was high",
       "category": "earnings",
       "sources": [
-        "TheStreet",
-        "StockTitan",
+        "CNBC",
         "Kiplinger",
-        "CNBC"
+        "SEC filing"
       ]
     },
     {
-      "ticker": "GS",
-      "company": "Goldman Sachs Group",
-      "reason": "Stock +5.8% after confirmed as lead-left underwriter for SpaceX IPO; SpaceX filed S-1 targeting $75B raise at $1.75-2T valuation \u2014 potentially largest IPO in history; GS fees could exceed $1B",
-      "category": "news",
+      "ticker": "WMT",
+      "company": "Walmart Inc.",
+      "reason": "Q1 FY2027 earnings: Revenue $177.8B beat but FY guidance of $2.75-$2.85 EPS missed $2.92 consensus; fuel costs created $175M headwind; stock fell 7-8%",
+      "category": "earnings",
       "sources": [
-        "CNBC",
-        "Euronews",
-        "Benzinga",
-        "The Motley Fool"
+        "Yahoo Finance",
+        "Motley Fool",
+        "Seeking Alpha"
       ]
     },
     {
       "ticker": "INTU",
       "company": "Intuit Inc.",
-      "reason": "Stock down ~5% after announcing layoff of 3,000 employees (17% of workforce) to fund AI pivot; signed multi-year deals with Anthropic and OpenAI; Q3 EPS beat but revenue light",
-      "category": "news",
+      "reason": "Q3 earnings beat but accompanied by shock 17% workforce reduction (3,000 jobs); $300-340M restructuring charges; TurboTax units declining; stock crashed 16-20% to 52-week lows",
+      "category": "earnings",
       "sources": [
         "CNBC",
         "TechCrunch",
-        "TechStartups"
-      ]
-    },
-    {
-      "ticker": "TGT",
-      "company": "Target Corporation",
-      "reason": "Q1 2026 earnings beat: EPS $1.71 vs $1.35 expected (+27%); comparable sales +5.6%, ending four straight quarters of negative comps; raised full-year outlook",
-      "category": "earnings",
-      "sources": [
-        "Yahoo Finance",
-        "HeyGoTrade"
-      ]
-    },
-    {
-      "ticker": "LOW",
-      "company": "Lowe's Companies",
-      "reason": "Q1 2026 earnings beat: EPS $3.03 above Zacks consensus, $23.1B in revenue; fourth straight quarter of positive comparable sales; raised full-year guidance",
-      "category": "earnings",
-      "sources": [
-        "Yahoo Finance",
-        "HeyGoTrade"
-      ]
-    },
-    {
-      "ticker": "TJX",
-      "company": "TJX Companies",
-      "reason": "Q1 2026 18% EPS beat at $1.19/share; comparable sales +6%; raised full-year EPS guidance to $5.08-$5.15; consumer off-price spending remains resilient",
-      "category": "earnings",
-      "sources": [
-        "Yahoo Finance",
-        "HeyGoTrade"
-      ]
-    },
-    {
-      "ticker": "CAVA",
-      "company": "CAVA Group",
-      "reason": "Q1 revenue $438M beat vs $411M expected; same-restaurant sales +9.7% on guest traffic growth of 6.8%; raised FY2026 same-store sales guidance; stock up 7.5% premarket",
-      "category": "earnings",
-      "sources": [
-        "Bloomberg",
-        "Benzinga",
-        "StockTwits"
-      ]
-    },
-    {
-      "ticker": "ADI",
-      "company": "Analog Devices",
-      "reason": "Q2 FY2026 earnings beat (EPS $3.09 vs $2.90, revenue $3.62B vs $3.51B, +37% YoY); stock fell 7% despite beat \u2014 sell-the-news reaction on AI data center demand tailwind already priced in",
-      "category": "earnings",
-      "sources": [
-        "GuruFocus",
-        "Investing.com"
-      ]
-    },
-    {
-      "ticker": "SHOP",
-      "company": "Shopify Inc.",
-      "reason": "Analyst upgrade today citing accelerating e-commerce trends and AI-powered Merchant Solutions expansion; upgrade noted alongside strong revenue growth momentum",
-      "category": "upgrade",
-      "sources": [
-        "Seeking Alpha",
         "Benzinga"
       ]
     },
     {
-      "ticker": "QCOM",
-      "company": "Qualcomm Incorporated",
-      "reason": "Multiple analyst upgrades today: Daiwa to Outperform, Melius Research raised PT to $220 from $170, Baird raised PT; catalysts include emerging data center AI CPU opportunity and smartphone headwinds now priced in",
-      "category": "upgrade",
-      "sources": [
-        "Seeking Alpha",
-        "The Motley Fool",
-        "TradingKey"
-      ]
-    },
-    {
-      "ticker": "AMD",
-      "company": "Advanced Micro Devices",
-      "reason": "Analyst downgrade today amid concerns over stretched valuation; shares under pressure as investors reassess AI chip exposure relative to NVDA earnings beat",
-      "category": "downgrade",
-      "sources": [
-        "Seeking Alpha"
-      ]
-    },
-    {
-      "ticker": "MRK",
-      "company": "Merck & Co.",
-      "reason": "Stock modestly higher as Ebola outbreak in DRC (Bundibugyo strain, ~500 suspected cases, 116 deaths) grows; Merck working with CEPI on Ervebo vaccine deployment; WHO convening emergency expert panel",
+      "ticker": "RGTI",
+      "company": "Rigetti Computing",
+      "reason": "Surged 30%+ after WSJ reported U.S. government plans to award $2B in grants to nine quantum computing firms; Rigetti named as a grant recipient",
       "category": "news",
       "sources": [
         "CNBC",
-        "NBC News",
         "Bloomberg"
+      ]
+    },
+    {
+      "ticker": "QBTS",
+      "company": "D-Wave Quantum Inc.",
+      "reason": "Shares surged 24% to $24.02 on news of receiving ~$100M from Trump administration's $2B quantum computing grant program",
+      "category": "news",
+      "sources": [
+        "IBTimes",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "IONQ",
+      "company": "IonQ Inc.",
+      "reason": "Gained ~9% as a named recipient in the U.S. government's $2B quantum computing sector funding package announced today",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "247WallSt"
+      ]
+    },
+    {
+      "ticker": "IBM",
+      "company": "IBM",
+      "reason": "Rose 6-7% after U.S. Commerce Department announced $2B quantum computing funding; IBM named among grant recipients alongside pure-play quantum firms",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Bloomberg"
+      ]
+    },
+    {
+      "ticker": "LLY",
+      "company": "Eli Lilly and Company",
+      "reason": "Next-generation obesity drug retatrutide (\"triple G\") cleared crucial late-stage trial; patients lost average 28.3% of body weight (70+ lbs), surpassing Wegovy and Zepbound results",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "WRAL",
+        "CP24"
+      ]
+    },
+    {
+      "ticker": "WDAY",
+      "company": "Workday Inc.",
+      "reason": "Q1 FY2027 earnings beat: total revenue $2.542B (+13.5% YoY); raised full-year margin outlook; stock jumped 11% in after-hours trading",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "SEC filing"
+      ]
+    },
+    {
+      "ticker": "EL",
+      "company": "Est\u00e9e Lauder Companies",
+      "reason": "Shares jumped ~12% after hours after confirming with Puig that merger talks have ended, removing deal uncertainty; stock had been depressed on acquisition overhang",
+      "category": "news",
+      "sources": [
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "CAVA",
+      "company": "Cava Group",
+      "reason": "Q1 earnings beat: same-restaurant sales growth ~10% YoY; raised FY2026 same-restaurant growth estimate and net new restaurant opening projections; stock surged ~7.5%",
+      "category": "earnings",
+      "sources": [
+        "TheStreet",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "NIO",
+      "company": "NIO Inc.",
+      "reason": "Q1 2026 earnings: revenue +112% YoY, deliveries +98% to 83,465 vehicles, vehicle margin expanded to 18.8%; EPS of -$0.20 beat -$0.36 estimate; adjusted operating profit turned positive second consecutive quarter",
+      "category": "earnings",
+      "sources": [
+        "Motley Fool",
+        "Quiver Quantitative",
+        "Rolling Out"
+      ]
+    },
+    {
+      "ticker": "ELF",
+      "company": "e.l.f. Beauty Inc.",
+      "reason": "Q4 FY2026 earnings beat: EPS $0.32 vs $0.29 est, revenue $449M vs $427M est; 7th consecutive year of net sales and market share growth across all five brands",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Quiver Quantitative"
+      ]
+    },
+    {
+      "ticker": "DE",
+      "company": "Deere & Company",
+      "reason": "Q2 FY2026 earnings: profit above estimates on stronger small agriculture and construction demand, but North American farm machinery sales sluggish; stock fell ~6.8%",
+      "category": "earnings",
+      "sources": [
+        "Yahoo Finance",
+        "Alphastreet"
+      ]
+    },
+    {
+      "ticker": "RL",
+      "company": "Ralph Lauren Corporation",
+      "reason": "Q4 FY2026 earnings beat on revenue and profit; demonstrated consumer resilience amid tariff uncertainty; shares gained on results",
+      "category": "earnings",
+      "sources": [
+        "TheStreet",
+        "Yahoo Finance"
       ]
     }
   ]
