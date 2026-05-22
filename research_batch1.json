@@ -1,135 +1,137 @@
 {
-  "report_date": "2026-05-20",
+  "report_date": "2026-05-21",
   "batch": 1,
-  "market_tone": "Bullish",
+  "market_tone": "Mixed",
   "key_themes": [
-    "Nvidia Q1 FY2027 earnings beat + SpaceX IPO S-1 filing dominate market narrative",
-    "Broad retail earnings beat (TGT/LOW/TJX) signal consumer spending recovery",
-    "AI restructuring wave: Intuit cuts 17% of workforce to accelerate AI pivot"
+    "Quantum computing stocks surge on $2B U.S. government grant announcement",
+    "AI-driven restructuring wave: Intuit cuts 17% of staff, Meta 8,000 jobs",
+    "Nvidia posts record $81.6B quarter (+85% YoY) but stock dips on high expectations",
+    "Retail pressure: Walmart falls 7-8% on cautious guidance as fuel costs squeeze margins",
+    "Obesity drug arms race: Eli Lilly next-gen retatrutide clears late-stage trial with 28% weight loss"
   ],
   "sp500": {
-    "value": "7,329.00",
-    "change": "+0.77%"
+    "value": "7,446",
+    "change": "-0.45%"
   },
   "nasdaq": {
-    "value": "25,973.00",
-    "change": "+1.10%"
+    "value": "26,293",
+    "change": "-0.50%"
   },
   "stocks": [
     {
       "ticker": "NVDA",
       "company": "NVIDIA Corporation",
-      "discussion_driver": "NVIDIA reported Q1 FY2027 earnings beat with revenue $81.6B vs $79.2B expected and EPS $1.87 vs $1.76, alongside an $80B share buyback and dividend increase. The results reinforce NVIDIA's dominance in AI infrastructure as hyperscalers continue aggressive data center GPU spending, driving shares to a new all-time high of $236.54 on May 14 before pulling back into the earnings date.",
+      "discussion_driver": "NVIDIA reported a record-breaking Q1 FY2027 earnings beat—$1.87 EPS vs. $1.75 estimate and revenue of $81.6B (+85% YoY)—accompanied by an $80B buyback and a raised dividend to $0.25/share. Despite the historic results, the stock dipped slightly as Wall Street's sky-high expectations had largely been priced in ahead of the print.",
       "bull_case": [
-        "Record Q1 FY2027 revenue of $81.6B beat ($79.2B est) with $1.87 EPS; $80B buyback signals management confidence in sustained AI data center demand through 2026 and beyond",
-        "Dominant Blackwell GPU position with no credible near-term competitor at scale; hyperscaler capex cycles lock in multi-quarter revenue visibility"
+        "Blackwell GPU ramp is accelerating into unprecedented AI data center demand, with revenue growing 85% YoY and data center gross margins holding above 70%, suggesting durable pricing power.",
+        "The $80B buyback authorization and dividend increase signal management conviction; consensus of 61 analysts carries a Strong Buy with a $291 average target implying 32%+ upside."
       ],
       "bear_case": [
-        "Elevated trailing PE of 44.75x leaves little margin for error on any forward guidance miss or data center capex slowdown from major cloud providers",
-        "Stock hit all-time high of $236.54 on May 14 and has since pulled back ~5%; RSI at 49.4 signals cooling momentum post-earnings run with sell-the-news risk"
+        "Stock declined despite a massive earnings beat, signaling the market may have already priced in perfection and leaving little margin for error in coming quarters.",
+        "U.S. export restrictions on China-targeted chips constrain a key growth market, while AMD and custom ASIC rivals (Google TPUs, Amazon Trainium) are gaining AI workload design wins."
       ],
       "recommendation": "Buy",
-      "current_price": "$224.00",
-      "price_target": "$275.83 (+23.1%)",
-      "pe_ratio": "44.75",
-      "rsi": "49.4",
-      "vs_52wk_high": "-5.3% below high ($236.54)",
+      "current_price": "$219.45",
+      "price_target": "$291.03 (+32.6%)",
+      "pe_ratio": "34.22",
+      "rsi": "64.27",
+      "vs_52wk_high": "-7.2% below high ($236.54)",
       "analyst_rating": "Strong Buy",
       "sector": "Technology - Semiconductors",
-      "sources": ["TheStreet", "StockTitan", "Kiplinger", "CNBC", "MacroTrends", "StockAnalysis"],
-      "price_history_5d": [235.74, 225.32, 220.61, 224.00]
+      "sources": ["CNBC", "Kiplinger", "MarketBeat", "Yahoo Finance", "SEC filing"],
+      "price_history_5d": [231.50, 223.52, 220.61, 223.47, 219.45]
     },
     {
-      "ticker": "GS",
-      "company": "Goldman Sachs Group",
-      "discussion_driver": "Goldman Sachs shares surged after being confirmed as lead-left underwriter on SpaceX's S-1 filing, targeting a $75B raise at a $1.75-2T valuation that would make it the largest IPO in history. With advisory fees potentially exceeding $1B and the deal catalyzing a broader tech IPO pipeline revival, GS is now trading above its analyst consensus price target of $918.67 following today's move.",
+      "ticker": "WMT",
+      "company": "Walmart Inc.",
+      "discussion_driver": "Walmart reported Q1 FY2027 revenue of $177.8B (beat vs. $174.8B estimate) but issued cautious full-year EPS guidance of $2.75-$2.85 versus the $2.92 Wall Street consensus; a $175M fuel cost headwind weighed on margins. The guidance miss sent the stock down 7-8%, erasing weeks of gains in a single session.",
       "bull_case": [
-        "Lead-left underwriter on the SpaceX IPO targeting $75B raise at $1.75-2T valuation; deal fees could exceed $1B and signals a meaningful reopening of the tech IPO market that benefits GS's entire banking franchise",
-        "Stock up 78.5% over the past 52 weeks reflecting a sustained earnings recovery; trailing PE of 16.77x remains reasonable for a top-tier bulge-bracket investment bank"
+        "Walmart's omnichannel platform—spanning in-store, e-commerce, and grocery pickup—continues to capture market share across income cohorts, with the stock up 34.74% over the past 52 weeks.",
+        "Fortress balance sheet and scale advantages allow sustained investment in automation and private-label expansion even through margin-pressured cycles."
       ],
       "bear_case": [
-        "Stock now trading above analyst consensus price target of $918.67, suggesting valuation is already stretched after today's SpaceX-driven gain and near-term consensus upside is negative",
-        "SpaceX IPO carries significant execution risk: regulatory complexity, unprecedented deal size of $75B, and market window dependency in a still-volatile rate environment"
+        "FY EPS guidance of $2.75-$2.85 meaningfully missed the $2.92 consensus, reflecting fuel cost headwinds ($175M) and signs that consumers are pulling back on discretionary items—trends that could persist into the second half.",
+        "At 48x trailing P/E, WMT carries a premium valuation that leaves very little room for guidance misses or macro deterioration; the post-earnings selloff may not fully capture downside risk if fuel prices remain elevated."
       ],
       "recommendation": "Hold",
-      "current_price": "$955.13",
-      "price_target": "$918.67 (-3.8%)",
-      "pe_ratio": "16.77",
-      "rsi": "59.7",
-      "vs_52wk_high": "-3.0% below high ($984.70)",
-      "analyst_rating": "Hold",
-      "sector": "Financials - Investment Banking & Capital Markets",
-      "sources": ["CNBC", "Euronews", "Benzinga", "The Motley Fool", "StockAnalysis", "FinanceCharts"],
-      "price_history_5d": [968.91, 948.47, 946.36, 928.74, 955.13]
+      "current_price": "$121.82",
+      "price_target": "$138.16 (+13.4%)",
+      "pe_ratio": "48.15",
+      "rsi": "N/A",
+      "vs_52wk_high": "-9.9% below high ($135.16)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Consumer Staples - Retail",
+      "sources": ["Yahoo Finance", "Motley Fool", "Seeking Alpha", "CNBC", "MarketBeat"],
+      "price_history_5d": [132.05, 133.10, 134.20, 130.85, 121.82]
     },
     {
       "ticker": "INTU",
       "company": "Intuit Inc.",
-      "discussion_driver": "Intuit announced the layoff of 3,000 employees (17% of workforce) to fund multi-year AI partnerships with Anthropic and OpenAI, sending shares down over 10% in after-hours trading from the regular-session close of $383.93. Despite a Q3 EPS beat, revenue came in light, amplifying investor concerns about both the pace and cost of the AI transition at a stock already trading near 52-week lows.",
+      "discussion_driver": "Intuit beat Q3 FY2026 EPS ($12.80 vs. $12.28 estimate) and raised full-year guidance, but simultaneously announced a shocking 17% workforce reduction (3,000+ jobs) and $300-$340M in restructuring charges tied to an AI-driven overhaul. Coupled with declining TurboTax unit volumes, the stock crashed 16-20% to multi-year lows as the market questioned whether the core consumer tax franchise faces structural disruption.",
       "bull_case": [
-        "Multi-year AI partnerships with Anthropic and OpenAI position Intuit to fundamentally transform TurboTax and QuickBooks into AI-native financial platforms with significantly higher per-user monetization potential",
-        "17% workforce reduction will materially lower operating costs while refocusing talent on high-margin AI product development within a large, sticky SMB addressable market"
+        "The AI-driven restructuring should dramatically improve long-term operating margins; the concurrent $8B stock buyback at depressed levels signals management confidence that intrinsic value is far above the current price.",
+        "QuickBooks and professional tax platforms retain deep switching costs and durable recurring revenue streams; 29 of 29 analysts still rate INTU a Buy with an average target of $592, implying the selloff is overdone."
       ],
       "bear_case": [
-        "Stock down ~53% from its 52-week high of $813.70 and near annual lows; after-hours drop of 10-13% on earnings day signals deep market skepticism about the transition timeline and near-term revenue impact",
-        "Q3 revenue miss alongside mass layoffs creates dual risk: near-term product disruption and deteriorating top-line growth expectations precisely when transition costs are peaking"
+        "TurboTax is losing unit volume to IRS free-file alternatives and AI-powered competitors, threatening the core consumer business that has historically funded Intuit's growth investments.",
+        "The stock is now 62% below its 52-week high with $300-$340M in restructuring charges reflecting deep structural disruption; the full extent of AI competition on financial software products is still unknown."
       ],
       "recommendation": "Hold",
-      "current_price": "$383.93",
-      "price_target": "$592.33 (+54.3%)",
-      "pe_ratio": "25.54",
+      "current_price": "$308.56",
+      "price_target": "$592.33 (+92.0%)",
+      "pe_ratio": "24.90",
       "rsi": "N/A",
-      "vs_52wk_high": "-52.8% below high ($813.70)",
+      "vs_52wk_high": "-62.1% below high ($813.70)",
       "analyst_rating": "Strong Buy",
       "sector": "Technology - Financial Software",
-      "sources": ["CNBC", "TechCrunch", "TechStartups", "Benzinga", "StockAnalysis", "Simply Wall St"],
-      "price_history_5d": [393.00, 399.71, 383.93]
+      "sources": ["CNBC", "TechCrunch", "Benzinga", "Seeking Alpha", "MarketBeat"],
+      "price_history_5d": [393.00, 399.71, 383.92, 308.56]
     },
     {
-      "ticker": "TGT",
-      "company": "Target Corporation",
-      "discussion_driver": "Target delivered a clear Q1 2026 beat-and-raise (EPS $1.71 vs $1.35 expected, +27% upside; first positive comparable sales in 5 quarters at +5.6%) yet shares fell ~5% as management explicitly flagged slipping consumer sentiment on the earnings call. The sell-the-news reaction reflects the recovery was already priced in following the stock's pre-earnings run from its 52-week low of $83.44.",
+      "ticker": "RGTI",
+      "company": "Rigetti Computing",
+      "discussion_driver": "Rigetti Computing surged over 30% after the WSJ reported that the U.S. government plans to award $2 billion in quantum computing grants to nine firms—with Rigetti named as a recipient. The announcement, alongside Q1 2026 revenue that tripled year-over-year, dramatically lifted sentiment for a company that had been trading well below its 52-week highs amid pre-profitability concerns.",
       "bull_case": [
-        "First positive comparable sales growth (+5.6%) in five quarters signals a genuine inflection; EPS beat of 27% with raised full-year revenue guidance to +4% net sales growth reinforces recovery momentum",
-        "Trades at only 15.6x trailing earnings near the lower end of its 52-week range with a Buy analyst consensus, offering reasonable value for investors willing to hold through near-term macro noise"
+        "Named recipient of the U.S. government's $2B quantum computing grant provides non-dilutive capital and powerful government validation of Rigetti's technology platform and commercial roadmap.",
+        "Q1 2026 revenue tripled year-over-year, demonstrating real commercial traction; analyst consensus Buy rating with a $29.24 target implies 39% additional upside from current elevated levels."
       ],
       "bear_case": [
-        "Management explicitly warned of 'slipping consumer sentiment' on the Q1 earnings call, raising questions about whether comparable sales recovery is truly durable into Q2",
-        "RSI at 32.3 indicates oversold conditions and the stock fell despite a meaningful beat — a technically bearish signal that historically precedes further near-term selling pressure"
+        "Even after today's surge, RGTI trades 63.9% below its 52-week high of $58.15, reflecting that quantum computing remains in an early, pre-commercial phase with highly uncertain timelines to profitability.",
+        "Government grant funds may not offset ongoing cash burn; Rigetti faces intense competition from IBM, Google, IonQ, and well-capitalized quantum divisions of major tech incumbents for both commercial contracts and talent."
       ],
-      "recommendation": "Hold",
-      "current_price": "$121.72",
-      "price_target": "$120.84 (-0.7%)",
-      "pe_ratio": "15.64",
-      "rsi": "32.3",
-      "vs_52wk_high": "-8.6% below high ($133.10)",
-      "analyst_rating": "Buy",
-      "sector": "Consumer Discretionary - Discount Retail",
-      "sources": ["Yahoo Finance", "HeyGoTrade", "Benzinga", "CNBC", "The Motley Fool", "TipRanks"],
-      "price_history_5d": [121.54, 123.40, 127.24, 121.72]
-    },
-    {
-      "ticker": "LOW",
-      "company": "Lowe's Companies",
-      "discussion_driver": "Lowe's reported Q1 2026 earnings beat (EPS $3.03 above consensus, $23.1B revenue) marking its 4th consecutive quarter of positive comparable sales growth, reinforcing a durable home improvement spending recovery. The company raised full-year guidance and shares remain 24.6% below their 52-week high, with analysts projecting a substantial 26.7% upside to the average consensus price target of $279.76.",
-      "bull_case": [
-        "Fourth consecutive quarter of positive comparable sales growth with raised full-year guidance demonstrates a durable home improvement recovery; analyst consensus Buy rating with 26.7% upside to $279.76 average target provides strong risk/reward",
-        "Shares trading 24.6% below 52-week highs create a compelling entry point relative to fundamentals as housing market activity gradually recovers and renovation demand builds"
-      ],
-      "bear_case": [
-        "Stock remains 24.6% below its 52-week high reflecting persistent concerns about housing turnover staying suppressed by elevated mortgage rates that have not yet meaningfully eased",
-        "Home improvement spending is highly rate-sensitive; any delay in Federal Reserve rate cuts or renewed rate increases could dampen the renovation and remodeling cycle that underpins LOW's recovery thesis"
-      ],
-      "recommendation": "Buy",
-      "current_price": "$220.81",
-      "price_target": "$279.76 (+26.7%)",
-      "pe_ratio": "20.61",
+      "recommendation": "Speculative Buy",
+      "current_price": "$20.97",
+      "price_target": "$29.24 (+39.4%)",
+      "pe_ratio": "N/A",
       "rsi": "N/A",
-      "vs_52wk_high": "-24.6% below high ($293.06)",
+      "vs_52wk_high": "-63.9% below high ($58.15)",
       "analyst_rating": "Buy",
-      "sector": "Consumer Discretionary - Home Improvement Retail",
-      "sources": ["Yahoo Finance", "HeyGoTrade", "MarketBeat", "StockAnalysis", "Investing.com"],
-      "price_history_5d": [218.42, 218.02, 218.37, 220.81]
+      "sector": "Technology - Quantum Computing",
+      "sources": ["CNBC", "Bloomberg", "MarketBeat", "Motley Fool", "GuruFocus"],
+      "price_history_5d": [17.85, 16.05, 15.96, 16.88, 20.97]
+    },
+    {
+      "ticker": "QBTS",
+      "company": "D-Wave Quantum Inc.",
+      "discussion_driver": "D-Wave Quantum shares surged approximately 24% after confirming receipt of ~$100M from the Trump administration's $2B quantum computing grant program; the company's annealing-based commercial quantum systems have seen bookings surge nearly 2,000%, underscoring accelerating enterprise demand even as near-term revenue faces tough year-over-year comparisons from large prior-year system sales.",
+      "bull_case": [
+        "The $100M government grant provides crucial operational runway and government validation; D-Wave's commercial quantum annealing platform is already deployed for real-world enterprise optimization workloads—a differentiator from most gate-based peers still in research phases.",
+        "Consensus of 15 analysts delivers a Strong Buy rating with a $35.17 average target representing 46.5% upside; a ~2,000% bookings surge signals the commercial quantum market is arriving faster than many expected."
+      ],
+      "bear_case": [
+        "D-Wave's annealing-based approach solves a narrower set of optimization problems compared to gate-based quantum systems being developed by IBM, Google, and IonQ, potentially limiting its long-term total addressable market.",
+        "Revenue remains small relative to market cap and the company has not achieved profitability; the stock is still 48.7% below its 52-week high of $46.75, and government grants alone cannot sustain operations without accelerating commercial revenue."
+      ],
+      "recommendation": "Speculative Buy",
+      "current_price": "$24.01",
+      "price_target": "$35.17 (+46.5%)",
+      "pe_ratio": "N/A",
+      "rsi": "N/A",
+      "vs_52wk_high": "-48.7% below high ($46.75)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Technology - Quantum Computing",
+      "sources": ["IBTimes", "CNBC", "MarketBeat", "StockAnalysis", "Investing.com"],
+      "price_history_5d": [20.27, 19.04, 18.19, 19.28, 24.01]
     }
   ]
 }
