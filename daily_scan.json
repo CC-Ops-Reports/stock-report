@@ -1,13 +1,13 @@
 {
-  "report_date": "2026-05-22",
+  "report_date": "2026-05-25",
   "market_tone": "Bullish",
   "key_themes": [
-    "AI infrastructure spending surge \u2014 Nvidia blockbuster earnings halo lifts chips, servers, and AI-exposed holdings",
-    "Earnings beats drive broad optimism \u2014 Ross Stores, Workday, Booz Allen Hamilton all significantly exceeded guidance",
-    "M&A and strategic activity \u2014 IMAX exploring sale, Estee Lauder ends Puig merger talks, sending shares sharply higher"
+    "AI infrastructure supercycle: Nvidia Q1 FY2027 record $81.6B revenue fuels broad AI-linked rally",
+    "Quantum computing surge: $2B CHIPS Act grants to 9 companies spark sector-wide buying",
+    "US-Iran nuclear talks progress drives oil lower, supporting equity sentiment ahead of Memorial Day"
   ],
   "sp500": {
-    "value": "7,473.47",
+    "value": "7,473.45",
     "change": "+0.37%"
   },
   "nasdaq": {
@@ -18,115 +18,92 @@
     {
       "ticker": "NVDA",
       "company": "Nvidia Corporation",
-      "reason": "Q1 FY2027 revenue surged 85% YoY to $81.62B, crushing estimates; announced $80B share buyback and raised dividend \u2014 the catalyst driving the entire AI trade today",
+      "reason": "Reported Q1 FY2027 earnings May 20: record $81.6B revenue (+85% YoY), EPS $1.87 vs $1.76 est; stock slipped ~2% post-report on \"priced for perfection\" concerns but AI narrative dominated week",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "Bloomberg",
-        "Kiplinger"
+        "Fortune",
+        "Intellectia AI"
       ]
     },
     {
       "ticker": "DELL",
       "company": "Dell Technologies",
-      "reason": "Surged ~16% on multiple analyst price target raises (Evercore, Wells Fargo, JPMorgan, Citi) following Dell Tech World 2026 conference; AI order backlog of $43B, guiding ~$50B AI revenue for FY2027",
-      "category": "upgrade",
+      "reason": "Surged ~16% on May 22 to all-time high $291.17; wave of analyst price target hikes fueled by Lenovo's 84% AI revenue jump in Q4; own Q1 FY2027 earnings due May 28",
+      "category": "sector",
       "sources": [
         "CNBC",
-        "Investing.com",
+        "TheStreet"
+      ]
+    },
+    {
+      "ticker": "HPQ",
+      "company": "HP Inc.",
+      "reason": "Climbed 14-15% on May 22 riding same AI PC hardware refresh narrative as Dell; earnings due May 27",
+      "category": "sector",
+      "sources": [
+        "CNBC",
         "TheStreet"
       ]
     },
     {
       "ticker": "QCOM",
-      "company": "Qualcomm",
-      "reason": "Surged 11%+ in midday trading on AI partnership news; stock now up over 50% since April 29 earnings report, continuing its powerful upside momentum",
+      "company": "Qualcomm Incorporated",
+      "reason": "Surged 12-13% on May 22 after Stellantis expanded multi-year Snapdragon partnership to cover cockpit tech, connectivity and ADAS; automotive revenue at record $1.33B quarterly",
       "category": "news",
       "sources": [
         "CNBC",
-        "Bloomberg"
+        "CoinCentral",
+        "CryptoRank"
       ]
     },
     {
-      "ticker": "ARM",
-      "company": "Arm Holdings",
-      "reason": "Shares advanced 16%+ as Nvidia earnings validated demand for Arm-architecture chips in AI servers and data centers; SoftBank majority stake amplifies the AI halo effect",
+      "ticker": "RGTI",
+      "company": "Rigetti Computing",
+      "reason": "Jumped 30%+ on May 21 after US Commerce Dept announced $2B CHIPS Act grants to nine quantum companies; Rigetti awarded $100M to commercialize quantum technology",
+      "category": "news",
+      "sources": [
+        "TechTimes",
+        "TradingKey",
+        "IBTimes AU"
+      ]
+    },
+    {
+      "ticker": "QBTS",
+      "company": "D-Wave Quantum",
+      "reason": "Surged 33% on May 21 as one of nine recipients in $2B US government quantum computing investment announcement; awarded ~$100M under CHIPS Act",
+      "category": "news",
+      "sources": [
+        "IBTimes AU",
+        "TechTimes",
+        "TheStreet"
+      ]
+    },
+    {
+      "ticker": "IONQ",
+      "company": "IonQ Inc.",
+      "reason": "Gained 12%+ on May 21 on broad quantum computing sector momentum from $2B CHIPS Act announcement; IonQ not a direct recipient but rallied on sector sentiment",
       "category": "sector",
       "sources": [
-        "CNBC",
-        "Bloomberg"
+        "TradingKey",
+        "CNBC"
       ]
     },
     {
-      "ticker": "IMAX",
-      "company": "IMAX Corporation",
-      "reason": "Surged 15% on reports the company is exploring a strategic sale and is in preliminary talks through intermediaries with potential acquirers",
+      "ticker": "IBM",
+      "company": "International Business Machines",
+      "reason": "Rose 6.5% on May 21 as anchor recipient of $2B quantum grant; received $1B proposed CHIPS incentives to launch Anderon, a new standalone quantum subsidiary, with IBM matching dollar-for-dollar",
       "category": "news",
       "sources": [
-        "CNBC",
-        "MarketScreener",
-        "Bloomberg"
-      ]
-    },
-    {
-      "ticker": "ROST",
-      "company": "Ross Stores",
-      "reason": "Q1 FY2026 EPS of $2.02 (+37%) blew past guidance of $1.60-$1.67; comparable store sales +17%; raised full-year EPS guidance to $7.50-$7.74",
-      "category": "earnings",
-      "sources": [
-        "Benzinga",
-        "Motley Fool",
-        "PR Newswire"
+        "TechTimes",
+        "TheStreet"
       ]
     },
     {
       "ticker": "EL",
       "company": "Estee Lauder Companies",
-      "reason": "Shares jumped ~10% after the cosmetics giant and Puig officially confirmed they have ended talks about a potential merger, removing deal uncertainty",
+      "reason": "Shares surged ~11% on May 22 after company confirmed it ended merger talks with Spanish perfumery Puig; investors welcomed news as removing integration risk and allowing focus on restructuring",
       "category": "news",
-      "sources": [
-        "CNBC",
-        "MarketScreener",
-        "Bloomberg"
-      ]
-    },
-    {
-      "ticker": "WDAY",
-      "company": "Workday",
-      "reason": "Q1 FY2027 revenues of $2.542B (+13.5% YoY) beat estimates; operating income surged to $338M (13.3% margin) from just $39M a year ago; raised full-year subscription revenue guidance",
-      "category": "earnings",
-      "sources": [
-        "Bloomberg",
-        "SEC Filing",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "MRK",
-      "company": "Merck & Co.",
-      "reason": "Rose ~3.5% after Phase 3 trial data showed its lung cancer treatment (in partnership with Kelun-Biotech) reduced tumor progression risk by 65%",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "Bloomberg"
-      ]
-    },
-    {
-      "ticker": "BAH",
-      "company": "Booz Allen Hamilton",
-      "reason": "Q4 FY2026 adjusted EPS of $1.78 significantly beat analyst consensus of $1.34; stock rose 5%+ on the pre-market earnings release",
-      "category": "earnings",
-      "sources": [
-        "Benzinga",
-        "SEC Filing",
-        "Quiver Quantitative"
-      ]
-    },
-    {
-      "ticker": "HPE",
-      "company": "Hewlett Packard Enterprise",
-      "reason": "Jumped ~9% in sympathy with Dell Technologies as investor enthusiasm for AI server infrastructure spilled over ahead of HPE's own earnings next week",
-      "category": "sector",
       "sources": [
         "CNBC",
         "TheStreet"
@@ -135,22 +112,65 @@
     {
       "ticker": "GNRC",
       "company": "Generac Holdings",
-      "reason": "Jefferies upgraded GNRC from Hold to Buy and raised price target from $239 to $302, citing data-center backup power demand; stock rose more than 3%",
+      "reason": "Rose 9-11% on May 22 after Jefferies upgraded to Buy from Hold and raised price target to $302 from $239, citing data-center backup power opportunity from AI infrastructure buildout",
       "category": "upgrade",
       "sources": [
-        "GuruFocus",
-        "Benzinga"
+        "CNBC",
+        "FinancialContent",
+        "Timothy Sykes"
       ]
     },
     {
-      "ticker": "CAVA",
-      "company": "CAVA Group",
-      "reason": "Gained 3%+ the day after blowout Q1 results: revenue +32.1% to $438.3M, adjusted EPS of $0.20 beat estimates; company raised full-year outlook with 75-77 new restaurant targets",
+      "ticker": "WDAY",
+      "company": "Workday Inc.",
+      "reason": "Advanced ~5% on May 22 after reporting Q1 FY2027 beat and raising full-year operating margin outlook; enterprise HR/finance software demand remains robust",
       "category": "earnings",
       "sources": [
+        "CNBC",
+        "Motley Fool"
+      ]
+    },
+    {
+      "ticker": "ZM",
+      "company": "Zoom Communications",
+      "reason": "Q1 FY2027 earnings reported May 21 after hours: revenue $1.24B (+5.5% YoY), beat guidance by $14M; raised full-year outlook and authorized $1B share buyback",
+      "category": "earnings",
+      "sources": [
+        "MarketBeat",
         "Motley Fool",
-        "Quiver Quantitative",
-        "CNBC"
+        "StockInvest"
+      ]
+    },
+    {
+      "ticker": "SFTBY",
+      "company": "SoftBank Group",
+      "reason": "Rallied 32% over two days (May 21-22) driven by Nvidia's record earnings boosting Arm Holdings (majority SoftBank-owned), plus OpenAI confidential IPO filing reports; added $61B+ in market cap",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "CoinCentral",
+        "GuruFocus"
+      ]
+    },
+    {
+      "ticker": "RKLB",
+      "company": "Rocket Lab USA",
+      "reason": "Rose 6.4% on May 22; space sector rallying as SpaceX targets June 12 Nasdaq IPO under ticker SPCX at ~$1.75T valuation; RKLB up 57% since SpaceX IPO speculation surfaced in late March",
+      "category": "sector",
+      "sources": [
+        "Motley Fool",
+        "TradingKey",
+        "Invezz"
+      ]
+    },
+    {
+      "ticker": "TTWO",
+      "company": "Take-Two Interactive Software",
+      "reason": "Fell 6.4% on May 22; notable decliner amid the broad AI-driven rally; no specific positive catalyst to offset sector rotation pressure",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "TheStreet"
       ]
     }
   ]
