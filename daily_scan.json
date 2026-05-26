@@ -1,35 +1,78 @@
 {
-  "report_date": "2026-05-25",
+  "report_date": "2026-05-26",
   "market_tone": "Bullish",
   "key_themes": [
-    "AI infrastructure supercycle: Nvidia Q1 FY2027 record $81.6B revenue fuels broad AI-linked rally",
-    "Quantum computing surge: $2B CHIPS Act grants to 9 companies spark sector-wide buying",
-    "US-Iran nuclear talks progress drives oil lower, supporting equity sentiment ahead of Memorial Day"
+    "AI memory chip boom \u2014 Micron crosses $1 trillion market cap on HBM4 demand",
+    "Broad semiconductor rally lifts AMD, ON Semi, Western Digital, Qualcomm, Marvell",
+    "Iran peace-talk optimism reduces geopolitical risk premium; Nasdaq and S&P 500 hit fresh all-time highs"
   ],
   "sp500": {
-    "value": "7,473.45",
-    "change": "+0.37%"
+    "value": "7,519.12",
+    "change": "+0.61%"
   },
   "nasdaq": {
-    "value": "26,343.97",
-    "change": "+0.19%"
+    "value": "26,656.18",
+    "change": "+1.19%"
   },
   "stocks": [
     {
-      "ticker": "NVDA",
-      "company": "Nvidia Corporation",
-      "reason": "Reported Q1 FY2027 earnings May 20: record $81.6B revenue (+85% YoY), EPS $1.87 vs $1.76 est; stock slipped ~2% post-report on \"priced for perfection\" concerns but AI narrative dominated week",
-      "category": "earnings",
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "reason": "Shares surged 19%, crossing the $1 trillion market cap milestone for the first time. UBS raised its price target 204% to $1,625 (from $535), citing HBM4 capacity sold out through year-end and AI-driven memory demand.",
+      "category": "upgrade",
       "sources": [
         "CNBC",
-        "Fortune",
-        "Intellectia AI"
+        "Bloomberg",
+        "GuruFocus",
+        "The Motley Fool"
       ]
     },
     {
-      "ticker": "DELL",
-      "company": "Dell Technologies",
-      "reason": "Surged ~16% on May 22 to all-time high $291.17; wave of analyst price target hikes fueled by Lenovo's 84% AI revenue jump in Q4; own Q1 FY2027 earnings due May 28",
+      "ticker": "AZO",
+      "company": "AutoZone",
+      "reason": "Shares plunged ~10% after Q3 earnings revenue miss \u2014 $4.84B reported vs. $4.86B expected \u2014 the first meaningful top-line shortfall in several quarters.",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "TheStreet",
+        "Bloomberg"
+      ]
+    },
+    {
+      "ticker": "MRVL",
+      "company": "Marvell Technology",
+      "reason": "Surged 7.7% after HSBC upgraded to Buy and raised price target from $85 to $300, citing underestimated AI networking revenue growth from optical interconnects. Earnings due tomorrow (May 27).",
+      "category": "upgrade",
+      "sources": [
+        "GuruFocus",
+        "The Motley Fool",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "ON",
+      "company": "ON Semiconductor",
+      "reason": "Gained nearly 9% riding the Micron-sparked semiconductor rally; AI-related power management demand continuing to re-rate the stock.",
+      "category": "sector",
+      "sources": [
+        "TheStreet",
+        "Bloomberg"
+      ]
+    },
+    {
+      "ticker": "WDC",
+      "company": "Western Digital",
+      "reason": "Rose nearly 9% as NAND flash and HDD pricing tailwinds align with broader memory rally; beneficiary of Micron's HBM narrative spilling into the storage sector.",
+      "category": "sector",
+      "sources": [
+        "TheStreet",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "AMD",
+      "company": "Advanced Micro Devices",
+      "reason": "Gained 6%, swept up in broad semiconductor rally triggered by Micron's $1 trillion milestone; AI GPU competition narrative remains favorable.",
       "category": "sector",
       "sources": [
         "CNBC",
@@ -37,10 +80,10 @@
       ]
     },
     {
-      "ticker": "HPQ",
-      "company": "HP Inc.",
-      "reason": "Climbed 14-15% on May 22 riding same AI PC hardware refresh narrative as Dell; earnings due May 27",
-      "category": "sector",
+      "ticker": "OKLO",
+      "company": "Oklo",
+      "reason": "Rose 6% after the Department of Energy selected Oklo for advanced discussions on using Cold War-era plutonium as fuel for its nuclear microreactors \u2014 a material new government contract catalyst.",
+      "category": "news",
       "sources": [
         "CNBC",
         "TheStreet"
@@ -48,129 +91,85 @@
     },
     {
       "ticker": "QCOM",
-      "company": "Qualcomm Incorporated",
-      "reason": "Surged 12-13% on May 22 after Stellantis expanded multi-year Snapdragon partnership to cover cockpit tech, connectivity and ADAS; automotive revenue at record $1.33B quarterly",
+      "company": "Qualcomm",
+      "reason": "Up 5.74% on a combination of the semiconductor sector rally, a new AI chip supply deal with ByteDance, and investor positioning ahead of Qualcomm's Investor Day on June 24.",
       "category": "news",
       "sources": [
         "CNBC",
-        "CoinCentral",
-        "CryptoRank"
-      ]
-    },
-    {
-      "ticker": "RGTI",
-      "company": "Rigetti Computing",
-      "reason": "Jumped 30%+ on May 21 after US Commerce Dept announced $2B CHIPS Act grants to nine quantum companies; Rigetti awarded $100M to commercialize quantum technology",
-      "category": "news",
-      "sources": [
-        "TechTimes",
         "TradingKey",
-        "IBTimes AU"
+        "StockStory"
       ]
     },
     {
-      "ticker": "QBTS",
-      "company": "D-Wave Quantum",
-      "reason": "Surged 33% on May 21 as one of nine recipients in $2B US government quantum computing investment announcement; awarded ~$100M under CHIPS Act",
-      "category": "news",
+      "ticker": "ZS",
+      "company": "Zscaler",
+      "reason": "Reported Q3 FY2026 earnings after close: EPS of $1.08 beat $1.04 estimate, but revenue of $850.5M missed the $860.5M consensus and guidance disappointed \u2014 shares fell 17% in after-hours trading.",
+      "category": "earnings",
       "sources": [
-        "IBTimes AU",
-        "TechTimes",
-        "TheStreet"
+        "QuiverQuant",
+        "GuruFocus",
+        "24/7 Wall St."
       ]
     },
     {
-      "ticker": "IONQ",
-      "company": "IonQ Inc.",
-      "reason": "Gained 12%+ on May 21 on broad quantum computing sector momentum from $2B CHIPS Act announcement; IonQ not a direct recipient but rallied on sector sentiment",
-      "category": "sector",
+      "ticker": "GEV",
+      "company": "GE Vernova",
+      "reason": "Gained 5.31%; Huatai Research initiated with Buy and $1,174 price target. Stock continues to benefit from Q1 results where orders surged 71% YoY to $18.3B and backlog expanded to $163B.",
+      "category": "upgrade",
       "sources": [
         "TradingKey",
+        "24/7 Wall St.",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "OXY",
+      "company": "Occidental Petroleum",
+      "reason": "Barclays upgraded to Overweight from Equal Weight with a $72 price target, citing improved oil price outlook as geopolitical tensions ease on Iran peace-talk progress.",
+      "category": "upgrade",
+      "sources": [
+        "24/7 Wall St.",
+        "Benzinga"
+      ]
+    },
+    {
+      "ticker": "ALB",
+      "company": "Albemarle",
+      "reason": "Vertical Research upgraded to Buy from Hold with a $224 price target, noting lithium price stabilization and EV demand recovery improving the company's earnings trajectory.",
+      "category": "upgrade",
+      "sources": [
+        "24/7 Wall St.",
+        "Benzinga"
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "company": "Intel",
+      "reason": "Northland downgraded to Market Perform from Outperform, citing continued execution challenges in foundry operations and competitive pressure from TSMC and Samsung.",
+      "category": "downgrade",
+      "sources": [
+        "24/7 Wall St.",
+        "Benzinga"
+      ]
+    },
+    {
+      "ticker": "OKTA",
+      "company": "Okta",
+      "reason": "Received a rare double upgrade \u2014 from Sell to Buy \u2014 at Arete Research with a $127 price target, citing improved platform stickiness, declining churn, and identity security tailwinds.",
+      "category": "upgrade",
+      "sources": [
+        "24/7 Wall St.",
         "CNBC"
       ]
     },
     {
-      "ticker": "IBM",
-      "company": "International Business Machines",
-      "reason": "Rose 6.5% on May 21 as anchor recipient of $2B quantum grant; received $1B proposed CHIPS incentives to launch Anderon, a new standalone quantum subsidiary, with IBM matching dollar-for-dollar",
+      "ticker": "APP",
+      "company": "AppLovin",
+      "reason": "Shares climbed 5.9% continuing momentum from its Q1 beat earlier in May (revenue $1.84B vs $1.77B expected); AI-driven ad tech demand keeping the stock in focus.",
       "category": "news",
       "sources": [
-        "TechTimes",
-        "TheStreet"
-      ]
-    },
-    {
-      "ticker": "EL",
-      "company": "Estee Lauder Companies",
-      "reason": "Shares surged ~11% on May 22 after company confirmed it ended merger talks with Spanish perfumery Puig; investors welcomed news as removing integration risk and allowing focus on restructuring",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "TheStreet"
-      ]
-    },
-    {
-      "ticker": "GNRC",
-      "company": "Generac Holdings",
-      "reason": "Rose 9-11% on May 22 after Jefferies upgraded to Buy from Hold and raised price target to $302 from $239, citing data-center backup power opportunity from AI infrastructure buildout",
-      "category": "upgrade",
-      "sources": [
-        "CNBC",
-        "FinancialContent",
-        "Timothy Sykes"
-      ]
-    },
-    {
-      "ticker": "WDAY",
-      "company": "Workday Inc.",
-      "reason": "Advanced ~5% on May 22 after reporting Q1 FY2027 beat and raising full-year operating margin outlook; enterprise HR/finance software demand remains robust",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Motley Fool"
-      ]
-    },
-    {
-      "ticker": "ZM",
-      "company": "Zoom Communications",
-      "reason": "Q1 FY2027 earnings reported May 21 after hours: revenue $1.24B (+5.5% YoY), beat guidance by $14M; raised full-year outlook and authorized $1B share buyback",
-      "category": "earnings",
-      "sources": [
-        "MarketBeat",
-        "Motley Fool",
-        "StockInvest"
-      ]
-    },
-    {
-      "ticker": "SFTBY",
-      "company": "SoftBank Group",
-      "reason": "Rallied 32% over two days (May 21-22) driven by Nvidia's record earnings boosting Arm Holdings (majority SoftBank-owned), plus OpenAI confidential IPO filing reports; added $61B+ in market cap",
-      "category": "sector",
-      "sources": [
-        "CNBC",
-        "CoinCentral",
-        "GuruFocus"
-      ]
-    },
-    {
-      "ticker": "RKLB",
-      "company": "Rocket Lab USA",
-      "reason": "Rose 6.4% on May 22; space sector rallying as SpaceX targets June 12 Nasdaq IPO under ticker SPCX at ~$1.75T valuation; RKLB up 57% since SpaceX IPO speculation surfaced in late March",
-      "category": "sector",
-      "sources": [
-        "Motley Fool",
-        "TradingKey",
-        "Invezz"
-      ]
-    },
-    {
-      "ticker": "TTWO",
-      "company": "Take-Two Interactive Software",
-      "reason": "Fell 6.4% on May 22; notable decliner amid the broad AI-driven rally; no specific positive catalyst to offset sector rotation pressure",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "TheStreet"
+        "IndexBox",
+        "TradingKey"
       ]
     }
   ]
