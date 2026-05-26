@@ -1,99 +1,121 @@
 {
-  "report_date": "2026-05-22",
+  "report_date": "2026-05-25",
   "batch": 3,
   "stocks": [
     {
-      "ticker": "HPE",
-      "company": "Hewlett Packard Enterprise Co.",
-      "discussion_driver": "HPE surged 9.94% to a new 52-week high of $37.71 on May 22 as Dell's AI-server-driven rally spilled over across the infrastructure space. JPMorgan raised its target to $37, Citi to $39, and Evercore to $40, all citing HPE's AI server and networking momentum — networking revenue was already up 152% YoY in Q1 FY26. Q2 earnings are expected next week, adding a near-term catalyst.",
+      "ticker": "WDAY",
+      "company": "Workday Inc.",
+      "discussion_driver": "Workday reported Q1 FY2027 results on May 21 after hours, posting $2.54B revenue (+13.5% YoY) that topped estimates and raised its full-year operating margin outlook, sending shares up ~11% in after-hours trading. The stock had been deeply oversold — down ~51% from its 52-week high — making the strong beat particularly well-received. Enterprise HR and finance software demand remains robust, with AI-embedded workflows becoming a key differentiator.",
       "bull_case": [
-        "AI infrastructure demand surge: Q1 FY26 revenue up 18% YoY with networking revenue up 152% YoY; GreenLake AI platform and AI server business are growing rapidly with tailwinds from NVDA's blockbuster quarter and broad data-center buildout.",
-        "Multiple fresh analyst upgrades with Q2 earnings catalyst ahead: JPMorgan ($37), Citi ($39), and Evercore ($40) all raised targets in May; management raised FY26 non-GAAP EPS guidance to $2.30–$2.50."
+        "Q1 FY2027 earnings beat with $2.54B revenue (+13.5% YoY) and raised operating margin guidance signals durable enterprise demand and an improving profitability trajectory.",
+        "AI integration into HR and finance workflows (Workday AI Companion agents) is a new product cycle driver that could re-accelerate growth and expand addressable market among large enterprises."
       ],
       "bear_case": [
-        "Stock hit a new 52-week high on May 22 with RSI at 70.66 (overbought); many existing analyst targets sit at or below current price, limiting near-term upside on a consensus basis.",
-        "Intense AI server competition from Dell (which posted a $43B AI backlog), Super Micro, and ODMs could compress HPE's margins and market share as hyperscaler procurement cycles become more competitive."
-      ],
-      "recommendation": "Hold",
-      "current_price": "$37.71",
-      "price_target": "$36.00 (-4.5%)",
-      "pe_ratio": "27.45",
-      "rsi": "70.66",
-      "vs_52wk_high": "-0.1% below high ($37.75)",
-      "analyst_rating": "Buy",
-      "sector": "Information Technology - AI Servers & Networking",
-      "sources": [
-        "247wallst.com",
-        "tradingkey.com",
-        "FinancialContent / StockStory",
-        "JPMorgan",
-        "Citi",
-        "Evercore ISI",
-        "Morgan Stanley",
-        "Yahoo Finance"
-      ],
-      "price_history_5d": [33.00, 32.62, 33.91, 34.30, 37.71]
-    },
-    {
-      "ticker": "GNRC",
-      "company": "Generac Holdings Inc.",
-      "discussion_driver": "Generac jumped up to 7.6% on May 22 after Jefferies upgraded the stock from Hold to Buy with a $302 price target, citing the company's Baudouin engines as a strong fit for hyperscaler data-center backup power. Jefferies projects two major hyperscaler supply agreements over the next three years, driving 2028 revenue to $6.8B — well above company guidance and consensus — with adjusted EBITDA potentially reaching ~$1.5B.",
-      "bull_case": [
-        "Data-center backup power opportunity: Jefferies' $302 target anchored by GNRC's Baudouin engine lineup winning hyperscaler contracts; AI infrastructure buildout demands massive, reliable backup power at scale and GNRC is well-positioned to capture this demand.",
-        "Strong 2026 momentum with an ~89% YTD gain supported by genuine earnings improvement; commercial and industrial demand is recovering alongside the AI infrastructure cycle, diversifying GNRC away from weather-dependent residential demand."
-      ],
-      "bear_case": [
-        "Trailing P/E of 82x is highly elevated — hyperscaler contracts remain speculative and any delays or losses to competitors would expose the expensive multiple to a sharp de-rating.",
-        "Residential generator business faces structural headwinds from solar-plus-battery storage competition; if data-center supply wins do not materialize on schedule, the core business growth rate may disappoint."
-      ],
-      "recommendation": "Hold",
-      "current_price": "$266.98",
-      "price_target": "$272.00 (+1.9%)",
-      "pe_ratio": "82.13",
-      "rsi": "57.24",
-      "vs_52wk_high": "-3.5% below high ($276.80)",
-      "analyst_rating": "Moderate Buy",
-      "sector": "Industrials - Power Generation & Backup Power",
-      "sources": [
-        "GuruFocus",
-        "Investing.com",
-        "Jefferies Research",
-        "TickerReport",
-        "FinancialContent / StockStory",
-        "WallStreetZen"
-      ],
-      "price_history_5d": [256.65, 253.70, 250.75, 247.79, 266.98]
-    },
-    {
-      "ticker": "CAVA",
-      "company": "CAVA Group Inc.",
-      "discussion_driver": "CAVA continued gaining on May 22, the day after its blowout Q1 2026 earnings release that showed 32.1% revenue growth to $438M and 9.7% same-store sales growth — far above the 6.2% analyst estimate. The 6.8% traffic growth was the standout metric as most U.S. restaurant peers reported negative foot traffic. The company raised full-year guidance targeting 75–77 new restaurant openings and higher same-store sales, prompting multiple analyst price target increases.",
-      "bull_case": [
-        "Exceptional Q1 2026 unit-level fundamentals: 9.7% same-store sales and 6.8% traffic growth in a challenging consumer environment where peers are losing traffic; validates CAVA's brand strength and the pricing power of Mediterranean fast-casual cuisine.",
-        "Massive white-space expansion runway: with only ~400 locations vs. thousands for comparable chains, Mediterranean cuisine is heavily underpenetrated in the U.S.; CAVA is opening 75–77 restaurants in 2026 alone with a long-term unit count path well above current levels."
-      ],
-      "bear_case": [
-        "Trailing P/E of 142x is extreme even for a high-growth restaurant chain; any moderation in same-store sales or traffic growth — or broader consumer spending weakness — could trigger a sharp valuation reset from these elevated multiples.",
-        "Stock is -32% below its 52-week high of $119.21, reflecting persistent valuation concerns and macro sensitivity; as a high-beta growth name, CAVA remains vulnerable to risk-off moves or rising rate expectations."
+        "Stock still trades ~51% below its 52-week high at a 63x trailing PE, leaving meaningful room for multiple compression if growth decelerates even modestly.",
+        "Competitive pressure from SAP, Oracle, and Microsoft in the enterprise SaaS space limits pricing power and could slow net new customer additions."
       ],
       "recommendation": "Buy",
-      "current_price": "$81.00",
-      "price_target": "$93.72 (+15.7%)",
-      "pe_ratio": "142.35",
-      "rsi": "N/A",
-      "vs_52wk_high": "-32.1% below high ($119.21)",
+      "current_price": "$136.42",
+      "price_target": "$179.22 (+31.4%)",
+      "pe_ratio": "63.06",
+      "rsi": "39.43",
+      "vs_52wk_high": "-50.6% below high ($276.00)",
       "analyst_rating": "Buy",
-      "sector": "Consumer Discretionary - Mediterranean Fast Casual",
-      "sources": [
-        "Motley Fool",
-        "Quiver Quantitative",
-        "ChartMill",
-        "BofA Securities",
-        "KeyBanc Capital Markets",
-        "Telsey Advisory Group",
-        "S&P Global (28-analyst consensus)"
+      "sector": "Technology - Enterprise Software",
+      "sources": ["MarketBeat", "Yahoo Finance", "Simply Wall St", "MacroTrends", "StockAnalysis"],
+      "price_history_5d": [130.00, 129.34, 126.61, 121.85, 136.42]
+    },
+    {
+      "ticker": "ZM",
+      "company": "Zoom Communications Inc.",
+      "discussion_driver": "Zoom reported Q1 FY2027 earnings on May 21 after hours, with revenue of $1.24B (+5.5% YoY) beating guidance by $14M, raising its full-year outlook, and authorizing a $1B share buyback program. While results were encouraging and lifted shares, Zoom faces structural headwinds as post-pandemic normalization continues and enterprises consolidate communication tools around Microsoft Teams and Google Meet. The buyback reflects strong free cash flow but also signals limited high-return organic investment opportunities.",
+      "bull_case": [
+        "Cheap valuation at 17.6x trailing PE relative to substantial free cash flow generation; $1B buyback authorization signals management confidence and provides near-term price support.",
+        "Q1 beat and raised guidance demonstrate resilient enterprise demand, and AI-powered features (Zoom AI Companion) are beginning to monetize, potentially re-accelerating growth from its current 5% pace."
       ],
-      "price_history_5d": [79.10, 85.38, 82.00, 80.10, 81.00]
+      "bear_case": [
+        "Revenue growth of only 5.5% YoY reflects a mature post-pandemic business with deep-pocketed rivals; the stock trades slightly above the $100 analyst median consensus price target.",
+        "Customer churn and enterprise software consolidation pressure ongoing; RSI at 74.65 signals near-term overbought conditions following the post-earnings surge."
+      ],
+      "recommendation": "Hold",
+      "current_price": "$105.40",
+      "price_target": "$100.00 (-5.1%)",
+      "pe_ratio": "17.6",
+      "rsi": "74.65",
+      "vs_52wk_high": "-5.5% below high ($111.56)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - Communications SaaS",
+      "sources": ["MarketBeat", "StockAnalysis", "Yahoo Finance", "TipRanks", "Motley Fool", "MarketBeat"],
+      "price_history_5d": [97.00, 97.39, 99.42, 96.75, 105.40]
+    },
+    {
+      "ticker": "SFTBY",
+      "company": "SoftBank Group Corp.",
+      "discussion_driver": "SoftBank surged ~32% over May 21-22, adding over $61B in market cap in two sessions, driven by Nvidia's record Q1 earnings boosting majority-owned portfolio company Arm Holdings and reports of OpenAI's confidential IPO filing. The ADR pushed to a new 52-week high near $22.59, fueled almost entirely by portfolio momentum rather than SoftBank's own fundamentals. At this level the stock reflects significant speculation around Arm and OpenAI optionality.",
+      "bull_case": [
+        "Arm Holdings is a direct AI infrastructure beneficiary — Arm's chip architecture powers the vast majority of AI accelerators and edge devices, giving SoftBank leveraged exposure to the AI supercycle.",
+        "OpenAI IPO speculation (confidential filing reported) could unlock massive NAV appreciation for SoftBank, which holds a meaningful stake; realization of this value would catalyze a meaningful re-rating."
+      ],
+      "bear_case": [
+        "The rapid 32% two-day surge is almost entirely momentum-driven and vulnerable to reversal; TD Cowen rates it Hold with a $20 target, implying ~11% downside from current levels.",
+        "Holding company discount and heavy SoftBank Vision Fund debt burden add complexity; currency risk (JPY/USD) and potential Arm lock-up expiry could pressure the ADR."
+      ],
+      "recommendation": "Hold",
+      "current_price": "$22.59",
+      "price_target": "$20.00 (-11.5%)",
+      "pe_ratio": "5.45",
+      "rsi": "N/A",
+      "vs_52wk_high": "+0.4% above prior 52-week high ($22.50) — new high set",
+      "analyst_rating": "Hold",
+      "sector": "Technology - Diversified Holding Company",
+      "sources": ["GuruFocus", "MarketBeat", "TD Cowen", "CNBC", "TipRanks", "Bernstein"],
+      "price_history_5d": [18.20, 17.90, 17.75, 20.19, 22.59]
+    },
+    {
+      "ticker": "RKLB",
+      "company": "Rocket Lab USA Inc.",
+      "discussion_driver": "Rocket Lab rose 6.4% on May 22 to an all-time closing high of $135.76, extending a 57% rally since SpaceX IPO speculation emerged in late March 2026. The stock is riding a powerful space sector re-rating, amplified by strong Q1 2026 fundamentals — revenue jumped 63.5% YoY to $200.3M with a record $2.2B backlog and a new $190M hypersonic test contract. However, at $135.76, shares trade at more than 50% above the analyst median consensus target of $88.88, reflecting extreme speculative positioning.",
+      "bull_case": [
+        "Exceptional revenue growth of 63.5% YoY with a $2.2B record backlog and $190M hypersonic contract provides fundamental justification for a premium valuation; Neutron rocket development represents a major upcoming growth lever.",
+        "SpaceX IPO mania creates a sector-wide re-rating tailwind; as the most liquid small-cap space stock, RKLB captures institutional money seeking public space exposure ahead of the SpaceX listing."
+      ],
+      "bear_case": [
+        "Stock trades 50%+ above the analyst median consensus target of $88.88, making a significant correction likely once SpaceX IPO sentiment fades or the company misses a milestone.",
+        "Company remains unprofitable with no trailing PE and Neutron rocket development faces execution and cost overrun risks that could require additional capital raises and dilute shareholders."
+      ],
+      "recommendation": "Speculative Buy",
+      "current_price": "$135.76",
+      "price_target": "$88.88 (-34.5%)",
+      "pe_ratio": "N/A",
+      "rsi": "68.73",
+      "vs_52wk_high": "0.0% — AT all-time closing high ($135.76)",
+      "analyst_rating": "Buy",
+      "sector": "Industrials - Aerospace & Space",
+      "sources": ["StockAnalysis", "MarketBeat", "MacroTrends", "Benzinga", "Motley Fool", "TradingKey", "Invezz"],
+      "price_history_5d": [119.50, 120.00, 134.28, 125.45, 135.76]
+    },
+    {
+      "ticker": "TTWO",
+      "company": "Take-Two Interactive Software Inc.",
+      "discussion_driver": "Take-Two fell ~4.4% on May 22 as the only notable large-cap decliner amid the broad AI and quantum-driven market rally. The company reaffirmed the Grand Theft Auto VI launch date of November 19, 2026 — a potential blockbuster catalyst — but investors appear to be selling the news on GTA VI certainty and rotating into AI-linked names. With Q4 FY2026 results showing continued high cash burn, TTWO remains a GTA VI binary play heading into the second half of 2026.",
+      "bull_case": [
+        "GTA VI launch on November 19, 2026 is positioned to be the largest entertainment product launch in history, with pre-sales, multiplayer monetization, and merchandise driving a multi-year revenue supercycle for Take-Two.",
+        "Strong analyst consensus of 26 Buy ratings (of 28 analysts) and a $279.51 price target represents 22.9% upside from current levels, reflecting institutional conviction on the GTA VI revenue catalyst."
+      ],
+      "bear_case": [
+        "Stock declined 4.4% during a broad market rally, signaling sector rotation out of gaming; the GTA VI thesis is widely known and may already be substantially priced into the stock near current levels.",
+        "Persistent cash burn and ongoing heavy spending on GTA VI marketing and infrastructure leave the balance sheet exposed; any delay or commercial underperformance at launch would cause severe multiple compression from current levels."
+      ],
+      "recommendation": "Hold",
+      "current_price": "$227.55",
+      "price_target": "$279.51 (+22.9%)",
+      "pe_ratio": "N/A",
+      "rsi": "53.17",
+      "vs_52wk_high": "-14.1% below high ($264.79)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Communication Services - Video Gaming",
+      "sources": ["MarketBeat", "Yahoo Finance", "GuruFocus", "CNBC", "TheStreet", "Benzinga"],
+      "price_history_5d": [238.00, 237.00, 236.62, 238.08, 227.55]
     }
   ]
 }
