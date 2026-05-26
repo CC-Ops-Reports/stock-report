@@ -1,121 +1,121 @@
 {
-  "report_date": "2026-05-22",
+  "report_date": "2026-05-25",
   "batch": 2,
   "stocks": [
     {
-      "ticker": "ROST",
-      "company": "Ross Stores, Inc.",
-      "discussion_driver": "Ross Stores blew past Q1 FY2026 estimates with EPS of $2.02 (+37%), far exceeding its own guidance of $1.60-$1.67, while comparable store sales surged 17%. The company raised full-year EPS guidance to $7.50-$7.74 and shares hit a new 52-week high of $232.29 on May 22, gaining nearly 7% on the session as JPMorgan, Citi, and Evercore all raised price targets.",
+      "ticker": "QBTS",
+      "company": "D-Wave Quantum Inc.",
+      "discussion_driver": "D-Wave surged 33%+ on May 21 after the US Department of Commerce announced $2 billion in CHIPS Act grants to nine quantum companies, with D-Wave receiving $100 million to commercialize its annealing quantum technology. The stock followed with an additional 14% gain on May 22, bringing total weekly gains to over 50%. Despite the rally, shares remain roughly 37% below their 52-week high of $46.75, reflecting extreme volatility and the speculative nature of early-stage quantum commercialization.",
       "bull_case": [
-        "Off-price retail model is a structural beneficiary of tariff-driven consumer trade-down — ROST's value proposition strengthens in economic uncertainty, as evidenced by the blowout 17% comp-sales surge",
-        "Raised full-year EPS guidance to $7.50-$7.74 and multiple analyst upgrades (JPMorgan to $248, Citi to $240, Evercore to $245) reflect renewed conviction in execution and earnings power"
+        "$100M CHIPS Act grant validates D-Wave's annealing quantum approach and provides meaningful funding runway toward commercialization",
+        "Growing enterprise pipeline in logistics, materials science, and AI optimization positions D-Wave as the most commercially advanced quantum computing vendor"
       ],
       "bear_case": [
-        "Stock trades at a premium trailing P/E of 32.46x after hitting all-time highs, leaving limited margin of safety if consumer sentiment or execution falters",
-        "Import tariffs on Asian merchandise could raise merchandise costs and erode the 'name brand at a bargain' value proposition that drives ROST's competitive advantage"
+        "Company is unprofitable with forecast FY2026 EPS loss of -$0.35; path to profitability remains unclear amid high cash burn",
+        "Valuation at ~215x FY2025 revenue prices in years of flawless execution, leaving the stock highly vulnerable to any execution miss or sentiment shift"
+      ],
+      "recommendation": "Speculative Buy",
+      "current_price": "$29.40",
+      "price_target": "$35.17 (+19.6%)",
+      "pe_ratio": "N/A",
+      "rsi": "50.19",
+      "vs_52wk_high": "-37.1% below high ($46.75)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Technology - Quantum Computing",
+      "sources": ["CNN Markets", "MarketBeat", "StockAnalysis", "TechTimes", "IBTimes AU", "TradingKey"],
+      "price_history_5d": [19.28, 25.72, 29.40]
+    },
+    {
+      "ticker": "IONQ",
+      "company": "IonQ Inc.",
+      "discussion_driver": "IonQ gained 12%+ on May 21 riding broad quantum computing sector momentum from the $2B CHIPS Act announcement, even though IonQ was not among the nine direct grant recipients. The gain was amplified by strong Q1 2026 results (revenue +755% YoY to $64.7M) and a raised full-year guidance of $260-270M. Shares remain about 25% below their 52-week high of $84.64, reflecting the gap between recent sector enthusiasm and the still-distant profitability timeline.",
+      "bull_case": [
+        "Record Q1 2026 revenue of $64.7M (+755% YoY) with full-year guidance raised to $260-270M demonstrates accelerating commercial traction for trapped-ion quantum systems",
+        "Approved acquisition of SkyWater Technology enables vertical integration in quantum chip manufacturing, potentially reducing costs and improving competitive positioning"
+      ],
+      "bear_case": [
+        "IonQ was not a direct CHIPS Act recipient; its 12% rally was driven by sector sentiment rather than fundamental catalysts, making gains more fragile",
+        "Negative trailing P/E of -371.73 and shares still 25% below 52-week high signal investor caution about execution risk and valuation at current revenue multiples"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$63.64",
+      "price_target": "$68.63 (+7.8%)",
+      "pe_ratio": "-371.73",
+      "rsi": "N/A",
+      "vs_52wk_high": "-24.8% below high ($84.64)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - Quantum Computing",
+      "sources": ["MarketBeat", "Yahoo Finance", "TradingKey", "StockAnalysis", "Public.com"],
+      "price_history_5d": [52.47, 58.89, 63.64]
+    },
+    {
+      "ticker": "IBM",
+      "company": "International Business Machines Corporation",
+      "discussion_driver": "IBM surged 12.43% on May 21 after being named the anchor recipient of the $2 billion CHIPS Act quantum initiative, receiving a proposed $1 billion in incentives to spin off a standalone quantum subsidiary called Anderon, with IBM matching the government investment dollar-for-dollar. The announcement positions IBM as the cornerstone of the US quantum ecosystem. With a reasonable trailing P/E of ~19, analyst consensus Buy rating, and average target of $273, IBM offers a measured way to gain quantum exposure compared to high-risk pure-play names.",
+      "bull_case": [
+        "$1B CHIPS Act quantum investment to launch Anderon subsidiary cements IBM as the anchor of US quantum computing infrastructure with government co-investment de-risking the venture",
+        "AI software and hybrid cloud revenue growth diversifies beyond legacy hardware; trailing P/E of 18.98 is attractive relative to tech peers for a company with quantum optionality"
+      ],
+      "bear_case": [
+        "Stock remains 21.9% below its 52-week high of $324.90, suggesting persistent fundamental headwinds that the quantum catalyst alone may not overcome",
+        "Legacy mainframe and consulting divisions face ongoing margin pressure; quantum commercialization timelines remain distant with Anderon a long-term rather than near-term earnings driver"
       ],
       "recommendation": "Buy",
-      "current_price": "$232.29",
-      "price_target": "$244.00 (+5.0%)",
-      "pe_ratio": "32.46",
-      "rsi": "60.3",
-      "vs_52wk_high": "At new 52-week high ($232.29, exceeded prior 52wk high of $231.16)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Consumer Discretionary - Off-Price Retail",
-      "sources": ["Benzinga", "Yahoo Finance", "MarketBeat", "eToro", "CNBC", "Motley Fool", "PR Newswire"],
-      "price_history_5d": [217.19, 232.29]
+      "current_price": "$253.84",
+      "price_target": "$273.61 (+7.8%)",
+      "pe_ratio": "18.98",
+      "rsi": "N/A",
+      "vs_52wk_high": "-21.9% below high ($324.90)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - IT Services & Quantum Computing",
+      "sources": ["TradingKey", "MarketBeat", "RBC Capital", "Benzinga", "FinanceCharts"],
+      "price_history_5d": [224.50, 252.97, 253.84]
     },
     {
       "ticker": "EL",
-      "company": "The Estee Lauder Companies Inc.",
-      "discussion_driver": "Estee Lauder shares surged ~10.9% on May 22 after EL and Spanish luxury group Puig officially confirmed they have ended preliminary merger discussions. The news removes a prolonged acquisition overhang and refocuses investors on EL's standalone 'Beauty Reimagined' strategy and 'One ELC' operating restructuring, with Citigroup immediately raising its price target to $110.",
+      "company": "The Estée Lauder Companies Inc.",
+      "discussion_driver": "Estée Lauder shares surged ~11% on May 22 after the company confirmed it ended merger discussions with Spanish perfumery Puig, with investors welcoming the news as removing integration risk and allowing management to focus on its ongoing multi-year restructuring. The jump brought EL to $88 from a base near $78, but shares remain 27.4% below their 52-week high of $121.64, reflecting that the recovery from sluggish China travel retail and global prestige beauty demand headwinds is still a work in progress.",
       "bull_case": [
-        "Termination of Puig deal uncertainty clears the strategic path — management can now execute fully on the 'Beauty Reimagined' restructuring program, with Citigroup raising target to $110 the same day",
-        "Buy consensus from 19 analysts and average price targets of $95-101 imply meaningful upside as the turnaround thesis can now trade on fundamentals rather than M&A noise"
+        "Exit from Puig merger talks removes integration distraction and lets management concentrate fully on restructuring, cost-cutting, and recovery of the Asia travel retail business",
+        "Analyst consensus Buy with average target of $96.68 implies ~9.5% upside; gradual luxury beauty demand recovery and a leaner cost structure support medium-term earnings normalization"
       ],
       "bear_case": [
-        "Underlying fundamentals remain challenged — China luxury spending weakness, market share losses to K-beauty rivals, and a structurally pressured travel-retail channel are not resolved by M&A clarity",
-        "Even after the ~11% pop on May 22, shares remain 28% below the 52-week high of $121.64, indicating the market still prices in substantial execution risk on the turnaround"
+        "Stock remains 27.4% below its 52-week high despite the rally, reflecting persistent concerns about softening global prestige beauty demand and China travel retail underperformance",
+        "Strong dollar headwinds continue to pressure international revenue translation; restructuring costs and brand reinvestment may weigh on near-term margins"
       ],
       "recommendation": "Hold",
-      "current_price": "$87.52",
-      "price_target": "$96.68 (+10.5%)",
+      "current_price": "$88.32",
+      "price_target": "$96.68 (+9.5%)",
       "pe_ratio": "37.27",
-      "rsi": "N/A",
-      "vs_52wk_high": "-28.1% below high ($121.64)",
+      "rsi": "56.47",
+      "vs_52wk_high": "-27.4% below high ($121.64)",
       "analyst_rating": "Buy",
-      "sector": "Consumer Staples - Luxury Beauty",
-      "sources": ["MarketBeat", "TipRanks", "StocksToTrade", "Daily Political", "CNBC", "Bloomberg", "GuruFocus", "MarketScreener"],
-      "price_history_5d": [78.20, 78.91, 87.52]
+      "sector": "Consumer Staples - Luxury Beauty & Cosmetics",
+      "sources": ["CNBC", "TheStreet", "TipRanks", "StockAnalysis", "MarketBeat"],
+      "price_history_5d": [76.14, 78.20, 78.20, 88.32]
     },
     {
-      "ticker": "WDAY",
-      "company": "Workday, Inc.",
-      "discussion_driver": "Workday posted Q1 FY2027 revenue of $2.542B (+13.5% YoY) and non-GAAP EPS of $2.66, beating estimates. Most strikingly, operating income surged to $338M from just $39M a year earlier, demonstrating powerful AI-driven operating leverage. Shares gained ~12% after the May 21 after-hours earnings release, with confirmed after-hours price of $134.88 and May 22 trading reflecting the full surge.",
+      "ticker": "GNRC",
+      "company": "Generac Holdings Inc.",
+      "discussion_driver": "Generac jumped 9-11% on May 22 after Jefferies upgraded the stock from Hold to Buy and raised its price target from $239 to $302, citing the company's growing exposure to data-center backup power as a secular growth opportunity driven by AI infrastructure investment. The upgrade triggered a wave of additional analyst price target increases (UBS $305, Canaccord $325, Stephens $290). At 80x trailing earnings and trading within 2.4% of its 52-week high, GNRC has priced in substantial AI data-center optimism ahead of its next earnings catalyst.",
       "bull_case": [
-        "Explosive operating leverage — operating income grew from $39M to $338M YoY — validates the AI-enhanced HCM and financial management platform's ability to scale profitably at enterprise scale",
-        "Stock was deeply oversold (RSI 27.6 pre-earnings) trading 55% below its 52-week high; the earnings-driven re-rating with raised FY2027 subscription guidance to $9.93-9.95B signals a potential inflection"
+        "AI data-center infrastructure buildout creates a large, recurring backup-power demand opportunity that could structurally re-rate Generac well beyond its traditional residential generator business",
+        "Stock up 118% over the past year; Q1 2026 earnings beat and multiple analyst upgrades with new price targets up to $325 reflect broad institutional conviction in the AI infrastructure thesis"
       ],
       "bear_case": [
-        "Trailing P/E of 93.5x remains very elevated even after the stock's multi-month decline from highs near $274, leaving little room for any execution misstep or guidance cut",
-        "Intense competition from Oracle Fusion, SAP S/4HANA, and AI-native HR startups threatens Workday's enterprise moat; prolonged IT budget scrutiny could slow new customer wins"
-      ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$136.47 (est.)",
-      "price_target": "$280.00 (+105.2%)",
-      "pe_ratio": "93.5",
-      "rsi": "27.6",
-      "vs_52wk_high": "-50.1% below high ($273.80)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Enterprise Software (Cloud HCM & Finance)",
-      "sources": ["MarketBeat", "GuruFocus", "Yahoo Finance", "Motley Fool", "Bloomberg", "SEC Filing", "TipRanks", "Nasdaq"],
-      "price_history_5d": [128.88, 126.61, 121.85, 136.47]
-    },
-    {
-      "ticker": "MRK",
-      "company": "Merck & Co., Inc.",
-      "discussion_driver": "Merck rose approximately 3.5% on May 22 after Phase 3 trial data showed its lung cancer treatment, developed in partnership with Kelun-Biotech, reduced tumor progression risk by 65%. The data adds a significant late-stage pipeline catalyst as the company navigates the upcoming Keytruda loss of exclusivity beginning in 2028 and reinforces its oncology franchise.",
-      "bull_case": [
-        "Phase 3 lung cancer data showing a 65% reduction in tumor progression risk with Kelun-Biotech strengthens the post-Keytruda pipeline — materially de-risking the 2028 LOE cliff",
-        "Reasonable trailing P/E of 13.54x and Buy consensus from 18 of 29 analysts with a median $130 target provide attractive risk/reward near the 52-week high"
-      ],
-      "bear_case": [
-        "Keytruda loss of exclusivity in 2028 is a significant fiscal cliff — biosimilar competition will erode revenue from a drug representing roughly 40%+ of total Merck sales",
-        "Global pharmaceutical pricing reform risk and U.S. drug pricing legislation add regulatory overhang that could compress margins and revenue growth projections"
-      ],
-      "recommendation": "Buy",
-      "current_price": "$122.37",
-      "price_target": "$130.00 (+6.2%)",
-      "pe_ratio": "13.54",
-      "rsi": "N/A",
-      "vs_52wk_high": "-2.2% below high ($125.14)",
-      "analyst_rating": "Buy",
-      "sector": "Healthcare - Pharmaceuticals",
-      "sources": ["CNBC", "Bloomberg", "Yahoo Finance", "MacroTrends", "MarketBeat", "public.com", "Investing.com"],
-      "price_history_5d": [113.45, 115.88, 122.37]
-    },
-    {
-      "ticker": "BAH",
-      "company": "Booz Allen Hamilton Holding Corporation",
-      "discussion_driver": "Booz Allen Hamilton reported Q4 FY2026 adjusted EPS of $1.78, a 33% beat versus the $1.34 analyst consensus, sending shares up 5%+ in pre-market trading on May 22. Revenue fell 6.4% YoY to $2.8B as DOGE-related federal budget cuts weighed on government IT services, creating a split picture of strong profitability execution amid top-line contraction.",
-      "bull_case": [
-        "Q4 EPS beat of 33% above consensus demonstrates strong cost discipline and profitability execution even as revenue contracts — showing management control over the business",
-        "Total backlog grew 3.1% to $38 billion, providing multi-year revenue visibility and signaling that strategic contract wins continue despite near-term federal budget headwinds"
-      ],
-      "bear_case": [
-        "Revenue declined 6.4% YoY and DOGE-driven federal spending cuts show no clear near-term reversal — civil and civilian IT contract awards remain suppressed with ongoing budget uncertainty",
-        "Analyst consensus sits at Hold (2 Buy / 8 Hold / 3 Sell) and the stock is 37% below its 52-week high, reflecting limited near-term catalyst visibility and ongoing structural risk"
+        "Trailing P/E of 80.52x is 171% above its 10-year median of 29.66, leaving no margin for error if data-center growth disappoints or macro conditions shift",
+        "Core residential generator business remains heavily weather and storm dependent; AI data-center revenues are still a small portion of total sales and may take years to materially impact earnings"
       ],
       "recommendation": "Hold",
-      "current_price": "$82.00 (est.)",
-      "price_target": "$93.00 (+13.4%)",
-      "pe_ratio": "11.61",
+      "current_price": "$270.14",
+      "price_target": "$302.00 (+11.8%)",
+      "pe_ratio": "80.52",
       "rsi": "N/A",
-      "vs_52wk_high": "-37.4% below high ($130.91)",
-      "analyst_rating": "Hold",
-      "sector": "Industrials - Government Technology Services",
-      "sources": ["Benzinga", "GuruFocus", "MarketBeat", "Yahoo Finance", "CoinCentral", "SEC Filing", "Quiver Quantitative", "Alphastreet"],
-      "price_history_5d": [74.91, 77.00, 82.00]
+      "vs_52wk_high": "-2.4% below high ($276.80)",
+      "analyst_rating": "Buy",
+      "sector": "Industrials - Power Generation Equipment",
+      "sources": ["CNBC", "Jefferies", "Gurufocus", "FinancialContent", "MarketBeat", "Timothy Sykes"],
+      "price_history_5d": [245.19, 247.84, 270.14]
     }
   ]
 }
