@@ -1,14 +1,14 @@
 {
-  "report_date": "2026-05-22",
+  "report_date": "2026-05-25",
   "batch": 1,
   "market_tone": "Bullish",
   "key_themes": [
-    "AI infrastructure spending surge — Nvidia blockbuster earnings halo lifts chips, servers, and AI-exposed holdings",
-    "Earnings beats drive broad optimism — Ross Stores, Workday, Booz Allen Hamilton all significantly exceeded guidance",
-    "M&A and strategic activity — IMAX exploring sale, Estee Lauder ends Puig merger talks, sending shares sharply higher"
+    "AI infrastructure supercycle: Nvidia Q1 FY2027 record $81.6B revenue fuels broad AI-linked rally",
+    "Quantum computing surge: $2B CHIPS Act grants to 9 companies spark sector-wide buying",
+    "US-Iran nuclear talks progress drives oil lower, supporting equity sentiment ahead of Memorial Day"
   ],
   "sp500": {
-    "value": "7,473.47",
+    "value": "7,473.45",
     "change": "+0.37%"
   },
   "nasdaq": {
@@ -19,117 +19,117 @@
     {
       "ticker": "NVDA",
       "company": "Nvidia Corporation",
-      "discussion_driver": "NVIDIA reported its largest quarterly revenue ever at $81.62B (+85% YoY) for Q1 FY2027, crushing all estimates, with $75.2B in data center revenue alone. The company announced an $80 billion share buyback and raised its dividend, yet shares declined modestly as investors 'sold the news' following the stock's run to near all-time highs. Despite the pullback, the results validated the entire AI infrastructure investment thesis and sent chip sector peers sharply higher.",
+      "discussion_driver": "Nvidia reported Q1 FY2027 earnings on May 20, posting record $81.6B revenue (+85% YoY) and EPS of $1.87 vs. $1.76 estimate, beating expectations on all fronts. Despite the blowout report, the stock slipped roughly 2% post-announcement as investors took a 'priced for perfection' stance following a run to all-time highs near $236. Management announced an $80B share buyback program alongside a dividend increase, signaling strong confidence in sustained earnings power and the ongoing AI datacenter demand supercycle.",
       "bull_case": [
-        "Blowout Q1 FY2027 results ($81.62B revenue, +85% YoY) with guidance pointing to sustained $100B+ quarterly revenue solidify NVDA as the dominant AI infrastructure pick and validate the ongoing supercycle",
-        "$80B share buyback and dividend increase signal management's confidence in sustained free cash flow; forward P/E of ~26x is far more reasonable than trailing given rapid earnings growth trajectory"
+        "Record Q1 FY2027 revenue of $81.6B (+85% YoY) with consistent EPS beats demonstrates that AI datacenter demand remains insatiable, with Blackwell GPU architecture driving unprecedented compute density and pricing power",
+        "$80B share repurchase authorization plus dividend increase return capital to shareholders while CUDA ecosystem switching costs and deep software moat create durable competitive advantages competitors cannot easily replicate"
       ],
       "bear_case": [
-        "'Sell the news' dynamic post-earnings — stock declined despite a record beat, suggesting expectations were already fully priced in after the prior run to all-time highs near $235",
-        "China export restrictions on H20 and advanced chips block a major addressable market and remove a meaningful near-term growth driver from one of NVDA's largest markets"
+        "At 41x trailing P/E, NVDA is priced for continued hypergrowth — any guidance miss or sign of datacenter spending deceleration could trigger significant multiple compression given the stock's premium valuation",
+        "US export restrictions on advanced AI chips to China represent a growing revenue headwind, while Huawei Ascend and domestic Chinese chip development could erode NVDA's dominant position in that market over the medium term"
       ],
       "recommendation": "Buy",
       "current_price": "$215.33",
-      "price_target": "$294.22 (+36.6%)",
-      "pe_ratio": "45.59",
-      "rsi": "36.54",
+      "price_target": "$295.34 (+37.2%)",
+      "pe_ratio": "41.28",
+      "rsi": "61.66",
       "vs_52wk_high": "-9.0% below high ($236.54)",
       "analyst_rating": "Strong Buy",
       "sector": "Technology - Semiconductors",
-      "sources": ["CNBC", "Bloomberg", "Kiplinger", "Yahoo Finance", "MarketBeat"],
-      "price_history_5d": [227.49, 222.32, 223.47, 219.51, 215.33]
+      "sources": ["CNBC", "Fortune", "Intellectia AI", "Yahoo Finance", "MarketBeat", "GuruFocus"],
+      "price_history_5d": [220.61, 219.51, 215.33]
     },
     {
       "ticker": "DELL",
       "company": "Dell Technologies",
-      "discussion_driver": "Dell Technologies surged ~16.9% to a new 52-week high as multiple analysts raised price targets following Dell Tech World 2026 in Las Vegas, where Michael Dell and NVIDIA CEO Jensen Huang unveiled the AI Factory with agentic AI capabilities. Dell's $43B AI server backlog and $50B AI revenue forecast for FY2027 triggered upgrades from Wells Fargo ($270), JPMorgan ($280), BofA ($280), Citi ($290), and Mizuho ($300). Dell's own earnings report arrives May 28.",
+      "discussion_driver": "Dell surged roughly 16% on May 22 to an all-time high, driven by a wave of analyst price target hikes following Lenovo's blowout quarter showing 84% AI revenue growth — a leading indicator for Dell's own Q1 FY2027 earnings due May 28. JPMorgan raised its DELL target to $280 on May 15 and Wells Fargo raised to $270 on May 22, reinforcing conviction in Dell's AI infrastructure server thesis. The move reflects strong investor positioning ahead of what the market expects will be a similarly robust AI server backlog update from Dell management.",
       "bull_case": [
-        "$43B AI server backlog and $50B AI revenue guidance for FY2027 position Dell as the primary enterprise AI infrastructure buildout beneficiary, with momentum accelerating post-NVDA earnings validation",
-        "May 28 earnings expected to show 93.6% YoY EPS growth to $3.00 on 51.7% revenue growth; AI Factory ecosystem with NVIDIA is rapidly scaling across 5,000 enterprise customers"
+        "Dell is a premier provider of PowerEdge AI servers positioned at the center of enterprise AI infrastructure buildout — Lenovo's 84% AI revenue quarter serves as a compelling leading indicator for Dell's own server momentum heading into May 28 earnings",
+        "AI server backlog conversion and a diversified business spanning ISG, CSG, and Dell Financial Services provide multiple earnings drivers, with management consistently executing above expectations in recent quarters"
       ],
       "bear_case": [
-        "Stock has nearly doubled in 2026 and now trades at or above recent analyst consensus targets; UBS warned the rally has likely run its course near current levels",
-        "PC segment faces consumer spending headwinds; heavy reliance on NVIDIA GPU supply chain creates potential inventory and margin risk if AI server spending normalizes"
+        "Stock now trades at 33x trailing P/E at all-time highs, while the broader analyst consensus price target (~$229) remains well below current levels — significant mean-reversion risk if May 28 earnings disappoint or guidance proves conservative",
+        "Memory component cost pressures and competitive AI server pricing dynamics could compress gross margins even as revenue grows, and the 16% single-day surge may have pulled forward near-term upside"
       ],
       "recommendation": "Hold",
-      "current_price": "$294.12",
-      "price_target": "$284.00 (-3.4%)",
-      "pe_ratio": "29.16",
+      "current_price": "$291.17",
+      "price_target": "$228.87 (-21.4%)",
+      "pe_ratio": "33.46",
       "rsi": "N/A",
-      "vs_52wk_high": "at 52-week high ($294.12)",
+      "vs_52wk_high": "-2.4% below intraday high ($298.32)",
       "analyst_rating": "Buy",
-      "sector": "Technology - Computer Hardware",
-      "sources": ["CNBC", "Investing.com", "TheStreet", "Benzinga", "MarketBeat"],
-      "price_history_5d": [240.00, 244.50, 242.68, 252.80, 294.12]
+      "sector": "Technology - Hardware & Infrastructure",
+      "sources": ["CNBC", "TheStreet", "MarketBeat", "GuruFocus", "247WallSt"],
+      "price_history_5d": [252.86, 291.17]
+    },
+    {
+      "ticker": "HPQ",
+      "company": "HP Inc.",
+      "discussion_driver": "HP Inc. surged 14-15% on May 22 in a sympathy move driven by Lenovo's blowout AI PC quarter, reinforcing the thesis for an AI-driven PC hardware refresh cycle ahead of HP's own Q1 FY2027 earnings on May 27. Investors anticipate HP will benefit from the same enterprise AI PC upgrade wave as commercial customers replace aging hardware with AI-capable NPU-equipped devices. However, analyst consensus remains cautious — Bank of America has warned that HP could cut its full-year guidance, and most analysts maintain Hold ratings with consensus price targets below the current surge level.",
+      "bull_case": [
+        "AI PC refresh cycle is accelerating among enterprise customers replacing aging x86 hardware with AI-capable NPU-equipped devices, and HP's strong commercial PC installed base positions it as a direct beneficiary of the multi-year upgrade cycle",
+        "HP trades at roughly 7x trailing P/E — a deep discount to the broader market — offering significant margin of safety and potential for multiple re-rating if AI PC demand materially accelerates earnings growth"
+      ],
+      "bear_case": [
+        "Analyst consensus price target of $21.42 sits below the current price of $25.24, and Bank of America warns HP may cut full-year guidance at the May 27 earnings report — creating meaningful downside risk from current post-surge levels",
+        "HP faces structural headwinds from a maturing PC market with intense competition from Dell, Lenovo, and Apple; the AI PC upgrade cycle timeline may be longer than bulls anticipate, potentially disappointing near-term revenue expectations"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$25.24",
+      "price_target": "$21.42 (-15.2%)",
+      "pe_ratio": "7.00",
+      "rsi": "N/A",
+      "vs_52wk_high": "-14.6% below high ($29.55)",
+      "analyst_rating": "Hold",
+      "sector": "Technology - Personal Computers & Hardware",
+      "sources": ["CNBC", "TheStreet", "MarketBeat", "Yahoo Finance", "public.com"],
+      "price_history_5d": [20.98, 25.24]
     },
     {
       "ticker": "QCOM",
-      "company": "Qualcomm Inc.",
-      "discussion_driver": "Qualcomm surged 11%+ after announcing an expanded multi-year partnership with Stellantis for Snapdragon Digital Chassis integration into next-generation vehicles, adding to its AI momentum story. The stock is now up over 50% since its April 29 earnings beat showing record automotive revenue. QCOM's rapid rise has pushed it ~26% above analyst consensus targets, suggesting Wall Street has yet to fully revise estimates upward following the sustained rally.",
+      "company": "Qualcomm Incorporated",
+      "discussion_driver": "Qualcomm surged 12-13% on May 22 after Stellantis expanded its multi-year Snapdragon partnership to cover cockpit technology, connectivity, and ADAS systems, validating QCOM's automotive diversification strategy. The company's automotive revenue reached a record $1.33B quarterly, and optimism around China trade relations further boosted the session. The stock climbed from $186 in early May to $237+, nearing its 52-week high of $247.90, driven by simultaneous momentum in automotive AI, on-device edge AI in smartphones, and the Copilot+ PC market.",
       "bull_case": [
-        "Landmark Stellantis deal and record automotive revenue validate Qualcomm's successful diversification beyond smartphones; automotive is emerging as a high-margin, multi-billion dollar recurring revenue engine",
-        "Snapdragon X AI PC chips and on-device AI inference represent a massive new TAM; the edge AI compute wave structurally favors Qualcomm's power-efficient architecture across mobile, PC, and automotive"
+        "Automotive design-win pipeline is converting to revenue at an accelerating pace — record $1.33B quarterly automotive revenue validates the Snapdragon Digital Chassis platform, with the Stellantis partnership expansion adding incremental high-margin recurring revenue",
+        "On-device AI (edge AI) trend positions Qualcomm's Snapdragon platform for premium Android smartphone ASP uplift and AI PC market expansion through Copilot+ capabilities, diversifying revenue beyond the smartphone replacement cycle"
       ],
       "bear_case": [
-        "Stock has surged 50%+ in three weeks and now trades ~26% above the analyst consensus price target of $175.97, creating significant valuation risk if growth expectations are not met or revised higher",
-        "~35% of revenue derived from China creates ongoing geopolitical risk; tariffs or trade restrictions could materially impact shipments to its largest regional revenue market"
+        "Qualcomm faces structural customer concentration risk from Apple's in-house modem development — successful iPhone modem insourcing could materially reduce QCOM's handset revenue and create a significant earnings headwind over the next 2-3 years",
+        "With the broad analyst consensus target (~$174) well below the current price of $237, and the stock already trading near its 52-week high of $247.90, the risk/reward setup is challenging for new buyers entering after a 25%+ month-to-date rally"
       ],
       "recommendation": "Hold",
-      "current_price": "$238.34",
-      "price_target": "$175.97 (-26.2%)",
-      "pe_ratio": "22.03",
+      "current_price": "$237.19",
+      "price_target": "$174.54 (-26.4%)",
+      "pe_ratio": "25.91",
       "rsi": "64.92",
-      "vs_52wk_high": "-3.9% below high ($247.90)",
+      "vs_52wk_high": "-4.3% below high ($247.90)",
       "analyst_rating": "Hold",
-      "sector": "Technology - Semiconductors",
-      "sources": ["CNBC", "Bloomberg", "TradingKey", "Investing.com", "24/7 Wall St."],
-      "price_history_5d": [203.64, 195.60, 201.55, 213.41, 238.34]
+      "sector": "Technology - Semiconductors (Mobile & Automotive)",
+      "sources": ["CNBC", "CoinCentral", "CryptoRank", "TradingKey", "MarketBeat", "FXLeaders"],
+      "price_history_5d": [213.41, 238.16]
     },
     {
-      "ticker": "ARM",
-      "company": "Arm Holdings plc",
-      "discussion_driver": "Arm Holdings surged 16%+ to new all-time highs as NVIDIA's blowout Q1 FY2027 earnings directly validated surging demand for Arm-architecture AI chips in data centers. Combined with ARM's own strong Q4 FY2026 (net income +49% YoY, revenue +20% to $1.49B) and a wave of analyst upgrades — Bernstein initiated at $300, Jefferies raised to $290, RBC to $260, KeyBanc to $300 — the stock crossed $298 and pushed ARM's market cap above $300 billion for the first time.",
+      "ticker": "RGTI",
+      "company": "Rigetti Computing",
+      "discussion_driver": "Rigetti Computing jumped 30%+ over two days (May 21-22) after the US Department of Commerce announced $2B in CHIPS Act grants to nine quantum computing companies, with Rigetti receiving up to $100M to commercialize its superconducting quantum technology. The federal investment validates US government commitment to domestic quantum leadership and provides non-dilutive capital to advance Rigetti's 100+ qubit system roadmap. The stock surged from $15.96 (May 19) to $27.02 (May 22), a roughly 69% weekly gain, as investors repriced the probability of quantum commercialization becoming a near-term reality.",
       "bull_case": [
-        "NVIDIA's $200B CPU addressable market forecast and $20B Vera CPU revenue projection places Arm architecture at the center of next-wave AI compute, validating explosive royalty and licensing revenue growth",
-        "Q4 FY2026 results showed net income +49% YoY and revenue +20% to $1.49B; $2B in unfilled orders signals demand far outstrips current supply capacity, pointing to strong forward growth"
+        "$100M CHIPS Act grant provides meaningful non-dilutive runway to advance Rigetti's superconducting quantum processor development, with the US government endorsement lending credibility to the quantum timeline and reducing near-term capital raise risk",
+        "As one of the few pure-play publicly traded quantum computing companies, RGTI offers early-stage exposure to a potentially transformative technology with analyst consensus pointing toward $30.78 average target and Strong Buy ratings from 9 of 12 covering analysts"
       ],
       "bear_case": [
-        "Extreme valuation — trailing P/E of 338x — prices in years of perfect execution with no margin for error; any guidance miss or macro shock could trigger a severe correction from current elevated levels",
-        "SoftBank controls >90% of shares creating concentration overhang risk; limited public float amplifies volatility in both directions and makes price discovery unreliable"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$298.23",
-      "price_target": "$230.92 (-22.6%)",
-      "pe_ratio": "338.51",
-      "rsi": "N/A",
-      "vs_52wk_high": "-0.2% below high ($298.70)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Semiconductors",
-      "sources": ["CNBC", "Bloomberg", "Motley Fool", "StartupHub.ai", "Bernstein", "StocksToTrade"],
-      "price_history_5d": [215.00, 223.15, 256.73, 256.73, 298.23]
-    },
-    {
-      "ticker": "IMAX",
-      "company": "IMAX Corporation",
-      "discussion_driver": "IMAX shares surged ~15% after The Wall Street Journal reported the company is exploring a strategic sale and has engaged entertainment companies as potential buyers via intermediaries. Analysts identified Apple, Sony, and Netflix as the most likely acquirers, with IMAX characterized as 'a rare combination of a globally recognized premium brand, an asset-light licensing model, and a structurally expanding earnings profile.' The sale process remains early-stage with no formal pitches made.",
-      "bull_case": [
-        "M&A premium potential is substantial — IMAX's globally recognized brand and asset-light licensing model make it an attractive strategic acquisition target; Benchmark raised its target to $60, implying significant additional upside even at current elevated levels",
-        "Record $1.4B global box office guided for 2026 with 160-175 new system installations planned; strong summer film slate provides organic earnings momentum independent of any deal outcome"
-      ],
-      "bear_case": [
-        "Sale process is 'early stage' with no formal pitches and no guarantee a deal materializes; if talks collapse, shares could retrace sharply toward pre-announcement levels (~$34, -12% downside)",
-        "Structural streaming disruption continues to challenge premium theatrical attendance long-term; IMAX trades at ~50x trailing P/E versus the US entertainment industry average of ~37x"
+        "Rigetti has negative earnings (TTM EPS of -$0.87) with no near-term path to profitability — the $100M grant helps extend runway but fault-tolerant quantum computing commercialization remains highly speculative with significant technical execution risk",
+        "Quantum stocks are highly volatile and prone to sharp reversals after event-driven surges — RGTI remains 53% below its 52-week high of $58.15, reflecting prior boom-bust cycles, and current valuations are based entirely on future potential rather than current revenue scale"
       ],
       "recommendation": "Speculative Buy",
-      "current_price": "$38.68",
-      "price_target": "$44.50 (+15.0%)",
-      "pe_ratio": "50.11",
+      "current_price": "$27.02",
+      "price_target": "$30.78 (+13.9%)",
+      "pe_ratio": "N/A (negative earnings)",
       "rsi": "N/A",
-      "vs_52wk_high": "-10.4% below high ($43.16)",
+      "vs_52wk_high": "-53.5% below high ($58.15)",
       "analyst_rating": "Strong Buy",
-      "sector": "Entertainment - Media Technology",
-      "sources": ["CNBC", "Bloomberg", "MarketScreener", "GuruFocus", "Benchmark", "Wall Street Journal"],
-      "price_history_5d": [34.25, 34.50, 34.00, 33.88, 38.68]
+      "sector": "Technology - Quantum Computing",
+      "sources": ["TechTimes", "TradingKey", "IBTimes AU", "MarketBeat", "GuruFocus", "SEC/EDGAR"],
+      "price_history_5d": [15.96, 16.88, 20.97, 27.02]
     }
   ]
 }
