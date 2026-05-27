@@ -1,0 +1,141 @@
+---
+layout: default
+title: Investment Estimator
+---
+<div style="margin-bottom:1.5rem;"><a href="./" style="color:#64748b;text-decoration:none;font-size:0.85rem;font-weight:500;letter-spacing:0.02em;">← Back to Daily Report</a></div>
+
+<h1 style="font-family:'Inter',sans-serif;font-weight:700;font-size:2rem;letter-spacing:-0.02em;color:#0f1729;margin:0 0 0.5rem;">Investment Estimator</h1>
+<p style="color:#64748b;font-size:0.95rem;margin:0 0 2rem;">Pick a stock and a date. We'll show what your hypothetical investment would be worth today, based on the prices we logged in past reports.</p>
+
+<div style="background:#ffffff;border:1px solid #e2e8f0;border-radius:8px;padding:1.5rem;margin-bottom:1.5rem;">
+  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1rem;margin-bottom:1rem;">
+    <div>
+      <label for="tickerSelect" style="font-size:0.7rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.08em;font-weight:500;display:block;margin-bottom:0.4rem;">Stock</label>
+      <select id="tickerSelect" style="width:100%;padding:0.55rem 0.7rem;border:1px solid #e2e8f0;border-radius:6px;font-family:'JetBrains Mono',monospace;font-size:0.95rem;color:#0f1729;background:#ffffff;cursor:pointer;"></select>
+    </div>
+    <div>
+      <label for="purchaseDate" style="font-size:0.7rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.08em;font-weight:500;display:block;margin-bottom:0.4rem;">Purchase Date</label>
+      <input type="date" id="purchaseDate" style="width:100%;padding:0.55rem 0.7rem;border:1px solid #e2e8f0;border-radius:6px;font-family:'JetBrains Mono',monospace;font-size:0.95rem;color:#0f1729;background:#ffffff;">
+    </div>
+    <div>
+      <label for="amount" style="font-size:0.7rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.08em;font-weight:500;display:block;margin-bottom:0.4rem;">Hypothetical Amount</label>
+      <input type="number" id="amount" min="1" step="100" value="1000" style="width:100%;padding:0.55rem 0.7rem;border:1px solid #e2e8f0;border-radius:6px;font-family:'JetBrains Mono',monospace;font-size:0.95rem;color:#0f1729;background:#ffffff;">
+    </div>
+  </div>
+  <button id="calcBtn" style="background:#0f1729;color:white;padding:0.6rem 1.4rem;border:none;border-radius:6px;font-weight:500;font-size:0.9rem;cursor:pointer;letter-spacing:0.02em;font-family:'Inter',sans-serif;">Calculate</button>
+</div>
+
+<div id="results" style="display:none;"></div>
+
+<div style="background:#f8fafc;border:1px solid #e2e8f0;border-left:3px solid #94a3b8;padding:0.9rem 1.2rem;border-radius:6px;margin-top:2rem;font-size:0.85rem;color:#64748b;line-height:1.5;">
+  <strong style="color:#0f1729;">Note:</strong> Prices come from the snapshot we logged when each stock appeared in a daily report. If you pick a date we didn't cover that stock, we'll use the nearest report date. Estimates are illustrative only — they don't account for fees, taxes, or dividends.
+</div>
+
+<script>
+fetch('price_data.json').then(r => r.json()).then(data => {
+  const tickerSelect = document.getElementById('tickerSelect');
+  const purchaseDate = document.getElementById('purchaseDate');
+  const amountInput = document.getElementById('amount');
+  const calcBtn = document.getElementById('calcBtn');
+  const results = document.getElementById('results');
+
+  // Filter to tickers with 2+ data points (so a meaningful comparison is possible)
+  const eligible = Object.keys(data).filter(t => data[t].length >= 2).sort();
+
+  // Build ticker dropdown
+  eligible.forEach(ticker => {
+    const opt = document.createElement('option');
+    opt.value = ticker;
+    const pts = data[ticker];
+    opt.textContent = `${ticker}  (${pts.length} data points, ${pts[0].date} → ${pts[pts.length-1].date})`;
+    tickerSelect.appendChild(opt);
+  });
+
+  // Default to first ticker, earliest available date
+  if (eligible.length > 0) {
+    const firstTicker = eligible[0];
+    purchaseDate.value = data[firstTicker][0].date;
+    purchaseDate.min = data[firstTicker][0].date;
+    purchaseDate.max = data[firstTicker][data[firstTicker].length-1].date;
+  }
+
+  tickerSelect.addEventListener('change', () => {
+    const pts = data[tickerSelect.value];
+    purchaseDate.min = pts[0].date;
+    purchaseDate.max = pts[pts.length-1].date;
+    purchaseDate.value = pts[0].date;
+  });
+
+  function findNearest(prices, targetDate) {
+    let best = prices[0], bestDiff = Math.abs(new Date(prices[0].date) - new Date(targetDate));
+    for (const p of prices) {
+      const diff = Math.abs(new Date(p.date) - new Date(targetDate));
+      if (diff < bestDiff) { best = p; bestDiff = diff; }
+    }
+    return best;
+  }
+
+  function fmt(n) { return '$' + n.toFixed(2).replace(/\B(?=(\d{3})+(?!\d))/g, ','); }
+
+  function calculate() {
+    const ticker = tickerSelect.value;
+    const target = purchaseDate.value;
+    const amount = parseFloat(amountInput.value) || 0;
+    if (!ticker || !target || amount <= 0) return;
+
+    const pts = data[ticker];
+    const buy = findNearest(pts, target);
+    const latest = pts[pts.length - 1];
+
+    const shares = amount / buy.price;
+    const currentValue = shares * latest.price;
+    const gain = currentValue - amount;
+    const pct = (gain / amount) * 100;
+    const positive = gain >= 0;
+    const color = positive ? '#065f46' : '#991b1b';
+    const bg = positive ? '#d1fae5' : '#fee2e2';
+    const sign = positive ? '+' : '';
+
+    const usedNearest = buy.date !== target;
+
+    results.style.display = 'block';
+    results.innerHTML = `
+      <div style="background:#ffffff;border:1px solid #e2e8f0;border-radius:8px;padding:1.5rem;margin-bottom:1rem;">
+        <div style="font-size:0.7rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.08em;font-weight:500;margin-bottom:0.5rem;">If You Had Invested</div>
+        <div style="font-family:'JetBrains Mono',monospace;font-size:2.2rem;font-weight:700;color:#0f1729;letter-spacing:-0.02em;">${fmt(amount)} <span style="font-family:'Inter',sans-serif;font-size:1rem;font-weight:400;color:#64748b;">in</span> ${ticker}</div>
+        <div style="font-size:0.9rem;color:#64748b;margin-top:0.4rem;">on <strong style="color:#0f1729;font-family:'JetBrains Mono',monospace;">${buy.date}</strong>${usedNearest ? ` (nearest to your selected ${target})` : ''}</div>
+      </div>
+
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:1rem;margin-bottom:1rem;">
+        <div style="background:#ffffff;border:1px solid #e2e8f0;border-radius:8px;padding:1.25rem;">
+          <div style="font-size:0.7rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.08em;font-weight:500;">Purchase Price</div>
+          <div style="font-family:'JetBrains Mono',monospace;font-size:1.5rem;font-weight:600;color:#0f1729;margin-top:0.3rem;">${fmt(buy.price)}</div>
+          <div style="font-size:0.75rem;color:#94a3b8;font-family:'JetBrains Mono',monospace;margin-top:0.2rem;">${buy.date}</div>
+        </div>
+        <div style="background:#ffffff;border:1px solid #e2e8f0;border-radius:8px;padding:1.25rem;">
+          <div style="font-size:0.7rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.08em;font-weight:500;">Latest Price</div>
+          <div style="font-family:'JetBrains Mono',monospace;font-size:1.5rem;font-weight:600;color:#0f1729;margin-top:0.3rem;">${fmt(latest.price)}</div>
+          <div style="font-size:0.75rem;color:#94a3b8;font-family:'JetBrains Mono',monospace;margin-top:0.2rem;">${latest.date}</div>
+        </div>
+        <div style="background:#ffffff;border:1px solid #e2e8f0;border-radius:8px;padding:1.25rem;">
+          <div style="font-size:0.7rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.08em;font-weight:500;">Shares</div>
+          <div style="font-family:'JetBrains Mono',monospace;font-size:1.5rem;font-weight:600;color:#0f1729;margin-top:0.3rem;">${shares.toFixed(4)}</div>
+        </div>
+      </div>
+
+      <div style="background:linear-gradient(135deg, ${bg} 0%, white 100%);border:1px solid #e2e8f0;border-radius:8px;padding:1.5rem;border-left:4px solid ${color};">
+        <div style="font-size:0.7rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.08em;font-weight:500;">Today's Value</div>
+        <div style="display:flex;align-items:baseline;gap:0.8rem;margin-top:0.5rem;flex-wrap:wrap;">
+          <span style="font-family:'JetBrains Mono',monospace;font-size:2.4rem;font-weight:700;color:#0f1729;letter-spacing:-0.02em;">${fmt(currentValue)}</span>
+          <span style="font-family:'JetBrains Mono',monospace;font-size:1.3rem;font-weight:600;color:${color};">${sign}${fmt(gain)}</span>
+          <span style="background:${color};color:white;padding:0.2rem 0.65rem;border-radius:4px;font-size:0.85rem;font-weight:600;font-family:'JetBrains Mono',monospace;">${sign}${pct.toFixed(2)}%</span>
+        </div>
+      </div>
+    `;
+  }
+
+  calcBtn.addEventListener('click', calculate);
+  // Calculate on load if defaults are set
+  if (eligible.length > 0) calculate();
+});
+</script>
