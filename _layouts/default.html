@@ -79,9 +79,20 @@
     }
 
     .container {
-      max-width: 900px;
+      max-width: 1000px;
       margin: 0 auto;
       padding: 2rem 1.5rem 4rem;
+    }
+
+    /* Touch-friendly defaults: bigger tap targets, comfortable spacing */
+    a, button, select, input { touch-action: manipulation; }
+    input, select, button, textarea { font-size: 16px; }  /* prevents iOS auto-zoom on focus */
+    a { min-height: 32px; }
+
+    /* Make scrollable tables responsive on iPad */
+    .container table { display: table; }
+    @media (max-width: 1024px) {
+      .container > div[style*="overflow:hidden"] { overflow-x: auto !important; -webkit-overflow-scrolling: touch; }
     }
 
     h1 {
@@ -184,6 +195,35 @@
       line-height: 2;
     }
 
+    /* iPad portrait & landscape (≤ 1024px) */
+    @media (max-width: 1024px) {
+      .container { padding: 1.5rem 1.25rem 3rem; max-width: 100%; }
+      .site-header { padding: 2.5rem 1.5rem; }
+      .site-header .brand-name { font-size: 2.5rem; }
+
+      /* Larger tap targets for buttons and links */
+      .container a[style*="display:inline-flex"],
+      .container a[style*="display: inline-flex"] {
+        padding: 0.7rem 1.1rem !important;
+        font-size: 0.95rem !important;
+      }
+      .container button { padding: 0.85rem 1.6rem !important; font-size: 1rem !important; }
+
+      /* Inputs / selects: bigger and easier to tap */
+      .container input, .container select {
+        padding: 0.85rem 0.85rem !important;
+        font-size: 1rem !important;
+      }
+
+      /* Tables and wide content: allow horizontal scroll inside their wrapper */
+      .container table { font-size: 0.92rem; }
+      td, th { padding: 0.85rem 1rem; }
+
+      /* Per-stock metric cards expand a bit */
+      .container div[style*="grid-template-columns:repeat(auto-fit,minmax(140px"] > div { padding: 0.85rem 1rem !important; }
+    }
+
+    /* Phone (≤ 600px) */
     @media (max-width: 600px) {
       .site-header { padding: 2rem 1rem; }
       .site-header .brand-name { font-size: 2.2rem; }
