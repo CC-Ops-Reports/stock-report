@@ -1,121 +1,121 @@
 {
-  "report_date": "2026-05-25",
+  "report_date": "2026-05-26",
   "batch": 2,
   "stocks": [
     {
-      "ticker": "QBTS",
-      "company": "D-Wave Quantum Inc.",
-      "discussion_driver": "D-Wave surged 33%+ on May 21 after the US Department of Commerce announced $2 billion in CHIPS Act grants to nine quantum companies, with D-Wave receiving $100 million to commercialize its annealing quantum technology. The stock followed with an additional 14% gain on May 22, bringing total weekly gains to over 50%. Despite the rally, shares remain roughly 37% below their 52-week high of $46.75, reflecting extreme volatility and the speculative nature of early-stage quantum commercialization.",
+      "ticker": "AMD",
+      "company": "Advanced Micro Devices",
+      "discussion_driver": "AMD surged 7.84% on May 26 to a new all-time high above $504, swept up in the Micron-sparked AI semiconductor rally after Micron crossed a $1 trillion market cap on HBM4 demand. AMD had already set record closing highs the prior week on strong Q1 earnings (revenue +38% YoY to $10.25B) and a $10B+ investment announcement on May 21, making May 26's move a continuation of a remarkable multi-week record-breaking run.",
       "bull_case": [
-        "$100M CHIPS Act grant validates D-Wave's annealing quantum approach and provides meaningful funding runway toward commercialization",
-        "Growing enterprise pipeline in logistics, materials science, and AI optimization positions D-Wave as the most commercially advanced quantum computing vendor"
+        "AMD posted Q1 2026 revenue of $10.25B (+38% YoY) with accelerating data center GPU demand from MI300X; Bernstein raised its target to $525 and Evercore to $579 post-earnings, signaling growing analyst conviction in the AI compute story.",
+        "AMD's May 21 announcement of $10B+ in investments and 2nm EPYC CPU production ramp on TSMC's leading-edge process cements long-term compute leadership and positions the company to capture Intel's data center market share."
       ],
       "bear_case": [
-        "Company is unprofitable with forecast FY2026 EPS loss of -$0.35; path to profitability remains unclear amid high cash burn",
-        "Valuation at ~215x FY2025 revenue prices in years of flawless execution, leaving the stock highly vulnerable to any execution miss or sentiment shift"
+        "Trailing P/E of ~156x creates extreme sensitivity to any earnings or demand shortfall; analyst consensus price targets remain well below current price levels, suggesting the stock has outrun near-term fundamentals.",
+        "NVIDIA retains dominant market share in AI training workloads with Blackwell GPU architecture, limiting AMD's ability to capture the premium pricing and margin profile of the highest-value AI GPU segment."
+      ],
+      "recommendation": "Hold",
+      "current_price": "$504.14",
+      "price_target": "$467.41 (-7.3%)",
+      "pe_ratio": "155.90",
+      "rsi": "73.2",
+      "vs_52wk_high": "New 52-wk high (+4.7% above prior ATH of $481.41 on 5/22)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - Semiconductors",
+      "sources": ["CNBC", "TheStreet", "MarketBeat", "Bernstein", "Evercore ISI"],
+      "price_history_5d": [467.51, 504.14]
+    },
+    {
+      "ticker": "OKLO",
+      "company": "Oklo Inc.",
+      "discussion_driver": "Oklo rose 6% after the Department of Energy selected the company for advanced discussions on repurposing Cold War-era plutonium stockpiles as fuel for its Aurora compact fast reactor microreactors — a landmark government validation that de-risks both the technology and long-term fuel supply pathway. The AI data center power crisis continues to lift nuclear energy stocks broadly as hyperscalers seek reliable clean baseload power.",
+      "bull_case": [
+        "DOE selection of Oklo for advanced discussions on Cold War-era plutonium fuel use represents unprecedented government validation and a potential long-term proprietary fuel supply advantage that competitors cannot easily replicate.",
+        "The AI data center electrification demand crisis is creating urgent appetite for reliable clean baseload power, positioning advanced nuclear microreactors as a critical long-term solution with Oklo as an early first-mover."
+      ],
+      "bear_case": [
+        "Oklo is pre-revenue with no deployed commercial reactors; regulatory approval timelines remain uncertain and the stock trades on speculative optionality rather than current cash flows or earnings.",
+        "The stock has fallen 64.5% from its 52-week high of $193.84, reflecting the risk that earlier market enthusiasm was not supported by near-term fundamentals and that execution risk remains high."
       ],
       "recommendation": "Speculative Buy",
-      "current_price": "$29.40",
-      "price_target": "$35.17 (+19.6%)",
+      "current_price": "$68.83",
+      "price_target": "$91.21 (+32.5%)",
       "pe_ratio": "N/A",
-      "rsi": "50.19",
-      "vs_52wk_high": "-37.1% below high ($46.75)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Technology - Quantum Computing",
-      "sources": ["CNN Markets", "MarketBeat", "StockAnalysis", "TechTimes", "IBTimes AU", "TradingKey"],
-      "price_history_5d": [19.28, 25.72, 29.40]
+      "rsi": "N/A",
+      "vs_52wk_high": "-64.5% below high ($193.84)",
+      "analyst_rating": "Buy",
+      "sector": "Energy - Nuclear / Clean Energy",
+      "sources": ["CNBC", "TheStreet", "StockAnalysis", "MarketBeat", "GuruFocus"],
+      "price_history_5d": [62.58, 65.88, 68.83]
     },
     {
-      "ticker": "IONQ",
-      "company": "IonQ Inc.",
-      "discussion_driver": "IonQ gained 12%+ on May 21 riding broad quantum computing sector momentum from the $2B CHIPS Act announcement, even though IonQ was not among the nine direct grant recipients. The gain was amplified by strong Q1 2026 results (revenue +755% YoY to $64.7M) and a raised full-year guidance of $260-270M. Shares remain about 25% below their 52-week high of $84.64, reflecting the gap between recent sector enthusiasm and the still-distant profitability timeline.",
+      "ticker": "QCOM",
+      "company": "Qualcomm",
+      "discussion_driver": "Qualcomm gained 5.74% on May 26, driven by a new AI chip supply deal with ByteDance and the broad semiconductor rally triggered by Micron's $1 trillion crossing. QCOM has surged approximately 75% over the past month, well outpacing analyst consensus targets (~$182), as investors position ahead of Qualcomm's June 24 Investor Day where management is expected to detail its accelerating AI diversification strategy beyond its smartphone chip core.",
       "bull_case": [
-        "Record Q1 2026 revenue of $64.7M (+755% YoY) with full-year guidance raised to $260-270M demonstrates accelerating commercial traction for trapped-ion quantum systems",
-        "Approved acquisition of SkyWater Technology enables vertical integration in quantum chip manufacturing, potentially reducing costs and improving competitive positioning"
+        "New AI chip supply deal with ByteDance validates Qualcomm's diversification into AI data center silicon, opening a high-margin revenue stream outside the smartphone cycle and demonstrating competitive AI chip capabilities.",
+        "June 24 Investor Day could serve as a major catalyst with potential announcements on automotive chip partnerships, AI PC market share ramp, and data center AI strategy that could crystallize a higher long-term earnings multiple."
       ],
       "bear_case": [
-        "IonQ was not a direct CHIPS Act recipient; its 12% rally was driven by sector sentiment rather than fundamental catalysts, making gains more fragile",
-        "Negative trailing P/E of -371.73 and shares still 25% below 52-week high signal investor caution about execution risk and valuation at current revenue multiples"
+        "Analyst consensus price target of ~$182 is 26.3% below the current price of $246.77, suggesting the stock has meaningfully outrun near-term fundamentals after the recent 75%+ monthly rally.",
+        "Qualcomm derives the majority of revenue from handset chips that remain sensitive to consumer spending and inventory cycles, creating cyclical risk that current AI diversification enthusiasm may be overstating."
       ],
       "recommendation": "Hold",
-      "current_price": "$63.64",
-      "price_target": "$68.63 (+7.8%)",
-      "pe_ratio": "-371.73",
-      "rsi": "N/A",
-      "vs_52wk_high": "-24.8% below high ($84.64)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Quantum Computing",
-      "sources": ["MarketBeat", "Yahoo Finance", "TradingKey", "StockAnalysis", "Public.com"],
-      "price_history_5d": [52.47, 58.89, 63.64]
+      "current_price": "$246.77",
+      "price_target": "$181.79 (-26.3%)",
+      "pe_ratio": "25.91",
+      "rsi": "71.74",
+      "vs_52wk_high": "-4.3% below high ($258.00)",
+      "analyst_rating": "Hold",
+      "sector": "Technology - Semiconductors",
+      "sources": ["CNBC", "TradingKey", "StockStory", "MarketBeat", "eToro"],
+      "price_history_5d": [247.91, 238.16, 246.77]
     },
     {
-      "ticker": "IBM",
-      "company": "International Business Machines Corporation",
-      "discussion_driver": "IBM surged 12.43% on May 21 after being named the anchor recipient of the $2 billion CHIPS Act quantum initiative, receiving a proposed $1 billion in incentives to spin off a standalone quantum subsidiary called Anderon, with IBM matching the government investment dollar-for-dollar. The announcement positions IBM as the cornerstone of the US quantum ecosystem. With a reasonable trailing P/E of ~19, analyst consensus Buy rating, and average target of $273, IBM offers a measured way to gain quantum exposure compared to high-risk pure-play names.",
+      "ticker": "ZS",
+      "company": "Zscaler",
+      "discussion_driver": "Zscaler reported Q3 FY2026 earnings after the close on May 26 — EPS of $1.08 beat estimates and revenue of $850.5M grew 25% YoY, but guidance disappointed sharply as free cash flow margin guidance was cut from ~27% to ~23% for Q4 FY2026, sending shares down approximately 17% in after-hours trading. Investors focused on the FCF guide cut as a signal that heavy AI-era infrastructure capex is weighing on near-term cash generation, despite durable top-line growth momentum.",
       "bull_case": [
-        "$1B CHIPS Act quantum investment to launch Anderon subsidiary cements IBM as the anchor of US quantum computing infrastructure with government co-investment de-risking the venture",
-        "AI software and hybrid cloud revenue growth diversifies beyond legacy hardware; trailing P/E of 18.98 is attractive relative to tech peers for a company with quantum optionality"
+        "Revenue grew 25% YoY to $850.5M in Q3 FY2026 with an EPS beat ($1.08 vs $1.04 estimate) and a raised full-year outlook, demonstrating durable demand for zero-trust cloud security across enterprise customers.",
+        "The pending Symmetry Systems acquisition expands Zscaler's data security posture management (DSPM) capabilities, strengthening platform stickiness and TAM in a fast-growing market where identity and data security are top enterprise priorities."
       ],
       "bear_case": [
-        "Stock remains 21.9% below its 52-week high of $324.90, suggesting persistent fundamental headwinds that the quantum catalyst alone may not overcome",
-        "Legacy mainframe and consulting divisions face ongoing margin pressure; quantum commercialization timelines remain distant with Anderon a long-term rather than near-term earnings driver"
+        "Free cash flow margin guidance was cut sharply to 22.8%-23.3% from the prior 26.5%-27% target for Q4 FY2026, triggering a 17% after-hours selloff that signals investor concern about the durability of profitability as AI infrastructure capex rises.",
+        "The stock already traded -45.2% from its 52-week high prior to the earnings report; the after-hours selloff creates further downside risk and may prompt analyst downgrades and extended multiple compression."
+      ],
+      "recommendation": "Hold",
+      "current_price": "$184.60",
+      "price_target": "$264.81 (+43.5%)",
+      "pe_ratio": "N/A",
+      "rsi": "72.27",
+      "vs_52wk_high": "-45.2% below high ($336.99)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - Cloud Security / Cybersecurity",
+      "sources": ["QuiverQuant", "GuruFocus", "24/7 Wall St.", "StockAnalysis", "MarketBeat"],
+      "price_history_5d": [182.37, 184.60]
+    },
+    {
+      "ticker": "GEV",
+      "company": "GE Vernova",
+      "discussion_driver": "GE Vernova gained 5.31% on May 26, bolstered by Huatai Research's new Buy initiation with a $1,174 price target. The stock continues to command strong investor interest on the back of exceptional Q1 results — orders surged 71% YoY to $18.3B and backlog expanded to $163B — as AI data center electrification and global grid modernization create a once-in-a-generation demand environment for GEV's gas turbines, grid equipment, and wind energy businesses.",
+      "bull_case": [
+        "Q1 2026 orders surged 71% YoY to $18.3B and backlog expanded to $163B, providing years of revenue visibility as AI data center electrification and grid modernization drive unprecedented equipment demand.",
+        "Multiple high-profile analyst upgrades including Goldman Sachs raising its target to $1,328 and Huatai Research's Buy initiation at $1,174 reflect broadening institutional conviction in GEV's energy transition leadership position."
+      ],
+      "bear_case": [
+        "The stock trades at trailing P/E of ~30x and -8.7% below its 52-week high of $1,181.95; any delivery delays, supply chain disruptions, or AI data center demand downside could compress the premium multiple significantly.",
+        "Delivering on $163B in backlog requires seamless supply chain coordination and manufacturing capacity ramp that could prove challenging in a constrained industrial environment, creating meaningful execution risk."
       ],
       "recommendation": "Buy",
-      "current_price": "$253.84",
-      "price_target": "$273.61 (+7.8%)",
-      "pe_ratio": "18.98",
+      "current_price": "$1,078.52",
+      "price_target": "$1,217.00 (+12.8%)",
+      "pe_ratio": "29.61",
       "rsi": "N/A",
-      "vs_52wk_high": "-21.9% below high ($324.90)",
+      "vs_52wk_high": "-8.7% below high ($1,181.95)",
       "analyst_rating": "Buy",
-      "sector": "Technology - IT Services & Quantum Computing",
-      "sources": ["TradingKey", "MarketBeat", "RBC Capital", "Benzinga", "FinanceCharts"],
-      "price_history_5d": [224.50, 252.97, 253.84]
-    },
-    {
-      "ticker": "EL",
-      "company": "The Estée Lauder Companies Inc.",
-      "discussion_driver": "Estée Lauder shares surged ~11% on May 22 after the company confirmed it ended merger discussions with Spanish perfumery Puig, with investors welcoming the news as removing integration risk and allowing management to focus on its ongoing multi-year restructuring. The jump brought EL to $88 from a base near $78, but shares remain 27.4% below their 52-week high of $121.64, reflecting that the recovery from sluggish China travel retail and global prestige beauty demand headwinds is still a work in progress.",
-      "bull_case": [
-        "Exit from Puig merger talks removes integration distraction and lets management concentrate fully on restructuring, cost-cutting, and recovery of the Asia travel retail business",
-        "Analyst consensus Buy with average target of $96.68 implies ~9.5% upside; gradual luxury beauty demand recovery and a leaner cost structure support medium-term earnings normalization"
-      ],
-      "bear_case": [
-        "Stock remains 27.4% below its 52-week high despite the rally, reflecting persistent concerns about softening global prestige beauty demand and China travel retail underperformance",
-        "Strong dollar headwinds continue to pressure international revenue translation; restructuring costs and brand reinvestment may weigh on near-term margins"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$88.32",
-      "price_target": "$96.68 (+9.5%)",
-      "pe_ratio": "37.27",
-      "rsi": "56.47",
-      "vs_52wk_high": "-27.4% below high ($121.64)",
-      "analyst_rating": "Buy",
-      "sector": "Consumer Staples - Luxury Beauty & Cosmetics",
-      "sources": ["CNBC", "TheStreet", "TipRanks", "StockAnalysis", "MarketBeat"],
-      "price_history_5d": [76.14, 78.20, 78.20, 88.32]
-    },
-    {
-      "ticker": "GNRC",
-      "company": "Generac Holdings Inc.",
-      "discussion_driver": "Generac jumped 9-11% on May 22 after Jefferies upgraded the stock from Hold to Buy and raised its price target from $239 to $302, citing the company's growing exposure to data-center backup power as a secular growth opportunity driven by AI infrastructure investment. The upgrade triggered a wave of additional analyst price target increases (UBS $305, Canaccord $325, Stephens $290). At 80x trailing earnings and trading within 2.4% of its 52-week high, GNRC has priced in substantial AI data-center optimism ahead of its next earnings catalyst.",
-      "bull_case": [
-        "AI data-center infrastructure buildout creates a large, recurring backup-power demand opportunity that could structurally re-rate Generac well beyond its traditional residential generator business",
-        "Stock up 118% over the past year; Q1 2026 earnings beat and multiple analyst upgrades with new price targets up to $325 reflect broad institutional conviction in the AI infrastructure thesis"
-      ],
-      "bear_case": [
-        "Trailing P/E of 80.52x is 171% above its 10-year median of 29.66, leaving no margin for error if data-center growth disappoints or macro conditions shift",
-        "Core residential generator business remains heavily weather and storm dependent; AI data-center revenues are still a small portion of total sales and may take years to materially impact earnings"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$270.14",
-      "price_target": "$302.00 (+11.8%)",
-      "pe_ratio": "80.52",
-      "rsi": "N/A",
-      "vs_52wk_high": "-2.4% below high ($276.80)",
-      "analyst_rating": "Buy",
-      "sector": "Industrials - Power Generation Equipment",
-      "sources": ["CNBC", "Jefferies", "Gurufocus", "FinancialContent", "MarketBeat", "Timothy Sykes"],
-      "price_history_5d": [245.19, 247.84, 270.14]
+      "sector": "Industrials - Energy / Power Generation",
+      "sources": ["TradingKey", "24/7 Wall St.", "Yahoo Finance", "Goldman Sachs", "StockAnalysis"],
+      "price_history_5d": [1043.82, 1038.74, 1078.52]
     }
   ]
 }
