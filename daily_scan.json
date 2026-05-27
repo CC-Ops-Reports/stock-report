@@ -1,175 +1,148 @@
 {
-  "report_date": "2026-05-26",
-  "market_tone": "Bullish",
+  "report_date": "2026-05-27",
+  "market_tone": "Mixed",
   "key_themes": [
-    "AI memory chip boom \u2014 Micron crosses $1 trillion market cap on HBM4 demand",
-    "Broad semiconductor rally lifts AMD, ON Semi, Western Digital, Qualcomm, Marvell",
-    "Iran peace-talk optimism reduces geopolitical risk premium; Nasdaq and S&P 500 hit fresh all-time highs"
+    "AI chip sector bifurcation: Marvell beats while Zscaler disappoints on guidance",
+    "Oil prices drop as Iran signals partial Strait of Hormuz reopening, lifting airlines",
+    "Earnings wave: Snowflake skyrockets on $6B AWS deal; Verra Mobility crashes on Avis contract loss"
   ],
   "sp500": {
-    "value": "7,519.12",
-    "change": "+0.61%"
+    "value": "7,520.36",
+    "change": "+0.02%"
   },
   "nasdaq": {
-    "value": "26,656.18",
-    "change": "+1.19%"
+    "value": "26,674.73",
+    "change": "+0.07%"
   },
   "stocks": [
     {
-      "ticker": "MU",
-      "company": "Micron Technology",
-      "reason": "Shares surged 19%, crossing the $1 trillion market cap milestone for the first time. UBS raised its price target 204% to $1,625 (from $535), citing HBM4 capacity sold out through year-end and AI-driven memory demand.",
-      "category": "upgrade",
-      "sources": [
-        "CNBC",
-        "Bloomberg",
-        "GuruFocus",
-        "The Motley Fool"
-      ]
-    },
-    {
-      "ticker": "AZO",
-      "company": "AutoZone",
-      "reason": "Shares plunged ~10% after Q3 earnings revenue miss \u2014 $4.84B reported vs. $4.86B expected \u2014 the first meaningful top-line shortfall in several quarters.",
+      "ticker": "SNOW",
+      "company": "Snowflake Inc.",
+      "reason": "Soared ~32% after-hours on Q1 FY2027 earnings beat (revenue +33% YoY to $1.39B) and announcement of $6B multiyear deal with AWS for Graviton CPU access; raised full-year sales outlook",
       "category": "earnings",
       "sources": [
-        "CNBC",
-        "TheStreet",
-        "Bloomberg"
+        "Yahoo Finance",
+        "TechCrunch",
+        "Seeking Alpha"
       ]
     },
     {
-      "ticker": "MRVL",
-      "company": "Marvell Technology",
-      "reason": "Surged 7.7% after HSBC upgraded to Buy and raised price target from $85 to $300, citing underestimated AI networking revenue growth from optical interconnects. Earnings due tomorrow (May 27).",
-      "category": "upgrade",
-      "sources": [
-        "GuruFocus",
-        "The Motley Fool",
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "ON",
-      "company": "ON Semiconductor",
-      "reason": "Gained nearly 9% riding the Micron-sparked semiconductor rally; AI-related power management demand continuing to re-rate the stock.",
-      "category": "sector",
-      "sources": [
-        "TheStreet",
-        "Bloomberg"
-      ]
-    },
-    {
-      "ticker": "WDC",
-      "company": "Western Digital",
-      "reason": "Rose nearly 9% as NAND flash and HDD pricing tailwinds align with broader memory rally; beneficiary of Micron's HBM narrative spilling into the storage sector.",
-      "category": "sector",
-      "sources": [
-        "TheStreet",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "AMD",
-      "company": "Advanced Micro Devices",
-      "reason": "Gained 6%, swept up in broad semiconductor rally triggered by Micron's $1 trillion milestone; AI GPU competition narrative remains favorable.",
-      "category": "sector",
-      "sources": [
-        "CNBC",
-        "TheStreet"
-      ]
-    },
-    {
-      "ticker": "OKLO",
-      "company": "Oklo",
-      "reason": "Rose 6% after the Department of Energy selected Oklo for advanced discussions on using Cold War-era plutonium as fuel for its nuclear microreactors \u2014 a material new government contract catalyst.",
+      "ticker": "VRRM",
+      "company": "Verra Mobility Corp.",
+      "reason": "Crashed ~46% after Avis Budget Group terminated its contract effective September 2026, wiping ~$135-145M in annual revenue; company slashed full-year 2026 guidance to $985M-$995M from $1.02B-$1.03B",
       "category": "news",
       "sources": [
-        "CNBC",
-        "TheStreet"
-      ]
-    },
-    {
-      "ticker": "QCOM",
-      "company": "Qualcomm",
-      "reason": "Up 5.74% on a combination of the semiconductor sector rally, a new AI chip supply deal with ByteDance, and investor positioning ahead of Qualcomm's Investor Day on June 24.",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "TradingKey",
-        "StockStory"
+        "PR Newswire",
+        "Seeking Alpha",
+        "Bloomberg"
       ]
     },
     {
       "ticker": "ZS",
-      "company": "Zscaler",
-      "reason": "Reported Q3 FY2026 earnings after close: EPS of $1.08 beat $1.04 estimate, but revenue of $850.5M missed the $860.5M consensus and guidance disappointed \u2014 shares fell 17% in after-hours trading.",
+      "company": "Zscaler Inc.",
+      "reason": "Plunged ~23% despite Q3 earnings beat (EPS $1.08 vs $1.01 est); Q4 revenue guidance of $875-878M missed $879M consensus; company cited two key sales leader departures and accelerated equipment spending",
       "category": "earnings",
       "sources": [
-        "QuiverQuant",
-        "GuruFocus",
-        "24/7 Wall St."
+        "CNBC",
+        "Bloomberg",
+        "Traders Union"
       ]
     },
     {
-      "ticker": "GEV",
-      "company": "GE Vernova",
-      "reason": "Gained 5.31%; Huatai Research initiated with Buy and $1,174 price target. Stock continues to benefit from Q1 results where orders surged 71% YoY to $18.3B and backlog expanded to $163B.",
+      "ticker": "MRVL",
+      "company": "Marvell Technology Inc.",
+      "reason": "Rose ~6% to record high after Q1 FY2027 revenue of $2.42B (+28% YoY) beat estimates; guided Q2 to $2.7B (+35% YoY); ~74% of revenue from data center AI custom chips including AWS Trainium partnership",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "SEC Filing",
+        "Money Morning"
+      ]
+    },
+    {
+      "ticker": "BBWI",
+      "company": "Bath & Body Works Inc.",
+      "reason": "Jumped ~15% after Q1 2026 results exceeded guidance; Q2 EPS outlook of $0.20-$0.25 met expectations; CFO Eva Boratto announced departure effective June 12",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Benzinga",
+        "SEC Filing"
+      ]
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron Technology Inc.",
+      "reason": "Continued AI memory momentum after crossing $1 trillion market cap on May 26 (+19%); UBS tripled price target to $1,625; Barclays raised PT 74% to $1,175; stock trading ~$915 with $1.03T market cap",
       "category": "upgrade",
       "sources": [
-        "TradingKey",
+        "CNBC",
+        "GuruFocus",
+        "Motley Fool"
+      ]
+    },
+    {
+      "ticker": "MGM",
+      "company": "MGM Resorts International",
+      "reason": "Surged ~10% after simultaneous upgrades from JPMorgan (Neutral\u2192Overweight, PT $41\u2192$46) and Truist (Hold\u2192Buy, PT $42\u2192$55); both cited resilient U.S. leisure travel demand and Las Vegas Strip EBITDA recovery",
+      "category": "upgrade",
+      "sources": [
+        "CNBC",
+        "Seeking Alpha",
+        "GuruFocus"
+      ]
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk Corp.",
+      "reason": "Rose ~7.5% after Barclays upgraded to Overweight from Equal Weight and set $2,300 PT (from $1,200); analyst cited $42B+ in contractual revenue guarantees through 2031 and memory/storage as \"most attractive vertical\"; stock up ~4,000% over past year",
+      "category": "upgrade",
+      "sources": [
+        "CNBC",
+        "Seeking Alpha",
+        "Investing.com"
+      ]
+    },
+    {
+      "ticker": "FDX",
+      "company": "FedEx Corporation",
+      "reason": "Climbed ~3.4% after JPMorgan upgraded to Overweight from Neutral and raised PT to $460 from $432; analyst cited upcoming freight business spinoff on June 1 as value-unlocking catalyst and visible progress on Network 2.0 restructuring",
+      "category": "upgrade",
+      "sources": [
+        "CNBC",
+        "Invezz",
+        "MarketBeat"
+      ]
+    },
+    {
+      "ticker": "UAL",
+      "company": "United Airlines Holdings Inc.",
+      "reason": "Rose ~6.3% as oil prices fell below $90/barrel after Iran signaled restoration of Strait of Hormuz commercial traffic; UBS raised PT to $148 (Buy); company projects 53M+ summer passengers, ~3M more than last year",
+      "category": "news",
+      "sources": [
+        "GuruFocus",
+        "StocksToTrade",
+        "FX Leaders"
+      ]
+    },
+    {
+      "ticker": "DG",
+      "company": "Dollar General Corp.",
+      "reason": "Downgraded to Hold from Buy at Deutsche Bank with $110 PT; analyst cited continued weakness in core low-income consumer spending and competitive pressure from discount peers",
+      "category": "downgrade",
+      "sources": [
         "24/7 Wall St.",
         "Yahoo Finance"
       ]
     },
     {
-      "ticker": "OXY",
-      "company": "Occidental Petroleum",
-      "reason": "Barclays upgraded to Overweight from Equal Weight with a $72 price target, citing improved oil price outlook as geopolitical tensions ease on Iran peace-talk progress.",
-      "category": "upgrade",
-      "sources": [
-        "24/7 Wall St.",
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "ALB",
-      "company": "Albemarle",
-      "reason": "Vertical Research upgraded to Buy from Hold with a $224 price target, noting lithium price stabilization and EV demand recovery improving the company's earnings trajectory.",
-      "category": "upgrade",
-      "sources": [
-        "24/7 Wall St.",
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "INTC",
-      "company": "Intel",
-      "reason": "Northland downgraded to Market Perform from Outperform, citing continued execution challenges in foundry operations and competitive pressure from TSMC and Samsung.",
+      "ticker": "WDAY",
+      "company": "Workday Inc.",
+      "reason": "Downgraded to Neutral from Buy at Bank of America with $140 PT; BofA cited valuation concerns and slowing enterprise software spending environment",
       "category": "downgrade",
       "sources": [
         "24/7 Wall St.",
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "OKTA",
-      "company": "Okta",
-      "reason": "Received a rare double upgrade \u2014 from Sell to Buy \u2014 at Arete Research with a $127 price target, citing improved platform stickiness, declining churn, and identity security tailwinds.",
-      "category": "upgrade",
-      "sources": [
-        "24/7 Wall St.",
         "CNBC"
-      ]
-    },
-    {
-      "ticker": "APP",
-      "company": "AppLovin",
-      "reason": "Shares climbed 5.9% continuing momentum from its Q1 beat earlier in May (revenue $1.84B vs $1.77B expected); AI-driven ad tech demand keeping the stock in focus.",
-      "category": "news",
-      "sources": [
-        "IndexBox",
-        "TradingKey"
       ]
     }
   ]
