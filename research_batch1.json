@@ -1,135 +1,135 @@
 {
-  "report_date": "2026-05-25",
+  "report_date": "2026-05-26",
   "batch": 1,
   "market_tone": "Bullish",
   "key_themes": [
-    "AI infrastructure supercycle: Nvidia Q1 FY2027 record $81.6B revenue fuels broad AI-linked rally",
-    "Quantum computing surge: $2B CHIPS Act grants to 9 companies spark sector-wide buying",
-    "US-Iran nuclear talks progress drives oil lower, supporting equity sentiment ahead of Memorial Day"
+    "AI memory chip boom — Micron crosses $1 trillion market cap on HBM4 demand",
+    "Broad semiconductor rally lifts AMD, ON Semi, Western Digital, Qualcomm, Marvell",
+    "Iran peace-talk optimism reduces geopolitical risk premium; Nasdaq and S&P 500 hit fresh all-time highs"
   ],
   "sp500": {
-    "value": "7,473.45",
-    "change": "+0.37%"
+    "value": "7,519.12",
+    "change": "+0.61%"
   },
   "nasdaq": {
-    "value": "26,343.97",
-    "change": "+0.19%"
+    "value": "26,656.18",
+    "change": "+1.19%"
   },
   "stocks": [
     {
-      "ticker": "NVDA",
-      "company": "Nvidia Corporation",
-      "discussion_driver": "Nvidia reported Q1 FY2027 earnings on May 20, posting record $81.6B revenue (+85% YoY) and EPS of $1.87 vs. $1.76 estimate, beating expectations on all fronts. Despite the blowout report, the stock slipped roughly 2% post-announcement as investors took a 'priced for perfection' stance following a run to all-time highs near $236. Management announced an $80B share buyback program alongside a dividend increase, signaling strong confidence in sustained earnings power and the ongoing AI datacenter demand supercycle.",
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "discussion_driver": "Micron shares surged 19% on May 26, 2026, pushing the memory chipmaker's market cap above $1 trillion for the first time. The catalyst was UBS's landmark 204% price target hike to $1,625 (from $535), citing HBM4 capacity booked solid through year-end and AI-driven memory demand outpacing supply at every tier. Micron has transformed from a commodity memory maker into a strategic AI infrastructure supplier, directly competing with Samsung and SK Hynix at the cutting edge of HBM architecture.",
       "bull_case": [
-        "Record Q1 FY2027 revenue of $81.6B (+85% YoY) with consistent EPS beats demonstrates that AI datacenter demand remains insatiable, with Blackwell GPU architecture driving unprecedented compute density and pricing power",
-        "$80B share repurchase authorization plus dividend increase return capital to shareholders while CUDA ecosystem switching costs and deep software moat create durable competitive advantages competitors cannot easily replicate"
+        "HBM4 capacity sold out through year-end creates near-term pricing power and revenue visibility at premium margins, with AI compute demand ensuring Micron's competitive position into 2027",
+        "As the sole U.S.-based HBM producer, Micron benefits from national security-motivated supply chain diversification and potential government-backed demand tailwinds"
       ],
       "bear_case": [
-        "At 41x trailing P/E, NVDA is priced for continued hypergrowth — any guidance miss or sign of datacenter spending deceleration could trigger significant multiple compression given the stock's premium valuation",
-        "US export restrictions on advanced AI chips to China represent a growing revenue headwind, while Huawei Ascend and domestic Chinese chip development could erode NVDA's dominant position in that market over the medium term"
+        "Memory is a highly cyclical commodity; historical oversupply cycles have crushed margins, and current HBM premium pricing may prove unsustainable as Samsung and SK Hynix expand their own HBM capacity",
+        "Consensus analyst price target ($697.78) is 22.7% below current price after the single-day 19% surge, suggesting the market may have gotten ahead of fundamental fair value in the near term"
       ],
       "recommendation": "Buy",
-      "current_price": "$215.33",
-      "price_target": "$295.34 (+37.2%)",
-      "pe_ratio": "41.28",
-      "rsi": "61.66",
-      "vs_52wk_high": "-9.0% below high ($236.54)",
+      "current_price": "$902.88",
+      "price_target": "$697.78 (-22.7%)",
+      "pe_ratio": "42.5",
+      "rsi": "65.07",
+      "vs_52wk_high": "-1.5% below high ($916.76)",
       "analyst_rating": "Strong Buy",
       "sector": "Technology - Semiconductors",
-      "sources": ["CNBC", "Fortune", "Intellectia AI", "Yahoo Finance", "MarketBeat", "GuruFocus"],
-      "price_history_5d": [220.61, 219.51, 215.33]
+      "sources": ["CNBC", "Bloomberg", "GuruFocus", "The Motley Fool", "MarketBeat"],
+      "price_history_5d": [751.00, 902.88]
     },
     {
-      "ticker": "DELL",
-      "company": "Dell Technologies",
-      "discussion_driver": "Dell surged roughly 16% on May 22 to an all-time high, driven by a wave of analyst price target hikes following Lenovo's blowout quarter showing 84% AI revenue growth — a leading indicator for Dell's own Q1 FY2027 earnings due May 28. JPMorgan raised its DELL target to $280 on May 15 and Wells Fargo raised to $270 on May 22, reinforcing conviction in Dell's AI infrastructure server thesis. The move reflects strong investor positioning ahead of what the market expects will be a similarly robust AI server backlog update from Dell management.",
+      "ticker": "AZO",
+      "company": "AutoZone",
+      "discussion_driver": "AutoZone shares fell roughly 10% on May 26, 2026, after Q3 FY2026 earnings revealed the first meaningful top-line shortfall in several quarters — revenue of $4.84B missed the $4.86B consensus despite a solid EPS beat. International operations underperformed, raising concerns that weakening global consumer discretionary spending may be spreading into the aftermarket auto parts sector. The stock erased months of gains in a single session, falling to its lowest levels in over a year.",
       "bull_case": [
-        "Dell is a premier provider of PowerEdge AI servers positioned at the center of enterprise AI infrastructure buildout — Lenovo's 84% AI revenue quarter serves as a compelling leading indicator for Dell's own server momentum heading into May 28 earnings",
-        "AI server backlog conversion and a diversified business spanning ISG, CSG, and Dell Financial Services provide multiple earnings drivers, with management consistently executing above expectations in recent quarters"
+        "Long-term track record of consistent EPS growth and aggressive share buybacks supports per-share value even in flat revenue environments; the post-earnings P/E of 24x represents a more reasonable entry valuation after the selloff",
+        "Aging U.S. vehicle fleet (average age at record highs) and elevated new car prices sustain DIY and DIFM auto parts demand as consumers delay vehicle replacements amid high financing costs"
       ],
       "bear_case": [
-        "Stock now trades at 33x trailing P/E at all-time highs, while the broader analyst consensus price target (~$229) remains well below current levels — significant mean-reversion risk if May 28 earnings disappoint or guidance proves conservative",
-        "Memory component cost pressures and competitive AI server pricing dynamics could compress gross margins even as revenue grows, and the 16% single-day surge may have pulled forward near-term upside"
+        "Revenue miss signals potential consumer spending deceleration that could persist through Q4 2026, compressing margins if operating leverage works in reverse on a flatter revenue trajectory",
+        "International expansion headwinds and currency pressures in key markets like Mexico and Brazil represent a growing overhang on the long-term growth narrative"
       ],
       "recommendation": "Hold",
-      "current_price": "$291.17",
-      "price_target": "$228.87 (-21.4%)",
-      "pe_ratio": "33.46",
-      "rsi": "N/A",
-      "vs_52wk_high": "-2.4% below intraday high ($298.32)",
+      "current_price": "$3,006.46",
+      "price_target": "$4,326.14 (+43.9%)",
+      "pe_ratio": "24.03",
+      "rsi": "32.66",
+      "vs_52wk_high": "-31.5% below high ($4,388.11)",
       "analyst_rating": "Buy",
-      "sector": "Technology - Hardware & Infrastructure",
-      "sources": ["CNBC", "TheStreet", "MarketBeat", "GuruFocus", "247WallSt"],
-      "price_history_5d": [252.86, 291.17]
+      "sector": "Consumer Discretionary - Auto Parts Retail",
+      "sources": ["CNBC", "TheStreet", "Bloomberg", "Yahoo Finance", "MarketBeat"],
+      "price_history_5d": [3406.50, 3006.46]
     },
     {
-      "ticker": "HPQ",
-      "company": "HP Inc.",
-      "discussion_driver": "HP Inc. surged 14-15% on May 22 in a sympathy move driven by Lenovo's blowout AI PC quarter, reinforcing the thesis for an AI-driven PC hardware refresh cycle ahead of HP's own Q1 FY2027 earnings on May 27. Investors anticipate HP will benefit from the same enterprise AI PC upgrade wave as commercial customers replace aging hardware with AI-capable NPU-equipped devices. However, analyst consensus remains cautious — Bank of America has warned that HP could cut its full-year guidance, and most analysts maintain Hold ratings with consensus price targets below the current surge level.",
+      "ticker": "MRVL",
+      "company": "Marvell Technology",
+      "discussion_driver": "Marvell surged 7.7% on May 26, 2026, after HSBC issued a dramatic upgrade from Hold to Buy with a $300 price target (from $85), arguing the market is vastly underestimating Marvell's AI networking revenue from optical interconnects. With earnings due on May 27, 2026, multiple Wall Street banks have recently raised targets (Citi to $215, Stifel to $210), making MRVL one of the most actively re-rated AI semiconductor names heading into what analysts expect will be a strong Q1 FY2027 report.",
       "bull_case": [
-        "AI PC refresh cycle is accelerating among enterprise customers replacing aging x86 hardware with AI-capable NPU-equipped devices, and HP's strong commercial PC installed base positions it as a direct beneficiary of the multi-year upgrade cycle",
-        "HP trades at roughly 7x trailing P/E — a deep discount to the broader market — offering significant margin of safety and potential for multiple re-rating if AI PC demand materially accelerates earnings growth"
+        "Custom ASIC and optical interconnect businesses for hyperscalers position Marvell at the center of next-generation AI infrastructure; HSBC's analysis suggests revenue from these segments is severely underestimated by the Street, with its FY2028 EPS estimate revised up 61%",
+        "Earnings on May 27 create a near-term catalyst; consensus expects $2.40B revenue and $0.80 adj. EPS for Q1 FY2027, and a beat could trigger another wave of target upgrades and institutional inflows"
       ],
       "bear_case": [
-        "Analyst consensus price target of $21.42 sits below the current price of $25.24, and Bank of America warns HP may cut full-year guidance at the May 27 earnings report — creating meaningful downside risk from current post-surge levels",
-        "HP faces structural headwinds from a maturing PC market with intense competition from Dell, Lenovo, and Apple; the AI PC upgrade cycle timeline may be longer than bulls anticipate, potentially disappointing near-term revenue expectations"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$25.24",
-      "price_target": "$21.42 (-15.2%)",
-      "pe_ratio": "7.00",
-      "rsi": "N/A",
-      "vs_52wk_high": "-14.6% below high ($29.55)",
-      "analyst_rating": "Hold",
-      "sector": "Technology - Personal Computers & Hardware",
-      "sources": ["CNBC", "TheStreet", "MarketBeat", "Yahoo Finance", "public.com"],
-      "price_history_5d": [20.98, 25.24]
-    },
-    {
-      "ticker": "QCOM",
-      "company": "Qualcomm Incorporated",
-      "discussion_driver": "Qualcomm surged 12-13% on May 22 after Stellantis expanded its multi-year Snapdragon partnership to cover cockpit technology, connectivity, and ADAS systems, validating QCOM's automotive diversification strategy. The company's automotive revenue reached a record $1.33B quarterly, and optimism around China trade relations further boosted the session. The stock climbed from $186 in early May to $237+, nearing its 52-week high of $247.90, driven by simultaneous momentum in automotive AI, on-device edge AI in smartphones, and the Copilot+ PC market.",
-      "bull_case": [
-        "Automotive design-win pipeline is converting to revenue at an accelerating pace — record $1.33B quarterly automotive revenue validates the Snapdragon Digital Chassis platform, with the Stellantis partnership expansion adding incremental high-margin recurring revenue",
-        "On-device AI (edge AI) trend positions Qualcomm's Snapdragon platform for premium Android smartphone ASP uplift and AI PC market expansion through Copilot+ capabilities, diversifying revenue beyond the smartphone replacement cycle"
-      ],
-      "bear_case": [
-        "Qualcomm faces structural customer concentration risk from Apple's in-house modem development — successful iPhone modem insourcing could materially reduce QCOM's handset revenue and create a significant earnings headwind over the next 2-3 years",
-        "With the broad analyst consensus target (~$174) well below the current price of $237, and the stock already trading near its 52-week high of $247.90, the risk/reward setup is challenging for new buyers entering after a 25%+ month-to-date rally"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$237.19",
-      "price_target": "$174.54 (-26.4%)",
-      "pe_ratio": "25.91",
-      "rsi": "64.92",
-      "vs_52wk_high": "-4.3% below high ($247.90)",
-      "analyst_rating": "Hold",
-      "sector": "Technology - Semiconductors (Mobile & Automotive)",
-      "sources": ["CNBC", "CoinCentral", "CryptoRank", "TradingKey", "MarketBeat", "FXLeaders"],
-      "price_history_5d": [213.41, 238.16]
-    },
-    {
-      "ticker": "RGTI",
-      "company": "Rigetti Computing",
-      "discussion_driver": "Rigetti Computing jumped 30%+ over two days (May 21-22) after the US Department of Commerce announced $2B in CHIPS Act grants to nine quantum computing companies, with Rigetti receiving up to $100M to commercialize its superconducting quantum technology. The federal investment validates US government commitment to domestic quantum leadership and provides non-dilutive capital to advance Rigetti's 100+ qubit system roadmap. The stock surged from $15.96 (May 19) to $27.02 (May 22), a roughly 69% weekly gain, as investors repriced the probability of quantum commercialization becoming a near-term reality.",
-      "bull_case": [
-        "$100M CHIPS Act grant provides meaningful non-dilutive runway to advance Rigetti's superconducting quantum processor development, with the US government endorsement lending credibility to the quantum timeline and reducing near-term capital raise risk",
-        "As one of the few pure-play publicly traded quantum computing companies, RGTI offers early-stage exposure to a potentially transformative technology with analyst consensus pointing toward $30.78 average target and Strong Buy ratings from 9 of 12 covering analysts"
-      ],
-      "bear_case": [
-        "Rigetti has negative earnings (TTM EPS of -$0.87) with no near-term path to profitability — the $100M grant helps extend runway but fault-tolerant quantum computing commercialization remains highly speculative with significant technical execution risk",
-        "Quantum stocks are highly volatile and prone to sharp reversals after event-driven surges — RGTI remains 53% below its 52-week high of $58.15, reflecting prior boom-bust cycles, and current valuations are based entirely on future potential rather than current revenue scale"
+        "Forward P/E of approximately 47x prices in very optimistic growth assumptions; at a new 52-week high with RSI approaching overbought territory, any earnings miss or soft guidance could trigger a sharp correction",
+        "Stock up 100%+ YTD and 224% over the past year creates technical resistance and profit-taking risk; HSBC's $300 target is a major outlier versus the $158 consensus, suggesting most analysts still see limited upside at current levels"
       ],
       "recommendation": "Speculative Buy",
-      "current_price": "$27.02",
-      "price_target": "$30.78 (+13.9%)",
-      "pe_ratio": "N/A (negative earnings)",
-      "rsi": "N/A",
-      "vs_52wk_high": "-53.5% below high ($58.15)",
+      "current_price": "$211.55",
+      "price_target": "$158.76 (-24.9%)",
+      "pe_ratio": "58.08",
+      "rsi": "65.87",
+      "vs_52wk_high": "+0.0% (at new 52-week high)",
       "analyst_rating": "Strong Buy",
-      "sector": "Technology - Quantum Computing",
-      "sources": ["TechTimes", "TradingKey", "IBTimes AU", "MarketBeat", "GuruFocus", "SEC/EDGAR"],
-      "price_history_5d": [15.96, 16.88, 20.97, 27.02]
+      "sector": "Technology - Semiconductors",
+      "sources": ["GuruFocus", "The Motley Fool", "CNBC", "MarketBeat", "Seeking Alpha"],
+      "price_history_5d": [196.33, 211.55]
+    },
+    {
+      "ticker": "ON",
+      "company": "ON Semiconductor",
+      "discussion_driver": "ON Semiconductor gained nearly 9% on May 26, 2026, riding the Micron-sparked semiconductor sector rally to a new 52-week high at $126.86. The AI-related power management demand thesis continues to drive re-rating as hyperscalers require increasingly sophisticated power delivery for next-generation AI accelerators. The move extended ON's year-to-date gain to approximately 96% and followed a strong Q1 2026 earnings beat ($0.64 EPS vs. $0.61 expected, revenue $1.51B vs. $1.49B expected).",
+      "bull_case": [
+        "AI data center power management and EV powertrain semiconductor demand represent multi-year secular growth tailwinds; the Q1 2026 earnings beat confirms the demand recovery is real and broadening across end markets",
+        "Strategic positioning at the intersection of AI infrastructure power management and automotive electrification provides dual exposure to two of the largest secular growth themes in semiconductors"
+      ],
+      "bear_case": [
+        "RSI of 71.49 signals overbought conditions; trailing P/E of 85x and a 9% single-day gain driven by sector momentum rather than company-specific news create elevated near-term pullback risk",
+        "Automotive semiconductor exposure creates cyclical downside if EV demand growth decelerates or OEM inventory normalization creates an air pocket in ON's revenue trajectory"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$126.86",
+      "price_target": "$120.00 (-5.4%)",
+      "pe_ratio": "85.44",
+      "rsi": "71.49",
+      "vs_52wk_high": "+0.0% (at new 52-week high)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - Semiconductors",
+      "sources": ["TheStreet", "Bloomberg", "GuruFocus", "MarketBeat", "24/7 Wall St."],
+      "price_history_5d": [106.02, 109.61, 116.20, 126.86]
+    },
+    {
+      "ticker": "WDC",
+      "company": "Western Digital",
+      "discussion_driver": "Western Digital rose nearly 9% on May 26, 2026, as NAND flash and HDD pricing tailwinds aligned with the broader memory and storage sector rally sparked by Micron's $1 trillion milestone. Evercore ISI reinforced the bull case by raising its price target from $550 to $575, highlighting that WDC is an underappreciated beneficiary of AI storage infrastructure demand. The stock is now approaching its all-time closing high, up over 182% year-to-date.",
+      "bull_case": [
+        "AI data center storage infrastructure buildout drives unprecedented demand for HDDs and NAND flash; Western Digital is a primary supplier positioned to capture multiple product cycles as cloud and enterprise storage scale with AI workloads",
+        "NAND pricing recovery from multi-year lows creates powerful earnings leverage — small ASP improvements drive outsized profit gains at Western Digital's operational scale"
+      ],
+      "bear_case": [
+        "Storage is an inherently cyclical business with frequent oversupply cycles; current pricing strength could reverse if hyperscaler capex moderates or NAND capacity additions outpace demand growth",
+        "Trailing P/E of approximately 29x is elevated for a storage hardware company whose earnings history is volatile; the stock now relies on continued earnings growth to sustain its premium valuation"
+      ],
+      "recommendation": "Buy",
+      "current_price": "$524.65",
+      "price_target": "$510.87 (-2.6%)",
+      "pe_ratio": "28.79",
+      "rsi": "63.61",
+      "vs_52wk_high": "-0.9% below high ($529.48)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - Data Storage",
+      "sources": ["TheStreet", "Yahoo Finance", "GuruFocus", "MarketBeat", "Evercore ISI"],
+      "price_history_5d": [484.28, 524.65]
     }
   ]
 }
