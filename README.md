@@ -1,6 +1,6 @@
 # DAILY STOCK SENTIMENT REPORT
 
-<div style="display:flex;gap:0.5rem;justify-content:center;margin:0.5rem 0 1.5rem;flex-wrap:wrap;"><a href="leaderboard.html" style="display:inline-flex;align-items:center;gap:0.4rem;background:#0f1729;color:white;padding:0.45rem 0.9rem;border-radius:6px;font-weight:500;font-size:0.82rem;text-decoration:none;letter-spacing:0.01em;">📊 Leaderboard</a><a href="tracker.html" style="display:inline-flex;align-items:center;gap:0.4rem;background:#0f1729;color:white;padding:0.45rem 0.9rem;border-radius:6px;font-weight:500;font-size:0.82rem;text-decoration:none;letter-spacing:0.01em;">📈 Tracker</a></div>
+<div style="display:flex;gap:0.5rem;justify-content:center;margin:0.5rem 0 1.5rem;flex-wrap:wrap;"><a href="leaderboard.html" style="display:inline-flex;align-items:center;gap:0.4rem;background:#0f1729;color:white;padding:0.45rem 0.9rem;border-radius:6px;font-weight:500;font-size:0.82rem;text-decoration:none;letter-spacing:0.01em;">📊 Leaderboard</a><a href="tracker.html" style="display:inline-flex;align-items:center;gap:0.4rem;background:#0f1729;color:white;padding:0.45rem 0.9rem;border-radius:6px;font-weight:500;font-size:0.82rem;text-decoration:none;letter-spacing:0.01em;">📈 Tracker</a><a href="estimator.html" style="display:inline-flex;align-items:center;gap:0.4rem;background:#0f1729;color:white;padding:0.45rem 0.9rem;border-radius:6px;font-weight:500;font-size:0.82rem;text-decoration:none;letter-spacing:0.01em;">💰 Estimator</a></div>
 
 **DATE:** 2026-05-26
 **TOTAL STOCKS TRACKED:** 15
