@@ -8,18 +8,19 @@ title: Investment Estimator
 <p style="font-family:'Inter',sans-serif;color:#64748b;font-size:0.95rem;line-height:1.55;margin:0 0 2rem;max-width:640px;">Pick a stock and a date. We'll show what your hypothetical investment would be worth today, based on the prices we logged in past reports.</p>
 
 <div style="background:#ffffff;border:1px solid #e2e8f0;border-radius:10px;padding:1.5rem;margin-bottom:1.5rem;">
-  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1.25rem;margin-bottom:1.25rem;">
-    <div>
-      <label for="tickerSelect" style="font-family:'Inter',sans-serif;font-size:0.7rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.08em;font-weight:600;display:block;margin-bottom:0.45rem;">Stock</label>
-      <select id="tickerSelect" style="width:100%;padding:0.6rem 0.75rem;border:1px solid #e2e8f0;border-radius:6px;font-family:'JetBrains Mono',monospace;font-size:0.9rem;font-weight:500;color:#0f1729;background:#ffffff;cursor:pointer;outline:none;"></select>
+  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1.25rem;margin-bottom:1.25rem;align-items:start;">
+    <div style="position:relative;">
+      <label for="tickerInput" style="font-family:'Inter',sans-serif;font-size:0.7rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.08em;font-weight:600;display:block;margin-bottom:0.45rem;">Stock</label>
+      <input type="text" id="tickerInput" placeholder="Type to search..." autocomplete="off" style="width:100%;padding:0.6rem 0.75rem;border:1px solid #e2e8f0;border-radius:6px;font-family:'JetBrains Mono',monospace;font-size:0.9rem;font-weight:500;color:#0f1729;background:#ffffff;outline:none;box-sizing:border-box;">
+      <div id="tickerList" style="position:absolute;top:100%;left:0;right:0;background:#ffffff;border:1px solid #e2e8f0;border-radius:6px;margin-top:0.25rem;max-height:280px;overflow-y:auto;box-shadow:0 4px 12px rgba(0,0,0,0.08);display:none;z-index:10;"></div>
     </div>
     <div>
       <label for="purchaseDate" style="font-family:'Inter',sans-serif;font-size:0.7rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.08em;font-weight:600;display:block;margin-bottom:0.45rem;">Purchase Date</label>
-      <input type="date" id="purchaseDate" style="width:100%;padding:0.6rem 0.75rem;border:1px solid #e2e8f0;border-radius:6px;font-family:'JetBrains Mono',monospace;font-size:0.9rem;font-weight:500;color:#0f1729;background:#ffffff;outline:none;">
+      <input type="date" id="purchaseDate" style="width:100%;padding:0.6rem 0.75rem;border:1px solid #e2e8f0;border-radius:6px;font-family:'JetBrains Mono',monospace;font-size:0.9rem;font-weight:500;color:#0f1729;background:#ffffff;outline:none;box-sizing:border-box;">
     </div>
     <div>
       <label for="amount" style="font-family:'Inter',sans-serif;font-size:0.7rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.08em;font-weight:600;display:block;margin-bottom:0.45rem;">Hypothetical Amount</label>
-      <input type="number" id="amount" min="1" step="100" value="1000" style="width:100%;padding:0.6rem 0.75rem;border:1px solid #e2e8f0;border-radius:6px;font-family:'JetBrains Mono',monospace;font-size:0.9rem;font-weight:500;color:#0f1729;background:#ffffff;outline:none;">
+      <input type="number" id="amount" min="1" step="100" value="1000" style="width:100%;padding:0.6rem 0.75rem;border:1px solid #e2e8f0;border-radius:6px;font-family:'JetBrains Mono',monospace;font-size:0.9rem;font-weight:500;color:#0f1729;background:#ffffff;outline:none;box-sizing:border-box;">
     </div>
   </div>
   <button id="calcBtn" style="background:#0f1729;color:white;padding:0.65rem 1.5rem;border:none;border-radius:6px;font-family:'Inter',sans-serif;font-weight:600;font-size:0.85rem;cursor:pointer;letter-spacing:0.02em;">Calculate</button>
@@ -37,35 +38,79 @@ const SANS = "font-family:'Inter',sans-serif;";
 const LABEL_STYLE = SANS + "font-size:0.7rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.08em;font-weight:600;";
 
 fetch('price_data.json').then(r => r.json()).then(data => {
-  const tickerSelect = document.getElementById('tickerSelect');
+  const tickerInput = document.getElementById('tickerInput');
+  const tickerList = document.getElementById('tickerList');
   const purchaseDate = document.getElementById('purchaseDate');
   const amountInput = document.getElementById('amount');
   const calcBtn = document.getElementById('calcBtn');
   const results = document.getElementById('results');
 
   const eligible = Object.keys(data).filter(t => data[t].length >= 2).sort();
+  let selectedTicker = null;
+  let highlightedIndex = 0;
+  let filtered = [];
 
-  eligible.forEach(ticker => {
-    const opt = document.createElement('option');
-    opt.value = ticker;
+  function selectTicker(ticker) {
+    selectedTicker = ticker;
+    tickerInput.value = ticker;
+    tickerList.style.display = 'none';
     const pts = data[ticker];
-    opt.textContent = `${ticker}  —  ${pts.length} data points  (${pts[0].date} → ${pts[pts.length-1].date})`;
-    tickerSelect.appendChild(opt);
-  });
-
-  if (eligible.length > 0) {
-    const firstTicker = eligible[0];
-    purchaseDate.value = data[firstTicker][0].date;
-    purchaseDate.min = data[firstTicker][0].date;
-    purchaseDate.max = data[firstTicker][data[firstTicker].length-1].date;
-  }
-
-  tickerSelect.addEventListener('change', () => {
-    const pts = data[tickerSelect.value];
     purchaseDate.min = pts[0].date;
     purchaseDate.max = pts[pts.length-1].date;
-    purchaseDate.value = pts[0].date;
+    if (!purchaseDate.value || purchaseDate.value < pts[0].date || purchaseDate.value > pts[pts.length-1].date) {
+      purchaseDate.value = pts[0].date;
+    }
+    calculate();
+  }
+
+  function renderList(query) {
+    const q = (query || '').toUpperCase().trim();
+    filtered = q ? eligible.filter(t => t.includes(q)) : eligible.slice();
+    if (filtered.length === 0) {
+      tickerList.innerHTML = `<div style="padding:0.7rem 0.85rem;${SANS}color:#94a3b8;font-size:0.85rem;font-style:italic;">No stocks match "${query}"</div>`;
+      tickerList.style.display = 'block';
+      return;
+    }
+    highlightedIndex = 0;
+    tickerList.innerHTML = filtered.map((ticker, i) => {
+      const pts = data[ticker];
+      const isHighlight = i === highlightedIndex;
+      return `<div class="ticker-option" data-ticker="${ticker}" data-index="${i}" style="padding:0.55rem 0.85rem;cursor:pointer;display:flex;justify-content:space-between;align-items:baseline;border-bottom:1px solid #f1f5f9;background:${isHighlight ? '#f8fafc' : '#ffffff'};">
+        <span style="${MONO}font-weight:600;color:#0f1729;font-size:0.9rem;">${ticker}</span>
+        <span style="${MONO}color:#94a3b8;font-size:0.75rem;">${pts.length} points · ${pts[0].date} → ${pts[pts.length-1].date}</span>
+      </div>`;
+    }).join('');
+    tickerList.style.display = 'block';
+    // attach click handlers
+    Array.from(tickerList.querySelectorAll('.ticker-option')).forEach(el => {
+      el.addEventListener('mousedown', e => { e.preventDefault(); selectTicker(el.dataset.ticker); });
+      el.addEventListener('mouseover', () => updateHighlight(parseInt(el.dataset.index)));
+    });
+  }
+
+  function updateHighlight(idx) {
+    if (idx < 0 || idx >= filtered.length) return;
+    highlightedIndex = idx;
+    Array.from(tickerList.querySelectorAll('.ticker-option')).forEach((el, i) => {
+      el.style.background = i === idx ? '#f8fafc' : '#ffffff';
+    });
+    const active = tickerList.querySelector(`[data-index="${idx}"]`);
+    if (active) active.scrollIntoView({block:'nearest'});
+  }
+
+  tickerInput.addEventListener('focus', () => renderList(tickerInput.value));
+  tickerInput.addEventListener('input', () => renderList(tickerInput.value));
+  tickerInput.addEventListener('blur', () => { setTimeout(() => { tickerList.style.display = 'none'; }, 150); });
+  tickerInput.addEventListener('keydown', e => {
+    if (tickerList.style.display === 'none') return;
+    if (e.key === 'ArrowDown') { e.preventDefault(); updateHighlight(Math.min(highlightedIndex + 1, filtered.length - 1)); }
+    else if (e.key === 'ArrowUp') { e.preventDefault(); updateHighlight(Math.max(highlightedIndex - 1, 0)); }
+    else if (e.key === 'Enter') { e.preventDefault(); if (filtered[highlightedIndex]) selectTicker(filtered[highlightedIndex]); }
+    else if (e.key === 'Escape') { tickerList.style.display = 'none'; }
   });
+
+  // Default selection
+  if (eligible.length > 0) selectTicker(eligible[0]);
 
   function findNearest(prices, targetDate) {
     let best = prices[0], bestDiff = Math.abs(new Date(prices[0].date) - new Date(targetDate));
@@ -79,12 +124,12 @@ fetch('price_data.json').then(r => r.json()).then(data => {
   function fmt(n) { return '$' + n.toFixed(2).replace(/\B(?=(\d{3})+(?!\d))/g, ','); }
 
   function calculate() {
-    const ticker = tickerSelect.value;
+    if (!selectedTicker) return;
     const target = purchaseDate.value;
     const amount = parseFloat(amountInput.value) || 0;
-    if (!ticker || !target || amount <= 0) return;
+    if (!target || amount <= 0) return;
 
-    const pts = data[ticker];
+    const pts = data[selectedTicker];
     const buy = findNearest(pts, target);
     const latest = pts[pts.length - 1];
 
@@ -103,7 +148,7 @@ fetch('price_data.json').then(r => r.json()).then(data => {
     results.innerHTML = `
       <div style="background:#ffffff;border:1px solid #e2e8f0;border-radius:10px;padding:1.5rem;margin-bottom:1rem;">
         <div style="${LABEL_STYLE}margin-bottom:0.6rem;">If You Had Invested</div>
-        <div style="${MONO}font-size:2.1rem;font-weight:700;color:#0f1729;letter-spacing:-0.02em;line-height:1.1;">${fmt(amount)} <span style="${SANS}font-size:1rem;font-weight:400;color:#64748b;letter-spacing:0;">in</span> ${ticker}</div>
+        <div style="${MONO}font-size:2.1rem;font-weight:700;color:#0f1729;letter-spacing:-0.02em;line-height:1.1;">${fmt(amount)} <span style="${SANS}font-size:1rem;font-weight:400;color:#64748b;letter-spacing:0;">in</span> ${selectedTicker}</div>
         <div style="${SANS}font-size:0.9rem;color:#64748b;margin-top:0.5rem;line-height:1.4;">on <strong style="color:#0f1729;${MONO}font-weight:600;">${buy.date}</strong>${usedNearest ? ` <span style="color:#94a3b8;font-weight:400;">(nearest to your selected ${target})</span>` : ''}</div>
       </div>
 
@@ -136,6 +181,5 @@ fetch('price_data.json').then(r => r.json()).then(data => {
   }
 
   calcBtn.addEventListener('click', calculate);
-  if (eligible.length > 0) calculate();
 });
 </script>
