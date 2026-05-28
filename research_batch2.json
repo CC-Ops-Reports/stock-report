@@ -1,121 +1,121 @@
 {
-  "report_date": "2026-05-26",
+  "report_date": "2026-05-27",
   "batch": 2,
   "stocks": [
     {
-      "ticker": "AMD",
-      "company": "Advanced Micro Devices",
-      "discussion_driver": "AMD surged 7.84% on May 26 to a new all-time high above $504, swept up in the Micron-sparked AI semiconductor rally after Micron crossed a $1 trillion market cap on HBM4 demand. AMD had already set record closing highs the prior week on strong Q1 earnings (revenue +38% YoY to $10.25B) and a $10B+ investment announcement on May 21, making May 26's move a continuation of a remarkable multi-week record-breaking run.",
+      "ticker": "MU",
+      "company": "Micron Technology Inc.",
+      "discussion_driver": "Micron surged 19.3% on May 26 to cross a $1 trillion market cap for the first time, driven by UBS nearly tripling its price target to $1,625 on AI-driven HBM memory demand and record Q2 FY2026 revenue of $23.86B (+196% YoY). The stock has risen approximately 870% over the past 52 weeks as AI hyperscalers consume high-bandwidth memory faster than supply can scale. Barclays separately raised its target to $1,175 from $675, cementing Micron's status as a core AI infrastructure provider rather than a commodity chip maker.",
       "bull_case": [
-        "AMD posted Q1 2026 revenue of $10.25B (+38% YoY) with accelerating data center GPU demand from MI300X; Bernstein raised its target to $525 and Evercore to $579 post-earnings, signaling growing analyst conviction in the AI compute story.",
-        "AMD's May 21 announcement of $10B+ in investments and 2nm EPYC CPU production ramp on TSMC's leading-edge process cements long-term compute leadership and positions the company to capture Intel's data center market share."
+        "AI demand for High-Bandwidth Memory is far outpacing supply, with Micron's HBM production fully sold out through 2026 and major hyperscalers locked into multiyear agreements, creating structural pricing power",
+        "Multiple analyst upgrades with dramatically higher price targets — UBS at $1,625 and Barclays at $1,175 — reflect a structural repricing of Micron as an AI infrastructure essential, with a forward P/E of only ~11x despite the surge"
       ],
       "bear_case": [
-        "Trailing P/E of ~156x creates extreme sensitivity to any earnings or demand shortfall; analyst consensus price targets remain well below current price levels, suggesting the stock has outrun near-term fundamentals.",
-        "NVIDIA retains dominant market share in AI training workloads with Blackwell GPU architecture, limiting AMD's ability to capture the premium pricing and margin profile of the highest-value AI GPU segment."
-      ],
-      "recommendation": "Hold",
-      "current_price": "$504.14",
-      "price_target": "$467.41 (-7.3%)",
-      "pe_ratio": "155.90",
-      "rsi": "73.2",
-      "vs_52wk_high": "New 52-wk high (+4.7% above prior ATH of $481.41 on 5/22)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Semiconductors",
-      "sources": ["CNBC", "TheStreet", "MarketBeat", "Bernstein", "Evercore ISI"],
-      "price_history_5d": [467.51, 504.14]
-    },
-    {
-      "ticker": "OKLO",
-      "company": "Oklo Inc.",
-      "discussion_driver": "Oklo rose 6% after the Department of Energy selected the company for advanced discussions on repurposing Cold War-era plutonium stockpiles as fuel for its Aurora compact fast reactor microreactors — a landmark government validation that de-risks both the technology and long-term fuel supply pathway. The AI data center power crisis continues to lift nuclear energy stocks broadly as hyperscalers seek reliable clean baseload power.",
-      "bull_case": [
-        "DOE selection of Oklo for advanced discussions on Cold War-era plutonium fuel use represents unprecedented government validation and a potential long-term proprietary fuel supply advantage that competitors cannot easily replicate.",
-        "The AI data center electrification demand crisis is creating urgent appetite for reliable clean baseload power, positioning advanced nuclear microreactors as a critical long-term solution with Oklo as an early first-mover."
-      ],
-      "bear_case": [
-        "Oklo is pre-revenue with no deployed commercial reactors; regulatory approval timelines remain uncertain and the stock trades on speculative optionality rather than current cash flows or earnings.",
-        "The stock has fallen 64.5% from its 52-week high of $193.84, reflecting the risk that earlier market enthusiasm was not supported by near-term fundamentals and that execution risk remains high."
-      ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$68.83",
-      "price_target": "$91.21 (+32.5%)",
-      "pe_ratio": "N/A",
-      "rsi": "N/A",
-      "vs_52wk_high": "-64.5% below high ($193.84)",
-      "analyst_rating": "Buy",
-      "sector": "Energy - Nuclear / Clean Energy",
-      "sources": ["CNBC", "TheStreet", "StockAnalysis", "MarketBeat", "GuruFocus"],
-      "price_history_5d": [62.58, 65.88, 68.83]
-    },
-    {
-      "ticker": "QCOM",
-      "company": "Qualcomm",
-      "discussion_driver": "Qualcomm gained 5.74% on May 26, driven by a new AI chip supply deal with ByteDance and the broad semiconductor rally triggered by Micron's $1 trillion crossing. QCOM has surged approximately 75% over the past month, well outpacing analyst consensus targets (~$182), as investors position ahead of Qualcomm's June 24 Investor Day where management is expected to detail its accelerating AI diversification strategy beyond its smartphone chip core.",
-      "bull_case": [
-        "New AI chip supply deal with ByteDance validates Qualcomm's diversification into AI data center silicon, opening a high-margin revenue stream outside the smartphone cycle and demonstrating competitive AI chip capabilities.",
-        "June 24 Investor Day could serve as a major catalyst with potential announcements on automotive chip partnerships, AI PC market share ramp, and data center AI strategy that could crystallize a higher long-term earnings multiple."
-      ],
-      "bear_case": [
-        "Analyst consensus price target of ~$182 is 26.3% below the current price of $246.77, suggesting the stock has meaningfully outrun near-term fundamentals after the recent 75%+ monthly rally.",
-        "Qualcomm derives the majority of revenue from handset chips that remain sensitive to consumer spending and inventory cycles, creating cyclical risk that current AI diversification enthusiasm may be overstating."
-      ],
-      "recommendation": "Hold",
-      "current_price": "$246.77",
-      "price_target": "$181.79 (-26.3%)",
-      "pe_ratio": "25.91",
-      "rsi": "71.74",
-      "vs_52wk_high": "-4.3% below high ($258.00)",
-      "analyst_rating": "Hold",
-      "sector": "Technology - Semiconductors",
-      "sources": ["CNBC", "TradingKey", "StockStory", "MarketBeat", "eToro"],
-      "price_history_5d": [247.91, 238.16, 246.77]
-    },
-    {
-      "ticker": "ZS",
-      "company": "Zscaler",
-      "discussion_driver": "Zscaler reported Q3 FY2026 earnings after the close on May 26 — EPS of $1.08 beat estimates and revenue of $850.5M grew 25% YoY, but guidance disappointed sharply as free cash flow margin guidance was cut from ~27% to ~23% for Q4 FY2026, sending shares down approximately 17% in after-hours trading. Investors focused on the FCF guide cut as a signal that heavy AI-era infrastructure capex is weighing on near-term cash generation, despite durable top-line growth momentum.",
-      "bull_case": [
-        "Revenue grew 25% YoY to $850.5M in Q3 FY2026 with an EPS beat ($1.08 vs $1.04 estimate) and a raised full-year outlook, demonstrating durable demand for zero-trust cloud security across enterprise customers.",
-        "The pending Symmetry Systems acquisition expands Zscaler's data security posture management (DSPM) capabilities, strengthening platform stickiness and TAM in a fast-growing market where identity and data security are top enterprise priorities."
-      ],
-      "bear_case": [
-        "Free cash flow margin guidance was cut sharply to 22.8%-23.3% from the prior 26.5%-27% target for Q4 FY2026, triggering a 17% after-hours selloff that signals investor concern about the durability of profitability as AI infrastructure capex rises.",
-        "The stock already traded -45.2% from its 52-week high prior to the earnings report; the after-hours selloff creates further downside risk and may prompt analyst downgrades and extended multiple compression."
-      ],
-      "recommendation": "Hold",
-      "current_price": "$184.60",
-      "price_target": "$264.81 (+43.5%)",
-      "pe_ratio": "N/A",
-      "rsi": "72.27",
-      "vs_52wk_high": "-45.2% below high ($336.99)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Cloud Security / Cybersecurity",
-      "sources": ["QuiverQuant", "GuruFocus", "24/7 Wall St.", "StockAnalysis", "MarketBeat"],
-      "price_history_5d": [182.37, 184.60]
-    },
-    {
-      "ticker": "GEV",
-      "company": "GE Vernova",
-      "discussion_driver": "GE Vernova gained 5.31% on May 26, bolstered by Huatai Research's new Buy initiation with a $1,174 price target. The stock continues to command strong investor interest on the back of exceptional Q1 results — orders surged 71% YoY to $18.3B and backlog expanded to $163B — as AI data center electrification and global grid modernization create a once-in-a-generation demand environment for GEV's gas turbines, grid equipment, and wind energy businesses.",
-      "bull_case": [
-        "Q1 2026 orders surged 71% YoY to $18.3B and backlog expanded to $163B, providing years of revenue visibility as AI data center electrification and grid modernization drive unprecedented equipment demand.",
-        "Multiple high-profile analyst upgrades including Goldman Sachs raising its target to $1,328 and Huatai Research's Buy initiation at $1,174 reflect broadening institutional conviction in GEV's energy transition leadership position."
-      ],
-      "bear_case": [
-        "The stock trades at trailing P/E of ~30x and -8.7% below its 52-week high of $1,181.95; any delivery delays, supply chain disruptions, or AI data center demand downside could compress the premium multiple significantly.",
-        "Delivering on $163B in backlog requires seamless supply chain coordination and manufacturing capacity ramp that could prove challenging in a constrained industrial environment, creating meaningful execution risk."
+        "The stock's ~870% one-year run and $1T market cap milestone creates significant valuation risk if AI spending growth slows or Samsung/SK Hynix aggressively ramp HBM capacity",
+        "Cyclical memory chip market dynamics can reverse sharply — Micron has historically experienced severe earnings compression during industry downturns, and many pre-surge analyst consensus targets remain well below current price"
       ],
       "recommendation": "Buy",
-      "current_price": "$1,078.52",
-      "price_target": "$1,217.00 (+12.8%)",
-      "pe_ratio": "29.61",
+      "current_price": "$928.41",
+      "price_target": "$1,175.00 (+26.6%)",
+      "pe_ratio": "N/A",
       "rsi": "N/A",
-      "vs_52wk_high": "-8.7% below high ($1,181.95)",
+      "vs_52wk_high": "-2.9% below high ($956.16)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Technology - Semiconductors",
+      "sources": ["CNBC", "UBS", "Barclays", "GuruFocus", "StockAnalysis"],
+      "price_history_5d": [751.00, 895.88, 928.41]
+    },
+    {
+      "ticker": "MGM",
+      "company": "MGM Resorts International",
+      "discussion_driver": "MGM Resorts surged approximately 10% on May 27 after simultaneous upgrades from JPMorgan (Neutral→Overweight, PT $41→$46) and Truist (Hold→Buy, PT $42→$55), both citing resilient U.S. leisure travel demand and Las Vegas Strip EBITDA recovery. Falling oil prices from Iran's Strait of Hormuz signaling act as a further tailwind for domestic leisure spending. The stock hit a new 52-week intraday high of $42.39 on the back of heavy upgrade-driven buying volume.",
+      "bull_case": [
+        "Dual upgrades from JPMorgan and Truist reflect growing institutional conviction in Las Vegas Strip EBITDA recovery, with Truist's $55 target implying 31%+ upside from current levels",
+        "Declining oil prices from Iran supply developments reduce domestic travel costs, boosting consumer leisure spending and casino visitation precisely as MGM enters its peak summer season"
+      ],
+      "bear_case": [
+        "MGM's trailing P/E of 53.33x is dramatically above the peer average of 17.6x, creating meaningful valuation risk and suggesting the stock is priced for near-perfection on earnings delivery",
+        "Goldman Sachs maintains a Sell rating with a $34 price target — well below current levels — citing macroeconomic softness and potential consumer spending pullback among core casino demographics"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$41.82",
+      "price_target": "$46.00 (+10.0%)",
+      "pe_ratio": "53.33",
+      "rsi": "N/A",
+      "vs_52wk_high": "-1.4% below high ($42.39)",
       "analyst_rating": "Buy",
-      "sector": "Industrials - Energy / Power Generation",
-      "sources": ["TradingKey", "24/7 Wall St.", "Yahoo Finance", "Goldman Sachs", "StockAnalysis"],
-      "price_history_5d": [1043.82, 1038.74, 1078.52]
+      "sector": "Consumer Discretionary - Casinos & Gaming",
+      "sources": ["CNBC", "Seeking Alpha", "GuruFocus", "JPMorgan", "Truist Securities"],
+      "price_history_5d": [37.33, 38.40, 41.82]
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk Corp.",
+      "discussion_driver": "SanDisk rose approximately 7.5% after Barclays upgraded the stock to Overweight from Equal Weight with a $2,300 price target (from $1,200), citing $42B+ in contractual revenue guarantees through 2031 and calling memory/storage 'the most attractive vertical' in the AI infrastructure stack. The stock has risen approximately 4,000% over the past year, with Citigroup also setting a $2,025 target on May 19. Institutional conviction is building around SanDisk as a pure-play AI storage beneficiary with exceptional revenue visibility and a surprisingly low forward P/E of ~9x.",
+      "bull_case": [
+        "$42B+ in contractual revenue guarantees through 2031 provide exceptional forward visibility and de-risk the investment thesis, while the forward P/E of ~9x appears cheap relative to the AI storage opportunity",
+        "Both Barclays ($2,300) and Citigroup ($2,025) see 24-41% upside, reflecting growing consensus that flash storage is a critical, structurally undersupplied AI infrastructure component as data generation accelerates"
+      ],
+      "bear_case": [
+        "The stock's ~4,000% gain in one year near 52-week highs represents extreme valuation stretch — any deceleration in AI infrastructure spending or competitive threat from emerging storage technologies could trigger a violent reversal",
+        "Trailing P/E of 47x and the sheer magnitude of recent price appreciation leave virtually no margin of safety for any earnings miss, execution stumble, or broader tech sector rotation"
+      ],
+      "recommendation": "Speculative Buy",
+      "current_price": "$1,635.94",
+      "price_target": "$2,025.00 (+23.8%)",
+      "pe_ratio": "47.16",
+      "rsi": "N/A",
+      "vs_52wk_high": "-0.4% below high ($1,643.00)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - Data Storage",
+      "sources": ["CNBC", "Barclays", "Seeking Alpha", "Citigroup", "Investing.com"],
+      "price_history_5d": [1478.69, 1589.55, 1635.94]
+    },
+    {
+      "ticker": "FDX",
+      "company": "FedEx Corporation",
+      "discussion_driver": "FedEx climbed approximately 3.4% after JPMorgan upgraded the stock to Overweight from Neutral and raised its price target to $460 from $432, citing the upcoming FedExFreight Holding (FDXF) spinoff on June 1 as a value-unlocking catalyst and visible progress on its Network 2.0 cost restructuring program. The freight spinoff is expected to simplify FedEx's corporate structure, sharpen operational focus, and allow investors to separately value the Express and Ground segments, which JPMorgan believes have been obscured by the conglomerate discount.",
+      "bull_case": [
+        "The FedExFreight spinoff on June 1 is a near-term structural catalyst to unlock hidden segment value, with JPMorgan's $460 target implying 11.7% upside as the market re-rates the simplified FedEx business",
+        "Network 2.0 restructuring program is generating tangible cost savings and operational improvements, with a reasonable P/E of ~21x offering value relative to industrial peers averaging ~24x"
+      ],
+      "bear_case": [
+        "Broad analyst consensus target of ~$400 sits below the current stock price of $411.78, suggesting many analysts see limited upside once the spinoff catalyst is fully priced in and JPMorgan's upgrade may be an outlier",
+        "Macro headwinds including trade policy uncertainty, potential economic slowdown, and structural e-commerce volume normalization could weigh on package volumes and freight pricing power post-spinoff"
+      ],
+      "recommendation": "Buy",
+      "current_price": "$411.78",
+      "price_target": "$460.00 (+11.7%)",
+      "pe_ratio": "21.19",
+      "rsi": "N/A",
+      "vs_52wk_high": "-1.5% below high ($418.00)",
+      "analyst_rating": "Buy",
+      "sector": "Industrials - Freight & Logistics",
+      "sources": ["CNBC", "JPMorgan", "Invezz", "MarketBeat", "StockAnalysis"],
+      "price_history_5d": [388.91, 400.00, 411.78]
+    },
+    {
+      "ticker": "UAL",
+      "company": "United Airlines Holdings Inc.",
+      "discussion_driver": "United Airlines rose approximately 6.3% as oil prices fell below $90/barrel after Iran signaled restoration of Strait of Hormuz commercial traffic, directly reducing jet fuel costs and improving margin outlook. UBS raised its price target to $148 (Buy rating), and United projects 53M+ summer passengers — approximately 3M more than last year — representing the strongest summer demand outlook in the airline's history. The stock has a compelling P/E of only 8.8x despite a Strong Buy consensus from 15+ analysts.",
+      "bull_case": [
+        "Declining oil prices from Iran/Hormuz supply normalization provide a direct structural tailwind to fuel costs, improving margins precisely when record summer demand of 53M+ passengers is driving revenue per available seat mile higher",
+        "UBS's $148 target implies 30%+ upside and a Strong Buy consensus from 15+ analysts with an average target of $130.59 reflects institutional conviction in United's execution, while 8.8x P/E offers compelling value"
+      ],
+      "bear_case": [
+        "Geopolitical risk around the Strait of Hormuz is inherently two-sided — any re-escalation could rapidly reverse oil prices and undo the fuel cost tailwind that drove today's rally",
+        "Airline industry cyclicality and consumer spending sensitivity mean that any macroeconomic deterioration could quickly compress yield and load factor, even as United enters its seasonally strong summer period"
+      ],
+      "recommendation": "Buy",
+      "current_price": "$113.74",
+      "price_target": "$130.59 (+14.8%)",
+      "pe_ratio": "8.8",
+      "rsi": "N/A",
+      "vs_52wk_high": "-4.6% below high ($119.21)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Industrials - Airlines",
+      "sources": ["GuruFocus", "StocksToTrade", "UBS", "FX Leaders", "StockAnalysis"],
+      "price_history_5d": [99.64, 99.96, 105.92, 113.74]
     }
   ]
 }
