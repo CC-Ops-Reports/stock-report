@@ -1,148 +1,176 @@
 {
-  "report_date": "2026-05-27",
-  "market_tone": "Mixed",
+  "report_date": "2026-05-28",
+  "market_tone": "Bullish",
   "key_themes": [
-    "AI chip sector bifurcation: Marvell beats while Zscaler disappoints on guidance",
-    "Oil prices drop as Iran signals partial Strait of Hormuz reopening, lifting airlines",
-    "Earnings wave: Snowflake skyrockets on $6B AWS deal; Verra Mobility crashes on Avis contract loss"
+    "Retail earnings sweep (Dollar Tree, Best Buy, Kohl's all beat estimates)",
+    "AI infrastructure boom drives Snowflake and Dell to record highs",
+    "Defense/drone sector surges on Trump admin domestic drone funding talks",
+    "PCE inflation hits 3.8% YoY (3-year high) but markets shrug it off to set new records",
+    "U.S.-Iran 60-day truce deal speculation pushes oil lower and equities higher"
   ],
   "sp500": {
-    "value": "7,520.36",
-    "change": "+0.02%"
+    "value": "7,563.63",
+    "change": "+0.58%"
   },
   "nasdaq": {
-    "value": "26,674.73",
-    "change": "+0.07%"
+    "value": "26,917.47",
+    "change": "+0.91%"
   },
   "stocks": [
     {
       "ticker": "SNOW",
-      "company": "Snowflake Inc.",
-      "reason": "Soared ~32% after-hours on Q1 FY2027 earnings beat (revenue +33% YoY to $1.39B) and announcement of $6B multiyear deal with AWS for Graviton CPU access; raised full-year sales outlook",
-      "category": "earnings",
-      "sources": [
-        "Yahoo Finance",
-        "TechCrunch",
-        "Seeking Alpha"
-      ]
-    },
-    {
-      "ticker": "VRRM",
-      "company": "Verra Mobility Corp.",
-      "reason": "Crashed ~46% after Avis Budget Group terminated its contract effective September 2026, wiping ~$135-145M in annual revenue; company slashed full-year 2026 guidance to $985M-$995M from $1.02B-$1.03B",
-      "category": "news",
-      "sources": [
-        "PR Newswire",
-        "Seeking Alpha",
-        "Bloomberg"
-      ]
-    },
-    {
-      "ticker": "ZS",
-      "company": "Zscaler Inc.",
-      "reason": "Plunged ~23% despite Q3 earnings beat (EPS $1.08 vs $1.01 est); Q4 revenue guidance of $875-878M missed $879M consensus; company cited two key sales leader departures and accelerated equipment spending",
+      "company": "Snowflake",
+      "reason": "Surged ~37% after reporting Q1 earnings beat ($0.39 EPS vs est; $1.39B revenue) and announcing a $6B multi-year AWS partnership deal",
       "category": "earnings",
       "sources": [
         "CNBC",
         "Bloomberg",
-        "Traders Union"
-      ]
-    },
-    {
-      "ticker": "MRVL",
-      "company": "Marvell Technology Inc.",
-      "reason": "Rose ~6% to record high after Q1 FY2027 revenue of $2.42B (+28% YoY) beat estimates; guided Q2 to $2.7B (+35% YoY); ~74% of revenue from data center AI custom chips including AWS Trainium partnership",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "SEC Filing",
-        "Money Morning"
-      ]
-    },
-    {
-      "ticker": "BBWI",
-      "company": "Bath & Body Works Inc.",
-      "reason": "Jumped ~15% after Q1 2026 results exceeded guidance; Q2 EPS outlook of $0.20-$0.25 met expectations; CFO Eva Boratto announced departure effective June 12",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Benzinga",
-        "SEC Filing"
-      ]
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron Technology Inc.",
-      "reason": "Continued AI memory momentum after crossing $1 trillion market cap on May 26 (+19%); UBS tripled price target to $1,625; Barclays raised PT 74% to $1,175; stock trading ~$915 with $1.03T market cap",
-      "category": "upgrade",
-      "sources": [
-        "CNBC",
-        "GuruFocus",
         "Motley Fool"
       ]
     },
     {
-      "ticker": "MGM",
-      "company": "MGM Resorts International",
-      "reason": "Surged ~10% after simultaneous upgrades from JPMorgan (Neutral\u2192Overweight, PT $41\u2192$46) and Truist (Hold\u2192Buy, PT $42\u2192$55); both cited resilient U.S. leisure travel demand and Las Vegas Strip EBITDA recovery",
-      "category": "upgrade",
+      "ticker": "DELL",
+      "company": "Dell Technologies",
+      "reason": "Rose 4% during day, then soared 30% after-hours on blowout Q1 FY2027 earnings: $43.84B revenue (88% YoY), AI server revenue $16.1B (+757% YoY); also won $9.7B Pentagon software contract",
+      "category": "earnings",
       "sources": [
-        "CNBC",
+        "Bloomberg",
         "Seeking Alpha",
-        "GuruFocus"
+        "Investing.com",
+        "Invezz"
       ]
     },
     {
-      "ticker": "SNDK",
-      "company": "SanDisk Corp.",
-      "reason": "Rose ~7.5% after Barclays upgraded to Overweight from Equal Weight and set $2,300 PT (from $1,200); analyst cited $42B+ in contractual revenue guarantees through 2031 and memory/storage as \"most attractive vertical\"; stock up ~4,000% over past year",
-      "category": "upgrade",
+      "ticker": "KSS",
+      "company": "Kohl's",
+      "reason": "Jumped 20% after Q1 beat \u2014 best comparable sales performance in four years (comps -1.1% vs -2.8% prior quarter); loss of $0.13/share beat est of -$0.19",
+      "category": "earnings",
       "sources": [
         "CNBC",
-        "Seeking Alpha",
+        "StockTitan",
+        "BusinessWire"
+      ]
+    },
+    {
+      "ticker": "DLTR",
+      "company": "Dollar Tree",
+      "reason": "Rose 19% after Q1 earnings beat estimates; among the biggest premarket movers of the day",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Bloomberg",
+        "Motley Fool"
+      ]
+    },
+    {
+      "ticker": "BBY",
+      "company": "Best Buy",
+      "reason": "Gained 18% after Q1 2026 earnings beat Wall Street estimates on both top and bottom lines",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Benzinga",
+        "Motley Fool"
+      ]
+    },
+    {
+      "ticker": "UMAC",
+      "company": "Unusual Machines",
+      "reason": "Surged 57% after reports that Trump administration is in talks to provide government funding to domestic drone manufacturers to expand production and cut costs",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "TradingKey",
+        "Benzinga"
+      ]
+    },
+    {
+      "ticker": "RCAT",
+      "company": "Red Cat Holdings",
+      "reason": "Gained 36% on combination of Japan deal, Quaze acquisition, bullish analyst coverage, and sector lift from Trump admin drone funding news",
+      "category": "news",
+      "sources": [
+        "Yahoo Finance",
+        "ECIKS",
+        "StocksToTrade"
+      ]
+    },
+    {
+      "ticker": "ARM",
+      "company": "Arm Holdings",
+      "reason": "Jumped 14% to $344.94 after Mizuho analyst raised price target from $290 to $360, maintaining Outperform rating amid strong AI chip demand outlook",
+      "category": "upgrade",
+      "sources": [
+        "Motley Fool",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "HRL",
+      "company": "Hormel Foods",
+      "reason": "Popped ~13% after fiscal Q2 adjusted EPS of $0.40 beat analyst consensus of $0.35",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Benzinga"
+      ]
+    },
+    {
+      "ticker": "NCNO",
+      "company": "nCino",
+      "reason": "Climbed 12-14% after beating Q1 profit estimates and raising full-year revenue guidance to $642M-$646M from prior $639M-$643M",
+      "category": "earnings",
+      "sources": [
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "A",
+      "company": "Agilent Technologies",
+      "reason": "Climbed ~12% after beating analysts' quarterly earnings forecasts; was also among after-hours movers on May 27",
+      "category": "earnings",
+      "sources": [
+        "Benzinga",
+        "TipRanks"
+      ]
+    },
+    {
+      "ticker": "MRVL",
+      "company": "Marvell Technology",
+      "reason": "Continued higher after May 27 after-hours earnings beat ($0.80 EPS vs $0.75 expected); AI data infrastructure demand cited as key driver",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
         "Investing.com"
       ]
     },
     {
-      "ticker": "FDX",
-      "company": "FedEx Corporation",
-      "reason": "Climbed ~3.4% after JPMorgan upgraded to Overweight from Neutral and raised PT to $460 from $432; analyst cited upcoming freight business spinoff on June 1 as value-unlocking catalyst and visible progress on Network 2.0 restructuring",
-      "category": "upgrade",
+      "ticker": "PLAB",
+      "company": "Photronics",
+      "reason": "Plunged on weak Q2 FY2026 results \u2014 revenue $209.9M (down 0.5% YoY, down 6.7% QoQ) and soft forward outlook",
+      "category": "earnings",
       "sources": [
-        "CNBC",
-        "Invezz",
-        "MarketBeat"
-      ]
-    },
-    {
-      "ticker": "UAL",
-      "company": "United Airlines Holdings Inc.",
-      "reason": "Rose ~6.3% as oil prices fell below $90/barrel after Iran signaled restoration of Strait of Hormuz commercial traffic; UBS raised PT to $148 (Buy); company projects 53M+ summer passengers, ~3M more than last year",
-      "category": "news",
-      "sources": [
-        "GuruFocus",
-        "StocksToTrade",
-        "FX Leaders"
+        "Bloomberg",
+        "SEC Filing"
       ]
     },
     {
       "ticker": "DG",
-      "company": "Dollar General Corp.",
-      "reason": "Downgraded to Hold from Buy at Deutsche Bank with $110 PT; analyst cited continued weakness in core low-income consumer spending and competitive pressure from discount peers",
+      "company": "Dollar General",
+      "reason": "Fell after Deutsche Bank downgraded to Hold from Buy, slashing price target to $110 from $170 on deteriorating consumer spending outlook",
       "category": "downgrade",
       "sources": [
-        "24/7 Wall St.",
-        "Yahoo Finance"
+        "Yahoo Finance",
+        "Benzinga"
       ]
     },
     {
-      "ticker": "WDAY",
-      "company": "Workday Inc.",
-      "reason": "Downgraded to Neutral from Buy at Bank of America with $140 PT; BofA cited valuation concerns and slowing enterprise software spending environment",
-      "category": "downgrade",
+      "ticker": "FDX",
+      "company": "FedEx",
+      "reason": "Gained on analyst upgrade highlighted in Wall Street's top calls of the day",
+      "category": "upgrade",
       "sources": [
-        "24/7 Wall St.",
-        "CNBC"
+        "Yahoo Finance"
       ]
     }
   ]
