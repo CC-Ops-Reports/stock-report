@@ -1,121 +1,52 @@
 {
-  "report_date": "2026-05-26",
+  "report_date": "2026-05-27",
   "batch": 3,
   "stocks": [
     {
-      "ticker": "OXY",
-      "company": "Occidental Petroleum Corp.",
-      "discussion_driver": "Barclays upgraded OXY to Overweight from Equal Weight with a $72 price target on May 26, citing improved oil price outlook as Iran peace-talk optimism reduces geopolitical risk premium. The call joins Morgan Stanley's recent $74 target raise and positions OXY as a key energy beneficiary of easing Middle East tensions.",
+      "ticker": "DG",
+      "company": "Dollar General Corp.",
+      "discussion_driver": "Deutsche Bank downgraded Dollar General to Hold from Buy and slashed its price target to $110 from $170, citing persistent weakness in core low-income consumer spending and a widening K-shaped economy gap. The stock has shed ~33% from its 52-week high and faces a critical earnings report on June 2, with investors cautious ahead of a late-May shareholder vote as well.",
       "bull_case": [
-        "Barclays and Morgan Stanley both carry bullish price targets of $72–$74, well above current levels, driven by improved oil price outlook as Iran peace negotiations advance",
-        "Berkshire Hathaway's significant equity and preferred stock position provides strategic endorsement and a potential acquisition backstop for long-term investors"
+        "Deep value at ~15x trailing P/E and ~2.3% dividend yield; stock trades 37% below the Wall Street consensus target of $144, with 10 buy-rated analysts still on the Street despite the Deutsche Bank downgrade",
+        "New CEO brings fresh operational focus that could drive same-store sales recovery and margin improvement, especially as current consumer headwinds from inflation and tariffs eventually ease"
       ],
       "bear_case": [
-        "Consensus analyst price target of ~$57.71 is below current price, with the majority of analysts rating the stock a Hold, limiting broad institutional re-rating",
-        "High debt load from the $38B Anadarko acquisition and Berkshire's mandatory preferred dividends constrain financial flexibility if crude oil prices soften"
-      ],
-      "recommendation": "Buy",
-      "current_price": "$58.81",
-      "price_target": "$57.71 (-1.9%)",
-      "pe_ratio": "26.23",
-      "rsi": "N/A",
-      "vs_52wk_high": "-12.8% below high ($67.45)",
-      "analyst_rating": "Hold",
-      "sector": "Energy - Oil & Gas",
-      "sources": ["Barclays", "24/7 Wall St.", "Benzinga", "Morgan Stanley"],
-      "price_history_5d": [58.83, 58.83, 58.81]
-    },
-    {
-      "ticker": "ALB",
-      "company": "Albemarle Corp.",
-      "discussion_driver": "Vertical Research upgraded ALB to Buy from Hold with a $224 price target on May 26, citing lithium price stabilization and EV demand recovery improving the company's earnings trajectory. Deutsche Bank ($250) and UBS ($264) also carry targets well above current levels, reflecting growing conviction in a lithium market rebound.",
-      "bull_case": [
-        "Lithium price stabilization after a prolonged multi-year downturn creates significant earnings leverage, with Q1 2026 EPS of $2.95 showing early recovery momentum",
-        "EV demand recovery and falling battery costs are expanding the lithium addressable market; multiple analysts raised targets significantly above $200 signaling a bullish inflection"
-      ],
-      "bear_case": [
-        "Lithium prices remain highly cyclical and susceptible to further pressure from Chinese oversupply, which drove the 52-week low to $53.70 and could repeat",
-        "Stock is 19.7% below its 52-week high and trailing PE is distorted by prior-year losses, making valuation uncertain amid a still-volatile commodity environment"
-      ],
-      "recommendation": "Buy",
-      "current_price": "$177.38",
-      "price_target": "$212.06 (+19.5%)",
-      "pe_ratio": "N/A",
-      "rsi": "53.02",
-      "vs_52wk_high": "-19.7% below high ($221.00)",
-      "analyst_rating": "Buy",
-      "sector": "Materials - Specialty Chemicals (Lithium)",
-      "sources": ["Vertical Research", "24/7 Wall St.", "Benzinga", "Deutsche Bank", "UBS"],
-      "price_history_5d": [169.00, 170.21, 171.58, 177.38]
-    },
-    {
-      "ticker": "INTC",
-      "company": "Intel Corp.",
-      "discussion_driver": "Northland downgraded Intel to Market Perform from Outperform on May 26, citing continued execution challenges in foundry operations and competitive pressure from TSMC and Samsung. The downgrade comes after Intel's 74% YTD surge, with the stock now trading well above the $87.86 analyst consensus target and significantly stretched on valuation.",
-      "bull_case": [
-        "Intel's 74% YTD rally reflects renewed investor confidence in a foundry turnaround, with Xeon AI server chip gains and CHIPS Act subsidies providing structural tailwinds",
-        "Domestic US semiconductor manufacturing push amid geopolitical tensions with Taiwan could drive Intel to become a strategic national asset, attracting government and enterprise demand"
-      ],
-      "bear_case": [
-        "Northland's downgrade highlights persistent foundry execution gaps versus TSMC and Samsung, with Intel's process technology lagging by multiple generations on key metrics",
-        "Stock trades nearly 35% above the $87.86 consensus analyst price target, suggesting significant valuation risk with most of the turnaround already priced in at current levels"
+        "Core low-income customer base continues to face macro pressure; Deutsche Bank and others cite a structurally widening K-shaped economy gap that limits same-store sales growth near term",
+        "Elevated earnings risk heading into June 2 results with the stock sliding ahead of the print; competitive pressure from Walmart, Amazon, and Dollar Tree remains intense"
       ],
       "recommendation": "Hold",
-      "current_price": "$118.15",
-      "price_target": "$87.86 (-25.6%)",
-      "pe_ratio": "N/A",
-      "rsi": "N/A",
-      "vs_52wk_high": "-11.0% below high ($132.75)",
+      "current_price": "$105.06",
+      "price_target": "$144.18 (+37.2%)",
+      "pe_ratio": "15.08",
+      "rsi": "35.88",
+      "vs_52wk_high": "-33.6% below high ($158.23)",
+      "analyst_rating": "Buy",
+      "sector": "Consumer Staples - Discount Retail",
+      "sources": ["Deutsche Bank via Investing.com", "Yahoo Finance", "GuruFocus", "24/7 Wall St.", "Seeking Alpha", "UBS", "Wolfe Research"],
+      "price_history_5d": [104.61, 102.98, 103.61, 103.61, 105.06]
+    },
+    {
+      "ticker": "WDAY",
+      "company": "Workday Inc.",
+      "discussion_driver": "Bank of America resumed coverage on Workday with a Neutral rating and $140 price target, citing valuation concerns and slowing enterprise software spending — a fresh headwind even after WDAY's solid Q1 FY2027 earnings on May 21 (revenue +14% YoY to $2.54B, EPS beat of $2.66 vs $2.51 estimate). The stock is down ~52% from its 52-week high and trades with an RSI of 27.64, deep in oversold territory.",
+      "bull_case": [
+        "Q1 FY2027 results beat on both top and bottom lines; total subscription backlog of $27.3B (up 10.9% YoY) provides strong multi-year revenue visibility and underpins durable cash flow",
+        "RSI of 27.64 signals deeply oversold conditions, with 47.6% upside to analyst consensus target of $183.75; any stabilization in enterprise IT budgets or multiple re-rating could catalyze a sharp recovery"
+      ],
+      "bear_case": [
+        "Valuation remains stretched at 93.5x trailing P/E even after the steep selloff; multiple expansion is unlikely amid slowing enterprise software spending and increasing margin scrutiny",
+        "Growing chorus of analyst caution — BofA Neutral ($140 PT), Goldman Sachs Neutral ($206 PT), and numerous other target cuts — signals fading institutional conviction and limited near-term catalysts"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$124.50",
+      "price_target": "$183.75 (+47.6%)",
+      "pe_ratio": "93.5",
+      "rsi": "27.64",
+      "vs_52wk_high": "-51.6% below high ($257.09)",
       "analyst_rating": "Hold",
-      "sector": "Technology - Semiconductors",
-      "sources": ["Northland", "24/7 Wall St.", "Benzinga", "TradingKey", "MarketBeat"],
-      "price_history_5d": [119.53, 119.84, 118.15]
-    },
-    {
-      "ticker": "OKTA",
-      "company": "Okta Inc.",
-      "discussion_driver": "Arete Research gave OKTA a rare double upgrade from Sell to Buy on May 26 with a $127 price target, citing improved platform stickiness, declining customer churn, and identity security tailwinds. A Sell-to-Buy double upgrade is a high-conviction reversal that signals a meaningful fundamental inflection and could catalyze institutional re-evaluation of the stock.",
-      "bull_case": [
-        "Rare double upgrade from Sell to Buy at Arete Research reflects a major fundamental shift, with declining churn rates and improving Net Revenue Retention pointing to stabilizing and re-accelerating growth",
-        "Identity security is a structurally growing market as zero-trust becomes standard enterprise architecture; OKTA's leadership position and deep customer integrations create durable competitive advantages"
-      ],
-      "bear_case": [
-        "Stock trades 27.9% below its 52-week high at a trailing P/E of ~70x, leaving little margin for error if revenue growth fails to re-accelerate as expected",
-        "Microsoft Entra and CrowdStrike Identity are expanding aggressively into OKTA's core territory, creating meaningful long-term competitive pressure on pricing and market share"
-      ],
-      "recommendation": "Buy",
-      "current_price": "$92.00",
-      "price_target": "$103.89 (+12.9%)",
-      "pe_ratio": "70.41",
-      "rsi": "52.53",
-      "vs_52wk_high": "-27.9% below high ($127.52)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Cybersecurity/Identity",
-      "sources": ["Arete Research", "24/7 Wall St.", "CNBC", "MarketBeat"],
-      "price_history_5d": [85.70, 87.16, 92.24, 92.00]
-    },
-    {
-      "ticker": "APP",
-      "company": "AppLovin Corp.",
-      "discussion_driver": "AppLovin climbed 5.9% on May 26, extending momentum from its Q1 2026 beat where revenue of $1.84B exceeded the $1.77B estimate. The AI-powered Axon advertising platform continues to drive outperformance, with analysts maintaining a Buy consensus and a $694 average price target representing 35.6% upside from current levels.",
-      "bull_case": [
-        "Axon AI advertising platform is delivering industry-leading results with consistent revenue beats and expanding margins, supported by a Buy consensus among 19 analysts with a $694 average price target",
-        "AppLovin's stock remains 31.3% below its December 2025 all-time high of $745.61 despite strong fundamentals, offering meaningful catch-up potential as AI ad-tech sentiment re-rates"
-      ],
-      "bear_case": [
-        "Stock trades at ~52x trailing earnings with high expectations embedded; any slowdown in mobile advertising spend or AI-driven targeting effectiveness could compress multiples sharply",
-        "Concentration risk from near-total dependence on the Axon AI engine and mobile gaming advertising creates vulnerability if competitors replicate capabilities or platforms restrict data access"
-      ],
-      "recommendation": "Buy",
-      "current_price": "$512.01",
-      "price_target": "$694.44 (+35.6%)",
-      "pe_ratio": "52.07",
-      "rsi": "N/A",
-      "vs_52wk_high": "-31.3% below high ($745.61)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - AdTech/Software",
-      "sources": ["TradingKey", "IndexBox", "StockStory", "Capital.com", "MarketBeat"],
-      "price_history_5d": [481.68, 512.01]
+      "sector": "Technology - Enterprise Software (HCM/ERP)",
+      "sources": ["Bank of America via Seeking Alpha", "Goldman Sachs via Investing.com", "Benzinga", "MarketBeat", "Yahoo Finance", "TipRanks"],
+      "price_history_5d": [126.61, 121.85, 128.14, 124.02, 124.50]
     }
   ]
 }
