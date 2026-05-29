@@ -1,129 +1,137 @@
 {
-  "report_date": "2026-05-27",
+  "report_date": "2026-05-28",
   "batch": 1,
-  "market_tone": "Mixed",
+  "market_tone": "Bullish",
   "key_themes": [
-    "AI chip sector bifurcation: Marvell beats while Zscaler disappoints on guidance",
-    "Oil prices drop as Iran signals partial Strait of Hormuz reopening, lifting airlines",
-    "Earnings wave: Snowflake skyrockets on $6B AWS deal; Verra Mobility crashes on Avis contract loss"
+    "Retail earnings sweep (Dollar Tree, Best Buy, Kohl's all beat estimates)",
+    "AI infrastructure boom drives Snowflake and Dell to record highs",
+    "Defense/drone sector surges on Trump admin domestic drone funding talks",
+    "PCE inflation hits 3.8% YoY (3-year high) but markets shrug it off to set new records",
+    "U.S.-Iran 60-day truce deal speculation pushes oil lower and equities higher"
   ],
-  "sp500": {"value": "7,520.36", "change": "+0.02%"},
-  "nasdaq": {"value": "26,674.73", "change": "+0.07%"},
+  "sp500": {
+    "value": "7,563.63",
+    "change": "+0.58%"
+  },
+  "nasdaq": {
+    "value": "26,917.47",
+    "change": "+0.91%"
+  },
   "stocks": [
     {
       "ticker": "SNOW",
       "company": "Snowflake Inc.",
-      "discussion_driver": "Snowflake surged ~33-37% after-hours on May 27, 2026 after Q1 FY2027 results beat expectations with $1.39B in revenue (+33% YoY) and adjusted EPS of $0.39 vs. $0.32 consensus. The company announced a $6 billion multiyear AWS strategic deal for Graviton CPU and GPU AI infrastructure access, and raised its full-year product revenue guidance to $5.84B (implying 31% growth), lifting operating margin guidance to 13.5%.",
+      "discussion_driver": "Snowflake surged 37% on May 28 after reporting blowout Q1 FY2027 earnings ($0.39 EPS vs. $0.32 estimated; $1.39B revenue, +33% YoY) alongside a $6B multi-year AWS partnership to accelerate global enterprise AI adoption. Product revenue grew 34% YoY — what CEO Sridhar Ramaswamy called an AI inflection point — and at least 25 analysts raised price targets, pushing the post-earnings median consensus to $275 from $230 pre-earnings.",
       "bull_case": [
-        "AI-driven revenue acceleration: Q1 revenue surged 33% YoY with AI workloads as a growing catalyst, and the $6B AWS Graviton deal deepens infrastructure integration positioning Snowflake as a critical enterprise AI data platform.",
-        "Raised guidance and strong analyst conviction: Management lifted FY2027 revenue and margin outlooks, with 92% of analysts rating SNOW a Buy or Strong Buy and a consensus price target of ~$249, implying over 42% upside from pre-earnings levels."
+        "$6B AWS spending commitment secures long-term revenue visibility and positions Snowflake as the enterprise AI data layer, with access to Graviton processors and AWS AI infrastructure deepening platform integration",
+        "Product revenue accelerating to 34% YoY growth as enterprises deploy AI/ML workloads on Snowflake; raised FY2027 product revenue guidance to $5.84B (+31%) with operating margin guidance lifted to 13.5%"
       ],
       "bear_case": [
-        "No GAAP profitability with negative EPS of -$3.95: The stock trades on growth multiples and AI momentum; any revenue deceleration or enterprise IT spending pullback could cause a sharp multiple compression.",
-        "Significant distance from 52-week high amid intense competition: Trading ~37.5% below its $280.67 52-week high, Snowflake faces growing competition from Databricks, hyperscaler-native analytics, and potential customer consolidation on fewer platforms."
-      ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$175.26",
-      "price_target": "$248.98 (+42.1%)",
-      "pe_ratio": "N/A",
-      "rsi": "66.2",
-      "vs_52wk_high": "-37.5% below high ($280.67)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Technology - Cloud Data & Analytics Software",
-      "sources": ["CNBC", "Seeking Alpha", "Benzinga", "SiliconAngle", "GuruFocus", "Yahoo Finance"],
-      "price_history_5d": [163.50, 172.20, 170.80, 177.60, 175.26]
-    },
-    {
-      "ticker": "VRRM",
-      "company": "Verra Mobility Corp.",
-      "discussion_driver": "Verra Mobility stock crashed over 70% on May 27, 2026 after Avis Budget Group announced termination of its Commercial Services contract effective September 2026, wiping an estimated $135-145M in annual revenue. The company slashed its full-year 2026 revenue guidance to $985M-$995M from $1.02B-$1.03B and cut Adjusted EBITDA guidance to $380-$385M. Multiple analysts downgraded the stock and dramatically reduced price targets in response.",
-      "bull_case": [
-        "Post-crash valuation is extremely depressed with a P/E of ~4x, potentially pricing in worst-case scenario and leaving room for recovery if Verra wins replacement contracts or pursues litigation over the Avis termination.",
-        "Government Solutions and Parking Solutions segments remain intact, and Verra retains a strong moat in tolling/traffic enforcement technology with long-term government contracts providing revenue stability."
-      ],
-      "bear_case": [
-        "Loss of the Avis contract removes ~13.5% of 2025 revenue and a disproportionately high share of Commercial Services profit, with no clear near-term replacement customer identified.",
-        "Multiple analyst downgrades to Neutral/Underweight with sharply reduced price targets ($4-$9) signal Wall Street expects prolonged earnings pressure; the stock may face continued selling pressure as index funds rebalance."
-      ],
-      "recommendation": "Hold",
-      "current_price": "$3.96",
-      "price_target": "$8.00 (+101.8%)",
-      "pe_ratio": "4.21",
-      "rsi": "N/A",
-      "vs_52wk_high": "-84.7% below high ($25.83)",
-      "analyst_rating": "Hold",
-      "sector": "Information Technology - IT Services",
-      "sources": ["StocksToTrade", "Benzinga", "MarketBeat", "GuruFocus", "Seeking Alpha"],
-      "price_history_5d": [13.37, 13.49, 13.30, 13.08, 3.96]
-    },
-    {
-      "ticker": "ZS",
-      "company": "Zscaler Inc.",
-      "discussion_driver": "Zscaler plunged ~31% on May 27, 2026 — its worst single-day drop ever — despite beating Q3 fiscal 2026 estimates (EPS $1.08 vs. $1.01 est., revenue $850.5M vs. $835.7M est.). Investors punished the stock after Q4 revenue guidance of $875-878M missed the $879M consensus, the company disclosed two key sales leadership departures, and flagged accelerated equipment spending compressing near-term margins. Management also guided FY2027 ARR growth of only 16-17% YoY, falling short of Street expectations.",
-      "bull_case": [
-        "Zscaler continues to post strong 25% YoY revenue and ARR growth, with a $3.5B ARR base and dominant zero-trust cloud security platform that benefits from secular enterprise security modernization trends.",
-        "85% of Wall Street analysts maintain Buy or Strong Buy ratings even after post-earnings price target cuts, with a consensus target of ~$243 implying substantial upside from post-crash levels; the stock is now deeply discounted relative to its 52-week high."
-      ],
-      "bear_case": [
-        "Disappointing FY2027 ARR growth guidance of 16-17% signals a potential deceleration in growth, while the departure of two key sales leaders raises execution risk and questions about go-to-market stability.",
-        "Heightened competition from Google's new AI security platform and other hyperscalers threatens Zscaler's pricing power and market share, while accelerated equipment spending adds near-term margin pressure on a company still posting GAAP losses."
-      ],
-      "recommendation": "Hold",
-      "current_price": "$126.41",
-      "price_target": "$243.17 (+92.4%)",
-      "pe_ratio": "N/A",
-      "rsi": "43.3",
-      "vs_52wk_high": "-62.5% below high ($336.99)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Software Infrastructure (Cybersecurity)",
-      "sources": ["CNBC", "GuruFocus", "StockAnalysis", "MarketScreener", "MacroTrends"],
-      "price_history_5d": [181.92, 182.37, 184.60, 126.41]
-    },
-    {
-      "ticker": "MRVL",
-      "company": "Marvell Technology Inc.",
-      "discussion_driver": "Marvell reported Q1 FY2027 revenue of $2.42B (+28% YoY), beating estimates, with non-GAAP EPS of $0.80 vs. $0.75 expected. The company guided Q2 revenue to ~$2.7B (+35% YoY), driven by AI custom silicon demand including an AWS Trainium chip partnership. Data center AI revenue now represents approximately 74% of total revenue, cementing Marvell's position as a key custom ASIC provider.",
-      "bull_case": [
-        "AI custom silicon (ASIC) momentum is accelerating, with hyperscaler partnerships (AWS Trainium, others) driving data center revenue to ~74% of total sales and Q2 guidance of $2.7B implying 35% YoY growth.",
-        "Multiple analysts raised price targets sharply post-earnings (Citi to $215, Melius to $220, HSBC to $300, Susquehanna to $230), reflecting growing conviction that Marvell is a best-in-class custom AI chip designer with a durable competitive moat."
-      ],
-      "bear_case": [
-        "The stock trades at a significant premium (trailing P/E ~57x) and has surged over 130% YTD, leaving limited margin of safety and high vulnerability to any guidance miss or AI spending slowdown.",
-        "Heavy customer concentration in hyperscaler AI spending means revenue is exposed to shifts in capital allocation by a small number of large cloud customers, and competition from Broadcom and internal chip efforts by hyperscalers could pressure margins."
+        "$6B AWS commitment is a major cost outflow (~$1.2B/year) that will pressure near-term free cash flow and extend the timeline to GAAP profitability, with the company still reporting negative GAAP EPS",
+        "Intense competition from Databricks, Google BigQuery, and Microsoft Fabric threatens market share in the rapidly evolving data cloud sector where hyperscalers are offering increasingly capable native alternatives"
       ],
       "recommendation": "Buy",
-      "current_price": "$204.01",
-      "price_target": "$215.00 (+5.4%)",
-      "pe_ratio": "57.11",
-      "rsi": "75.1",
-      "vs_52wk_high": "At/near high ($222.00 intraday high)",
+      "current_price": "$239.20",
+      "price_target": "$275.00 (+15.0%)",
+      "pe_ratio": "N/A",
+      "rsi": "48.68",
+      "vs_52wk_high": "-14.8% below high ($280.67)",
       "analyst_rating": "Strong Buy",
-      "sector": "Technology - Semiconductors",
-      "sources": ["Yahoo Finance", "Benzinga", "MarketBeat", "CNBC", "Trefis", "GuruFocus"],
-      "price_history_5d": [190.69, 196.33, 198.50, 208.26, 204.01]
+      "sector": "Technology - Cloud Data Platform",
+      "sources": ["CNBC", "Bloomberg", "Motley Fool", "SiliconAngle", "Yahoo Finance", "BNN Bloomberg"],
+      "price_history_5d": [165.55, 172.20, 173.50, 175.26, 239.20]
     },
     {
-      "ticker": "BBWI",
-      "company": "Bath & Body Works Inc.",
-      "discussion_driver": "Bath & Body Works surged ~17% on May 27, 2026 after Q1 2026 results exceeded guidance, with adjusted EPS of $0.32 beating the $0.29 consensus estimate and net sales of $1.38 billion topping forecasts. The company also reaffirmed full-year 2026 guidance of adjusted EPS of $2.40-$2.65. CFO Eva Boratto announced her departure effective June 12, adding a leadership transition overhang to the otherwise positive earnings reaction.",
+      "ticker": "DELL",
+      "company": "Dell Technologies Inc.",
+      "discussion_driver": "Dell reported blowout Q1 FY2027 results — revenue $43.8B (+88% YoY) and AI server revenue $16.1B (+757% YoY) — plus a $9.7B Pentagon software contract win. Building on the Dell Technologies World conference (May 18-21) which drove a 24% stock surge on AI partnership announcements with NVIDIA, Google, and SpaceX AI, the stock is trading near all-time highs. Mizuho raised its price target to $350 on May 28, and multiple analysts reaffirmed bullish ratings as Dell's AI backlog reached a record $43B+.",
       "bull_case": [
-        "Q1 2026 beat on both EPS ($0.32 vs $0.29 expected) and revenue ($1.38B vs $1.36B expected), demonstrating management's ability to execute against guidance and control costs even as top-line sales declined 3% YoY.",
-        "Extremely low valuation with a trailing P/E of ~6.7x and full-year EPS guidance of $3.00-$3.25 (GAAP), offering significant upside if the company stabilizes sales trends; analyst consensus price target of ~$21 implies further room above the post-earnings price."
+        "AI server revenue up 757% YoY with a record $43B+ backlog and FY2027 revenue guidance raised to $165-169B signals Dell is capturing dominant share of the enterprise AI infrastructure buildout",
+        "Pentagon $9.7B software contract diversifies revenue into government/defense AI, reducing commercial concentration risk while management expects the AI backlog to reach $50B in FY2027"
       ],
       "bear_case": [
-        "Net sales continue to decline (down 3% YoY in Q1, with full-year guidance calling for down 2.5% to 4.5%), signaling ongoing consumer demand weakness and category headwinds in personal care and fragrance specialty retail.",
-        "CFO Eva Boratto's departure on June 12 creates near-term leadership uncertainty during a critical strategic repositioning period, and the stock remains roughly 41% below its 52-week high, reflecting sustained investor skepticism about the long-term growth outlook."
+        "RSI of 78.2 signals the stock is technically overbought after surging 30%+ post-earnings, making a near-term consolidation or pullback highly probable",
+        "Hardware margins remain thin in the AI server segment; sustained NVIDIA GPU supply access and intensifying competition from Supermicro and HP Enterprise are ongoing structural risks that could compress profitability"
+      ],
+      "recommendation": "Buy",
+      "current_price": "$317.05",
+      "price_target": "$350.00 (+10.4%)",
+      "pe_ratio": "34.73",
+      "rsi": "78.2",
+      "vs_52wk_high": "-3.3% below high ($327.73)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - AI Infrastructure & Servers",
+      "sources": ["Bloomberg", "Seeking Alpha", "Investing.com", "CNBC", "GuruFocus", "Trefis", "Tikr"],
+      "price_history_5d": [290.00, 295.22, 305.07, 305.00, 317.05]
+    },
+    {
+      "ticker": "KSS",
+      "company": "Kohl's Corporation",
+      "discussion_driver": "Kohl's jumped ~20% on May 28 after Q1 results showed comparable sales of -1.1% — the best performance in four years (vs. -2.8% prior quarter) — and a per-share loss of $0.13 that beat the estimated -$0.19. CEO Ashley Buchanan's turnaround strategy of refreshed inventory, value-oriented private-label expansion, and Sephora shop-in-shop partnerships is showing early traction, sparking a relief rally even as the stock sits 43% below its 52-week high and analyst consensus remains Sell.",
+      "bull_case": [
+        "Best comparable sales performance in four years suggests the turnaround strategy is gaining traction, with the Sephora partnership and private-label refresh driving incremental traffic and basket size improvements",
+        "Stock trades at just ~6x trailing earnings near multi-year lows — significant upside potential exists if recovery momentum builds into the back-to-school and holiday seasons"
+      ],
+      "bear_case": [
+        "Analyst consensus remains Sell — department store retail faces persistent structural headwinds from e-commerce disruption and off-price competition (TJX, Burlington) that one quarter of improving comps cannot reverse",
+        "Comparable sales still negative (-1.1%) and Q1 posted a per-share loss; the company must demonstrate consistent profitability before the turnaround narrative is credible to the broader market"
       ],
       "recommendation": "Hold",
-      "current_price": "$19.98",
-      "price_target": "$21.21 (+6.2%)",
-      "pe_ratio": "6.72",
-      "rsi": "N/A",
-      "vs_52wk_high": "-41.2% below high ($33.96)",
+      "current_price": "$14.33",
+      "price_target": "$14.77 (+3.1%)",
+      "pe_ratio": "5.96",
+      "rsi": "50.92",
+      "vs_52wk_high": "-43.2% below high ($25.22)",
+      "analyst_rating": "Sell",
+      "sector": "Consumer Discretionary - Department Stores",
+      "sources": ["CNBC", "StockTitan", "BusinessWire", "MarketBeat", "StockAnalysis"],
+      "price_history_5d": [11.50, 11.70, 12.20, 12.93, 14.33]
+    },
+    {
+      "ticker": "DLTR",
+      "company": "Dollar Tree Inc.",
+      "discussion_driver": "Dollar Tree surged 17.6% on May 28 after Q1 earnings beat expectations and the company raised full-year guidance — a significant positive given the stock had plunged to the high $80s by May 20 amid consumer spending concerns (RSI fell to 28.1, deeply oversold). The beat signals Dollar Tree's discount shoppers are proving resilient even as PCE inflation hit a 3-year high of 3.8% YoY, validating the value-focused business model. Wall Street's average price target stands at $118.24.",
+      "bull_case": [
+        "Q1 earnings beat and raised full-year guidance demonstrate the value proposition is resonating with inflation-pressured consumers, with the stock staging a recovery from a deeply oversold technical condition",
+        "Ongoing Family Dollar divestiture streamlines the business toward higher-margin Dollar Tree stores, improving long-term profitability and simplifying capital allocation for management"
+      ],
+      "bear_case": [
+        "Even after the 17.6% surge, the analyst consensus target of $118.24 implies only 5.1% additional upside, and the stock remains 21% below its 52-week high — suggesting the post-earnings bounce may be largely complete",
+        "Tariff uncertainty and persistent inflation could dampen discretionary spending of Dollar Tree's core lower-income consumer base, while competition from Dollar General and Walmart neighborhood stores remains intense"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$112.51",
+      "price_target": "$118.24 (+5.1%)",
+      "pe_ratio": "15.42",
+      "rsi": "28.1",
+      "vs_52wk_high": "-21.0% below high ($142.40)",
       "analyst_rating": "Hold",
-      "sector": "Consumer Discretionary - Specialty Retail",
-      "sources": ["StockStory", "Yahoo Finance", "MarketBeat", "GuruFocus", "Benzinga"],
-      "price_history_5d": [16.28, 17.32, 17.76, 17.07, 19.98]
+      "sector": "Consumer Staples - Discount Variety Retail",
+      "sources": ["CNBC", "Bloomberg", "Motley Fool", "Investing.com", "StockAnalysis", "TimothySykes"],
+      "price_history_5d": [91.00, 94.98, 95.50, 95.87, 112.51]
+    },
+    {
+      "ticker": "BBY",
+      "company": "Best Buy Co. Inc.",
+      "discussion_driver": "Best Buy gained ~15% on May 28 after Q1 FY2026 earnings beat Wall Street estimates on both top and bottom lines, reversing a prolonged downtrend. The results suggest that AI-powered consumer electronics demand — AI-capable laptops, smart home devices, and gaming hardware — is beginning to drive a meaningful upgrade cycle. With a trailing P/E of 12.2x and 18 analysts holding a Buy consensus, Best Buy offers a modest value case in consumer discretionary, though analyst targets are only marginally above current prices.",
+      "bull_case": [
+        "AI-driven consumer electronics upgrade cycle is emerging as a multi-quarter tailwind — AI-capable PCs, appliances, and smart devices could fuel sustained comparable sales recovery that analysts are only beginning to incorporate into models",
+        "Trades at 12.2x trailing earnings with improving store metrics and a growing Totaltech membership program providing recurring revenue, offering relative value vs. specialty retail peers"
+      ],
+      "bear_case": [
+        "Analyst consensus target of $76.28 is only 3.7% above current price after the 15% surge — limited near-term upside as the market has quickly priced in the Q1 beat, and the stock remains 13.4% below its 52-week high",
+        "Long-term structural pressure from Amazon and direct-to-consumer brands persists; the consumer electronics replacement cycle is inherently slow, and any macro softening could quickly reverse the recovery momentum"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$73.57",
+      "price_target": "$76.28 (+3.7%)",
+      "pe_ratio": "12.20",
+      "rsi": "48.47",
+      "vs_52wk_high": "-13.4% below high ($84.99)",
+      "analyst_rating": "Buy",
+      "sector": "Consumer Discretionary - Consumer Electronics Retail",
+      "sources": ["CNBC", "Benzinga", "Motley Fool", "MarketBeat", "GuruFocus", "Schaeffer's Research"],
+      "price_history_5d": [60.00, 61.63, 63.00, 63.47, 73.57]
     }
   ]
 }
