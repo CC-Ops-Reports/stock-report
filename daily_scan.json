@@ -1,176 +1,174 @@
 {
-  "report_date": "2026-05-28",
+  "report_date": "2026-05-29",
   "market_tone": "Bullish",
   "key_themes": [
-    "Retail earnings sweep (Dollar Tree, Best Buy, Kohl's all beat estimates)",
-    "AI infrastructure boom drives Snowflake and Dell to record highs",
-    "Defense/drone sector surges on Trump admin domestic drone funding talks",
-    "PCE inflation hits 3.8% YoY (3-year high) but markets shrug it off to set new records",
-    "U.S.-Iran 60-day truce deal speculation pushes oil lower and equities higher"
+    "AI infrastructure demand surges as Dell blowout earnings lift entire tech sector",
+    "Blue Origin rocket explosion triggers sharp selloff across space stocks",
+    "Solar stocks record best month since 2013 amid tariff relief and rate dynamics"
   ],
   "sp500": {
-    "value": "7,563.63",
-    "change": "+0.58%"
+    "value": "7,580.06",
+    "change": "+0.22%"
   },
   "nasdaq": {
-    "value": "26,917.47",
-    "change": "+0.91%"
+    "value": "26,972.62",
+    "change": "+0.20%"
   },
   "stocks": [
     {
-      "ticker": "SNOW",
-      "company": "Snowflake",
-      "reason": "Surged ~37% after reporting Q1 earnings beat ($0.39 EPS vs est; $1.39B revenue) and announcing a $6B multi-year AWS partnership deal",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Bloomberg",
-        "Motley Fool"
-      ]
-    },
-    {
       "ticker": "DELL",
       "company": "Dell Technologies",
-      "reason": "Rose 4% during day, then soared 30% after-hours on blowout Q1 FY2027 earnings: $43.84B revenue (88% YoY), AI server revenue $16.1B (+757% YoY); also won $9.7B Pentagon software contract",
+      "reason": "Surged ~33% on blowout Q1 earnings: AI server revenue up 88%, EPS up 214%, $51B AI server backlog, raised full-year guidance",
       "category": "earnings",
-      "sources": [
-        "Bloomberg",
-        "Seeking Alpha",
-        "Investing.com",
-        "Invezz"
-      ]
-    },
-    {
-      "ticker": "KSS",
-      "company": "Kohl's",
-      "reason": "Jumped 20% after Q1 beat \u2014 best comparable sales performance in four years (comps -1.1% vs -2.8% prior quarter); loss of $0.13/share beat est of -$0.19",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "StockTitan",
-        "BusinessWire"
-      ]
-    },
-    {
-      "ticker": "DLTR",
-      "company": "Dollar Tree",
-      "reason": "Rose 19% after Q1 earnings beat estimates; among the biggest premarket movers of the day",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Bloomberg",
-        "Motley Fool"
-      ]
-    },
-    {
-      "ticker": "BBY",
-      "company": "Best Buy",
-      "reason": "Gained 18% after Q1 2026 earnings beat Wall Street estimates on both top and bottom lines",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Benzinga",
-        "Motley Fool"
-      ]
-    },
-    {
-      "ticker": "UMAC",
-      "company": "Unusual Machines",
-      "reason": "Surged 57% after reports that Trump administration is in talks to provide government funding to domestic drone manufacturers to expand production and cut costs",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "TradingKey",
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "RCAT",
-      "company": "Red Cat Holdings",
-      "reason": "Gained 36% on combination of Japan deal, Quaze acquisition, bullish analyst coverage, and sector lift from Trump admin drone funding news",
-      "category": "news",
       "sources": [
         "Yahoo Finance",
-        "ECIKS",
-        "StocksToTrade"
-      ]
-    },
-    {
-      "ticker": "ARM",
-      "company": "Arm Holdings",
-      "reason": "Jumped 14% to $344.94 after Mizuho analyst raised price target from $290 to $360, maintaining Outperform rating amid strong AI chip demand outlook",
-      "category": "upgrade",
-      "sources": [
         "Motley Fool",
         "CNBC"
       ]
     },
     {
-      "ticker": "HRL",
-      "company": "Hormel Foods",
-      "reason": "Popped ~13% after fiscal Q2 adjusted EPS of $0.40 beat analyst consensus of $0.35",
+      "ticker": "NTAP",
+      "company": "NetApp",
+      "reason": "Jumped ~17% after record FY2026 earnings beat; 12% revenue growth, strong public/hybrid cloud demand; Barclays and Wedbush raised price targets",
       "category": "earnings",
+      "sources": [
+        "GuruFocus",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "HPE",
+      "company": "Hewlett Packard Enterprise",
+      "reason": "Surged ~12.76% to $43.09 in sympathy with Dell's AI server results, sparking a broader AI infrastructure sector rally",
+      "category": "sector",
+      "sources": [
+        "Motley Fool",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "NOW",
+      "company": "ServiceNow",
+      "reason": "Jumped ~14% on renewed enterprise software enthusiasm following Dell earnings beat, signaling AI demand broadening beyond mega-caps",
+      "category": "sector",
+      "sources": [
+        "Yahoo Finance",
+        "Motley Fool"
+      ]
+    },
+    {
+      "ticker": "DDOG",
+      "company": "Datadog",
+      "reason": "Surged ~10% alongside ServiceNow as investors piled into AI-adjacent software; stock had already soared 31% earlier in May on its own blowout earnings",
+      "category": "sector",
       "sources": [
         "CNBC",
-        "Benzinga"
+        "Yahoo Finance"
       ]
     },
     {
-      "ticker": "NCNO",
-      "company": "nCino",
-      "reason": "Climbed 12-14% after beating Q1 profit estimates and raising full-year revenue guidance to $642M-$646M from prior $639M-$643M",
-      "category": "earnings",
-      "sources": [
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "A",
-      "company": "Agilent Technologies",
-      "reason": "Climbed ~12% after beating analysts' quarterly earnings forecasts; was also among after-hours movers on May 27",
-      "category": "earnings",
-      "sources": [
-        "Benzinga",
-        "TipRanks"
-      ]
-    },
-    {
-      "ticker": "MRVL",
-      "company": "Marvell Technology",
-      "reason": "Continued higher after May 27 after-hours earnings beat ($0.80 EPS vs $0.75 expected); AI data infrastructure demand cited as key driver",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Investing.com"
-      ]
-    },
-    {
-      "ticker": "PLAB",
-      "company": "Photronics",
-      "reason": "Plunged on weak Q2 FY2026 results \u2014 revenue $209.9M (down 0.5% YoY, down 6.7% QoQ) and soft forward outlook",
-      "category": "earnings",
+      "ticker": "ASTS",
+      "company": "AST SpaceMobile",
+      "reason": "Plunged ~18% \u2014 hardest hit space stock \u2014 after Blue Origin's New Glenn rocket exploded on Cape Canaveral launchpad Thursday night, raising satellite launch delay fears",
+      "category": "news",
       "sources": [
         "Bloomberg",
-        "SEC Filing"
+        "Seeking Alpha",
+        "247wallst"
       ]
     },
     {
-      "ticker": "DG",
-      "company": "Dollar General",
-      "reason": "Fell after Deutsche Bank downgraded to Hold from Buy, slashing price target to $110 from $170 on deteriorating consumer spending outlook",
+      "ticker": "RKLB",
+      "company": "Rocket Lab",
+      "reason": "Fell ~6% on Blue Origin explosion; sector had been riding a SpaceX IPO hype wave with the Procure Space ETF up 24% in the prior five days",
+      "category": "news",
+      "sources": [
+        "Yahoo Finance",
+        "Bloomberg"
+      ]
+    },
+    {
+      "ticker": "LUNR",
+      "company": "Intuitive Machines",
+      "reason": "Dropped 5%+ after Blue Origin New Glenn rocket exploded on launchpad, dragging down the entire space sector in a broad selloff",
+      "category": "news",
+      "sources": [
+        "247wallst",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "ENPH",
+      "company": "Enphase Energy",
+      "reason": "Led solar sector with 110%+ gain in May \u2014 best month for solar since 2013; driven by residential demand surge ahead of Section 25D tax credit expiration and favorable tariff ruling",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "OilPrice.com",
+        "247wallst"
+      ]
+    },
+    {
+      "ticker": "SEDG",
+      "company": "SolarEdge Technologies",
+      "reason": "Surged ~79% in May on solar sector momentum; Goldman Sachs raised price target; six consecutive quarters of gross margin expansion",
+      "category": "sector",
+      "sources": [
+        "247wallst",
+        "Yahoo Finance",
+        "OilPrice.com"
+      ]
+    },
+    {
+      "ticker": "CZR",
+      "company": "Caesars Entertainment",
+      "reason": "Entered $17.6B all-cash acquisition agreement with Fertitta Entertainment at $31/share; Susquehanna downgraded to Neutral; go-shop period runs through July 11",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "PR Newswire",
+        "Seeking Alpha"
+      ]
+    },
+    {
+      "ticker": "F",
+      "company": "Ford Motor",
+      "reason": "Rose ~6.4% on Q1 2026 earnings beat: EPS $0.66 vs $0.18 expected, revenue $43.3B (+6% YoY), raised full-year EBIT guidance to $8.5B-$10.5B on $1.3B tariff refund benefit",
+      "category": "earnings",
+      "sources": [
+        "TradingKey",
+        "CNBC",
+        "GuruFocus"
+      ]
+    },
+    {
+      "ticker": "GAP",
+      "company": "Gap Inc.",
+      "reason": "Tumbled ~14% after Q1 earnings miss: Old Navy disappointed, Athleta comp sales fell 11%, revenue $3.50B vs $3.52B expected; company cut full-year sales guidance",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "S",
+      "company": "SentinelOne",
+      "reason": "Conflicting analyst signals: BofA upgraded to Buy (PT $20) while Raymond James double-downgraded to Market Perform after Q1 revenue missed guidance midpoint and 8% workforce reduction announced",
+      "category": "downgrade",
+      "sources": [
+        "Benzinga",
+        "Seeking Alpha"
+      ]
+    },
+    {
+      "ticker": "BBY",
+      "company": "Best Buy",
+      "reason": "Downgraded by UBS to Neutral from Buy with $86 PT; analyst notes outsized 7% earnings growth is now more reflected in the stock price",
       "category": "downgrade",
       "sources": [
         "Yahoo Finance",
         "Benzinga"
-      ]
-    },
-    {
-      "ticker": "FDX",
-      "company": "FedEx",
-      "reason": "Gained on analyst upgrade highlighted in Wall Street's top calls of the day",
-      "category": "upgrade",
-      "sources": [
-        "Yahoo Finance"
       ]
     }
   ]
