@@ -1,137 +1,135 @@
 {
-  "report_date": "2026-05-28",
+  "report_date": "2026-05-29",
   "batch": 1,
   "market_tone": "Bullish",
   "key_themes": [
-    "Retail earnings sweep (Dollar Tree, Best Buy, Kohl's all beat estimates)",
-    "AI infrastructure boom drives Snowflake and Dell to record highs",
-    "Defense/drone sector surges on Trump admin domestic drone funding talks",
-    "PCE inflation hits 3.8% YoY (3-year high) but markets shrug it off to set new records",
-    "U.S.-Iran 60-day truce deal speculation pushes oil lower and equities higher"
+    "AI infrastructure demand surges as Dell blowout earnings lift entire tech sector",
+    "Blue Origin rocket explosion triggers sharp selloff across space stocks",
+    "Solar stocks record best month since 2013 amid tariff relief and rate dynamics"
   ],
   "sp500": {
-    "value": "7,563.63",
-    "change": "+0.58%"
+    "value": "7,580.06",
+    "change": "+0.22%"
   },
   "nasdaq": {
-    "value": "26,917.47",
-    "change": "+0.91%"
+    "value": "26,972.62",
+    "change": "+0.20%"
   },
   "stocks": [
     {
-      "ticker": "SNOW",
-      "company": "Snowflake Inc.",
-      "discussion_driver": "Snowflake surged 37% on May 28 after reporting blowout Q1 FY2027 earnings ($0.39 EPS vs. $0.32 estimated; $1.39B revenue, +33% YoY) alongside a $6B multi-year AWS partnership to accelerate global enterprise AI adoption. Product revenue grew 34% YoY — what CEO Sridhar Ramaswamy called an AI inflection point — and at least 25 analysts raised price targets, pushing the post-earnings median consensus to $275 from $230 pre-earnings.",
-      "bull_case": [
-        "$6B AWS spending commitment secures long-term revenue visibility and positions Snowflake as the enterprise AI data layer, with access to Graviton processors and AWS AI infrastructure deepening platform integration",
-        "Product revenue accelerating to 34% YoY growth as enterprises deploy AI/ML workloads on Snowflake; raised FY2027 product revenue guidance to $5.84B (+31%) with operating margin guidance lifted to 13.5%"
-      ],
-      "bear_case": [
-        "$6B AWS commitment is a major cost outflow (~$1.2B/year) that will pressure near-term free cash flow and extend the timeline to GAAP profitability, with the company still reporting negative GAAP EPS",
-        "Intense competition from Databricks, Google BigQuery, and Microsoft Fabric threatens market share in the rapidly evolving data cloud sector where hyperscalers are offering increasingly capable native alternatives"
-      ],
-      "recommendation": "Buy",
-      "current_price": "$239.20",
-      "price_target": "$275.00 (+15.0%)",
-      "pe_ratio": "N/A",
-      "rsi": "48.68",
-      "vs_52wk_high": "-14.8% below high ($280.67)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Technology - Cloud Data Platform",
-      "sources": ["CNBC", "Bloomberg", "Motley Fool", "SiliconAngle", "Yahoo Finance", "BNN Bloomberg"],
-      "price_history_5d": [165.55, 172.20, 173.50, 175.26, 239.20]
-    },
-    {
       "ticker": "DELL",
-      "company": "Dell Technologies Inc.",
-      "discussion_driver": "Dell reported blowout Q1 FY2027 results — revenue $43.8B (+88% YoY) and AI server revenue $16.1B (+757% YoY) — plus a $9.7B Pentagon software contract win. Building on the Dell Technologies World conference (May 18-21) which drove a 24% stock surge on AI partnership announcements with NVIDIA, Google, and SpaceX AI, the stock is trading near all-time highs. Mizuho raised its price target to $350 on May 28, and multiple analysts reaffirmed bullish ratings as Dell's AI backlog reached a record $43B+.",
+      "company": "Dell Technologies",
+      "discussion_driver": "Dell Technologies surged 32% — its best single day ever — after reporting blowout Q1 FY2027 earnings with AI-optimized server revenue up 757% YoY to $16.1 billion, EPS beating estimates by 64%, and revenue topping consensus by 23%. Management raised full-year guidance and disclosed a $51 billion AI server backlog, signaling extraordinary demand durability and triggering a wave of analyst target upgrades including BofA to $500 and Argus to $460.",
       "bull_case": [
-        "AI server revenue up 757% YoY with a record $43B+ backlog and FY2027 revenue guidance raised to $165-169B signals Dell is capturing dominant share of the enterprise AI infrastructure buildout",
-        "Pentagon $9.7B software contract diversifies revenue into government/defense AI, reducing commercial concentration risk while management expects the AI backlog to reach $50B in FY2027"
+        "AI server revenue surged 757% YoY to $16.1B in Q1 FY27 with a $51B backlog providing 12+ months of revenue visibility and locking in future growth",
+        "Post-earnings analyst upgrades are aggressive: BofA raised to $500, Argus to $460; the updated consensus of $441.59 still implies meaningful further upside from current levels"
       ],
       "bear_case": [
-        "RSI of 78.2 signals the stock is technically overbought after surging 30%+ post-earnings, making a near-term consolidation or pullback highly probable",
-        "Hardware margins remain thin in the AI server segment; sustained NVIDIA GPU supply access and intensifying competition from Supermicro and HP Enterprise are ongoing structural risks that could compress profitability"
+        "Stock surged 32% in a single session and RSI hit 78.2 (overbought), creating near-term consolidation risk after an extraordinary one-day move",
+        "AI infrastructure spending cycles can compress rapidly; thin hardware margins in the AI server segment and competition from Supermicro and HPE remain ongoing risks"
       ],
       "recommendation": "Buy",
-      "current_price": "$317.05",
-      "price_target": "$350.00 (+10.4%)",
-      "pe_ratio": "34.73",
+      "current_price": "$421.03",
+      "price_target": "$441.59 (+4.9%)",
+      "pe_ratio": "36.07",
       "rsi": "78.2",
-      "vs_52wk_high": "-3.3% below high ($327.73)",
+      "vs_52wk_high": "-3.8% below high ($437.50 intraday May 29)",
       "analyst_rating": "Buy",
-      "sector": "Technology - AI Infrastructure & Servers",
-      "sources": ["Bloomberg", "Seeking Alpha", "Investing.com", "CNBC", "GuruFocus", "Trefis", "Tikr"],
-      "price_history_5d": [290.00, 295.22, 305.07, 305.00, 317.05]
+      "sector": "Technology - Hardware & Networking",
+      "sources": ["CNBC", "Yahoo Finance", "S&P Global", "BofA Research", "Argus Research", "247wallst"],
+      "price_history_5d": [295.22, 305.07, 305.02, 317.05, 421.03]
     },
     {
-      "ticker": "KSS",
-      "company": "Kohl's Corporation",
-      "discussion_driver": "Kohl's jumped ~20% on May 28 after Q1 results showed comparable sales of -1.1% — the best performance in four years (vs. -2.8% prior quarter) — and a per-share loss of $0.13 that beat the estimated -$0.19. CEO Ashley Buchanan's turnaround strategy of refreshed inventory, value-oriented private-label expansion, and Sephora shop-in-shop partnerships is showing early traction, sparking a relief rally even as the stock sits 43% below its 52-week high and analyst consensus remains Sell.",
+      "ticker": "NTAP",
+      "company": "NetApp",
+      "discussion_driver": "NetApp jumped ~26% after reporting record FY2026 results: Q4 EPS of $2.43 beat $2.27 estimates, revenue of $1.95B topped the $1.87B consensus, and total FY2026 revenue hit a record $6.93B with 12% growth. Management issued bullish FY27 guidance of $7.325–$7.575B — well above FactSet consensus — and announced a new $1B share repurchase program, sparking rapid analyst target revisions with Barclays raising to $199.",
       "bull_case": [
-        "Best comparable sales performance in four years suggests the turnaround strategy is gaining traction, with the Sephora partnership and private-label refresh driving incremental traffic and basket size improvements",
-        "Stock trades at just ~6x trailing earnings near multi-year lows — significant upside potential exists if recovery momentum builds into the back-to-school and holiday seasons"
+        "Record FY2026 revenue of $6.93B with FY27 guidance above consensus; hybrid and public cloud segments growing 13% and 11% respectively with expanding operating margins of 29–30%",
+        "New $1B share repurchase program signals management confidence; Barclays raised price target to $199, implying 10.6% further upside from current levels"
       ],
       "bear_case": [
-        "Analyst consensus remains Sell — department store retail faces persistent structural headwinds from e-commerce disruption and off-price competition (TJX, Burlington) that one quarter of improving comps cannot reverse",
-        "Comparable sales still negative (-1.1%) and Q1 posted a per-share loss; the company must demonstrate consistent profitability before the turnaround narrative is credible to the broader market"
+        "Stock surged 26% in a single session and now trades above the average of recently revised analyst targets (~$162), suggesting limited near-term upside",
+        "Morgan Stanley maintains Underweight with a $137 price target, arguing the post-earnings rally already prices in the good news; Wells Fargo holds Equal-Weight at $180"
       ],
       "recommendation": "Hold",
-      "current_price": "$14.33",
-      "price_target": "$14.77 (+3.1%)",
-      "pe_ratio": "5.96",
-      "rsi": "50.92",
-      "vs_52wk_high": "-43.2% below high ($25.22)",
-      "analyst_rating": "Sell",
-      "sector": "Consumer Discretionary - Department Stores",
-      "sources": ["CNBC", "StockTitan", "BusinessWire", "MarketBeat", "StockAnalysis"],
-      "price_history_5d": [11.50, 11.70, 12.20, 12.93, 14.33]
-    },
-    {
-      "ticker": "DLTR",
-      "company": "Dollar Tree Inc.",
-      "discussion_driver": "Dollar Tree surged 17.6% on May 28 after Q1 earnings beat expectations and the company raised full-year guidance — a significant positive given the stock had plunged to the high $80s by May 20 amid consumer spending concerns (RSI fell to 28.1, deeply oversold). The beat signals Dollar Tree's discount shoppers are proving resilient even as PCE inflation hit a 3-year high of 3.8% YoY, validating the value-focused business model. Wall Street's average price target stands at $118.24.",
-      "bull_case": [
-        "Q1 earnings beat and raised full-year guidance demonstrate the value proposition is resonating with inflation-pressured consumers, with the stock staging a recovery from a deeply oversold technical condition",
-        "Ongoing Family Dollar divestiture streamlines the business toward higher-margin Dollar Tree stores, improving long-term profitability and simplifying capital allocation for management"
-      ],
-      "bear_case": [
-        "Even after the 17.6% surge, the analyst consensus target of $118.24 implies only 5.1% additional upside, and the stock remains 21% below its 52-week high — suggesting the post-earnings bounce may be largely complete",
-        "Tariff uncertainty and persistent inflation could dampen discretionary spending of Dollar Tree's core lower-income consumer base, while competition from Dollar General and Walmart neighborhood stores remains intense"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$112.51",
-      "price_target": "$118.24 (+5.1%)",
-      "pe_ratio": "15.42",
-      "rsi": "28.1",
-      "vs_52wk_high": "-21.0% below high ($142.40)",
+      "current_price": "$179.89",
+      "price_target": "$199.00 (+10.6%)",
+      "pe_ratio": "30.2",
+      "rsi": "72.60",
+      "vs_52wk_high": "-6.7% below high ($192.83 intraday May 29)",
       "analyst_rating": "Hold",
-      "sector": "Consumer Staples - Discount Variety Retail",
-      "sources": ["CNBC", "Bloomberg", "Motley Fool", "Investing.com", "StockAnalysis", "TimothySykes"],
-      "price_history_5d": [91.00, 94.98, 95.50, 95.87, 112.51]
+      "sector": "Technology - Storage & Data Management",
+      "sources": ["GuruFocus", "Yahoo Finance", "StockStory", "Barclays", "Morgan Stanley", "Wedbush"],
+      "price_history_5d": [139.36, 141.00, 142.74, 142.40, 179.89]
     },
     {
-      "ticker": "BBY",
-      "company": "Best Buy Co. Inc.",
-      "discussion_driver": "Best Buy gained ~15% on May 28 after Q1 FY2026 earnings beat Wall Street estimates on both top and bottom lines, reversing a prolonged downtrend. The results suggest that AI-powered consumer electronics demand — AI-capable laptops, smart home devices, and gaming hardware — is beginning to drive a meaningful upgrade cycle. With a trailing P/E of 12.2x and 18 analysts holding a Buy consensus, Best Buy offers a modest value case in consumer discretionary, though analyst targets are only marginally above current prices.",
+      "ticker": "HPE",
+      "company": "Hewlett Packard Enterprise",
+      "discussion_driver": "HPE surged 12.76% in sympathy with Dell's blowout AI server earnings, as investors extrapolated strong AI infrastructure demand to HPE's own server and networking business. The rally extended HPE's 12-week winning streak and pushed shares to a new 52-week high ahead of HPE's own upcoming earnings. Activist investor pressure and recent analyst upgrades from Morgan Stanley, JPMorgan, and Citi had been building momentum throughout May.",
       "bull_case": [
-        "AI-driven consumer electronics upgrade cycle is emerging as a multi-quarter tailwind — AI-capable PCs, appliances, and smart devices could fuel sustained comparable sales recovery that analysts are only beginning to incorporate into models",
-        "Trades at 12.2x trailing earnings with improving store metrics and a growing Totaltech membership program providing recurring revenue, offering relative value vs. specialty retail peers"
+        "Direct beneficiary of the AI server infrastructure buildout; post-Juniper acquisition AI networking synergies mirror Dell's demand trajectory, with activist investor pressure adding further strategic upside catalyst",
+        "Moderate Buy consensus from 8 buy ratings vs 4 hold and 0 sell; JPMorgan carries Overweight with a $37 target, citing strong positioning in enterprise AI networking"
       ],
       "bear_case": [
-        "Analyst consensus target of $76.28 is only 3.7% above current price after the 15% surge — limited near-term upside as the market has quickly priced in the Q1 beat, and the stock remains 13.4% below its 52-week high",
-        "Long-term structural pressure from Amazon and direct-to-consumer brands persists; the consumer electronics replacement cycle is inherently slow, and any macro softening could quickly reverse the recovery momentum"
+        "Stock at $43 has significantly outrun analyst price targets (recently revised consensus ~$35), meaning it is trading roughly 23% above the updated average target",
+        "The May 29 surge was sympathy-driven — HPE has not yet reported its own AI server results; upcoming earnings must validate the AI demand narrative to sustain current levels"
       ],
       "recommendation": "Hold",
-      "current_price": "$73.57",
-      "price_target": "$76.28 (+3.7%)",
-      "pe_ratio": "12.20",
-      "rsi": "48.47",
-      "vs_52wk_high": "-13.4% below high ($84.99)",
+      "current_price": "$43.06",
+      "price_target": "$35.00 (-18.7%)",
+      "pe_ratio": "27.4",
+      "rsi": "70.66",
+      "vs_52wk_high": "-5.1% below high ($45.39 intraday May 29)",
       "analyst_rating": "Buy",
-      "sector": "Consumer Discretionary - Consumer Electronics Retail",
-      "sources": ["CNBC", "Benzinga", "Motley Fool", "MarketBeat", "GuruFocus", "Schaeffer's Research"],
-      "price_history_5d": [60.00, 61.63, 63.00, 63.47, 73.57]
+      "sector": "Technology - Hardware & Networking",
+      "sources": ["Motley Fool", "Yahoo Finance", "TipRanks", "JPMorgan", "Citi", "Morgan Stanley"],
+      "price_history_5d": [34.63, 38.06, 37.20, 38.18, 43.06]
+    },
+    {
+      "ticker": "NOW",
+      "company": "ServiceNow",
+      "discussion_driver": "ServiceNow surged 14% on May 29 as Dell's blowout AI server results sparked a broader enterprise software re-rating, signaling that AI demand is broadening beyond hardware into workflow automation and platform software. Despite trading 41.7% below its 52-week high of $211.48, the move suggests a potential inflection point where AI infrastructure investment begins translating into accelerated enterprise software spend on ServiceNow's platform.",
+      "bull_case": [
+        "Analyst consensus price target of $143.30 implies 16.1% upside from current levels; 39 analysts hold a Buy consensus, with Bernstein's $236 high target reflecting strong long-term recovery potential",
+        "AI-driven workflow automation is a secular growth driver; neutral RSI at 57.65 signals the stock has not yet reached overbought territory, leaving room for further recovery"
+      ],
+      "bear_case": [
+        "Stock remains 41.7% below its 52-week high of $211.48 (July 2025), reflecting a deep and sustained drawdown with recovery still unproven over multiple quarters",
+        "Trailing P/E of 60.75x leaves little margin for error; competitive pressure from Salesforce, Microsoft, and SAP in enterprise workflow automation remains intense"
+      ],
+      "recommendation": "Speculative Buy",
+      "current_price": "$123.51",
+      "price_target": "$143.30 (+16.1%)",
+      "pe_ratio": "60.75",
+      "rsi": "57.65",
+      "vs_52wk_high": "-41.6% below high ($211.48)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - Enterprise Software",
+      "sources": ["Yahoo Finance", "Motley Fool", "GuruFocus", "Bernstein", "MarketBeat", "TradingKey"],
+      "price_history_5d": [102.13, 102.52, 102.12, 108.73, 123.51]
+    },
+    {
+      "ticker": "DDOG",
+      "company": "Datadog",
+      "discussion_driver": "Datadog surged ~10% on May 29 in the broader AI software rally following Dell's blowout, extending an already exceptional 66% YTD run and hitting a new 52-week high. The stock is now trading above the average analyst consensus price target of $202.97. Datadog's first-ever $1B quarterly revenue milestone — reported earlier in May — confirmed its critical role as the dominant AI infrastructure monitoring platform, with 32% revenue growth driven by AI workload observability demand.",
+      "bull_case": [
+        "First $1B quarterly revenue milestone achieved with 32% YoY growth; AI workload monitoring is a mandatory enterprise spend item that scales proportionally with AI deployment across cloud infrastructure",
+        "CIBC maintains Outperform and BTIG's $255 price target implies 7.3% upside; Datadog holds category-leader pricing power in cloud observability with strong net revenue retention"
+      ],
+      "bear_case": [
+        "Trailing P/E of 263x is extreme even for a high-growth software company; stock trades 17% above the average analyst consensus price target of $202.97, signaling near-term overvaluation",
+        "RSI at 82.88 indicates deeply overbought conditions after a 44.5% rally over just five sessions; near-term technical consolidation is highly probable"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$237.72",
+      "price_target": "$202.97 (-14.6%)",
+      "pe_ratio": "263.42",
+      "rsi": "82.88",
+      "vs_52wk_high": "-1.2% below high ($240.66 intraday May 29)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - Cloud Monitoring & Analytics",
+      "sources": ["CNBC", "Yahoo Finance", "BTIG", "Goldman Sachs", "Benzinga", "TradingKey"],
+      "price_history_5d": [224.77, 222.50, 221.81, 225.24, 237.72]
     }
   ]
 }
