@@ -1,173 +1,164 @@
 {
-  "report_date": "2026-05-29",
+  "report_date": "2026-06-01",
   "market_tone": "Bullish",
   "key_themes": [
-    "AI infrastructure demand surges as Dell blowout earnings lift entire tech sector",
-    "Blue Origin rocket explosion triggers sharp selloff across space stocks",
-    "Solar stocks record best month since 2013 amid tariff relief and rate dynamics"
+    "Nvidia RTX Spark AI PC chip launch reshapes competitive landscape, lifting tech stocks while pressuring Intel and Qualcomm",
+    "Dual mega-deal day: Berkshire Hathaway acquires Taylor Morrison for $8.5B and Barry Diller bids $18B for MGM Resorts",
+    "US-Iran military escalation reignites oil supply fears, crude surges 3% to $90+ despite record stock highs"
   ],
   "sp500": {
-    "value": "7,580.06",
-    "change": "+0.22%"
+    "value": "7,599.96",
+    "change": "+0.26%"
   },
   "nasdaq": {
-    "value": "26,972.62",
-    "change": "+0.20%"
+    "value": "27,086.81",
+    "change": "+0.42%"
   },
   "stocks": [
     {
-      "ticker": "DELL",
-      "company": "Dell Technologies",
-      "reason": "Surged ~33% on blowout Q1 earnings: AI server revenue up 88%, EPS up 214%, $51B AI server backlog, raised full-year guidance",
-      "category": "earnings",
-      "sources": [
-        "Yahoo Finance",
-        "Motley Fool",
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "NTAP",
-      "company": "NetApp",
-      "reason": "Jumped ~17% after record FY2026 earnings beat; 12% revenue growth, strong public/hybrid cloud demand; Barclays and Wedbush raised price targets",
-      "category": "earnings",
-      "sources": [
-        "GuruFocus",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "HPE",
-      "company": "Hewlett Packard Enterprise",
-      "reason": "Surged ~12.76% to $43.09 in sympathy with Dell's AI server results, sparking a broader AI infrastructure sector rally",
-      "category": "sector",
-      "sources": [
-        "Motley Fool",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "NOW",
-      "company": "ServiceNow",
-      "reason": "Jumped ~14% on renewed enterprise software enthusiasm following Dell earnings beat, signaling AI demand broadening beyond mega-caps",
-      "category": "sector",
-      "sources": [
-        "Yahoo Finance",
-        "Motley Fool"
-      ]
-    },
-    {
-      "ticker": "DDOG",
-      "company": "Datadog",
-      "reason": "Surged ~10% alongside ServiceNow as investors piled into AI-adjacent software; stock had already soared 31% earlier in May on its own blowout earnings",
-      "category": "sector",
+      "ticker": "NVDA",
+      "company": "Nvidia Corporation",
+      "reason": "Shares surged 6%+ after CEO Jensen Huang unveiled RTX Spark, a new AI-focused processor for personal computers, calling it \"as big a deal as the reinvention of the phone into a smartphone\"",
+      "category": "news",
       "sources": [
         "CNBC",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "ASTS",
-      "company": "AST SpaceMobile",
-      "reason": "Plunged ~18% \u2014 hardest hit space stock \u2014 after Blue Origin's New Glenn rocket exploded on Cape Canaveral launchpad Thursday night, raising satellite launch delay fears",
-      "category": "news",
-      "sources": [
-        "Bloomberg",
-        "Seeking Alpha",
-        "247wallst"
-      ]
-    },
-    {
-      "ticker": "RKLB",
-      "company": "Rocket Lab",
-      "reason": "Fell ~6% on Blue Origin explosion; sector had been riding a SpaceX IPO hype wave with the Procure Space ETF up 24% in the prior five days",
-      "category": "news",
-      "sources": [
         "Yahoo Finance",
         "Bloomberg"
       ]
     },
     {
-      "ticker": "LUNR",
-      "company": "Intuitive Machines",
-      "reason": "Dropped 5%+ after Blue Origin New Glenn rocket exploded on launchpad, dragging down the entire space sector in a broad selloff",
-      "category": "news",
+      "ticker": "HPE",
+      "company": "Hewlett Packard Enterprise",
+      "reason": "Stock jumped 27% intraday and surged ~37% after hours after Q2 earnings crushed estimates \u2014 the biggest beat since 2018 \u2014 and raised full-year guidance; trading volume was 287% above average",
+      "category": "earnings",
       "sources": [
-        "247wallst",
+        "CNBC",
+        "Motley Fool",
         "Yahoo Finance"
       ]
     },
     {
-      "ticker": "ENPH",
-      "company": "Enphase Energy",
-      "reason": "Led solar sector with 110%+ gain in May \u2014 best month for solar since 2013; driven by residential demand surge ahead of Section 25D tax credit expiration and favorable tariff ruling",
-      "category": "sector",
-      "sources": [
-        "CNBC",
-        "OilPrice.com",
-        "247wallst"
-      ]
-    },
-    {
-      "ticker": "SEDG",
-      "company": "SolarEdge Technologies",
-      "reason": "Surged ~79% in May on solar sector momentum; Goldman Sachs raised price target; six consecutive quarters of gross margin expansion",
-      "category": "sector",
-      "sources": [
-        "247wallst",
-        "Yahoo Finance",
-        "OilPrice.com"
-      ]
-    },
-    {
-      "ticker": "CZR",
-      "company": "Caesars Entertainment",
-      "reason": "Entered $17.6B all-cash acquisition agreement with Fertitta Entertainment at $31/share; Susquehanna downgraded to Neutral; go-shop period runs through July 11",
+      "ticker": "TMHC",
+      "company": "Taylor Morrison Home Corporation",
+      "reason": "Shares popped 22% after Berkshire Hathaway announced an $8.5 billion enterprise-value cash acquisition at $72.50/share (24% premium), the first major deal under new CEO Greg Abel",
       "category": "news",
       "sources": [
-        "CNBC",
-        "PR Newswire",
-        "Seeking Alpha"
-      ]
-    },
-    {
-      "ticker": "F",
-      "company": "Ford Motor",
-      "reason": "Rose ~6.4% on Q1 2026 earnings beat: EPS $0.66 vs $0.18 expected, revenue $43.3B (+6% YoY), raised full-year EBIT guidance to $8.5B-$10.5B on $1.3B tariff refund benefit",
-      "category": "earnings",
-      "sources": [
-        "TradingKey",
-        "CNBC",
+        "Yahoo Finance",
+        "Bloomberg",
         "GuruFocus"
       ]
     },
     {
-      "ticker": "GAP",
-      "company": "Gap Inc.",
-      "reason": "Tumbled ~14% after Q1 earnings miss: Old Navy disappointed, Athleta comp sales fell 11%, revenue $3.50B vs $3.52B expected; company cut full-year sales guidance",
-      "category": "earnings",
+      "ticker": "IBM",
+      "company": "International Business Machines",
+      "reason": "Stock jumped 8-13% after Barclays initiated coverage at Overweight with a $350 price target, calling IBM's quantum computing strategy a \"Nvidia-like\" playbook; Barclays bull case is $449",
+      "category": "upgrade",
+      "sources": [
+        "CNBC",
+        "Seeking Alpha",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "DELL",
+      "company": "Dell Technologies",
+      "reason": "Shares rose 10.7% as AI infrastructure demand accelerated alongside Nvidia's RTX Spark announcement, with Dell seen as a key AI PC ecosystem beneficiary",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "TheStreet",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "MGM",
+      "company": "MGM Resorts International",
+      "reason": "Barry Diller's People Inc. (formerly IAC) submitted a non-binding proposal to buy all remaining MGM shares for $48.30/share in cash, valuing MGM at ~$18 billion including debt",
+      "category": "news",
+      "sources": [
+        "Bloomberg",
+        "CBS News",
+        "Skift"
+      ]
+    },
+    {
+      "ticker": "MCHP",
+      "company": "Microchip Technology",
+      "reason": "Shares surged 12% after company disclosed its data center solutions unit generated $302.7M in 2025 revenue and projected 65% growth in 2026, signaling AI infrastructure demand",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Benzinga"
+      ]
+    },
+    {
+      "ticker": "HPQ",
+      "company": "HP Inc.",
+      "reason": "Stock rose 7-8% and saw highly unusual call options activity (bullish skew) after announcing a new AI-compatible PC product line in partnership with Nvidia's RTX Spark processor",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Barchart",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "QCOM",
+      "company": "Qualcomm",
+      "reason": "Shares tumbled 7% as Nvidia's RTX Spark AI PC chip announcement raised competitive concerns, threatening Qualcomm's Snapdragon X dominance in AI PC processors",
+      "category": "sector",
       "sources": [
         "CNBC",
         "Yahoo Finance"
       ]
     },
     {
-      "ticker": "S",
-      "company": "SentinelOne",
-      "reason": "Conflicting analyst signals: BofA upgraded to Buy (PT $20) while Raymond James double-downgraded to Market Perform after Q1 revenue missed guidance midpoint and 8% workforce reduction announced",
-      "category": "downgrade",
+      "ticker": "INTC",
+      "company": "Intel Corporation",
+      "reason": "Stock fell 6%+ as Nvidia's new RTX Spark PC processor directly threatens Intel's historically dominant PC chip market position",
+      "category": "sector",
       "sources": [
-        "Benzinga",
+        "CNBC",
+        "Bloomberg"
+      ]
+    },
+    {
+      "ticker": "GPRO",
+      "company": "GoPro Inc.",
+      "reason": "Shares plunged as much as 12% after the company filed an 8-K disclosing \"substantial doubt about the Company's ability to continue as a going concern,\" citing declining sales and rising memory costs",
+      "category": "news",
+      "sources": [
+        "SEC Filing",
+        "Digital Camera World"
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet Inc.",
+      "reason": "Filed a mixed shelf registration seeking to raise $80 billion in fresh capital, with proceeds earmarked for accelerated AI expansion including data centers and AI infrastructure",
+      "category": "news",
+      "sources": [
+        "Yahoo Finance",
+        "TheStreet"
+      ]
+    },
+    {
+      "ticker": "CRM",
+      "company": "Salesforce Inc.",
+      "reason": "Shares gained ~9.71% amid a broad AI software rally sparked by Nvidia's RTX Spark announcement, as investors rotated into enterprise software names expected to benefit from AI-enabled PC adoption",
+      "category": "sector",
+      "sources": [
+        "Yahoo Finance",
         "Seeking Alpha"
       ]
     },
     {
-      "ticker": "BBY",
-      "company": "Best Buy",
-      "reason": "Downgraded by UBS to Neutral from Buy with $86 PT; analyst notes outsized 7% earnings growth is now more reflected in the stock price",
-      "category": "downgrade",
+      "ticker": "NOW",
+      "company": "ServiceNow Inc.",
+      "reason": "Shares rose alongside enterprise software peers (Asana, Adobe) as Nvidia's RTX Spark AI PC chip announcement sparked optimism for software companies that serve AI-enabled enterprise workflows",
+      "category": "sector",
       "sources": [
-        "Yahoo Finance",
+        "CNBC",
         "Benzinga"
       ]
     }
