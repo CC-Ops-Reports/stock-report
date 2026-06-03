@@ -1,160 +1,174 @@
 {
-  "report_date": "2026-06-02",
-  "market_tone": "Bullish",
+  "report_date": "2026-06-03",
+  "market_tone": "Bearish",
   "key_themes": [
-    "AI semiconductor surge: Jensen Huang crowns Marvell next trillion-dollar chip company at Computex Week",
-    "Software earnings caution: Salesforce and Intuit sell off on cautious guidance and AI competitive threats",
-    "AI infrastructure capital race: Alphabet announces unprecedented $80B stock offering to fund AI buildout"
+    "AI chip earnings blowout \u2014 Broadcom Q2 revenue +48% YoY; AI semiconductor revenue +143%; CrowdStrike beats and announces 4-for-1 stock split",
+    "Oil surge on US-Iran ceasefire tensions \u2014 WTI crude rises 2.5% to ~$96, energy stocks rally while broader market sells off",
+    "Private equity liquidity fears \u2014 Partners Group caps withdrawals from $8.6B evergreen fund, triggering sector-wide selloff in Blackstone, KKR, Ares, Carlyle"
   ],
   "sp500": {
-    "value": "7,609.78",
-    "change": "+0.13%"
+    "value": "7,553.41",
+    "change": "-0.74%"
   },
   "nasdaq": {
-    "value": "27,093.00",
-    "change": "+0.01%"
+    "value": "26,852.77",
+    "change": "-0.89%"
   },
   "stocks": [
     {
+      "ticker": "AVGO",
+      "company": "Broadcom Inc.",
+      "reason": "Q2 FY2026 earnings after hours: revenue $22.2B (+48% YoY), AI semiconductor revenue up 143% to $10.8B, Q3 guidance of $29.4B (up 84%) \u2014 massive beat across the board",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "StockTitan",
+        "Broadcom IR"
+      ]
+    },
+    {
+      "ticker": "CRWD",
+      "company": "CrowdStrike Holdings",
+      "reason": "Q1 FY2027 earnings: EPS $1.10 vs $0.88 expected (+25% beat), record net new ARR of $256M (+32% YoY), and announced 4-for-1 stock split effective June 25",
+      "category": "earnings",
+      "sources": [
+        "SEC 8-K",
+        "CNBC",
+        "TheStreet"
+      ]
+    },
+    {
       "ticker": "MRVL",
       "company": "Marvell Technology",
-      "reason": "Nvidia CEO Jensen Huang called Marvell the next trillion-dollar company at Computex Week in Taipei, citing its AI data center networking and optical interconnect solutions; stock surged ~32% in its biggest single-day gain ever",
+      "reason": "Up ~5-6% continuing yesterday's historic +32% single-day surge; AI chip momentum extends as semiconductor sector leads S&P 500",
+      "category": "sector",
+      "sources": [
+        "TheStreet",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "GME",
+      "company": "GameStop Corp.",
+      "reason": "Q1 revenue of $835.3M (+14% YoY) beat estimates; board approved $2B share repurchase authorization; stock surged ~6%",
+      "category": "earnings",
+      "sources": [
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "MDT",
+      "company": "Medtronic plc",
+      "reason": "Q4 FY2026 earnings: revenue $9.8B (+9.9%), highest annual revenue growth in a decade; cardiac ablation solutions up 78% globally; stock up ~5%",
+      "category": "earnings",
+      "sources": [
+        "Medtronic IR",
+        "Seeking Alpha",
+        "Investing.com"
+      ]
+    },
+    {
+      "ticker": "XOS",
+      "company": "Xos Inc.",
+      "reason": "Surged 172%+ after launching 2.5MWh Power Hub \u2014 a grid-independent energy storage system for AI data centers; CEO calls it a \"deployable power plant\"",
+      "category": "news",
+      "sources": [
+        "Benzinga",
+        "StockTitan",
+        "Investing.com"
+      ]
+    },
+    {
+      "ticker": "XOM",
+      "company": "Exxon Mobil Corp.",
+      "reason": "Up ~3% as WTI crude surged 2.5% to ~$96 on fresh US-Iran tensions and warnings from IEA about potential Strait of Hormuz disruption",
       "category": "news",
       "sources": [
         "CNBC",
-        "Bloomberg",
-        "GuruFocus"
-      ]
-    },
-    {
-      "ticker": "HPE",
-      "company": "Hewlett Packard Enterprise",
-      "reason": "Q2 FY2026 earnings beat Wall Street estimates; company raised full-year earnings and revenue guidance, citing strong AI server demand; stock surged ~25% premarket",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Bloomberg",
-        "MarketBeat"
-      ]
-    },
-    {
-      "ticker": "VSCO",
-      "company": "Victoria's Secret",
-      "reason": "Beat quarterly earnings and raised full-year sales guidance to $7.03B-$7.13B from prior $6.85B-$6.95B; shares surged ~44% intraday on profit recovery and improved outlook",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Bloomberg",
+        "Motley Fool",
         "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "MPC",
+      "company": "Marathon Petroleum Corp.",
+      "reason": "Up ~3% alongside broader energy sector rally driven by surging oil prices amid escalating US-Iran geopolitical tensions",
+      "category": "sector",
+      "sources": [
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "BX",
+      "company": "Blackstone Inc.",
+      "reason": "Down ~4% after Switzerland's Partners Group capped withdrawals from its $8.6B Global Value SICAV evergreen PE fund (redemptions hit 9.8% of NAV), stoking fresh liquidity fears across private equity",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Sherwood News",
+        "InvezZ"
+      ]
+    },
+    {
+      "ticker": "KKR",
+      "company": "KKR & Co. Inc.",
+      "reason": "Down ~5% on same Partners Group private equity contagion; investors fear broader private market valuation write-downs and liquidity crunch",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "InvestmentNews"
       ]
     },
     {
       "ticker": "PANW",
       "company": "Palo Alto Networks",
-      "reason": "Reported Q3 FY2026 earnings after close: EPS of $0.85 beat $0.81 estimate; CEO cited accelerating AI security bookings; stock rose ~10% in after-hours trading",
+      "reason": "Down ~4-6% despite beating Q3 FY2026 earnings (EPS $0.85 vs $0.81, revenue $3.0B +31% YoY); investors spooked by high acquisition costs and persistent GAAP net loss of $177M",
       "category": "earnings",
       "sources": [
-        "TheStreet",
-        "PRNewswire",
-        "Quiver Quantitative"
+        "Motley Fool",
+        "TradingKey",
+        "GuruFocus"
       ]
     },
     {
-      "ticker": "INTU",
-      "company": "Intuit",
-      "reason": "Goldman Sachs double-downgraded to Sell from Neutral, slashing price target from $519 to $276, citing mounting AI competition (Perplexity Tax, Chime Tax) threatening TurboTax and long-term growth; shares fell ~6.86%",
-      "category": "downgrade",
+      "ticker": "RGTI",
+      "company": "Rigetti Computing",
+      "reason": "Down ~10% in a sector-wide quantum computing selloff; IonQ fell ~4% and D-Wave dropped ~7% as investors rotated out of speculative quantum plays",
+      "category": "sector",
       "sources": [
-        "Goldman Sachs",
-        "GuruFocus",
-        "Benzinga",
-        "Seeking Alpha"
-      ]
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet",
-      "reason": "Announced $80B equity offering \u2014 first stock issuance since 2005 \u2014 to fund AI infrastructure including $10B Berkshire Hathaway investment; dilution fears drove shares down ~3.5% as company doubled 2026 capex guidance to $180-190B",
-      "category": "news",
-      "sources": [
-        "GuruFocus",
-        "Schaeffer's",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "CRM",
-      "company": "Salesforce",
-      "reason": "Beat quarterly earnings but issued cautious forward guidance, underperforming the broader tech rally; shares fell ~4.5% as CEO defended the SaaS model against AI disruption fears; stock is down ~30% YTD",
-      "category": "earnings",
-      "sources": [
-        "Yahoo Finance",
-        "StockStory",
-        "CoinCentral"
-      ]
-    },
-    {
-      "ticker": "META",
-      "company": "Meta Platforms",
-      "reason": "Arete upgraded to Buy from Neutral, raising price target to $735 from $614, citing flexible cost structure, subscription growth momentum, and internal AI progress ahead of peers",
-      "category": "upgrade",
-      "sources": [
-        "Yahoo Finance",
-        "TipRanks",
-        "247WallSt"
-      ]
-    },
-    {
-      "ticker": "OKTA",
-      "company": "Okta",
-      "reason": "Mizuho downgraded to Neutral from Outperform; while acknowledging Okta is positioned for agentic AI, analysts cited timing and magnitude of AI security uplift as \"big question marks\"; price target raised to $125",
-      "category": "downgrade",
-      "sources": [
-        "Yahoo Finance",
-        "TipRanks"
-      ]
-    },
-    {
-      "ticker": "GNRC",
-      "company": "Generac Holdings",
-      "reason": "Secured a global supply agreement with a leading hyperscale data center operator to provide backup power generators; shares jumped ~5.9% to a new 52-week high; stock is up 101% YTD on data center power demand",
-      "category": "news",
-      "sources": [
-        "Yahoo Finance",
-        "Investing.com",
         "CNBC"
       ]
     },
     {
-      "ticker": "CRWV",
-      "company": "CoreWeave",
-      "reason": "BNP Paribas initiated coverage with Outperform and $192 price target, calling CoreWeave one of the most \"strategically important\" companies in the AI infrastructure ecosystem and a key GPU cloud beneficiary",
-      "category": "upgrade",
-      "sources": [
-        "247WallSt",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "TRIP",
-      "company": "TripAdvisor",
-      "reason": "Wedbush upgraded to Outperform from Neutral, raising price target to $19 from $12, citing governance transformation, Starboard Value activist involvement, and an emerging AI travel-search narrative as underappreciated catalysts",
-      "category": "upgrade",
+      "ticker": "CMG",
+      "company": "Chipotle Mexican Grill",
+      "reason": "Morgan Stanley downgraded to Equal Weight from Overweight; price target cut to $37 from $49; analyst cites growth normalization, rising costs, and multiple compression to 28x from 35x 2027 earnings",
+      "category": "downgrade",
       "sources": [
         "Yahoo Finance",
-        "TipRanks",
+        "Investing.com",
         "247WallSt"
       ]
     },
     {
-      "ticker": "FULC",
-      "company": "Fulcrum Therapeutics",
-      "reason": "Piper Sandler double-downgraded to Underweight from Overweight, slashing price target to $3 from $23, after company discontinued lead drug pociredir for sickle cell disease following FDA concerns about secondary hematologic malignancies (rare cancers)",
-      "category": "downgrade",
+      "ticker": "YUM",
+      "company": "Yum! Brands Inc.",
+      "reason": "Morgan Stanley upgraded to Overweight from Equal Weight; analyst prefers Yum over Chipotle for its value positioning, Taco Bell growth, and technology-driven upside in a cautious consumer environment",
+      "category": "upgrade",
       "sources": [
         "Yahoo Finance",
-        "TipRanks",
-        "Bloomberg"
+        "247WallSt"
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple Inc.",
+      "reason": "Goldman Sachs reiterated Buy (PT $340) ahead of WWDC June 8-12; Siri 2.0 with hybrid on-device/Google Gemini AI model expected as headline announcement; stock near all-time highs",
+      "category": "news",
+      "sources": [
+        "Goldman Sachs via CNBC",
+        "Motley Fool",
+        "Blockonomi"
       ]
     }
   ]
