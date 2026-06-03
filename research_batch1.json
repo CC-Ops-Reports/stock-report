@@ -1,135 +1,135 @@
 {
-  "report_date": "2026-06-01",
+  "report_date": "2026-06-02",
   "batch": 1,
   "market_tone": "Bullish",
   "key_themes": [
-    "Nvidia RTX Spark AI PC chip launch reshapes competitive landscape, lifting tech stocks while pressuring Intel and Qualcomm",
-    "Dual mega-deal day: Berkshire Hathaway acquires Taylor Morrison for $8.5B and Barry Diller bids $18B for MGM Resorts",
-    "US-Iran military escalation reignites oil supply fears, crude surges 3% to $90+ despite record stock highs"
+    "AI semiconductor surge: Jensen Huang crowns Marvell next trillion-dollar chip company at Computex Week",
+    "Software earnings caution: Salesforce and Intuit sell off on cautious guidance and AI competitive threats",
+    "AI infrastructure capital race: Alphabet announces unprecedented $80B stock offering to fund AI buildout"
   ],
   "sp500": {
-    "value": "7,599.96",
-    "change": "+0.26%"
+    "value": "7,609.78",
+    "change": "+0.13%"
   },
   "nasdaq": {
-    "value": "27,086.81",
-    "change": "+0.42%"
+    "value": "27,093.00",
+    "change": "+0.01%"
   },
   "stocks": [
     {
-      "ticker": "NVDA",
-      "company": "Nvidia Corporation",
-      "discussion_driver": "CEO Jensen Huang unveiled RTX Spark — a new AI-focused processor for personal computers — at Computex 2026, calling it 'as big a deal as the reinvention of the phone into a smartphone.' The chip is designed to run local AI workloads on consumer PCs and sent shares surging 6%+ on June 1. The launch ripples across the entire AI PC supply chain, boosting partners HP Inc. and Dell Technologies while threatening Qualcomm's Snapdragon X AI PC dominance.",
+      "ticker": "MRVL",
+      "company": "Marvell Technology",
+      "discussion_driver": "NVIDIA CEO Jensen Huang publicly endorsed Marvell at Computex 2026 in Taipei as the next AI chip company to reach a $1 trillion market cap, citing its custom AI silicon and optical interconnect capabilities. This catalyst drove MRVL's largest single-day gain ever (+32.5%), pushing the stock well past all pre-event analyst price targets. A concurrent $2 billion Nvidia partnership announcement further validates the bull thesis.",
       "bull_case": [
-        "RTX Spark AI PC processor opens a transformative new consumer AI market on top of Nvidia's already dominant ~80% data center GPU market share, adding a massive second growth vector to the business",
-        "61-analyst Strong Buy consensus with an average price target of $296.81 implies 32% upside; Nvidia's platform lock-in across hardware, CUDA software, and ecosystem partnerships remains nearly unassailable"
+        "Jensen Huang's public endorsement as 'next trillion-dollar company' at Computex 2026, backed by a $2B Nvidia partnership, validates MRVL's custom AI silicon and optical interconnect roadmap at the highest level",
+        "Consecutive earnings beats with AI data center networking revenue growing exponentially; fiscal Q1 FY2027 EPS of $0.80 beat estimates; MRVL is now a critical supplier to hyperscaler AI buildouts"
       ],
       "bear_case": [
-        "Stock has fallen ~10% from its May 14 all-time high of $235.74 as the market digests stretched 32x+ trailing PE valuation and RSI has cooled to a neutral 49.4 — momentum fatigue is a near-term risk",
-        "Rising competition from AMD (MI400 series), Intel (Panther Lake), and custom AI silicon from hyperscalers (Google TPUs, Amazon Trainium) could begin eroding market share over the next 12-18 months"
+        "Valuation extremely stretched post-surge — trailing PE ~100x at current price; stock has surged 158% YTD before today's additional 32.5% gain, leaving limited margin of safety at these levels",
+        "Revenue concentration risk in AI/data center: a slowdown in hyperscaler capex spending or loss of key ASIC partnerships would directly and severely impact growth trajectory"
       ],
-      "recommendation": "Buy",
-      "current_price": "$224.42",
-      "price_target": "$296.81 (+32.3%)",
-      "pe_ratio": "32.34",
-      "rsi": "49.41",
-      "vs_52wk_high": "-5.1% below high ($236.54)",
+      "recommendation": "Speculative Buy",
+      "current_price": "$290.79",
+      "price_target": "$321.00 (+10.4%)",
+      "pe_ratio": "75.41",
+      "rsi": "65.87",
+      "vs_52wk_high": "at new 52-week high (prior high: $225.14, +29.2% above)",
       "analyst_rating": "Strong Buy",
       "sector": "Technology - Semiconductors",
-      "sources": ["CNBC", "Bloomberg", "Yahoo Finance", "MarketBeat", "Investing.com"],
-      "price_history_5d": [218.50, 216.10, 214.25, 211.14, 224.42]
+      "sources": ["CNBC", "Bloomberg", "GuruFocus"],
+      "price_history_5d": [200.13, 219.43, 290.79]
     },
     {
       "ticker": "HPE",
       "company": "Hewlett Packard Enterprise",
-      "discussion_driver": "HPE delivered a blockbuster Q2 2026 earnings report on June 1 with EPS of $0.79 vs. $0.54 consensus — the biggest beat since 2018 — and raised its full-year guidance, citing explosive AI server demand. The stock surged 27%+ intraday and another ~37% in extended trading, pushing through its prior 52-week high of $44.58. All pre-earnings analyst price targets ($27-$39 range) are now stale; post-earnings target revisions are expected to be sharply higher.",
+      "discussion_driver": "HPE delivered its strongest quarterly results ever on June 1 after market close, with Q2 FY2026 EPS of $0.79 crushing the $0.53 estimate (49% beat) and revenue of $10.7 billion far exceeding the $9.78B consensus. The company raised full-year EPS guidance by roughly 40%, triggering the best single-day stock performance in HPE's history (+19%). Six major Wall Street banks issued significant price target upgrades, with new targets ranging from $62 (Bernstein) to $80 (BofA).",
       "bull_case": [
-        "Q2 2026 EPS of $0.79 crushed the $0.54 consensus by 46% — the biggest beat since 2018 — with management raising full-year guidance as AI server demand accelerates well beyond prior Street expectations",
-        "With trading volume 287% above average and an extended-hours surge toward $62, institutional conviction is running high; HPE is positioned as a direct infrastructure beneficiary alongside Dell in the AI server buildout"
+        "Blowout Q2 FY2026 earnings: $0.79 EPS vs $0.53 estimate (49% beat); raised FY2026 EPS guidance to $3.35-$3.45 from prior $2.30-$2.50, representing a ~40% upward guidance revision driven by AI server demand",
+        "AI server backlog at record levels; management raised revenue growth forecast to 29-33% for FY2026 as hyperscaler AI infrastructure spending accelerates well beyond prior expectations"
       ],
       "bear_case": [
-        "RSI at 83.14 signals extreme overbought conditions; the stock is now trading 20%+ above all pre-earnings analyst price targets and the rapid re-rating may have pulled forward near-term gains",
-        "Competition from Dell's superior AI server scale and custom AI hardware from hyperscalers could pressure HPE's server margins as the AI infrastructure market matures and commoditizes"
+        "Stock up 19% in a single session after already rising significantly into earnings; near-term profit-taking risk as investors digest the magnitude of the move at a new all-time high",
+        "Hardware server margins face structural pressure; HPE is dependent on NVIDIA and AMD chip allocation and does not control its own AI silicon supply chain"
       ],
       "recommendation": "Buy",
-      "current_price": "$47.00",
-      "price_target": "$39.00 (-17.0%, pre-earnings Citigroup target; under revision post-beat)",
-      "pe_ratio": "27.4",
-      "rsi": "83.14",
-      "vs_52wk_high": "At new 52-week high ($47.00)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - IT Infrastructure",
-      "sources": ["CNBC", "Benzinga", "Yahoo Finance", "Seeking Alpha", "Quiver Quantitative"],
-      "price_history_5d": [39.50, 40.80, 42.10, 43.04, 47.00]
+      "current_price": "$55.93",
+      "price_target": "$70.83 (+26.6%)",
+      "pe_ratio": "14.47",
+      "rsi": "N/A",
+      "vs_52wk_high": "at new 52-week high (prior high: $47.97)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Technology - Enterprise Infrastructure",
+      "sources": ["CNBC", "Bloomberg", "MarketBeat"],
+      "price_history_5d": [43.04, 47.00, 55.93]
     },
     {
-      "ticker": "TMHC",
-      "company": "Taylor Morrison Home Corporation",
-      "discussion_driver": "Berkshire Hathaway announced a $72.50/share all-cash acquisition of Taylor Morrison for a total enterprise value of $8.5 billion — the first major deal under new CEO Greg Abel. The offer represents a 24% premium to the May 29 closing price of $58.50. Shares surged ~22% to converge near the deal price. RBC maintained Outperform at $72.50, Truist kept Buy at $80, while Citizens downgraded to Hold on limited upside at the deal price.",
+      "ticker": "VSCO",
+      "company": "Victoria's Secret & Co.",
+      "discussion_driver": "Victoria's Secret posted a stunning Q1 2026 earnings beat — adjusted EPS of $0.60 vs $0.30 expected — and swung to a $47.7M profit while raising full-year revenue guidance to $7.03-$7.13B. The company simultaneously rebranded under the new ticker VSXY, driving a 44%+ intraday surge that set a new 52-week high. Previous analyst price targets of ~$65 are now well below the current price; investors should await revised consensus estimates before assessing further upside.",
       "bull_case": [
-        "Berkshire's $72.50/share acquisition price creates a near-certain return of ~1.3% from current levels upon deal close expected in H2 2026, with Berkshire's financial strength removing execution risk",
-        "The deal signals that Greg Abel and Berkshire view the U.S. housing market as having bottomed, validating the homebuilder sector thesis and potentially lifting peer stocks (MDC, NVR, PHM)"
+        "Q1 2026 results show a complete operational turnaround: $0.60 adjusted EPS vs $0.30 expected (100% beat), swung to $47.7M profit, and full-year revenue guidance raised to $7.03-$7.13B from $6.85-$6.95B",
+        "Starboard Value activism and new management are delivering measurable results; VSXY rebrand marks a strategic fresh start with operating income guidance raised by $100M+ for the full year"
       ],
       "bear_case": [
-        "With the stock at ~$71.60 vs. the $72.50 deal price, organic upside is capped at ~$0.90/share (1.3%); risk-reward is unfavorable for new buyers who bear deal failure risk for minimal potential gain",
-        "Deal failure risk (regulatory, financing, or board-level issues) could send shares back to $58.50 pre-announcement levels — an 18% loss from current prices — making this a binary risk-arb trade"
+        "Stock surged ~44% on earnings day with previous analyst consensus of $65.78 now ~16% below current price; further gains require rapid analyst upward revisions that have not yet occurred",
+        "Consumer discretionary sector faces macro headwinds; tariff uncertainty and potential consumer spending softness in H2 2026 could pressure apparel demand and limit the recovery's durability"
       ],
       "recommendation": "Hold",
-      "current_price": "$71.60",
-      "price_target": "$72.50 (+1.3%, acquisition price)",
-      "pe_ratio": "8.58",
+      "current_price": "$78.19",
+      "price_target": "$65.78 (pre-earnings consensus; revisions pending)",
+      "pe_ratio": "28.13",
       "rsi": "N/A",
-      "vs_52wk_high": "-0.8% below prior high ($72.15)",
+      "vs_52wk_high": "at new 52-week high (prior high: $66.89)",
+      "analyst_rating": "Buy",
+      "sector": "Consumer Discretionary - Specialty Retail",
+      "sources": ["CNBC", "Bloomberg", "Yahoo Finance"],
+      "price_history_5d": [54.30, 78.19]
+    },
+    {
+      "ticker": "PANW",
+      "company": "Palo Alto Networks",
+      "discussion_driver": "Palo Alto Networks delivered strong Q3 FY2026 results with EPS of $0.85 exceeding the $0.81 estimate, and CEO Nikesh Arora highlighted accelerating AI security bookings as enterprises prioritize AI-native threat protection. The earnings beat prompted an ~10% after-hours move, and the stock tested a new 52-week high of $302.95 intraday on June 2 before partially retracing to close at $297.18. With raised FY2026 guidance and an expanding AI security platform, analysts are revising price targets upward.",
+      "bull_case": [
+        "Q3 FY2026 EPS of $0.85 beat $0.81 estimate with accelerating AI security bookings; raised FY2026 guidance signals that the platform consolidation strategy is gaining meaningful enterprise traction",
+        "AI-native threat detection capabilities create a durable competitive moat as cyberattacks grow more sophisticated; platform approach is winning large enterprise consolidation deals away from point-solution vendors"
+      ],
+      "bear_case": [
+        "Trailing PE of 142.57x demands perfect execution; any guidance miss or macro-driven IT spending slowdown could trigger a severe derating given the extreme premium valuation",
+        "Microsoft Security, CrowdStrike, and SentinelOne provide intense competition; customers may resist full vendor consolidation onto a single platform, limiting platformization revenue upside"
+      ],
+      "recommendation": "Buy",
+      "current_price": "$297.18",
+      "price_target": "$300.00 (+0.9%)",
+      "pe_ratio": "142.57",
+      "rsi": "N/A",
+      "vs_52wk_high": "-1.9% below high ($302.95)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Technology - Cybersecurity",
+      "sources": ["TheStreet", "PRNewswire", "Quiver Quantitative"],
+      "price_history_5d": [300.48, 297.18]
+    },
+    {
+      "ticker": "INTU",
+      "company": "Intuit",
+      "discussion_driver": "Goldman Sachs issued a rare double-downgrade on Intuit from Neutral to Sell on June 2, slashing its price target from $519 to $276, arguing that AI-native tax preparation tools (Perplexity Tax, Chime Tax) pose an existential threat to TurboTax's dominant market position. This piled onto a brutal May 21 earnings miss that sent shares down 20%. Now trading at -59.5% below its 52-week high and near its 52-week low of $300.50, Intuit is deeply out of favor with growth investors.",
+      "bull_case": [
+        "Stock near multi-year lows at only 21x trailing earnings; if AI tax competition proves slower to scale than feared, the current price offers significant upside to the broader analyst consensus target of $495",
+        "QuickBooks SMB accounting business remains dominant and less directly threatened by AI tax startups; Intuit is investing heavily in its own AI capabilities (Intuit Assist) to defend its ecosystem"
+      ],
+      "bear_case": [
+        "Goldman Sachs double-downgraded to Sell with $276 target, citing existential AI threat from Perplexity Tax and Chime Tax to TurboTax's core revenue stream; at $329 the stock still has 16%+ downside if Goldman is right",
+        "Q3 FY2026 earnings miss in May already revealed early competitive pressure signals; management credibility is impaired after successive guidance cuts and a 59.5% drawdown from 52-week highs"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$329.48",
+      "price_target": "$495.33 (+50.4%)",
+      "pe_ratio": "21.43",
+      "rsi": "N/A",
+      "vs_52wk_high": "-59.5% below high ($813.70)",
       "analyst_rating": "Hold",
-      "sector": "Consumer Discretionary - Homebuilding",
-      "sources": ["Bloomberg", "Yahoo Finance", "GuruFocus", "Investing.com", "SEC Filing"],
-      "price_history_5d": [57.40, 57.65, 58.00, 58.50, 71.60]
-    },
-    {
-      "ticker": "IBM",
-      "company": "International Business Machines",
-      "discussion_driver": "Barclays initiated IBM coverage on June 1 with an Overweight rating and a $350 price target — bull case $449 — calling IBM's quantum strategy a replay of Nvidia's AI infrastructure playbook. The upgrade, combined with a resurfaced Trump video praising IBM's CEO, sent shares up 7-13% to ~$318. IBM has committed $10B to quantum computing by 2029 and received $2B in U.S. government quantum grants, with the stock now within 2% of its 52-week high of $324.90.",
-      "bull_case": [
-        "Barclays' 'Nvidia-like' quantum thesis: IBM's $10B investment targeting a fault-tolerant commercial quantum system by 2029 positions it as the dominant quantum infrastructure platform, analogous to Nvidia's GPU monopoly in AI",
-        "IBM's combined AI+quantum+hybrid cloud stack (watsonx + Red Hat + quantum hardware) creates a unique enterprise moat with recurring revenue; Barclays bull case of $449 implies 41% upside from current levels"
-      ],
-      "bear_case": [
-        "Commercial quantum revenue remains largely theoretical through 2028; after a 26% gain in 10 days, the stock is trading near its 52-week high and the pre-Barclays consensus of $277 implies most analysts still see the stock as overvalued",
-        "Barclays' $350 target is the lone bullish outlier vs. a pre-initiation consensus of $277 — if the quantum thesis takes longer to materialize, the stock could give back the post-upgrade gains"
-      ],
-      "recommendation": "Buy",
-      "current_price": "$318.73",
-      "price_target": "$350.00 (+9.8%, Barclays initiation June 1)",
-      "pe_ratio": "25.49",
-      "rsi": "N/A",
-      "vs_52wk_high": "-1.9% below high ($324.90)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - IT Services & Consulting",
-      "sources": ["CNBC", "Yahoo Finance", "247WallSt", "Investing.com", "Seeking Alpha"],
-      "price_history_5d": [270.00, 278.00, 285.00, 297.80, 318.73]
-    },
-    {
-      "ticker": "DELL",
-      "company": "Dell Technologies",
-      "discussion_driver": "Dell shares rose 10.7% on June 1, identified as a primary Nvidia RTX Spark AI PC ecosystem partner and direct beneficiary. The move extends Dell's extraordinary run: Q1 FY27 results released May 28 included $60B in AI server orders, beating revenue estimates by 22.58% and EPS by 63.99%, sending the stock up 39% in after-hours trading. The stock has more than doubled in 30 days, with RSI at 89.38 signaling extreme overbought conditions.",
-      "bull_case": [
-        "Q1 FY27 earnings shattered estimates with $60B in AI server orders — a 22.58% revenue beat and 63.99% EPS beat — confirming Dell as the dominant AI infrastructure distributor and the clearest pick-and-shovel play in enterprise AI",
-        "Nvidia RTX Spark AI PC ecosystem partnership layers a second growth vector (consumer AI PCs) onto Dell's already booming enterprise AI server business, supporting a potential upward re-rating of Dell's growth multiple"
-      ],
-      "bear_case": [
-        "RSI at 89.38 is in extreme overbought territory; the stock is now trading above the 26-analyst consensus target of $444.55 — the stock has lapped its consensus — indicating near-term rally extension risk",
-        "AI server business carries significantly lower gross margins than traditional PC/server segments; heavy Nvidia GPU dependency creates supply chain concentration risk if Nvidia allocation tightens or pricing shifts"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$465.96",
-      "price_target": "$444.55 (-4.6%, 26-analyst consensus; pre-June surge)",
-      "pe_ratio": "47.89",
-      "rsi": "89.38",
-      "vs_52wk_high": "-0.7% below high ($469.47)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Computer Hardware",
-      "sources": ["CNBC", "TheStreet", "Yahoo Finance", "GuruFocus", "24/7 Wall St."],
-      "price_history_5d": [297.00, 308.00, 317.05, 420.91, 465.96]
+      "sector": "Technology - Financial Software",
+      "sources": ["Goldman Sachs", "GuruFocus", "Benzinga", "Seeking Alpha"],
+      "price_history_5d": [331.53, 353.76, 329.48]
     }
   ]
 }
