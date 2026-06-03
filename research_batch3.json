@@ -1,98 +1,75 @@
 {
-  "report_date": "2026-06-01",
+  "report_date": "2026-06-02",
   "batch": 3,
   "stocks": [
     {
-      "ticker": "GPRO",
-      "company": "GoPro Inc.",
-      "discussion_driver": "GoPro filed an 8-K disclosing 'substantial doubt about the Company's ability to continue as a going concern,' citing Q1 2026 revenue declining 26% to $99.1M, rising memory costs, and expected debt covenant non-compliance. The company approved a 23% global workforce reduction and is exploring strategic alternatives including asset sales and additional financing options.",
+      "ticker": "CRWV",
+      "company": "CoreWeave, Inc.",
+      "discussion_driver": "BNP Paribas initiated coverage on June 2 with an Outperform rating and $192 price target, calling CoreWeave one of the most 'strategically important' companies in the AI infrastructure ecosystem and highlighting its GPU cloud platform as a key enabler of model training and inference workloads. The initiation drove a ~4% premarket gain amid continued AI sector momentum at Computex Week. The stock remains well off its 52-week high as investors weigh growth potential against persistent unprofitability.",
       "bull_case": [
-        "Company exploring strategic alternatives including a potential acquisition or sale that could unlock a premium above the currently depressed market price",
-        "Board-approved 23% workforce restructuring could reduce cash burn and extend operational runway if strategic alternatives materialize quickly"
+        "BNP Paribas sees CoreWeave as a critical GPU cloud beneficiary with scope for a 'catch-up' trade if management executes on its expansion plan, with the $192 price target implying 60%+ upside from current levels",
+        "Surging enterprise demand for AI compute infrastructure (model training, inference, high-performance workloads) positions CoreWeave as a secular growth story with long-term revenue visibility from multi-year hyperscaler contracts"
       ],
       "bear_case": [
-        "Going concern doubt flagged by management with only $40.7M cash against widening losses (Q1 net loss widened 73% YoY) and near-term debt covenant violations",
-        "Revenue declined 26% year-over-year in Q1 2026 with multiple analysts (WF $0.75, BofA $0.65, Roth MKM $0.80) holding price targets well below the current stock price"
+        "Company is unprofitable with a negative P/E, requiring massive ongoing capital investment; stock has already declined 36% from its 52-week high despite bullish analyst sentiment",
+        "Heavy customer concentration and intensifying competition from hyperscalers (AWS, Azure, GCP) building competing AI compute capacity could compress pricing and margins over time"
+      ],
+      "recommendation": "Speculative Buy",
+      "current_price": "$119.61",
+      "price_target": "$138.56 (+15.8%)",
+      "pe_ratio": "N/A",
+      "rsi": "57",
+      "vs_52wk_high": "-36.0% below high ($187.00)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - AI Cloud Infrastructure",
+      "sources": ["BNP Paribas", "Yahoo Finance", "Benzinga", "Seeking Alpha", "Investing.com", "GuruFocus"],
+      "price_history_5d": [109.53, 124.82, 119.61]
+    },
+    {
+      "ticker": "TRIP",
+      "company": "TripAdvisor, Inc.",
+      "discussion_driver": "Wedbush initiated coverage at Outperform with a $19 price target (raised from $12), citing an 'underappreciated' combination of catalysts: TripAdvisor's elimination of controlled-company status, Starboard Value's 9%+ activist stake with board cooperation agreement, a strategic review of European dining platform TheFork, and an emerging AI narrative around TripAdvisor's large travel dataset and recently signed OpenAI partnership. The stock trades near multi-year lows despite these developing catalysts.",
+      "bull_case": [
+        "Starboard Value's activist engagement (9%+ stake, board seats) and governance transformation could unlock value through a TheFork sale, buybacks, or operational restructuring, with Bernstein also reiterating Outperform following Starboard's involvement",
+        "TripAdvisor's large proprietary travel dataset combined with its new OpenAI partnership positions it for an AI-driven re-rating in the online travel space — a narrative Wedbush believes is materially underpriced at current levels"
+      ],
+      "bear_case": [
+        "Trailing P/E of 109.91 leaves virtually no margin for execution error, while legacy brand segment headwinds and competitive gaps versus Booking.com and Expedia in hotel and experiences booking continue to pressure revenue growth",
+        "Analyst consensus remains Hold with 11 of 19 covering analysts at Hold or Sell; strategic catalyst timeline (TheFork sale, AI monetization) is uncertain and could remain unresolved for multiple quarters"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$11.99",
+      "price_target": "$14.88 (+24.1%)",
+      "pe_ratio": "109.91",
+      "rsi": "N/A",
+      "vs_52wk_high": "-40.5% below high ($20.16)",
+      "analyst_rating": "Hold",
+      "sector": "Consumer Discretionary - Online Travel",
+      "sources": ["Wedbush", "TipRanks", "247WallSt", "Yahoo Finance", "Investing.com", "CNBC"],
+      "price_history_5d": [11.18, 11.89, 11.99]
+    },
+    {
+      "ticker": "FULC",
+      "company": "Fulcrum Therapeutics, Inc.",
+      "discussion_driver": "Fulcrum's stock crashed ~50% after-hours on June 1 after announcing the discontinuation of pociredir — its sole clinical program — for sickle cell disease. The FDA concluded any PRC2-targeting therapy carries unacceptable malignancy risk following Tazverik's global withdrawal in March 2026. The company initiated a strategic review of alternatives and plans to slash operating costs; Piper Sandler double-downgraded to Underweight cutting its target from $23 to $3, while Leerink also downgraded, triggering a coordinated analyst selloff.",
+      "bull_case": [
+        "Fulcrum holds ~$333.3M in cash and marketable securities (as of March 31, 2026) — substantially above the post-crash market cap — creating potential for a cash distribution, reverse merger, or acquisition at a premium to current price",
+        "The strategic review process could attract acquirers seeking a clean cash-rich shell, or enable an asset-light pivot to a new program that avoids PRC2-pathway regulatory concerns"
+      ],
+      "bear_case": [
+        "Complete pipeline wipeout: pociredir was Fulcrum's only clinical-stage asset, leaving the company with no near-term revenue pathway and no defined timeline for the strategic review outcome",
+        "Piper Sandler's $3 price target implies further downside from current levels; the FDA's PRC2 class-effect ruling permanently eliminates any possibility of reviving the sickle cell program"
       ],
       "recommendation": "Sell",
-      "current_price": "$1.25",
-      "price_target": "$1.30 (+4.0%)",
+      "current_price": "$3.41",
+      "price_target": "$3.00 (-12.0%)",
       "pe_ratio": "N/A",
-      "rsi": "40.8",
-      "vs_52wk_high": "-59.0% below high ($3.05)",
+      "rsi": "N/A",
+      "vs_52wk_high": "-78.3% below high ($15.74)",
       "analyst_rating": "Sell",
-      "sector": "Consumer Discretionary - Action Cameras",
-      "sources": ["SEC Filing (8-K/10-Q)", "TipRanks", "Yahoo Finance", "Digital Camera World", "MarketBeat"],
-      "price_history_5d": [1.27, 1.26, 1.22, 1.24, 1.25]
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet Inc.",
-      "discussion_driver": "Alphabet filed an $80 billion mixed-shelf registration with proceeds earmarked for accelerated AI expansion including data centers and AI infrastructure. The massive capital raise signals Alphabet's intent to aggressively compete in the AI arms race at scale, though it raises shareholder dilution concerns and arrives amid ongoing DOJ antitrust scrutiny over its search dominance.",
-      "bull_case": [
-        "Strong AI monetization across Search, Cloud, and Gemini-powered AI Overviews driving double-digit revenue growth with 15.6% upside to the $430.72 analyst consensus price target",
-        "$80B capital raise enables aggressive AI data center buildout to maintain competitive parity with Microsoft and OpenAI, reinforcing Alphabet's long-term AI infrastructure leadership"
-      ],
-      "bear_case": [
-        "$80B shelf offering signals massive capital consumption for AI infrastructure and potential shareholder dilution at scale, pressuring near-term EPS growth",
-        "Ongoing DOJ antitrust case over search monopoly could force structural remedies that materially impair Alphabet's core advertising business model"
-      ],
-      "recommendation": "Buy",
-      "current_price": "$372.58",
-      "price_target": "$430.72 (+15.6%)",
-      "pe_ratio": "28.99",
-      "rsi": "52.9",
-      "vs_52wk_high": "-8.8% below high ($408.61)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Communication Services - Internet/Technology",
-      "sources": ["Yahoo Finance", "TheStreet", "MarketBeat", "TipRanks", "StockAnalysis"],
-      "price_history_5d": [387.00, 385.00, 380.34, 377.00, 372.58]
-    },
-    {
-      "ticker": "CRM",
-      "company": "Salesforce Inc.",
-      "discussion_driver": "Salesforce surged ~9.7% on June 1 as part of an AI enterprise software rally triggered by Nvidia's RTX Spark AI PC announcement, while simultaneously announcing the acquisition of Contentful. This followed Q1 FY27 results (EPS $3.88, +50% YoY, beating $2.96 estimate) and Agentforce ARR crossing $1 billion, though slightly disappointing full-year guidance caused a brief post-earnings selloff the prior week.",
-      "bull_case": [
-        "Agentforce ARR surpassing $1B confirms AI-native enterprise automation is scaling rapidly, with 22.2% upside to the $255.55 analyst consensus price target",
-        "Q1 FY27 EPS growth of 50% year-over-year and strategic Contentful acquisition signal accelerating AI platform monetization across enterprise workflows"
-      ],
-      "bear_case": [
-        "Full-year revenue guidance came in slightly below Wall Street expectations, triggering a post-earnings selloff that highlights concerns about AI adoption pace and near-term growth normalization",
-        "Stock remains 24.5% below its 52-week high and faces intensifying competition from Microsoft Copilot and other AI-powered CRM alternatives"
-      ],
-      "recommendation": "Buy",
-      "current_price": "$209.07",
-      "price_target": "$255.55 (+22.2%)",
-      "pe_ratio": "20.88",
-      "rsi": "N/A",
-      "vs_52wk_high": "-24.5% below high ($276.80)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Enterprise Software",
-      "sources": ["Yahoo Finance", "Seeking Alpha", "CNBC", "MarketBeat", "Salesforce.com"],
-      "price_history_5d": [190.00, 183.50, 176.17, 191.10, 209.07]
-    },
-    {
-      "ticker": "NOW",
-      "company": "ServiceNow Inc.",
-      "discussion_driver": "ServiceNow shares rallied sharply alongside enterprise software peers as Nvidia's RTX Spark AI PC chip announcement drove optimism for AI workflow automation software. The company's own strong Q1 results (22% subscription revenue growth, new partnerships with Google Cloud and Nvidia, accelerating AI product adoption in enterprise) further reinforced the bullish AI enterprise narrative.",
-      "bull_case": [
-        "22% Q1 subscription revenue growth and strategic partnerships with Google Cloud and Nvidia validate ServiceNow as a core AI workflow automation platform for the enterprise",
-        "Strong Buy consensus from 43 analysts with the stock down 35% from its 52-week high presents a potential re-rating opportunity as enterprise AI spending accelerates"
-      ],
-      "bear_case": [
-        "Trailing P/E of 73.2x leaves minimal margin for error if AI-driven enterprise growth momentum slows or macro spending contracts",
-        "Stock is down 35.4% from its 52-week high of $211.48, reflecting significant valuation compression and lingering investor concerns about high-multiple software names"
-      ],
-      "recommendation": "Buy",
-      "current_price": "$136.54",
-      "price_target": "$142.50 (+4.4%)",
-      "pe_ratio": "73.2",
-      "rsi": "N/A",
-      "vs_52wk_high": "-35.4% below high ($211.48)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Technology - Enterprise Software/IT Automation",
-      "sources": ["Yahoo Finance", "CNBC", "Benzinga", "TipRanks", "StockAnalysis"],
-      "price_history_5d": [109.50, 109.00, 108.73, 124.37, 136.54]
+      "sector": "Healthcare - Biotechnology",
+      "sources": ["Piper Sandler", "Benzinga", "Yahoo Finance", "TipRanks", "Bloomberg", "GuruFocus", "BioSpace", "GlobeNewswire", "Investing.com"],
+      "price_history_5d": [6.92, 6.42, 3.41]
     }
   ]
 }
