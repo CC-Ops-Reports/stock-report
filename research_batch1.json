@@ -1,135 +1,135 @@
 {
-  "report_date": "2026-06-02",
+  "report_date": "2026-06-03",
   "batch": 1,
-  "market_tone": "Bullish",
+  "market_tone": "Bearish",
   "key_themes": [
-    "AI semiconductor surge: Jensen Huang crowns Marvell next trillion-dollar chip company at Computex Week",
-    "Software earnings caution: Salesforce and Intuit sell off on cautious guidance and AI competitive threats",
-    "AI infrastructure capital race: Alphabet announces unprecedented $80B stock offering to fund AI buildout"
+    "AI chip earnings blowout — Broadcom Q2 revenue +48% YoY; AI semiconductor revenue +143%; CrowdStrike beats and announces 4-for-1 stock split",
+    "Oil surge on US-Iran ceasefire tensions — WTI crude rises 2.5% to ~$96, energy stocks rally while broader market sells off",
+    "Private equity liquidity fears — Partners Group caps withdrawals from $8.6B evergreen fund, triggering sector-wide selloff in Blackstone, KKR, Ares, Carlyle"
   ],
   "sp500": {
-    "value": "7,609.78",
-    "change": "+0.13%"
+    "value": "7,553.41",
+    "change": "-0.74%"
   },
   "nasdaq": {
-    "value": "27,093.00",
-    "change": "+0.01%"
+    "value": "26,852.77",
+    "change": "-0.89%"
   },
   "stocks": [
     {
-      "ticker": "MRVL",
-      "company": "Marvell Technology",
-      "discussion_driver": "NVIDIA CEO Jensen Huang publicly endorsed Marvell at Computex 2026 in Taipei as the next AI chip company to reach a $1 trillion market cap, citing its custom AI silicon and optical interconnect capabilities. This catalyst drove MRVL's largest single-day gain ever (+32.5%), pushing the stock well past all pre-event analyst price targets. A concurrent $2 billion Nvidia partnership announcement further validates the bull thesis.",
+      "ticker": "AVGO",
+      "company": "Broadcom Inc.",
+      "discussion_driver": "Broadcom delivered a massive Q2 FY2026 beat with $22.2B in revenue (+48% YoY) and AI semiconductor revenue exploding 143% to $10.8B. The Q3 guidance of $29.4B (+84% YoY) cemented AVGO as a top-tier AI infrastructure supplier, though the stock pulled back intraday as investors digested the after-hours release and assessed whether the lofty guidance bar could be cleared.",
       "bull_case": [
-        "Jensen Huang's public endorsement as 'next trillion-dollar company' at Computex 2026, backed by a $2B Nvidia partnership, validates MRVL's custom AI silicon and optical interconnect roadmap at the highest level",
-        "Consecutive earnings beats with AI data center networking revenue growing exponentially; fiscal Q1 FY2027 EPS of $0.80 beat estimates; MRVL is now a critical supplier to hyperscaler AI buildouts"
+        "AI semiconductor revenue surged 143% YoY to $10.8B in Q2 with Q3 guidance of $29.4B (+84%), confirming Broadcom as a critical hyperscaler custom-chip supplier with explosive near-term growth visibility",
+        "Diversified revenue across networking, broadband, storage, and VMware software provides resilient recurring cash flows that can sustain the premium multiple across economic cycles"
       ],
       "bear_case": [
-        "Valuation extremely stretched post-surge — trailing PE ~100x at current price; stock has surged 158% YTD before today's additional 32.5% gain, leaving limited margin of safety at these levels",
-        "Revenue concentration risk in AI/data center: a slowdown in hyperscaler capex spending or loss of key ASIC partnerships would directly and severely impact growth trajectory"
+        "P/E of 93.94 leaves no room for any guidance miss; the ambitious Q3 target of $29.4B sets a very high bar that could trigger significant multiple compression if macro conditions soften",
+        "Heavy customer concentration among 3-4 hyperscalers (Apple, Google, Meta) creates binary risk on any individual contract renegotiation or design-away decision"
       ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$290.79",
-      "price_target": "$321.00 (+10.4%)",
-      "pe_ratio": "75.41",
-      "rsi": "65.87",
-      "vs_52wk_high": "at new 52-week high (prior high: $225.14, +29.2% above)",
+      "recommendation": "Buy",
+      "current_price": "$477.01",
+      "price_target": "$486.85 (+2.1%)",
+      "pe_ratio": "93.94",
+      "rsi": "79.10",
+      "vs_52wk_high": "-3.8% below high ($496.02)",
       "analyst_rating": "Strong Buy",
       "sector": "Technology - Semiconductors",
-      "sources": ["CNBC", "Bloomberg", "GuruFocus"],
-      "price_history_5d": [200.13, 219.43, 290.79]
+      "sources": ["MarketBeat", "StockAnalysis", "TipRanks", "AltIndex", "Yahoo Finance"],
+      "price_history_5d": [423.46, 426.58, 459.95, 481.57, 477.01]
     },
     {
-      "ticker": "HPE",
-      "company": "Hewlett Packard Enterprise",
-      "discussion_driver": "HPE delivered its strongest quarterly results ever on June 1 after market close, with Q2 FY2026 EPS of $0.79 crushing the $0.53 estimate (49% beat) and revenue of $10.7 billion far exceeding the $9.78B consensus. The company raised full-year EPS guidance by roughly 40%, triggering the best single-day stock performance in HPE's history (+19%). Six major Wall Street banks issued significant price target upgrades, with new targets ranging from $62 (Bernstein) to $80 (BofA).",
+      "ticker": "CRWD",
+      "company": "CrowdStrike Holdings",
+      "discussion_driver": "CrowdStrike delivered a 25% EPS beat ($1.10 vs $0.88 expected) with record net new ARR of $256M (+32% YoY) in Q1 FY2027, confirming the strength of its AI-native Falcon cybersecurity platform. A simultaneous 4-for-1 stock split announcement effective June 25 added retail enthusiasm to an already powerful institutional run, with the stock having more than doubled from its March 2026 lows on AI cybersecurity tailwinds.",
       "bull_case": [
-        "Blowout Q2 FY2026 earnings: $0.79 EPS vs $0.53 estimate (49% beat); raised FY2026 EPS guidance to $3.35-$3.45 from prior $2.30-$2.50, representing a ~40% upward guidance revision driven by AI server demand",
-        "AI server backlog at record levels; management raised revenue growth forecast to 29-33% for FY2026 as hyperscaler AI infrastructure spending accelerates well beyond prior expectations"
+        "25% EPS beat and record $256M net new ARR (+32% YoY) confirms CRWD as the dominant AI-native cybersecurity platform; Falcon ecosystem switching costs and growing multi-module adoption create durable revenue expansion",
+        "4-for-1 stock split on June 25 increases retail accessibility; more than doubled from March 2026 lows as enterprise AI security spending accelerates across hyperscaler and Fortune 500 customers"
       ],
       "bear_case": [
-        "Stock up 19% in a single session after already rising significantly into earnings; near-term profit-taking risk as investors digest the magnitude of the move at a new all-time high",
-        "Hardware server margins face structural pressure; HPE is dependent on NVIDIA and AMD chip allocation and does not control its own AI silicon supply chain"
-      ],
-      "recommendation": "Buy",
-      "current_price": "$55.93",
-      "price_target": "$70.83 (+26.6%)",
-      "pe_ratio": "14.47",
-      "rsi": "N/A",
-      "vs_52wk_high": "at new 52-week high (prior high: $47.97)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Technology - Enterprise Infrastructure",
-      "sources": ["CNBC", "Bloomberg", "MarketBeat"],
-      "price_history_5d": [43.04, 47.00, 55.93]
-    },
-    {
-      "ticker": "VSCO",
-      "company": "Victoria's Secret & Co.",
-      "discussion_driver": "Victoria's Secret posted a stunning Q1 2026 earnings beat — adjusted EPS of $0.60 vs $0.30 expected — and swung to a $47.7M profit while raising full-year revenue guidance to $7.03-$7.13B. The company simultaneously rebranded under the new ticker VSXY, driving a 44%+ intraday surge that set a new 52-week high. Previous analyst price targets of ~$65 are now well below the current price; investors should await revised consensus estimates before assessing further upside.",
-      "bull_case": [
-        "Q1 2026 results show a complete operational turnaround: $0.60 adjusted EPS vs $0.30 expected (100% beat), swung to $47.7M profit, and full-year revenue guidance raised to $7.03-$7.13B from $6.85-$6.95B",
-        "Starboard Value activism and new management are delivering measurable results; VSXY rebrand marks a strategic fresh start with operating income guidance raised by $100M+ for the full year"
-      ],
-      "bear_case": [
-        "Stock surged ~44% on earnings day with previous analyst consensus of $65.78 now ~16% below current price; further gains require rapid analyst upward revisions that have not yet occurred",
-        "Consumer discretionary sector faces macro headwinds; tariff uncertainty and potential consumer spending softness in H2 2026 could pressure apparel demand and limit the recovery's durability"
+        "RSI of 89.3 signals extreme overbought conditions; persistent GAAP net losses and current price above most analyst consensus targets make the stock highly vulnerable to any negative sentiment shift",
+        "The 100%+ rally from March 2026 lows has stretched the stock well beyond fundamental valuation models; a single cybersecurity incident — as seen in the 2024 IT outage — could trigger a rapid 30%+ reversal"
       ],
       "recommendation": "Hold",
-      "current_price": "$78.19",
-      "price_target": "$65.78 (pre-earnings consensus; revisions pending)",
-      "pe_ratio": "28.13",
-      "rsi": "N/A",
-      "vs_52wk_high": "at new 52-week high (prior high: $66.89)",
+      "current_price": "$747.61",
+      "price_target": "$770 avg (+3.1%)",
+      "pe_ratio": "N/A",
+      "rsi": "89.30",
+      "vs_52wk_high": "-4.8% below high ($785.66)",
       "analyst_rating": "Buy",
-      "sector": "Consumer Discretionary - Specialty Retail",
-      "sources": ["CNBC", "Bloomberg", "Yahoo Finance"],
-      "price_history_5d": [54.30, 78.19]
-    },
-    {
-      "ticker": "PANW",
-      "company": "Palo Alto Networks",
-      "discussion_driver": "Palo Alto Networks delivered strong Q3 FY2026 results with EPS of $0.85 exceeding the $0.81 estimate, and CEO Nikesh Arora highlighted accelerating AI security bookings as enterprises prioritize AI-native threat protection. The earnings beat prompted an ~10% after-hours move, and the stock tested a new 52-week high of $302.95 intraday on June 2 before partially retracing to close at $297.18. With raised FY2026 guidance and an expanding AI security platform, analysts are revising price targets upward.",
-      "bull_case": [
-        "Q3 FY2026 EPS of $0.85 beat $0.81 estimate with accelerating AI security bookings; raised FY2026 guidance signals that the platform consolidation strategy is gaining meaningful enterprise traction",
-        "AI-native threat detection capabilities create a durable competitive moat as cyberattacks grow more sophisticated; platform approach is winning large enterprise consolidation deals away from point-solution vendors"
-      ],
-      "bear_case": [
-        "Trailing PE of 142.57x demands perfect execution; any guidance miss or macro-driven IT spending slowdown could trigger a severe derating given the extreme premium valuation",
-        "Microsoft Security, CrowdStrike, and SentinelOne provide intense competition; customers may resist full vendor consolidation onto a single platform, limiting platformization revenue upside"
-      ],
-      "recommendation": "Buy",
-      "current_price": "$297.18",
-      "price_target": "$300.00 (+0.9%)",
-      "pe_ratio": "142.57",
-      "rsi": "N/A",
-      "vs_52wk_high": "-1.9% below high ($302.95)",
-      "analyst_rating": "Strong Buy",
       "sector": "Technology - Cybersecurity",
-      "sources": ["TheStreet", "PRNewswire", "Quiver Quantitative"],
-      "price_history_5d": [300.48, 297.18]
+      "sources": ["MarketBeat", "Benzinga", "TipRanks", "GuruFocus", "AltIndex"],
+      "price_history_5d": [675.90, 725.24, 782.17, 768.95, 747.61]
     },
     {
-      "ticker": "INTU",
-      "company": "Intuit",
-      "discussion_driver": "Goldman Sachs issued a rare double-downgrade on Intuit from Neutral to Sell on June 2, slashing its price target from $519 to $276, arguing that AI-native tax preparation tools (Perplexity Tax, Chime Tax) pose an existential threat to TurboTax's dominant market position. This piled onto a brutal May 21 earnings miss that sent shares down 20%. Now trading at -59.5% below its 52-week high and near its 52-week low of $300.50, Intuit is deeply out of favor with growth investors.",
+      "ticker": "MRVL",
+      "company": "Marvell Technology",
+      "discussion_driver": "Marvell Technology became the AI semiconductor sector's hottest catalyst story after Nvidia CEO Jensen Huang called it the 'next trillion-dollar company' at Computex, igniting a historic +32% single-session surge on June 2. The endorsement amplified strong Q1 results (+27.6% YoY revenue growth) and accelerating custom AI ASIC design wins with major hyperscalers, sending analysts scrambling to revise price targets sharply higher.",
       "bull_case": [
-        "Stock near multi-year lows at only 21x trailing earnings; if AI tax competition proves slower to scale than feared, the current price offers significant upside to the broader analyst consensus target of $495",
-        "QuickBooks SMB accounting business remains dominant and less directly threatened by AI tax startups; Intuit is investing heavily in its own AI capabilities (Intuit Assist) to defend its ecosystem"
+        "Jensen Huang's Computex endorsement as the 'next trillion-dollar company' provides exceptional visibility for MRVL's custom AI ASIC business; confirmed design wins with Amazon, Google, and Microsoft secure multi-year high-margin revenue streams",
+        "Q1 revenue growth of 27.6% YoY with accelerating AI data center orders; Stifel raised target to $321 from $230, reflecting the massive TAM expansion from hyperscaler custom silicon demand replacing merchant chips"
       ],
       "bear_case": [
-        "Goldman Sachs double-downgraded to Sell with $276 target, citing existential AI threat from Perplexity Tax and Chime Tax to TurboTax's core revenue stream; at $329 the stock still has 16%+ downside if Goldman is right",
-        "Q3 FY2026 earnings miss in May already revealed early competitive pressure signals; management credibility is impaired after successive guidance cuts and a 59.5% drawdown from 52-week highs"
+        "Stock surged 32% in a single session and now trades above most analyst consensus targets; recent RSI readings in overbought territory indicate potential for near-term consolidation after the historic run",
+        "Heavy concentration in 2-3 hyperscaler ASIC programs creates binary revenue risk; custom chip programs take 2-3 years to reach full production volume, creating potential revenue gaps between design wins and actual shipments"
+      ],
+      "recommendation": "Speculative Buy",
+      "current_price": "$309.13",
+      "price_target": "$321 Stifel (+3.8%)",
+      "pe_ratio": "57.11",
+      "rsi": "65.87",
+      "vs_52wk_high": "-7.3% below high ($333.50)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Technology - Semiconductors",
+      "sources": ["GuruFocus", "Tickeron", "Yahoo Finance", "StocksGuide", "Dev|Journal"],
+      "price_history_5d": [219.43, 290.79, 309.13]
+    },
+    {
+      "ticker": "GME",
+      "company": "GameStop Corp.",
+      "discussion_driver": "GameStop reported record Q1 2026 net income of $389.6M on $835.3M revenue (+14% YoY), while its board approved a $2B share buyback authorization — the largest in company history. CEO Ryan Cohen's capital allocation strategy continues to deliver tangible results, though with only one analyst covering the stock at a $13.50 Sell target, price discovery remains dominated by retail momentum rather than institutional analysis.",
+      "bull_case": [
+        "Record quarterly net income of $389.6M and a $2B buyback authorization demonstrate Ryan Cohen's successful transformation of GME into a disciplined, cash-generative business far removed from its meme-stock origins",
+        "Significant cash and investment portfolio provides a fundamental floor; $2B buyback at prices well below intrinsic value creates immediate per-share value accretion for remaining long-term shareholders"
+      ],
+      "bear_case": [
+        "Core retail gaming business faces irreversible structural decline from digital downloads and cloud gaming; physical game and hardware sales will continue contracting year over year regardless of operational execution",
+        "Only 1 analyst officially covers the stock with a $13.50 Sell target (39% below current price); thin institutional coverage and heavy retail ownership creates extreme volatility largely disconnected from fundamental value"
       ],
       "recommendation": "Hold",
-      "current_price": "$329.48",
-      "price_target": "$495.33 (+50.4%)",
-      "pe_ratio": "21.43",
+      "current_price": "$22.18",
+      "price_target": "$13.50 (-39.1%)",
+      "pe_ratio": "27.51",
+      "rsi": "52.58",
+      "vs_52wk_high": "-28.6% below high ($31.05)",
+      "analyst_rating": "Sell",
+      "sector": "Consumer Cyclical - Specialty Retail",
+      "sources": ["StockAnalysis", "MarketBeat", "Financhill", "BusinessWire", "StockTitan"],
+      "price_history_5d": [21.18, 21.36, 22.18]
+    },
+    {
+      "ticker": "MDT",
+      "company": "Medtronic plc",
+      "discussion_driver": "Medtronic reported its strongest revenue growth in a decade in Q4 FY2026, with $9.8B in revenue (+9.9%) powered by cardiac ablation solutions surging 78% globally. Despite a ~5% earnings-day pop, the stock remains 26.7% below its 52-week high and trades at a discounted 20.6x trailing P/E versus large-cap medical device peers, with analyst consensus pointing to over 36% upside to $106.45.",
+      "bull_case": [
+        "Q4 FY2026 revenue growth of 9.9% is the highest annual growth rate in a decade; cardiac ablation solutions up 78% globally represents a durable, multi-year new product cycle with significant market penetration still ahead",
+        "Deeply discounted at 20.6x trailing P/E vs. 30x+ for medical device peers; the $28.50 gap between current price and the $106.45 analyst consensus target implies 36.6% upside with an attractive risk/reward profile"
+      ],
+      "bear_case": [
+        "Stock remains 26.7% below its 52-week high despite the strong earnings beat, reflecting lingering investor skepticism about whether decade-high growth rates are durable after several years of disappointing execution",
+        "Hospital system pricing pressure and potential CMS reimbursement changes could compress margins; growing competition in the cardiac ablation market from Abbott and J&J is intensifying and could erode the current growth premium"
+      ],
+      "recommendation": "Buy",
+      "current_price": "$77.95",
+      "price_target": "$106.45 (+36.6%)",
+      "pe_ratio": "20.61",
       "rsi": "N/A",
-      "vs_52wk_high": "-59.5% below high ($813.70)",
-      "analyst_rating": "Hold",
-      "sector": "Technology - Financial Software",
-      "sources": ["Goldman Sachs", "GuruFocus", "Benzinga", "Seeking Alpha"],
-      "price_history_5d": [331.53, 353.76, 329.48]
+      "vs_52wk_high": "-26.7% below high ($106.33)",
+      "analyst_rating": "Buy",
+      "sector": "Healthcare - Medical Devices",
+      "sources": ["MarketBeat", "StockAnalysis", "FinanceCharts", "GuruFocus", "TipRanks"],
+      "price_history_5d": [73.81, 73.62, 77.95]
     }
   ]
 }
