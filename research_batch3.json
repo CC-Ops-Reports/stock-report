@@ -1,75 +1,121 @@
 {
-  "report_date": "2026-06-02",
+  "report_date": "2026-06-03",
   "batch": 3,
   "stocks": [
     {
-      "ticker": "CRWV",
-      "company": "CoreWeave, Inc.",
-      "discussion_driver": "BNP Paribas initiated coverage on June 2 with an Outperform rating and $192 price target, calling CoreWeave one of the most 'strategically important' companies in the AI infrastructure ecosystem and highlighting its GPU cloud platform as a key enabler of model training and inference workloads. The initiation drove a ~4% premarket gain amid continued AI sector momentum at Computex Week. The stock remains well off its 52-week high as investors weigh growth potential against persistent unprofitability.",
+      "ticker": "PANW",
+      "company": "Palo Alto Networks Inc.",
+      "discussion_driver": "Palo Alto Networks delivered a strong Q3 FY2026 beat on June 2—EPS $0.85 vs $0.81 expected and revenue $3.0B (+31% YoY)—yet shares fell ~5% on June 3 as investors fixated on a $177M GAAP net loss and rising costs from recent acquisitions. The stock initially surged 12% in after-hours on the earnings beat before the enthusiasm faded when GAAP concerns dominated. With a P/E over 166x and RSI that had reached overbought territory at 86 pre-earnings, the market is demanding perfection at current valuations.",
       "bull_case": [
-        "BNP Paribas sees CoreWeave as a critical GPU cloud beneficiary with scope for a 'catch-up' trade if management executes on its expansion plan, with the $192 price target implying 60%+ upside from current levels",
-        "Surging enterprise demand for AI compute infrastructure (model training, inference, high-performance workloads) positions CoreWeave as a secular growth story with long-term revenue visibility from multi-year hyperscaler contracts"
+        "AI-driven demand for integrated cybersecurity platforms is powering accelerating ARR growth; PANW's platformization strategy raises switching costs and long-term enterprise retention",
+        "Q3 FY2026 beat across the board with 31% YoY revenue growth; 33 out of 33 analyst Buy ratings in the current month with a $306 consensus price target and Evercore ISI setting a $375 high target"
       ],
       "bear_case": [
-        "Company is unprofitable with a negative P/E, requiring massive ongoing capital investment; stock has already declined 36% from its 52-week high despite bullish analyst sentiment",
-        "Heavy customer concentration and intensifying competition from hyperscalers (AWS, Azure, GCP) building competing AI compute capacity could compress pricing and margins over time"
-      ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$119.61",
-      "price_target": "$138.56 (+15.8%)",
-      "pe_ratio": "N/A",
-      "rsi": "57",
-      "vs_52wk_high": "-36.0% below high ($187.00)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - AI Cloud Infrastructure",
-      "sources": ["BNP Paribas", "Yahoo Finance", "Benzinga", "Seeking Alpha", "Investing.com", "GuruFocus"],
-      "price_history_5d": [109.53, 124.82, 119.61]
-    },
-    {
-      "ticker": "TRIP",
-      "company": "TripAdvisor, Inc.",
-      "discussion_driver": "Wedbush initiated coverage at Outperform with a $19 price target (raised from $12), citing an 'underappreciated' combination of catalysts: TripAdvisor's elimination of controlled-company status, Starboard Value's 9%+ activist stake with board cooperation agreement, a strategic review of European dining platform TheFork, and an emerging AI narrative around TripAdvisor's large travel dataset and recently signed OpenAI partnership. The stock trades near multi-year lows despite these developing catalysts.",
-      "bull_case": [
-        "Starboard Value's activist engagement (9%+ stake, board seats) and governance transformation could unlock value through a TheFork sale, buybacks, or operational restructuring, with Bernstein also reiterating Outperform following Starboard's involvement",
-        "TripAdvisor's large proprietary travel dataset combined with its new OpenAI partnership positions it for an AI-driven re-rating in the online travel space — a narrative Wedbush believes is materially underpriced at current levels"
-      ],
-      "bear_case": [
-        "Trailing P/E of 109.91 leaves virtually no margin for execution error, while legacy brand segment headwinds and competitive gaps versus Booking.com and Expedia in hotel and experiences booking continue to pressure revenue growth",
-        "Analyst consensus remains Hold with 11 of 19 covering analysts at Hold or Sell; strategic catalyst timeline (TheFork sale, AI monetization) is uncertain and could remain unresolved for multiple quarters"
+        "GAAP net loss of $177M despite an adjusted earnings beat highlights elevated acquisition integration costs weighing on true profitability—a reversal from $262M GAAP net income a year earlier",
+        "Trailing P/E of 166x is historically stretched and RSI reached 86 pre-earnings—an overbought signal that preceded the June 3 selloff despite the earnings beat"
       ],
       "recommendation": "Hold",
-      "current_price": "$11.99",
-      "price_target": "$14.88 (+24.1%)",
-      "pe_ratio": "109.91",
-      "rsi": "N/A",
-      "vs_52wk_high": "-40.5% below high ($20.16)",
-      "analyst_rating": "Hold",
-      "sector": "Consumer Discretionary - Online Travel",
-      "sources": ["Wedbush", "TipRanks", "247WallSt", "Yahoo Finance", "Investing.com", "CNBC"],
-      "price_history_5d": [11.18, 11.89, 11.99]
+      "current_price": "$279.93",
+      "price_target": "$306.45 (+9.5%)",
+      "pe_ratio": "166.27",
+      "rsi": "86.10",
+      "vs_52wk_high": "-7.6% below high ($302.95)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Technology - Cybersecurity",
+      "sources": ["CNBC", "Motley Fool", "MarketBeat", "ChartMill", "Quiver Quantitative", "Benzinga"],
+      "price_history_5d": [257.77, 281.69, 300.48, 297.18, 279.93]
     },
     {
-      "ticker": "FULC",
-      "company": "Fulcrum Therapeutics, Inc.",
-      "discussion_driver": "Fulcrum's stock crashed ~50% after-hours on June 1 after announcing the discontinuation of pociredir — its sole clinical program — for sickle cell disease. The FDA concluded any PRC2-targeting therapy carries unacceptable malignancy risk following Tazverik's global withdrawal in March 2026. The company initiated a strategic review of alternatives and plans to slash operating costs; Piper Sandler double-downgraded to Underweight cutting its target from $23 to $3, while Leerink also downgraded, triggering a coordinated analyst selloff.",
+      "ticker": "RGTI",
+      "company": "Rigetti Computing Inc.",
+      "discussion_driver": "Rigetti Computing fell ~10% on June 3 amid a sector-wide quantum computing selloff that also hit IonQ (-4%) and D-Wave (-7%), as investors rotated out of speculative quantum plays in a bearish broader market. Despite the near-term volatility, RGTI has been building momentum since signing a DOC letter of intent for CHIPS Act funding in May 2026—signaling growing government support for domestic quantum infrastructure. The stock remains a high-risk, high-reward speculative bet on a technology still years from mass commercialization.",
       "bull_case": [
-        "Fulcrum holds ~$333.3M in cash and marketable securities (as of March 31, 2026) — substantially above the post-crash market cap — creating potential for a cash distribution, reverse merger, or acquisition at a premium to current price",
-        "The strategic review process could attract acquirers seeking a clean cash-rich shell, or enable an asset-light pivot to a new program that avoids PRC2-pathway regulatory concerns"
+        "US Department of Commerce letter of intent for CHIPS Act quantum computing funding provides a government-backed revenue catalyst and meaningful credibility boost for the hardware roadmap",
+        "As one of the few publicly traded pure-play quantum computing companies, RGTI offers unparalleled early-stage exposure to the next computing paradigm before commercial scale arrives"
       ],
       "bear_case": [
-        "Complete pipeline wipeout: pociredir was Fulcrum's only clinical-stage asset, leaving the company with no near-term revenue pathway and no defined timeline for the strategic review outcome",
-        "Piper Sandler's $3 price target implies further downside from current levels; the FDA's PRC2 class-effect ruling permanently eliminates any possibility of reviving the sickle cell program"
+        "No path to near-term profitability; negative P/E reflects ongoing cash burn with revenues far from sustaining operations at current scale",
+        "Down 54% from its $58.15 52-week high, the stock remains highly speculative with extreme volatility—the June 3 sector selloff illustrates how quickly sentiment can reverse"
       ],
-      "recommendation": "Sell",
-      "current_price": "$3.41",
-      "price_target": "$3.00 (-12.0%)",
+      "recommendation": "Speculative Buy",
+      "current_price": "$26.52",
+      "price_target": "$29.24 (+10.3%)",
       "pe_ratio": "N/A",
       "rsi": "N/A",
-      "vs_52wk_high": "-78.3% below high ($15.74)",
-      "analyst_rating": "Sell",
-      "sector": "Healthcare - Biotechnology",
-      "sources": ["Piper Sandler", "Benzinga", "Yahoo Finance", "TipRanks", "Bloomberg", "GuruFocus", "BioSpace", "GlobeNewswire", "Investing.com"],
-      "price_history_5d": [6.92, 6.42, 3.41]
+      "vs_52wk_high": "-54.4% below high ($58.15)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - Quantum Computing",
+      "sources": ["MarketBeat", "Perplexity Finance", "CNBC", "Motley Fool", "Investing.com"],
+      "price_history_5d": [27.03, 25.54, 25.65, 29.47, 26.52]
+    },
+    {
+      "ticker": "CMG",
+      "company": "Chipotle Mexican Grill Inc.",
+      "discussion_driver": "Chipotle was downgraded by Morgan Stanley to Equal Weight on June 3 with analyst Brian Harbour cutting the price target to $37 from $49, citing growth normalization, rising input costs, and multiple compression as the chain grapples with a more cautious consumer environment. Despite the negative momentum—the stock is now down more than 50% from its 52-week high of $58.42—the majority of Wall Street still maintains a Buy rating with an average target near $44, leaving open meaningful upside potential if fundamentals stabilize ahead of Q2 earnings on July 29.",
+      "bull_case": [
+        "Consensus analyst price target of $44+ implies 53% upside from current depressed levels; the brand's loyal digital customer base and menu pricing power provide a durable competitive moat",
+        "Q2 2026 results due July 29 represent a near-term catalyst; any evidence of same-store sales stabilization or margin improvement could trigger a significant re-rating higher"
+      ],
+      "bear_case": [
+        "Morgan Stanley downgraded to Equal Weight, cutting the price target to $37 from $49, citing growth normalization, rising costs, and multiple compression from 35x to 28x forward earnings",
+        "Stock down 50%+ from its $58.42 52-week high reflects sustained deterioration in comparable-store sales growth and cautious consumer spending patterns"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$28.80",
+      "price_target": "$44.09 (+53.1%)",
+      "pe_ratio": "28.03",
+      "rsi": "N/A",
+      "vs_52wk_high": "-50.7% below high ($58.42)",
+      "analyst_rating": "Buy",
+      "sector": "Consumer Discretionary - Fast Casual Restaurants",
+      "sources": ["Yahoo Finance", "247WallSt", "Investing.com", "Motley Fool", "MarketBeat", "TipRanks"],
+      "price_history_5d": [31.86, 31.86, 29.26, 28.80]
+    },
+    {
+      "ticker": "YUM",
+      "company": "Yum! Brands Inc.",
+      "discussion_driver": "Yum! Brands was upgraded by Morgan Stanley to Overweight on June 3 with analyst Brian Harbour raising the price target to $185 from $180, calling the stock a better risk/reward than downgraded peer Chipotle in the current cautious consumer environment. Harbour highlighted Taco Bell's value positioning, KFC's international growth runway, and technology-driven unit economics as key differentiators. With shares flat year-to-date and trading at a discount to the 5-year historical multiple (~21x forward vs. historical average), Morgan Stanley sees a compelling setup for multiple expansion.",
+      "bull_case": [
+        "Morgan Stanley upgrade to Overweight with $185 price target highlights untapped growth potential in KFC international markets and Taco Bell's domestic value menu appeal in a consumer-trade-down environment",
+        "Stock trading 10.7% below its 52-week high at ~21x forward earnings—a discount to its 5-year average—offers an attractive entry point for a capital-light global franchise business"
+      ],
+      "bear_case": [
+        "Flat year-to-date performance reflects persistent macroeconomic pressure on consumer discretionary spending; meaningful same-store sales acceleration is needed to re-rate the multiple",
+        "High debt load typical of franchise restaurant models limits financial flexibility in a higher-for-longer interest rate environment, constraining buyback and dividend growth capacity"
+      ],
+      "recommendation": "Buy",
+      "current_price": "$151.27",
+      "price_target": "$175.89 (+16.3%)",
+      "pe_ratio": "26.98",
+      "rsi": "N/A",
+      "vs_52wk_high": "-10.7% below high ($169.39)",
+      "analyst_rating": "Buy",
+      "sector": "Consumer Discretionary - Quick Service Restaurants",
+      "sources": ["Investing.com", "CNBC", "TipRanks", "Yahoo Finance", "GuruFocus", "Moomoo"],
+      "price_history_5d": [147.95, 147.85, 151.27]
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple Inc.",
+      "discussion_driver": "Apple was in focus as Goldman Sachs reiterated its Buy rating with a $340 price target ahead of WWDC (June 8-12), where the market widely expects Siri 2.0 powered by a hybrid on-device/Google Gemini AI model to be the headline announcement. The stock pushed to an all-time closing high of $315.20 on June 2 before pulling back slightly to $310.74 on June 3. With RSI at 74 approaching overbought territory and the stock essentially at its average analyst consensus target, investors are weighing whether the WWDC catalyst has already been fully priced in.",
+      "bull_case": [
+        "Goldman Sachs reiterated Buy with $340 price target ahead of WWDC (June 8-12); Siri 2.0 with hybrid on-device/Google Gemini AI is expected to meaningfully close Apple's AI gap and re-accelerate iPhone upgrade cycles",
+        "Apple's Services segment (~$100B+ annual run rate) provides high-margin recurring revenue that diversifies the business beyond hardware and supports a premium valuation multiple over the long term"
+      ],
+      "bear_case": [
+        "Stock is trading essentially at its average analyst consensus price target ($310.51), meaning near-term upside is limited without a material AI surprise at WWDC that exceeds elevated investor expectations",
+        "Trailing P/E of 38x and RSI of 74 suggest significant AI optimism is already priced in ahead of WWDC—any disappointment in Siri 2.0 or AI features risks a sharp pullback from all-time highs"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$310.74",
+      "price_target": "$310.51 (0.0%)",
+      "pe_ratio": "38.11",
+      "rsi": "74.30",
+      "vs_52wk_high": "-1.4% below high ($315.20)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - Consumer Electronics & Software",
+      "sources": ["Goldman Sachs via CNBC", "Motley Fool", "Benzinga", "Yahoo Finance", "MarketBeat", "GuruFocus"],
+      "price_history_5d": [310.85, 312.06, 306.31, 315.20, 310.74]
     }
   ]
 }
