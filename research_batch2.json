@@ -1,121 +1,121 @@
 {
-  "report_date": "2026-06-02",
+  "report_date": "2026-06-03",
   "batch": 2,
   "stocks": [
     {
-      "ticker": "GOOGL",
-      "company": "Alphabet Inc.",
-      "discussion_driver": "Alphabet announced an unprecedented $80 billion equity offering — its first stock issuance since 2005 — to fund AI infrastructure buildout, including a $10 billion private placement to Berkshire Hathaway. The move doubled 2026 capex guidance to $180–190 billion and sent shares down ~3.5% on dilution fears, even as the company framed it as essential to meet surging AI compute demand.",
+      "ticker": "XOS",
+      "company": "Xos Inc.",
+      "discussion_driver": "Xos launched its 2.5MWh Power Hub series on June 3 — a factory-integrated, containerized energy storage system that delivers megawatt-scale power to AI data centers and industrial sites within days, bypassing the 3-7 year grid interconnection wait. The announcement triggered a 221% after-hours surge to ~$7.16, as investors re-rated the company from niche EV maker to AI energy infrastructure play. The CEO called it a 'deployable power plant,' scaling from 1.2MWh to 4MWh inside a standard intermodal container.",
       "bull_case": [
-        "Dominant AI infrastructure position across Search, Cloud, and YouTube with durable advertising revenue; $80B raise ensures Alphabet can match or outspend rivals on AI compute for years ahead.",
-        "Trailing PE of 28.7x is significantly below the peer average of 35.6x, suggesting valuation remains compelling relative to the breadth and depth of Alphabet's AI-enabled business mix."
+        "Power Hub directly targets the most acute AI infrastructure bottleneck — power availability — backed by 250+ MWh already deployed across 1,400+ assets, lending credibility to the pivot and de-risking commercial scale-up",
+        "First-mover advantage in containerized, grid-independent behind-the-meter storage for data centers, with a massive addressable market where traditional interconnection timelines (3-7 years) make alternatives extremely valuable"
       ],
       "bear_case": [
-        "Massive share dilution from $80B equity offering pressures near-term EPS; the Berkshire placement was priced at $351.81/share, signaling the company accepted meaningful dilution to fund AI capex.",
-        "$180–190B in 2026 capex represents a dramatic acceleration that could compress free cash flow and margins for multiple years if AI monetization lags the investment pace."
+        "Micro-cap with no current earnings and a history of violent reversals; prior 52-week high was $5.60 and after-hours surges on news catalysts frequently collapse at market open when retail enthusiasm fades",
+        "Roth MKM cut its price target from $6 to $4 weeks before the Power Hub announcement citing fundamental concerns; commercial scale-up from product launch to meaningful recurring revenue remains highly uncertain"
       ],
-      "recommendation": "Hold",
-      "current_price": "$362.00",
-      "price_target": "$430.00 (+18.8%)",
-      "pe_ratio": "28.71",
-      "rsi": "N/A",
-      "vs_52wk_high": "-11.4% below high ($408.61)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Communication Services - Internet & Advertising",
-      "sources": ["CNBC", "GuruFocus", "Schaeffer's Research", "MarketBeat", "Yahoo Finance", "SEC EDGAR"],
-      "price_history_5d": [389.00, 386.12, 376.43, 376.37, 362.00]
+      "recommendation": "Speculative Buy",
+      "current_price": "$7.16 (after-hours; regular session closed $2.23)",
+      "price_target": "$4.00 (-44.1% vs AH price; Roth MKM, pre-announcement)",
+      "pe_ratio": "N/A",
+      "rsi": "63.24 (pre-surge; likely overbought post-announcement)",
+      "vs_52wk_high": "New 52-week high (prior high was $5.60, Aug 2025)",
+      "analyst_rating": "Buy",
+      "sector": "Industrials - Electric Vehicles & Energy Storage",
+      "sources": ["Benzinga", "StockTitan", "Quiverquant", "Investing.com", "TimothySykes"],
+      "price_history_5d": [2.05, 2.15, 2.25, 2.34, 2.23]
     },
     {
-      "ticker": "CRM",
-      "company": "Salesforce, Inc.",
-      "discussion_driver": "Salesforce beat fiscal Q1 2027 estimates (EPS $3.88 vs $2.96 expected; revenue +13% to $11.1B) but issued cautious forward guidance, triggering a volatile post-earnings reaction: shares initially fell ~4.5% on guidance disappointment, then surged 9.7% on June 1 before pulling back ~4.5% on June 2. The stock is down ~30% YTD as investors debate whether AI-native competitors will erode Salesforce's dominance of the $250B+ CRM market.",
+      "ticker": "XOM",
+      "company": "Exxon Mobil Corp.",
+      "discussion_driver": "Exxon Mobil shares rose ~3% on June 3 as WTI crude surged 2.5% to ~$96/barrel on escalating US-Iran tensions and IEA warnings about a potential Strait of Hormuz disruption. XOM's integrated upstream/downstream model and heavy crude processing capacity amplify earnings leverage to oil price spikes. The stock has gained 42%+ over the past 52 weeks and RSI at 67.53 signals building momentum approaching overbought territory.",
       "bull_case": [
-        "Agentforce AI platform creates defensible new revenue streams atop a massive installed base; trailing PE of 17x is deeply discounted vs. SaaS peers and reflects excessive bearishness on the competitive threat.",
-        "Q1 non-GAAP operating margin reached 34.8% and EPS grew 50%, demonstrating strong profitability even as growth moderates — leaving significant room for multiple expansion if guidance proves conservative."
+        "WTI at ~$96 on geopolitical risk dramatically boosts near-term earnings; XOM's integrated operations and heavy crude refining capacity capture outsized margin expansion versus peers in a supply-constrained environment",
+        "Strong 52-week performance (+42%), robust balance sheet, and consistent capital return program (buybacks and dividends) provide both offensive upside and defensive characteristics in a volatile macro environment"
       ],
       "bear_case": [
-        "Cautious forward guidance suggests AI tailwinds have not yet accelerated growth; CEO actively defending the SaaS model against AI disruption raises structural questions about long-term competitive positioning.",
-        "Stock down ~30% YTD signals persistent institutional selling; Citi maintained Neutral with a target cut to $187, reflecting sector-wide skepticism about AI's near-term impact on legacy SaaS platforms."
+        "Geopolitical risk is highly binary — any de-escalation of US-Iran tensions or a surprise ceasefire could rapidly reverse the $96 crude tailwind and compress XOM's elevated near-term valuation",
+        "RSI at 67.53 is approaching overbought territory with the consensus analyst target of $169.18 implying only 10.8% additional upside, limiting the risk/reward at current levels"
       ],
       "recommendation": "Buy",
-      "current_price": "$200.00",
-      "price_target": "$264.00 (+32.0%)",
-      "pe_ratio": "16.97",
-      "rsi": "N/A",
-      "vs_52wk_high": "-27.7% below high ($276.80)",
+      "current_price": "$152.71",
+      "price_target": "$169.18 (+10.8%)",
+      "pe_ratio": "24.46",
+      "rsi": "67.53",
+      "vs_52wk_high": "-13.4% below high ($176.41)",
       "analyst_rating": "Buy",
-      "sector": "Technology - Cloud Software (SaaS/CRM)",
-      "sources": ["Yahoo Finance", "StockStory", "GuruFocus", "MarketBeat", "Benzinga", "StockAnalysis"],
-      "price_history_5d": [203.00, 200.00, 191.10, 209.60, 200.00]
+      "sector": "Energy - Integrated Oil & Gas",
+      "sources": ["CNBC", "StockAnalysis", "Yahoo Finance", "Motley Fool", "Investing.com"],
+      "price_history_5d": [146.51, 147.50, 148.50, 149.56, 152.71]
     },
     {
-      "ticker": "META",
-      "company": "Meta Platforms, Inc.",
-      "discussion_driver": "Arete Research upgraded Meta to Buy and raised its price target to $735 from $614, citing a flexible cost structure, accelerating subscription revenue across WhatsApp and Instagram, and AI product progress that Arete sees as ahead of peers. The stock has pulled back ~24.6% from its 52-week high of $796.25, creating what Arete frames as a compelling entry point into a dominant AI-era social platform.",
+      "ticker": "MPC",
+      "company": "Marathon Petroleum Corp.",
+      "discussion_driver": "Marathon Petroleum gained ~3% on June 3 alongside a sector-wide energy rally as WTI crude jumped to ~$96 on US-Iran tensions. MPC's refining model — particularly its heavy crude processing capacity — uniquely benefits from a potential Strait of Hormuz disruption as light-heavy crude differentials widen and crack spreads expand. The stock is up 51% YTD in 2026 after a massive Q1 EPS beat ($1.65 vs $0.75 estimate), and has pushed to new 52-week highs.",
       "bull_case": [
-        "Meta AI and AI-powered ad targeting driving meaningful revenue uplift; subscription features scaling across 3B+ daily users across WhatsApp, Instagram, and Facebook provide a durable recurring revenue layer.",
-        "Best-in-class capital returns ($50B+ annual FCF) and a flexible cost structure enable sustained AI investment while maintaining shareholder returns; 64-analyst consensus is overwhelmingly Strong Buy."
+        "Heavy crude refining capability captures maximum benefit when Middle East disruptions widen crack spreads; with WTI at $96 and geopolitical tensions escalating, MPC's refining margins remain structurally elevated",
+        "Management demonstrated exceptional operational leverage with Q1 EPS more than doubling consensus estimates; 51% YTD gain is underpinned by fundamental earnings growth rather than speculative re-rating"
       ],
       "bear_case": [
-        "Antitrust scrutiny in both the US and EU (ongoing FTC suit over Instagram and WhatsApp acquisitions) remains a structural overhang that could force divestitures or restrict future M&A activity.",
-        "At ~$601 vs. $796 52-week high, if AI monetization timelines slip, elevated capex spending could pressure margins without corresponding revenue acceleration, extending the drawdown further."
-      ],
-      "recommendation": "Buy",
-      "current_price": "$600.61",
-      "price_target": "$835.00 (+39.0%)",
-      "pe_ratio": "22.73",
-      "rsi": "N/A",
-      "vs_52wk_high": "-24.6% below high ($796.25)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Communication Services - Social Media & Advertising",
-      "sources": ["Yahoo Finance", "TipRanks", "247WallSt", "MarketBeat", "StockAnalysis", "GuruFocus"],
-      "price_history_5d": [632.79, 635.34, 624.06, 600.47, 600.61]
-    },
-    {
-      "ticker": "OKTA",
-      "company": "Okta, Inc.",
-      "discussion_driver": "Okta crushed Q1 FY2027 estimates (EPS $0.91 vs $0.74 expected; revenue +11% to $765M) with bullish commentary on agentic AI identity demand, triggering a 30%+ single-day surge and new 52-week highs. Mizuho immediately downgraded to Neutral — while raising its target to $125 — citing uncertainty about the timing and magnitude of the AI security revenue uplift, highlighting a split between near-term earnings momentum and the uncertain pace of AI-driven demand conversion.",
-      "bull_case": [
-        "Agentic AI creates a massive new identity security attack surface that enterprises must govern, positioning Okta's platform as essential AI-era infrastructure with a structural revenue re-acceleration catalyst.",
-        "Q1 FY2027 beat demonstrates revenue re-acceleration trajectory; if agentic AI identity demand materializes at scale, current 11% growth rates could meaningfully accelerate and justify the premium valuation."
-      ],
-      "bear_case": [
-        "Stock now trades at 101x trailing PE and above Mizuho's freshly-raised $125 price target; even post-downgrade analysts see the stock as stretched, and valuation risk after a 30%+ one-day surge is substantial.",
-        "Mizuho's Neutral rating with a $125 target set ~8.8% below the current price signals that the AI uplift timeline and magnitude remain 'big question marks' — the stock may have overshot near-term fundamentals."
+        "Consensus analyst target of $265.06 is now below the estimated June 3 closing price of ~$271, suggesting the market has already priced in much of the bull case and further upside requires additional oil price escalation",
+        "Refining margins are highly cyclical; any Iran ceasefire, OPEC supply increase, or demand destruction from $96+ oil could rapidly compress crack spreads and trigger a sharp pullback from record highs"
       ],
       "recommendation": "Hold",
-      "current_price": "$137.00",
-      "price_target": "$125.00 (-8.8%)",
-      "pe_ratio": "101.3",
-      "rsi": "N/A",
-      "vs_52wk_high": "-3.8% below high ($142.35)",
-      "analyst_rating": "Hold",
-      "sector": "Technology - Identity & Access Management",
-      "sources": ["Yahoo Finance", "TipRanks", "Benzinga", "Mizuho Research", "StocksTotrade", "CNBC"],
-      "price_history_5d": [89.50, 94.73, 123.27, 139.79, 137.00]
+      "current_price": "$271.00 (est.)",
+      "price_target": "$265.06 (-2.2%)",
+      "pe_ratio": "16.0",
+      "rsi": "55.8",
+      "vs_52wk_high": "At new 52-week high (prior high $264.84, set June 2)",
+      "analyst_rating": "Buy",
+      "sector": "Energy - Petroleum Refining & Marketing",
+      "sources": ["CNBC", "TIKR.com", "MarketBeat", "StockAnalysis", "Seeking Alpha"],
+      "price_history_5d": [252.00, 255.00, 258.66, 263.06, 271.00]
     },
     {
-      "ticker": "GNRC",
-      "company": "Generac Holdings, Inc.",
-      "discussion_driver": "Generac secured a global supply agreement with a leading hyperscale data center operator for backup power generators, sending shares up 5.9% to a new 52-week high. The deal validates Generac's pivot to AI data center power infrastructure — the stock is up 101% YTD — and builds on a wave of analyst upgrades including Jefferies raising its target to $302, reflecting conviction that AI infrastructure build-out will sustain multi-year demand for commercial power generation.",
+      "ticker": "BX",
+      "company": "Blackstone Inc.",
+      "discussion_driver": "Blackstone fell ~4% on June 3 after Switzerland's Partners Group capped withdrawals from its $8.6B Global Value SICAV evergreen private equity fund when redemption requests hit 9.8% of NAV — far exceeding the 5% gate. This reignited fears of a broader private equity liquidity crisis, recalling Blackstone's own BREIT real estate fund gate episode. The stock sits 39.4% below its 52-week high with RSI approaching oversold territory at 30.52, signaling sustained institutional selling.",
       "bull_case": [
-        "Hyperscale data center AI infrastructure build-out creates a multi-year structural demand tailwind for backup power; the new global supply agreement validates Generac as a preferred vendor at scale for the largest hyperscale operators.",
-        "Multiple analyst upgrades (Jefferies $302, Canaccord $325) reflect conviction that data center demand is a durable, secular growth driver well beyond the residential generator market that drove prior cycles."
+        "Blackstone's $1T+ AUM platform across private equity, real estate, credit, and infrastructure generates massive recurring fee revenues that are only partially reflected at current prices, with analysts projecting 24.7% upside",
+        "The Partners Group contagion may be an overreaction specific to smaller, less diversified evergreen funds; Blackstone's scale, brand, and diversified investor base provide structural resilience the selloff may be ignoring"
       ],
       "bear_case": [
-        "At 77x trailing PE and up 101% YTD, the stock is trading above the average analyst consensus target of $268, meaning the current price already prices in substantial optimism — leaving limited margin of safety.",
-        "Manufacturing and supply chain scaling to meet surging hyperscaler demand is capital-intensive and operationally risky; execution shortfalls could expose the stock to a sharp de-rating from current elevated multiples."
+        "Private market 'evergreen' fund structures face a systemic trust crisis — if retail and high-net-worth investors broadly reduce PE allocations, Blackstone's multi-year AUM growth strategy is fundamentally challenged",
+        "RSI at 30.52 signals continued downward momentum; private market valuations lag public markets and potential asset mark-downs could trigger further NAV erosion and accelerate a self-reinforcing redemption cycle"
       ],
       "recommendation": "Hold",
-      "current_price": "$282.36",
-      "price_target": "$285.00 (+0.9%)",
-      "pe_ratio": "76.96",
-      "rsi": "N/A",
-      "vs_52wk_high": "-4.9% below high ($297.00)",
+      "current_price": "$115.20",
+      "price_target": "$143.65 (+24.7%)",
+      "pe_ratio": "29.5",
+      "rsi": "30.52",
+      "vs_52wk_high": "-39.4% below high ($190.09)",
       "analyst_rating": "Buy",
-      "sector": "Industrials - Power Generation Equipment",
-      "sources": ["Yahoo Finance", "Investing.com", "CNBC", "GuruFocus", "Benzinga", "MarketBeat"],
-      "price_history_5d": [270.00, 270.00, 268.00, 269.26, 282.36]
+      "sector": "Financial Services - Alternative Asset Management",
+      "sources": ["CNBC", "Sherwood News", "InvezZ", "StockAnalysis", "MarketBeat"],
+      "price_history_5d": [119.50, 120.00, 121.00, 121.40, 115.20]
+    },
+    {
+      "ticker": "KKR",
+      "company": "KKR & Co. Inc.",
+      "discussion_driver": "KKR shares fell more than 4%, closing at $90.51 on June 3 — just 9.4% above its 52-week low of $82.67 — as Partners Group's withdrawal caps spread contagion across all major private equity managers with retail-accessible fund structures. Investors fear that KKR's growing reliance on high-net-worth and retail capital channels makes it particularly vulnerable if wealthy individual investors broadly retreat from private market allocations amid valuation uncertainty and liquidity concerns.",
+      "bull_case": [
+        "At 64.2% below the consensus analyst price target of $148.63, KKR's diversified platform across PE, credit, infrastructure, insurance, and real estate represents potential deep value if the liquidity panic proves transitory and over-extrapolated",
+        "KKR has strategically expanded into insurance capital and recurring fee-based revenue streams that reduce dependence on volatile carried interest, providing earnings stability the current selloff is likely underweighting"
+      ],
+      "bear_case": [
+        "Partners Group's withdrawal gates represent the leading edge of a potential systemic de-allocation from private equity by retail investors — KKR's heavily promoted retail wealth channel is the most exposed among major PE firms",
+        "Private market asset valuations are notoriously lagged; if portfolio companies need to be marked down to reflect higher-for-longer rates, NAV erosion could trigger a self-reinforcing cycle of redemptions and further write-downs"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$90.51",
+      "price_target": "$148.63 (+64.2%)",
+      "pe_ratio": "32.7",
+      "rsi": "61.84",
+      "vs_52wk_high": "-41.2% below high ($153.87)",
+      "analyst_rating": "Buy",
+      "sector": "Financial Services - Alternative Asset Management / Private Equity",
+      "sources": ["CNBC", "Sherwood News", "InvestmentNews", "StockAnalysis", "Yahoo Finance"],
+      "price_history_5d": [95.50, 95.00, 95.50, 95.27, 90.51]
     }
   ]
 }
