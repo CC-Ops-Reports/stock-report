@@ -1,174 +1,180 @@
 {
-  "report_date": "2026-06-03",
-  "market_tone": "Bearish",
+  "report_date": "2026-06-04",
+  "market_tone": "Mixed",
   "key_themes": [
-    "AI chip earnings blowout \u2014 Broadcom Q2 revenue +48% YoY; AI semiconductor revenue +143%; CrowdStrike beats and announces 4-for-1 stock split",
-    "Oil surge on US-Iran ceasefire tensions \u2014 WTI crude rises 2.5% to ~$96, energy stocks rally while broader market sells off",
-    "Private equity liquidity fears \u2014 Partners Group caps withdrawals from $8.6B evergreen fund, triggering sector-wide selloff in Blackstone, KKR, Ares, Carlyle"
+    "AI chip selloff: Broadcom Q3 AI guidance misses estimates, drags semis lower",
+    "Sector rotation: Dow hits record high as capital moves from tech into healthcare & financials",
+    "Quantinuum quantum computing IPO debuts on Nasdaq, raising $1.68B in 20x oversubscribed offering"
   ],
   "sp500": {
-    "value": "7,553.41",
-    "change": "-0.74%"
+    "value": "7,584.31",
+    "change": "+0.41%"
   },
   "nasdaq": {
-    "value": "26,852.77",
-    "change": "-0.89%"
+    "value": "26,830.96",
+    "change": "-0.09%"
   },
   "stocks": [
     {
       "ticker": "AVGO",
       "company": "Broadcom Inc.",
-      "reason": "Q2 FY2026 earnings after hours: revenue $22.2B (+48% YoY), AI semiconductor revenue up 143% to $10.8B, Q3 guidance of $29.4B (up 84%) \u2014 massive beat across the board",
+      "reason": "Shares plunged ~14% after Q2 FY2026 earnings: revenue of $22.19B missed $22.27B estimate and Q3 AI chip guidance of $16B fell short of $17.2B expectations, despite record AI revenue up 143% YoY",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "StockTitan",
-        "Broadcom IR"
+        "Bloomberg",
+        "TheStreet",
+        "Motley Fool"
       ]
     },
     {
       "ticker": "CRWD",
       "company": "CrowdStrike Holdings",
-      "reason": "Q1 FY2027 earnings: EPS $1.10 vs $0.88 expected (+25% beat), record net new ARR of $256M (+32% YoY), and announced 4-for-1 stock split effective June 25",
+      "reason": "Stock fell 10-11% after Q1 FY2027 earnings: billings of $1.35B grew only 18%, missing estimates, despite revenue beat of $1.39B and record net new ARR; stock had rallied ~65% YTD",
       "category": "earnings",
       "sources": [
-        "SEC 8-K",
         "CNBC",
-        "TheStreet"
+        "GuruFocus",
+        "TechTimes"
       ]
     },
     {
-      "ticker": "MRVL",
-      "company": "Marvell Technology",
-      "reason": "Up ~5-6% continuing yesterday's historic +32% single-day surge; AI chip momentum extends as semiconductor sector leads S&P 500",
-      "category": "sector",
-      "sources": [
-        "TheStreet",
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "GME",
-      "company": "GameStop Corp.",
-      "reason": "Q1 revenue of $835.3M (+14% YoY) beat estimates; board approved $2B share repurchase authorization; stock surged ~6%",
-      "category": "earnings",
-      "sources": [
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "MDT",
-      "company": "Medtronic plc",
-      "reason": "Q4 FY2026 earnings: revenue $9.8B (+9.9%), highest annual revenue growth in a decade; cardiac ablation solutions up 78% globally; stock up ~5%",
-      "category": "earnings",
-      "sources": [
-        "Medtronic IR",
-        "Seeking Alpha",
-        "Investing.com"
-      ]
-    },
-    {
-      "ticker": "XOS",
-      "company": "Xos Inc.",
-      "reason": "Surged 172%+ after launching 2.5MWh Power Hub \u2014 a grid-independent energy storage system for AI data centers; CEO calls it a \"deployable power plant\"",
-      "category": "news",
-      "sources": [
-        "Benzinga",
-        "StockTitan",
-        "Investing.com"
-      ]
-    },
-    {
-      "ticker": "XOM",
-      "company": "Exxon Mobil Corp.",
-      "reason": "Up ~3% as WTI crude surged 2.5% to ~$96 on fresh US-Iran tensions and warnings from IEA about potential Strait of Hormuz disruption",
+      "ticker": "QNT",
+      "company": "Quantinuum",
+      "reason": "Quantum computing company debuted on Nasdaq today after raising $1.68B in a 20x oversubscribed IPO priced at $60/share (above $53-$55 range); opened at $68, closed near flat with $15.7B market cap",
       "category": "news",
       "sources": [
         "CNBC",
-        "Motley Fool",
+        "Reuters",
+        "TheQuantumInsider",
         "Yahoo Finance"
       ]
     },
     {
-      "ticker": "MPC",
-      "company": "Marathon Petroleum Corp.",
-      "reason": "Up ~3% alongside broader energy sector rally driven by surging oil prices amid escalating US-Iran geopolitical tensions",
-      "category": "sector",
+      "ticker": "UNH",
+      "company": "UnitedHealth Group",
+      "reason": "Shares climbed ~5% to ~$397 after Bank of America upgraded to Buy from Neutral and raised price target to $450 from $420, citing improving medical cost trends and earnings power ~50% above 2026 guidance",
+      "category": "upgrade",
       "sources": [
-        "CNBC"
+        "CNBC",
+        "GuruFocus",
+        "TipRanks",
+        "Schaeffer's"
       ]
     },
     {
       "ticker": "BX",
       "company": "Blackstone Inc.",
-      "reason": "Down ~4% after Switzerland's Partners Group capped withdrawals from its $8.6B Global Value SICAV evergreen PE fund (redemptions hit 9.8% of NAV), stoking fresh liquidity fears across private equity",
+      "reason": "Shares surged ~6.6% despite news that its $79B flagship private credit fund capped withdrawals at 5% after redemption requests hit 10% of outstanding shares in Q2, the highest since fund inception",
       "category": "news",
       "sources": [
         "CNBC",
-        "Sherwood News",
-        "InvezZ"
-      ]
-    },
-    {
-      "ticker": "KKR",
-      "company": "KKR & Co. Inc.",
-      "reason": "Down ~5% on same Partners Group private equity contagion; investors fear broader private market valuation write-downs and liquidity crunch",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "InvestmentNews"
-      ]
-    },
-    {
-      "ticker": "PANW",
-      "company": "Palo Alto Networks",
-      "reason": "Down ~4-6% despite beating Q3 FY2026 earnings (EPS $0.85 vs $0.81, revenue $3.0B +31% YoY); investors spooked by high acquisition costs and persistent GAAP net loss of $177M",
-      "category": "earnings",
-      "sources": [
+        "Reuters",
         "Motley Fool",
-        "TradingKey",
         "GuruFocus"
       ]
     },
     {
-      "ticker": "RGTI",
-      "company": "Rigetti Computing",
-      "reason": "Down ~10% in a sector-wide quantum computing selloff; IonQ fell ~4% and D-Wave dropped ~7% as investors rotated out of speculative quantum plays",
+      "ticker": "PVH",
+      "company": "PVH Corp (Calvin Klein / Tommy Hilfiger)",
+      "reason": "Stock plunged ~20% despite Q1 revenue of $2.03B beating estimates; company lowered full-year revenue outlook to \"approximately flat\" citing EMEA headwinds from Iran war; EMEA constant-currency revenue fell 5%",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Sherwood News",
+        "Investing.com",
+        "StockStory"
+      ]
+    },
+    {
+      "ticker": "FIVE",
+      "company": "Five Below",
+      "reason": "Shares fell ~13% despite Q1 EPS of $2.22 beating by $0.43 and revenue of $1.28B up 31.9% YoY; raised full-year net sales guidance to $5.40-$5.48B but sell-the-news reaction drove the decline",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "247WallSt"
+      ]
+    },
+    {
+      "ticker": "WOOF",
+      "company": "Petco Health and Wellness",
+      "reason": "Shares dropped ~12% after earnings as current-quarter guidance came in below Wall Street expectations, disappointing investors despite broadly in-line quarterly results",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Bloomberg"
+      ]
+    },
+    {
+      "ticker": "ALNY",
+      "company": "Alnylam Pharmaceuticals",
+      "reason": "Shares advanced ~4% after announcing a strategic AI collaboration with Inceptive Nucleics valued at up to $2B; $30M upfront payment to use generative AI to accelerate RNAi drug discovery",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "GuruFocus",
+        "ThePharmaLetter"
+      ]
+    },
+    {
+      "ticker": "AMD",
+      "company": "Advanced Micro Devices",
+      "reason": "Fell ~4% in sympathy selloff following Broadcom's AI chip guidance miss; no company-specific news, but AI semiconductor sentiment dragged the stock lower",
       "category": "sector",
       "sources": [
+        "247WallSt",
         "CNBC"
       ]
     },
     {
-      "ticker": "CMG",
-      "company": "Chipotle Mexican Grill",
-      "reason": "Morgan Stanley downgraded to Equal Weight from Overweight; price target cut to $37 from $49; analyst cites growth normalization, rising costs, and multiple compression to 28x from 35x 2027 earnings",
-      "category": "downgrade",
-      "sources": [
-        "Yahoo Finance",
-        "Investing.com",
-        "247WallSt"
-      ]
-    },
-    {
-      "ticker": "YUM",
-      "company": "Yum! Brands Inc.",
-      "reason": "Morgan Stanley upgraded to Overweight from Equal Weight; analyst prefers Yum over Chipotle for its value positioning, Taco Bell growth, and technology-driven upside in a cautious consumer environment",
+      "ticker": "RTX",
+      "company": "RTX Corporation",
+      "reason": "Raised to Buy from Hold at Jefferies with price target bumped to $220 from $210; benefited from rotation into defense/industrials as tech sold off",
       "category": "upgrade",
       "sources": [
         "Yahoo Finance",
-        "247WallSt"
+        "CNBC"
       ]
     },
     {
-      "ticker": "AAPL",
-      "company": "Apple Inc.",
-      "reason": "Goldman Sachs reiterated Buy (PT $340) ahead of WWDC June 8-12; Siri 2.0 with hybrid on-device/Google Gemini AI model expected as headline announcement; stock near all-time highs",
-      "category": "news",
+      "ticker": "MDT",
+      "company": "Medtronic",
+      "reason": "Upgraded to Buy from Neutral at BTIG Research with a $90 price target; healthcare sector outperformed as investors rotated out of tech on Broadcom-led selloff",
+      "category": "upgrade",
       "sources": [
-        "Goldman Sachs via CNBC",
-        "Motley Fool",
-        "Blockonomi"
+        "Yahoo Finance",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "WULF",
+      "company": "TeraWulf Inc.",
+      "reason": "Initiated with Outperform rating at Bernstein with a $46 price target; bitcoin mining/AI infrastructure company attracts coverage amid renewed crypto and AI data center interest",
+      "category": "upgrade",
+      "sources": [
+        "Yahoo Finance",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "OLLI",
+      "company": "Ollie's Bargain Outlet Holdings",
+      "reason": "Downgraded to Accumulate from Buy at Gordon Haskett with a $90 price target; discount retail sentiment weaker following Five Below's post-earnings selloff",
+      "category": "downgrade",
+      "sources": [
+        "Yahoo Finance",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "company": "Intel Corporation",
+      "reason": "Fell ~3% in sympathy with broader AI chip selloff triggered by Broadcom's Q3 AI guidance miss, despite no Intel-specific news today",
+      "category": "sector",
+      "sources": [
+        "247WallSt",
+        "CNBC"
       ]
     }
   ]
