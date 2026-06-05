@@ -1,121 +1,121 @@
 {
-  "report_date": "2026-06-03",
+  "report_date": "2026-06-04",
   "batch": 3,
   "stocks": [
     {
-      "ticker": "PANW",
-      "company": "Palo Alto Networks Inc.",
-      "discussion_driver": "Palo Alto Networks delivered a strong Q3 FY2026 beat on June 2—EPS $0.85 vs $0.81 expected and revenue $3.0B (+31% YoY)—yet shares fell ~5% on June 3 as investors fixated on a $177M GAAP net loss and rising costs from recent acquisitions. The stock initially surged 12% in after-hours on the earnings beat before the enthusiasm faded when GAAP concerns dominated. With a P/E over 166x and RSI that had reached overbought territory at 86 pre-earnings, the market is demanding perfection at current valuations.",
+      "ticker": "RTX",
+      "company": "RTX Corporation",
+      "discussion_driver": "RTX surged ~4% on June 4 after Jefferies upgraded the stock from Hold to Buy and raised its price target to $220, citing margin expansion potential to 14-15% by 2028 and $9B+ in projected discretionary free cash flow over three years. The upgrade was amplified by sector rotation into defense and industrials as investors fled Broadcom's AI chip guidance miss. Jefferies projects RTX EPS of $10.45 by 2028, well above the Wall Street consensus of $8.40.",
       "bull_case": [
-        "AI-driven demand for integrated cybersecurity platforms is powering accelerating ARR growth; PANW's platformization strategy raises switching costs and long-term enterprise retention",
-        "Q3 FY2026 beat across the board with 31% YoY revenue growth; 33 out of 33 analyst Buy ratings in the current month with a $306 consensus price target and Evercore ISI setting a $375 high target"
+        "Jefferies upgrade cites defense segment tied to an 8% CAGR growth market through 2030, with operating margins potentially reaching 14%+ by 2028; recent $1.02B NASAMS and $515M SPY-6 Navy radar contracts showcase a robust, growing backlog.",
+        "Sector rotation into defense provides a near-term catalyst on top of improving commercial aerospace fundamentals; $9B+ in projected 3-year discretionary FCF supports ongoing buybacks and dividend growth."
       ],
       "bear_case": [
-        "GAAP net loss of $177M despite an adjusted earnings beat highlights elevated acquisition integration costs weighing on true profitability—a reversal from $262M GAAP net income a year earlier",
-        "Trailing P/E of 166x is historically stretched and RSI reached 86 pre-earnings—an overbought signal that preceded the June 3 selloff despite the earnings beat"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$279.93",
-      "price_target": "$306.45 (+9.5%)",
-      "pe_ratio": "166.27",
-      "rsi": "86.10",
-      "vs_52wk_high": "-7.6% below high ($302.95)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Technology - Cybersecurity",
-      "sources": ["CNBC", "Motley Fool", "MarketBeat", "ChartMill", "Quiver Quantitative", "Benzinga"],
-      "price_history_5d": [257.77, 281.69, 300.48, 297.18, 279.93]
-    },
-    {
-      "ticker": "RGTI",
-      "company": "Rigetti Computing Inc.",
-      "discussion_driver": "Rigetti Computing fell ~10% on June 3 amid a sector-wide quantum computing selloff that also hit IonQ (-4%) and D-Wave (-7%), as investors rotated out of speculative quantum plays in a bearish broader market. Despite the near-term volatility, RGTI has been building momentum since signing a DOC letter of intent for CHIPS Act funding in May 2026—signaling growing government support for domestic quantum infrastructure. The stock remains a high-risk, high-reward speculative bet on a technology still years from mass commercialization.",
-      "bull_case": [
-        "US Department of Commerce letter of intent for CHIPS Act quantum computing funding provides a government-backed revenue catalyst and meaningful credibility boost for the hardware roadmap",
-        "As one of the few publicly traded pure-play quantum computing companies, RGTI offers unparalleled early-stage exposure to the next computing paradigm before commercial scale arrives"
-      ],
-      "bear_case": [
-        "No path to near-term profitability; negative P/E reflects ongoing cash burn with revenues far from sustaining operations at current scale",
-        "Down 54% from its $58.15 52-week high, the stock remains highly speculative with extreme volatility—the June 3 sector selloff illustrates how quickly sentiment can reverse"
-      ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$26.52",
-      "price_target": "$29.24 (+10.3%)",
-      "pe_ratio": "N/A",
-      "rsi": "N/A",
-      "vs_52wk_high": "-54.4% below high ($58.15)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Quantum Computing",
-      "sources": ["MarketBeat", "Perplexity Finance", "CNBC", "Motley Fool", "Investing.com"],
-      "price_history_5d": [27.03, 25.54, 25.65, 29.47, 26.52]
-    },
-    {
-      "ticker": "CMG",
-      "company": "Chipotle Mexican Grill Inc.",
-      "discussion_driver": "Chipotle was downgraded by Morgan Stanley to Equal Weight on June 3 with analyst Brian Harbour cutting the price target to $37 from $49, citing growth normalization, rising input costs, and multiple compression as the chain grapples with a more cautious consumer environment. Despite the negative momentum—the stock is now down more than 50% from its 52-week high of $58.42—the majority of Wall Street still maintains a Buy rating with an average target near $44, leaving open meaningful upside potential if fundamentals stabilize ahead of Q2 earnings on July 29.",
-      "bull_case": [
-        "Consensus analyst price target of $44+ implies 53% upside from current depressed levels; the brand's loyal digital customer base and menu pricing power provide a durable competitive moat",
-        "Q2 2026 results due July 29 represent a near-term catalyst; any evidence of same-store sales stabilization or margin improvement could trigger a significant re-rating higher"
-      ],
-      "bear_case": [
-        "Morgan Stanley downgraded to Equal Weight, cutting the price target to $37 from $49, citing growth normalization, rising costs, and multiple compression from 35x to 28x forward earnings",
-        "Stock down 50%+ from its $58.42 52-week high reflects sustained deterioration in comparable-store sales growth and cautious consumer spending patterns"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$28.80",
-      "price_target": "$44.09 (+53.1%)",
-      "pe_ratio": "28.03",
-      "rsi": "N/A",
-      "vs_52wk_high": "-50.7% below high ($58.42)",
-      "analyst_rating": "Buy",
-      "sector": "Consumer Discretionary - Fast Casual Restaurants",
-      "sources": ["Yahoo Finance", "247WallSt", "Investing.com", "Motley Fool", "MarketBeat", "TipRanks"],
-      "price_history_5d": [31.86, 31.86, 29.26, 28.80]
-    },
-    {
-      "ticker": "YUM",
-      "company": "Yum! Brands Inc.",
-      "discussion_driver": "Yum! Brands was upgraded by Morgan Stanley to Overweight on June 3 with analyst Brian Harbour raising the price target to $185 from $180, calling the stock a better risk/reward than downgraded peer Chipotle in the current cautious consumer environment. Harbour highlighted Taco Bell's value positioning, KFC's international growth runway, and technology-driven unit economics as key differentiators. With shares flat year-to-date and trading at a discount to the 5-year historical multiple (~21x forward vs. historical average), Morgan Stanley sees a compelling setup for multiple expansion.",
-      "bull_case": [
-        "Morgan Stanley upgrade to Overweight with $185 price target highlights untapped growth potential in KFC international markets and Taco Bell's domestic value menu appeal in a consumer-trade-down environment",
-        "Stock trading 10.7% below its 52-week high at ~21x forward earnings—a discount to its 5-year average—offers an attractive entry point for a capital-light global franchise business"
-      ],
-      "bear_case": [
-        "Flat year-to-date performance reflects persistent macroeconomic pressure on consumer discretionary spending; meaningful same-store sales acceleration is needed to re-rate the multiple",
-        "High debt load typical of franchise restaurant models limits financial flexibility in a higher-for-longer interest rate environment, constraining buyback and dividend growth capacity"
+        "Pratt & Whitney GTF engine recall has cost $2.8B through 2026 with 800+ aircraft still grounded globally, creating persistent airline compensation risk and margin drag that could offset defense segment gains.",
+        "Tariff headwinds estimated at $500-600M annually and lingering supply chain constraints limit full recovery of commercial aerospace volumes; stock remains -16% below its 52-week high."
       ],
       "recommendation": "Buy",
-      "current_price": "$151.27",
-      "price_target": "$175.89 (+16.3%)",
-      "pe_ratio": "26.98",
-      "rsi": "N/A",
-      "vs_52wk_high": "-10.7% below high ($169.39)",
+      "current_price": "$179.45",
+      "price_target": "$215.00 (+19.8%)",
+      "pe_ratio": "32.37",
+      "rsi": "43.9",
+      "vs_52wk_high": "-16.3% below high ($214.50)",
       "analyst_rating": "Buy",
-      "sector": "Consumer Discretionary - Quick Service Restaurants",
-      "sources": ["Investing.com", "CNBC", "TipRanks", "Yahoo Finance", "GuruFocus", "Moomoo"],
-      "price_history_5d": [147.95, 147.85, 151.27]
+      "sector": "Industrials - Aerospace & Defense",
+      "sources": ["Jefferies via GuruFocus", "Invezz", "Yahoo Finance", "CNBC", "The Defense News", "Seeking Alpha"],
+      "price_history_5d": [177.01, 179.01, 174.26, 172.55, 179.45]
     },
     {
-      "ticker": "AAPL",
-      "company": "Apple Inc.",
-      "discussion_driver": "Apple was in focus as Goldman Sachs reiterated its Buy rating with a $340 price target ahead of WWDC (June 8-12), where the market widely expects Siri 2.0 powered by a hybrid on-device/Google Gemini AI model to be the headline announcement. The stock pushed to an all-time closing high of $315.20 on June 2 before pulling back slightly to $310.74 on June 3. With RSI at 74 approaching overbought territory and the stock essentially at its average analyst consensus target, investors are weighing whether the WWDC catalyst has already been fully priced in.",
+      "ticker": "MDT",
+      "company": "Medtronic plc",
+      "discussion_driver": "Medtronic surged ~6% on June 4 after reporting its highest annual revenue growth in a decade for Q4 FY2026, with 6.6% organic revenue growth beating guidance by 90 basis points and non-GAAP EPS of $1.55 matching estimates. BTIG Research simultaneously upgraded the stock to Buy with a $90 price target. The healthcare sector also benefited from rotation capital fleeing tech after Broadcom's AI chip guidance miss, amplifying the move.",
       "bull_case": [
-        "Goldman Sachs reiterated Buy with $340 price target ahead of WWDC (June 8-12); Siri 2.0 with hybrid on-device/Google Gemini AI is expected to meaningfully close Apple's AI gap and re-accelerate iPhone upgrade cycles",
-        "Apple's Services segment (~$100B+ annual run rate) provides high-margin recurring revenue that diversifies the business beyond hardware and supports a premium valuation multiple over the long term"
+        "Q4 FY2026 delivered the highest annual revenue growth in 10 years with $9.8B revenue (+9.9% reported, +6.6% organic); Cardiac Ablation Solutions surged 78% globally (124% U.S.) and FY2027 organic revenue guidance of 6.75-7.25% signals continued double-digit segment growth.",
+        "BTIG Research upgraded to Buy alongside earnings; healthcare attracting rotation capital from tech selloff, and the 30-analyst consensus price target of $105.76 implies ~28% upside from current levels."
       ],
       "bear_case": [
-        "Stock is trading essentially at its average analyst consensus price target ($310.51), meaning near-term upside is limited without a material AI surprise at WWDC that exceeds elevated investor expectations",
-        "Trailing P/E of 38x and RSI of 74 suggest significant AI optimism is already priced in ahead of WWDC—any disappointment in Siri 2.0 or AI features risks a sharp pullback from all-time highs"
+        "Tariff headwinds and transportation cost increases are fully baked into FY2027 guidance, limiting EPS upside; $5.90-$6.00 FY2027 EPS guidance was viewed by some analysts as insufficient to fully re-rate cost and margin concerns.",
+        "Stock is still -22% below its 52-week high and was down ~13% over the prior 30 days before the earnings bounce; sustained execution is required to prevent another leg lower if macro conditions worsen."
+      ],
+      "recommendation": "Buy",
+      "current_price": "$82.68",
+      "price_target": "$105.76 (+27.9%)",
+      "pe_ratio": "27.02",
+      "rsi": "58.5",
+      "vs_52wk_high": "-22.2% below high ($106.33)",
+      "analyst_rating": "Buy",
+      "sector": "Healthcare - Medical Devices",
+      "sources": ["Medtronic Investor Relations", "BTIG Research", "Motley Fool", "Yahoo Finance", "CNBC", "The Markets Daily"],
+      "price_history_5d": [73.81, 77.95, 82.68]
+    },
+    {
+      "ticker": "WULF",
+      "company": "TeraWulf Inc.",
+      "discussion_driver": "TeraWulf drew fresh Wall Street coverage on June 4 when Bernstein initiated with an Outperform rating and a $46 price target, calling it a 'power landlord of AI' pivoting from bitcoin mining to high-performance computing. With $12.8B in contracted long-term HPC/AI revenue secured — including a 25-year, ~$9.5B deal with Google-backed Fluidstack — TeraWulf sits at the intersection of two high-conviction narratives: AI infrastructure buildout and power scarcity. Near-term losses are steep as the company converts mining assets to data centers.",
+      "bull_case": [
+        "$12.8B in contracted long-term HPC/AI revenue with Fluidstack and Core42 across 522 MW of critical IT capacity in development; AI compute revenue grew 117% quarter-over-quarter in Q1 2026 to $21M (60% of total revenue), with the Abernathy JV (168 MW, 25-year lease) on track for Q4 2026 delivery.",
+        "Bernstein initiated at Outperform ($46) and Morgan Stanley rates Overweight ($66.50); 13 of 13+ covering analysts rate WULF a Buy; stock is only -6% below 52-week high with $3.1B in liquidity supporting the build-out."
+      ],
+      "bear_case": [
+        "Q1 2026 net loss surged to $427M from $61M a year ago due to depreciation from repurposed mining assets, elevated HPC construction and staffing costs, and bitcoin mining revenue collapsing 50% YoY to ~$13M.",
+        "~$2B in net debt and near-total dependence on executing multi-year HPC lease build-outs on schedule create financial fragility; tenant concentration and any construction delays could materially impair the thesis."
+      ],
+      "recommendation": "Speculative Buy",
+      "current_price": "$25.83",
+      "price_target": "$36.54 (+41.5%)",
+      "pe_ratio": "N/A",
+      "rsi": "63.1",
+      "vs_52wk_high": "-6.0% below high ($27.47)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Technology - Bitcoin Mining / AI Infrastructure",
+      "sources": ["Bernstein via Investing.com", "Bitcoin.com News", "Decrypt", "Yahoo Finance", "The Block", "CoinCentral"],
+      "price_history_5d": [26.16, 25.83]
+    },
+    {
+      "ticker": "OLLI",
+      "company": "Ollie's Bargain Outlet Holdings Inc.",
+      "discussion_driver": "Ollie's fell ~5.8% on June 4 after Gordon Haskett downgraded from Buy to Accumulate and cut its price target to $90, following Q1 FY2026 earnings that showed a solid EPS beat ($0.91 vs. $0.87 est.) but weaker-than-expected revenue and a trimmed full-year sales outlook citing 'ongoing pressure on lower-income consumers.' The selloff was compounded by contagion from Five Below's 13% drop on the same session, weighing on the entire discount retail sector.",
+      "bull_case": [
+        "Q1 FY2026 EPS of $0.91 beat the $0.87 consensus; Ollie's is structurally positioned to benefit from consumer trade-down spending, and its store expansion runway from ~500 toward 1,050 target locations provides durable long-term unit growth.",
+        "At ~21x PE vs. sector peers at 38x, OLLI trades at a significant valuation discount; even the most recently reduced analyst targets ($87-$112) imply meaningful upside from current levels near 52-week lows."
+      ],
+      "bear_case": [
+        "Management trimmed the full-year 2026 revenue outlook, citing ongoing lower-income consumer pressure and comparable-store trends running below expectations; Q1 revenue came in slightly below estimates despite the EPS beat.",
+        "Stock is -47% below its 52-week high and approaching new 52-week lows; Five Below's 13% collapse signals broad discount retail sector weakness that could pressure OLLI further in coming weeks."
       ],
       "recommendation": "Hold",
-      "current_price": "$310.74",
-      "price_target": "$310.51 (0.0%)",
-      "pe_ratio": "38.11",
-      "rsi": "74.30",
-      "vs_52wk_high": "-1.4% below high ($315.20)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Consumer Electronics & Software",
-      "sources": ["Goldman Sachs via CNBC", "Motley Fool", "Benzinga", "Yahoo Finance", "MarketBeat", "GuruFocus"],
-      "price_history_5d": [310.85, 312.06, 306.31, 315.20, 310.74]
+      "current_price": "$74.51",
+      "price_target": "$90.00 (+20.8%)",
+      "pe_ratio": "21.0",
+      "rsi": "N/A",
+      "vs_52wk_high": "-47.4% below high ($141.74)",
+      "analyst_rating": "Hold",
+      "sector": "Consumer Discretionary - Discount Retail",
+      "sources": ["Gordon Haskett via MarketBeat", "Yahoo Finance", "CNBC", "StockStory via FinancialContent", "Investing.com"],
+      "price_history_5d": [79.74, 74.51]
+    },
+    {
+      "ticker": "INTC",
+      "company": "Intel Corporation",
+      "discussion_driver": "Intel fell ~3% on June 4 in a sympathy selloff after Broadcom's AI chip revenue guidance miss rattled AI semiconductor investors, despite no Intel-specific negative news. The stock's extraordinary 466% gain over the past 12 months — driven by Computex 2026's full-stack AI infrastructure narrative (Xeon 6+, rack-scale AI systems) — has pushed it roughly 19% above the average analyst consensus price target of $88.71, raising valuation concerns. Intel's Crescent Island AI GPU is not shipping until late 2026, leaving a continued competitive gap vs. Nvidia and AMD.",
+      "bull_case": [
+        "Computex 2026 showcased Intel as a full-stack AI infrastructure provider with Xeon 6+, SambaNova RDU-based rack-scale systems, and Crescent Island AI GPU; major banks raised targets — Mizuho to $128, Wells Fargo to $110, Barclays to $100 — citing AI server CPU demand and confidence in the 18A foundry roadmap.",
+        "Stock has surged 466% over 12 months from a 52-week low near $19, driven by AI product momentum and high-profile endorsements from major tech companies; the sentiment shift from deep value to AI growth is now well-established."
+      ],
+      "bear_case": [
+        "Stock is trading ~19% above the consensus analyst price target of $88.71 (48 analysts, Hold rating); forward PE of ~102x reflects a substantial premium that leaves almost no room for AI roadmap delays or any demand softness.",
+        "Sympathy selloff from Broadcom's AI chip miss highlights fragile AI semiconductor sentiment; Crescent Island AI GPU not shipping until late 2026 leaves Intel in a sustained competitive gap vs. Nvidia H200 and AMD MI300X in the highest-growth AI accelerator segment."
+      ],
+      "recommendation": "Hold",
+      "current_price": "$110.06",
+      "price_target": "$88.71 (-19.4%)",
+      "pe_ratio": "N/A",
+      "rsi": "55.8",
+      "vs_52wk_high": "-17.1% below high ($132.75)",
+      "analyst_rating": "Hold",
+      "sector": "Technology - Semiconductors",
+      "sources": ["CNBC", "247WallSt", "StocksToTrade", "Intel Investor Relations", "Zacks", "Blockonomi", "Astreka"],
+      "price_history_5d": [120.38, 107.93, 112.71, 110.06]
     }
   ]
 }
