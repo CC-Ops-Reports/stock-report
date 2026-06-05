@@ -1,135 +1,135 @@
 {
-  "report_date": "2026-06-03",
+  "report_date": "2026-06-04",
   "batch": 1,
-  "market_tone": "Bearish",
+  "market_tone": "Mixed",
   "key_themes": [
-    "AI chip earnings blowout — Broadcom Q2 revenue +48% YoY; AI semiconductor revenue +143%; CrowdStrike beats and announces 4-for-1 stock split",
-    "Oil surge on US-Iran ceasefire tensions — WTI crude rises 2.5% to ~$96, energy stocks rally while broader market sells off",
-    "Private equity liquidity fears — Partners Group caps withdrawals from $8.6B evergreen fund, triggering sector-wide selloff in Blackstone, KKR, Ares, Carlyle"
+    "AI chip selloff: Broadcom Q3 AI guidance misses estimates, drags semis lower",
+    "Sector rotation: Dow hits record high as capital moves from tech into healthcare & financials",
+    "Quantinuum quantum computing IPO debuts on Nasdaq, raising $1.68B in 20x oversubscribed offering"
   ],
   "sp500": {
-    "value": "7,553.41",
-    "change": "-0.74%"
+    "value": "7,584.31",
+    "change": "+0.41%"
   },
   "nasdaq": {
-    "value": "26,852.77",
-    "change": "-0.89%"
+    "value": "26,830.96",
+    "change": "-0.09%"
   },
   "stocks": [
     {
       "ticker": "AVGO",
       "company": "Broadcom Inc.",
-      "discussion_driver": "Broadcom delivered a massive Q2 FY2026 beat with $22.2B in revenue (+48% YoY) and AI semiconductor revenue exploding 143% to $10.8B. The Q3 guidance of $29.4B (+84% YoY) cemented AVGO as a top-tier AI infrastructure supplier, though the stock pulled back intraday as investors digested the after-hours release and assessed whether the lofty guidance bar could be cleared.",
+      "discussion_driver": "Broadcom reported a strong Q2 FY2026 with AI revenue up 143% YoY and revenue of $22.19B (in-line), but Q3 AI chip guidance of $16B disappointed vs. the $17.2B consensus, triggering a ~14% selloff despite record AI revenue. Post-plunge, Mizuho raised its target to $530 and Jefferies to $550, both maintaining bullish ratings and framing the drop as a buying opportunity.",
       "bull_case": [
-        "AI semiconductor revenue surged 143% YoY to $10.8B in Q2 with Q3 guidance of $29.4B (+84%), confirming Broadcom as a critical hyperscaler custom-chip supplier with explosive near-term growth visibility",
-        "Diversified revenue across networking, broadband, storage, and VMware software provides resilient recurring cash flows that can sustain the premium multiple across economic cycles"
+        "Custom AI ASIC leadership with hyperscalers (Google, Meta) drives durable revenue; FY2027 'more than $100B' AI revenue guidance remains intact and represents the largest AI chip opportunity outside NVIDIA",
+        "Post-plunge analyst upgrades from Mizuho ($530) and Jefferies ($550) with a Strong Buy consensus from 46 analysts signal the selloff is viewed as a buy-the-dip opportunity by institutional investors"
       ],
       "bear_case": [
-        "P/E of 93.94 leaves no room for any guidance miss; the ambitious Q3 target of $29.4B sets a very high bar that could trigger significant multiple compression if macro conditions soften",
-        "Heavy customer concentration among 3-4 hyperscalers (Apple, Google, Meta) creates binary risk on any individual contract renegotiation or design-away decision"
+        "Q3 AI chip guidance of $16B missed elevated market expectations of $17.2B, raising concerns about AI spending pace and whether AVGO can sustain its premium 79.8x P/E multiple through near-term uncertainty",
+        "Heavy hyperscaler customer concentration (Google, Meta, Apple) creates binary risk on any design-away decision or capex pullback; guidance miss signals potential peak in ASIC growth rate"
       ],
       "recommendation": "Buy",
-      "current_price": "$477.01",
-      "price_target": "$486.85 (+2.1%)",
-      "pe_ratio": "93.94",
+      "current_price": "$413.21",
+      "price_target": "$486.85 (+17.8%)",
+      "pe_ratio": "79.8",
       "rsi": "79.10",
-      "vs_52wk_high": "-3.8% below high ($496.02)",
+      "vs_52wk_high": "-16.5% below high ($495.00)",
       "analyst_rating": "Strong Buy",
       "sector": "Technology - Semiconductors",
-      "sources": ["MarketBeat", "StockAnalysis", "TipRanks", "AltIndex", "Yahoo Finance"],
-      "price_history_5d": [423.46, 426.58, 459.95, 481.57, 477.01]
+      "sources": ["CNBC", "Bloomberg", "TheStreet", "Motley Fool", "MarketBeat", "GuruFocus", "Tickeron"],
+      "price_history_5d": [443.00, 466.05, 481.57, 479.23, 413.21]
     },
     {
       "ticker": "CRWD",
       "company": "CrowdStrike Holdings",
-      "discussion_driver": "CrowdStrike delivered a 25% EPS beat ($1.10 vs $0.88 expected) with record net new ARR of $256M (+32% YoY) in Q1 FY2027, confirming the strength of its AI-native Falcon cybersecurity platform. A simultaneous 4-for-1 stock split announcement effective June 25 added retail enthusiasm to an already powerful institutional run, with the stock having more than doubled from its March 2026 lows on AI cybersecurity tailwinds.",
+      "discussion_driver": "CrowdStrike delivered a Q1 FY2027 revenue beat of $1.39B (+26% YoY) and EPS of $1.10 vs. $1.07 consensus, but billings growth of only 18% missed elevated expectations after the stock had rallied ~65% YTD. Mizuho raised its target to $700 post-earnings while the stock fell 10-11%, reflecting a sell-the-news reaction to a quarter that was good — but not good enough for the bar the market had set.",
       "bull_case": [
-        "25% EPS beat and record $256M net new ARR (+32% YoY) confirms CRWD as the dominant AI-native cybersecurity platform; Falcon ecosystem switching costs and growing multi-module adoption create durable revenue expansion",
-        "4-for-1 stock split on June 25 increases retail accessibility; more than doubled from March 2026 lows as enterprise AI security spending accelerates across hyperscaler and Fortune 500 customers"
+        "Platform leader in AI-native cybersecurity with 26% revenue growth, record net new ARR, and ongoing enterprise security consolidation tailwinds driving multi-module Falcon platform adoption",
+        "Post-earnings pullback from overextended levels creates better risk/reward; Mizuho ($700) and JPMorgan ($800) maintaining bullish targets underscores institutional conviction in the long-term growth thesis"
       ],
       "bear_case": [
-        "RSI of 89.3 signals extreme overbought conditions; persistent GAAP net losses and current price above most analyst consensus targets make the stock highly vulnerable to any negative sentiment shift",
-        "The 100%+ rally from March 2026 lows has stretched the stock well beyond fundamental valuation models; a single cybersecurity incident — as seen in the 2024 IT outage — could trigger a rapid 30%+ reversal"
+        "Billings growth decelerated to 18% — raising questions about whether the post-2024-outage recovery is losing momentum earlier than expected — with the miss coming despite a period of strong enterprise security spending",
+        "Stock still trades at an extreme premium with no positive TTM earnings (P/E N/A); after a 65% YTD run into earnings, the sell-the-news dynamic may persist as growth expectations reset to a lower trajectory"
       ],
       "recommendation": "Hold",
-      "current_price": "$747.61",
-      "price_target": "$770 avg (+3.1%)",
+      "current_price": "$661.67",
+      "price_target": "$700.00 (+5.8%)",
       "pe_ratio": "N/A",
-      "rsi": "89.30",
-      "vs_52wk_high": "-4.8% below high ($785.66)",
+      "rsi": "82.57",
+      "vs_52wk_high": "-15.8% below high ($785.66)",
       "analyst_rating": "Buy",
       "sector": "Technology - Cybersecurity",
-      "sources": ["MarketBeat", "Benzinga", "TipRanks", "GuruFocus", "AltIndex"],
-      "price_history_5d": [675.90, 725.24, 782.17, 768.95, 747.61]
+      "sources": ["CNBC", "GuruFocus", "TechTimes", "MarketBeat", "Mizuho", "JPMorgan", "EBC Financial"],
+      "price_history_5d": [762.00, 782.17, 783.00, 747.61, 661.67]
     },
     {
-      "ticker": "MRVL",
-      "company": "Marvell Technology",
-      "discussion_driver": "Marvell Technology became the AI semiconductor sector's hottest catalyst story after Nvidia CEO Jensen Huang called it the 'next trillion-dollar company' at Computex, igniting a historic +32% single-session surge on June 2. The endorsement amplified strong Q1 results (+27.6% YoY revenue growth) and accelerating custom AI ASIC design wins with major hyperscalers, sending analysts scrambling to revise price targets sharply higher.",
+      "ticker": "QNT",
+      "company": "Quantinuum",
+      "discussion_driver": "Quantinuum completed the most closely watched quantum computing IPO in market history, raising $1.68B at $60/share in a 20x oversubscribed offering and valuing the company at $15.7B. Shares opened at $68, hit an intraday high of $71.35, then closed near flat at $60.36 — a debut that reflects both extraordinary investor enthusiasm for quantum computing and sober recognition that commercial returns remain years away.",
       "bull_case": [
-        "Jensen Huang's Computex endorsement as the 'next trillion-dollar company' provides exceptional visibility for MRVL's custom AI ASIC business; confirmed design wins with Amazon, Google, and Microsoft secure multi-year high-margin revenue streams",
-        "Q1 revenue growth of 27.6% YoY with accelerating AI data center orders; Stifel raised target to $321 from $230, reflecting the massive TAM expansion from hyperscaler custom silicon demand replacing merchant chips"
+        "First significant quantum computing pure play on public markets backed by Honeywell's engineering legacy, with a credible trapped-ion hardware platform and demonstrated quantum computational advantage in targeted workloads",
+        "20x oversubscribed offering signals extraordinary institutional demand for quantum computing exposure; the technology is positioned as multi-decade transformative with applications across AI, drug discovery, cryptography, and materials science"
       ],
       "bear_case": [
-        "Stock surged 32% in a single session and now trades above most analyst consensus targets; recent RSI readings in overbought territory indicate potential for near-term consolidation after the historic run",
-        "Heavy concentration in 2-3 hyperscaler ASIC programs creates binary revenue risk; custom chip programs take 2-3 years to reach full production volume, creating potential revenue gaps between design wins and actual shipments"
+        "Pre-profitability company with minimal revenue trading at a $15.7B valuation almost entirely based on speculative future optionality; no near-term path to cash-flow breakeven makes valuation highly vulnerable to sentiment shifts",
+        "Peer quantum stocks (IonQ, Rigetti, Quantum Computing) have historically suffered 50-90% drawdowns from peaks; the sector is hypersensitive to technical milestone delays and breakthroughs from IBM, Google, or Microsoft that could shift the competitive landscape"
       ],
       "recommendation": "Speculative Buy",
-      "current_price": "$309.13",
-      "price_target": "$321 Stifel (+3.8%)",
-      "pe_ratio": "57.11",
-      "rsi": "65.87",
-      "vs_52wk_high": "-7.3% below high ($333.50)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Technology - Semiconductors",
-      "sources": ["GuruFocus", "Tickeron", "Yahoo Finance", "StocksGuide", "Dev|Journal"],
-      "price_history_5d": [219.43, 290.79, 309.13]
+      "current_price": "$60.36",
+      "price_target": "N/A",
+      "pe_ratio": "N/A",
+      "rsi": "N/A",
+      "vs_52wk_high": "-15.4% below IPO-day high ($71.35)",
+      "analyst_rating": "N/A",
+      "sector": "Technology - Quantum Computing",
+      "sources": ["CNBC", "Reuters", "TheQuantumInsider", "Yahoo Finance", "Fast Company", "Constellation Research", "StockTitan"],
+      "price_history_5d": [60.36]
     },
     {
-      "ticker": "GME",
-      "company": "GameStop Corp.",
-      "discussion_driver": "GameStop reported record Q1 2026 net income of $389.6M on $835.3M revenue (+14% YoY), while its board approved a $2B share buyback authorization — the largest in company history. CEO Ryan Cohen's capital allocation strategy continues to deliver tangible results, though with only one analyst covering the stock at a $13.50 Sell target, price discovery remains dominated by retail momentum rather than institutional analysis.",
+      "ticker": "UNH",
+      "company": "UnitedHealth Group",
+      "discussion_driver": "Bank of America upgraded UnitedHealth Group to Buy with a raised $450 price target on June 4, citing BofA's proprietary Trend Tracker data showing lower medical utilization in April and May 2026 — a leading indicator of Q2 earnings improvement. UNH surged 5%+ on the upgrade alongside a 5% quarterly dividend hike, approaching its 52-week high as capital rotated from tech into healthcare.",
       "bull_case": [
-        "Record quarterly net income of $389.6M and a $2B buyback authorization demonstrate Ryan Cohen's successful transformation of GME into a disciplined, cash-generative business far removed from its meme-stock origins",
-        "Significant cash and investment portfolio provides a fundamental floor; $2B buyback at prices well below intrinsic value creates immediate per-share value accretion for remaining long-term shareholders"
+        "BofA's Trend Tracker data showing lower medical utilization in April-May suggests Q2 medical cost ratio improvement; analyst models indicate earnings power is ~50% above current 2026 guidance — a significant positive revision catalyst for the stock",
+        "Healthcare sector rotation as tech sells off; UNH is the highest-quality managed care operator with market-leading scale, dividend growth, and near-52-week-high momentum as institutional capital reallocates defensively"
       ],
       "bear_case": [
-        "Core retail gaming business faces irreversible structural decline from digital downloads and cloud gaming; physical game and hardware sales will continue contracting year over year regardless of operational execution",
-        "Only 1 analyst officially covers the stock with a $13.50 Sell target (39% below current price); thin institutional coverage and heavy retail ownership creates extreme volatility largely disconnected from fundamental value"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$22.18",
-      "price_target": "$13.50 (-39.1%)",
-      "pe_ratio": "27.51",
-      "rsi": "52.58",
-      "vs_52wk_high": "-28.6% below high ($31.05)",
-      "analyst_rating": "Sell",
-      "sector": "Consumer Cyclical - Specialty Retail",
-      "sources": ["StockAnalysis", "MarketBeat", "Financhill", "BusinessWire", "StockTitan"],
-      "price_history_5d": [21.18, 21.36, 22.18]
-    },
-    {
-      "ticker": "MDT",
-      "company": "Medtronic plc",
-      "discussion_driver": "Medtronic reported its strongest revenue growth in a decade in Q4 FY2026, with $9.8B in revenue (+9.9%) powered by cardiac ablation solutions surging 78% globally. Despite a ~5% earnings-day pop, the stock remains 26.7% below its 52-week high and trades at a discounted 20.6x trailing P/E versus large-cap medical device peers, with analyst consensus pointing to over 36% upside to $106.45.",
-      "bull_case": [
-        "Q4 FY2026 revenue growth of 9.9% is the highest annual growth rate in a decade; cardiac ablation solutions up 78% globally represents a durable, multi-year new product cycle with significant market penetration still ahead",
-        "Deeply discounted at 20.6x trailing P/E vs. 30x+ for medical device peers; the $28.50 gap between current price and the $106.45 analyst consensus target implies 36.6% upside with an attractive risk/reward profile"
-      ],
-      "bear_case": [
-        "Stock remains 26.7% below its 52-week high despite the strong earnings beat, reflecting lingering investor skepticism about whether decade-high growth rates are durable after several years of disappointing execution",
-        "Hospital system pricing pressure and potential CMS reimbursement changes could compress margins; growing competition in the cardiac ablation market from Abbott and J&J is intensifying and could erode the current growth premium"
+        "Ongoing DOJ investigation into Medicare Advantage billing practices and sustained political scrutiny of managed care pricing models create persistent headline risk that could cap multiple expansion even in a favorable cost environment",
+        "Stock approaching its 52-week high at 28.47x trailing P/E; any reversal in medical cost trends or Q2 EPS disappointment could quickly reverse the upgrade-driven gains"
       ],
       "recommendation": "Buy",
-      "current_price": "$77.95",
-      "price_target": "$106.45 (+36.6%)",
-      "pe_ratio": "20.61",
-      "rsi": "N/A",
-      "vs_52wk_high": "-26.7% below high ($106.33)",
+      "current_price": "$396.47",
+      "price_target": "$450.00 (+13.5%)",
+      "pe_ratio": "28.47",
+      "rsi": "61.05",
+      "vs_52wk_high": "-1.9% below high ($404.15)",
       "analyst_rating": "Buy",
-      "sector": "Healthcare - Medical Devices",
-      "sources": ["MarketBeat", "StockAnalysis", "FinanceCharts", "GuruFocus", "TipRanks"],
-      "price_history_5d": [73.81, 73.62, 77.95]
+      "sector": "Healthcare - Managed Care",
+      "sources": ["CNBC", "GuruFocus", "TipRanks", "Schaeffer's", "TraderUnion", "MarketBeat", "FinancialContent"],
+      "price_history_5d": [380.31, 382.00, 380.00, 377.00, 396.47]
+    },
+    {
+      "ticker": "BX",
+      "company": "Blackstone Inc.",
+      "discussion_driver": "Blackstone disclosed that redemption requests on its $79B flagship private credit fund (BCRED) hit a record 10% of outstanding shares in Q2 — triggering the standard 5% withdrawal cap — yet shares surged ~7% as investors focused on the firm's durable fee income base, the fact that redemptions slowed later in the quarter, and 11% EBITDA growth in the underlying portfolio. TPG and Ares also rallied in sympathy.",
+      "bull_case": [
+        "Despite the withdrawal cap headline, underlying BCRED portfolio fundamentals are strong (11% EBITDA growth, software-sector concentration leading), and BX's fee-revenue model is highly predictable regardless of NAV mark-to-market swings",
+        "Technically oversold with RSI at 23.73, trading 38% below its 52-week high with 22% upside to the analyst consensus of $143.65; sector rotation into financials and record private credit AUM growth provide near-term tailwinds"
+      ],
+      "bear_case": [
+        "Capping withdrawals at 5% while facing a record 10% redemption request rate signals potential structural investor concerns about private credit liquidity and could trigger broader outflows from BX's flagship retail-accessible products",
+        "BX stock is down 38% from its 52-week high of $190.09, reflecting persistent concerns about private credit mark-to-market risk, rising borrower default risk in leveraged buyout portfolios, and interest-rate sensitivity on floating-rate assets"
+      ],
+      "recommendation": "Buy",
+      "current_price": "$117.58",
+      "price_target": "$143.65 (+22.2%)",
+      "pe_ratio": "17.61",
+      "rsi": "23.73",
+      "vs_52wk_high": "-38.1% below high ($190.09)",
+      "analyst_rating": "Buy",
+      "sector": "Financials - Alternative Asset Management",
+      "sources": ["CNBC", "Reuters", "Motley Fool", "GuruFocus", "Invezz", "MarketBeat", "S&P Global"],
+      "price_history_5d": [119.50, 117.50, 114.91, 110.30, 117.58]
     }
   ]
 }
