@@ -1,105 +1,86 @@
 {
-  "report_date": "2026-06-04",
-  "market_tone": "Mixed",
+  "report_date": "2026-06-05",
+  "market_tone": "Bearish",
   "key_themes": [
-    "AI chip selloff: Broadcom Q3 AI guidance misses estimates, drags semis lower",
-    "Sector rotation: Dow hits record high as capital moves from tech into healthcare & financials",
-    "Quantinuum quantum computing IPO debuts on Nasdaq, raising $1.68B in 20x oversubscribed offering"
+    "Broadcom earnings disappoint on AI chip outlook, triggering $1T semiconductor sector sell-off",
+    "Meta considers multi-billion-dollar secondary stock offering to fund AI capex, weighing on mega-cap tech",
+    "Quantinuum Nasdaq IPO debut concentrates quantum capital, pressuring Rigetti, D-Wave, and IonQ"
   ],
   "sp500": {
-    "value": "7,584.31",
-    "change": "+0.41%"
+    "value": "7,383.74",
+    "change": "-2.64%"
   },
   "nasdaq": {
-    "value": "26,830.96",
-    "change": "-0.09%"
+    "value": "25,725.00",
+    "change": "-4.18%"
   },
   "stocks": [
     {
       "ticker": "AVGO",
       "company": "Broadcom Inc.",
-      "reason": "Shares plunged ~14% after Q2 FY2026 earnings: revenue of $22.19B missed $22.27B estimate and Q3 AI chip guidance of $16B fell short of $17.2B expectations, despite record AI revenue up 143% YoY",
+      "reason": "Reported fiscal Q2 earnings beat ($22.19B revenue, $2.44 EPS) but reiterated rather than raised 2026 AI chip guidance, spooking investors; stock down ~13% and triggering sector-wide sell-off wiping $1T from semiconductor market cap",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "Bloomberg",
-        "TheStreet",
-        "Motley Fool"
-      ]
-    },
-    {
-      "ticker": "CRWD",
-      "company": "CrowdStrike Holdings",
-      "reason": "Stock fell 10-11% after Q1 FY2027 earnings: billings of $1.35B grew only 18%, missing estimates, despite revenue beat of $1.39B and record net new ARR; stock had rallied ~65% YTD",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "GuruFocus",
-        "TechTimes"
-      ]
-    },
-    {
-      "ticker": "QNT",
-      "company": "Quantinuum",
-      "reason": "Quantum computing company debuted on Nasdaq today after raising $1.68B in a 20x oversubscribed IPO priced at $60/share (above $53-$55 range); opened at $68, closed near flat with $15.7B market cap",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "Reuters",
-        "TheQuantumInsider",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "UNH",
-      "company": "UnitedHealth Group",
-      "reason": "Shares climbed ~5% to ~$397 after Bank of America upgraded to Buy from Neutral and raised price target to $450 from $420, citing improving medical cost trends and earnings power ~50% above 2026 guidance",
-      "category": "upgrade",
-      "sources": [
-        "CNBC",
-        "GuruFocus",
-        "TipRanks",
-        "Schaeffer's"
-      ]
-    },
-    {
-      "ticker": "BX",
-      "company": "Blackstone Inc.",
-      "reason": "Shares surged ~6.6% despite news that its $79B flagship private credit fund capped withdrawals at 5% after redemption requests hit 10% of outstanding shares in Q2, the highest since fund inception",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "Reuters",
-        "Motley Fool",
+        "Yahoo Finance",
         "GuruFocus"
       ]
     },
     {
-      "ticker": "PVH",
-      "company": "PVH Corp (Calvin Klein / Tommy Hilfiger)",
-      "reason": "Stock plunged ~20% despite Q1 revenue of $2.03B beating estimates; company lowered full-year revenue outlook to \"approximately flat\" citing EMEA headwinds from Iran war; EMEA constant-currency revenue fell 5%",
-      "category": "earnings",
+      "ticker": "NVDA",
+      "company": "NVIDIA Corporation",
+      "reason": "Dropped ~6% as Broadcom earnings disappointment rattled AI chip trade; market cap fell below $5 trillion threshold in sympathy sell-off across semiconductor sector",
+      "category": "sector",
       "sources": [
-        "CNBC",
-        "Sherwood News",
-        "Investing.com",
-        "StockStory"
+        "Yahoo Finance",
+        "TheStreet"
       ]
     },
     {
-      "ticker": "FIVE",
-      "company": "Five Below",
-      "reason": "Shares fell ~13% despite Q1 EPS of $2.22 beating by $0.43 and revenue of $1.28B up 31.9% YoY; raised full-year net sales guidance to $5.40-$5.48B but sell-the-news reaction drove the decline",
-      "category": "earnings",
+      "ticker": "ARM",
+      "company": "Arm Holdings plc",
+      "reason": "Fell ~7% as Broadcom's weak AI chip outlook spread across the semiconductor sector, dragging down the Philadelphia Semiconductor Index more than 8% on the day",
+      "category": "sector",
       "sources": [
         "CNBC",
-        "247WallSt"
+        "Yahoo Finance"
       ]
     },
     {
-      "ticker": "WOOF",
-      "company": "Petco Health and Wellness",
-      "reason": "Shares dropped ~12% after earnings as current-quarter guidance came in below Wall Street expectations, disappointing investors despite broadly in-line quarterly results",
+      "ticker": "MU",
+      "company": "Micron Technology Inc.",
+      "reason": "Dropped ~17% over two sessions following Broadcom earnings; memory and chip stocks broadly impacted as investors rotated out of AI-related semiconductor names that had surged sharply year-to-date",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "META",
+      "company": "Meta Platforms Inc.",
+      "reason": "Shares fell ~7% on Bloomberg report that Meta is considering raising tens of billions via secondary stock sale to fund up to $145B in AI infrastructure capex through 2026, following similar move by Alphabet",
+      "category": "news",
+      "sources": [
+        "Bloomberg",
+        "GuruFocus"
+      ]
+    },
+    {
+      "ticker": "LULU",
+      "company": "lululemon athletica inc.",
+      "reason": "Plunged ~13% premarket after Q1 earnings report: company cut full-year 2026 revenue guidance to $11.0B-$11.15B (from $11.35B-$11.5B) citing weak U.S. demand; multiple analysts lowered price targets",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Bloomberg",
+        "CoinCentral"
+      ]
+    },
+    {
+      "ticker": "TTAN",
+      "company": "ServiceTitan Inc.",
+      "reason": "Surged ~16% after beating Q1 top and bottom line estimates and raising full-year adjusted operating income guidance to $142M-$147M; software platform focused on home services contractors outperformed sharply",
       "category": "earnings",
       "sources": [
         "CNBC",
@@ -107,73 +88,85 @@
       ]
     },
     {
-      "ticker": "ALNY",
-      "company": "Alnylam Pharmaceuticals",
-      "reason": "Shares advanced ~4% after announcing a strategic AI collaboration with Inceptive Nucleics valued at up to $2B; $30M upfront payment to use generative AI to accelerate RNAi drug discovery",
+      "ticker": "QNT",
+      "company": "Quantinuum Inc.",
+      "reason": "Second day of Nasdaq trading following June 4 IPO debut; priced at $60 (above $53-$55 range), opened at $68, raised $1.68B \u2014 largest quantum computing public-market debut ever \u2014 bringing market value to ~$15.7B",
       "category": "news",
       "sources": [
         "CNBC",
-        "GuruFocus",
-        "ThePharmaLetter"
+        "The Quantum Insider",
+        "GuruFocus"
       ]
     },
     {
-      "ticker": "AMD",
-      "company": "Advanced Micro Devices",
-      "reason": "Fell ~4% in sympathy selloff following Broadcom's AI chip guidance miss; no company-specific news, but AI semiconductor sentiment dragged the stock lower",
+      "ticker": "RGTI",
+      "company": "Rigetti Computing Inc.",
+      "reason": "Fell ~13% as Quantinuum's blockbuster IPO drew capital away from pure-play quantum computing stocks; investor rotation into the new large-cap entrant pressured smaller quantum names across the sector",
       "category": "sector",
       "sources": [
-        "247WallSt",
-        "CNBC"
+        "CNBC",
+        "GuruFocus"
       ]
     },
     {
-      "ticker": "RTX",
-      "company": "RTX Corporation",
-      "reason": "Raised to Buy from Hold at Jefferies with price target bumped to $220 from $210; benefited from rotation into defense/industrials as tech sold off",
-      "category": "upgrade",
+      "ticker": "QBTS",
+      "company": "D-Wave Quantum Inc.",
+      "reason": "Slumped ~12% alongside sector peers Rigetti and IonQ as Quantinuum's $1.68B Nasdaq IPO concentrated quantum computing capital into the new name, triggering broad sell-off in existing pure-play quantum stocks",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "24/7 Wall St."
+      ]
+    },
+    {
+      "ticker": "FDXF",
+      "company": "FedEx Freight Holding Company Inc.",
+      "reason": "First week of NYSE trading after completing spin-off from FedEx Corp on June 1; shares up ~8% on week as newly independent LTL freight carrier joined S&P 500 and Dow Jones Transportation Average",
+      "category": "news",
       "sources": [
         "Yahoo Finance",
-        "CNBC"
+        "BusinessWire"
       ]
     },
     {
-      "ticker": "MDT",
-      "company": "Medtronic",
-      "reason": "Upgraded to Buy from Neutral at BTIG Research with a $90 price target; healthcare sector outperformed as investors rotated out of tech on Broadcom-led selloff",
+      "ticker": "DOCU",
+      "company": "DocuSign Inc.",
+      "reason": "Stock slid ~4% despite reporting Q1 FY2027 earnings beat (revenue $830.2M, +9% YoY; EPS $1.09); investors focused on modest full-year revenue guidance of $3.49B-$3.502B and broader tech sector weakness",
+      "category": "earnings",
+      "sources": [
+        "GuruFocus",
+        "Trefis"
+      ]
+    },
+    {
+      "ticker": "UNH",
+      "company": "UnitedHealth Group Inc.",
+      "reason": "Popped ~6% after Bank of America upgraded to Buy (from Neutral) and raised price target to $450, citing sustainable improvement in operational efficiency and lower medical utilization; best day since April",
       "category": "upgrade",
       "sources": [
-        "Yahoo Finance",
-        "CNBC"
+        "TIKR",
+        "Schaeffer's Investment Research",
+        "GuruFocus"
       ]
     },
     {
-      "ticker": "WULF",
-      "company": "TeraWulf Inc.",
-      "reason": "Initiated with Outperform rating at Bernstein with a $46 price target; bitcoin mining/AI infrastructure company attracts coverage amid renewed crypto and AI data center interest",
+      "ticker": "CMG",
+      "company": "Chipotle Mexican Grill Inc.",
+      "reason": "Shares rose after JPMorgan upgraded from Neutral to Overweight on June 5, citing ~24% upside to its price target despite a slight target reduction; consumer staples outperformed as defensive rotation played out",
       "category": "upgrade",
       "sources": [
-        "Yahoo Finance",
+        "GuruFocus",
         "CNBC"
       ]
     },
     {
-      "ticker": "OLLI",
-      "company": "Ollie's Bargain Outlet Holdings",
-      "reason": "Downgraded to Accumulate from Buy at Gordon Haskett with a $90 price target; discount retail sentiment weaker following Five Below's post-earnings selloff",
+      "ticker": "PVH",
+      "company": "PVH Corp.",
+      "reason": "Plunged ~20% after Q1 earnings and sharply lowered FY2026 sales guidance; Evercore ISI downgraded to In Line from Outperform (PT cut from $95 to $79) citing low-quality update and risk of further negative estimate revisions in H2 2026",
       "category": "downgrade",
       "sources": [
         "Yahoo Finance",
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "INTC",
-      "company": "Intel Corporation",
-      "reason": "Fell ~3% in sympathy with broader AI chip selloff triggered by Broadcom's Q3 AI guidance miss, despite no Intel-specific news today",
-      "category": "sector",
-      "sources": [
-        "247WallSt",
+        "Zacks",
         "CNBC"
       ]
     }
