@@ -1,173 +1,161 @@
 {
-  "report_date": "2026-06-05",
-  "market_tone": "Bearish",
+  "report_date": "2026-06-08",
+  "market_tone": "Bullish",
   "key_themes": [
-    "Broadcom earnings disappoint on AI chip outlook, triggering $1T semiconductor sector sell-off",
-    "Meta considers multi-billion-dollar secondary stock offering to fund AI capex, weighing on mega-cap tech",
-    "Quantinuum Nasdaq IPO debut concentrates quantum capital, pressuring Rigetti, D-Wave, and IonQ"
+    "AI semiconductor surge \u2014 Intel secures Google TPU foundry order, Marvell added to S&P 500, Cerebras gains on post-IPO analyst initiations",
+    "Biotech dealmaking \u2014 Nurix Therapeutics soars 43% on $2.3B Roche collaboration for BTK degrader bexobrutideg",
+    "Chip sector rebounds from steep Friday selloff, leading broader market recovery"
   ],
   "sp500": {
-    "value": "7,383.74",
-    "change": "-2.64%"
+    "value": "7,406",
+    "change": "+0.30%"
   },
   "nasdaq": {
-    "value": "25,725.00",
-    "change": "-4.18%"
+    "value": "25,930",
+    "change": "+0.86%"
   },
   "stocks": [
     {
-      "ticker": "AVGO",
-      "company": "Broadcom Inc.",
-      "reason": "Reported fiscal Q2 earnings beat ($22.19B revenue, $2.44 EPS) but reiterated rather than raised 2026 AI chip guidance, spooking investors; stock down ~13% and triggering sector-wide sell-off wiping $1T from semiconductor market cap",
-      "category": "earnings",
+      "ticker": "NRIX",
+      "company": "Nurix Therapeutics",
+      "reason": "Shares surged ~43% after announcing a $2.3B global collaboration with Roche ($700M upfront) to co-develop and co-commercialize BTK degrader bexobrutideg across blood cancers, immunology, and neurology",
+      "category": "news",
+      "sources": [
+        "Bloomberg",
+        "Yahoo Finance",
+        "Benzinga",
+        "Schaeffer's Investment Research"
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "company": "Intel Corporation",
+      "reason": "Stock surged ~11% on reports Alphabet/Google placed an order for 3M+ tensor processing units to be manufactured by Intel in 2028, as TSMC faces capacity constraints; Nvidia also reportedly evaluating Intel manufacturing",
+      "category": "news",
       "sources": [
         "CNBC",
+        "Motley Fool",
         "Yahoo Finance",
         "GuruFocus"
+      ]
+    },
+    {
+      "ticker": "MRVL",
+      "company": "Marvell Technology",
+      "reason": "Shares rose ~8-9% after S&P 500 confirmed Marvell will join the index on June 22, replacing Campbell's; stock is up ~230% YTD aided by Nvidia investment and Jensen Huang endorsement",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Bloomberg",
+        "Benzinga",
+        "GuruFocus"
+      ]
+    },
+    {
+      "ticker": "CBRS",
+      "company": "Cerebras Systems",
+      "reason": "Shares jumped ~18-20% as Wall Street firms issued a slate of bullish initiations following the AI chipmaker's blockbuster May IPO debut (up 68% on first day); AI infrastructure demand narrative intact",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "StocksToTrade"
       ]
     },
     {
       "ticker": "NVDA",
-      "company": "NVIDIA Corporation",
-      "reason": "Dropped ~6% as Broadcom earnings disappointment rattled AI chip trade; market cap fell below $5 trillion threshold in sympathy sell-off across semiconductor sector",
-      "category": "sector",
-      "sources": [
-        "Yahoo Finance",
-        "TheStreet"
-      ]
-    },
-    {
-      "ticker": "ARM",
-      "company": "Arm Holdings plc",
-      "reason": "Fell ~7% as Broadcom's weak AI chip outlook spread across the semiconductor sector, dragging down the Philadelphia Semiconductor Index more than 8% on the day",
-      "category": "sector",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron Technology Inc.",
-      "reason": "Dropped ~17% over two sessions following Broadcom earnings; memory and chip stocks broadly impacted as investors rotated out of AI-related semiconductor names that had surged sharply year-to-date",
-      "category": "sector",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "META",
-      "company": "Meta Platforms Inc.",
-      "reason": "Shares fell ~7% on Bloomberg report that Meta is considering raising tens of billions via secondary stock sale to fund up to $145B in AI infrastructure capex through 2026, following similar move by Alphabet",
+      "company": "Nvidia",
+      "reason": "Gained ~2.3% in premarket after announcing partnership with SK Hynix for advanced AI memory for its AI factory buildout; broader chip sector rally following Friday's selloff",
       "category": "news",
-      "sources": [
-        "Bloomberg",
-        "GuruFocus"
-      ]
-    },
-    {
-      "ticker": "LULU",
-      "company": "lululemon athletica inc.",
-      "reason": "Plunged ~13% premarket after Q1 earnings report: company cut full-year 2026 revenue guidance to $11.0B-$11.15B (from $11.35B-$11.5B) citing weak U.S. demand; multiple analysts lowered price targets",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Bloomberg",
-        "CoinCentral"
-      ]
-    },
-    {
-      "ticker": "TTAN",
-      "company": "ServiceTitan Inc.",
-      "reason": "Surged ~16% after beating Q1 top and bottom line estimates and raising full-year adjusted operating income guidance to $142M-$147M; software platform focused on home services contractors outperformed sharply",
-      "category": "earnings",
       "sources": [
         "CNBC",
         "Bloomberg"
       ]
     },
     {
-      "ticker": "QNT",
-      "company": "Quantinuum Inc.",
-      "reason": "Second day of Nasdaq trading following June 4 IPO debut; priced at $60 (above $53-$55 range), opened at $68, raised $1.68B \u2014 largest quantum computing public-market debut ever \u2014 bringing market value to ~$15.7B",
+      "ticker": "GLW",
+      "company": "Corning",
+      "reason": "Shares popped ~6% after reaching a deal with Amazon to supply optical fiber and connectivity solutions for Amazon's growing U.S. data center infrastructure; stock has more than doubled YTD on AI-driven fiber demand",
       "category": "news",
       "sources": [
-        "CNBC",
-        "The Quantum Insider",
-        "GuruFocus"
-      ]
-    },
-    {
-      "ticker": "RGTI",
-      "company": "Rigetti Computing Inc.",
-      "reason": "Fell ~13% as Quantinuum's blockbuster IPO drew capital away from pure-play quantum computing stocks; investor rotation into the new large-cap entrant pressured smaller quantum names across the sector",
-      "category": "sector",
-      "sources": [
-        "CNBC",
-        "GuruFocus"
-      ]
-    },
-    {
-      "ticker": "QBTS",
-      "company": "D-Wave Quantum Inc.",
-      "reason": "Slumped ~12% alongside sector peers Rigetti and IonQ as Quantinuum's $1.68B Nasdaq IPO concentrated quantum computing capital into the new name, triggering broad sell-off in existing pure-play quantum stocks",
-      "category": "sector",
-      "sources": [
-        "CNBC",
-        "24/7 Wall St."
-      ]
-    },
-    {
-      "ticker": "FDXF",
-      "company": "FedEx Freight Holding Company Inc.",
-      "reason": "First week of NYSE trading after completing spin-off from FedEx Corp on June 1; shares up ~8% on week as newly independent LTL freight carrier joined S&P 500 and Dow Jones Transportation Average",
-      "category": "news",
-      "sources": [
-        "Yahoo Finance",
-        "BusinessWire"
-      ]
-    },
-    {
-      "ticker": "DOCU",
-      "company": "DocuSign Inc.",
-      "reason": "Stock slid ~4% despite reporting Q1 FY2027 earnings beat (revenue $830.2M, +9% YoY; EPS $1.09); investors focused on modest full-year revenue guidance of $3.49B-$3.502B and broader tech sector weakness",
-      "category": "earnings",
-      "sources": [
-        "GuruFocus",
-        "Trefis"
-      ]
-    },
-    {
-      "ticker": "UNH",
-      "company": "UnitedHealth Group Inc.",
-      "reason": "Popped ~6% after Bank of America upgraded to Buy (from Neutral) and raised price target to $450, citing sustainable improvement in operational efficiency and lower medical utilization; best day since April",
-      "category": "upgrade",
-      "sources": [
-        "TIKR",
-        "Schaeffer's Investment Research",
-        "GuruFocus"
-      ]
-    },
-    {
-      "ticker": "CMG",
-      "company": "Chipotle Mexican Grill Inc.",
-      "reason": "Shares rose after JPMorgan upgraded from Neutral to Overweight on June 5, citing ~24% upside to its price target despite a slight target reduction; consumer staples outperformed as defensive rotation played out",
-      "category": "upgrade",
-      "sources": [
-        "GuruFocus",
         "CNBC"
       ]
     },
     {
-      "ticker": "PVH",
-      "company": "PVH Corp.",
-      "reason": "Plunged ~20% after Q1 earnings and sharply lowered FY2026 sales guidance; Evercore ISI downgraded to In Line from Outperform (PT cut from $95 to $79) citing low-quality update and risk of further negative estimate revisions in H2 2026",
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "reason": "Stock rose ~2.8% after China May sales data showed 22.6% YoY growth to 47,281 vehicles; exports surged 68% to 38,701 units",
+      "category": "news",
+      "sources": [
+        "Benzinga",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "FLEX",
+      "company": "Flex",
+      "reason": "Shares gained ~4% after being confirmed as an S&P 500 addition alongside Marvell, effective June 22; replaces Pool Corporation in the index",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Fortune",
+        "GuruFocus"
+      ]
+    },
+    {
+      "ticker": "CPB",
+      "company": "The Campbell's Company",
+      "reason": "Shares under pressure after being removed from the S&P 500, replaced by Marvell Technology effective June 22; index-tracking forced selling expected",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Fortune"
+      ]
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "reason": "Jumped ~7.1% as part of broad semiconductor sector rebound; AI memory demand narrative reinforced by Nvidia-SK Hynix partnership and Intel's Google foundry order",
+      "category": "sector",
+      "sources": [
+        "Bloomberg",
+        "TheStreet"
+      ]
+    },
+    {
+      "ticker": "IPGP",
+      "company": "IPG Photonics",
+      "reason": "Advanced ~8.2% on Monday, benefiting from AI-driven optical infrastructure demand and the broader tech sector rebound",
+      "category": "sector",
+      "sources": [
+        "Bloomberg",
+        "TheStreet"
+      ]
+    },
+    {
+      "ticker": "BIIB",
+      "company": "Biogen",
+      "reason": "Needham analyst Ami Fadia upgraded from Hold to Buy with a $255 price target, citing improving pipeline prospects and bullish outlook on neurology portfolio",
+      "category": "upgrade",
+      "sources": [
+        "Benzinga"
+      ]
+    },
+    {
+      "ticker": "CTSH",
+      "company": "Cognizant Technology Solutions",
+      "reason": "Wedbush analyst upgraded from Neutral to Outperform, raising price target from $56 to $70 on improved IT services spending outlook",
+      "category": "upgrade",
+      "sources": [
+        "Benzinga"
+      ]
+    },
+    {
+      "ticker": "RYAN",
+      "company": "Ryan Specialty Group",
+      "reason": "Goldman Sachs downgraded to Neutral, citing valuation concerns following strong recent price appreciation in the specialty insurance brokerage",
       "category": "downgrade",
       "sources": [
-        "Yahoo Finance",
-        "Zacks",
-        "CNBC"
+        "StreetInsider"
       ]
     }
   ]
