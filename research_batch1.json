@@ -1,129 +1,135 @@
 {
-  "report_date": "2026-06-05",
+  "report_date": "2026-06-08",
   "batch": 1,
-  "market_tone": "Bearish",
+  "market_tone": "Bullish",
   "key_themes": [
-    "Broadcom earnings disappoint on AI chip outlook, triggering $1T semiconductor sector sell-off",
-    "Meta considers multi-billion-dollar secondary stock offering to fund AI capex, weighing on mega-cap tech",
-    "Quantinuum Nasdaq IPO debut concentrates quantum capital, pressuring Rigetti, D-Wave, and IonQ"
+    "AI semiconductor surge — Intel secures Google TPU foundry order, Marvell added to S&P 500, Cerebras gains on post-IPO analyst initiations",
+    "Biotech dealmaking — Nurix Therapeutics soars 43% on $2.3B Roche collaboration for BTK degrader bexobrutideg",
+    "Chip sector rebounds from steep Friday selloff, leading broader market recovery"
   ],
-  "sp500": {"value": "7,383.74", "change": "-2.64%"},
-  "nasdaq": {"value": "25,725.00", "change": "-4.18%"},
+  "sp500": {
+    "value": "7,406",
+    "change": "+0.30%"
+  },
+  "nasdaq": {
+    "value": "25,930",
+    "change": "+0.86%"
+  },
   "stocks": [
     {
-      "ticker": "AVGO",
-      "company": "Broadcom Inc.",
-      "discussion_driver": "Broadcom reported a strong fiscal Q2 2026 beat ($22.19B revenue, $2.44 EPS adj.) with AI chip revenue up 143% YoY, but the stock cratered ~13% because CEO Hock Tan merely reiterated the $100B FY27 AI revenue target rather than raising it, and Q3 AI guidance of $16B missed the Street's $17.2B estimate. The disappointment triggered one of the largest post-earnings drops in recent megacap history, wiping ~$320B in market cap and sparking a broad $1T semiconductor sector selloff.",
+      "ticker": "NRIX",
+      "company": "Nurix Therapeutics",
+      "discussion_driver": "Nurix announced a landmark $2.3B global collaboration with Roche to co-develop and co-commercialize BTK degrader bexobrutideg, with $700M paid upfront. The deal targets blood cancers (CLL), immunology, and neurology across a $41B+ addressable market. Phase 3 trials are expected to begin later in 2026. The announcement triggered a ~70% premarket surge before the stock closed up ~15.7% as some initial euphoria faded.",
       "bull_case": [
-        "AI semiconductor revenue doubled YoY to $10.8B in Q2 and management guided Q3 AI revenue to $16B (200%+ YoY growth), demonstrating sustained hyperscaler demand for Broadcom's custom AI chips (XPUs).",
-        "Strong Buy consensus from 47+ analysts with an average price target of ~$511, implying ~29% upside; multiple firms raised targets post-earnings, signaling the selloff is an overreaction."
+        "$700M upfront cash from Roche validates bexobrutideg and fully funds near-term Phase 3 trials without dilutive financing, removing a critical execution risk for a clinical-stage biotech",
+        "First-in-class oral BTK degrader targeting a $41B+ market across CLL, immunology, and neurology with blockbuster potential backed by a Tier-1 pharma co-commercialization partner"
       ],
       "bear_case": [
-        "Broadcom reiterated — but did not raise — its full-year $100B AI chip revenue target for FY2027, and Q3 AI guidance of $16B missed analyst expectations of $17.2B, introducing meaningful near-term uncertainty.",
-        "Trailing P/E of ~94 is 113% above AVGO's 10-year median of ~44, leaving limited margin of safety if AI growth momentum stalls or hyperscaler capex slows."
+        "Clinical-stage pre-revenue biotech — Phase 3 trials have not yet started, adding years of drug development timeline and substantial efficacy and safety risk before any commercial revenue",
+        "Stock pulled back sharply from premarket highs approaching the 52-week high of $22.50, suggesting deal enthusiasm partially faded and near-term upside may require new clinical catalysts"
+      ],
+      "recommendation": "Speculative Buy",
+      "current_price": "$16.94",
+      "price_target": "$30.43 (+79.6%)",
+      "pe_ratio": "N/A",
+      "rsi": "N/A",
+      "vs_52wk_high": "-24.7% below high ($22.50)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Healthcare - Biotechnology",
+      "sources": ["TipRanks", "Yahoo Finance", "Schaeffer's Investment Research", "Bloomberg", "Investing.com"],
+      "price_history_5d": [14.64, 16.94]
+    },
+    {
+      "ticker": "INTC",
+      "company": "Intel Corporation",
+      "discussion_driver": "Intel surged ~12.5% after Alphabet/Google reportedly placed an order for 3M+ tensor processing units to be manufactured at Intel Foundry in 2028, a major validation of Intel's foundry services as TSMC faces capacity constraints. Nvidia is also reportedly evaluating Intel for chip manufacturing. AI now represents 60% of Intel revenue. Note: the stated analyst consensus target of $88.71 reflects stale pre-rally data from 48 analysts; recent individual upgrades from Mizuho ($128), Wells Fargo ($110), and Barclays ($100) raised June 2 post-Q1 earnings more closely reflect current expectations.",
+      "bull_case": [
+        "Google's 3M+ TPU foundry order for 2028 validates Intel Foundry Services as a credible TSMC alternative, opening a significant new revenue stream and a strategic moat in AI infrastructure manufacturing",
+        "AI workloads now represent 60% of Intel revenue with Xeon 6+ and 18A chips; stock has risen ~466% over 12 months as the company executes its full-stack AI infrastructure transformation"
+      ],
+      "bear_case": [
+        "Trailing PE is deeply negative (company still losing money); forward PE of ~128x implies an extremely optimistic earnings recovery, leaving little margin of error on execution",
+        "Stock trades well above the stale analyst consensus target of $88.71, and even the most recent upgrades to $100-$128 barely bracket the current $111 price, signaling limited consensus-supported upside"
       ],
       "recommendation": "Hold",
-      "current_price": "$395.54",
-      "price_target": "$511.04 (+29.3%)",
-      "pe_ratio": "93.94",
-      "rsi": "48.08",
-      "vs_52wk_high": "-20.1% below high ($495.00)",
+      "current_price": "$111.22",
+      "price_target": "$88.71 consensus (-20.2%); recent upgrades to $100-$128 range",
+      "pe_ratio": "N/A (negative earnings)",
+      "rsi": "N/A",
+      "vs_52wk_high": "-16.3% below high ($132.75)",
+      "analyst_rating": "Hold",
+      "sector": "Technology - Semiconductors",
+      "sources": ["CNBC", "Motley Fool", "Yahoo Finance", "GuruFocus", "StocksToTrade", "TimothySykes"],
+      "price_history_5d": [99.17, 111.22]
+    },
+    {
+      "ticker": "MRVL",
+      "company": "Marvell Technology",
+      "discussion_driver": "Marvell surged 9.6% after S&P 500 confirmed it will replace Campbell's in the index on June 22, creating forced passive buying pressure. This follows an extraordinary week: Nvidia CEO Jensen Huang called Marvell 'the next trillion-dollar company' at Computex on June 2, driving the stock +33% to $291 before hitting an all-time closing high of $316.43 on June 4. A broad chip selloff cut 17% on June 5 before Monday's S&P inclusion news recovered the stock to $288.85. MRVL is up ~230% YTD.",
+      "bull_case": [
+        "S&P 500 inclusion effective June 22 forces index-fund buying from passive investors; Nvidia's $2B investment and Jensen Huang's trillion-dollar endorsement validates Marvell's custom AI silicon ASIC platform",
+        "Record Q1 FY2027 revenue of $2.42B (+28% YoY) with AI data center ASIC business growing rapidly; Stifel raised price target to $321 citing analyst forecast of 90% revenue growth for both 2026 and 2027"
+      ],
+      "bear_case": [
+        "RSI of 78.57 signals severely overbought conditions after a 230%+ YTD run; consensus analyst target of $233 is well below the current $288 price, suggesting the stock has run ahead of most models",
+        "Trailing P/E of ~91x reflects extreme valuation premium; the June 5 session showed a single-day 17% drop is possible, with the stock still -10.9% off its all-time high set just days ago"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$288.85",
+      "price_target": "$233.14 consensus (-19.3%); Stifel recently raised to $321 (+11.1%)",
+      "pe_ratio": "91.01",
+      "rsi": "78.57 (overbought)",
+      "vs_52wk_high": "-10.9% below high ($324.20)",
       "analyst_rating": "Strong Buy",
       "sector": "Technology - Semiconductors",
-      "sources": ["CNBC", "Yahoo Finance", "GuruFocus", "MarketBeat", "StockAnalysis"],
-      "price_history_5d": [466.05, 481.57, 479.23, 418.91, 395.54]
+      "sources": ["CNBC", "Bloomberg", "Benzinga", "GuruFocus", "TipRanks", "MarketBeat"],
+      "price_history_5d": [291.00, 316.43, 263.47, 288.85]
+    },
+    {
+      "ticker": "CBRS",
+      "company": "Cerebras Systems",
+      "discussion_driver": "Cerebras Systems surged ~18-20% as seven major Wall Street firms issued bullish analyst initiations following the AI chipmaker's blockbuster May 2026 IPO — the biggest U.S. tech IPO since Uber in 2019. Initiating firms included Barclays (OW, $280), UBS (Buy, $300), Citi (Buy, $340), plus Needham, Morgan Stanley, Wedbush, and Rosenblatt. The stock had declined ~38% from its IPO-day close of $311 before this bounce, with RSI near 29 in oversold territory.",
+      "bull_case": [
+        "Seven major banks initiating with Buy/Overweight ratings and price targets ranging $250-$340 provides strong institutional validation and creates buying momentum for a newly public AI hardware company",
+        "Cerebras' proprietary Wafer Scale Engine (WSE) delivers orders of magnitude faster AI inference than GPU clusters, uniquely positioning it for the fast-growing AI inference workload market"
+      ],
+      "bear_case": [
+        "Stock fell ~38% from IPO-day close ($311) to the June 5 all-time low; despite today's bounce, persistent selling since IPO suggests fundamental valuation concerns are not fully resolved",
+        "P/E of ~214x reflects near-zero earnings relative to market cap; competition from NVIDIA, hyperscaler custom ASICs, and other AI chip startups makes path to sustained profitability uncertain"
+      ],
+      "recommendation": "Speculative Buy",
+      "current_price": "$240.96",
+      "price_target": "$290.56 (+20.6%)",
+      "pe_ratio": "214.05",
+      "rsi": "29.0 (oversold)",
+      "vs_52wk_high": "-37.6% below high ($386.34)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - AI Semiconductors",
+      "sources": ["CNBC", "StocksToTrade", "Benzinga", "MarketBeat", "Yahoo Finance", "Investing.com"],
+      "price_history_5d": [201.01, 240.96]
     },
     {
       "ticker": "NVDA",
       "company": "NVIDIA Corporation",
-      "discussion_driver": "NVDA dropped ~6.2% on June 5, 2026 as Broadcom's fiscal Q2 earnings projected Q3 AI chip revenue of $16B vs. street estimates of $17.2B and left FY2027 guidance unchanged at $100B, disappointing investors who expected a raise. This triggered the broadest semiconductor sector selloff since March 2020, erasing ~$923B in combined semiconductor market cap in a single session; NVIDIA alone lost ~$280B and its market cap briefly fell below the $5 trillion threshold.",
+      "discussion_driver": "Nvidia gained ~2.3% in premarket and extended gains during Monday's session after announcing a partnership with SK Hynix for advanced HBM AI memory supporting its AI factory buildout. The move contributed to a broader chip sector recovery following a steep Friday selloff. Nvidia was also reportedly evaluating Intel for future chip manufacturing, adding supply chain diversification optionality while reinforcing its AI infrastructure dominance.",
       "bull_case": [
-        "AI infrastructure supercycle remains intact — NVIDIA's data center GPU dominance (H100/B100/B200 platforms) gives it unrivaled pricing power and a multi-year backlog as hyperscalers accelerate capital expenditures.",
-        "Trailing P/E of ~31x is well below NVDA's 20-year average of 55x and forward P/E of ~22x, suggesting strong valuation support; RSI near 33 signals a potential oversold rebound entry point."
+        "SK Hynix advanced HBM partnership accelerates Nvidia's AI factory roadmap; the company maintains dominant platform status for AI training and inference with data center revenue growing at triple digits YoY",
+        "62-analyst Strong Buy consensus with average price target of $298 represents ~43% upside from current levels; Nvidia's CUDA ecosystem lock-in remains a durable and widening competitive moat"
       ],
       "bear_case": [
-        "Broadcom's soft Q3 AI chip revenue guidance signals that custom ASIC alternatives may be eroding NVIDIA's TAM, dampening the AI chip growth narrative that has driven NVDA's premium valuation.",
-        "NVDA is down ~12% from its May 14 all-time high of $236.54 and the Philadelphia Semiconductor Index posted its worst single-day drop since March 2020 (-10.3%), with broader sector de-rating risk remaining elevated."
+        "Custom silicon from Google (TPU via Intel), Amazon, Marvell, and Cerebras increasingly captures niche AI inference workloads, posing a long-term threat to Nvidia's GPU market share dominance",
+        "Geopolitical export controls continue to restrict access to the China AI market, and the stock remains -12% below its 52-week high, lagging some AI peers in recent weeks"
       ],
-      "recommendation": "Hold",
-      "current_price": "$207.22",
-      "price_target": "$296.81 (+43.2%)",
-      "pe_ratio": "31.41",
-      "rsi": "33.5",
-      "vs_52wk_high": "-12.4% below high ($236.54)",
+      "recommendation": "Buy",
+      "current_price": "$208.14",
+      "price_target": "$298.42 (+43.4%)",
+      "pe_ratio": "41.28",
+      "rsi": "N/A",
+      "vs_52wk_high": "-12.0% below high ($236.54)",
       "analyst_rating": "Strong Buy",
       "sector": "Technology - Semiconductors",
-      "sources": ["Yahoo Finance", "MarketBeat", "StockAnalysis", "CNBC", "GuruFocus"],
-      "price_history_5d": [218.66, 207.22]
-    },
-    {
-      "ticker": "ARM",
-      "company": "Arm Holdings plc",
-      "discussion_driver": "ARM fell ~7% on June 5, 2026 as Broadcom's fiscal Q2 earnings failed to raise its full-year AI semiconductor guidance (reiterating $100B+ for FY2027), sending Broadcom shares down ~13% and triggering a broad semiconductor sector sell-off. The Philadelphia Semiconductor Index fell 5–6%+ on the day; ARM was particularly hard-hit given its extreme valuation (P/E ~479) and a YTD rally of 270%+ entering June, making it a prime target for profit-taking.",
-      "bull_case": [
-        "ARM's AGI CPU platform has secured over $2 billion in committed customer demand for FY2027–FY2028, with data center royalty revenue more than doubling YoY in Q4 FY2026, establishing ARM as the default architecture for AI inference.",
-        "Armv9 royalty ramp is still in early innings with royalty rates 2x those of Armv8; rising agentic-AI CPU demand from Oracle and ByteDance expands the total addressable market significantly."
-      ],
-      "bear_case": [
-        "ARM trades at a trailing P/E of ~479 and forward P/E of ~190, leaving essentially zero margin for error — even a modest earnings miss could trigger a severe de-rating from current extreme valuation levels.",
-        "RISC-V represents a growing open-source architectural threat to ARM's licensing model, and ARM's move into direct chip competition (AGI CPU) risks alienating existing licensees who underwrite the royalty stream."
-      ],
-      "recommendation": "Hold",
-      "current_price": "$365.58",
-      "price_target": "$239.00 (-34.6%)",
-      "pe_ratio": "479.42",
-      "rsi": "76.4",
-      "vs_52wk_high": "-14.6% below high ($427.99)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Semiconductors",
-      "sources": ["Yahoo Finance", "MarketBeat", "GuruFocus", "StockAnalysis", "TIKR"],
-      "price_history_5d": [302.71, 411.83, 393.44, 365.58]
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron Technology Inc.",
-      "discussion_driver": "MU dropped ~17% over two sessions (June 4–5, 2026) following Broadcom's Q2 earnings report, in which AI chip revenue guidance came in ~$1.2B below consensus and Broadcom declined to raise its full-year AI revenue target. Micron was particularly hard-hit given its ~$1 trillion market cap milestone had just been reached and its stock had climbed ~70% YTD; as the leading HBM supplier to AI accelerator makers, MU trades in close sympathy with AI capex sentiment.",
-      "bull_case": [
-        "Micron is a critical supplier of high-bandwidth memory (HBM) for AI accelerators; structural demand from data center AI buildout remains intact despite the near-term sentiment reset.",
-        "Forward P/E of ~9.77 is deeply discounted relative to trailing P/E of ~46, reflecting strong expected earnings growth — 39 of 40 analysts still rate the stock Buy or Strong Buy with targets averaging ~$860."
-      ],
-      "bear_case": [
-        "Broadcom's AI chip revenue guidance miss signals potential cooling in AI capex, which directly threatens HBM/DRAM demand that drives Micron's premium valuation.",
-        "RSI reached 90 on June 1 — historically rare overbought territory — and the stock had surged ~70% in 2026 before the selloff, leaving significant downside risk if AI spending growth disappoints further."
-      ],
-      "recommendation": "Hold",
-      "current_price": "$869.15",
-      "price_target": "$860.20 (-1.0%)",
-      "pe_ratio": "46.41",
-      "rsi": "82.37",
-      "vs_52wk_high": "-20.2% below high ($1,089.29)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Technology - Semiconductors",
-      "sources": ["Yahoo Finance", "StockAnalysis", "MarketBeat", "GuruFocus", "247 Wall St."],
-      "price_history_5d": [1000.50, 1046.97, 1079.57, 996.00, 869.15]
-    },
-    {
-      "ticker": "META",
-      "company": "Meta Platforms Inc.",
-      "discussion_driver": "On June 5, 2026, Bloomberg and the Financial Times reported that Meta Platforms is considering raising tens of billions of dollars in new equity — inspired by Alphabet's successful $85B stock sale — to help fund up to $145B in AI infrastructure capex through 2026. Meta has not yet hired banks and may not proceed, but the dilution risk triggered a ~6–7% intraday selloff; the capex target of $145B (up from a prior $115–135B range) reflects soaring AI compute costs as Zuckerberg pursues 'personal superintelligence' across Meta's platforms.",
-      "bull_case": [
-        "Analyst consensus is Strong Buy with average price target of ~$834, implying 41%+ upside from June 5 close; Meta's AI monetization model (ad targeting, Llama integration) is seen as among the most advanced of any hyperscaler.",
-        "Meta's $145B capex plan signals aggressive AI infrastructure buildout that could entrench competitive moats in social media, AR/VR, and AI assistants, with revenue growth projected to remain robust through 2027."
-      ],
-      "bear_case": [
-        "A potential secondary equity offering worth tens of billions of dollars would be dilutive to existing shareholders; equity raises of this scale typically compress near-term EPS and signal concern about cash generation relative to capex ambitions.",
-        "The stock is ~26% below its 52-week high of $796.25 (August 2025), and RSI of ~41.6 reflects neutral-to-weak momentum; the stock has failed to recapture its prior peak despite strong Q1 2026 earnings."
-      ],
-      "recommendation": "Hold",
-      "current_price": "$589.89",
-      "price_target": "$834.43 (+41.4%)",
-      "pe_ratio": "21.82",
-      "rsi": "41.61",
-      "vs_52wk_high": "-26.0% below high ($796.25)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Communication Services",
-      "sources": ["Bloomberg", "Financial Times", "Yahoo Finance", "GuruFocus", "MarketBeat"],
-      "price_history_5d": [627.57, 589.89]
+      "sources": ["CNBC", "Bloomberg", "StockAnalysis", "MarketBeat", "Yahoo Finance"],
+      "price_history_5d": [214.75, 218.66, 205.10, 208.14]
     }
   ]
 }
