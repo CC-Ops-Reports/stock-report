@@ -1,161 +1,180 @@
 {
-  "report_date": "2026-06-08",
-  "market_tone": "Bullish",
+  "report_date": "2026-06-09",
+  "market_tone": "Mixed",
   "key_themes": [
-    "AI semiconductor surge \u2014 Intel secures Google TPU foundry order, Marvell added to S&P 500, Cerebras gains on post-IPO analyst initiations",
-    "Biotech dealmaking \u2014 Nurix Therapeutics soars 43% on $2.3B Roche collaboration for BTK degrader bexobrutideg",
-    "Chip sector rebounds from steep Friday selloff, leading broader market recovery"
+    "Iran/geopolitical tensions trigger intraday selloff before partial recovery",
+    "Semiconductor and tech sector selloff continues; SOX plunged 8.6% intraday",
+    "M&A wave: GSK acquires Nuvalent for $10.6B; Nuvei in advanced talks to buy Payoneer for $2.7B",
+    "Apple WWDC 2026 disappoints investors with no Siri AI timeline",
+    "AI competitive pressure hammers Intuit as Goldman downgrades to Sell"
   ],
   "sp500": {
-    "value": "7,406",
-    "change": "+0.30%"
+    "value": "7,386.65",
+    "change": "-0.26%"
   },
   "nasdaq": {
-    "value": "25,930",
-    "change": "+0.86%"
+    "value": "25,678.82",
+    "change": "-0.97%"
   },
   "stocks": [
     {
-      "ticker": "NRIX",
-      "company": "Nurix Therapeutics",
-      "reason": "Shares surged ~43% after announcing a $2.3B global collaboration with Roche ($700M upfront) to co-develop and co-commercialize BTK degrader bexobrutideg across blood cancers, immunology, and neurology",
+      "ticker": "NUVL",
+      "company": "Nuvalent",
+      "reason": "GSK announced $10.6B acquisition at $124/share (40% premium); stock surged 38.7% \u2014 industry's second-biggest deal of 2026",
       "category": "news",
       "sources": [
         "Bloomberg",
-        "Yahoo Finance",
+        "CNBC",
         "Benzinga",
-        "Schaeffer's Investment Research"
+        "BioSpace"
       ]
     },
     {
-      "ticker": "INTC",
-      "company": "Intel Corporation",
-      "reason": "Stock surged ~11% on reports Alphabet/Google placed an order for 3M+ tensor processing units to be manufactured by Intel in 2028, as TSMC faces capacity constraints; Nvidia also reportedly evaluating Intel manufacturing",
+      "ticker": "PAYO",
+      "company": "Payoneer Global",
+      "reason": "Shares surged 24% after reports that Nuvei is in advanced talks to acquire the cross-border payments firm for ~$2.7B",
       "category": "news",
       "sources": [
-        "CNBC",
         "Motley Fool",
         "Yahoo Finance",
-        "GuruFocus"
+        "PYMNTS"
       ]
     },
     {
-      "ticker": "MRVL",
-      "company": "Marvell Technology",
-      "reason": "Shares rose ~8-9% after S&P 500 confirmed Marvell will join the index on June 22, replacing Campbell's; stock is up ~230% YTD aided by Nvidia investment and Jensen Huang endorsement",
+      "ticker": "APLD",
+      "company": "Applied Digital",
+      "reason": "Shares climbed 10%+ premarket after signing a 15-year data center lease with a U.S.-based hyperscaler projected to generate $5.2B in revenue",
       "category": "news",
       "sources": [
-        "CNBC",
         "Bloomberg",
-        "Benzinga",
-        "GuruFocus"
+        "Parameter.io"
       ]
     },
     {
-      "ticker": "CBRS",
-      "company": "Cerebras Systems",
-      "reason": "Shares jumped ~18-20% as Wall Street firms issued a slate of bullish initiations following the AI chipmaker's blockbuster May IPO debut (up 68% on first day); AI infrastructure demand narrative intact",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "StocksToTrade"
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "reason": "Gained ~2.3% in premarket after announcing partnership with SK Hynix for advanced AI memory for its AI factory buildout; broader chip sector rally following Friday's selloff",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "Bloomberg"
-      ]
-    },
-    {
-      "ticker": "GLW",
-      "company": "Corning",
-      "reason": "Shares popped ~6% after reaching a deal with Amazon to supply optical fiber and connectivity solutions for Amazon's growing U.S. data center infrastructure; stock has more than doubled YTD on AI-driven fiber demand",
+      "ticker": "DKNG",
+      "company": "DraftKings",
+      "reason": "Jumped 9% after SEC filing revealed DraftKings Predictions offering grew 24% month-over-month to $1.3B in May",
       "category": "news",
       "sources": [
         "CNBC"
       ]
     },
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "reason": "Stock rose ~2.8% after China May sales data showed 22.6% YoY growth to 47,281 vehicles; exports surged 68% to 38,701 units",
-      "category": "news",
+      "ticker": "SJM",
+      "company": "J.M. Smucker",
+      "reason": "Gained 5.8% in early trading after reporting better-than-expected Q4 earnings, beating both EPS and revenue estimates",
+      "category": "earnings",
       "sources": [
-        "Benzinga",
-        "Yahoo Finance"
+        "CNBC",
+        "Benzinga"
       ]
     },
     {
-      "ticker": "FLEX",
-      "company": "Flex",
-      "reason": "Shares gained ~4% after being confirmed as an S&P 500 addition alongside Marvell, effective June 22; replaces Pool Corporation in the index",
-      "category": "news",
+      "ticker": "SAIL",
+      "company": "SailPoint",
+      "reason": "Fell 12% despite Q1 2027 earnings beat (revenue +22% YoY to $280M, ARR $1.163B); market punished guidance or valuation concerns",
+      "category": "earnings",
       "sources": [
-        "CNBC",
-        "Fortune",
-        "GuruFocus"
+        "GuruFocus",
+        "MarketBeat",
+        "StockTitan"
       ]
     },
     {
-      "ticker": "CPB",
-      "company": "The Campbell's Company",
-      "reason": "Shares under pressure after being removed from the S&P 500, replaced by Marvell Technology effective June 22; index-tracking forced selling expected",
+      "ticker": "AAPL",
+      "company": "Apple",
+      "reason": "Dropped 3%+ after WWDC 2026; investors disappointed by lack of Siri AI launch timeline despite iOS 27 and rebuilt AI Siri announcement",
       "category": "news",
       "sources": [
         "CNBC",
-        "Fortune"
+        "Yahoo Finance",
+        "GuruFocus",
+        "Benzinga"
+      ]
+    },
+    {
+      "ticker": "QCOM",
+      "company": "Qualcomm",
+      "reason": "Fell ~9% as semiconductor selloff resumed; Philadelphia Semiconductor Index plunged 8.6% intraday on Iran tensions and tech profit-taking",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "TheStreet"
+      ]
+    },
+    {
+      "ticker": "AMD",
+      "company": "Advanced Micro Devices",
+      "reason": "Declined 8% as semiconductor sector extended its multi-day selloff driven by Iran geopolitical fears and rotation out of Big Tech",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "TheStreet"
       ]
     },
     {
       "ticker": "MU",
       "company": "Micron Technology",
-      "reason": "Jumped ~7.1% as part of broad semiconductor sector rebound; AI memory demand narrative reinforced by Nvidia-SK Hynix partnership and Intel's Google foundry order",
+      "reason": "Tumbled 6% during the session despite initial premarket gains; part of the broad semiconductor sector selloff accelerated by Iran news",
       "category": "sector",
       "sources": [
-        "Bloomberg",
-        "TheStreet"
+        "CNBC",
+        "Investing.com"
       ]
     },
     {
-      "ticker": "IPGP",
-      "company": "IPG Photonics",
-      "reason": "Advanced ~8.2% on Monday, benefiting from AI-driven optical infrastructure demand and the broader tech sector rebound",
-      "category": "sector",
-      "sources": [
-        "Bloomberg",
-        "TheStreet"
-      ]
-    },
-    {
-      "ticker": "BIIB",
-      "company": "Biogen",
-      "reason": "Needham analyst Ami Fadia upgraded from Hold to Buy with a $255 price target, citing improving pipeline prospects and bullish outlook on neurology portfolio",
-      "category": "upgrade",
-      "sources": [
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "CTSH",
-      "company": "Cognizant Technology Solutions",
-      "reason": "Wedbush analyst upgraded from Neutral to Outperform, raising price target from $56 to $70 on improved IT services spending outlook",
-      "category": "upgrade",
-      "sources": [
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "RYAN",
-      "company": "Ryan Specialty Group",
-      "reason": "Goldman Sachs downgraded to Neutral, citing valuation concerns following strong recent price appreciation in the specialty insurance brokerage",
+      "ticker": "INTU",
+      "company": "Intuit",
+      "reason": "Shares dropped ~6.86% after Goldman Sachs downgraded to Sell with $276 PT (from $519), citing AI tax prep rivals processing returns for $0.12 vs. TurboTax's ~$162",
       "category": "downgrade",
       "sources": [
-        "StreetInsider"
+        "Yahoo Finance",
+        "Seeking Alpha",
+        "Benzinga",
+        "GuruFocus"
+      ]
+    },
+    {
+      "ticker": "GSK",
+      "company": "GlaxoSmithKline",
+      "reason": "Shares fell after announcing $10.6B acquisition of Nuvalent \u2014 GSK's largest deal in over a decade \u2014 raising investor concerns about capital allocation",
+      "category": "news",
+      "sources": [
+        "Bloomberg",
+        "Benzinga",
+        "Investing.com"
+      ]
+    },
+    {
+      "ticker": "PRGO",
+      "company": "Perrigo",
+      "reason": "Stock declined after CEO Patrick Lockwood-Taylor resigned following a determination that his personal conduct violated the company's code of conduct",
+      "category": "news",
+      "sources": [
+        "Bloomberg",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "TOL",
+      "company": "Toll Brothers",
+      "reason": "KBW upgraded to Outperform (PT raised to $161) citing K-shaped housing market favoring luxury builders; affluent buyers driving 6-8% order growth",
+      "category": "upgrade",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance",
+        "Investing.com"
+      ]
+    },
+    {
+      "ticker": "LEN",
+      "company": "Lennar",
+      "reason": "KBW downgraded to Underperform (PT cut to $86 from $97); ~50% entry-level buyer exposure faces affordability headwinds and Millrose margin drag",
+      "category": "downgrade",
+      "sources": [
+        "Yahoo Finance",
+        "Investing.com",
+        "247wallst.com"
       ]
     }
   ]
