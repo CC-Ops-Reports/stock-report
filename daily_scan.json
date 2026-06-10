@@ -1,180 +1,184 @@
 {
-  "report_date": "2026-06-09",
-  "market_tone": "Mixed",
+  "report_date": "2026-06-10",
+  "market_tone": "Bearish",
   "key_themes": [
-    "Iran/geopolitical tensions trigger intraday selloff before partial recovery",
-    "Semiconductor and tech sector selloff continues; SOX plunged 8.6% intraday",
-    "M&A wave: GSK acquires Nuvalent for $10.6B; Nuvei in advanced talks to buy Payoneer for $2.7B",
-    "Apple WWDC 2026 disappoints investors with no Siri AI timeline",
-    "AI competitive pressure hammers Intuit as Goldman downgrades to Sell"
+    "CPI hits 4.2% three-year high driving rate-hike fears",
+    "US-Iran tensions push oil near $90, Strait of Hormuz disruptions",
+    "Amazon LTL freight expansion triggers broad trucking sector selloff",
+    "AI/chip stocks under heavy pressure as risk-off mood intensifies"
   ],
   "sp500": {
-    "value": "7,386.65",
-    "change": "-0.26%"
+    "value": "7,266.99",
+    "change": "-1.62%"
   },
   "nasdaq": {
-    "value": "25,678.82",
-    "change": "-0.97%"
+    "value": "25,169.50",
+    "change": "-1.98%"
   },
   "stocks": [
     {
-      "ticker": "NUVL",
-      "company": "Nuvalent",
-      "reason": "GSK announced $10.6B acquisition at $124/share (40% premium); stock surged 38.7% \u2014 industry's second-biggest deal of 2026",
+      "ticker": "SMCI",
+      "company": "Super Micro Computer",
+      "reason": "Plunged ~27% after announcing $7B equity raise (common stock + mandatory convertible preferreds) representing ~35% dilution of market cap to fund $39B AI server backlog; announced after close on June 9",
       "category": "news",
       "sources": [
-        "Bloomberg",
         "CNBC",
-        "Benzinga",
-        "BioSpace"
+        "Yahoo Finance",
+        "TechTimes",
+        "MLQ News"
       ]
     },
     {
-      "ticker": "PAYO",
-      "company": "Payoneer Global",
-      "reason": "Shares surged 24% after reports that Nuvei is in advanced talks to acquire the cross-border payments firm for ~$2.7B",
+      "ticker": "CBRL",
+      "company": "Cracker Barrel Old Country Store",
+      "reason": "Surged ~23-30% on Q3 earnings beat: EPS $0.29 vs -$0.48 estimate, revenue $797.4M vs $776.7M est; raised full-year EBITDA guidance to $120-125M; triggered short squeeze",
+      "category": "earnings",
+      "sources": [
+        "StocksToTrade",
+        "GuruFocus",
+        "Invezz",
+        "StockStory"
+      ]
+    },
+    {
+      "ticker": "ORCL",
+      "company": "Oracle",
+      "reason": "Fell ~7.4% after hours despite earnings beat (EPS $2.11 vs $1.89 est); shocked investors with $70B capex guidance for FY2027 and $40B capital raise announcement",
+      "category": "earnings",
+      "sources": [
+        "TheStreet",
+        "TipRanks",
+        "Tickeron"
+      ]
+    },
+    {
+      "ticker": "HOOD",
+      "company": "Robinhood Markets",
+      "reason": "Rose ~8% after IPO underwriting approval via FINRA, major insider purchase of $20.2M at $80.74/share, and May trading volumes up 75% YoY to $315B notional",
       "category": "news",
       "sources": [
+        "TheStreet",
         "Motley Fool",
-        "Yahoo Finance",
-        "PYMNTS"
+        "StocksToTrade"
       ]
     },
     {
-      "ticker": "APLD",
-      "company": "Applied Digital",
-      "reason": "Shares climbed 10%+ premarket after signing a 15-year data center lease with a U.S.-based hyperscaler projected to generate $5.2B in revenue",
+      "ticker": "NKE",
+      "company": "Nike",
+      "reason": "RBC Capital downgraded from Outperform to Sector Perform, cut PT from $70 to $50; analyst cites slow turnaround under CEO Elliott Hill, rising competition from Lululemon/Alo/Vuori",
+      "category": "downgrade",
+      "sources": [
+        "GuruFocus",
+        "CoinCentral",
+        "Blockonomi",
+        "Investing.com"
+      ]
+    },
+    {
+      "ticker": "ODFL",
+      "company": "Old Dominion Freight Line",
+      "reason": "Fell ~5% after Amazon announced it will open its LTL freight service to all outside businesses, directly competing with ODFL as the #2 US LTL carrier",
+      "category": "news",
+      "sources": [
+        "GuruFocus",
+        "Bloomberg",
+        "Sherwood News"
+      ]
+    },
+    {
+      "ticker": "FDX",
+      "company": "FedEx",
+      "reason": "Dropped ~9% intraday on Amazon LTL freight expansion; freight spin-off timeline now in focus as competitive threat from Amazon accelerates",
       "category": "news",
       "sources": [
         "Bloomberg",
-        "Parameter.io"
-      ]
-    },
-    {
-      "ticker": "DKNG",
-      "company": "DraftKings",
-      "reason": "Jumped 9% after SEC filing revealed DraftKings Predictions offering grew 24% month-over-month to $1.3B in May",
-      "category": "news",
-      "sources": [
+        "TIKR",
         "CNBC"
       ]
     },
     {
-      "ticker": "SJM",
-      "company": "J.M. Smucker",
-      "reason": "Gained 5.8% in early trading after reporting better-than-expected Q4 earnings, beating both EPS and revenue estimates",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "SAIL",
-      "company": "SailPoint",
-      "reason": "Fell 12% despite Q1 2027 earnings beat (revenue +22% YoY to $280M, ARR $1.163B); market punished guidance or valuation concerns",
-      "category": "earnings",
-      "sources": [
-        "GuruFocus",
-        "MarketBeat",
-        "StockTitan"
-      ]
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "reason": "Dropped 3%+ after WWDC 2026; investors disappointed by lack of Siri AI launch timeline despite iOS 27 and rebuilt AI Siri announcement",
+      "ticker": "SAIA",
+      "company": "Saia Inc.",
+      "reason": "Fell ~7% alongside broader LTL trucking selloff triggered by Amazon opening freight services to external shippers nationwide",
       "category": "news",
       "sources": [
-        "CNBC",
-        "Yahoo Finance",
+        "Bloomberg",
         "GuruFocus",
-        "Benzinga"
+        "Invezz"
       ]
     },
     {
-      "ticker": "QCOM",
-      "company": "Qualcomm",
-      "reason": "Fell ~9% as semiconductor selloff resumed; Philadelphia Semiconductor Index plunged 8.6% intraday on Iran tensions and tech profit-taking",
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "reason": "Fell ~3.3% as risk-off macro mood (hot CPI at 4.2%, Iran tensions) hit AI semiconductor names; peer Broadcom's Q3 AI chip guidance disappointing sector sentiment",
       "category": "sector",
       "sources": [
-        "CNBC",
-        "TheStreet"
-      ]
-    },
-    {
-      "ticker": "AMD",
-      "company": "Advanced Micro Devices",
-      "reason": "Declined 8% as semiconductor sector extended its multi-day selloff driven by Iran geopolitical fears and rotation out of Big Tech",
-      "category": "sector",
-      "sources": [
-        "CNBC",
-        "TheStreet"
+        "TipRanks",
+        "Yahoo Finance",
+        "Motley Fool"
       ]
     },
     {
       "ticker": "MU",
       "company": "Micron Technology",
-      "reason": "Tumbled 6% during the session despite initial premarket gains; part of the broad semiconductor sector selloff accelerated by Iran news",
+      "reason": "Dropped ~4.5% in broad AI chip selloff; elevated rate fears from CPI print pressuring high-multiple semiconductor names; continued from June 9 slide",
       "category": "sector",
       "sources": [
-        "CNBC",
-        "Investing.com"
+        "TipRanks",
+        "Yahoo Finance",
+        "Motley Fool"
       ]
     },
     {
-      "ticker": "INTU",
-      "company": "Intuit",
-      "reason": "Shares dropped ~6.86% after Goldman Sachs downgraded to Sell with $276 PT (from $519), citing AI tax prep rivals processing returns for $0.12 vs. TurboTax's ~$162",
+      "ticker": "NUVL",
+      "company": "Nuvalent",
+      "reason": "Multiple downgrades in same session: Guggenheim and UBS both cut from Buy to Neutral (PT to $124), Wells Fargo cut from Overweight to Equal-Weight on June 9",
       "category": "downgrade",
       "sources": [
-        "Yahoo Finance",
-        "Seeking Alpha",
         "Benzinga",
         "GuruFocus"
       ]
     },
     {
-      "ticker": "GSK",
-      "company": "GlaxoSmithKline",
-      "reason": "Shares fell after announcing $10.6B acquisition of Nuvalent \u2014 GSK's largest deal in over a decade \u2014 raising investor concerns about capital allocation",
-      "category": "news",
+      "ticker": "CRK",
+      "company": "Comstock Resources",
+      "reason": "Rose ~6% from 52-week lows with unusual call options activity (35x average volume, 8,019 calls vs 320 puts) as rising oil prices near $90 benefit natural gas/energy names",
+      "category": "sector",
       "sources": [
-        "Bloomberg",
-        "Benzinga",
-        "Investing.com"
+        "Charles Schwab Options Update",
+        "Benzinga"
       ]
     },
     {
-      "ticker": "PRGO",
-      "company": "Perrigo",
-      "reason": "Stock declined after CEO Patrick Lockwood-Taylor resigned following a determination that his personal conduct violated the company's code of conduct",
+      "ticker": "MMM",
+      "company": "3M Company",
+      "reason": "Unusual put options activity (15,811 puts, 4x avg volume) after shares spiked near $163 following CEO comments at Wells Fargo Industrial Conference; traders using puts to hedge gains",
       "category": "news",
       "sources": [
-        "Bloomberg",
-        "CNBC"
+        "Charles Schwab Options Update"
       ]
     },
     {
-      "ticker": "TOL",
-      "company": "Toll Brothers",
-      "reason": "KBW upgraded to Outperform (PT raised to $161) citing K-shaped housing market favoring luxury builders; affluent buyers driving 6-8% order growth",
-      "category": "upgrade",
+      "ticker": "CHWY",
+      "company": "Chewy",
+      "reason": "Reported Q3 earnings beat pre-market: EPS $0.43 vs $0.39 consensus estimate; scheduled alongside Oracle as a key earnings release for June 10",
+      "category": "earnings",
       "sources": [
+        "TipRanks",
+        "Tickeron",
+        "MarketBeat"
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "company": "Amazon",
+      "reason": "Announced opening of LTL freight service to all outside businesses (not just its own inbound shipments), disrupting the entire US less-than-truckload shipping industry",
+      "category": "news",
+      "sources": [
+        "Bloomberg",
         "CNBC",
-        "Yahoo Finance",
-        "Investing.com"
-      ]
-    },
-    {
-      "ticker": "LEN",
-      "company": "Lennar",
-      "reason": "KBW downgraded to Underperform (PT cut to $86 from $97); ~50% entry-level buyer exposure faces affordability headwinds and Millrose margin drag",
-      "category": "downgrade",
-      "sources": [
-        "Yahoo Finance",
-        "Investing.com",
-        "247wallst.com"
+        "GuruFocus",
+        "Sherwood News"
       ]
     }
   ]
