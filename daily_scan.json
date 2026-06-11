@@ -1,184 +1,182 @@
 {
-  "report_date": "2026-06-10",
-  "market_tone": "Bearish",
+  "report_date": "2026-06-11",
+  "market_tone": "Bullish",
   "key_themes": [
-    "CPI hits 4.2% three-year high driving rate-hike fears",
-    "US-Iran tensions push oil near $90, Strait of Hormuz disruptions",
-    "Amazon LTL freight expansion triggers broad trucking sector selloff",
-    "AI/chip stocks under heavy pressure as risk-off mood intensifies"
+    "US-Iran peace deal signals push oil to ~$86, easing inflation fears and fueling broad equity rally",
+    "SpaceX prices record-breaking $75B IPO at $135/share, valued at ~$1.75 trillion",
+    "Chipmaker rebound: MU +12%, SNDK +14%, INTC +10% after prior-week semiconductor selloff",
+    "Oracle tumbles ~12% on $95B AI capex guidance and $40B debt/equity raise plan despite earnings beat",
+    "After-hours earnings catalyst: Adobe, Lennar, RH all reporting today"
   ],
   "sp500": {
-    "value": "7,266.99",
-    "change": "-1.62%"
+    "value": "7,394.30",
+    "change": "+1.75%"
   },
   "nasdaq": {
-    "value": "25,169.50",
-    "change": "-1.98%"
+    "value": "25,809.66",
+    "change": "+2.54%"
   },
   "stocks": [
     {
-      "ticker": "SMCI",
-      "company": "Super Micro Computer",
-      "reason": "Plunged ~27% after announcing $7B equity raise (common stock + mandatory convertible preferreds) representing ~35% dilution of market cap to fund $39B AI server backlog; announced after close on June 9",
+      "ticker": "SPCX",
+      "company": "SpaceX",
+      "reason": "IPO priced at $135/share, raising a record-breaking $75B; valued at ~$1.75 trillion, making it the largest IPO in history; merged with xAI ahead of listing",
       "category": "news",
       "sources": [
-        "CNBC",
-        "Yahoo Finance",
-        "TechTimes",
-        "MLQ News"
-      ]
-    },
-    {
-      "ticker": "CBRL",
-      "company": "Cracker Barrel Old Country Store",
-      "reason": "Surged ~23-30% on Q3 earnings beat: EPS $0.29 vs -$0.48 estimate, revenue $797.4M vs $776.7M est; raised full-year EBITDA guidance to $120-125M; triggered short squeeze",
-      "category": "earnings",
-      "sources": [
-        "StocksToTrade",
-        "GuruFocus",
-        "Invezz",
-        "StockStory"
+        "NPR",
+        "Axios",
+        "IPOScoop",
+        "TheStreet"
       ]
     },
     {
       "ticker": "ORCL",
-      "company": "Oracle",
-      "reason": "Fell ~7.4% after hours despite earnings beat (EPS $2.11 vs $1.89 est); shocked investors with $70B capex guidance for FY2027 and $40B capital raise announcement",
+      "company": "Oracle Corporation",
+      "reason": "Tumbled ~12% to ~$175 despite Q4 earnings beat ($2.11 EPS on $19.18B revenue); investors spooked by $95B FY2027 capex guidance, cloud revenue miss, and plans to raise $40B via new debt and equity",
       "category": "earnings",
       "sources": [
-        "TheStreet",
-        "TipRanks",
-        "Tickeron"
-      ]
-    },
-    {
-      "ticker": "HOOD",
-      "company": "Robinhood Markets",
-      "reason": "Rose ~8% after IPO underwriting approval via FINRA, major insider purchase of $20.2M at $80.74/share, and May trading volumes up 75% YoY to $315B notional",
-      "category": "news",
-      "sources": [
-        "TheStreet",
         "Motley Fool",
-        "StocksToTrade"
-      ]
-    },
-    {
-      "ticker": "NKE",
-      "company": "Nike",
-      "reason": "RBC Capital downgraded from Outperform to Sector Perform, cut PT from $70 to $50; analyst cites slow turnaround under CEO Elliott Hill, rising competition from Lululemon/Alo/Vuori",
-      "category": "downgrade",
-      "sources": [
-        "GuruFocus",
-        "CoinCentral",
-        "Blockonomi",
-        "Investing.com"
-      ]
-    },
-    {
-      "ticker": "ODFL",
-      "company": "Old Dominion Freight Line",
-      "reason": "Fell ~5% after Amazon announced it will open its LTL freight service to all outside businesses, directly competing with ODFL as the #2 US LTL carrier",
-      "category": "news",
-      "sources": [
-        "GuruFocus",
-        "Bloomberg",
-        "Sherwood News"
-      ]
-    },
-    {
-      "ticker": "FDX",
-      "company": "FedEx",
-      "reason": "Dropped ~9% intraday on Amazon LTL freight expansion; freight spin-off timeline now in focus as competitive threat from Amazon accelerates",
-      "category": "news",
-      "sources": [
-        "Bloomberg",
-        "TIKR",
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "SAIA",
-      "company": "Saia Inc.",
-      "reason": "Fell ~7% alongside broader LTL trucking selloff triggered by Amazon opening freight services to external shippers nationwide",
-      "category": "news",
-      "sources": [
-        "Bloomberg",
-        "GuruFocus",
-        "Invezz"
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "reason": "Fell ~3.3% as risk-off macro mood (hot CPI at 4.2%, Iran tensions) hit AI semiconductor names; peer Broadcom's Q3 AI chip guidance disappointing sector sentiment",
-      "category": "sector",
-      "sources": [
-        "TipRanks",
+        "FX Leaders",
         "Yahoo Finance",
-        "Motley Fool"
+        "Spokesman"
       ]
     },
     {
       "ticker": "MU",
       "company": "Micron Technology",
-      "reason": "Dropped ~4.5% in broad AI chip selloff; elevated rate fears from CPI print pressuring high-multiple semiconductor names; continued from June 9 slide",
+      "reason": "Surged ~12%, erasing prior week losses as Iran deal hopes spurred a semiconductor sector rebound; memory stocks led broader chip recovery",
       "category": "sector",
       "sources": [
-        "TipRanks",
+        "Motley Fool",
         "Yahoo Finance",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk Corporation",
+      "reason": "Gained ~14% on the day as memory/storage stocks rebounded sharply; benefited from AI/data center sector tailwinds and broader chip recovery after prior-week selloff",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "TradingKey",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "company": "Intel Corporation",
+      "reason": "Jumped ~10% after Loop Capital upgraded from Hold to Buy with a $75 price target; semiconductor sector rally driven by Iran deal optimism amplified the move",
+      "category": "upgrade",
+      "sources": [
+        "CNBC",
+        "Benzinga",
         "Motley Fool"
       ]
     },
     {
-      "ticker": "NUVL",
-      "company": "Nuvalent",
-      "reason": "Multiple downgrades in same session: Guggenheim and UBS both cut from Buy to Neutral (PT to $124), Wells Fargo cut from Overweight to Equal-Weight on June 9",
-      "category": "downgrade",
+      "ticker": "NAVN",
+      "company": "Navan, Inc.",
+      "reason": "Surged ~18% after Q1 earnings beat (8 cents EPS vs. -1 cent expected; $220M revenue vs. $205M est.) and raised FY2027 revenue guidance to 30% YoY growth; Gross Booking Volume up 50% YoY to record $3.1B",
+      "category": "earnings",
       "sources": [
         "Benzinga",
+        "Yahoo Finance",
+        "TheStreet"
+      ]
+    },
+    {
+      "ticker": "CASY",
+      "company": "Casey's General Stores",
+      "reason": "Popped ~19% after blowout Q4 earnings: EPS of $4.37 crushed $3.31 estimate; same-store sales +5.5%; board raised quarterly dividend 14% to $0.65/share (27th consecutive year of increases)",
+      "category": "earnings",
+      "sources": [
+        "Benzinga",
+        "Motley Fool",
         "GuruFocus"
       ]
     },
     {
-      "ticker": "CRK",
-      "company": "Comstock Resources",
-      "reason": "Rose ~6% from 52-week lows with unusual call options activity (35x average volume, 8,019 calls vs 320 puts) as rising oil prices near $90 benefit natural gas/energy names",
-      "category": "sector",
+      "ticker": "SATS",
+      "company": "EchoStar Corporation",
+      "reason": "Rose ~8% ahead of SpaceX IPO; EchoStar holds a stake in SpaceX shares, making it a direct beneficiary of the record-breaking $75B IPO valuation",
+      "category": "news",
       "sources": [
-        "Charles Schwab Options Update",
+        "CNBC",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "AMAT",
+      "company": "Applied Materials",
+      "reason": "Opened up ~5.6% after beating Q2 fiscal 2026 earnings and raising guidance; Oracle's massive $95B capex plan sent chip equipment stocks higher as investors anticipate sustained semiconductor infrastructure spending",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "TradingKey"
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft Corporation",
+      "reason": "Fell ~1.77% to $390.34 as Xbox gaming division layoffs and restructuring under new CEO Asha Sharma spooked investors; AI spending scrutiny following Oracle's cloud miss added pressure; quarterly capex expected near $40B",
+      "category": "news",
+      "sources": [
+        "Motley Fool",
+        "TradersUnion",
+        "FX Leaders",
+        "Invezz"
+      ]
+    },
+    {
+      "ticker": "ADBE",
+      "company": "Adobe Inc.",
+      "reason": "Dropped ~5% to a fresh 52-week low ahead of after-hours fiscal Q2 earnings report; AI spending concerns and broader tech rotation weighed on shares",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "TradingKey"
+      ]
+    },
+    {
+      "ticker": "LEN",
+      "company": "Lennar Corporation",
+      "reason": "Reported Q2 2026 earnings after hours: EPS $1.24 vs. $1.81 prior year; revenue $7.94B missed $8.08B estimate; cut full-year delivery guidance to 82K-83K homes citing interest rate pressure and geopolitical uncertainty",
+      "category": "earnings",
+      "sources": [
+        "PRNewswire",
+        "MarketScreener",
+        "GuruFocus",
         "Benzinga"
       ]
     },
     {
-      "ticker": "MMM",
-      "company": "3M Company",
-      "reason": "Unusual put options activity (15,811 puts, 4x avg volume) after shares spiked near $163 following CEO comments at Wells Fargo Industrial Conference; traders using puts to hedge gains",
-      "category": "news",
+      "ticker": "AA",
+      "company": "Alcoa Corporation",
+      "reason": "Supported in premarket after Morgan Stanley reiterated Buy rating, calling Wednesday's alumina-business-driven pullback \"overdone\"; Iran deal hopes also lifted materials sector broadly",
+      "category": "upgrade",
       "sources": [
-        "Charles Schwab Options Update"
+        "CNBC"
       ]
     },
     {
-      "ticker": "CHWY",
-      "company": "Chewy",
-      "reason": "Reported Q3 earnings beat pre-market: EPS $0.43 vs $0.39 consensus estimate; scheduled alongside Oracle as a key earnings release for June 10",
-      "category": "earnings",
+      "ticker": "HSIC",
+      "company": "Henry Schein Inc.",
+      "reason": "BTIG analyst David Larsen upgraded from Neutral to Buy with a $100 price target, turning bullish on the dental/medical supply distributor's recovery prospects",
+      "category": "upgrade",
       "sources": [
-        "TipRanks",
-        "Tickeron",
-        "MarketBeat"
+        "Benzinga"
       ]
     },
     {
-      "ticker": "AMZN",
-      "company": "Amazon",
-      "reason": "Announced opening of LTL freight service to all outside businesses (not just its own inbound shipments), disrupting the entire US less-than-truckload shipping industry",
-      "category": "news",
+      "ticker": "NVDA",
+      "company": "NVIDIA Corporation",
+      "reason": "Rose as semiconductors spearheaded broad tech recovery tied to Iran de-escalation and chip sector rebound; SOXX gauge of chipmakers jumped nearly 8% on the day",
+      "category": "sector",
       "sources": [
-        "Bloomberg",
-        "CNBC",
-        "GuruFocus",
-        "Sherwood News"
+        "Motley Fool",
+        "Yahoo Finance",
+        "TheStreet"
       ]
     }
   ]
