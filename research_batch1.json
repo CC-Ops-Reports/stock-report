@@ -1,137 +1,130 @@
 {
-  "report_date": "2026-06-09",
+  "report_date": "2026-06-10",
   "batch": 1,
-  "market_tone": "Mixed",
+  "market_tone": "Bearish",
   "key_themes": [
-    "Iran/geopolitical tensions trigger intraday selloff before partial recovery",
-    "Semiconductor and tech sector selloff continues; SOX plunged 8.6% intraday",
-    "M&A wave: GSK acquires Nuvalent for $10.6B; Nuvei in advanced talks to buy Payoneer for $2.7B",
-    "Apple WWDC 2026 disappoints investors with no Siri AI timeline",
-    "AI competitive pressure hammers Intuit as Goldman downgrades to Sell"
+    "CPI hits 4.2% three-year high driving rate-hike fears",
+    "US-Iran tensions push oil near $90, Strait of Hormuz disruptions",
+    "Amazon LTL freight expansion triggers broad trucking sector selloff",
+    "AI/chip stocks under heavy pressure as risk-off mood intensifies"
   ],
-  "sp500": {
-    "value": "7,386.65",
-    "change": "-0.26%"
-  },
-  "nasdaq": {
-    "value": "25,678.82",
-    "change": "-0.97%"
-  },
+  "sp500": {"value": "7,266.99", "change": "-1.62%"},
+  "nasdaq": {"value": "25,169.50", "change": "-1.98%"},
   "stocks": [
     {
-      "ticker": "NUVL",
-      "company": "Nuvalent, Inc.",
-      "discussion_driver": "GSK announced a $10.6B acquisition of Nuvalent at $124/share — a 40% premium to the prior close of $88.49 — marking the industry's second-largest deal of 2026. The stock surged ~39% to $123.19 on June 9, eclipsing its prior 52-week high of $113.02. The deal targets Nuvalent's late-stage ROS1 and ALK inhibitors (zidesamtinib, neladalkib) for NSCLC; the FDA separately granted Priority Review to neladalkib with a PDUFA date of November 27, 2026.",
+      "ticker": "SMCI",
+      "company": "Super Micro Computer",
+      "discussion_driver": "SMCI plunged ~27% on June 10 after announcing a $7B equity raise (common stock + mandatory convertible preferreds) after close on June 9 to fund its $39B AI server backlog, representing ~35% dilution of market cap. The shock came despite strong underlying AI server demand, as investors reacted to the scale of balance sheet strain and persistent governance concerns.",
       "bull_case": [
-        "GSK acquisition at $124/share provides near-certain risk-arbitrage return with only ~0.7% gap to close; deal is backed by GSK's balance sheet targeting transformative oncology assets with FDA-validated pipeline",
-        "FDA Priority Review for neladalkib as a potential best-in-class next-generation ALK inhibitor confirms pipeline quality and strengthens the strategic rationale behind the $10.6B price tag"
+        "$39B order backlog representing 18+ months of revenue visibility validates massive AI infrastructure demand from hyperscalers",
+        "Leading AI server manufacturer positioned to capture disproportionate share of accelerating hyperscaler CapEx spending"
       ],
       "bear_case": [
-        "Deal-break risk: regulatory hurdles, antitrust scrutiny, or shareholder litigation could collapse the acquisition and send shares back toward the pre-announcement $88 range — nearly 29% downside",
-        "With stock at $123.19 vs. the $124 deal price, risk/reward is highly asymmetric for new buyers; only 0.7% upside versus ~29% downside if the deal falls through"
+        "~35% equity dilution severely damages per-share metrics and signals management concern about balance sheet sustainability",
+        "Persistent corporate governance concerns (late SEC filings, auditor history) add execution risk on top of dilution headwinds"
       ],
       "recommendation": "Hold",
-      "current_price": "$123.19",
-      "price_target": "$124.00 (+0.7%)",
-      "pe_ratio": "N/A",
+      "current_price": "$33.05",
+      "price_target": "$38.50 (+16.5%)",
+      "pe_ratio": "15.85",
+      "rsi": "46.2",
+      "vs_52wk_high": "-47.0% below high ($62.36)",
+      "analyst_rating": "Hold",
+      "sector": "Technology - AI Servers / Computer Hardware",
+      "sources": ["CNBC", "Yahoo Finance", "TipRanks", "GuruFocus", "StockAnalysis", "MLQ News", "TechTimes"],
+      "price_history_5d": [46.90, 41.64, 40.64, 33.05]
+    },
+    {
+      "ticker": "CBRL",
+      "company": "Cracker Barrel Old Country Store",
+      "discussion_driver": "Cracker Barrel surged 23-30% on June 10 after a massive Q3 FY2026 earnings beat: EPS $0.29 vs. a -$0.48 analyst estimate and revenue $797.4M vs. $776.7M expected, with full-year EBITDA guidance raised to $120-125M. The enormous positive surprise — a swing from expected loss to profit — triggered an aggressive short squeeze and is one of the largest recent earnings beats in the consumer sector.",
+      "bull_case": [
+        "The swing from expected loss to profit signals the turnaround strategy is gaining traction faster than Wall Street anticipated, with room for significant estimate revisions",
+        "Raised EBITDA guidance and improving same-store sales suggest consumer traffic trends at core restaurant and retail operations are meaningfully recovering"
+      ],
+      "bear_case": [
+        "Stock now trades above pre-surge analyst consensus targets (~$35-38), indicating near-term technical exhaustion after the 25%+ single-day rally",
+        "Macro headwinds including CPI at a three-year high of 4.2% and consumer spending pressure could limit further improvement in restaurant traffic"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$44.49",
+      "price_target": "$35.75 (-19.6%)",
+      "pe_ratio": "39.8",
       "rsi": "N/A",
-      "vs_52wk_high": "+8.99% above prior high ($113.02)",
-      "analyst_rating": "Hold (post-acquisition; Wells Fargo downgraded, PT raised to $124)",
-      "sector": "Healthcare - Biotechnology (Oncology)",
-      "sources": ["Bloomberg", "CNBC", "Benzinga", "BioSpace", "GuruFocus", "Nasdaq.com", "TradingKey"],
-      "price_history_5d": [93.96, 88.49, 123.19]
+      "vs_52wk_high": "-38.1% below high ($71.93)",
+      "analyst_rating": "Hold",
+      "sector": "Consumer Discretionary - Restaurants & Retail",
+      "sources": ["StocksToTrade", "GuruFocus", "Invezz", "StockStory", "Yahoo Finance", "MarketBeat"],
+      "price_history_5d": [34.21, 36.30, 44.49]
     },
     {
-      "ticker": "PAYO",
-      "company": "Payoneer Global Inc.",
-      "discussion_driver": "Reports emerged June 9 that Canadian payments firm Nuvei is in advanced talks to acquire Payoneer for approximately $2.7 billion, sending PAYO shares surging 24.32% to $6.39 on volume roughly 1,005% above the 3-month average. The deal would combine Nuvei's payment acceptance platform with Payoneer's cross-border payment networks serving Amazon, Walmart, and eBay marketplace sellers. No agreement has been signed; sources indicate a deal could come within days.",
+      "ticker": "ORCL",
+      "company": "Oracle Corporation",
+      "discussion_driver": "Oracle reported strong Q4 FY2026 results (EPS $2.11 vs. $1.89 est; revenue $19.2B, +21% YoY) but fell ~7.4% after hours after shocking investors with $70B capex guidance for FY2027 and a $40B capital raise announcement to fund AI cloud infrastructure. The massive spending commitment overshadowed the earnings beat, raising concerns about near-term free cash flow destruction.",
       "bull_case": [
-        "Nuvei's $2.7B acquisition bid validates Payoneer's strategic value in cross-border payments, providing Nuvei access to Payoneer's large online marketplace customer base and emerging-market presence",
-        "Even absent a completed deal, analyst 12-month consensus target of $9.79 (53% upside from current price) reflects PAYO's undervalued B2B cross-border network and diversified emerging-market footprint"
+        "$70B capex commitment and $55B+ cloud revenue backlog demonstrate Oracle's aggressive positioning to capture hyperscaler-scale AI infrastructure demand through OCI",
+        "Multi-cloud partnerships across AWS, Azure, and Google Cloud create a massive and diversified addressable market for Oracle Cloud Infrastructure"
       ],
       "bear_case": [
-        "Deal is in advanced talks but unsigned; if negotiations collapse, stock likely retraces toward the pre-announcement $5.14 range, erasing the entire 24% acquisition-driven premium",
-        "Pre-deal fundamentals show margin pressure and slowing growth; the stock spent most of 2026 well below its 52-week high of $7.67 amid intensifying competition in the payments space"
+        "$70B FY2027 capex will likely eliminate free cash flow and pressure the balance sheet, with the $40B capital raise diluting existing shareholders",
+        "Stock had already rallied 42% since the Q3 earnings call, setting a high bar that massive new spending guidance more than offset the earnings beat"
       ],
       "recommendation": "Hold",
-      "current_price": "$6.39",
-      "price_target": "$9.79 (+53.2%)",
-      "pe_ratio": "25.5",
-      "rsi": "37.14",
-      "vs_52wk_high": "-16.7% below high ($7.67)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Financial Technology - Cross-Border Payments",
-      "sources": ["Reuters", "Motley Fool", "Yahoo Finance", "PYMNTS", "MarketBeat", "TipRanks"],
-      "price_history_5d": [5.14, 5.15, 6.39]
-    },
-    {
-      "ticker": "APLD",
-      "company": "Applied Digital Corporation",
-      "discussion_driver": "Applied Digital surged more than 11% in premarket trading on June 9 after signing a third 15-year data center lease with the same U.S.-based hyperscaler, adding 210 MW at its Delta Forge 2 campus and projecting $5.2B in contracted revenue from the deal. Total contracted backlog expands to approximately $36B, with 70% backed by investment-grade hyperscalers. Shares gave back most intraday gains as the broader semiconductor sector sold off sharply on Iran geopolitical tensions.",
-      "bull_case": [
-        "$36B in total contracted revenue with 70% from investment-grade hyperscalers provides exceptional long-term revenue visibility; three consecutive 15-year leases with the same hyperscaler signals a deep, durable strategic partnership",
-        "Surging AI infrastructure demand creates a multi-decade secular tailwind for purpose-built data centers; 11 analysts maintain a Strong Buy consensus with average target of $65.43 (+59.8% upside)"
-      ],
-      "bear_case": [
-        "Company remains GAAP unprofitable (P/E ratio: -55.39) requiring heavy ongoing capex for data center construction, pressuring near-term free cash flow despite a compelling contracted backlog",
-        "Broad semiconductor and tech sector selloff (SOX -8.6% intraday on Iran tensions) demonstrates that macro headwinds can overwhelm positive company-specific catalysts, as evidenced by June 9 intraday reversals"
-      ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$40.95",
-      "price_target": "$65.43 (+59.8%)",
-      "pe_ratio": "-55.39",
-      "rsi": "45.67",
-      "vs_52wk_high": "-19.3% below high ($50.73)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Technology - Data Center Infrastructure",
-      "sources": ["Bloomberg", "Parameter.io", "TipRanks", "MarketBeat", "StockAnalysis", "eToro"],
-      "price_history_5d": [40.95, 40.95]
-    },
-    {
-      "ticker": "DKNG",
-      "company": "DraftKings Inc.",
-      "discussion_driver": "DraftKings jumped as much as 9% intraday on June 9 after an SEC filing disclosed that its DraftKings Predictions product grew 24% month-over-month to $1.3 billion in May, signaling strong momentum in a new revenue vertical beyond traditional sports betting. Most of the intraday gain was reversed by close, with shares settling near $24.91 — still nearly 49% below the 52-week high of $48.78. The data nonetheless provided a meaningful catalyst for a stock that has struggled throughout 2026.",
-      "bull_case": [
-        "DraftKings Predictions growing 24% MoM to $1.3B represents a powerful emerging revenue vertical beyond traditional sports betting, diversifying the business and expanding the total addressable market",
-        "Strong Buy consensus from 29 analysts with average $37.52 target (50.6% upside) reflects confidence in DKNG's market share gains as more U.S. states legalize sports betting"
-      ],
-      "bear_case": [
-        "Company remains deeply unprofitable (P/E: -64.59), trading nearly 49% below its 52-week high of $48.78, reflecting persistent investor skepticism about the timeline to sustainable profitability",
-        "Intense competition from FanDuel (Flutter), BetMGM, and ESPN Bet continues to pressure promotional spending and limits near-term margin expansion potential"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$24.91",
-      "price_target": "$37.52 (+50.6%)",
-      "pe_ratio": "-64.59",
-      "rsi": "50.13",
-      "vs_52wk_high": "-48.9% below high ($48.78)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Consumer Discretionary - Online Sports Betting",
-      "sources": ["CNBC", "MarketBeat", "StockAnalysis", "TipRanks", "Benzinga"],
-      "price_history_5d": [24.93, 24.84, 24.91]
-    },
-    {
-      "ticker": "SJM",
-      "company": "The J.M. Smucker Company",
-      "discussion_driver": "J.M. Smucker surged 12.9% on June 9 after reporting Q4 FY2026 earnings that beat EPS estimates by $0.11 ($2.77 vs. $2.66 consensus), though revenue of $2.268B slightly missed the $2.282B estimate. The earnings-day surge brings SJM to within 3.7% of its 52-week high of $119.39 and above the 21-analyst consensus price target of $115.47, raising questions about further near-term upside from current levels.",
-      "bull_case": [
-        "Q4 EPS beat of $0.11 above estimates confirms operational resilience and pricing power across Smucker's coffee (Folgers, Dunkin'), pet food, and snacks portfolio following the Hostess acquisition integration",
-        "Defensive consumer staples positioning and low P/E of 10.46x offer relative value and downside protection in a volatile geopolitical and macro environment"
-      ],
-      "bear_case": [
-        "Revenue miss ($2.268B vs. $2.282B expected) signals ongoing category headwinds, with private-label competition and consumer trade-down limiting top-line growth momentum",
-        "Post-earnings, SJM trades at $114.91 — above the 21-analyst consensus target of $115.47 (only 0.5% implied upside) — suggesting limited room for further appreciation near term"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$114.91",
-      "price_target": "$115.47 (+0.5%)",
-      "pe_ratio": "10.46",
-      "rsi": "N/A",
-      "vs_52wk_high": "-3.7% below high ($119.39)",
+      "current_price": "$201.26",
+      "price_target": "$273.08 (+35.7%)",
+      "pe_ratio": "27.00",
+      "rsi": "51.65",
+      "vs_52wk_high": "-41.8% below high ($345.72)",
       "analyst_rating": "Buy",
-      "sector": "Consumer Staples - Food Products",
-      "sources": ["CNBC", "Benzinga", "GuruFocus", "MarketBeat", "QuiverQuant", "StocksToTrade"],
-      "price_history_5d": [103.54, 101.77, 114.91]
+      "sector": "Technology - Enterprise Software & Cloud",
+      "sources": ["TheStreet", "TipRanks", "Tickeron", "MarketBeat", "Yahoo Finance", "TD Cowen", "Oppenheimer"],
+      "price_history_5d": [236.34, 205.81, 201.26]
+    },
+    {
+      "ticker": "HOOD",
+      "company": "Robinhood Markets",
+      "discussion_driver": "Robinhood rose ~6-8% on June 10 on three simultaneous catalysts: FINRA approval for IPO underwriting capabilities, a major insider purchase of $20.2M at $80.74/share, and May trading volumes up 75% YoY to $315B notional. The FINRA approval is a structural milestone positioning Robinhood to compete directly with traditional investment banks for retail IPO allocations.",
+      "bull_case": [
+        "FINRA IPO underwriting approval opens a new high-margin revenue stream and structurally transforms Robinhood from a brokerage into a full-service investment bank",
+        "May trading volumes up 75% YoY demonstrate platform stickiness and diversification driven by new product launches, crypto activity, and retirement account growth"
+      ],
+      "bear_case": [
+        "Stock trades 46% below its 52-week high of $153.86, reflecting structural multiple compression in high-growth fintechs as elevated interest rates persist",
+        "Traditional brokerages (Schwab, Fidelity) continuing to offer zero-commission products threaten Robinhood's core retail market share and limit new service addressable market"
+      ],
+      "recommendation": "Buy",
+      "current_price": "$82.97",
+      "price_target": "$98.98 (+19.3%)",
+      "pe_ratio": "33.59",
+      "rsi": "69.69",
+      "vs_52wk_high": "-46.1% below high ($153.86)",
+      "analyst_rating": "Buy",
+      "sector": "Financial Services - Fintech / Retail Brokerage",
+      "sources": ["TheStreet", "Motley Fool", "StocksToTrade", "MarketBeat", "Yahoo Finance", "Cantor Fitzgerald"],
+      "price_history_5d": [88.33, 82.47, 85.04, 82.97]
+    },
+    {
+      "ticker": "NKE",
+      "company": "Nike Inc.",
+      "discussion_driver": "RBC Capital downgraded Nike from Outperform to Sector Perform on June 10, cutting its price target from $70 to $50 and citing a slower-than-expected turnaround under CEO Elliott Hill. Nike's stock has fallen ~50% since Hill's appointment while rival Adidas rose ~70%, with growing competition from Lululemon, Alo Yoga, and Vuori accelerating market share losses. Next earnings on June 30 will be a critical inflection point.",
+      "bull_case": [
+        "At ~$44, Nike trades near its 52-week low and represents deep value for a globally dominant brand generating $44B+ in annual revenue with significant long-term pricing power",
+        "CEO Hill's strategic reset focusing on direct-to-consumer channels, reducing wholesale dependency, and reinvesting in product innovation could meaningfully rerate the stock if execution improves"
+      ],
+      "bear_case": [
+        "RBC downgrade reflects growing market skepticism about turnaround timeline, with revenue declining 3% and premium competitors gaining share at an accelerating pace",
+        "CPI at a 3-year high of 4.2% and weakened consumer spending could pressure Nike's full-price sell-through rates and force margin-dilutive promotions to clear inventory"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$43.95",
+      "price_target": "$59.58 (+35.6%)",
+      "pe_ratio": "27.46",
+      "rsi": "48.22",
+      "vs_52wk_high": "-45.2% below high ($80.16)",
+      "analyst_rating": "Buy",
+      "sector": "Consumer Discretionary - Footwear & Apparel",
+      "sources": ["GuruFocus", "CoinCentral", "Blockonomi", "Investing.com", "Yahoo Finance", "RBC Capital Markets"],
+      "price_history_5d": [43.23, 44.65, 43.95]
     }
   ]
 }
