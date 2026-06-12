@@ -1,182 +1,178 @@
 {
-  "report_date": "2026-06-11",
-  "market_tone": "Bullish",
+  "report_date": "2026-06-12",
+  "market_tone": "Mixed",
   "key_themes": [
-    "US-Iran peace deal signals push oil to ~$86, easing inflation fears and fueling broad equity rally",
-    "SpaceX prices record-breaking $75B IPO at $135/share, valued at ~$1.75 trillion",
-    "Chipmaker rebound: MU +12%, SNDK +14%, INTC +10% after prior-week semiconductor selloff",
-    "Oracle tumbles ~12% on $95B AI capex guidance and $40B debt/equity raise plan despite earnings beat",
-    "After-hours earnings catalyst: Adobe, Lennar, RH all reporting today"
+    "SpaceX largest-ever IPO debuts at +19%, instantly valued above $2T",
+    "DOJ clears Paramount-WBD $111B media mega-merger without conditions",
+    "US-Iran peace deal optimism lifts broad market; space stocks selloff as capital rotates into SpaceX"
   ],
   "sp500": {
-    "value": "7,394.30",
-    "change": "+1.75%"
+    "value": "7,449.00",
+    "change": "+0.74%"
   },
   "nasdaq": {
-    "value": "25,809.66",
-    "change": "+2.54%"
+    "value": "25,888.84",
+    "change": "+0.31%"
   },
   "stocks": [
     {
       "ticker": "SPCX",
       "company": "SpaceX",
-      "reason": "IPO priced at $135/share, raising a record-breaking $75B; valued at ~$1.75 trillion, making it the largest IPO in history; merged with xAI ahead of listing",
+      "reason": "Historic IPO debut \u2014 $75B raised (largest ever), shares opened at $150 vs $135 IPO price and closed at $161.11 (+19.34%), valuing company above $2 trillion",
       "category": "news",
       "sources": [
+        "CNBC",
         "NPR",
-        "Axios",
-        "IPOScoop",
-        "TheStreet"
-      ]
-    },
-    {
-      "ticker": "ORCL",
-      "company": "Oracle Corporation",
-      "reason": "Tumbled ~12% to ~$175 despite Q4 earnings beat ($2.11 EPS on $19.18B revenue); investors spooked by $95B FY2027 capex guidance, cloud revenue miss, and plans to raise $40B via new debt and equity",
-      "category": "earnings",
-      "sources": [
-        "Motley Fool",
-        "FX Leaders",
-        "Yahoo Finance",
-        "Spokesman"
-      ]
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron Technology",
-      "reason": "Surged ~12%, erasing prior week losses as Iran deal hopes spurred a semiconductor sector rebound; memory stocks led broader chip recovery",
-      "category": "sector",
-      "sources": [
-        "Motley Fool",
-        "Yahoo Finance",
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "SNDK",
-      "company": "SanDisk Corporation",
-      "reason": "Gained ~14% on the day as memory/storage stocks rebounded sharply; benefited from AI/data center sector tailwinds and broader chip recovery after prior-week selloff",
-      "category": "sector",
-      "sources": [
-        "CNBC",
-        "TradingKey",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "INTC",
-      "company": "Intel Corporation",
-      "reason": "Jumped ~10% after Loop Capital upgraded from Hold to Buy with a $75 price target; semiconductor sector rally driven by Iran deal optimism amplified the move",
-      "category": "upgrade",
-      "sources": [
-        "CNBC",
-        "Benzinga",
-        "Motley Fool"
-      ]
-    },
-    {
-      "ticker": "NAVN",
-      "company": "Navan, Inc.",
-      "reason": "Surged ~18% after Q1 earnings beat (8 cents EPS vs. -1 cent expected; $220M revenue vs. $205M est.) and raised FY2027 revenue guidance to 30% YoY growth; Gross Booking Volume up 50% YoY to record $3.1B",
-      "category": "earnings",
-      "sources": [
-        "Benzinga",
-        "Yahoo Finance",
-        "TheStreet"
-      ]
-    },
-    {
-      "ticker": "CASY",
-      "company": "Casey's General Stores",
-      "reason": "Popped ~19% after blowout Q4 earnings: EPS of $4.37 crushed $3.31 estimate; same-store sales +5.5%; board raised quarterly dividend 14% to $0.65/share (27th consecutive year of increases)",
-      "category": "earnings",
-      "sources": [
-        "Benzinga",
-        "Motley Fool",
-        "GuruFocus"
-      ]
-    },
-    {
-      "ticker": "SATS",
-      "company": "EchoStar Corporation",
-      "reason": "Rose ~8% ahead of SpaceX IPO; EchoStar holds a stake in SpaceX shares, making it a direct beneficiary of the record-breaking $75B IPO valuation",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "AMAT",
-      "company": "Applied Materials",
-      "reason": "Opened up ~5.6% after beating Q2 fiscal 2026 earnings and raising guidance; Oracle's massive $95B capex plan sent chip equipment stocks higher as investors anticipate sustained semiconductor infrastructure spending",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "TradingKey"
-      ]
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft Corporation",
-      "reason": "Fell ~1.77% to $390.34 as Xbox gaming division layoffs and restructuring under new CEO Asha Sharma spooked investors; AI spending scrutiny following Oracle's cloud miss added pressure; quarterly capex expected near $40B",
-      "category": "news",
-      "sources": [
-        "Motley Fool",
-        "TradersUnion",
-        "FX Leaders",
-        "Invezz"
+        "TheStreet",
+        "Bloomberg"
       ]
     },
     {
       "ticker": "ADBE",
       "company": "Adobe Inc.",
-      "reason": "Dropped ~5% to a fresh 52-week low ahead of after-hours fiscal Q2 earnings report; AI spending concerns and broader tech rotation weighed on shares",
+      "reason": "Q2 2026 earnings: record $6.62B revenue (+13% YoY), beat estimates, AI ARR tripled to $500M+; stock fell ~7% as CFO Dan Durn announced departure effective June 15 to join Marvell",
       "category": "earnings",
       "sources": [
-        "CNBC",
+        "Seeking Alpha",
+        "TheStreet",
+        "TechTimes"
+      ]
+    },
+    {
+      "ticker": "ARM",
+      "company": "Arm Holdings",
+      "reason": "Surged ~11% as Wells Fargo, Barclays, Mizuho, and BofA all raised price targets on AI data-center CPU demand; Mizuho set $500 target citing agentic AI workloads",
+      "category": "upgrade",
+      "sources": [
+        "StocksToTrade",
+        "Investing.com",
         "TradingKey"
       ]
     },
     {
-      "ticker": "LEN",
-      "company": "Lennar Corporation",
-      "reason": "Reported Q2 2026 earnings after hours: EPS $1.24 vs. $1.81 prior year; revenue $7.94B missed $8.08B estimate; cut full-year delivery guidance to 82K-83K homes citing interest rate pressure and geopolitical uncertainty",
-      "category": "earnings",
+      "ticker": "AMD",
+      "company": "Advanced Micro Devices",
+      "reason": "Citi upgraded to Buy from Neutral, raised price target to $575 from $460, citing underpriced GPU upside and 60% probability of exceeding $50B GPU sales by 2028",
+      "category": "upgrade",
       "sources": [
-        "PRNewswire",
-        "MarketScreener",
-        "GuruFocus",
-        "Benzinga"
+        "Yahoo Finance",
+        "Sherwood News",
+        "GuruFocus"
       ]
     },
     {
-      "ticker": "AA",
-      "company": "Alcoa Corporation",
-      "reason": "Supported in premarket after Morgan Stanley reiterated Buy rating, calling Wednesday's alumina-business-driven pullback \"overdone\"; Iran deal hopes also lifted materials sector broadly",
-      "category": "upgrade",
+      "ticker": "RKLB",
+      "company": "Rocket Lab USA",
+      "reason": "Fell ~10% on SpaceX IPO debut day as investors sold existing space stocks to fund SpaceX position; sector-wide capital rotation effect",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "247 Wall St.",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "ASTS",
+      "company": "AST SpaceMobile",
+      "reason": "Fell ~14% to $88 as SpaceX IPO triggered broad space-sector selloff; investors rotating into newly public SpaceX (SPCX)",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "247 Wall St.",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "SATS",
+      "company": "EchoStar Corporation",
+      "reason": "Dropped ~13% as SpaceX IPO debut triggered siphon effect across space-industry stocks; capital diverted from existing names into new SpaceX listing",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance",
+        "TradingKey"
+      ]
+    },
+    {
+      "ticker": "WDS",
+      "company": "Woodside Energy Group",
+      "reason": "Jumped ~7% after Bloomberg reported Exxon Mobil is evaluating a potential acquisition bid for Woodside to expand LNG and Asian market presence",
+      "category": "news",
+      "sources": [
+        "Bloomberg",
+        "Seeking Alpha",
+        "StockTwits"
+      ]
+    },
+    {
+      "ticker": "XOM",
+      "company": "Exxon Mobil",
+      "reason": "Shares rose on Bloomberg report that Exxon is reviewing potential acquisition targets including Woodside Energy to expand LNG footprint",
+      "category": "news",
+      "sources": [
+        "Bloomberg",
+        "Investing.com",
+        "Seeking Alpha"
+      ]
+    },
+    {
+      "ticker": "CRWV",
+      "company": "CoreWeave Inc.",
+      "reason": "Gained ~7% after confirmed inclusion in Nasdaq-100 index effective June 22; also benefited from continued AI infrastructure investor enthusiasm",
+      "category": "news",
+      "sources": [
+        "Investing.com",
+        "TradingKey"
+      ]
+    },
+    {
+      "ticker": "PARA",
+      "company": "Paramount Global (Skydance)",
+      "reason": "DOJ approved $111B Paramount Skydance-Warner Bros. Discovery merger without any divestitures or behavioral remedies; deal expected to close September 2026",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Variety",
+        "Deadline",
+        "Axios"
+      ]
+    },
+    {
+      "ticker": "WBD",
+      "company": "Warner Bros. Discovery",
+      "reason": "DOJ cleared $111B acquisition by Paramount Skydance with no conditions; European Union has until July 14 to vet the deal",
+      "category": "news",
+      "sources": [
+        "CNN Business",
+        "Deadline",
+        "Axios"
+      ]
+    },
+    {
+      "ticker": "SCHW",
+      "company": "Charles Schwab",
+      "reason": "Shares rose 3%+ after reporting May core net new assets of $49.9B, a 43% YoY increase and a record for the month of May",
+      "category": "news",
       "sources": [
         "CNBC"
       ]
     },
     {
-      "ticker": "HSIC",
-      "company": "Henry Schein Inc.",
-      "reason": "BTIG analyst David Larsen upgraded from Neutral to Buy with a $100 price target, turning bullish on the dental/medical supply distributor's recovery prospects",
-      "category": "upgrade",
+      "ticker": "ORCL",
+      "company": "Oracle Corporation",
+      "reason": "Downgraded to Hold by Seeking Alpha analyst citing concerns over ability to convert massive CapEx plans into timely revenue",
+      "category": "downgrade",
       "sources": [
-        "Benzinga"
+        "MSN/Seeking Alpha"
       ]
     },
     {
-      "ticker": "NVDA",
-      "company": "NVIDIA Corporation",
-      "reason": "Rose as semiconductors spearheaded broad tech recovery tied to Iran de-escalation and chip sector rebound; SOXX gauge of chipmakers jumped nearly 8% on the day",
-      "category": "sector",
+      "ticker": "SMCI",
+      "company": "Super Micro Computer",
+      "reason": "Downgraded to Sell; analyst warned of \"balance sheet nightmare\" with net debt skyrocketing and a massive new stock offering threatening significant equity dilution",
+      "category": "downgrade",
       "sources": [
-        "Motley Fool",
-        "Yahoo Finance",
-        "TheStreet"
+        "MSN/Seeking Alpha"
       ]
     }
   ]
