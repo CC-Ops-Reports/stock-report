@@ -1,130 +1,137 @@
 {
-  "report_date": "2026-06-10",
+  "report_date": "2026-06-11",
   "batch": 1,
-  "market_tone": "Bearish",
+  "market_tone": "Bullish",
   "key_themes": [
-    "CPI hits 4.2% three-year high driving rate-hike fears",
-    "US-Iran tensions push oil near $90, Strait of Hormuz disruptions",
-    "Amazon LTL freight expansion triggers broad trucking sector selloff",
-    "AI/chip stocks under heavy pressure as risk-off mood intensifies"
+    "US-Iran peace deal signals push oil to ~$86, easing inflation fears and fueling broad equity rally",
+    "SpaceX prices record-breaking $75B IPO at $135/share, valued at ~$1.75 trillion",
+    "Chipmaker rebound: MU +12%, SNDK +14%, INTC +10% after prior-week semiconductor selloff",
+    "Oracle tumbles ~12% on $95B AI capex guidance and $40B debt/equity raise plan despite earnings beat",
+    "After-hours earnings catalyst: Adobe, Lennar, RH all reporting today"
   ],
-  "sp500": {"value": "7,266.99", "change": "-1.62%"},
-  "nasdaq": {"value": "25,169.50", "change": "-1.98%"},
+  "sp500": {
+    "value": "7,394.30",
+    "change": "+1.75%"
+  },
+  "nasdaq": {
+    "value": "25,809.66",
+    "change": "+2.54%"
+  },
   "stocks": [
     {
-      "ticker": "SMCI",
-      "company": "Super Micro Computer",
-      "discussion_driver": "SMCI plunged ~27% on June 10 after announcing a $7B equity raise (common stock + mandatory convertible preferreds) after close on June 9 to fund its $39B AI server backlog, representing ~35% dilution of market cap. The shock came despite strong underlying AI server demand, as investors reacted to the scale of balance sheet strain and persistent governance concerns.",
+      "ticker": "SPCX",
+      "company": "SpaceX",
+      "discussion_driver": "SpaceX priced its record-breaking $75B IPO at $135/share on June 11, valuing the company at $1.77 trillion — the largest IPO in history. The company merged with xAI prior to listing, adding AI infrastructure exposure alongside its Starlink and launch businesses. Trading begins on Nasdaq under SPCX on June 12.",
       "bull_case": [
-        "$39B order backlog representing 18+ months of revenue visibility validates massive AI infrastructure demand from hyperscalers",
-        "Leading AI server manufacturer positioned to capture disproportionate share of accelerating hyperscaler CapEx spending"
+        "Starlink generates $8B+ in recurring annual revenue with 7M+ subscribers and near-monopoly on commercial launch services, providing a durable cash flow base",
+        "xAI merger and Falcon 9/Heavy reusability create a vertically integrated aerospace/AI powerhouse; ARK Invest projects $3.1T valuation by 2030"
       ],
       "bear_case": [
-        "~35% equity dilution severely damages per-share metrics and signals management concern about balance sheet sustainability",
-        "Persistent corporate governance concerns (late SEC filings, auditor history) add execution risk on top of dilution headwinds"
+        "Morningstar pegs fair value near $780B vs $1.77T IPO valuation, implying 55%+ downside if the AI/space premium compresses",
+        "Key-person risk from Elon Musk's attention spread across Tesla, xAI, and SpaceX; government contract concentration adds political risk"
       ],
-      "recommendation": "Hold",
-      "current_price": "$33.05",
-      "price_target": "$38.50 (+16.5%)",
-      "pe_ratio": "15.85",
-      "rsi": "46.2",
-      "vs_52wk_high": "-47.0% below high ($62.36)",
-      "analyst_rating": "Hold",
-      "sector": "Technology - AI Servers / Computer Hardware",
-      "sources": ["CNBC", "Yahoo Finance", "TipRanks", "GuruFocus", "StockAnalysis", "MLQ News", "TechTimes"],
-      "price_history_5d": [46.90, 41.64, 40.64, 33.05]
-    },
-    {
-      "ticker": "CBRL",
-      "company": "Cracker Barrel Old Country Store",
-      "discussion_driver": "Cracker Barrel surged 23-30% on June 10 after a massive Q3 FY2026 earnings beat: EPS $0.29 vs. a -$0.48 analyst estimate and revenue $797.4M vs. $776.7M expected, with full-year EBITDA guidance raised to $120-125M. The enormous positive surprise — a swing from expected loss to profit — triggered an aggressive short squeeze and is one of the largest recent earnings beats in the consumer sector.",
-      "bull_case": [
-        "The swing from expected loss to profit signals the turnaround strategy is gaining traction faster than Wall Street anticipated, with room for significant estimate revisions",
-        "Raised EBITDA guidance and improving same-store sales suggest consumer traffic trends at core restaurant and retail operations are meaningfully recovering"
-      ],
-      "bear_case": [
-        "Stock now trades above pre-surge analyst consensus targets (~$35-38), indicating near-term technical exhaustion after the 25%+ single-day rally",
-        "Macro headwinds including CPI at a three-year high of 4.2% and consumer spending pressure could limit further improvement in restaurant traffic"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$44.49",
-      "price_target": "$35.75 (-19.6%)",
-      "pe_ratio": "39.8",
+      "recommendation": "Speculative Buy",
+      "current_price": "$135.00 (IPO price; Nasdaq debut June 12)",
+      "price_target": "$165.00 (+22.2%)",
+      "pe_ratio": "N/A",
       "rsi": "N/A",
-      "vs_52wk_high": "-38.1% below high ($71.93)",
-      "analyst_rating": "Hold",
-      "sector": "Consumer Discretionary - Restaurants & Retail",
-      "sources": ["StocksToTrade", "GuruFocus", "Invezz", "StockStory", "Yahoo Finance", "MarketBeat"],
-      "price_history_5d": [34.21, 36.30, 44.49]
+      "vs_52wk_high": "N/A (IPO; no prior trading history)",
+      "analyst_rating": "N/A (IPO)",
+      "sector": "Industrials - Aerospace & Defense",
+      "sources": ["CNBC", "NPR", "TradingKey", "Investing.com", "ARK Invest"],
+      "price_history_5d": []
     },
     {
       "ticker": "ORCL",
       "company": "Oracle Corporation",
-      "discussion_driver": "Oracle reported strong Q4 FY2026 results (EPS $2.11 vs. $1.89 est; revenue $19.2B, +21% YoY) but fell ~7.4% after hours after shocking investors with $70B capex guidance for FY2027 and a $40B capital raise announcement to fund AI cloud infrastructure. The massive spending commitment overshadowed the earnings beat, raising concerns about near-term free cash flow destruction.",
+      "discussion_driver": "Oracle tumbled ~12% on June 11 despite a Q4 FY2026 earnings beat (EPS $2.11 vs $1.89 est.), as investors were rattled by $95B FY2027 AI capex guidance and plans to raise $40B via new debt and equity. Cloud infrastructure revenue surged 93% YoY to $5.8B, but remaining performance obligations and capital allocation concerns overshadowed the beat. The selloff creates a potential re-entry point with 39% average analyst upside.",
       "bull_case": [
-        "$70B capex commitment and $55B+ cloud revenue backlog demonstrate Oracle's aggressive positioning to capture hyperscaler-scale AI infrastructure demand through OCI",
-        "Multi-cloud partnerships across AWS, Azure, and Google Cloud create a massive and diversified addressable market for Oracle Cloud Infrastructure"
+        "Cloud infrastructure revenue surged 93% YoY to $5.8B and remaining performance obligations grew 363% to $638B, providing exceptional multi-year revenue visibility",
+        "Post-earnings selloff at $183 creates a potential entry point — 35 analysts rate ORCL Buy with an average target of $255, representing 39% upside from current levels"
       ],
       "bear_case": [
-        "$70B FY2027 capex will likely eliminate free cash flow and pressure the balance sheet, with the $40B capital raise diluting existing shareholders",
-        "Stock had already rallied 42% since the Q3 earnings call, setting a high bar that massive new spending guidance more than offset the earnings beat"
+        "$95B FY2027 capex guidance and $40B debt/equity raise plan raise concerns about balance sheet leverage, EPS dilution, and management's ability to deploy capital efficiently",
+        "Stock remains 47% below its 52-week high of $345.72 — the market has persistently struggled to sustain a premium valuation on Oracle"
       ],
       "recommendation": "Hold",
-      "current_price": "$201.26",
-      "price_target": "$273.08 (+35.7%)",
-      "pe_ratio": "27.00",
-      "rsi": "51.65",
-      "vs_52wk_high": "-41.8% below high ($345.72)",
+      "current_price": "$183.63",
+      "price_target": "$255.18 (+38.9%)",
+      "pe_ratio": "32.27",
+      "rsi": "N/A",
+      "vs_52wk_high": "-46.9% below high ($345.72)",
       "analyst_rating": "Buy",
-      "sector": "Technology - Enterprise Software & Cloud",
-      "sources": ["TheStreet", "TipRanks", "Tickeron", "MarketBeat", "Yahoo Finance", "TD Cowen", "Oppenheimer"],
-      "price_history_5d": [236.34, 205.81, 201.26]
+      "sector": "Technology - Enterprise Software / Cloud",
+      "sources": ["CNBC", "Motley Fool", "Yahoo Finance", "TheStreet", "StockAnalysis"],
+      "price_history_5d": [210.0, 208.0, 205.81, 201.26, 183.63]
     },
     {
-      "ticker": "HOOD",
-      "company": "Robinhood Markets",
-      "discussion_driver": "Robinhood rose ~6-8% on June 10 on three simultaneous catalysts: FINRA approval for IPO underwriting capabilities, a major insider purchase of $20.2M at $80.74/share, and May trading volumes up 75% YoY to $315B notional. The FINRA approval is a structural milestone positioning Robinhood to compete directly with traditional investment banks for retail IPO allocations.",
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "discussion_driver": "Micron surged ~12% on June 11 as part of a broad semiconductor sector rebound driven by Iran peace deal optimism, recovering from a 15%+ correction off its June 3 all-time high of $1,089.29. The SOXX chipmaker gauge jumped nearly 8% on the day. Micron leads the AI HBM supercycle trade and is up 179% YTD, though most analyst price targets have yet to catch up with the rapid rally.",
       "bull_case": [
-        "FINRA IPO underwriting approval opens a new high-margin revenue stream and structurally transforms Robinhood from a brokerage into a full-service investment bank",
-        "May trading volumes up 75% YoY demonstrate platform stickiness and diversification driven by new product launches, crypto activity, and retirement account growth"
+        "AI data center demand is driving record HBM orders at premium pricing; analysts describe the AI memory trade as still in 'mid-innings' with significant runway remaining",
+        "Forward P/E of ~9.8x is dramatically below the Nasdaq composite's ~26x forward multiple, suggesting meaningful valuation upside relative to growth if the cycle sustains"
       ],
       "bear_case": [
-        "Stock trades 46% below its 52-week high of $153.86, reflecting structural multiple compression in high-growth fintechs as elevated interest rates persist",
-        "Traditional brokerages (Schwab, Fidelity) continuing to offer zero-commission products threaten Robinhood's core retail market share and limit new service addressable market"
-      ],
-      "recommendation": "Buy",
-      "current_price": "$82.97",
-      "price_target": "$98.98 (+19.3%)",
-      "pe_ratio": "33.59",
-      "rsi": "69.69",
-      "vs_52wk_high": "-46.1% below high ($153.86)",
-      "analyst_rating": "Buy",
-      "sector": "Financial Services - Fintech / Retail Brokerage",
-      "sources": ["TheStreet", "Motley Fool", "StocksToTrade", "MarketBeat", "Yahoo Finance", "Cantor Fitzgerald"],
-      "price_history_5d": [88.33, 82.47, 85.04, 82.97]
-    },
-    {
-      "ticker": "NKE",
-      "company": "Nike Inc.",
-      "discussion_driver": "RBC Capital downgraded Nike from Outperform to Sector Perform on June 10, cutting its price target from $70 to $50 and citing a slower-than-expected turnaround under CEO Elliott Hill. Nike's stock has fallen ~50% since Hill's appointment while rival Adidas rose ~70%, with growing competition from Lululemon, Alo Yoga, and Vuori accelerating market share losses. Next earnings on June 30 will be a critical inflection point.",
-      "bull_case": [
-        "At ~$44, Nike trades near its 52-week low and represents deep value for a globally dominant brand generating $44B+ in annual revenue with significant long-term pricing power",
-        "CEO Hill's strategic reset focusing on direct-to-consumer channels, reducing wholesale dependency, and reinvesting in product innovation could meaningfully rerate the stock if execution improves"
-      ],
-      "bear_case": [
-        "RBC downgrade reflects growing market skepticism about turnaround timeline, with revenue declining 3% and premium competitors gaining share at an accelerating pace",
-        "CPI at a 3-year high of 4.2% and weakened consumer spending could pressure Nike's full-price sell-through rates and force margin-dilutive promotions to clear inventory"
+        "Stock up 179% YTD has outpaced most analyst price targets — consensus sits at $737.63, roughly 20% below current price, indicating the rally may be overextended near-term",
+        "Memory semiconductor cycles are historically volatile; any demand slowdown, inventory build, or HBM pricing normalization could trigger a sharp correction from elevated levels"
       ],
       "recommendation": "Hold",
-      "current_price": "$43.95",
-      "price_target": "$59.58 (+35.6%)",
-      "pe_ratio": "27.46",
-      "rsi": "48.22",
-      "vs_52wk_high": "-45.2% below high ($80.16)",
-      "analyst_rating": "Buy",
-      "sector": "Consumer Discretionary - Footwear & Apparel",
-      "sources": ["GuruFocus", "CoinCentral", "Blockonomi", "Investing.com", "Yahoo Finance", "RBC Capital Markets"],
-      "price_history_5d": [43.23, 44.65, 43.95]
+      "current_price": "$926.56",
+      "price_target": "$737.63 (-20.4%)",
+      "pe_ratio": "9.80 (forward)",
+      "rsi": "N/A",
+      "vs_52wk_high": "-14.9% below high ($1,089.29)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Technology - Semiconductors / Memory",
+      "sources": ["CNBC", "Motley Fool", "Yahoo Finance", "MarketBeat", "TipRanks"],
+      "price_history_5d": [1010.0, 975.0, 917.0, 891.88, 926.56]
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk Corporation",
+      "discussion_driver": "SanDisk surged ~14% on June 11, hitting a new all-time intraday high of $1,918.99, powered by the broad semiconductor rebound and extraordinary fundamental momentum. The company is up 552% YTD as one of the 'Parabolic 7' memory/AI stocks. Q3 FY2026 revenue grew 251% YoY to $5.95B and Q4 guidance calls for $7.75-8.25B in revenue at $30-$33 non-GAAP EPS, driving a string of major analyst target upgrades.",
+      "bull_case": [
+        "Explosive fundamentals: Q3 revenue up 251% YoY with Q4 guidance implying $30-$33 EPS; BofA raised target to $2,100 and Cantor Fitzgerald has a $2,900 target implying 52%+ upside",
+        "AI data center NAND flash and HBM demand appears structural, not cyclical; forward PE of ~11.7x suggests earnings are rapidly growing into an elevated stock price"
+      ],
+      "bear_case": [
+        "Trailing PE of 59.24x and stock at all-time highs after a 552% YTD gain creates extreme mean-reversion risk if any guidance miss or memory cycle turn occurs",
+        "Average analyst consensus target of $1,843 is below the current $1,902 price, indicating many analysts haven't kept pace with the rally and potential overextension risk"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$1,902.83",
+      "price_target": "$1,843.44 (-3.1%)",
+      "pe_ratio": "59.24 (trailing)",
+      "rsi": "N/A",
+      "vs_52wk_high": "At/near 52-week high ($1,918.99 intraday June 11)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Technology - Semiconductors / Flash Storage",
+      "sources": ["CNBC", "Yahoo Finance", "TradingKey", "Benzinga", "24/7 Wall St.", "SEC Filings"],
+      "price_history_5d": [1559.32, 1578.0, 1580.0, 1643.23, 1902.83]
+    },
+    {
+      "ticker": "INTC",
+      "company": "Intel Corporation",
+      "discussion_driver": "Intel jumped ~10% on June 11 following a Loop Capital upgrade from Hold to Buy (target $75), amplified by broad semiconductor sector tailwinds from Iran deal optimism. Bank of America also double-upgraded Intel to Buy and raised its target from $96 to $135, marking a major shift in analyst sentiment around Intel's turnaround story. Despite the surge, the consensus from 48 analysts remains a Hold with an average target of $92.17 — below current price — reflecting valuation skepticism.",
+      "bull_case": [
+        "Bank of America double-upgraded to Buy with a $135 price target, and Loop Capital upgraded to Buy, marking a meaningful shift in analyst sentiment around Intel's turnaround under new leadership",
+        "Semiconductor sector tailwinds from Iran deal-driven optimism and AI infrastructure spending boom; stock remains 21% below its 52-week high with further recovery potential"
+      ],
+      "bear_case": [
+        "Forward PE of 98.32x is 185% above the semiconductor industry median of 34.45x — an extremely rich valuation given ongoing competitiveness challenges vs AMD and Nvidia",
+        "Consensus from 48 analysts is Hold with an average target of $92.17 — 12% below current price — suggesting most analysts view the stock as overvalued after the recent surge"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$105.05",
+      "price_target": "$92.17 (-12.3%)",
+      "pe_ratio": "98.32 (forward)",
+      "rsi": "N/A",
+      "vs_52wk_high": "-20.9% below high ($132.75)",
+      "analyst_rating": "Hold",
+      "sector": "Technology - Semiconductors / CPU",
+      "sources": ["CNBC", "Benzinga", "TradingKey", "GuruFocus", "Yahoo Finance", "MarketBeat"],
+      "price_history_5d": [96.0, 104.0, 107.92, 107.04, 105.05]
     }
   ]
 }
