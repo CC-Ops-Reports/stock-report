@@ -1,121 +1,151 @@
 {
-  "report_date": "2026-06-11",
+  "report_date": "2026-06-12",
   "batch": 2,
   "stocks": [
     {
-      "ticker": "NAVN",
-      "company": "Navan, Inc.",
-      "discussion_driver": "Navan surged ~18% on June 11 after blowing out Q1 2026 expectations: first meaningful EPS of $0.08 (vs. -$0.01 expected), 50% YoY Gross Booking Volume growth to a record $3.1B, and raised FY2027 revenue guidance to 30% growth. Multiple analysts including TD Cowen and Citizens JMP raised price targets post-earnings, sending the stock to a new 52-week high above $25 and erasing its previous all-time close of $22.87 from June 2.",
+      "ticker": "ASTS",
+      "company": "AST SpaceMobile, Inc.",
+      "discussion_driver": "ASTS dropped ~14% on June 12 as SpaceX's blockbuster IPO debut (SPCX, +19.3%) triggered sector-wide capital rotation out of existing space stocks into the newly-listed SpaceX. Despite the selloff, ASTS remains on track to launch BlueBird 8, 9, and 10 satellites aboard a Falcon 9 on June 17, which could reignite investor interest in its direct-to-phone mobile broadband service.",
       "bull_case": [
-        "Blowout Q1 results demonstrate accelerating operational leverage: $0.08 EPS beat (vs. -$0.01 expected), record $3.1B GBV (+50% YoY), and raised FY2027 guidance to 30% revenue growth signal a credible path to sustained profitability",
-        "Enterprise market share gains accelerating — management notes enterprise customers are 'running to Navan'; AI-powered travel and expense tools drive differentiation vs. legacy platforms TravelPort and Concur, supporting premium valuation"
+        "BlueBird satellite constellation enables commercial direct-to-phone cellular coverage with AT&T and Verizon, opening a multi-billion dollar addressable market that no ground-based carrier can replicate",
+        "FCC approvals and growing telecom partner ecosystem position ASTS as the top independent alternative to SpaceX in space-based mobile broadband with a 5-6 billion potential device market"
       ],
       "bear_case": [
-        "Expensive at P/S 5.4x vs. peer average 2x; company remains unprofitable and any growth deceleration or macro softness could trigger sharp multiple compression — stock has now outrun its pre-earnings analyst consensus of $24.17",
-        "Corporate travel demand is cyclical and sensitive to geopolitical events, economic downturns, and remote-work expansion that could quickly reverse the 50% GBV growth trajectory"
-      ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$24.79",
-      "price_target": "$24.17 (-2.5%; post-earnings revisions pending upward from TD Cowen, Citizens JMP)",
-      "pe_ratio": "N/A",
-      "rsi": "N/A",
-      "vs_52wk_high": "-2.7% below high ($25.49, set June 11, 2026)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Technology - Travel Management Software (SaaS)",
-      "sources": ["Yahoo Finance", "MarketBeat", "Benzinga", "Seeking Alpha", "TradingView", "Proactive Investors", "Investing.com"],
-      "price_history_5d": [21.20, 21.44, 21.10, 20.87, 24.79]
-    },
-    {
-      "ticker": "CASY",
-      "company": "Casey's General Stores, Inc.",
-      "discussion_driver": "Casey's delivered a blowout fiscal Q4 with EPS of $4.37 (vs. $3.31 estimate) and same-store sales +5.5%, triggering a ~19-20% surge to new all-time highs above $915. The company raised its quarterly dividend 14% to $0.65/share, marking its 27th consecutive year of dividend increases. The stock now trades above most updated analyst consensus targets, with a trailing P/E of 43.7x that is elevated relative to consumer staples peers.",
-      "bull_case": [
-        "27th consecutive year of dividend increases (14% raise to $0.65/share) reflects exceptional free cash flow generation; rural market dominance across 16 US states creates a durable competitive moat vs. larger convenience chains",
-        "Same-store sales +5.5% alongside a massive EPS beat ($4.37 vs. $3.31 est.) demonstrates strong pricing power and customer loyalty; management has consistently exceeded expectations through multiple macro environments"
-      ],
-      "bear_case": [
-        "Stock has significantly outrun updated analyst consensus targets ($850 avg. from Wells Fargo, Keybanc, Evercore ISI vs. $916 current), limiting near-term upside and elevating profit-taking risk following the 19% post-earnings surge",
-        "Lower oil prices from the US-Iran peace deal could compress fuel margins — a critical profit driver for convenience stores — weighing on same-store fuel profitability in coming quarters"
+        "Stock has surged 312% over the past year and now trades above the analyst consensus price target of $82, signaling overvaluation risk if satellite launch or commercialization milestones slip",
+        "SpaceX's public listing (SPCX) gives investors direct access to a far better-capitalized competitor, undermining ASTS's premium as the only liquid space-comm proxy"
       ],
       "recommendation": "Hold",
-      "current_price": "$916.28",
-      "price_target": "$850.00 (-7.2%; avg. of Wells Fargo $910, Evercore ISI $915, UBS $805; targets still catching up post-pop)",
-      "pe_ratio": "43.7",
-      "rsi": "N/A",
-      "vs_52wk_high": "-1.2% below high ($927.85, intraday June 11, 2026)",
-      "analyst_rating": "Buy",
-      "sector": "Consumer Staples - Convenience & Fuel Retail",
-      "sources": ["Yahoo Finance", "Benzinga", "GuruFocus", "Motley Fool", "Wells Fargo", "Evercore ISI", "UBS", "WallStreetZen", "Simply Wall St"],
-      "price_history_5d": [735.00, 751.63, 761.18, 915.60, 916.28]
+      "current_price": "$88.00",
+      "price_target": "$82.02 (-6.8%)",
+      "pe_ratio": "N/A",
+      "rsi": "67.6",
+      "vs_52wk_high": "-34.2% below high ($133.86)",
+      "analyst_rating": "Hold",
+      "sector": "Technology - Space Communications",
+      "sources": [
+        "stockanalysis.com",
+        "investing.com",
+        "altindex.com",
+        "timothysykes.com",
+        "benzinga.com"
+      ],
+      "price_history_5d": [90.00, 95.75, 87.32, 97.56, 88.00]
     },
     {
       "ticker": "SATS",
       "company": "EchoStar Corporation",
-      "discussion_driver": "EchoStar surged ~8% on June 11, riding the SpaceX IPO wave after SpaceX priced its record $75B offering at $135/share (~$1.75T valuation). SATS holds a direct stake in SpaceX, positioning it as a proxy beneficiary of the IPO windfall and an FCC-approved spectrum deal with SpaceX and AT&T. However, EchoStar separately disclosed it missed ~$183M in cash interest payments due June 1, 2026, underscoring severe financial distress beneath the SpaceX-driven momentum.",
+      "discussion_driver": "EchoStar bucked the space-sector selloff on June 12, rising 4.9% to $133.40, driven by its unique ~2.2% equity stake in SpaceX — making SATS one of the clearest public proxies for the newly-IPO'd SpaceX (SPCX). Investors piled in as SpaceX's $2T+ valuation implies significant hidden value in SATS, even as the company's core DISH pay-TV business continues to deteriorate rapidly.",
       "bull_case": [
-        "Direct SpaceX exposure: EchoStar's SpaceX stake creates pure-play upside to the $1.75T IPO valuation; an FCC-approved spectrum arrangement with SpaceX and AT&T provides a credible path to resolving the company's heavy 2026 debt obligations",
-        "Spectrum assets are strategically valuable FCC licenses that could attract acquisition interest or premium partnership deals at valuations independent of EchoStar's troubled operating business"
+        "EchoStar's ~2.2% SpaceX equity stake is a unique hidden asset; with SpaceX now valued above $2 trillion publicly, SATS's indirect exposure creates a powerful re-rating catalyst",
+        "Spectrum portfolio and satellite infrastructure are strategic assets that could attract acquirers or support debt restructuring as the satellite broadband market continues to consolidate"
       ],
       "bear_case": [
-        "Severe liquidity crisis: missed ~$183M in cash interest payments due June 1, 2026; ongoing net losses and debt burden create real bankruptcy risk if SpaceX-related monetization does not materialize on schedule",
-        "SpaceX IPO-driven rally is speculative — if market enthusiasm fades, SpaceX shares underperform post-IPO lock-up, or EchoStar's stake is monetized below expectations, SATS shares could collapse rapidly"
+        "Core DISH pay-TV business is in terminal secular decline with accelerating subscriber churn, and the company carries heavy debt with deeply negative earnings (negative PE), creating ongoing capital risk",
+        "The 800%+ 52-week surge from $14.90 to $147.25 means the SpaceX proxy premium may be largely priced in; any stumble from SpaceX or deal unwinding could rapidly collapse the trade"
       ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$124.46",
-      "price_target": "$137.14 (+10.2%)",
+      "recommendation": "Hold",
+      "current_price": "$133.40",
+      "price_target": "$137.60 (+3.1%)",
       "pe_ratio": "N/A",
       "rsi": "N/A",
-      "vs_52wk_high": "-15.5% below high ($147.25)",
+      "vs_52wk_high": "-9.4% below high ($147.25)",
       "analyst_rating": "Buy",
-      "sector": "Communication Services - Satellite Communications",
-      "sources": ["CNBC", "Yahoo Finance", "MarketBeat", "Quiver Quantitative", "Nasdaq", "CNN Markets", "StockAnalysis"],
-      "price_history_5d": [116.28, 111.50, 113.00, 115.24, 124.46]
+      "sector": "Communications - Satellite & Pay TV",
+      "sources": [
+        "simplywall.st",
+        "stockanalysis.com",
+        "etoro.com",
+        "timothysykes.com",
+        "marketbeat.com"
+      ],
+      "price_history_5d": [116.62, 120.63, 115.24, 128.13, 133.40]
     },
     {
-      "ticker": "AMAT",
-      "company": "Applied Materials, Inc.",
-      "discussion_driver": "Applied Materials beat Q2 FY2026 estimates ($7.91B revenue, $2.86 EPS) and raised forward guidance, driving an 11%+ surge on June 11. Oracle's $95B AI capex commitment amplified the move as investors bet on sustained semiconductor equipment demand. Multiple analysts raised price targets to $540-$650 post-earnings, with Cantor Fitzgerald going to $650. RSI at 74.09 signals overbought near-term conditions despite strong fundamental momentum.",
+      "ticker": "WDS",
+      "company": "Woodside Energy Group Ltd.",
+      "discussion_driver": "Woodside Energy surged 9% to $23.70 on June 12 after Bloomberg reported Exxon Mobil is evaluating a potential acquisition of the Australian LNG major to expand its footprint in Asian energy markets. A confirmed bid could represent a meaningful premium to WDS's recent trading range and would reshape the competitive LNG landscape. Analyst consensus targets of $23.10 were set prior to this news and may be revised upward.",
       "bull_case": [
-        "Strong Q2 FY2026 earnings beat ($7.91B revenue, $2.86 EPS) with raised guidance; AI semiconductor capex supercycle driving multi-year demand for AMAT's deposition, etch, and metrology tools across leading-edge chip fabs globally",
-        "Oracle's $95B AI infrastructure capex commitment and broad hyperscaler AI spending signal sustained chip equipment investment ahead; Cantor Fitzgerald's $650 price target implies 17%+ additional upside from current levels"
+        "Exxon M&A interest signals Woodside's LNG portfolio (Pluto, NWS, Scarborough) is strategically undervalued; a confirmed or competing bid could push shares well above the 52-week high of $25.19",
+        "Strong free cash flow generation from mature LNG assets, high dividend yield, and Scarborough project ramp-up support long-term value for income-oriented investors"
       ],
       "bear_case": [
-        "RSI at 74.09 indicates overbought conditions; stock surged 11%+ in a single session and has materially outrun the pre-earnings consensus of $517, raising near-term consolidation or pullback risk",
-        "China export control risk: any escalation of U.S. semiconductor equipment restrictions could remove meaningful revenue from AMAT's Asia-facing customer base, which carries significant geographic concentration"
+        "M&A rumors can dissipate quickly; without a confirmed deal, WDS could give back most of the 9% surge, and the stock now trades slightly above the pre-Bloomberg analyst consensus of $23.10",
+        "Woodside faces significant capex pressure from Scarborough LNG development, declining production from legacy assets, and LNG price volatility tied to Asian demand and geopolitical shifts"
       ],
-      "recommendation": "Buy",
-      "current_price": "$552.72",
-      "price_target": "$575.00 (+4.0%; post-earnings blended: Mizuho $540, UBS $570, Barclays $590, Cantor Fitzgerald $650)",
-      "pe_ratio": "46.09",
-      "rsi": "74.09",
-      "vs_52wk_high": "-0.9% below high ($557.62, intraday June 11, 2026)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Semiconductor Equipment",
-      "sources": ["Yahoo Finance", "CNBC", "TradingKey", "MarketBeat", "StockAnalysis", "Cantor Fitzgerald", "UBS", "Barclays", "Mizuho", "GuruFocus"],
-      "price_history_5d": [499.00, 492.17, 493.50, 497.01, 552.72]
+      "recommendation": "Hold",
+      "current_price": "$23.70",
+      "price_target": "$23.10 (-2.5%)",
+      "pe_ratio": "15.85",
+      "rsi": "51",
+      "vs_52wk_high": "-5.9% below high ($25.19)",
+      "analyst_rating": "Hold",
+      "sector": "Energy - LNG / Oil & Gas",
+      "sources": [
+        "gurufocus.com",
+        "wallstreetzen.com",
+        "simplywall.st",
+        "stocksguide.com",
+        "macroaxis.com"
+      ],
+      "price_history_5d": [21.40, 21.55, 21.65, 21.74, 23.70]
     },
     {
-      "ticker": "MSFT",
-      "company": "Microsoft Corporation",
-      "discussion_driver": "Microsoft fell ~1.77% to $390.34 on June 11 as Xbox gaming division layoffs under new CEO Asha Sharma spooked investors, while Oracle's cloud revenue miss and $95B capex announcement added broad AI spending scrutiny to mega-cap tech. The stock now trades nearly 30% below its 52-week high at a historically low P/E of 23.7x, with 56 analysts maintaining a Strong Buy consensus and an average target of ~$561 — implying 44% upside and one of the largest target-to-price gaps in large-cap tech.",
+      "ticker": "XOM",
+      "company": "Exxon Mobil Corporation",
+      "discussion_driver": "Exxon Mobil shares gained on June 12 as Bloomberg reported the oil major is evaluating a potential acquisition of Woodside Energy to expand its LNG portfolio and Asian market presence. Exxon's strategic focus on long-life, high-return assets aligns well with Woodside's LNG operations, and its Guyana subsidiary posted $982.5B in 2025 after-tax profit — demonstrating best-in-class project returns that underpin strong cash generation.",
       "bull_case": [
-        "Trading nearly 30% below 52-week high at a historically low P/E of 23.7x; 56 analysts maintain Strong Buy with ~$561 average target implying 44% upside — one of the most compelling risk/reward setups in large-cap technology",
-        "Azure AI services and Copilot monetization across Office 365, Teams, and GitHub represent structural multi-year revenue drivers; $40B+ quarterly AI capex investment demonstrates management conviction in capturing enterprise AI wallet share"
+        "Exxon's world-class asset base — Guyana deepwater, Permian Basin, and potential LNG addition via Woodside — combined with a forward PE of just 11.7x makes XOM one of the most attractively valued integrated majors; Barclays raised its target to $182 with Overweight",
+        "25-analyst Buy consensus with a $169.91 average price target implies 15.9% upside; Exxon's capital discipline, growing dividend, and aggressive buyback program provide a strong total return framework"
       ],
       "bear_case": [
-        "Xbox gaming division layoffs under new CEO Asha Sharma signal strategic uncertainty; restructuring costs and leadership transition execution risk in gaming could weigh on near-term earnings and investor sentiment",
-        "AI cloud spending scrutiny following Oracle's cloud revenue miss — Microsoft faces similar pressure to demonstrate that massive AI infrastructure investments translate to accelerating Azure revenue rather than margin compression"
+        "Trailing PE of 25x is elevated for an integrated oil major and reflects compressed recent earnings; further weakness in crude or LNG prices could erode cash flows and push the stock toward the 52-week low of $105.53",
+        "A large Woodside acquisition could prove expensive, face antitrust scrutiny given Exxon's scale, and distract management from its highest-return organic growth assets in Guyana and the Permian"
       ],
       "recommendation": "Buy",
-      "current_price": "$390.34",
-      "price_target": "$561.20 (+43.8%)",
-      "pe_ratio": "23.67",
-      "rsi": "47.7",
-      "vs_52wk_high": "-29.7% below high ($555.45)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Technology - Cloud Computing & Software",
-      "sources": ["Motley Fool", "TradersUnion", "FX Leaders", "Invezz", "Yahoo Finance", "MarketBeat", "TipRanks", "StockAnalysis"],
-      "price_history_5d": [411.00, 407.50, 403.41, 397.36, 390.34]
+      "current_price": "$146.60",
+      "price_target": "$169.91 (+15.9%)",
+      "pe_ratio": "25.24",
+      "rsi": "49",
+      "vs_52wk_high": "-16.9% below high ($176.41)",
+      "analyst_rating": "Buy",
+      "sector": "Energy - Integrated Oil & Gas",
+      "sources": [
+        "stockanalysis.com",
+        "tipranks.com",
+        "tradersunion.com",
+        "gurufocus.com",
+        "marketscreener.com"
+      ],
+      "price_history_5d": [148.00, 147.47, 150.62, 145.02, 146.60]
+    },
+    {
+      "ticker": "CRWV",
+      "company": "CoreWeave, Inc.",
+      "discussion_driver": "CoreWeave gained approximately 7% on June 12 after Nasdaq officially confirmed its inclusion in the Nasdaq-100 index effective June 22, a move that will trigger mandatory purchases from index-tracking ETFs including QQQ. CoreWeave, the leading independent GPU cloud provider for AI training and inference workloads, also benefits from sustained enterprise demand for AI infrastructure and long-term contracted revenue anchored by Microsoft.",
+      "bull_case": [
+        "Nasdaq-100 inclusion effective June 22 creates structural passive-fund buying demand from ETFs tracking the index, including the $300B+ QQQ, which historically drives post-inclusion outperformance",
+        "CoreWeave's exclusive GPU clusters and long-term contracted AI infrastructure revenue (including a $10B+ Microsoft commitment) position it as a critical provider in the multi-hundred-billion-dollar AI compute buildout"
+      ],
+      "bear_case": [
+        "CoreWeave is deeply unprofitable (negative PE) and has fallen -45.5% from its 52-week high; its $3.25B+ in high-yield senior notes create significant balance sheet risk if AI spending growth slows",
+        "Hyperscalers (AWS, Azure, Google Cloud) are rapidly building their own GPU infrastructure, potentially undercutting CoreWeave's pricing power and pulling enterprise customers in-house over time"
+      ],
+      "recommendation": "Speculative Buy",
+      "current_price": "$102.03",
+      "price_target": "$140.18 (+37.4%)",
+      "pe_ratio": "N/A",
+      "rsi": "40.65",
+      "vs_52wk_high": "-45.5% below high ($187.00)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - AI Cloud Infrastructure",
+      "sources": [
+        "stockanalysis.com",
+        "tradingkey.com",
+        "coincentral.com",
+        "cnn.com/markets",
+        "marketscreener.com"
+      ],
+      "price_history_5d": [100.50, 98.00, 95.61, 95.74, 102.03]
     }
   ]
 }
