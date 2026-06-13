@@ -1,137 +1,135 @@
 {
-  "report_date": "2026-06-11",
+  "report_date": "2026-06-12",
   "batch": 1,
-  "market_tone": "Bullish",
+  "market_tone": "Mixed",
   "key_themes": [
-    "US-Iran peace deal signals push oil to ~$86, easing inflation fears and fueling broad equity rally",
-    "SpaceX prices record-breaking $75B IPO at $135/share, valued at ~$1.75 trillion",
-    "Chipmaker rebound: MU +12%, SNDK +14%, INTC +10% after prior-week semiconductor selloff",
-    "Oracle tumbles ~12% on $95B AI capex guidance and $40B debt/equity raise plan despite earnings beat",
-    "After-hours earnings catalyst: Adobe, Lennar, RH all reporting today"
+    "SpaceX largest-ever IPO debuts at +19%, instantly valued above $2T",
+    "DOJ clears Paramount-WBD $111B media mega-merger without conditions",
+    "US-Iran peace deal optimism lifts broad market; space stocks selloff as capital rotates into SpaceX"
   ],
   "sp500": {
-    "value": "7,394.30",
-    "change": "+1.75%"
+    "value": "7,449.00",
+    "change": "+0.74%"
   },
   "nasdaq": {
-    "value": "25,809.66",
-    "change": "+2.54%"
+    "value": "25,888.84",
+    "change": "+0.31%"
   },
   "stocks": [
     {
       "ticker": "SPCX",
-      "company": "SpaceX",
-      "discussion_driver": "SpaceX priced its record-breaking $75B IPO at $135/share on June 11, valuing the company at $1.77 trillion — the largest IPO in history. The company merged with xAI prior to listing, adding AI infrastructure exposure alongside its Starlink and launch businesses. Trading begins on Nasdaq under SPCX on June 12.",
+      "company": "Space Exploration Technologies Corp.",
+      "discussion_driver": "SpaceX debuted as the largest IPO in US history on June 12, 2026, raising $75B at $135/share and surging 19.3% to close at $161.11. The IPO instantly valued the company above $2 trillion and triggered a sector-wide selloff in existing space stocks as capital rotated into the newly public SpaceX.",
       "bull_case": [
-        "Starlink generates $8B+ in recurring annual revenue with 7M+ subscribers and near-monopoly on commercial launch services, providing a durable cash flow base",
-        "xAI merger and Falcon 9/Heavy reusability create a vertically integrated aerospace/AI powerhouse; ARK Invest projects $3.1T valuation by 2030"
+        "Starlink internet service generates fast-growing recurring revenue with global scale, with satellite internet representing a massive new addressable market for sustained cash flow",
+        "Starship's full reusability advantage positions SpaceX to dominate next-decade space infrastructure and dramatically reduce per-launch costs vs. all competitors"
       ],
       "bear_case": [
-        "Morningstar pegs fair value near $780B vs $1.77T IPO valuation, implying 55%+ downside if the AI/space premium compresses",
-        "Key-person risk from Elon Musk's attention spread across Tesla, xAI, and SpaceX; government contract concentration adds political risk"
+        "No public earnings history; massive ongoing capital requirements for Starship development and satellite constellation expansion make near-term profitability uncertain",
+        "Key-person risk with Elon Musk's divided attention across Tesla, X, and xAI creates governance and strategic execution uncertainty"
       ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$135.00 (IPO price; Nasdaq debut June 12)",
-      "price_target": "$165.00 (+22.2%)",
+      "recommendation": "Hold",
+      "current_price": "$161.11",
+      "price_target": "$164.00 (+1.8%)",
       "pe_ratio": "N/A",
       "rsi": "N/A",
-      "vs_52wk_high": "N/A (IPO; no prior trading history)",
-      "analyst_rating": "N/A (IPO)",
-      "sector": "Industrials - Aerospace & Defense",
-      "sources": ["CNBC", "NPR", "TradingKey", "Investing.com", "ARK Invest"],
-      "price_history_5d": []
-    },
-    {
-      "ticker": "ORCL",
-      "company": "Oracle Corporation",
-      "discussion_driver": "Oracle tumbled ~12% on June 11 despite a Q4 FY2026 earnings beat (EPS $2.11 vs $1.89 est.), as investors were rattled by $95B FY2027 AI capex guidance and plans to raise $40B via new debt and equity. Cloud infrastructure revenue surged 93% YoY to $5.8B, but remaining performance obligations and capital allocation concerns overshadowed the beat. The selloff creates a potential re-entry point with 39% average analyst upside.",
-      "bull_case": [
-        "Cloud infrastructure revenue surged 93% YoY to $5.8B and remaining performance obligations grew 363% to $638B, providing exceptional multi-year revenue visibility",
-        "Post-earnings selloff at $183 creates a potential entry point — 35 analysts rate ORCL Buy with an average target of $255, representing 39% upside from current levels"
-      ],
-      "bear_case": [
-        "$95B FY2027 capex guidance and $40B debt/equity raise plan raise concerns about balance sheet leverage, EPS dilution, and management's ability to deploy capital efficiently",
-        "Stock remains 47% below its 52-week high of $345.72 — the market has persistently struggled to sustain a premium valuation on Oracle"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$183.63",
-      "price_target": "$255.18 (+38.9%)",
-      "pe_ratio": "32.27",
-      "rsi": "N/A",
-      "vs_52wk_high": "-46.9% below high ($345.72)",
+      "vs_52wk_high": "-8.8% below high ($176.52)",
       "analyst_rating": "Buy",
-      "sector": "Technology - Enterprise Software / Cloud",
-      "sources": ["CNBC", "Motley Fool", "Yahoo Finance", "TheStreet", "StockAnalysis"],
-      "price_history_5d": [210.0, 208.0, 205.81, 201.26, 183.63]
+      "sector": "Aerospace & Defense",
+      "sources": ["CNBC", "NPR", "Yahoo Finance", "Oppenheimer Research", "Investing.com"],
+      "price_history_5d": [161.11]
     },
     {
-      "ticker": "MU",
-      "company": "Micron Technology",
-      "discussion_driver": "Micron surged ~12% on June 11 as part of a broad semiconductor sector rebound driven by Iran peace deal optimism, recovering from a 15%+ correction off its June 3 all-time high of $1,089.29. The SOXX chipmaker gauge jumped nearly 8% on the day. Micron leads the AI HBM supercycle trade and is up 179% YTD, though most analyst price targets have yet to catch up with the rapid rally.",
+      "ticker": "ADBE",
+      "company": "Adobe Inc.",
+      "discussion_driver": "Adobe reported record Q2 2026 revenue of $6.62B (+13% YoY) with AI ARR tripling to $500M+, but shares fell ~9% to 7-year lows near $198 after CFO Dan Durn announced his departure to join Marvell effective June 15. Leadership uncertainty overshadowed strong fundamentals, driving analyst downgrades and accelerating the stock's multi-month decline.",
       "bull_case": [
-        "AI data center demand is driving record HBM orders at premium pricing; analysts describe the AI memory trade as still in 'mid-innings' with significant runway remaining",
-        "Forward P/E of ~9.8x is dramatically below the Nasdaq composite's ~26x forward multiple, suggesting meaningful valuation upside relative to growth if the cycle sustains"
+        "Record AI ARR growth to $500M+ demonstrates successful Firefly AI platform monetization, with significant upside as the product pipeline scales toward normalized margins",
+        "Shares at 7-year lows trade at a historically cheap trailing PE of 13.6x; a $25B buyback program provides meaningful downside support and capital return at depressed levels"
       ],
       "bear_case": [
-        "Stock up 179% YTD has outpaced most analyst price targets — consensus sits at $737.63, roughly 20% below current price, indicating the rally may be overextended near-term",
-        "Memory semiconductor cycles are historically volatile; any demand slowdown, inventory build, or HBM pricing normalization could trigger a sharp correction from elevated levels"
+        "CFO departure introduces leadership uncertainty at a pivotal AI strategy inflection point as Adobe shifts toward a freemium model that could pressure near-term revenue recognition",
+        "Generative AI tools from OpenAI and well-funded startups increasingly commoditize creative tasks within Adobe's core Creative Cloud franchise, threatening long-term pricing power"
       ],
       "recommendation": "Hold",
-      "current_price": "$926.56",
-      "price_target": "$737.63 (-20.4%)",
-      "pe_ratio": "9.80 (forward)",
+      "current_price": "$198.00",
+      "price_target": "$289.68 (+46.3%)",
+      "pe_ratio": "13.61",
       "rsi": "N/A",
-      "vs_52wk_high": "-14.9% below high ($1,089.29)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Technology - Semiconductors / Memory",
-      "sources": ["CNBC", "Motley Fool", "Yahoo Finance", "MarketBeat", "TipRanks"],
-      "price_history_5d": [1010.0, 975.0, 917.0, 891.88, 926.56]
-    },
-    {
-      "ticker": "SNDK",
-      "company": "SanDisk Corporation",
-      "discussion_driver": "SanDisk surged ~14% on June 11, hitting a new all-time intraday high of $1,918.99, powered by the broad semiconductor rebound and extraordinary fundamental momentum. The company is up 552% YTD as one of the 'Parabolic 7' memory/AI stocks. Q3 FY2026 revenue grew 251% YoY to $5.95B and Q4 guidance calls for $7.75-8.25B in revenue at $30-$33 non-GAAP EPS, driving a string of major analyst target upgrades.",
-      "bull_case": [
-        "Explosive fundamentals: Q3 revenue up 251% YoY with Q4 guidance implying $30-$33 EPS; BofA raised target to $2,100 and Cantor Fitzgerald has a $2,900 target implying 52%+ upside",
-        "AI data center NAND flash and HBM demand appears structural, not cyclical; forward PE of ~11.7x suggests earnings are rapidly growing into an elevated stock price"
-      ],
-      "bear_case": [
-        "Trailing PE of 59.24x and stock at all-time highs after a 552% YTD gain creates extreme mean-reversion risk if any guidance miss or memory cycle turn occurs",
-        "Average analyst consensus target of $1,843 is below the current $1,902 price, indicating many analysts haven't kept pace with the rally and potential overextension risk"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$1,902.83",
-      "price_target": "$1,843.44 (-3.1%)",
-      "pe_ratio": "59.24 (trailing)",
-      "rsi": "N/A",
-      "vs_52wk_high": "At/near 52-week high ($1,918.99 intraday June 11)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Technology - Semiconductors / Flash Storage",
-      "sources": ["CNBC", "Yahoo Finance", "TradingKey", "Benzinga", "24/7 Wall St.", "SEC Filings"],
-      "price_history_5d": [1559.32, 1578.0, 1580.0, 1643.23, 1902.83]
-    },
-    {
-      "ticker": "INTC",
-      "company": "Intel Corporation",
-      "discussion_driver": "Intel jumped ~10% on June 11 following a Loop Capital upgrade from Hold to Buy (target $75), amplified by broad semiconductor sector tailwinds from Iran deal optimism. Bank of America also double-upgraded Intel to Buy and raised its target from $96 to $135, marking a major shift in analyst sentiment around Intel's turnaround story. Despite the surge, the consensus from 48 analysts remains a Hold with an average target of $92.17 — below current price — reflecting valuation skepticism.",
-      "bull_case": [
-        "Bank of America double-upgraded to Buy with a $135 price target, and Loop Capital upgraded to Buy, marking a meaningful shift in analyst sentiment around Intel's turnaround under new leadership",
-        "Semiconductor sector tailwinds from Iran deal-driven optimism and AI infrastructure spending boom; stock remains 21% below its 52-week high with further recovery potential"
-      ],
-      "bear_case": [
-        "Forward PE of 98.32x is 185% above the semiconductor industry median of 34.45x — an extremely rich valuation given ongoing competitiveness challenges vs AMD and Nvidia",
-        "Consensus from 48 analysts is Hold with an average target of $92.17 — 12% below current price — suggesting most analysts view the stock as overvalued after the recent surge"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$105.05",
-      "price_target": "$92.17 (-12.3%)",
-      "pe_ratio": "98.32 (forward)",
-      "rsi": "N/A",
-      "vs_52wk_high": "-20.9% below high ($132.75)",
+      "vs_52wk_high": "-52.5% below high ($416.39)",
       "analyst_rating": "Hold",
-      "sector": "Technology - Semiconductors / CPU",
-      "sources": ["CNBC", "Benzinga", "TradingKey", "GuruFocus", "Yahoo Finance", "MarketBeat"],
-      "price_history_5d": [96.0, 104.0, 107.92, 107.04, 105.05]
+      "sector": "Technology - Application Software",
+      "sources": ["Seeking Alpha", "TheStreet", "TechTimes", "GuruFocus", "247 Wall St.", "TradingKey"],
+      "price_history_5d": [249.86, 237.88, 233.38, 218.80, 198.00]
+    },
+    {
+      "ticker": "ARM",
+      "company": "Arm Holdings PLC",
+      "discussion_driver": "ARM surged ~11% on June 12 as Wells Fargo, Barclays, Mizuho, and BofA all significantly raised price targets driven by AI data center CPU demand checks. Mizuho set the boldest target at $500, citing agentic AI workloads, Oracle and ByteDance partnerships, and a long-term $15B CPU infrastructure revenue forecast for ARM architecture.",
+      "bull_case": [
+        "ARM-based CPUs are rapidly gaining AI data center share as cloud hyperscalers (Amazon Graviton, Google Axion, Microsoft Cobalt) adopt ARM architecture for superior performance-per-watt economics",
+        "Agentic AI and edge AI workloads create expanding new royalty streams as the installed base of ARM-designed chips grows across high-value computing categories beyond mobile"
+      ],
+      "bear_case": [
+        "Extreme forward PE of 190x prices in flawless execution; any slowdown in AI capex or data center build-out would cause severe multiple compression from current elevated levels",
+        "Open-source RISC-V architecture adoption by major technology companies threatens ARM's licensing and royalty revenue model over the medium-to-long term"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$368.28",
+      "price_target": "$415.00 (+12.7%)",
+      "pe_ratio": "190.54 (forward)",
+      "rsi": "N/A",
+      "vs_52wk_high": "-14.0% below high ($427.99)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - Semiconductor IP",
+      "sources": ["StocksToTrade", "Investing.com", "TradingKey", "GuruFocus", "TimothySykes"],
+      "price_history_5d": [323.28, 311.00, 333.00, 368.28]
+    },
+    {
+      "ticker": "AMD",
+      "company": "Advanced Micro Devices",
+      "discussion_driver": "Citi upgraded AMD from Neutral to Buy on June 12, raising the price target to $575 from $460. Analyst Atif Malik cited AMD's severely underpriced GPU upside, arguing investors are underestimating the company's AI potential with a 60% probability of exceeding $50B in GPU sales by 2028, making AMD a compelling NVIDIA alternative at current valuations.",
+      "bull_case": [
+        "AI GPU opportunity is severely underpriced; Citi models 60% probability AMD exceeds $50B GPU sales by 2028 as hyperscalers accelerate procurement of NVIDIA alternatives",
+        "Growing cloud and hyperscaler adoption of AMD MI300/MI400 accelerators provides a diversifying AI revenue base with strong demand visibility through 2026"
+      ],
+      "bear_case": [
+        "Extreme trailing PE of ~163x requires sustained hyper-growth execution without margin of error in a highly cyclical and competitive semiconductor market",
+        "NVIDIA's dominant CUDA ecosystem and multi-year software investment continue to create significant switching costs that structurally limit AMD's AI GPU market share gains"
+      ],
+      "recommendation": "Buy",
+      "current_price": "$512.34",
+      "price_target": "$575.00 (+12.2%)",
+      "pe_ratio": "162.88",
+      "rsi": "72.7",
+      "vs_52wk_high": "-6.2% below high ($546.44)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Technology - Semiconductors",
+      "sources": ["Yahoo Finance", "Sherwood News", "GuruFocus", "Benzinga", "MarketBeat"],
+      "price_history_5d": [466.38, 475.51, 452.40, 488.45, 512.34]
+    },
+    {
+      "ticker": "RKLB",
+      "company": "Rocket Lab USA",
+      "discussion_driver": "Rocket Lab fell ~7% on June 12 as SpaceX's historic $75B IPO triggered broad space-sector capital rotation. Investors liquidated existing space names to fund SpaceX positions. Despite the selloff, RKLB's upcoming Nasdaq-100 inclusion on June 22 should provide near-term support from forced passive fund rebalancing, offering a technical catalyst for recovery.",
+      "bull_case": [
+        "Nasdaq-100 inclusion effective June 22 will trigger significant mandatory passive fund buying, boosting institutional ownership and providing a near-term structural price catalyst",
+        "Neutron reusable rocket development positions Rocket Lab as the only viable near-term competitor to SpaceX for medium-lift commercial launches, with a large global manifest"
+      ],
+      "bear_case": [
+        "SpaceX IPO creates direct competition for investor capital in the space sector while SpaceX's vertical integration and massive scale threaten Rocket Lab's core launch business long-term",
+        "Rocket Lab remains unprofitable with significant ongoing capital requirements for Neutron development, creating persistent dilution risk for existing shareholders"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$106.36",
+      "price_target": "$105.28 (-1.0%)",
+      "pe_ratio": "N/A",
+      "rsi": "69.4",
+      "vs_52wk_high": "-29.5% below high ($151.00)",
+      "analyst_rating": "Buy",
+      "sector": "Aerospace & Defense",
+      "sources": ["CNBC", "247 Wall St.", "Yahoo Finance", "Stifel", "Deutsche Bank"],
+      "price_history_5d": [105.05, 114.78, 106.36]
     }
   ]
 }
