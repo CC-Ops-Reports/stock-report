@@ -1,35 +1,75 @@
 ---
 layout: default
-title: Investment Estimator
+title: Estimator
 ---
 <div style="margin-bottom:1.5rem;"><a href="./" style="color:#64748b;text-decoration:none;font-size:0.85rem;font-weight:500;letter-spacing:0.02em;font-family:'Inter',sans-serif;">← Back to Daily Report</a></div>
 
-<h1 style="font-family:'Inter',sans-serif;font-weight:700;font-size:2rem;letter-spacing:-0.02em;color:#0f1729;margin:0 0 0.5rem;line-height:1.1;">Investment Estimator</h1>
-<p style="font-family:'Inter',sans-serif;color:#64748b;font-size:0.95rem;line-height:1.55;margin:0 0 2rem;max-width:640px;">Pick a stock and a date. We'll show what your hypothetical investment would be worth today, based on the prices we logged in past reports.</p>
+<h1 style="font-family:'Inter',sans-serif;font-weight:700;font-size:2rem;letter-spacing:-0.02em;color:#0f1729;margin:0 0 1.25rem;line-height:1.1;">Estimator</h1>
 
-<div style="background:#ffffff;border:1px solid #e2e8f0;border-radius:10px;padding:1.5rem;margin-bottom:1.5rem;">
-  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1.25rem;margin-bottom:1.25rem;align-items:start;">
-    <div style="position:relative;">
-      <label for="tickerInput" style="font-family:'Inter',sans-serif;font-size:0.7rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.08em;font-weight:600;display:block;margin-bottom:0.45rem;">Stock</label>
-      <input type="text" id="tickerInput" placeholder="Type to search..." autocomplete="off" style="width:100%;padding:0.6rem 0.75rem;border:1px solid #e2e8f0;border-radius:6px;font-family:'Inter',sans-serif;font-size:0.9rem;font-weight:500;color:#0f1729;background:#ffffff;outline:none;box-sizing:border-box;">
-      <div id="tickerList" style="position:absolute;top:100%;left:0;right:0;background:#ffffff;border:1px solid #e2e8f0;border-radius:6px;margin-top:0.25rem;max-height:280px;overflow-y:auto;box-shadow:0 4px 12px rgba(0,0,0,0.08);display:none;z-index:10;"></div>
-    </div>
-    <div>
-      <label for="purchaseDate" style="font-family:'Inter',sans-serif;font-size:0.7rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.08em;font-weight:600;display:block;margin-bottom:0.45rem;">Purchase Date</label>
-      <input type="date" id="purchaseDate" style="width:100%;padding:0.6rem 0.75rem;border:1px solid #e2e8f0;border-radius:6px;font-family:'Inter',sans-serif;font-size:0.9rem;font-weight:500;color:#0f1729;background:#ffffff;outline:none;box-sizing:border-box;">
-    </div>
-    <div>
-      <label for="amount" style="font-family:'Inter',sans-serif;font-size:0.7rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.08em;font-weight:600;display:block;margin-bottom:0.45rem;">Hypothetical Amount</label>
-      <input type="number" id="amount" min="1" step="100" value="1000" style="width:100%;padding:0.6rem 0.75rem;border:1px solid #e2e8f0;border-radius:6px;font-family:'Inter',sans-serif;font-size:0.9rem;font-weight:500;color:#0f1729;background:#ffffff;outline:none;box-sizing:border-box;">
-    </div>
-  </div>
-  <button id="calcBtn" style="background:#0f1729;color:white;padding:0.65rem 1.5rem;border:none;border-radius:6px;font-family:'Inter',sans-serif;font-weight:600;font-size:0.85rem;cursor:pointer;letter-spacing:0.02em;">Calculate</button>
+<!-- Tabs -->
+<div style="display:flex;gap:0.5rem;border-bottom:1px solid #e2e8f0;margin-bottom:1.5rem;">
+  <button class="estTab" data-tab="forecasting" style="background:none;border:none;border-bottom:2px solid #0f1729;color:#0f1729;padding:0.6rem 0.25rem;margin-right:1rem;font-family:'Inter',sans-serif;font-weight:600;font-size:0.95rem;cursor:pointer;">Forecasting</button>
+  <button class="estTab" data-tab="roi" style="background:none;border:none;border-bottom:2px solid transparent;color:#94a3b8;padding:0.6rem 0.25rem;margin-right:1rem;font-family:'Inter',sans-serif;font-weight:600;font-size:0.95rem;cursor:pointer;">ROI Anticipator</button>
 </div>
 
-<div id="results" style="display:none;"></div>
+<!-- ============ FORECASTING TAB ============ -->
+<div id="tab-forecasting">
+  <p style="font-family:'Inter',sans-serif;color:#64748b;font-size:0.95rem;line-height:1.55;margin:0 0 2rem;max-width:640px;">Pick a stock and a date. We'll show what your hypothetical investment would be worth today, based on the prices we logged in past reports.</p>
 
-<div style="background:#f8fafc;border:1px solid #e2e8f0;border-left:3px solid #94a3b8;padding:0.95rem 1.25rem;border-radius:6px;margin-top:2rem;font-family:'Inter',sans-serif;font-size:0.85rem;color:#64748b;line-height:1.6;">
-  <strong style="color:#0f1729;font-weight:600;">Note:</strong> Prices come from the snapshot we logged when each stock appeared in a daily report. If you pick a date we didn't cover that stock, we'll use the nearest report date. Estimates are illustrative only — they don't account for fees, taxes, or dividends.
+  <div style="background:#ffffff;border:1px solid #e2e8f0;border-radius:10px;padding:1.5rem;margin-bottom:1.5rem;">
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1.25rem;margin-bottom:1.25rem;align-items:start;">
+      <div style="position:relative;">
+        <label for="tickerInput" style="font-family:'Inter',sans-serif;font-size:0.7rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.08em;font-weight:600;display:block;margin-bottom:0.45rem;">Stock</label>
+        <input type="text" id="tickerInput" placeholder="Type to search..." autocomplete="off" style="width:100%;padding:0.6rem 0.75rem;border:1px solid #e2e8f0;border-radius:6px;font-family:'Inter',sans-serif;font-size:0.9rem;font-weight:500;color:#0f1729;background:#ffffff;outline:none;box-sizing:border-box;">
+        <div id="tickerList" style="position:absolute;top:100%;left:0;right:0;background:#ffffff;border:1px solid #e2e8f0;border-radius:6px;margin-top:0.25rem;max-height:280px;overflow-y:auto;box-shadow:0 4px 12px rgba(0,0,0,0.08);display:none;z-index:10;"></div>
+      </div>
+      <div>
+        <label for="purchaseDate" style="font-family:'Inter',sans-serif;font-size:0.7rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.08em;font-weight:600;display:block;margin-bottom:0.45rem;">Purchase Date</label>
+        <input type="date" id="purchaseDate" style="width:100%;padding:0.6rem 0.75rem;border:1px solid #e2e8f0;border-radius:6px;font-family:'Inter',sans-serif;font-size:0.9rem;font-weight:500;color:#0f1729;background:#ffffff;outline:none;box-sizing:border-box;">
+      </div>
+      <div>
+        <label for="amount" style="font-family:'Inter',sans-serif;font-size:0.7rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.08em;font-weight:600;display:block;margin-bottom:0.45rem;">Hypothetical Amount</label>
+        <input type="number" id="amount" min="1" step="100" value="1000" style="width:100%;padding:0.6rem 0.75rem;border:1px solid #e2e8f0;border-radius:6px;font-family:'Inter',sans-serif;font-size:0.9rem;font-weight:500;color:#0f1729;background:#ffffff;outline:none;box-sizing:border-box;">
+      </div>
+    </div>
+    <button id="calcBtn" style="background:#0f1729;color:white;padding:0.65rem 1.5rem;border:none;border-radius:6px;font-family:'Inter',sans-serif;font-weight:600;font-size:0.85rem;cursor:pointer;letter-spacing:0.02em;">Calculate</button>
+  </div>
+
+  <div id="results" style="display:none;"></div>
+
+  <div style="background:#f8fafc;border:1px solid #e2e8f0;border-left:3px solid #94a3b8;padding:0.95rem 1.25rem;border-radius:6px;margin-top:2rem;font-family:'Inter',sans-serif;font-size:0.85rem;color:#64748b;line-height:1.6;">
+    <strong style="color:#0f1729;font-weight:600;">Note:</strong> Prices come from the snapshot we logged when each stock appeared in a daily report. If you pick a date we didn't cover that stock, we'll use the nearest report date. Estimates are illustrative only — they don't account for fees, taxes, or dividends.
+  </div>
+</div>
+
+<!-- ============ ROI ANTICIPATOR TAB ============ -->
+<div id="tab-roi" style="display:none;">
+  <p style="font-family:'Inter',sans-serif;color:#64748b;font-size:0.95rem;line-height:1.55;margin:0 0 2rem;max-width:640px;">Enter a stock, the percentage gain you're aiming for, and how much you paid. We'll tell you what to sell your position for to hit that target.</p>
+
+  <div style="background:#ffffff;border:1px solid #e2e8f0;border-radius:10px;padding:1.5rem;margin-bottom:1.5rem;">
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1.25rem;margin-bottom:1.25rem;align-items:start;">
+      <div>
+        <label for="roiTicker" style="font-family:'Inter',sans-serif;font-size:0.7rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.08em;font-weight:600;display:block;margin-bottom:0.45rem;">Stock</label>
+        <input type="text" id="roiTicker" list="roiTickerOptions" placeholder="e.g. NVDA" autocomplete="off" style="width:100%;padding:0.6rem 0.75rem;border:1px solid #e2e8f0;border-radius:6px;font-family:'Inter',sans-serif;font-size:0.9rem;font-weight:500;color:#0f1729;background:#ffffff;outline:none;box-sizing:border-box;text-transform:uppercase;">
+        <datalist id="roiTickerOptions"></datalist>
+      </div>
+      <div>
+        <label for="roiPct" style="font-family:'Inter',sans-serif;font-size:0.7rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.08em;font-weight:600;display:block;margin-bottom:0.45rem;">Target Gain (%)</label>
+        <input type="number" id="roiPct" min="0" step="1" value="20" style="width:100%;padding:0.6rem 0.75rem;border:1px solid #e2e8f0;border-radius:6px;font-family:'Inter',sans-serif;font-size:0.9rem;font-weight:500;color:#0f1729;background:#ffffff;outline:none;box-sizing:border-box;">
+      </div>
+      <div>
+        <label for="roiPaid" style="font-family:'Inter',sans-serif;font-size:0.7rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.08em;font-weight:600;display:block;margin-bottom:0.45rem;">Amount Paid ($)</label>
+        <input type="number" id="roiPaid" min="0" step="100" value="1000" style="width:100%;padding:0.6rem 0.75rem;border:1px solid #e2e8f0;border-radius:6px;font-family:'Inter',sans-serif;font-size:0.9rem;font-weight:500;color:#0f1729;background:#ffffff;outline:none;box-sizing:border-box;">
+      </div>
+    </div>
+    <button id="roiBtn" style="background:#0f1729;color:white;padding:0.65rem 1.5rem;border:none;border-radius:6px;font-family:'Inter',sans-serif;font-weight:600;font-size:0.85rem;cursor:pointer;letter-spacing:0.02em;">Calculate</button>
+  </div>
+
+  <div id="roiResults" style="display:none;"></div>
+
+  <div style="background:#f8fafc;border:1px solid #e2e8f0;border-left:3px solid #94a3b8;padding:0.95rem 1.25rem;border-radius:6px;margin-top:2rem;font-family:'Inter',sans-serif;font-size:0.85rem;color:#64748b;line-height:1.6;">
+    <strong style="color:#0f1729;font-weight:600;">Note:</strong> "Amount Paid" is the total you put into the position. The sell target is what your whole position needs to be worth to lock in your chosen gain. Figures are before fees, taxes, or dividends.
+  </div>
 </div>
 
 <script>
@@ -37,6 +77,69 @@ const MONO = "font-family:'Inter',sans-serif;";
 const SANS = "font-family:'Inter',sans-serif;";
 const LABEL_STYLE = SANS + "font-size:0.7rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.08em;font-weight:600;";
 
+function fmt(n) { return '$' + n.toFixed(2).replace(/\B(?=(\d{3})+(?!\d))/g, ','); }
+
+// ---------- Tab switching ----------
+const estTabs = document.querySelectorAll('.estTab');
+estTabs.forEach(tab => {
+  tab.addEventListener('click', () => {
+    estTabs.forEach(t => {
+      const on = t === tab;
+      t.style.borderBottomColor = on ? '#0f1729' : 'transparent';
+      t.style.color = on ? '#0f1729' : '#94a3b8';
+    });
+    document.getElementById('tab-forecasting').style.display = tab.dataset.tab === 'forecasting' ? 'block' : 'none';
+    document.getElementById('tab-roi').style.display = tab.dataset.tab === 'roi' ? 'block' : 'none';
+  });
+});
+
+// ---------- ROI Anticipator ----------
+const roiTicker = document.getElementById('roiTicker');
+const roiPct = document.getElementById('roiPct');
+const roiPaid = document.getElementById('roiPaid');
+const roiBtn = document.getElementById('roiBtn');
+const roiResults = document.getElementById('roiResults');
+
+function roiCalculate() {
+  const ticker = (roiTicker.value || '').toUpperCase().trim();
+  const pct = parseFloat(roiPct.value);
+  const paid = parseFloat(roiPaid.value);
+  if (!ticker || isNaN(pct) || isNaN(paid) || paid <= 0) {
+    roiResults.style.display = 'block';
+    roiResults.innerHTML = `<div style="background:#fff7ed;border:1px solid #fed7aa;border-left:3px solid #f59e0b;border-radius:6px;padding:0.95rem 1.25rem;${SANS}font-size:0.88rem;color:#92400e;">Enter a stock, a target %, and the amount you paid.</div>`;
+    return;
+  }
+  const sellFor = paid * (1 + pct / 100);
+  const profit = sellFor - paid;
+
+  roiResults.style.display = 'block';
+  roiResults.innerHTML = `
+    <div style="background:linear-gradient(135deg, #d1fae5 0%, white 100%);border:1px solid #e2e8f0;border-radius:10px;padding:1.5rem;margin-bottom:1rem;border-left:4px solid #065f46;">
+      <div style="${LABEL_STYLE}margin-bottom:0.6rem;">Sell ${ticker} For</div>
+      <div style="${MONO}font-size:2.3rem;font-weight:700;color:#0f1729;letter-spacing:-0.02em;line-height:1.05;">${fmt(sellFor)}</div>
+      <div style="${SANS}font-size:0.9rem;color:#64748b;margin-top:0.5rem;line-height:1.4;">to make a <strong style="color:#065f46;${MONO}font-weight:600;">${pct.toFixed(2)}%</strong> gain on what you paid.</div>
+    </div>
+
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:1rem;">
+      <div style="background:#ffffff;border:1px solid #e2e8f0;border-radius:10px;padding:1.25rem;">
+        <div style="${LABEL_STYLE}">Amount Paid</div>
+        <div style="${MONO}font-size:1.5rem;font-weight:600;color:#0f1729;margin-top:0.35rem;letter-spacing:-0.01em;">${fmt(paid)}</div>
+      </div>
+      <div style="background:#ffffff;border:1px solid #e2e8f0;border-radius:10px;padding:1.25rem;">
+        <div style="${LABEL_STYLE}">Profit at Target</div>
+        <div style="${MONO}font-size:1.5rem;font-weight:600;color:#065f46;margin-top:0.35rem;letter-spacing:-0.01em;">+${fmt(profit)}</div>
+      </div>
+      <div style="background:#ffffff;border:1px solid #e2e8f0;border-radius:10px;padding:1.25rem;">
+        <div style="${LABEL_STYLE}">Target Gain</div>
+        <div style="${MONO}font-size:1.5rem;font-weight:600;color:#0f1729;margin-top:0.35rem;letter-spacing:-0.01em;">${pct.toFixed(2)}%</div>
+      </div>
+    </div>
+  `;
+}
+roiBtn.addEventListener('click', roiCalculate);
+[roiTicker, roiPct, roiPaid].forEach(el => el.addEventListener('keydown', e => { if (e.key === 'Enter') roiCalculate(); }));
+
+// ---------- Forecasting (price-data driven) ----------
 fetch('price_data.json').then(r => r.json()).then(data => {
   const tickerInput = document.getElementById('tickerInput');
   const tickerList = document.getElementById('tickerList');
@@ -46,6 +149,11 @@ fetch('price_data.json').then(r => r.json()).then(data => {
   const results = document.getElementById('results');
 
   const eligible = Object.keys(data).filter(t => data[t].length >= 2).sort();
+
+  // Populate ROI ticker suggestions from all known tickers
+  const allTickers = Object.keys(data).sort();
+  document.getElementById('roiTickerOptions').innerHTML = allTickers.map(t => `<option value="${t}">`).join('');
+
   let selectedTicker = null;
   let highlightedIndex = 0;
   let filtered = [];
@@ -120,8 +228,6 @@ fetch('price_data.json').then(r => r.json()).then(data => {
     }
     return best;
   }
-
-  function fmt(n) { return '$' + n.toFixed(2).replace(/\B(?=(\d{3})+(?!\d))/g, ','); }
 
   function calculate() {
     if (!selectedTicker) return;
