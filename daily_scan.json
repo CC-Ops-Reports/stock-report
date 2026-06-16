@@ -1,172 +1,181 @@
 {
-  "report_date": "2026-06-15",
-  "market_tone": "Bullish",
+  "report_date": "2026-06-16",
+  "market_tone": "Mixed",
   "key_themes": [
-    "US-Iran peace deal reopens Strait of Hormuz, sparking broad market rally and oil selloff",
-    "SpaceX (SPCX) surges 20% on first full day of trading after record-breaking $75B IPO",
-    "Fox Corp acquires Roku in $22B streaming deal; Fox drops 15%, Roku jumps 11%",
-    "Memory chip stocks (Micron, Western Digital) surge on AI demand + geopolitical risk-on",
-    "Airlines rally to record highs as oil prices tumble 5%+ on Hormuz reopening hopes"
+    "SpaceX acquires Cursor AI coding tool maker Anysphere for $60B in first post-IPO deal",
+    "Fox Corp $22B acquisition of Roku triggers wave of analyst downgrades and 16% drop in FOXA",
+    "Semiconductor sector rotation as Nasdaq falls 1.15% while Dow hits fresh record ahead of Fed decision",
+    "US-Iran peace deal (announced June 15) boosts cyclicals and industrials; oil slides 5%",
+    "Huntsman-Olin all-stock merger of equals to form $12.5B chemicals giant OlinHuntsman"
   ],
   "sp500": {
-    "value": "7,573",
-    "change": "+1.74%"
+    "value": "7,548.60",
+    "change": "-0.08%"
   },
   "nasdaq": {
-    "value": "26,666",
-    "change": "+2.97%"
+    "value": "26,376.34",
+    "change": "-1.15%"
   },
   "stocks": [
     {
       "ticker": "SPCX",
-      "company": "Space Exploration Technologies Corp. (SpaceX)",
-      "reason": "First full trading day after June 12 IPO (largest in history at $75B raise); shares surged ~20% to ~$178, extending 19% debut gain; Nasdaq-listed",
+      "company": "SpaceX",
+      "reason": "Stock up ~5% after announcing $60B all-stock acquisition of Anysphere (maker of Cursor AI coding tool) \u2014 its first major deal since IPO at $135 on June 12; stock now trading at $203+",
       "category": "news",
       "sources": [
-        "CNBC",
         "Yahoo Finance",
-        "Motley Fool",
-        "NBC News"
+        "CNBC",
+        "TechTimes",
+        "Bloomberg"
       ]
     },
     {
       "ticker": "ROKU",
-      "company": "Roku Inc.",
-      "reason": "Fox Corp announced $22B acquisition at $160/share (cash + stock); ~11% premium over prior close; deal unanimously approved by both boards",
+      "company": "Roku",
+      "reason": "Fox Corp announced $22B acquisition of Roku at $160/share; stock trading at ~$140 (well below deal price), reflecting deal-close uncertainty; multiple analyst downgrades (Jefferies to Hold, Wedbush to Neutral)",
       "category": "news",
       "sources": [
-        "Fox Business",
-        "Hollywood Reporter",
-        "NBC News",
+        "CBS News",
+        "CNBC",
+        "Investing.com",
         "Yahoo Finance"
       ]
     },
     {
       "ticker": "FOXA",
-      "company": "Fox Corporation",
-      "reason": "Shares sank ~15% after announcing $22B Roku acquisition; market concerned over deal dilution and strategic stretch into streaming platform ownership",
+      "company": "Fox Corp",
+      "reason": "Shares fell 15-17% \u2014 on track for worst day on record \u2014 after announcing $22B deal to acquire Roku; investors questioning added debt, dilution, and strategic logic of the deal",
       "category": "news",
       "sources": [
         "CNBC",
-        "Fox Business",
+        "Yahoo Finance",
+        "Schaeffer's Research",
+        "Motley Fool"
+      ]
+    },
+    {
+      "ticker": "ELF",
+      "company": "e.l.f. Beauty",
+      "reason": "Stock up 6.33% on strong Q4 FY2026 earnings beat (EPS $0.32 vs $0.29 est; revenue $449.3M vs $423.2M est) and launch of new e.l.f. Hair line at Target; rhode brand growing 80% YoY",
+      "category": "earnings",
+      "sources": [
+        "StocksToTrade",
+        "Investing.com",
+        "CNBC",
+        "StockTitan"
+      ]
+    },
+    {
+      "ticker": "HUN",
+      "company": "Huntsman Corporation",
+      "reason": "Down ~9.3% in premarket after announcing all-stock merger of equals with Olin Corp to form OlinHuntsman; $12.5B combined revenue, $400M+ cost synergies; deal expected to close H1 2027",
+      "category": "news",
+      "sources": [
+        "GuruFocus",
+        "TipRanks",
+        "Bloomberg",
+        "SEC.gov"
+      ]
+    },
+    {
+      "ticker": "OLN",
+      "company": "Olin Corporation",
+      "reason": "Up ~6.7% in premarket on all-stock merger with Huntsman; Olin shareholders will own ~54.5% of combined OlinHuntsman entity; deal unanimously approved by both boards",
+      "category": "news",
+      "sources": [
+        "GuruFocus",
+        "TipRanks",
+        "Huntsman.com",
+        "SEC.gov"
+      ]
+    },
+    {
+      "ticker": "HOOD",
+      "company": "Robinhood Markets",
+      "reason": "Volatile session after announcing 10% workforce reduction (~290 jobs, $28M restructuring charges); company cited need to accelerate product velocity; stock oscillated between $96-$101",
+      "category": "news",
+      "sources": [
+        "Yahoo Finance",
+        "Barchart",
+        "Quartz",
         "Bloomberg"
       ]
     },
     {
-      "ticker": "WDC",
-      "company": "Western Digital Corp.",
-      "reason": "Surged 13-15% on combination of Iran peace deal risk-on and Morgan Stanley raising price target to $650 from $488, citing HDD demand strength and HAMR/UltraSMR progress",
-      "category": "upgrade",
+      "ticker": "EWTX",
+      "company": "Edgewise Therapeutics",
+      "reason": "Down 25% to ~$26.50 after announcing Phase 2 CIRRUS-HCM trial data for EDG-7500 in hypertrophic cardiomyopathy; \"buy the rumor, sell the news\" despite positive trial results; Phase 3 targeted Q4 2026",
+      "category": "news",
+      "sources": [
+        "GuruFocus",
+        "StockTitan",
+        "PR Newswire",
+        "Bloomberg"
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "company": "Intel",
+      "reason": "Down ~6% as semiconductors pull back broadly after recent run; VanEck Semiconductor ETF (SMH) down ~3% on the day amid rotation from growth into cyclicals ahead of Fed decision",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance",
+        "Motley Fool"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "reason": "Down on the day, among leaders of Nasdaq decline; profit-taking in chip names following strong recent run; semiconductor sector broadly retreating as investors rotate to industrials and financials",
+      "category": "sector",
       "sources": [
         "Yahoo Finance",
-        "TradingKey",
-        "Investing.com"
+        "Motley Fool",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "reason": "Down as chip sector takes a breather; earlier in June, AI networking revenue ($4.1B) missed analyst expectations ($4.8B) in Q2 earnings, weighing on sentiment; sector consolidation trade today",
+      "category": "sector",
+      "sources": [
+        "Motley Fool",
+        "Yahoo Finance",
+        "Intellectia.ai"
       ]
     },
     {
       "ticker": "MU",
       "company": "Micron Technology",
-      "reason": "Up ~8-9% to $1,061; certified as HBM4 supplier for Nvidia Vera-Rubin platform; entire FY2026 HBM production pre-sold; fiscal Q3 earnings June 24 with record $33.5B revenue guide",
-      "category": "news",
+      "reason": "Down with the semiconductor sector; part of the broader chip pullback as traders rotate out of high-beta tech names ahead of the Fed rate decision Wednesday",
+      "category": "sector",
       "sources": [
-        "Yahoo Finance",
-        "24/7 Wall St.",
-        "Investing.com"
+        "Motley Fool",
+        "Yahoo Finance"
       ]
     },
     {
-      "ticker": "UAL",
-      "company": "United Airlines Holdings",
-      "reason": "Up 3.85% to record high $119.97 on US-Iran peace deal; oil tumbled 5%+ easing jet fuel costs; prior record close of $117.53 broken",
-      "category": "news",
+      "ticker": "DOMO",
+      "company": "Domo Inc.",
+      "reason": "Q1 FY2027 earnings beat (revenue $79.63M, up 1.1% YoY, beating estimates); more importantly, Board announced it is in advanced negotiations on a potential strategic transaction / buyout",
+      "category": "earnings",
       "sources": [
-        "CNBC",
-        "StockTwits",
-        "Motley Fool"
-      ]
-    },
-    {
-      "ticker": "DAL",
-      "company": "Delta Air Lines",
-      "reason": "Up ~1.22% to record high $84.07; airline sector broadly rallied as Strait of Hormuz reopening cut fuel cost fears; US jet fuel down ~39% from peak",
-      "category": "news",
-      "sources": [
-        "StockTwits",
-        "Investing.com",
-        "Motley Fool"
-      ]
-    },
-    {
-      "ticker": "MSGS",
-      "company": "Madison Square Garden Sports Corp.",
-      "reason": "Shares climbed after New York Knicks secured first NBA Championship since 1973 by defeating San Antonio Spurs in Game 5 of NBA Finals; stock up 101% over past year",
-      "category": "news",
-      "sources": [
-        "TheStreet",
+        "StockStory",
         "GuruFocus",
-        "TIKR.com",
-        "Sportico"
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia Corporation",
-      "reason": "Up 1.77% to $225; analyst upgrade citing AI demand and HBM4 partnership with Micron; broader risk-on sentiment lifted semiconductor names",
-      "category": "upgrade",
-      "sources": [
-        "Seeking Alpha",
+        "StockTitan",
         "Bloomberg"
       ]
     },
     {
-      "ticker": "GOOG",
-      "company": "Alphabet Inc.",
-      "reason": "Analyst upgrade on well-timed capital raise strategy and emerging agentic AI capabilities; broader tech rally on Iran deal",
-      "category": "upgrade",
-      "sources": [
-        "Seeking Alpha",
-        "Globe and Mail"
-      ]
-    },
-    {
-      "ticker": "APA",
-      "company": "APA Corporation",
-      "reason": "Fell more than 5% as Brent crude tumbled ~5.2% and WTI dropped ~5.6% on US-Iran deal and Strait of Hormuz reopening reducing supply disruption fears",
+      "ticker": "LITE",
+      "company": "Lumentum Holdings",
+      "reason": "Ending a four-day positive streak, stock declining on June 16 after recent run; highlighted as midday mover by CNBC in context of broader tech sector rotation",
       "category": "sector",
       "sources": [
         "CNBC",
-        "Epoch Times",
-        "Al Jazeera"
-      ]
-    },
-    {
-      "ticker": "IBM",
-      "company": "International Business Machines",
-      "reason": "Down 2.42% to $213.40 following a cautious analyst note questioning enterprise software spending trajectory amid AI disruption",
-      "category": "downgrade",
-      "sources": [
-        "Bloomberg",
-        "TheStreet"
-      ]
-    },
-    {
-      "ticker": "ODFL",
-      "company": "Old Dominion Freight Line",
-      "reason": "Downgraded to \"sell\" from \"neutral\" by analyst; freight sector weakness; joins SAIA, KNX, CHRW which were also lowered",
-      "category": "downgrade",
-      "sources": [
-        "Globe and Mail",
-        "Seeking Alpha"
-      ]
-    },
-    {
-      "ticker": "MMM",
-      "company": "3M Company",
-      "reason": "Up 3.70% to $148.62; top Dow gainer, benefiting from renewed infrastructure spending projections in post-Iran deal risk-on environment",
-      "category": "sector",
-      "sources": [
-        "TheStreet",
-        "Bloomberg"
+        "Yahoo Finance"
       ]
     }
   ]
