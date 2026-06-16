@@ -1,151 +1,121 @@
 {
-  "report_date": "2026-06-12",
+  "report_date": "2026-06-15",
   "batch": 2,
   "stocks": [
     {
-      "ticker": "ASTS",
-      "company": "AST SpaceMobile, Inc.",
-      "discussion_driver": "ASTS dropped ~14% on June 12 as SpaceX's blockbuster IPO debut (SPCX, +19.3%) triggered sector-wide capital rotation out of existing space stocks into the newly-listed SpaceX. Despite the selloff, ASTS remains on track to launch BlueBird 8, 9, and 10 satellites aboard a Falcon 9 on June 17, which could reignite investor interest in its direct-to-phone mobile broadband service.",
+      "ticker": "UAL",
+      "company": "United Airlines Holdings",
+      "discussion_driver": "United Airlines surged 3.85% to a record high of $119.97 on June 15 as the US-Iran peace deal sent oil prices tumbling more than 5%, directly easing the company's largest variable cost. Strong Buy consensus from 24 analysts with a $130 target suggests further upside even from today's record close, underpinned by the 'United Next' premium cabin and fleet renewal strategy targeting 12-14% operating margins by 2027.",
       "bull_case": [
-        "BlueBird satellite constellation enables commercial direct-to-phone cellular coverage with AT&T and Verizon, opening a multi-billion dollar addressable market that no ground-based carrier can replicate",
-        "FCC approvals and growing telecom partner ecosystem position ASTS as the top independent alternative to SpaceX in space-based mobile broadband with a 5-6 billion potential device market"
+        "'United Next' premium cabin pivot and fleet renewal (787s, A350s) targeting 12-14% operating margins by 2027, backed by record demand for international premium leisure travel",
+        "US-Iran peace deal reopening the Strait of Hormuz sent oil down 5%+, directly reducing UAL's biggest variable cost and setting up potential 2026 earnings beats"
       ],
       "bear_case": [
-        "Stock has surged 312% over the past year and now trades above the analyst consensus price target of $82, signaling overvaluation risk if satellite launch or commercialization milestones slip",
-        "SpaceX's public listing (SPCX) gives investors direct access to a far better-capitalized competitor, undermining ASTS's premium as the only liquid space-comm proxy"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$88.00",
-      "price_target": "$82.02 (-6.8%)",
-      "pe_ratio": "N/A",
-      "rsi": "67.6",
-      "vs_52wk_high": "-34.2% below high ($133.86)",
-      "analyst_rating": "Hold",
-      "sector": "Technology - Space Communications",
-      "sources": [
-        "stockanalysis.com",
-        "investing.com",
-        "altindex.com",
-        "timothysykes.com",
-        "benzinga.com"
-      ],
-      "price_history_5d": [90.00, 95.75, 87.32, 97.56, 88.00]
-    },
-    {
-      "ticker": "SATS",
-      "company": "EchoStar Corporation",
-      "discussion_driver": "EchoStar bucked the space-sector selloff on June 12, rising 4.9% to $133.40, driven by its unique ~2.2% equity stake in SpaceX — making SATS one of the clearest public proxies for the newly-IPO'd SpaceX (SPCX). Investors piled in as SpaceX's $2T+ valuation implies significant hidden value in SATS, even as the company's core DISH pay-TV business continues to deteriorate rapidly.",
-      "bull_case": [
-        "EchoStar's ~2.2% SpaceX equity stake is a unique hidden asset; with SpaceX now valued above $2 trillion publicly, SATS's indirect exposure creates a powerful re-rating catalyst",
-        "Spectrum portfolio and satellite infrastructure are strategic assets that could attract acquirers or support debt restructuring as the satellite broadband market continues to consolidate"
-      ],
-      "bear_case": [
-        "Core DISH pay-TV business is in terminal secular decline with accelerating subscriber churn, and the company carries heavy debt with deeply negative earnings (negative PE), creating ongoing capital risk",
-        "The 800%+ 52-week surge from $14.90 to $147.25 means the SpaceX proxy premium may be largely priced in; any stumble from SpaceX or deal unwinding could rapidly collapse the trade"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$133.40",
-      "price_target": "$137.60 (+3.1%)",
-      "pe_ratio": "N/A",
-      "rsi": "N/A",
-      "vs_52wk_high": "-9.4% below high ($147.25)",
-      "analyst_rating": "Buy",
-      "sector": "Communications - Satellite & Pay TV",
-      "sources": [
-        "simplywall.st",
-        "stockanalysis.com",
-        "etoro.com",
-        "timothysykes.com",
-        "marketbeat.com"
-      ],
-      "price_history_5d": [116.62, 120.63, 115.24, 128.13, 133.40]
-    },
-    {
-      "ticker": "WDS",
-      "company": "Woodside Energy Group Ltd.",
-      "discussion_driver": "Woodside Energy surged 9% to $23.70 on June 12 after Bloomberg reported Exxon Mobil is evaluating a potential acquisition of the Australian LNG major to expand its footprint in Asian energy markets. A confirmed bid could represent a meaningful premium to WDS's recent trading range and would reshape the competitive LNG landscape. Analyst consensus targets of $23.10 were set prior to this news and may be revised upward.",
-      "bull_case": [
-        "Exxon M&A interest signals Woodside's LNG portfolio (Pluto, NWS, Scarborough) is strategically undervalued; a confirmed or competing bid could push shares well above the 52-week high of $25.19",
-        "Strong free cash flow generation from mature LNG assets, high dividend yield, and Scarborough project ramp-up support long-term value for income-oriented investors"
-      ],
-      "bear_case": [
-        "M&A rumors can dissipate quickly; without a confirmed deal, WDS could give back most of the 9% surge, and the stock now trades slightly above the pre-Bloomberg analyst consensus of $23.10",
-        "Woodside faces significant capex pressure from Scarborough LNG development, declining production from legacy assets, and LNG price volatility tied to Asian demand and geopolitical shifts"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$23.70",
-      "price_target": "$23.10 (-2.5%)",
-      "pe_ratio": "15.85",
-      "rsi": "51",
-      "vs_52wk_high": "-5.9% below high ($25.19)",
-      "analyst_rating": "Hold",
-      "sector": "Energy - LNG / Oil & Gas",
-      "sources": [
-        "gurufocus.com",
-        "wallstreetzen.com",
-        "simplywall.st",
-        "stocksguide.com",
-        "macroaxis.com"
-      ],
-      "price_history_5d": [21.40, 21.55, 21.65, 21.74, 23.70]
-    },
-    {
-      "ticker": "XOM",
-      "company": "Exxon Mobil Corporation",
-      "discussion_driver": "Exxon Mobil shares gained on June 12 as Bloomberg reported the oil major is evaluating a potential acquisition of Woodside Energy to expand its LNG portfolio and Asian market presence. Exxon's strategic focus on long-life, high-return assets aligns well with Woodside's LNG operations, and its Guyana subsidiary posted $982.5B in 2025 after-tax profit — demonstrating best-in-class project returns that underpin strong cash generation.",
-      "bull_case": [
-        "Exxon's world-class asset base — Guyana deepwater, Permian Basin, and potential LNG addition via Woodside — combined with a forward PE of just 11.7x makes XOM one of the most attractively valued integrated majors; Barclays raised its target to $182 with Overweight",
-        "25-analyst Buy consensus with a $169.91 average price target implies 15.9% upside; Exxon's capital discipline, growing dividend, and aggressive buyback program provide a strong total return framework"
-      ],
-      "bear_case": [
-        "Trailing PE of 25x is elevated for an integrated oil major and reflects compressed recent earnings; further weakness in crude or LNG prices could erode cash flows and push the stock toward the 52-week low of $105.53",
-        "A large Woodside acquisition could prove expensive, face antitrust scrutiny given Exxon's scale, and distract management from its highest-return organic growth assets in Guyana and the Permian"
+        "Heavy debt load (~$50B enterprise value vs. only ~$916M LTM levered FCF) leaves limited cushion if fuel prices reverse or a recession dampens travel demand",
+        "Airline multiples are highly cyclical — a macro downturn or geopolitical reversal could compress both earnings and UAL's already-low 8x PE simultaneously"
       ],
       "recommendation": "Buy",
-      "current_price": "$146.60",
-      "price_target": "$169.91 (+15.9%)",
-      "pe_ratio": "25.24",
-      "rsi": "49",
-      "vs_52wk_high": "-16.9% below high ($176.41)",
-      "analyst_rating": "Buy",
-      "sector": "Energy - Integrated Oil & Gas",
-      "sources": [
-        "stockanalysis.com",
-        "tipranks.com",
-        "tradersunion.com",
-        "gurufocus.com",
-        "marketscreener.com"
-      ],
-      "price_history_5d": [148.00, 147.47, 150.62, 145.02, 146.60]
+      "current_price": "$119.97",
+      "price_target": "$130.04 (+8.4%)",
+      "pe_ratio": "8.04",
+      "rsi": "63.54",
+      "vs_52wk_high": "-3.9% below high ($124.79)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Industrials - Airlines",
+      "sources": ["Yahoo Finance", "Benzinga", "GuruFocus", "InsiderMonkey", "Simply Wall St", "StockTwits"],
+      "price_history_5d": [108.93, 105.14, 112.61, 115.52, 119.97]
     },
     {
-      "ticker": "CRWV",
-      "company": "CoreWeave, Inc.",
-      "discussion_driver": "CoreWeave gained approximately 7% on June 12 after Nasdaq officially confirmed its inclusion in the Nasdaq-100 index effective June 22, a move that will trigger mandatory purchases from index-tracking ETFs including QQQ. CoreWeave, the leading independent GPU cloud provider for AI training and inference workloads, also benefits from sustained enterprise demand for AI infrastructure and long-term contracted revenue anchored by Microsoft.",
+      "ticker": "DAL",
+      "company": "Delta Air Lines",
+      "discussion_driver": "Delta Air Lines hit a new all-time closing high of $84.07 on June 15 as the airline sector rallied broadly on the US-Iran peace deal and collapsing oil prices — US jet fuel is already down ~39% from its peak. Despite the Strong Buy consensus, DAL now trades at or above most analyst price targets, suggesting much of the fuel tailwind may already be priced into shares.",
       "bull_case": [
-        "Nasdaq-100 inclusion effective June 22 creates structural passive-fund buying demand from ETFs tracking the index, including the $300B+ QQQ, which historically drives post-inclusion outperformance",
-        "CoreWeave's exclusive GPU clusters and long-term contracted AI infrastructure revenue (including a $10B+ Microsoft commitment) position it as a critical provider in the multi-hundred-billion-dollar AI compute buildout"
+        "Strait of Hormuz reopening has pushed US jet fuel ~39% below its peak, materially improving DAL's cost structure and setting up potential 2026 earnings beats if fuel prices stay suppressed",
+        "Delta's premium loyalty and co-brand credit card revenue provides high-margin, recurring income that is structurally less exposed to fuel price swings than core ticket revenue"
       ],
       "bear_case": [
-        "CoreWeave is deeply unprofitable (negative PE) and has fallen -45.5% from its 52-week high; its $3.25B+ in high-yield senior notes create significant balance sheet risk if AI spending growth slows",
-        "Hyperscalers (AWS, Azure, Google Cloud) are rapidly building their own GPU infrastructure, potentially undercutting CoreWeave's pricing power and pulling enterprise customers in-house over time"
+        "Stock trading at or above median analyst consensus price target of ~$80-$84, suggesting limited near-term fundamental upside even with positive fuel tailwinds already baked in",
+        "Substantial long-term debt and fleet investment commitments amplify downside risk in a recession scenario or if energy markets reverse on renewed geopolitical volatility"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$84.07",
+      "price_target": "$84.25 (+0.2%)",
+      "pe_ratio": "11.97",
+      "rsi": "N/A",
+      "vs_52wk_high": "At 52-week high (new record: $84.07)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Industrials - Airlines",
+      "sources": ["eToro", "StockAnalysis.com", "Investing.com", "Motley Fool", "StockTwits"],
+      "price_history_5d": [81.17, 83.06, 84.07]
+    },
+    {
+      "ticker": "MSGS",
+      "company": "Madison Square Garden Sports Corp.",
+      "discussion_driver": "Madison Square Garden Sports shares climbed after the New York Knicks defeated the San Antonio Spurs 94-90 in Game 5 of the NBA Finals on June 13, winning their first championship since 1973 — Jalen Brunson scored 45 points and won Finals MVP. The stock is up 101% over the past year on Knicks playoff enthusiasm and Guggenheim raised its target to $477 in June 2026; however, negative earnings and a post-championship 'sell the news' risk make valuation highly speculative.",
+      "bull_case": [
+        "First NBA championship in 53 years substantially boosts Knicks franchise value through new jersey/licensing deals, premium sponsorships, and naming rights — Guggenheim's $477 target reflects this commercial upside",
+        "Potential spin-off of sports franchises (Knicks/Rangers) from MSG real estate and Sphere assets could unlock meaningful sum-of-parts value currently obscured by the conglomerate structure"
+      ],
+      "bear_case": [
+        "Negative trailing EPS (-$0.69 TTM) means there is no fundamental earnings floor; a sentiment shift or championship euphoria fade could trigger a sharp selloff from elevated levels",
+        "Stock is up 101% in the past year and recently traded near its all-time high — classic 'buy the rumor, sell the news' risk as the championship catalyst was widely anticipated by markets"
       ],
       "recommendation": "Speculative Buy",
-      "current_price": "$102.03",
-      "price_target": "$140.18 (+37.4%)",
+      "current_price": "$384.68",
+      "price_target": "$477.00 (+24.0%)",
       "pe_ratio": "N/A",
-      "rsi": "40.65",
-      "vs_52wk_high": "-45.5% below high ($187.00)",
+      "rsi": "N/A",
+      "vs_52wk_high": "-3.1% below high ($397.00)",
       "analyst_rating": "Buy",
-      "sector": "Technology - AI Cloud Infrastructure",
-      "sources": [
-        "stockanalysis.com",
-        "tradingkey.com",
-        "coincentral.com",
-        "cnn.com/markets",
-        "marketscreener.com"
+      "sector": "Communication Services - Sports Entertainment",
+      "sources": ["GuruFocus", "TheStreet", "TIKR.com", "Sportico", "CNBC", "Guggenheim Research"],
+      "price_history_5d": [393.68, 384.68]
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia Corporation",
+      "discussion_driver": "Nvidia rose 1.77% to $225 on June 15 as risk-on sentiment from the US-Iran peace deal lifted semiconductor names, while analyst upgrades highlighted Nvidia's dominant AI infrastructure position and HBM4 partnership with Micron for the Vera-Rubin platform. With 62 analysts rating the stock Strong Buy and a consensus target of $299 — representing ~33% upside — Nvidia continues to trade at a meaningful discount to where the Street believes it belongs on AI demand fundamentals.",
+      "bull_case": [
+        "Certified as HBM4 memory supplier for Nvidia's next-gen Vera-Rubin platform with entire FY2026 HBM production pre-sold, signaling extraordinary AI infrastructure demand visibility and pricing power",
+        "Hyperscaler AI capex (Microsoft, Amazon, Google, Meta) remains at record levels with no signs of slowing; Nvidia's architectural moat in data center GPU compute is increasingly difficult for competitors to displace"
       ],
-      "price_history_5d": [100.50, 98.00, 95.61, 95.74, 102.03]
+      "bear_case": [
+        "41x trailing PE ratio is rich and fully embeds sustained explosive growth; any deceleration in data center capex or an earnings miss could trigger a sharp de-rating from elevated multiples",
+        "US export controls on advanced AI chips to China and evolving semiconductor geopolitics represent a meaningful and difficult-to-quantify revenue risk for a company with global ambitions"
+      ],
+      "recommendation": "Buy",
+      "current_price": "$225.00",
+      "price_target": "$298.93 (+32.9%)",
+      "pe_ratio": "41.28",
+      "rsi": "51.14",
+      "vs_52wk_high": "-4.9% below high ($236.54)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Technology - Semiconductors",
+      "sources": ["Yahoo Finance", "Seeking Alpha", "Bloomberg", "MacroTrends", "GuruFocus", "24/7 Wall St."],
+      "price_history_5d": [225.00]
+    },
+    {
+      "ticker": "GOOG",
+      "company": "Alphabet Inc.",
+      "discussion_driver": "Alphabet shares rose ~2.7% to approximately $368 on June 15, lifted by the broad tech rally following the US-Iran peace deal and a TD Cowen Buy upgrade with a $475 target citing AI Search enhancements and Google Cloud expansion. With 63 analysts rating the stock Strong Buy and a consensus target of $433 implying ~18% upside, Alphabet offers relative value in mega-cap tech at 29x PE versus a peer average of 33.5x.",
+      "bull_case": [
+        "Agentic AI capabilities and Gemini integration across Search and Cloud position Alphabet to capture AI-driven monetization at massive scale; TD Cowen's $475 target and the $433 consensus reflect high conviction in this secular growth driver",
+        "Alphabet trades at 27-29x PE vs. peer average of 33.5x, offering relative value in mega-cap tech with robust free cash flow supporting aggressive buybacks and continued AI R&D investment"
+      ],
+      "bear_case": [
+        "RSI of ~42 reflects recent underperformance versus peers; the stock sits ~9% below its May 2026 all-time high amid lingering investor concerns about Search market share threats from AI competitors (Perplexity, ChatGPT, Copilot)",
+        "Ongoing DOJ antitrust proceedings and potential structural remedies could constrain Google's ability to maintain its Search distribution monopoly and threaten its core advertising revenue engine"
+      ],
+      "recommendation": "Buy",
+      "current_price": "~$367.79",
+      "price_target": "$432.83 (+17.7%)",
+      "pe_ratio": "29.35",
+      "rsi": "42.37",
+      "vs_52wk_high": "-9.1% below high ($404.47)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Technology - Internet / Cloud / AI",
+      "sources": ["S&P Global", "TD Cowen", "TradingKey", "StockAnalysis.com", "Simply Wall St", "MacroTrends"],
+      "price_history_5d": [358.16, 367.79]
     }
   ]
 }
