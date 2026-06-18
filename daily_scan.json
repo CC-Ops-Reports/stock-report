@@ -1,166 +1,166 @@
 {
-  "report_date": "2026-06-17",
-  "market_tone": "Bearish",
+  "report_date": "2026-06-18",
+  "market_tone": "Bullish",
   "key_themes": [
-    "Fed hawkish shock: Warsh's first FOMC leaves rates at 3.5-3.75% but dot plot surges to 3.8% median, signaling late-2026 rate hike",
-    "SpaceX (SPCX) post-IPO volatility: shares reverse gains, falling ~5% as macro headwinds hit newly-public meme-stock darling",
-    "Chemicals sector M&A: Huntsman + Olin announce $12B+ all-stock merger of equals to form OlinHuntsman Corp"
+    "US-Iran peace deal reopens Strait of Hormuz \u2014 oil prices tumble, energy stocks sell off sharply",
+    "Trump-brokered Apple-Intel chip manufacturing partnership ignites broad semiconductor rally",
+    "Fed aftermath & earnings season: CarMax surges on big beat, Kroger slumps on EPS miss, Accenture craters on weak outlook"
   ],
   "sp500": {
-    "value": "7,420.10",
-    "change": "-1.21%"
+    "value": "7,496.48",
+    "change": "+1.0%"
   },
   "nasdaq": {
-    "value": "26,021.66",
-    "change": "-1.34%"
+    "value": "26,394.71",
+    "change": "+1.4%"
   },
   "stocks": [
     {
-      "ticker": "SPCX",
-      "company": "Space Exploration Technologies Corp (SpaceX)",
-      "reason": "Post-IPO (debuted June 12 at $135) shares fell ~5% today as hawkish Fed signals and bond yield spike deflated meme-stock momentum; CNBC flagged technical factors driving outsized volatility",
+      "ticker": "INTC",
+      "company": "Intel Corporation",
+      "reason": "Surged ~10.5% after President Trump announced he brokered an Apple-Intel semiconductor manufacturing partnership, whereby Intel will produce chips for Apple \u2014 a landmark win for Intel's foundry business",
       "category": "news",
       "sources": [
         "CNBC",
+        "Bloomberg",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk Corporation",
+      "reason": "Jumped ~11% riding the semiconductor wave from the Apple-Intel partnership news; broader memory/storage sector caught in the rally as tech sentiment surged",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Barchart",
+        "TradingKey"
+      ]
+    },
+    {
+      "ticker": "MRVL",
+      "company": "Marvell Technology",
+      "reason": "Rose ~12% premarket on announcement that it has shipped over 5 million photonic chips; also set to join the S&P 500 on June 22, replacing Pool Corporation",
+      "category": "news",
+      "sources": [
         "Yahoo Finance",
         "Bloomberg"
       ]
     },
     {
-      "ticker": "LZB",
-      "company": "La-Z-Boy Inc.",
-      "reason": "Q4 FY2026 earnings crushed estimates: EPS $1.26 vs. $0.82 consensus; revenue $570.34M vs. $569.23M est.; announced $300M share buyback; shares surged ~17.7% after hours",
-      "category": "earnings",
+      "ticker": "QS",
+      "company": "QuantumScape Corporation",
+      "reason": "Surged 16.5% to $8.04 after announcing a joint multi-year solid-state battery R&D agreement with Honda R&D Co., deepening Honda's commitment following successful technology evaluation",
+      "category": "news",
       "sources": [
-        "Yahoo Finance",
-        "Bloomberg",
-        "Benzinga"
+        "QuantumScape IR",
+        "Motley Fool",
+        "Quiver Quant",
+        "Investing.com"
       ]
     },
     {
       "ticker": "KMX",
       "company": "CarMax Inc.",
-      "reason": "Q1 FY2027 earnings beat: EPS $1.31 vs. $0.96 est.; revenue $8.01B vs. $7.39B est.; stock pulled back ~2.4% premarket despite the beat as investors remain cautious on outlook",
+      "reason": "Jumped ~10% on Q1 FY2027 earnings beat: EPS of $1.31 vs $0.94 estimate (39.6% surprise), revenue $8.01B (+6.2% YoY) above estimates; 8+ analysts raised price targets",
       "category": "earnings",
       "sources": [
-        "Bloomberg",
-        "Investing.com",
+        "Yahoo Finance",
+        "Zacks",
         "Benzinga"
       ]
     },
     {
-      "ticker": "QURE",
-      "company": "UniQure N.V.",
-      "reason": "Shares soared ~75% after FDA agreed with company's plan to file a Biologics License Application for its gene therapy targeting Huntington's disease, clearing a major regulatory milestone",
-      "category": "news",
+      "ticker": "ENPH",
+      "company": "Enphase Energy",
+      "reason": "Rose ~10% after Barclays upgraded from Underweight to Equal Weight (new PT $51 vs prior $30) citing solid-state transformer opportunity in data centers; also began production shipments of new IQ9S microinverters",
+      "category": "upgrade",
       "sources": [
         "CNBC",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "HUN",
-      "company": "Huntsman Corporation",
-      "reason": "Announced $12B+ all-stock merger of equals with Olin Corp to form OlinHuntsman Corporation; Mizuho upgraded to Neutral from Underperform (PT $14 from $10) on deal announcement",
-      "category": "news",
-      "sources": [
-        "PR Newswire",
-        "Huntsman IR",
         "GuruFocus",
-        "Yahoo Finance"
+        "Nasdaq"
       ]
     },
     {
-      "ticker": "OLN",
-      "company": "Olin Corporation",
-      "reason": "Announced $12B+ all-stock merger of equals with Huntsman Corp; deal expected to generate $400M+ in cost synergies; OlinHuntsman HQ to be in Texas under Olin CEO Ken Lane",
-      "category": "news",
+      "ticker": "GLW",
+      "company": "Corning Inc.",
+      "reason": "Advanced ~7% midday, part of the broader technology infrastructure and photonics rally tied to AI data-center buildout demand",
+      "category": "sector",
       "sources": [
-        "PR Newswire",
-        "StockTitan",
-        "SEC 8-K"
+        "CNBC"
       ]
     },
     {
-      "ticker": "LYFT",
-      "company": "Lyft Inc.",
-      "reason": "Rothschild & Co Redburn upgraded to Buy from Neutral, raising PT to $22 from $17, arguing autonomous vehicles will drive substantial TAM expansion for ride-hailing platforms",
-      "category": "upgrade",
+      "ticker": "ACN",
+      "company": "Accenture PLC",
+      "reason": "Crashed ~20% to ~$128 after Q3 FY2026 earnings revealed disappointing revenue outlook ($18.7B revenue reported) with weaker bookings attributed to geopolitical headwinds and declining U.S. federal business",
+      "category": "earnings",
       "sources": [
         "Yahoo Finance",
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "INTC",
-      "company": "Intel Corporation",
-      "reason": "Shares up ~3.6% to $121.28 after Intel announced its 18A-P process node entered risk production at the 2026 VLSI Symposium, meeting its timeline; Bernstein raised PT from $65 to $100",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "MarketBeat",
-        "Investing.com"
-      ]
-    },
-    {
-      "ticker": "FIG",
-      "company": "Figma Inc.",
-      "reason": "Shares up ~7% as activist investor Findell Capital pushes board to review governance and relationship with Anthropic following Claude Design launch; Config 2026 AI revenue beat also in focus",
-      "category": "news",
-      "sources": [
-        "StocksToTrade",
-        "Yahoo Finance",
-        "Investing.com"
-      ]
-    },
-    {
-      "ticker": "LDOS",
-      "company": "Leidos Holdings Inc.",
-      "reason": "BofA downgraded to Neutral from Buy; slashed PT from $200 to $125 citing increasing pressure across the \"once blooming\" healthcare IT portfolio",
-      "category": "downgrade",
-      "sources": [
-        "Yahoo Finance",
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "RMD",
-      "company": "ResMed Inc.",
-      "reason": "Morgan Stanley analyst David Bailey downgraded to Equal-Weight from Overweight; PT cut from $286 to $230, flagging lack of clear drivers of upside relative to peers",
-      "category": "downgrade",
-      "sources": [
-        "Benzinga",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "CRL",
-      "company": "Charles River Laboratories International Inc.",
-      "reason": "Morgan Stanley upgraded to Overweight from Equal Weight; PT raised to $220 from $185, citing strong uptick in biopharma funding now transitioning into RFPs and bookings",
-      "category": "upgrade",
-      "sources": [
-        "Yahoo Finance",
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "ICCM",
-      "company": "IceCure Medical Ltd.",
-      "reason": "Surged ~187% after reporting a 70% jump in active U.S. commercial install base for its breast cancer cryoablation system, signaling rapid post-FDA-clearance adoption",
-      "category": "news",
-      "sources": [
-        "Yahoo Finance",
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "ASTS",
-      "company": "AST SpaceMobile Inc.",
-      "reason": "Shares climbed ~5-6% in premarket after company announced successful launch of three new satellites into orbit, expanding its direct-to-device broadband constellation",
-      "category": "news",
-      "sources": [
-        "CNBC",
         "Bloomberg"
+      ]
+    },
+    {
+      "ticker": "KR",
+      "company": "Kroger Co.",
+      "reason": "Fell 6-8% after Q1 EPS of $1.58 (ex-items) narrowly missed the $1.59 analyst consensus; revenue of $46.12B was in-line; full-year guidance left unchanged",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "GuruFocus",
+        "ChartMill"
+      ]
+    },
+    {
+      "ticker": "STLD",
+      "company": "Steel Dynamics Inc.",
+      "reason": "Dropped ~7% after Q2 2026 earnings guidance of $3.51-$3.55/share came in far below Wall Street consensus of $4.16; guidance cut partly due to asset write-downs from relocating aluminum slab center from Arizona to Mississippi",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "PR Newswire",
+        "SEC Filing"
+      ]
+    },
+    {
+      "ticker": "COP",
+      "company": "ConocoPhillips",
+      "reason": "Fell ~3% as the US-Iran peace MOU (signed in Switzerland) is set to reopen the Strait of Hormuz, sending WTI crude to its lowest level since the conflict began (~$73.58/bbl)",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "Investing.com",
+        "Sherwood News"
+      ]
+    },
+    {
+      "ticker": "XOM",
+      "company": "Exxon Mobil Corporation",
+      "reason": "Declined ~2.7% as the US-Iran peace deal and expected Strait of Hormuz reopening sent oil prices sharply lower, pressuring the entire energy sector",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "CVX",
+      "company": "Chevron Corporation",
+      "reason": "Lost ~2.1% in broad energy sector selloff following the US-Iran peace agreement that is expected to restore oil flow through the Strait of Hormuz",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "TPR",
+      "company": "Tapestry Inc.",
+      "reason": "Fell ~2% to $145.88 despite posting a strong Q1 revenue beat of $1.92B (+21.2% YoY, 7.6% above estimates); profit-taking or guidance caution may have weighed on the luxury goods stock",
+      "category": "earnings",
+      "sources": [
+        "TheStreet",
+        "ts2.tech"
       ]
     }
   ]
