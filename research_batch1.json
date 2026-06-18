@@ -1,137 +1,135 @@
 {
-  "report_date": "2026-06-15",
+  "report_date": "2026-06-17",
   "batch": 1,
-  "market_tone": "Bullish",
+  "market_tone": "Bearish",
   "key_themes": [
-    "US-Iran peace deal reopens Strait of Hormuz, sparking broad market rally and oil selloff",
-    "SpaceX (SPCX) surges 20% on first full day of trading after record-breaking $75B IPO",
-    "Fox Corp acquires Roku in $22B streaming deal; Fox drops 15%, Roku jumps 11%",
-    "Memory chip stocks (Micron, Western Digital) surge on AI demand + geopolitical risk-on",
-    "Airlines rally to record highs as oil prices tumble 5%+ on Hormuz reopening hopes"
+    "Fed hawkish shock: Warsh's first FOMC leaves rates at 3.5-3.75% but dot plot surges to 3.8% median, signaling late-2026 rate hike",
+    "SpaceX (SPCX) post-IPO volatility: shares reverse gains, falling ~5% as macro headwinds hit newly-public meme-stock darling",
+    "Chemicals sector M&A: Huntsman + Olin announce $12B+ all-stock merger of equals to form OlinHuntsman Corp"
   ],
   "sp500": {
-    "value": "7,573",
-    "change": "+1.74%"
+    "value": "7,420.10",
+    "change": "-1.21%"
   },
   "nasdaq": {
-    "value": "26,666",
-    "change": "+2.97%"
+    "value": "26,021.66",
+    "change": "-1.34%"
   },
   "stocks": [
     {
       "ticker": "SPCX",
-      "company": "Space Exploration Technologies Corp. (SpaceX)",
-      "discussion_driver": "SpaceX completed its record-breaking $85.7B IPO on June 12, 2026 — the largest in U.S. history — opening at $135 and closing up 19% on debut day. On June 15 (its second trading day), shares extended gains another ~10% to $177.99, pushing the market cap above $2.28 trillion. The IPO overallotment was fully exercised, and Starlink subscriber growth, Falcon 9 launch dominance, and Starship development fueled investor enthusiasm despite the company still being GAAP-unprofitable.",
+      "company": "Space Exploration Technologies Corp (SpaceX)",
+      "discussion_driver": "SpaceX debuted June 12 at $135 in the largest IPO ever, surging to an intraday ATH of $225.64 before falling ~5% on June 17 as hawkish Fed signals dampened meme-stock momentum. With only a small retail float relative to its ~$1.9T+ implied valuation, price discovery is nascent and highly sentiment-driven.",
       "bull_case": [
-        "Starlink satellite internet is a rapidly growing, recurring-revenue business with 3M+ subscribers and near-global coverage, providing a durable moat that differentiates SpaceX from pure-launch competitors.",
-        "Record institutional demand (IPO fully oversubscribed) and $85.7B raised confirms SpaceX's position as one of the most consequential companies ever to go public, with Starship offering an entirely new commercial paradigm if flights succeed."
+        "Starlink and Starship revenue potential creates a multi-trillion dollar long-term growth story in commercial space and satellite internet",
+        "Largest IPO in history reflects massive institutional and retail demand, validating the commercial space economy at scale"
       ],
       "bear_case": [
-        "SpaceX reported a net loss of -$4.28B last quarter and has a P/E ratio of N/A due to negative earnings; at a $2.28T valuation, the company is priced for flawless execution across every business line for decades.",
-        "The stock has already surged past the analyst consensus price target of $164 after just two trading days, meaning even 'Buy'-rated analysts see the stock as overvalued at current levels."
+        "Former Nasdaq chief warns SPCX is not trading on fundamentals; meme-stock momentum can unwind sharply with the limited public float amplifying downside volatility",
+        "Fed hawkish shock and bond yield spike directly pressure speculative-growth premiums; macro headwinds could deflate the sentiment-driven valuation"
       ],
       "recommendation": "Speculative Buy",
-      "current_price": "$177.99",
-      "price_target": "$164.00 (-7.9%)",
+      "current_price": "$191.82",
+      "price_target": "$188.33 (-1.8%)",
       "pe_ratio": "N/A",
-      "rsi": "55",
-      "vs_52wk_high": "-0.8% below high ($179.43)",
-      "analyst_rating": "Buy",
-      "sector": "Aerospace & Defense - Space Technology",
-      "sources": ["CNBC", "GuruFocus", "TradingKey", "MarketBeat", "Investing.com"],
-      "price_history_5d": [160.95, 177.99]
-    },
-    {
-      "ticker": "ROKU",
-      "company": "Roku Inc.",
-      "discussion_driver": "Fox Corporation announced today (June 15) a definitive agreement to acquire Roku for $160.00 per share in a combination of cash ($96.00/share) and FOX Class A stock (0.9693 shares per Roku share), valuing Roku at ~$22B in enterprise value. The deal confirmed long-running takeover speculation that had sent Roku up 20% on June 12 on analyst upgrades and index addition. With the official deal announcement, Roku shares now trade as a merger arbitrage play at a ~12.6% discount to the $160 deal price, as regulatory approval and closing is expected in H1 2027.",
-      "bull_case": [
-        "The Fox $160/share acquisition offer provides a hard floor and confirmed upside of ~12.6% from current prices if the deal closes as expected; both boards unanimously approved the transaction.",
-        "Roku's 100M+ global connected TV households and first-party audience data make it the largest independent streaming gateway in the U.S., combining with Fox's live sports, Fox News, and Tubi to create a powerful live+streaming platform."
-      ],
-      "bear_case": [
-        "Jefferies and William Blair downgraded Roku to Hold post-announcement; the deal closes in H1 2027, leaving shares exposed to 12+ months of regulatory risk, deal-break risk, and stock-consideration value fluctuations tied to FOXA performance.",
-        "The $160 acquisition price caps meaningful upside from current levels; if the deal is blocked or falls through, ROKU could retrace sharply toward pre-announcement levels (~$119-$120)."
-      ],
-      "recommendation": "Hold",
-      "current_price": "$142.08",
-      "price_target": "$149.00 (+4.9%)",
-      "pe_ratio": "179.77",
-      "rsi": "65",
-      "vs_52wk_high": "-4.6% below high ($148.88)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Streaming Platform / Connected TV",
-      "sources": ["Hollywood Reporter", "Fox Business", "Yahoo Finance", "Investing.com", "Benzinga", "PRNewswire"],
-      "price_history_5d": [119.62, 143.66, 142.08]
-    },
-    {
-      "ticker": "FOXA",
-      "company": "Fox Corporation",
-      "discussion_driver": "Fox Corporation shocked markets today by announcing a $22B acquisition of Roku at $160/share in a cash-and-stock deal. FOXA shares plunged ~17% on the news, with the deal reference price set at $66.03 (10-day VWAP as of June 10). Investors punished Fox for what they perceive as an expensive acquisition that significantly dilutes shareholders (adding ~30M+ FOX Class A shares) and stretches the balance sheet. The stock's reaction represents one of the worst single-day M&A-driven sell-offs for a major U.S. media company in recent memory.",
-      "bull_case": [
-        "The Fox-Roku combination creates a compelling live TV + streaming platform with 100M connected TV households, giving Fox a dominant connected TV distribution channel for Fox News, Fox Sports, and Tubi — arguably the most valuable streaming combination after Netflix and Disney+.",
-        "Morgan Stanley maintained a $70 price target post-deal, implying over 28% upside from today's depressed close; long-term strategic synergies from unified ad-tech, first-party data, and live sports monetization could justify the premium paid."
-      ],
-      "bear_case": [
-        "The market's -17% single-day reaction signals decisive investor disapproval; at 0.9693 FOX Class A shares per Roku share, Fox is issuing significant equity at a discount to the target's valuation, potentially permanently diluting existing Fox shareholders.",
-        "The deal does not close until H1 2027, creating over 12 months of M&A overhang, regulatory scrutiny from DOJ/FTC, and balance sheet uncertainty; any weakening of FOXA stock could erode the stock-consideration value and complicate the deal."
-      ],
-      "recommendation": "Hold",
-      "current_price": "$54.52",
-      "price_target": "$70.00 (+28.4%)",
-      "pe_ratio": "17.75",
       "rsi": "N/A",
-      "vs_52wk_high": "-28.6% below high ($76.39)",
+      "vs_52wk_high": "-15.0% below high ($225.64)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - Aerospace & Defense",
+      "sources": ["CNBC", "TradingKey", "Investing.com", "Yahoo Finance", "MarketBeat"],
+      "price_history_5d": [160.95, 192.50, 201.80, 191.82]
+    },
+    {
+      "ticker": "LZB",
+      "company": "La-Z-Boy Inc.",
+      "discussion_driver": "La-Z-Boy delivered a standout Q4 FY2026 with EPS of $1.26 — 54% above the $0.82 consensus — and announced a $300M share buyback program. Shares surged ~17.7% after hours, pushing the stock to a new 52-week high as management signaled confidence through accelerating capital return.",
+      "bull_case": [
+        "Q4 FY2026 EPS of $1.26 crushed $0.82 consensus (+54%), demonstrating strong operational execution and demand resilience in home furnishings",
+        "$300M buyback authorization plus a history of 10% annual dividend growth signal management confidence and provide meaningful shareholder return support"
+      ],
+      "bear_case": [
+        "Consumer discretionary weakness from a hawkish Fed and elevated rates could pressure big-ticket furniture purchases into FY2027",
+        "Thin analyst coverage (only 2 analysts) limits institutional price discovery and leaves the stock vulnerable to sharp moves on any guidance change"
+      ],
+      "recommendation": "Buy",
+      "current_price": "$41.72",
+      "price_target": "$44.50 (+6.7%)",
+      "pe_ratio": "17.95",
+      "rsi": "42.22",
+      "vs_52wk_high": "-0.9% below high ($42.10)",
+      "analyst_rating": "Buy",
+      "sector": "Consumer Discretionary - Furniture",
+      "sources": ["Yahoo Finance", "Benzinga", "Investing.com", "StocksToTrade", "TimothySykes"],
+      "price_history_5d": [37.78, 35.06, 41.72]
+    },
+    {
+      "ticker": "KMX",
+      "company": "CarMax Inc.",
+      "discussion_driver": "CarMax beat Q1 FY2027 estimates soundly — EPS $1.31 vs. $0.96 est. (+36%), revenue up 6.2% to $8.0B — but shares declined ~2.4% premarket as investors processed cautious commentary on used-vehicle margins and price normalization. The stock trades at a significant premium to analyst targets despite bottom-of-cycle dynamics in auto retail.",
+      "bull_case": [
+        "Q1 FY2027 EPS of $1.31 beat the $0.96 consensus by 36%, with total unit sales up 3.3% YoY and wholesale units surging 8.4%, demonstrating resilient volume",
+        "CarMax Auto Finance (CAF) is emerging as a high-margin growth driver, successfully expanding into the broader credit spectrum beyond prime borrowers"
+      ],
+      "bear_case": [
+        "Wall Street consensus price target of $42.15 sits ~18% below the current $51.30, with Barclays maintaining Underweight at $31 — institutional skepticism on valuation is significant",
+        "Trailing PE of 32.2x is well above the 5-year median of 20.6x; ongoing margin pressure from used-vehicle price normalization and profit-dilutive price cuts are structural headwinds"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$51.30",
+      "price_target": "$42.15 (-17.8%)",
+      "pe_ratio": "32.17",
+      "rsi": "N/A",
+      "vs_52wk_high": "-28.7% below high ($71.99)",
       "analyst_rating": "Hold",
-      "sector": "Communication Services - Media & Entertainment",
-      "sources": ["CNBC", "Fox Business", "Bloomberg", "Yahoo Finance", "PRNewswire", "TheStreet"],
-      "price_history_5d": [65.85, 54.52]
+      "sector": "Consumer Discretionary - Auto Retail",
+      "sources": ["Bloomberg", "Investing.com", "MarketBeat", "StockTitan", "GuruFocus"],
+      "price_history_5d": [52.21, 52.11, 51.30]
     },
     {
-      "ticker": "WDC",
-      "company": "Western Digital Corp.",
-      "discussion_driver": "Western Digital surged 13.6% today to ~$639 after Morgan Stanley raised its price target to $650 (maintaining Overweight) on strong HDD demand from AI data centers. This follows JPMorgan's June 11 upgrade (target raised to $650 from $530) and broader risk-on sentiment from the US-Iran peace deal. WDC's Q3 FY2026 results showed revenue up 45% YoY to $3.34B, margin expansion, and a 20% dividend increase. The HAMR and UltraSMR technology roadmap positions WDC as the dominant supplier of high-capacity HDDs for AI training infrastructure.",
+      "ticker": "QURE",
+      "company": "uniQure N.V.",
+      "discussion_driver": "Shares surged ~75% after the FDA agreed with uniQure's plan to file a BLA for AMT-130 in Huntington's disease, targeting Q3 2026 submission for accelerated approval review. This Type B meeting outcome removes the biggest binary regulatory risk and is a major de-risking event for the only gene therapy program in late-stage development for HD.",
       "bull_case": [
-        "AI data center buildout is driving unprecedented demand for high-capacity HDDs; WDC's HAMR and UltraSMR technologies enable 50TB+ drives with no NAND competition at these densities, creating a structural tailwind with improving ASPs and margins.",
-        "Q3 FY2026 revenue of $3.34B (+45% YoY) with a 20% dividend raise demonstrates management confidence; Morgan Stanley and JPMorgan both targeting $650, with additional upside if hyperscaler capex continues its ~40% annual growth trajectory."
+        "FDA acceptance of the BLA filing pathway for AMT-130 removes the primary regulatory binary risk and opens a clear route to accelerated approval for the first Huntington's disease gene therapy",
+        "Q3 2026 BLA submission timeline established; accelerated approval could enable commercial launch within 12-18 months, with no currently approved HD treatments on market"
       ],
       "bear_case": [
-        "WDC's stock surged over 21% in just one week (from ~$529 to $640), pulling forward near-term appreciation; Morgan Stanley's $650 target is only 1.6% above today's close, suggesting limited near-term upside from analyst targets.",
-        "WDC operates in a cyclical industry; a slowdown in AI capex spending or a meaningful correction in tech sentiment could cause rapid multiple compression for a stock now trading at 34x trailing earnings."
+        "Clinical-stage biotech with no revenues and high cash burn — remains dependent on capital markets with a negative earnings profile until potential commercialization",
+        "Huntington's disease affects approximately 30,000 US patients, creating a narrow commercial ceiling; current analyst price targets (~$45 avg) are now below the post-surge price of $47.67"
       ],
-      "recommendation": "Buy",
-      "current_price": "$639.83",
-      "price_target": "$650.00 (+1.6%)",
-      "pe_ratio": "34.3",
-      "rsi": "70",
-      "vs_52wk_high": "-2.9% below high ($658.80)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Technology - Data Storage (HDD)",
-      "sources": ["GuruFocus", "Morgan Stanley", "StocksToTrade", "Yahoo Finance", "Investing.com"],
-      "price_history_5d": [529.29, 562.92, 639.83]
+      "recommendation": "Speculative Buy",
+      "current_price": "$47.67",
+      "price_target": "$44.92 (-5.8%)",
+      "pe_ratio": "N/A",
+      "rsi": "N/A",
+      "vs_52wk_high": "-33.3% below high ($71.50)",
+      "analyst_rating": "Buy",
+      "sector": "Healthcare - Biotechnology",
+      "sources": ["CNBC", "Yahoo Finance", "GuruFocus", "StockTitan", "TipRanks"],
+      "price_history_5d": [26.82, 26.99, 47.67]
     },
     {
-      "ticker": "MU",
-      "company": "Micron Technology",
-      "discussion_driver": "Micron surged 8-9% to $1,061 today after two bullish catalysts converged: (1) confirmation as a certified HBM4 memory supplier for Nvidia's next-generation Vera Rubin AI accelerator platform, with the company's entire FY2026 HBM production already pre-sold; and (2) broader risk-on semiconductor buying tied to the US-Iran peace deal. With fiscal Q3 FY2026 earnings on June 24 expected to show record revenue of ~$33.5B, and TD Cowen raising its price target to $1,500, Micron is in the eye of the AI infrastructure buildout storm.",
+      "ticker": "HUN",
+      "company": "Huntsman Corporation",
+      "discussion_driver": "Huntsman fell ~18% on June 17 after announcing an all-stock merger with Olin Corp to form OlinHuntsman Corporation. The 0.5476 Olin shares per HUN exchange ratio implied a value of ~$13 — well below HUN's June 16 close of $15.89 — triggering aggressive merger-arb selling as the deal effectively priced Huntsman at a discount to its prior trading price.",
       "bull_case": [
-        "Micron is a certified HBM4 supplier for Nvidia's Vera Rubin platform; with its entire HBM production for FY2026 pre-sold, the company has pricing power and revenue visibility that removes typical semiconductor cyclicality concerns.",
-        "June 24 fiscal Q3 earnings are expected to show record revenue of ~$33.5B; TD Cowen's $1,500 price target (+41% from current) and Wolfe Research's $1,250 target reflect conviction that AI memory demand is structural, not cyclical."
+        "The OlinHuntsman merger creates a $12.5B integrated North American chemicals leader with $400M+ in expected cost synergies, improving competitive position from a deep industry trough",
+        "Mizuho upgraded HUN to Neutral from Underperform on the deal announcement, signaling analyst sentiment may be inflecting from a prior bearish consensus"
       ],
       "bear_case": [
-        "Micron traded at an all-time high of $1,089 on June 3 before pulling back ~10% through June 12 on Goldman Sachs concerns about a 'high bar' for earnings; the June 24 earnings print must meaningfully beat to sustain current valuations.",
-        "At a trailing P/E of 46x and 52-week gains of 749%, market expectations are extremely elevated; any softening in AI chip demand, inventory normalization, or macro deterioration could trigger a severe correction in a historically cyclical memory sector."
+        "The merger exchange ratio valued HUN at a discount to its pre-announcement close — Huntsman shareholders effectively received no acquisition premium and gave away upside to Olin holders",
+        "Transaction not expected to close until H1 2027, creating 12 months of deal-risk limbo, regulatory review uncertainty, and continued chemical-cycle macro exposure"
       ],
-      "recommendation": "Buy",
-      "current_price": "$1,061.00",
-      "price_target": "$1,250.00 (+17.8%)",
-      "pe_ratio": "46.18",
-      "rsi": "68",
-      "vs_52wk_high": "-2.6% below high ($1,089.29)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Technology - Semiconductors / Memory",
-      "sources": ["Investing.com", "Micron IR", "Tom's Hardware", "Yahoo Finance", "StorageNewsletter", "TD Cowen"],
-      "price_history_5d": [981.61, 1061.00]
+      "recommendation": "Hold",
+      "current_price": "$13.06",
+      "price_target": "$13.86 (+6.1%)",
+      "pe_ratio": "N/A",
+      "rsi": "N/A",
+      "vs_52wk_high": "-18.8% below high ($16.09)",
+      "analyst_rating": "Hold",
+      "sector": "Basic Materials - Chemicals",
+      "sources": ["PR Newswire", "GuruFocus", "Benzinga", "SEC 8-K", "Yahoo Finance"],
+      "price_history_5d": [15.89, 13.06]
     }
   ]
 }
