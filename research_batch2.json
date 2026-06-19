@@ -1,121 +1,121 @@
 {
-  "report_date": "2026-06-17",
+  "report_date": "2026-06-18",
   "batch": 2,
   "stocks": [
     {
-      "ticker": "OLN",
-      "company": "Olin Corporation",
-      "discussion_driver": "Olin and Huntsman announced a definitive all-stock merger of equals on June 16 to form OlinHuntsman Corporation, combining ~$12.5B in pro forma 2025 revenues. Olin shareholders will own 54.5% of the combined entity. Mizuho upgraded OLN to Neutral (from Underperform) on the deal. The market reacted cautiously, with OLN shares falling on announcement day as investors weighed dilution against synergy potential.",
+      "ticker": "ENPH",
+      "company": "Enphase Energy, Inc.",
+      "discussion_driver": "Barclays upgraded ENPH from Underweight to Equal Weight (new PT $51 vs prior $30), citing a solid-state transformer opportunity in AI data centers, sending shares up ~10% on June 18. The company also began production shipments of its new IQ9S microinverters, adding a near-term revenue catalyst to the upgrade story.",
       "bull_case": [
-        "$400M+ in identified cost synergies and integration benefits (largely within 3 years), plus ~$125M in cash tax benefits, driven by vertical integration of Olin's chlorine/caustic soda assets with Huntsman's downstream formulations",
-        "Scale advantages of a combined $12.5B chemicals leader with diversified exposure across epoxy, MDI, polyurethanes, and chlor-alkali, positioning OlinHuntsman as a top-3 North American chemicals platform"
+        "Barclays upgrade and expanding data-center transformer opportunity diversifies ENPH beyond residential solar, potentially re-rating the stock as an AI infrastructure play",
+        "New IQ9S microinverter production shipments signal product cycle momentum that could stabilize and grow residential revenue in H2 2026"
       ],
       "bear_case": [
-        "All-stock merger executed at the bottom of the chemicals cycle — both Olin and Huntsman reporting TTM net losses ($101M and $284M respectively), meaning integration risk is elevated with no earnings cushion to absorb execution missteps",
-        "Olin shareholders face dilution from issuing new shares; Huntsman shareholders received below-prior-close deal value; market skeptical the deal accelerates recovery, with OLN declining on announcement day"
+        "After the June 18 surge, ENPH trades above both the new Barclays PT ($51) and the S&P Global analyst consensus target ($47.93), leaving little near-term upside per current analyst models",
+        "Residential solar demand remains pressured by elevated interest rates and slowing installations; 23% of analysts rate the stock Sell or Strong Sell, reflecting lingering fundamental concerns"
       ],
       "recommendation": "Hold",
-      "current_price": "$23.81",
-      "price_target": "$26.00 (+9.2%)",
-      "pe_ratio": "N/A (net loss TTM)",
-      "rsi": "50.5",
-      "vs_52wk_high": "-21.8% below high ($30.46)",
+      "current_price": "$52.28",
+      "price_target": "$47.93 (-8.3%)",
+      "pe_ratio": "55.76",
+      "rsi": "68",
+      "vs_52wk_high": "-29.1% below high ($73.74)",
       "analyst_rating": "Hold",
-      "sector": "Materials - Chemicals",
-      "sources": ["PR Newswire", "GuruFocus", "TipRanks", "Yahoo Finance", "StockTitan"],
-      "price_history_5d": [23.92, 25.13, 23.81]
+      "sector": "Energy - Solar / Clean Technology",
+      "sources": ["Barclays Research", "Yahoo Finance", "StockAnalysis.com", "Investing.com", "Nasdaq.com", "CNBC"],
+      "price_history_5d": [53.00, 51.50, 49.50, 47.78, 52.28]
     },
     {
-      "ticker": "LYFT",
-      "company": "Lyft Inc.",
-      "discussion_driver": "Rothschild & Co Redburn upgraded Lyft to Buy from Neutral and raised its price target to $22 from $17, arguing that autonomous vehicle proliferation will expand the total addressable market for ride-hailing aggregators. The firm contends Lyft is well-positioned to remain the 'operating system' for mixed AV/human-driver fleets as vehicle supply fragments among multiple competing providers.",
+      "ticker": "GLW",
+      "company": "Corning Incorporated",
+      "discussion_driver": "Corning rose ~8% on June 18, riding the broader AI data-center infrastructure rally driven by photonics and optical fiber demand. The gain extended a volatile week that included a 4.31% drop on June 16, underscoring GLW's high sensitivity to AI capex sentiment. The Apple-Intel chip manufacturing partnership announced the same day also boosted technology infrastructure stocks broadly.",
       "bull_case": [
-        "AV-driven TAM expansion thesis: as autonomous vehicle fleets scale from Waymo, Tesla, and others, Lyft's platform provides commercial and operational infrastructure that fragmented fleet operators lack, potentially transforming a competitor threat into a partnership opportunity",
-        "Deeply discounted valuation at trailing PE of 1.91x with Q1 2026 delivering record free cash flow, double-digit growth in riders and gross bookings, and the largest-ever share repurchase program"
+        "Structural AI-driven demand for optical fiber, data-center interconnects, and specialty glass positions Corning at the center of a multi-year infrastructure build-out cycle, with 10 of 11 analysts rating the stock Buy",
+        "Analyst consensus target of $198 implies +7.3% upside from current levels, and Corning's optical fiber business is increasingly mission-critical for hyperscaler connectivity"
       ],
       "bear_case": [
-        "DA Davidson cut its price target to $14.50 (Neutral), essentially at current price levels, signaling limited near-term upside; stock remains 44.8% below its 52-week high with no established near-term catalyst to close the gap",
-        "Structural risk that AV fleet owners may negotiate favorable economics as autonomous supply scales, effectively capping Lyft's take-rate and limiting long-term margin expansion"
-      ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$14.10",
-      "price_target": "$18.79 (+33.3%)",
-      "pe_ratio": "1.91",
-      "rsi": "45",
-      "vs_52wk_high": "-44.8% below high ($25.54)",
-      "analyst_rating": "Hold",
-      "sector": "Consumer Discretionary - Ride-Hailing",
-      "sources": ["GuruFocus", "CNBC", "Yahoo Finance", "Benzinga", "Investing.com"],
-      "price_history_5d": [13.54, 14.10]
-    },
-    {
-      "ticker": "INTC",
-      "company": "Intel Corporation",
-      "discussion_driver": "Intel's 18A-P process node entered risk production at the 2026 VLSI Symposium, confirming the foundry roadmap remains on schedule and delivering 9% performance improvement over 18A at the same power. The milestone is seen as a prerequisite for landing Apple as a foundry customer. Multiple analysts raised targets — Bernstein to $100, Wells Fargo to $110, Citi to $130, Benchmark to $140 — sending shares up ~3.6% to $121.28.",
-      "bull_case": [
-        "18A-P risk production milestone unlocks potential Apple foundry orders and is design-rule-compatible with existing 18A designs, removing a key barrier to customer commitment; CEO Lip-Bu Tan expects formal multi-customer commitments in H2 2026",
-        "Stock recovered from a broad market sell-off on June 16 tied to hawkish Fed dot-plot signals, suggesting underlying demand for shares at dips; Intel has surged 200%+ from its 52-week low as foundry credibility is restored"
-      ],
-      "bear_case": [
-        "INTC trades above the 3-month analyst consensus price target of ~$91; even with recent target upgrades to $100-$140, the stock's forward PE of ~113x far exceeds the semiconductor sector average of ~66x; RSI at 79.8 indicates overbought conditions",
-        "18A-P yields remain below profitable levels; Intel Foundry Services will continue diluting corporate gross margins through at least late 2026, with profitable-scale foundry operations not expected until late 2026 at the earliest"
+        "Trailing PE of 85.9x is extremely elevated; any slowdown in AI capex spending or hyperscaler inventory correction could compress multiples sharply and quickly",
+        "Recent single-session swings of 4-8% reflect headline-driven volatility and potential for sharp reversals if AI infrastructure narrative shifts"
       ],
       "recommendation": "Hold",
-      "current_price": "$121.28",
-      "price_target": "$105.00 (-13.4%)",
-      "pe_ratio": "N/A (negative EPS TTM)",
-      "rsi": "79.8",
-      "vs_52wk_high": "-8.6% below high ($132.75)",
-      "analyst_rating": "Hold",
-      "sector": "Technology - Semiconductors",
-      "sources": ["Benzinga", "Investing.com", "TipRanks", "MarketBeat", "Yahoo Finance"],
-      "price_history_5d": [124.57, 127.86, 117.05, 121.28]
-    },
-    {
-      "ticker": "FIG",
-      "company": "Figma Inc.",
-      "discussion_driver": "Activist investor Findell Capital issued a public letter to Figma's CEO and Board demanding cost rationalization (SBC at 27% of revenues vs. Adobe's 8%), product portfolio focus on core design tools, and a governance review of remaining Anthropic board ties — raised after Anthropic's CPO resigned and then launched Claude Design, a direct Figma competitor, in April 2026. The activist catalyst sent FIG up ~6-7%.",
-      "bull_case": [
-        "Findell Capital's standalone 12-month price target of $40/share implies ~111% upside; activist pressure may accelerate cost discipline, SBC rationalization, and governance reforms that close the gap to intrinsic value, with Citi also initiating at Buy with a $36 target",
-        "Figma retains a dominant design-tool moat with strong enterprise switching costs; AI-assisted design features launched at Config 2026 are driving revenue beats and the company's core collaboration platform remains deeply embedded across product, design, and engineering teams"
-      ],
-      "bear_case": [
-        "FIG trades 86.7% below its IPO-day high of $142.92 (August 2025), reflecting persistent concerns about Anthropic's Claude Design competition, unresolved governance questions with two Anthropic-affiliated board members remaining, and a structural SBC overhang",
-        "Piper Sandler cut its target to $30 (from $35) and multiple analysts remain cautious; stock-based compensation consuming 27% of revenues creates a profitability ceiling that makes the elevated PE of 99.6x difficult to justify near-term"
-      ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$18.99",
-      "price_target": "$38.63 (+103.4%)",
-      "pe_ratio": "99.6",
-      "rsi": "68.1",
-      "vs_52wk_high": "-86.7% below high ($142.92)",
-      "analyst_rating": "Hold",
-      "sector": "Technology - Design Software",
-      "sources": ["StocksToTrade", "Seeking Alpha", "PR Newswire", "Investing.com", "Yahoo Finance"],
-      "price_history_5d": [19.34, 19.34, 18.54, 18.99]
-    },
-    {
-      "ticker": "LDOS",
-      "company": "Leidos Holdings Inc.",
-      "discussion_driver": "BofA Securities downgraded Leidos to Neutral from Buy and slashed its price target from $200 to $125, citing mounting pressure across its 'once blooming' healthcare IT portfolio: DHMSM winding down, the Defense Health Agency shifting to direct supplier relationships, and the Medical Disability Exams contract up for recompete. The stock hit a two-year low and is now 46.9% below its 52-week high.",
-      "bull_case": [
-        "RSI at 11 indicates extreme oversold conditions rarely seen outside of crisis scenarios; PE of 10.4x is near Leidos' 10-year historical low and Simply Wall St estimates the stock may be 38% undervalued, with the consensus analyst price target implying 62% upside from current levels",
-        "Defense portfolio remains robust with $8B in contract awards over the past 15 months and $9B+ in projected awards over the next 12 months, including strong alignment to DoD priorities in counter-UAS, hypersonics, small cruise missiles, and unmanned maritime systems"
-      ],
-      "bear_case": [
-        "BofA downgrade (PT $125) follows Jefferies' June 3 downgrade (PT $140); healthcare IT was Leidos' primary growth and margin driver, and its structural erosion — DHMSM wind-down, DHA bypassing intermediaries, MDE recompete — could collectively remove hundreds of millions in annual high-margin revenue",
-        "Leidos faces increasing dependence on lumpy defense contract wins in a constrained federal budget environment; the portfolio transformation strategy is unproven and management must demonstrate sustainable growth beyond acquisitions"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$109.32",
-      "price_target": "$177.00 (+61.8%)",
-      "pe_ratio": "10.4",
-      "rsi": "11",
-      "vs_52wk_high": "-46.9% below high ($205.77)",
+      "current_price": "$184.58",
+      "price_target": "$198.00 (+7.3%)",
+      "pe_ratio": "85.92",
+      "rsi": "47",
+      "vs_52wk_high": "-12.8% below high ($211.79)",
       "analyst_rating": "Buy",
-      "sector": "Government IT / Defense",
-      "sources": ["Benzinga", "GuruFocus", "Seeking Alpha", "Simply Wall St", "Yahoo Finance"],
-      "price_history_5d": [121.69, 114.60, 113.58, 109.32]
+      "sector": "Technology - Specialty Glass & Optical Communications",
+      "sources": ["StockAnalysis.com", "Investing.com", "TradingKey", "CNN Markets", "Robinhood"],
+      "price_history_5d": [170.24, 177.42, 169.77, 170.89, 184.58]
+    },
+    {
+      "ticker": "ACN",
+      "company": "Accenture PLC",
+      "discussion_driver": "Accenture crashed ~17% on June 18 after Q3 FY2026 earnings revealed weaker-than-expected new bookings and trimmed full-year revenue guidance to 3-4% growth in local currency. Declining U.S. federal business and geopolitical headwinds were cited as key drags, sending ACN to ~$128 — its lowest price in years and 58% below its 52-week high.",
+      "bull_case": [
+        "At a trailing PE of ~11x post-crash, ACN trades at a deep discount to its historical average; the analyst consensus target of $241.55 implies 88% upside if consulting demand recovers",
+        "Accenture's AI integration consulting pipeline and global scale remain formidable competitive moats; a recovery in enterprise and government IT spending could drive a rapid re-rating"
+      ],
+      "bear_case": [
+        "Declining U.S. federal contracts represent a structural multi-year risk, not just a short-term headwind, as government IT budgets face political pressure",
+        "The 52-week high was $307.77 and the stock is now at $128; analyst price targets — currently showing $241.55 consensus — will likely see major cuts as analysts reprice the forward earnings outlook"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$128.31",
+      "price_target": "$241.55 (+88.2%)",
+      "pe_ratio": "11.0",
+      "rsi": "N/A",
+      "vs_52wk_high": "-58.3% below high ($307.77)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - IT Services & Consulting",
+      "sources": ["Yahoo Finance", "Bloomberg", "MacroTrends", "TradingKey", "eToro", "CNBC"],
+      "price_history_5d": [158.50, 159.00, 157.20, 156.01, 128.31]
+    },
+    {
+      "ticker": "KR",
+      "company": "The Kroger Co.",
+      "discussion_driver": "Kroger fell 6-8% intraday on June 18 after Q1 FY2026 EPS of $1.58 (ex-items) narrowly missed the $1.59 consensus. Revenue of $46.12B was in-line and full-year guidance was maintained, but the miss — coming amid aggressive price-cut investments — raised investor concerns about margin durability heading into the back half of 2026.",
+      "bull_case": [
+        "Full-year 2026 guidance of $5.10-$5.30 EPS and 1-2% ID sales growth was maintained despite the Q1 miss, suggesting management confidence in back-half recovery",
+        "Analyst consensus target of $74.50 implies 25% upside from current depressed levels, and the strategic price-cut investment could drive long-term market share gains vs. Walmart and Aldi"
+      ],
+      "bear_case": [
+        "Price cuts designed to drive volume are structurally compressing gross margins, making it difficult to grow earnings even as revenues improve modestly",
+        "At a trailing PE of 40x, Kroger is richly valued for a low-margin grocer, leaving the stock vulnerable to multiple contraction if the back half misses"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$59.63",
+      "price_target": "$74.50 (+24.9%)",
+      "pe_ratio": "40.13",
+      "rsi": "48",
+      "vs_52wk_high": "-22.1% below high ($76.58)",
+      "analyst_rating": "Buy",
+      "sector": "Consumer Staples - Grocery Retail",
+      "sources": ["CNBC", "GuruFocus", "ChartMill", "StockAnalysis.com", "Investing.com", "Benzinga"],
+      "price_history_5d": [64.71, 64.30, 64.08, 61.82, 59.63]
+    },
+    {
+      "ticker": "STLD",
+      "company": "Steel Dynamics, Inc.",
+      "discussion_driver": "Steel Dynamics dropped ~7% on June 18 after issuing Q2 2026 EPS guidance of $3.51-$3.55/share — roughly 15% below Wall Street's consensus of $4.16. The guidance miss was compounded by asset write-downs tied to relocating its aluminum slab fabrication center from Arizona to Mississippi, raising concerns about near-term earnings quality just after the stock hit an all-time closing high of $282.76 the prior week.",
+      "bull_case": [
+        "Long-term secular demand for flat-rolled steel from infrastructure, EV manufacturing, and AI data-center construction supports multi-year volume growth for STLD's diversified operations",
+        "The aluminum slab expansion into Mississippi is a strategic investment that will reduce costs and expand capacity once operational, positioning STLD for the next up-cycle"
+      ],
+      "bear_case": [
+        "The Q2 EPS guidance shortfall of ~15% vs. consensus signals deeper steel pricing pressure and margin compression than the market anticipated, raising questions about near-term earnings trajectory",
+        "The stock hit an all-time closing high just days before the guidance miss; investors who bought the breakout now face a 12% pullback with the consensus target essentially at the current price (+1.7%)"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$251.62",
+      "price_target": "$255.91 (+1.7%)",
+      "pe_ratio": "28.9",
+      "rsi": "N/A",
+      "vs_52wk_high": "-12.0% below high ($285.88)",
+      "analyst_rating": "Buy",
+      "sector": "Materials - Steel Production",
+      "sources": ["CNBC", "PR Newswire", "SEC Filing", "StockAnalysis.com", "Investing.com", "Zacks", "TradersUnion"],
+      "price_history_5d": [274.29, 282.76, 274.29, 270.14, 251.62]
     }
   ]
 }
