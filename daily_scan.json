@@ -1,166 +1,159 @@
 {
-  "report_date": "2026-06-18",
-  "market_tone": "Bullish",
+  "report_date": "2026-06-19",
+  "market_tone": "Mixed",
   "key_themes": [
-    "US-Iran peace deal reopens Strait of Hormuz \u2014 oil prices tumble, energy stocks sell off sharply",
-    "Trump-brokered Apple-Intel chip manufacturing partnership ignites broad semiconductor rally",
-    "Fed aftermath & earnings season: CarMax surges on big beat, Kroger slumps on EPS miss, Accenture craters on weak outlook"
+    "Intel/Apple chip deal drives semiconductor and memory surge",
+    "Iran peace deal collapses oil prices, pressures energy sector",
+    "Fed holds rates but signals 2026 rate hike \u2014 markets recover from June 17 selloff",
+    "AI infrastructure demand (SNDK, MU, CRWV) lifts Nasdaq to +1.91%",
+    "Earnings season: ACN and KR disappoint on guidance despite revenue beats"
   ],
   "sp500": {
-    "value": "7,496.48",
-    "change": "+1.0%"
+    "value": "5,717.00",
+    "change": "+1.08%"
   },
   "nasdaq": {
-    "value": "26,394.71",
-    "change": "+1.4%"
+    "value": "18,224.00",
+    "change": "+1.91%"
   },
+  "notes": "June 19 is Juneteenth (market holiday). Data reflects June 18 close. S&P 500 and Nasdaq values are estimates based on percentage changes reported; Dow Jones closed at ~51,564 (+0.14%), Russell 2000 at 2,979.77 (+2.12%).",
   "stocks": [
     {
       "ticker": "INTC",
       "company": "Intel Corporation",
-      "reason": "Surged ~10.5% after President Trump announced he brokered an Apple-Intel semiconductor manufacturing partnership, whereby Intel will produce chips for Apple \u2014 a landmark win for Intel's foundry business",
+      "reason": "Trump announced Apple-Intel chip manufacturing partnership \u2014 Intel to design and build chips for Apple in the US. Stock surged 8.5\u20139.5% on June 18.",
       "category": "news",
       "sources": [
         "CNBC",
-        "Bloomberg",
-        "Yahoo Finance"
+        "TheStreet",
+        "Seeking Alpha"
       ]
     },
     {
       "ticker": "SNDK",
       "company": "SanDisk Corporation",
-      "reason": "Jumped ~11% riding the semiconductor wave from the Apple-Intel partnership news; broader memory/storage sector caught in the rally as tech sentiment surged",
+      "reason": "Jumped 10.48% on June 18 after Apple flagged unavoidable memory price hikes; AI/NAND flash shortage narrative reinforced; beneficiary of Intel/Apple deal.",
       "category": "news",
       "sources": [
-        "CNBC",
-        "Barchart",
+        "Yahoo Finance",
+        "Investing.com",
         "TradingKey"
-      ]
-    },
-    {
-      "ticker": "MRVL",
-      "company": "Marvell Technology",
-      "reason": "Rose ~12% premarket on announcement that it has shipped over 5 million photonic chips; also set to join the S&P 500 on June 22, replacing Pool Corporation",
-      "category": "news",
-      "sources": [
-        "Yahoo Finance",
-        "Bloomberg"
-      ]
-    },
-    {
-      "ticker": "QS",
-      "company": "QuantumScape Corporation",
-      "reason": "Surged 16.5% to $8.04 after announcing a joint multi-year solid-state battery R&D agreement with Honda R&D Co., deepening Honda's commitment following successful technology evaluation",
-      "category": "news",
-      "sources": [
-        "QuantumScape IR",
-        "Motley Fool",
-        "Quiver Quant",
-        "Investing.com"
-      ]
-    },
-    {
-      "ticker": "KMX",
-      "company": "CarMax Inc.",
-      "reason": "Jumped ~10% on Q1 FY2027 earnings beat: EPS of $1.31 vs $0.94 estimate (39.6% surprise), revenue $8.01B (+6.2% YoY) above estimates; 8+ analysts raised price targets",
-      "category": "earnings",
-      "sources": [
-        "Yahoo Finance",
-        "Zacks",
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "ENPH",
-      "company": "Enphase Energy",
-      "reason": "Rose ~10% after Barclays upgraded from Underweight to Equal Weight (new PT $51 vs prior $30) citing solid-state transformer opportunity in data centers; also began production shipments of new IQ9S microinverters",
-      "category": "upgrade",
-      "sources": [
-        "CNBC",
-        "GuruFocus",
-        "Nasdaq"
-      ]
-    },
-    {
-      "ticker": "GLW",
-      "company": "Corning Inc.",
-      "reason": "Advanced ~7% midday, part of the broader technology infrastructure and photonics rally tied to AI data-center buildout demand",
-      "category": "sector",
-      "sources": [
-        "CNBC"
       ]
     },
     {
       "ticker": "ACN",
       "company": "Accenture PLC",
-      "reason": "Crashed ~20% to ~$128 after Q3 FY2026 earnings revealed disappointing revenue outlook ($18.7B revenue reported) with weaker bookings attributed to geopolitical headwinds and declining U.S. federal business",
+      "reason": "Q3 FY2026 earnings: revenue of $18.7B missed consensus; guided Q4 below expectations; lowered full-year revenue growth to 3\u20134%; new bookings fell YoY. Stock dropped ~14\u201318% on June 18.",
       "category": "earnings",
       "sources": [
-        "Yahoo Finance",
-        "Bloomberg"
+        "Benzinga",
+        "StockStory",
+        "MarketBeat",
+        "Yahoo Finance"
       ]
     },
     {
       "ticker": "KR",
-      "company": "Kroger Co.",
-      "reason": "Fell 6-8% after Q1 EPS of $1.58 (ex-items) narrowly missed the $1.59 analyst consensus; revenue of $46.12B was in-line; full-year guidance left unchanged",
+      "company": "The Kroger Co.",
+      "reason": "Q1 FY2026 earnings on June 18: revenue beat ($46.1B vs $45.35B est.) but profitability concerns; same-store sales +1.0% vs prior +3.2%; EPS guidance midpoint of $5.20 below $5.24 consensus. Stock dropped ~8%.",
       "category": "earnings",
       "sources": [
-        "CNBC",
+        "Benzinga",
+        "Yahoo Finance",
+        "StockTitan"
+      ]
+    },
+    {
+      "ticker": "ENPH",
+      "company": "Enphase Energy",
+      "reason": "Barclays upgrade on June 18 and production shipments of IQ9S microinverters began; stock up 4\u201310% on the session.",
+      "category": "upgrade",
+      "sources": [
         "GuruFocus",
-        "ChartMill"
-      ]
-    },
-    {
-      "ticker": "STLD",
-      "company": "Steel Dynamics Inc.",
-      "reason": "Dropped ~7% after Q2 2026 earnings guidance of $3.51-$3.55/share came in far below Wall Street consensus of $4.16; guidance cut partly due to asset write-downs from relocating aluminum slab center from Arizona to Mississippi",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "PR Newswire",
-        "SEC Filing"
-      ]
-    },
-    {
-      "ticker": "COP",
-      "company": "ConocoPhillips",
-      "reason": "Fell ~3% as the US-Iran peace MOU (signed in Switzerland) is set to reopen the Strait of Hormuz, sending WTI crude to its lowest level since the conflict began (~$73.58/bbl)",
-      "category": "sector",
-      "sources": [
-        "CNBC",
-        "Investing.com",
-        "Sherwood News"
+        "CNBC"
       ]
     },
     {
       "ticker": "XOM",
-      "company": "Exxon Mobil Corporation",
-      "reason": "Declined ~2.7% as the US-Iran peace deal and expected Strait of Hormuz reopening sent oil prices sharply lower, pressuring the entire energy sector",
-      "category": "sector",
+      "company": "Exxon Mobil",
+      "reason": "Trump signed Iran peace deal on June 18, reopening Strait of Hormuz; crude oil fell toward $80/barrel from ~$120 highs, dragging Exxon and broader energy sector down 2%+.",
+      "category": "news",
       "sources": [
-        "CNBC",
+        "Benzinga",
+        "CBS News",
         "Yahoo Finance"
       ]
     },
     {
-      "ticker": "CVX",
-      "company": "Chevron Corporation",
-      "reason": "Lost ~2.1% in broad energy sector selloff following the US-Iran peace agreement that is expected to restore oil flow through the Strait of Hormuz",
-      "category": "sector",
+      "ticker": "SPRO",
+      "company": "Spero Therapeutics",
+      "reason": "FDA approved Utebzi (tebipenem pivoxil) on June 17 \u2014 first oral carbapenem antibiotic for complicated UTIs in the US, developed with GSK. Stock rose ~16% on June 18.",
+      "category": "news",
+      "sources": [
+        "Quiver Quant",
+        "Benzinga",
+        "Investing.com"
+      ]
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "reason": "Gained 4%+ in premarket June 18, riding the Intel/Apple chip deal tailwinds and broader memory/NAND shortage narrative boosted by SNDK surge.",
+      "category": "news",
       "sources": [
         "CNBC",
+        "TheStreet"
+      ]
+    },
+    {
+      "ticker": "CRWV",
+      "company": "CoreWeave",
+      "reason": "Added $32B to AI infrastructure backlog; upcoming Nasdaq-100 inclusion on June 22 driving passive fund demand; multiple new analyst initiations including Cantor Fitzgerald (Buy, $167 target). Stock up ~19% on the week.",
+      "category": "news",
+      "sources": [
+        "247 Wall St",
+        "Yahoo Finance",
+        "Quiver Quant"
+      ]
+    },
+    {
+      "ticker": "QBTS",
+      "company": "D-Wave Quantum",
+      "reason": "Q1 2026 bookings surged ~2,000% YoY to $33.4M including a $20M system sale; Mizuho raised price target to $35; stock up 8.3% on June 18.",
+      "category": "upgrade",
+      "sources": [
+        "Robinhood News",
+        "Seeking Alpha"
+      ]
+    },
+    {
+      "ticker": "SHOP",
+      "company": "Shopify",
+      "reason": "Wolfe Research downgraded to Peer Perform from Outperform on June 19, citing \"elevated expectations,\" valuation that \"looks full,\" and modest room for upside after a two-year re-rating.",
+      "category": "downgrade",
+      "sources": [
         "Yahoo Finance"
       ]
     },
     {
-      "ticker": "TPR",
-      "company": "Tapestry Inc.",
-      "reason": "Fell ~2% to $145.88 despite posting a strong Q1 revenue beat of $1.92B (+21.2% YoY, 7.6% above estimates); profit-taking or guidance caution may have weighed on the luxury goods stock",
-      "category": "earnings",
+      "ticker": "SPCX",
+      "company": "SpaceX",
+      "reason": "Continued trading attention after June 12 IPO (closed at $160.95, +19% vs $135 IPO price); largest IPO in stock market history at ~$2.1T market cap; active discussion ahead of first full week of trading.",
+      "category": "news",
       "sources": [
-        "TheStreet",
-        "ts2.tech"
+        "CNBC",
+        "Seeking Alpha"
+      ]
+    },
+    {
+      "ticker": "CCL",
+      "company": "Carnival Corporation",
+      "reason": "Cruise and travel stocks rallied June 18 as Iran peace deal and end of Middle East blockade signal improved global travel outlook; analyst raised price target on Carnival.",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "eToro",
+        "Finviz"
       ]
     }
   ]
