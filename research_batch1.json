@@ -1,135 +1,135 @@
 {
-  "report_date": "2026-06-17",
+  "report_date": "2026-06-18",
   "batch": 1,
-  "market_tone": "Bearish",
+  "market_tone": "Bullish",
   "key_themes": [
-    "Fed hawkish shock: Warsh's first FOMC leaves rates at 3.5-3.75% but dot plot surges to 3.8% median, signaling late-2026 rate hike",
-    "SpaceX (SPCX) post-IPO volatility: shares reverse gains, falling ~5% as macro headwinds hit newly-public meme-stock darling",
-    "Chemicals sector M&A: Huntsman + Olin announce $12B+ all-stock merger of equals to form OlinHuntsman Corp"
+    "US-Iran peace deal reopens Strait of Hormuz — oil prices tumble, energy stocks sell off sharply",
+    "Trump-brokered Apple-Intel chip manufacturing partnership ignites broad semiconductor rally",
+    "Fed aftermath & earnings season: CarMax surges on big beat, Kroger slumps on EPS miss, Accenture craters on weak outlook"
   ],
   "sp500": {
-    "value": "7,420.10",
-    "change": "-1.21%"
+    "value": "7,496.48",
+    "change": "+1.0%"
   },
   "nasdaq": {
-    "value": "26,021.66",
-    "change": "-1.34%"
+    "value": "26,394.71",
+    "change": "+1.4%"
   },
   "stocks": [
     {
-      "ticker": "SPCX",
-      "company": "Space Exploration Technologies Corp (SpaceX)",
-      "discussion_driver": "SpaceX debuted June 12 at $135 in the largest IPO ever, surging to an intraday ATH of $225.64 before falling ~5% on June 17 as hawkish Fed signals dampened meme-stock momentum. With only a small retail float relative to its ~$1.9T+ implied valuation, price discovery is nascent and highly sentiment-driven.",
+      "ticker": "INTC",
+      "company": "Intel Corporation",
+      "discussion_driver": "Trump announced via Truth Social that Apple will partner with Intel to design and manufacture semiconductors in the US, sending INTC up 10.5% to a new 52-week high of $135.48 intraday. The stock is up 240% YTD and now trades significantly above the Street's consensus price target, creating meaningful reversal risk if this still-unconfirmed deal disappoints.",
       "bull_case": [
-        "Starlink and Starship revenue potential creates a multi-trillion dollar long-term growth story in commercial space and satellite internet",
-        "Largest IPO in history reflects massive institutional and retail demand, validating the commercial space economy at scale"
+        "Apple-Intel foundry partnership provides long-term revenue visibility and validates Intel's 18A process node as competitive, with the world's most valuable tech company as a potential anchor customer",
+        "AI data center chip demand is so strong that analysts note chips are 'almost sold out for the year'; BofA issued a rare double-upgrade to Buy with a $135 target citing improving server CPU and foundry growth prospects"
       ],
       "bear_case": [
-        "Former Nasdaq chief warns SPCX is not trading on fundamentals; meme-stock momentum can unwind sharply with the limited public float amplifying downside volatility",
-        "Fed hawkish shock and bond yield spike directly pressure speculative-growth premiums; macro headwinds could deflate the sentiment-driven valuation"
+        "Neither Apple nor Intel has officially confirmed the deal — if the Trump-brokered partnership collapses or details disappoint, the stock could give back significant gains rapidly",
+        "Intel remains deeply unprofitable (negative trailing P/E, forward P/E of 128) and now trades 40%+ above the Street's consensus price target of $93.97, leaving limited margin of safety for new buyers"
       ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$191.82",
-      "price_target": "$188.33 (-1.8%)",
+      "recommendation": "Hold",
+      "current_price": "$133.82",
+      "price_target": "$93.97 (-29.8%)",
       "pe_ratio": "N/A",
       "rsi": "N/A",
-      "vs_52wk_high": "-15.0% below high ($225.64)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Aerospace & Defense",
-      "sources": ["CNBC", "TradingKey", "Investing.com", "Yahoo Finance", "MarketBeat"],
-      "price_history_5d": [160.95, 192.50, 201.80, 191.82]
+      "vs_52wk_high": "-1.2% below high ($135.48)",
+      "analyst_rating": "Hold",
+      "sector": "Technology - Semiconductors",
+      "sources": ["Bloomberg", "CNBC", "BofA Securities", "S&P Global", "Bernstein", "Yahoo Finance"],
+      "price_history_5d": [122.00, 117.05, 121.10, 133.82]
     },
     {
-      "ticker": "LZB",
-      "company": "La-Z-Boy Inc.",
-      "discussion_driver": "La-Z-Boy delivered a standout Q4 FY2026 with EPS of $1.26 — 54% above the $0.82 consensus — and announced a $300M share buyback program. Shares surged ~17.7% after hours, pushing the stock to a new 52-week high as management signaled confidence through accelerating capital return.",
+      "ticker": "SNDK",
+      "company": "SanDisk Corporation",
+      "discussion_driver": "SanDisk jumped ~11% on June 18, riding the semiconductor wave from Trump's Apple-Intel chip manufacturing announcement, which lifted the entire memory and storage sector. The stock has surged over 4,000% since its February 2025 IPO at $38.50 as AI infrastructure buildout drives insatiable demand for high-performance NAND flash storage.",
       "bull_case": [
-        "Q4 FY2026 EPS of $1.26 crushed $0.82 consensus (+54%), demonstrating strong operational execution and demand resilience in home furnishings",
-        "$300M buyback authorization plus a history of 10% annual dividend growth signal management confidence and provide meaningful shareholder return support"
+        "AI infrastructure demand is propelling explosive NAND flash growth; SNDK occupies a dominant duopoly position alongside Samsung in high-performance storage and benefits from every incremental AI data center deployment",
+        "Secular AI tailwind is durable — hyperscalers continue to expand storage capacity at record pace; forward P/E of ~12x suggests the earnings growth story is not fully priced in on a forward basis"
       ],
       "bear_case": [
-        "Consumer discretionary weakness from a hawkish Fed and elevated rates could pressure big-ticket furniture purchases into FY2027",
-        "Thin analyst coverage (only 2 analysts) limits institutional price discovery and leaves the stock vulnerable to sharp moves on any guidance change"
+        "Stock trades 38% above the analyst consensus price target of $1,581, implying significant premium to fundamental value and extreme reversal risk at these levels",
+        "NAND memory is inherently cyclical; any AI spending pause, memory oversupply event, or macro shock could rapidly unwind the stock's extraordinary 4,000%+ run"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$2,182.45",
+      "price_target": "$1,580.67 (-27.6%)",
+      "pe_ratio": "67",
+      "rsi": "N/A",
+      "vs_52wk_high": "-0.4% below high ($2,191.69)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - Data Storage",
+      "sources": ["CNBC", "Barchart", "TradingKey", "MarketBeat", "MacroTrends", "TOPONE Markets"],
+      "price_history_5d": [1980.10, 2107.86, 2167.33, 1958.80, 2182.45]
+    },
+    {
+      "ticker": "MRVL",
+      "company": "Marvell Technology",
+      "discussion_driver": "Marvell announced it has shipped over 5 million photonic chips for AI data centers, sending shares up ~12% premarket before settling up 7.27% at $310.58. Combined with its S&P 500 inclusion effective June 22, MRVL has multiple catalysts aligned as the standout AI infrastructure semiconductor play of 2026, up 258% YTD.",
+      "bull_case": [
+        "Shipped 5 million photonic chips demonstrating real commercial-scale AI infrastructure production; S&P 500 inclusion on June 22 forces passive fund buying and creates a near-term structural demand tailwind",
+        "Strong analyst conviction with B. Riley at $345 and Keybanc at $385; 44 analysts rate it Strong Buy as the leader in custom AI silicon and optical interconnects for hyperscale data centers"
+      ],
+      "bear_case": [
+        "At $310, stock trades 33% above the consensus analyst price target of $233; S&P 500 inclusion could become a 'sell-the-news' event as index arbitrage unwinds post-rebalancing",
+        "Custom AI chip competition from NVIDIA and Broadcom remains intense; any slowdown in hyperscaler capex or order pushouts could pressure MRVL's elevated 57x P/E valuation"
       ],
       "recommendation": "Buy",
-      "current_price": "$41.72",
-      "price_target": "$44.50 (+6.7%)",
-      "pe_ratio": "17.95",
-      "rsi": "42.22",
-      "vs_52wk_high": "-0.9% below high ($42.10)",
-      "analyst_rating": "Buy",
-      "sector": "Consumer Discretionary - Furniture",
-      "sources": ["Yahoo Finance", "Benzinga", "Investing.com", "StocksToTrade", "TimothySykes"],
-      "price_history_5d": [37.78, 35.06, 41.72]
+      "current_price": "$310.58",
+      "price_target": "$233.14 (-25.0%)",
+      "pe_ratio": "57.11",
+      "rsi": "N/A",
+      "vs_52wk_high": "-4.2% below high ($324.20)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Technology - Semiconductors",
+      "sources": ["Yahoo Finance", "Bloomberg", "B. Riley", "Keybanc", "S&P Global", "StocksToTrade"],
+      "price_history_5d": [279.77, 308.88, 278.00, 289.54, 310.58]
+    },
+    {
+      "ticker": "QS",
+      "company": "QuantumScape Corporation",
+      "discussion_driver": "QuantumScape surged 16.5% to $8.04 on June 18 after announcing a joint multi-year solid-state battery R&D agreement with Honda R&D Co., deepening Honda's commitment following a successful technology evaluation. The partnership is meaningful OEM validation, though the stock remains 57.8% below its 52-week high as the path to commercial production is still years away.",
+      "bull_case": [
+        "Honda R&D multi-year partnership following a successful technology evaluation is strong commercial validation; a major OEM commitment signals QS's Cobra cell technology meets real-world automotive performance requirements",
+        "Solid-state batteries represent a $100B+ addressable market for EVs; QS is among the very few companies with demonstrated cycle life and a credible path to manufacturing scale"
+      ],
+      "bear_case": [
+        "QS remains pre-revenue and pre-commercial; the Honda agreement is an R&D deal, not a production contract — actual commercial revenue may be 3-5+ years away with ongoing cash burn and dilution risk",
+        "Down 57.8% from its 52-week high of $19.07 set in October 2025; persistent losses, reliance on capital raises, and shifting EV adoption timelines remain major structural headwinds"
+      ],
+      "recommendation": "Speculative Buy",
+      "current_price": "$8.04",
+      "price_target": "$11.13 (+38.5%)",
+      "pe_ratio": "N/A",
+      "rsi": "N/A",
+      "vs_52wk_high": "-57.8% below high ($19.07)",
+      "analyst_rating": "Hold",
+      "sector": "Industrials - Clean Energy / Solid-State Batteries",
+      "sources": ["QuantumScape IR", "Motley Fool", "Quiver Quant", "Investing.com", "MarketBeat"],
+      "price_history_5d": [7.09, 7.07, 7.05, 6.90, 8.04]
     },
     {
       "ticker": "KMX",
       "company": "CarMax Inc.",
-      "discussion_driver": "CarMax beat Q1 FY2027 estimates soundly — EPS $1.31 vs. $0.96 est. (+36%), revenue up 6.2% to $8.0B — but shares declined ~2.4% premarket as investors processed cautious commentary on used-vehicle margins and price normalization. The stock trades at a significant premium to analyst targets despite bottom-of-cycle dynamics in auto retail.",
+      "discussion_driver": "CarMax surged ~10% on June 18, recovering from an initial pre-market dip, as investors refocused on its blowout Q1 FY2027 results: EPS of $1.31 crushed the $0.94 consensus by 39.6% while revenue of $8.01B grew 6.2% YoY. Eight-plus analysts raised price targets post-earnings, validating the new CEO's operational turnaround and cost discipline strategy.",
       "bull_case": [
-        "Q1 FY2027 EPS of $1.31 beat the $0.96 consensus by 36%, with total unit sales up 3.3% YoY and wholesale units surging 8.4%, demonstrating resilient volume",
-        "CarMax Auto Finance (CAF) is emerging as a high-margin growth driver, successfully expanding into the broader credit spectrum beyond prime borrowers"
+        "Q1 FY2027 EPS of $1.31 beat the consensus by 39.6% with revenue growing 6.2% YoY; new CEO's focus on cost control and customer experience is driving concrete operational improvements confirmed by 8+ analyst upgrades",
+        "Reasonable valuation at 16.5x P/E with the analyst consensus target of $81.50 implying 36% upside; improving wholesale demand and used-vehicle volumes provide multiple revenue tailwinds"
       ],
       "bear_case": [
-        "Wall Street consensus price target of $42.15 sits ~18% below the current $51.30, with Barclays maintaining Underweight at $31 — institutional skepticism on valuation is significant",
-        "Trailing PE of 32.2x is well above the 5-year median of 20.6x; ongoing margin pressure from used-vehicle price normalization and profit-dilutive price cuts are structural headwinds"
+        "Q1 profits were hurt by strategic price cuts to spur volume — sustained margin recovery is not yet proven, and investors initially sold the earnings on this concern before reversing intraday",
+        "Used-vehicle markets face affordability headwinds as consumer credit conditions tighten; any economic slowdown or rising rates could quickly reverse the Q1 beat narrative"
       ],
-      "recommendation": "Hold",
-      "current_price": "$51.30",
-      "price_target": "$42.15 (-17.8%)",
-      "pe_ratio": "32.17",
+      "recommendation": "Buy",
+      "current_price": "$59.79",
+      "price_target": "$81.50 (+36.3%)",
+      "pe_ratio": "16.53",
       "rsi": "N/A",
-      "vs_52wk_high": "-28.7% below high ($71.99)",
+      "vs_52wk_high": "-16.9% below high ($71.99)",
       "analyst_rating": "Hold",
-      "sector": "Consumer Discretionary - Auto Retail",
-      "sources": ["Bloomberg", "Investing.com", "MarketBeat", "StockTitan", "GuruFocus"],
-      "price_history_5d": [52.21, 52.11, 51.30]
-    },
-    {
-      "ticker": "QURE",
-      "company": "uniQure N.V.",
-      "discussion_driver": "Shares surged ~75% after the FDA agreed with uniQure's plan to file a BLA for AMT-130 in Huntington's disease, targeting Q3 2026 submission for accelerated approval review. This Type B meeting outcome removes the biggest binary regulatory risk and is a major de-risking event for the only gene therapy program in late-stage development for HD.",
-      "bull_case": [
-        "FDA acceptance of the BLA filing pathway for AMT-130 removes the primary regulatory binary risk and opens a clear route to accelerated approval for the first Huntington's disease gene therapy",
-        "Q3 2026 BLA submission timeline established; accelerated approval could enable commercial launch within 12-18 months, with no currently approved HD treatments on market"
-      ],
-      "bear_case": [
-        "Clinical-stage biotech with no revenues and high cash burn — remains dependent on capital markets with a negative earnings profile until potential commercialization",
-        "Huntington's disease affects approximately 30,000 US patients, creating a narrow commercial ceiling; current analyst price targets (~$45 avg) are now below the post-surge price of $47.67"
-      ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$47.67",
-      "price_target": "$44.92 (-5.8%)",
-      "pe_ratio": "N/A",
-      "rsi": "N/A",
-      "vs_52wk_high": "-33.3% below high ($71.50)",
-      "analyst_rating": "Buy",
-      "sector": "Healthcare - Biotechnology",
-      "sources": ["CNBC", "Yahoo Finance", "GuruFocus", "StockTitan", "TipRanks"],
-      "price_history_5d": [26.82, 26.99, 47.67]
-    },
-    {
-      "ticker": "HUN",
-      "company": "Huntsman Corporation",
-      "discussion_driver": "Huntsman fell ~18% on June 17 after announcing an all-stock merger with Olin Corp to form OlinHuntsman Corporation. The 0.5476 Olin shares per HUN exchange ratio implied a value of ~$13 — well below HUN's June 16 close of $15.89 — triggering aggressive merger-arb selling as the deal effectively priced Huntsman at a discount to its prior trading price.",
-      "bull_case": [
-        "The OlinHuntsman merger creates a $12.5B integrated North American chemicals leader with $400M+ in expected cost synergies, improving competitive position from a deep industry trough",
-        "Mizuho upgraded HUN to Neutral from Underperform on the deal announcement, signaling analyst sentiment may be inflecting from a prior bearish consensus"
-      ],
-      "bear_case": [
-        "The merger exchange ratio valued HUN at a discount to its pre-announcement close — Huntsman shareholders effectively received no acquisition premium and gave away upside to Olin holders",
-        "Transaction not expected to close until H1 2027, creating 12 months of deal-risk limbo, regulatory review uncertainty, and continued chemical-cycle macro exposure"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$13.06",
-      "price_target": "$13.86 (+6.1%)",
-      "pe_ratio": "N/A",
-      "rsi": "N/A",
-      "vs_52wk_high": "-18.8% below high ($16.09)",
-      "analyst_rating": "Hold",
-      "sector": "Basic Materials - Chemicals",
-      "sources": ["PR Newswire", "GuruFocus", "Benzinga", "SEC 8-K", "Yahoo Finance"],
-      "price_history_5d": [15.89, 13.06]
+      "sector": "Consumer Discretionary - Used Vehicle Retail",
+      "sources": ["Yahoo Finance", "Zacks", "Benzinga", "GuruFocus", "JPMorgan", "Truist Securities"],
+      "price_history_5d": [52.21, 52.11, 59.79]
     }
   ]
 }
