@@ -1,121 +1,121 @@
 {
-  "report_date": "2026-06-18",
+  "report_date": "2026-06-19",
   "batch": 2,
   "stocks": [
     {
-      "ticker": "ENPH",
-      "company": "Enphase Energy, Inc.",
-      "discussion_driver": "Barclays upgraded ENPH from Underweight to Equal Weight (new PT $51 vs prior $30), citing a solid-state transformer opportunity in AI data centers, sending shares up ~10% on June 18. The company also began production shipments of its new IQ9S microinverters, adding a near-term revenue catalyst to the upgrade story.",
+      "ticker": "XOM",
+      "company": "Exxon Mobil Corporation",
+      "discussion_driver": "Trump signed a historic US-Iran peace deal on June 18, reopening the Strait of Hormuz and sending crude oil prices down sharply toward $80/barrel from ~$120 highs, dragging Exxon and the broader energy sector down 2%+. The market is now reassessing energy sector valuations against a structurally lower oil price environment after WTI crude fell ~15.5% from June 10 levels.",
       "bull_case": [
-        "Barclays upgrade and expanding data-center transformer opportunity diversifies ENPH beyond residential solar, potentially re-rating the stock as an AI infrastructure play",
-        "New IQ9S microinverter production shipments signal product cycle momentum that could stabilize and grow residential revenue in H2 2026"
+        "World-class integrated operations with industry-leading cost structure and $8.76+ forward EPS provide resilient shareholder returns — dividends and buybacks — across the commodity cycle",
+        "Strategic Guyana assets, Pioneer acquisition synergies, and low-carbon investments position XOM to grow production profitably even below $70/barrel oil, limiting downside"
       ],
       "bear_case": [
-        "After the June 18 surge, ENPH trades above both the new Barclays PT ($51) and the S&P Global analyst consensus target ($47.93), leaving little near-term upside per current analyst models",
-        "Residential solar demand remains pressured by elevated interest rates and slowing installations; 23% of analysts rate the stock Sell or Strong Sell, reflecting lingering fundamental concerns"
+        "Iran deal structurally increases global oil supply and removes the geopolitical risk premium that supported $100+ crude; sustained lower prices directly compress upstream margins and cash flow",
+        "Energy transition secular headwind from EV adoption and renewable buildout represents a long-term structural decline in oil demand growth, particularly in transportation fuel"
       ],
       "recommendation": "Hold",
-      "current_price": "$52.28",
-      "price_target": "$47.93 (-8.3%)",
-      "pe_ratio": "55.76",
-      "rsi": "68",
-      "vs_52wk_high": "-29.1% below high ($73.74)",
+      "current_price": "$137.81",
+      "price_target": "$160.00 (+16.1%)",
+      "pe_ratio": "15.7",
+      "rsi": "N/A",
+      "vs_52wk_high": "-21.9% below high ($176.41)",
+      "analyst_rating": "Buy",
+      "sector": "Energy - Integrated Oil & Gas",
+      "sources": ["Yahoo Finance", "Zacks", "TipRanks", "Benzinga", "CBS News", "StockInvest.us"],
+      "price_history_5d": [147.01, 140.92, 141.87, 140.74, 137.81]
+    },
+    {
+      "ticker": "SPRO",
+      "company": "Spero Therapeutics",
+      "discussion_driver": "FDA approved Utebzi (tebipenem pivoxil) on June 17 as the first-ever oral carbapenem antibiotic for complicated UTIs — a landmark milestone developed with GSK — but shares paradoxically sold off ~15% before recovering ~16% on June 18 as investors processed the commercial opportunity. The 'bewildering selloff' likely reflects sell-the-news dynamics and uncertainty around hospital formulary adoption timelines.",
+      "bull_case": [
+        "Utebzi is first-in-class oral carbapenem with zero direct competition in its antibiotic class; GSK partnership provides global commercial infrastructure, manufacturing scale, and milestone payments with upside if Utebzi reaches blockbuster status",
+        "Average analyst price target of $5.00 implies 100%+ upside from current price; company has cash runway through 2028, providing time to build Utebzi commercial momentum"
+      ],
+      "bear_case": [
+        "Antibiotic stewardship programs restrict use of last-resort antibiotics like carbapenems, limiting the addressable patient population and slowing commercial uptake — the key commercial friction risk flagged by analysts initiating Hold",
+        "Extremely narrow pipeline beyond Utebzi creates existential concentration risk; commercial failure of a single product would severely impair the company's financial position and path to profitability"
+      ],
+      "recommendation": "Speculative Buy",
+      "current_price": "$2.46",
+      "price_target": "$5.00 (+103.3%)",
+      "pe_ratio": "N/A",
+      "rsi": "N/A",
+      "vs_52wk_high": "-23.6% below high ($3.22)",
       "analyst_rating": "Hold",
-      "sector": "Energy - Solar / Clean Technology",
-      "sources": ["Barclays Research", "Yahoo Finance", "StockAnalysis.com", "Investing.com", "Nasdaq.com", "CNBC"],
-      "price_history_5d": [53.00, 51.50, 49.50, 47.78, 52.28]
+      "sector": "Healthcare - Biotechnology",
+      "sources": ["Seeking Alpha", "StockTitan", "Investing.com", "Benzinga", "Quiver Quant", "Simply Wall St"],
+      "price_history_5d": [2.61, 2.75, 2.85, 2.12, 2.46]
     },
     {
-      "ticker": "GLW",
-      "company": "Corning Incorporated",
-      "discussion_driver": "Corning rose ~8% on June 18, riding the broader AI data-center infrastructure rally driven by photonics and optical fiber demand. The gain extended a volatile week that included a 4.31% drop on June 16, underscoring GLW's high sensitivity to AI capex sentiment. The Apple-Intel chip manufacturing partnership announced the same day also boosted technology infrastructure stocks broadly.",
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "discussion_driver": "Micron is at the epicenter of the AI memory supercycle — the Intel/Apple chip deal announced June 18 reinforced the NAND/HBM shortage narrative already boosted by SanDisk's 10.5% surge, and MU gained 4%+ in premarket on June 18. The stock has surged 820%+ over the past year as AI infrastructure buildouts require exponentially more high-bandwidth memory; it closed within 1.8% of its all-time high on June 18.",
       "bull_case": [
-        "Structural AI-driven demand for optical fiber, data-center interconnects, and specialty glass positions Corning at the center of a multi-year infrastructure build-out cycle, with 10 of 11 analysts rating the stock Buy",
-        "Analyst consensus target of $198 implies +7.3% upside from current levels, and Corning's optical fiber business is increasingly mission-critical for hyperscaler connectivity"
+        "AI training and inference workloads demand HBM3E/HBM4 with dramatically higher memory bandwidth; Micron is one of only three global HBM suppliers (alongside Samsung and SK Hynix), giving it rare pricing power in a structurally undersupplied advanced memory market",
+        "Intel/Apple US manufacturing partnership and CHIPS Act investment amplify demand for advanced semiconductors; MU's leading-edge 1-beta DRAM node provides cost and performance advantages vs. competitors"
       ],
       "bear_case": [
-        "Trailing PE of 85.9x is extremely elevated; any slowdown in AI capex spending or hyperscaler inventory correction could compress multiples sharply and quickly",
-        "Recent single-session swings of 4-8% reflect headline-driven volatility and potential for sharp reversals if AI infrastructure narrative shifts"
+        "Stock now trades above the average analyst consensus price target (~$1,028) after an 820%+ rally, indicating most of the AI memory bull case is already priced in and leaving it highly vulnerable to any earnings miss or guidance reduction",
+        "Memory markets are notoriously cyclical; new HBM capacity additions by Samsung and SK Hynix expected in 2026-2027 could trigger price deterioration, and any moderation in AI capex would disproportionately impact high-value memory demand"
       ],
       "recommendation": "Hold",
-      "current_price": "$184.58",
-      "price_target": "$198.00 (+7.3%)",
-      "pe_ratio": "85.92",
-      "rsi": "47",
-      "vs_52wk_high": "-12.8% below high ($211.79)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Specialty Glass & Optical Communications",
-      "sources": ["StockAnalysis.com", "Investing.com", "TradingKey", "CNN Markets", "Robinhood"],
-      "price_history_5d": [170.24, 177.42, 169.77, 170.89, 184.58]
-    },
-    {
-      "ticker": "ACN",
-      "company": "Accenture PLC",
-      "discussion_driver": "Accenture crashed ~17% on June 18 after Q3 FY2026 earnings revealed weaker-than-expected new bookings and trimmed full-year revenue guidance to 3-4% growth in local currency. Declining U.S. federal business and geopolitical headwinds were cited as key drags, sending ACN to ~$128 — its lowest price in years and 58% below its 52-week high.",
-      "bull_case": [
-        "At a trailing PE of ~11x post-crash, ACN trades at a deep discount to its historical average; the analyst consensus target of $241.55 implies 88% upside if consulting demand recovers",
-        "Accenture's AI integration consulting pipeline and global scale remain formidable competitive moats; a recovery in enterprise and government IT spending could drive a rapid re-rating"
-      ],
-      "bear_case": [
-        "Declining U.S. federal contracts represent a structural multi-year risk, not just a short-term headwind, as government IT budgets face political pressure",
-        "The 52-week high was $307.77 and the stock is now at $128; analyst price targets — currently showing $241.55 consensus — will likely see major cuts as analysts reprice the forward earnings outlook"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$128.31",
-      "price_target": "$241.55 (+88.2%)",
-      "pe_ratio": "11.0",
+      "current_price": "$1,133.99",
+      "price_target": "$1,028.15 (-9.3%)",
+      "pe_ratio": "~14x (forward)",
       "rsi": "N/A",
-      "vs_52wk_high": "-58.3% below high ($307.77)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - IT Services & Consulting",
-      "sources": ["Yahoo Finance", "Bloomberg", "MacroTrends", "TradingKey", "eToro", "CNBC"],
-      "price_history_5d": [158.50, 159.00, 157.20, 156.01, 128.31]
+      "vs_52wk_high": "-1.8% below high ($1,154.70)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Technology - Semiconductors / Memory",
+      "sources": ["MarketBeat", "StockAnalysis.com", "eToro", "Yahoo Finance", "CNBC", "TheStreet", "Capital.com"],
+      "price_history_5d": [1056.00, 1080.00, 1110.40, 1043.19, 1133.99]
     },
     {
-      "ticker": "KR",
-      "company": "The Kroger Co.",
-      "discussion_driver": "Kroger fell 6-8% intraday on June 18 after Q1 FY2026 EPS of $1.58 (ex-items) narrowly missed the $1.59 consensus. Revenue of $46.12B was in-line and full-year guidance was maintained, but the miss — coming amid aggressive price-cut investments — raised investor concerns about margin durability heading into the back half of 2026.",
+      "ticker": "CRWV",
+      "company": "CoreWeave",
+      "discussion_driver": "CoreWeave disclosed a $32B expansion of its AI infrastructure backlog, confirmed Nasdaq-100 inclusion effective June 22, and announced a Chicago hyperscale data center fully leased for 15 years worth $2.2B in contracted revenue; multiple analyst initiations (Cantor Fitzgerald Buy/$167, Macquarie upgrade to Outperform/$125) added momentum to a stock up ~19% on the week.",
       "bull_case": [
-        "Full-year 2026 guidance of $5.10-$5.30 EPS and 1-2% ID sales growth was maintained despite the Q1 miss, suggesting management confidence in back-half recovery",
-        "Analyst consensus target of $74.50 implies 25% upside from current depressed levels, and the strategic price-cut investment could drive long-term market share gains vs. Walmart and Aldi"
+        "$32B+ cumulative AI infrastructure backlog provides multi-year revenue visibility that most cloud companies cannot match; 69.4% gross margins confirm premium unit economics in GPU cloud leasing, with 15-year contracted data center revenue reducing cash flow uncertainty",
+        "Nasdaq-100 inclusion effective June 22 triggers mandatory buying from trillions in passively managed index funds, creating a structural technical demand boost that should support the stock near current levels"
       ],
       "bear_case": [
-        "Price cuts designed to drive volume are structurally compressing gross margins, making it difficult to grow earnings even as revenues improve modestly",
-        "At a trailing PE of 40x, Kroger is richly valued for a low-margin grocer, leaving the stock vulnerable to multiple contraction if the back half misses"
+        "Heavy debt load from data center construction financing and negative net margins (~-25%) mean CoreWeave is deeply unprofitable despite strong gross profit; rising interest expense from infrastructure financing is a structural drag on the path to earnings",
+        "CSO sold $7.45M in shares ahead of Nasdaq-100 entry, a potential insider signal that current valuation is full; the stock remains 35.7% below its 52-week high, indicating the market has already significantly re-rated it lower from peak enthusiasm"
       ],
-      "recommendation": "Hold",
-      "current_price": "$59.63",
-      "price_target": "$74.50 (+24.9%)",
-      "pe_ratio": "40.13",
-      "rsi": "48",
-      "vs_52wk_high": "-22.1% below high ($76.58)",
-      "analyst_rating": "Buy",
-      "sector": "Consumer Staples - Grocery Retail",
-      "sources": ["CNBC", "GuruFocus", "ChartMill", "StockAnalysis.com", "Investing.com", "Benzinga"],
-      "price_history_5d": [64.71, 64.30, 64.08, 61.82, 59.63]
-    },
-    {
-      "ticker": "STLD",
-      "company": "Steel Dynamics, Inc.",
-      "discussion_driver": "Steel Dynamics dropped ~7% on June 18 after issuing Q2 2026 EPS guidance of $3.51-$3.55/share — roughly 15% below Wall Street's consensus of $4.16. The guidance miss was compounded by asset write-downs tied to relocating its aluminum slab fabrication center from Arizona to Mississippi, raising concerns about near-term earnings quality just after the stock hit an all-time closing high of $282.76 the prior week.",
-      "bull_case": [
-        "Long-term secular demand for flat-rolled steel from infrastructure, EV manufacturing, and AI data-center construction supports multi-year volume growth for STLD's diversified operations",
-        "The aluminum slab expansion into Mississippi is a strategic investment that will reduce costs and expand capacity once operational, positioning STLD for the next up-cycle"
-      ],
-      "bear_case": [
-        "The Q2 EPS guidance shortfall of ~15% vs. consensus signals deeper steel pricing pressure and margin compression than the market anticipated, raising questions about near-term earnings trajectory",
-        "The stock hit an all-time closing high just days before the guidance miss; investors who bought the breakout now face a 12% pullback with the consensus target essentially at the current price (+1.7%)"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$251.62",
-      "price_target": "$255.91 (+1.7%)",
-      "pe_ratio": "28.9",
+      "recommendation": "Speculative Buy",
+      "current_price": "$117.95",
+      "price_target": "$140.18 (+18.8%)",
+      "pe_ratio": "N/A (negative net income)",
       "rsi": "N/A",
-      "vs_52wk_high": "-12.0% below high ($285.88)",
+      "vs_52wk_high": "-35.7% below high ($183.58)",
       "analyst_rating": "Buy",
-      "sector": "Materials - Steel Production",
-      "sources": ["CNBC", "PR Newswire", "SEC Filing", "StockAnalysis.com", "Investing.com", "Zacks", "TradersUnion"],
-      "price_history_5d": [274.29, 282.76, 274.29, 270.14, 251.62]
+      "sector": "Technology - AI Infrastructure / Cloud Computing",
+      "sources": ["Yahoo Finance", "CoinCentral", "StocksToTrade", "CNN Markets", "Blockonomi", "Phemex", "247 Wall St"],
+      "price_history_5d": [100.00, 104.00, 117.08, 115.50, 117.95]
+    },
+    {
+      "ticker": "QBTS",
+      "company": "D-Wave Quantum",
+      "discussion_driver": "D-Wave reported Q1 2026 bookings of $33.4M — a stunning 2,000% YoY surge driven by a $20M system sale — while Mizuho raised its price target to $35 from $29 following D-Wave's first Analyst Day, citing a roadmap to 10 logical qubits by 2030 and a $450B-$850B TAM by 2040. The stock rose 8.3% on June 18, reflecting growing conviction that commercial quantum computing adoption has reached an inflection point.",
+      "bull_case": [
+        "2,000% YoY booking surge with a $20M single system sale demonstrates that enterprise buyers are deploying quantum annealing at scale, validating D-Wave's commercial-first strategy over gate-based competitors still in research phase",
+        "Mizuho's Outperform rating with $35 target and projected $450B-$850B quantum TAM by 2040 provides significant long-term growth optionality; 20+ years of quantum annealing expertise and installed customer base give QBTS first-mover advantage in optimization use cases"
+      ],
+      "bear_case": [
+        "Stock remains 44.6% below its 52-week high of $46.75, indicating the market has already significantly corrected speculative enthusiasm; negative PE (-20.24) means investors face a long, uncertain path to profitability",
+        "Gate-based quantum competitors (IBM, Google, IonQ) are advancing rapidly on error correction and could leapfrog D-Wave's annealing architecture for more general-purpose problem classes, potentially eroding the niche position QBTS depends on"
+      ],
+      "recommendation": "Speculative Buy",
+      "current_price": "$25.92",
+      "price_target": "$35.00 (+35.1%)",
+      "pe_ratio": "-20.24",
+      "rsi": "N/A",
+      "vs_52wk_high": "-44.6% below high ($46.75)",
+      "analyst_rating": "Outperform",
+      "sector": "Technology - Quantum Computing",
+      "sources": ["GuruFocus", "Motley Fool", "CoinCentral", "Investing.com", "MarketBeat", "TheStreet"],
+      "price_history_5d": [23.37, 26.30, 23.94, 23.94, 25.92]
     }
   ]
 }
