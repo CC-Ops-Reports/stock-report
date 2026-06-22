@@ -1,62 +1,27 @@
 {
-  "report_date": "2026-06-19",
+  "report_date": "2026-06-22",
   "market_tone": "Mixed",
   "key_themes": [
-    "Intel/Apple chip deal drives semiconductor and memory surge",
-    "Iran peace deal collapses oil prices, pressures energy sector",
-    "Fed holds rates but signals 2026 rate hike \u2014 markets recover from June 17 selloff",
-    "AI infrastructure demand (SNDK, MU, CRWV) lifts Nasdaq to +1.91%",
-    "Earnings season: ACN and KR disappoint on guidance despite revenue beats"
+    "AI talent exodus from Alphabet rattles Big Tech as Nobel laureate DeepMind researcher joins Anthropic",
+    "SpaceX (SPCX) enters 3-day post-IPO freefall on MSCI ESG downgrade and $20B bond issuance plans",
+    "Nasdaq-100 quarterly rebalance takes effect adding AI/space names (ALAB, CRWV, NBIS, RKLB, TER)",
+    "U.S.-Iran peace talks undermine defense sector premium, broad defense selloff",
+    "Biotech surge on AbbVie $10.9B Apogee Therapeutics buyout and Definium LSD-depression Phase 3 win"
   ],
   "sp500": {
-    "value": "5,717.00",
-    "change": "+1.08%"
+    "value": "7,475.34",
+    "change": "-0.34%"
   },
   "nasdaq": {
-    "value": "18,224.00",
-    "change": "+1.91%"
+    "value": "26,166.60",
+    "change": "-1.33%"
   },
-  "notes": "June 19 is Juneteenth (market holiday). Data reflects June 18 close. S&P 500 and Nasdaq values are estimates based on percentage changes reported; Dow Jones closed at ~51,564 (+0.14%), Russell 2000 at 2,979.77 (+2.12%).",
   "stocks": [
     {
-      "ticker": "INTC",
-      "company": "Intel Corporation",
-      "reason": "Trump announced Apple-Intel chip manufacturing partnership \u2014 Intel to design and build chips for Apple in the US. Stock surged 8.5\u20139.5% on June 18.",
+      "ticker": "DFTX",
+      "company": "Definium Therapeutics",
+      "reason": "Shares surged ~55% after announcing positive Phase 3 topline results for DT120, an LSD-based oral treatment for major depressive disorder; met primary and all key secondary endpoints with 8.1-point MADRS improvement (p<0.0001)",
       "category": "news",
-      "sources": [
-        "CNBC",
-        "TheStreet",
-        "Seeking Alpha"
-      ]
-    },
-    {
-      "ticker": "SNDK",
-      "company": "SanDisk Corporation",
-      "reason": "Jumped 10.48% on June 18 after Apple flagged unavoidable memory price hikes; AI/NAND flash shortage narrative reinforced; beneficiary of Intel/Apple deal.",
-      "category": "news",
-      "sources": [
-        "Yahoo Finance",
-        "Investing.com",
-        "TradingKey"
-      ]
-    },
-    {
-      "ticker": "ACN",
-      "company": "Accenture PLC",
-      "reason": "Q3 FY2026 earnings: revenue of $18.7B missed consensus; guided Q4 below expectations; lowered full-year revenue growth to 3\u20134%; new bookings fell YoY. Stock dropped ~14\u201318% on June 18.",
-      "category": "earnings",
-      "sources": [
-        "Benzinga",
-        "StockStory",
-        "MarketBeat",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "KR",
-      "company": "The Kroger Co.",
-      "reason": "Q1 FY2026 earnings on June 18: revenue beat ($46.1B vs $45.35B est.) but profitability concerns; same-store sales +1.0% vs prior +3.2%; EPS guidance midpoint of $5.20 below $5.24 consensus. Stock dropped ~8%.",
-      "category": "earnings",
       "sources": [
         "Benzinga",
         "Yahoo Finance",
@@ -64,96 +29,133 @@
       ]
     },
     {
-      "ticker": "ENPH",
-      "company": "Enphase Energy",
-      "reason": "Barclays upgrade on June 18 and production shipments of IQ9S microinverters began; stock up 4\u201310% on the session.",
-      "category": "upgrade",
-      "sources": [
-        "GuruFocus",
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "XOM",
-      "company": "Exxon Mobil",
-      "reason": "Trump signed Iran peace deal on June 18, reopening Strait of Hormuz; crude oil fell toward $80/barrel from ~$120 highs, dragging Exxon and broader energy sector down 2%+.",
+      "ticker": "APGE",
+      "company": "Apogee Therapeutics",
+      "reason": "AbbVie announced $10.9B all-cash acquisition at $135.11/share to deepen its immunology pipeline; Apogee stock surged ~46.7% on the buyout premium",
       "category": "news",
       "sources": [
-        "Benzinga",
-        "CBS News",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "SPRO",
-      "company": "Spero Therapeutics",
-      "reason": "FDA approved Utebzi (tebipenem pivoxil) on June 17 \u2014 first oral carbapenem antibiotic for complicated UTIs in the US, developed with GSK. Stock rose ~16% on June 18.",
-      "category": "news",
-      "sources": [
-        "Quiver Quant",
-        "Benzinga",
-        "Investing.com"
-      ]
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron Technology",
-      "reason": "Gained 4%+ in premarket June 18, riding the Intel/Apple chip deal tailwinds and broader memory/NAND shortage narrative boosted by SNDK surge.",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "TheStreet"
-      ]
-    },
-    {
-      "ticker": "CRWV",
-      "company": "CoreWeave",
-      "reason": "Added $32B to AI infrastructure backlog; upcoming Nasdaq-100 inclusion on June 22 driving passive fund demand; multiple new analyst initiations including Cantor Fitzgerald (Buy, $167 target). Stock up ~19% on the week.",
-      "category": "news",
-      "sources": [
-        "247 Wall St",
-        "Yahoo Finance",
-        "Quiver Quant"
-      ]
-    },
-    {
-      "ticker": "QBTS",
-      "company": "D-Wave Quantum",
-      "reason": "Q1 2026 bookings surged ~2,000% YoY to $33.4M including a $20M system sale; Mizuho raised price target to $35; stock up 8.3% on June 18.",
-      "category": "upgrade",
-      "sources": [
-        "Robinhood News",
-        "Seeking Alpha"
-      ]
-    },
-    {
-      "ticker": "SHOP",
-      "company": "Shopify",
-      "reason": "Wolfe Research downgraded to Peer Perform from Outperform on June 19, citing \"elevated expectations,\" valuation that \"looks full,\" and modest room for upside after a two-year re-rating.",
-      "category": "downgrade",
-      "sources": [
-        "Yahoo Finance"
+        "PR Newswire",
+        "SEC Filing",
+        "StockTitan"
       ]
     },
     {
       "ticker": "SPCX",
       "company": "SpaceX",
-      "reason": "Continued trading attention after June 12 IPO (closed at $160.95, +19% vs $135 IPO price); largest IPO in stock market history at ~$2.1T market cap; active discussion ahead of first full week of trading.",
+      "reason": "Fell ~16.4% for its third consecutive session; MSCI assigned lowest possible CCC ESG rating, and Bloomberg reported SpaceX plans a $20B bond offering despite already raising $75B in IPO and announcing $60B Cursor acquisition \u2014 raising capital burn alarm",
       "category": "news",
       "sources": [
-        "CNBC",
-        "Seeking Alpha"
+        "Motley Fool",
+        "TradingKey",
+        "TipRanks",
+        "CNBC"
       ]
     },
     {
-      "ticker": "CCL",
-      "company": "Carnival Corporation",
-      "reason": "Cruise and travel stocks rallied June 18 as Iran peace deal and end of Middle East blockade signal improved global travel outlook; analyst raised price target on Carnival.",
+      "ticker": "GOOGL",
+      "company": "Alphabet",
+      "reason": "Stock dropped ~6% \u2014 worst day in a year \u2014 after reports that Nobel Prize-winning DeepMind researcher John Jumper is joining Anthropic and transformer co-author Noam Shazeer is moving to OpenAI, intensifying AI talent exodus concerns",
       "category": "news",
       "sources": [
         "CNBC",
-        "eToro",
-        "Finviz"
+        "Yahoo Finance",
+        "GuruFocus",
+        "Motley Fool"
+      ]
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "reason": "Rose ~6-7% on pre-earnings momentum ahead of June 24 fiscal Q3 report; multiple analysts lifted targets to $1,500 (Cantor, Deutsche Bank) citing AI memory demand; EPS expected at $20.05 vs $1.91 a year ago",
+      "category": "earnings",
+      "sources": [
+        "Motley Fool",
+        "MarketBeat",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "VC",
+      "company": "Visteon Corporation",
+      "reason": "Shares jumped ~7% on dual analyst upgrades: JPMorgan to Overweight (PT $165 from $108) and Barclays to Overweight (PT $145 from $115), both citing automotive electronics outgrowth trajectory and reduced execution risk",
+      "category": "upgrade",
+      "sources": [
+        "Investing.com",
+        "CNBC",
+        "TickerReport"
+      ]
+    },
+    {
+      "ticker": "AVAV",
+      "company": "AeroVironment",
+      "reason": "Tumbled ~10% to new 52-week low as U.S.-Iran peace talks progress in Burgenstock, Switzerland erased geopolitical risk premium across defense sector; peers Lockheed (-4.9%) and RTX (-3.5%) also fell sharply",
+      "category": "sector",
+      "sources": [
+        "Benzinga",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "CRWV",
+      "company": "CoreWeave",
+      "reason": "Fell ~9% as investors weighed $2.3B+ in cumulative insider selling since IPO lockup; CEO Michael Intrator sold $35.9M in shares last week under 10b5-1 plan; stock also began trading in Nasdaq-100 today after quarterly rebalance addition",
+      "category": "news",
+      "sources": [
+        "GuruFocus",
+        "QuiverQuant",
+        "Investing.com"
+      ]
+    },
+    {
+      "ticker": "CRM",
+      "company": "Salesforce",
+      "reason": "Fell to 14th consecutive losing session \u2014 worst streak ever \u2014 down ~43% YTD near $152; Alphabet AI talent news dragged software complex lower; persistent fear that AI agents erode Salesforce's subscription model",
+      "category": "news",
+      "sources": [
+        "StockStory",
+        "CNBC",
+        "GuruFocus"
+      ]
+    },
+    {
+      "ticker": "UMC",
+      "company": "United Micro Electronics ADR",
+      "reason": "ADR surged ~13-15% driven by Taiwan AI GDP boom forecasts and wafer price hike expectations; Intel collaboration reports added positive sentiment for the semiconductor foundry",
+      "category": "news",
+      "sources": [
+        "TradingKey",
+        "TheStreet"
+      ]
+    },
+    {
+      "ticker": "ALAB",
+      "company": "Astera Labs",
+      "reason": "Added to Nasdaq-100 effective today (June 22) as part of quarterly rebalance replacing Charter Communications; passive fund buying expected as index trackers reweight into the AI connectivity chipmaker",
+      "category": "sector",
+      "sources": [
+        "Nasdaq IR",
+        "StockTitan",
+        "TipRanks"
+      ]
+    },
+    {
+      "ticker": "RKLB",
+      "company": "Rocket Lab",
+      "reason": "Added to Nasdaq-100 in today's quarterly rebalance alongside SpaceX-adjacent space infrastructure theme; passive inflows from index fund reweighting as Nasdaq-100 leans further into AI and space",
+      "category": "sector",
+      "sources": [
+        "Nasdaq IR",
+        "StreetInsider",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "ONDS",
+      "company": "Ondas Holdings",
+      "reason": "In focus after announcing $40M+ in new autonomous defense system orders in June, bringing Q2-to-date order activity to $150M+; contrarian bright spot in a day when broader defense stocks sold off",
+      "category": "news",
+      "sources": [
+        "Benzinga"
       ]
     }
   ]
