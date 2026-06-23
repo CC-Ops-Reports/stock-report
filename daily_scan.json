@@ -1,161 +1,165 @@
 {
-  "report_date": "2026-06-22",
-  "market_tone": "Mixed",
+  "report_date": "2026-06-23",
+  "market_tone": "Bearish",
   "key_themes": [
-    "AI talent exodus from Alphabet rattles Big Tech as Nobel laureate DeepMind researcher joins Anthropic",
-    "SpaceX (SPCX) enters 3-day post-IPO freefall on MSCI ESG downgrade and $20B bond issuance plans",
-    "Nasdaq-100 quarterly rebalance takes effect adding AI/space names (ALAB, CRWV, NBIS, RKLB, TER)",
-    "U.S.-Iran peace talks undermine defense sector premium, broad defense selloff",
-    "Biotech surge on AbbVie $10.9B Apogee Therapeutics buyout and Definium LSD-depression Phase 3 win"
+    "Global semiconductor selloff: KOSPI fell 10%, Samsung and SK Hynix each dropped 12%+, spreading panic into U.S. chip stocks",
+    "AI valuation reckoning: prominent investors (Dan Niles) trimmed semi exposure, questioning hyperscaler ROI on AI infrastructure spend",
+    "Defensive rotation into healthcare, consumer staples, and utilities as tech names sold off sharply"
   ],
   "sp500": {
-    "value": "7,475.34",
-    "change": "-0.34%"
+    "value": "7,365.46",
+    "change": "-1.44%"
   },
   "nasdaq": {
-    "value": "26,166.60",
-    "change": "-1.33%"
+    "value": "25,587.04",
+    "change": "-2.21%"
   },
   "stocks": [
     {
-      "ticker": "DFTX",
-      "company": "Definium Therapeutics",
-      "reason": "Shares surged ~55% after announcing positive Phase 3 topline results for DT120, an LSD-based oral treatment for major depressive disorder; met primary and all key secondary endpoints with 8.1-point MADRS improvement (p<0.0001)",
-      "category": "news",
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "reason": "Fell ~13% to $1,051 as South Korea-led memory chip selloff (SK Hynix, Samsung each -12%) spilled into U.S. names ahead of Micron's June 24 earnings; BofA separately raised price target to $1,500",
+      "category": "sector",
       "sources": [
-        "Benzinga",
-        "Yahoo Finance",
-        "StockTitan"
-      ]
-    },
-    {
-      "ticker": "APGE",
-      "company": "Apogee Therapeutics",
-      "reason": "AbbVie announced $10.9B all-cash acquisition at $135.11/share to deepen its immunology pipeline; Apogee stock surged ~46.7% on the buyout premium",
-      "category": "news",
-      "sources": [
-        "PR Newswire",
-        "SEC Filing",
-        "StockTitan"
-      ]
-    },
-    {
-      "ticker": "SPCX",
-      "company": "SpaceX",
-      "reason": "Fell ~16.4% for its third consecutive session; MSCI assigned lowest possible CCC ESG rating, and Bloomberg reported SpaceX plans a $20B bond offering despite already raising $75B in IPO and announcing $60B Cursor acquisition \u2014 raising capital burn alarm",
-      "category": "news",
-      "sources": [
+        "CNBC",
         "Motley Fool",
-        "TradingKey",
-        "TipRanks",
-        "CNBC"
+        "Bloomberg",
+        "Benzinga"
       ]
     },
     {
-      "ticker": "GOOGL",
-      "company": "Alphabet",
-      "reason": "Stock dropped ~6% \u2014 worst day in a year \u2014 after reports that Nobel Prize-winning DeepMind researcher John Jumper is joining Anthropic and transformer co-author Noam Shazeer is moving to OpenAI, intensifying AI talent exodus concerns",
-      "category": "news",
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "reason": "Dropped ~3.2% to $201.97 amid broad AI/semiconductor selloff and investor concerns about hyperscaler return on AI infrastructure spend; stalled at $200 level",
+      "category": "sector",
       "sources": [
         "CNBC",
         "Yahoo Finance",
-        "GuruFocus",
-        "Motley Fool"
+        "247WallSt"
       ]
     },
     {
-      "ticker": "MU",
-      "company": "Micron Technology",
-      "reason": "Rose ~6-7% on pre-earnings momentum ahead of June 24 fiscal Q3 report; multiple analysts lifted targets to $1,500 (Cantor, Deutsche Bank) citing AI memory demand; EPS expected at $20.05 vs $1.91 a year ago",
+      "ticker": "AMD",
+      "company": "Advanced Micro Devices",
+      "reason": "Fell ~5% to $523 in Korean-led chip selloff; bulls called the drop a healthy flush of momentum speculators given AMD's 38% YoY revenue growth last quarter",
+      "category": "sector",
+      "sources": [
+        "Yahoo Finance",
+        "247WallSt",
+        "Invezz"
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "company": "Intel",
+      "reason": "Dropped ~5% to $134 in sympathy with the broad semiconductor selloff triggered by KOSPI circuit-breaker session",
+      "category": "sector",
+      "sources": [
+        "Yahoo Finance",
+        "247WallSt"
+      ]
+    },
+    {
+      "ticker": "AMC",
+      "company": "AMC Entertainment Holdings",
+      "reason": "Tumbled ~24% after the company announced plans to raise $200 million through a registered direct offering of common stock, causing significant shareholder dilution",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "247WallSt"
+      ]
+    },
+    {
+      "ticker": "FDX",
+      "company": "FedEx",
+      "reason": "Fell ~5.4% after Q4 FY2026 earnings: EPS beat ($6.31 vs $5.95 est) but margins missed; company cited trade policy changes, rising costs, and muted package demand; FY end changed to Dec 31",
       "category": "earnings",
       "sources": [
-        "Motley Fool",
-        "MarketBeat",
+        "Bloomberg",
+        "TheStreet",
+        "Alphastreet",
+        "TTNews"
+      ]
+    },
+    {
+      "ticker": "CBRS",
+      "company": "Cerebras Systems",
+      "reason": "Fell ~10% after hours in first earnings since May IPO: revenue +92% YoY to $193.4M, but 2026 sales guidance of $855-$865M disappointed investors seeking higher targets; $20B OpenAI deal disclosed",
+      "category": "earnings",
+      "sources": [
+        "Bloomberg",
+        "TheStreet",
+        "eciks.org"
+      ]
+    },
+    {
+      "ticker": "IBM",
+      "company": "International Business Machines",
+      "reason": "Rose ~4%, bucking the tech selloff, after JPMorgan upgraded to Overweight and raised price target to $291 from $270 on improved growth outlook",
+      "category": "upgrade",
+      "sources": [
+        "CNBC",
+        "247WallSt",
         "Yahoo Finance"
       ]
     },
     {
-      "ticker": "VC",
-      "company": "Visteon Corporation",
-      "reason": "Shares jumped ~7% on dual analyst upgrades: JPMorgan to Overweight (PT $165 from $108) and Barclays to Overweight (PT $145 from $115), both citing automotive electronics outgrowth trajectory and reduced execution risk",
-      "category": "upgrade",
-      "sources": [
-        "Investing.com",
-        "CNBC",
-        "TickerReport"
-      ]
-    },
-    {
-      "ticker": "AVAV",
-      "company": "AeroVironment",
-      "reason": "Tumbled ~10% to new 52-week low as U.S.-Iran peace talks progress in Burgenstock, Switzerland erased geopolitical risk premium across defense sector; peers Lockheed (-4.9%) and RTX (-3.5%) also fell sharply",
-      "category": "sector",
-      "sources": [
-        "Benzinga",
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "CRWV",
-      "company": "CoreWeave",
-      "reason": "Fell ~9% as investors weighed $2.3B+ in cumulative insider selling since IPO lockup; CEO Michael Intrator sold $35.9M in shares last week under 10b5-1 plan; stock also began trading in Nasdaq-100 today after quarterly rebalance addition",
+      "ticker": "ACN",
+      "company": "Accenture",
+      "reason": "Gained ~1.7%, bucking the broader downturn, after boosting fiscal 2026 share repurchase program by $2B to more than $7.5B total \u2014 a 62% increase versus the prior year's level",
       "category": "news",
       "sources": [
-        "GuruFocus",
-        "QuiverQuant",
+        "CNBC",
+        "TradingPedia",
         "Investing.com"
       ]
     },
     {
-      "ticker": "CRM",
-      "company": "Salesforce",
-      "reason": "Fell to 14th consecutive losing session \u2014 worst streak ever \u2014 down ~43% YTD near $152; Alphabet AI talent news dragged software complex lower; persistent fear that AI agents erode Salesforce's subscription model",
-      "category": "news",
+      "ticker": "SNPS",
+      "company": "Synopsys",
+      "reason": "Upgraded to Overweight from Neutral at Piper Sandler, which raised price target to $550 from $450, citing improving EDA software demand and AI chip design tailwinds",
+      "category": "upgrade",
       "sources": [
-        "StockStory",
-        "CNBC",
-        "GuruFocus"
-      ]
-    },
-    {
-      "ticker": "UMC",
-      "company": "United Micro Electronics ADR",
-      "reason": "ADR surged ~13-15% driven by Taiwan AI GDP boom forecasts and wafer price hike expectations; Intel collaboration reports added positive sentiment for the semiconductor foundry",
-      "category": "news",
-      "sources": [
-        "TradingKey",
-        "TheStreet"
-      ]
-    },
-    {
-      "ticker": "ALAB",
-      "company": "Astera Labs",
-      "reason": "Added to Nasdaq-100 effective today (June 22) as part of quarterly rebalance replacing Charter Communications; passive fund buying expected as index trackers reweight into the AI connectivity chipmaker",
-      "category": "sector",
-      "sources": [
-        "Nasdaq IR",
-        "StockTitan",
-        "TipRanks"
-      ]
-    },
-    {
-      "ticker": "RKLB",
-      "company": "Rocket Lab",
-      "reason": "Added to Nasdaq-100 in today's quarterly rebalance alongside SpaceX-adjacent space infrastructure theme; passive inflows from index fund reweighting as Nasdaq-100 leans further into AI and space",
-      "category": "sector",
-      "sources": [
-        "Nasdaq IR",
-        "StreetInsider",
+        "247WallSt",
         "Yahoo Finance"
       ]
     },
     {
-      "ticker": "ONDS",
-      "company": "Ondas Holdings",
-      "reason": "In focus after announcing $40M+ in new autonomous defense system orders in June, bringing Q2-to-date order activity to $150M+; contrarian bright spot in a day when broader defense stocks sold off",
-      "category": "news",
+      "ticker": "TGT",
+      "company": "Target",
+      "reason": "Upgraded to Outperform from Peer Perform at Wolfe Research with a $162 price target as analysts see a turnaround opportunity in the discount retailer",
+      "category": "upgrade",
       "sources": [
-        "Benzinga"
+        "247WallSt",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "NKE",
+      "company": "Nike",
+      "reason": "Downgraded to In Line from Outperform at Evercore ISI, which cut price target to $46 from $57, citing continued demand headwinds and limited near-term catalysts",
+      "category": "downgrade",
+      "sources": [
+        "247WallSt",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "WMT",
+      "company": "Walmart",
+      "reason": "Rose ~2% as investors rotated into defensive consumer staples names to avoid the broad technology and semiconductor rout",
+      "category": "sector",
+      "sources": [
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "PLTR",
+      "company": "Palantir Technologies",
+      "reason": "Upgraded to Peer Perform from Underperform at Wolfe Research, which cited Palantir's Ontology framework as a key differentiator and noted the stock is down 26% in 2026, reflecting improved risk/reward",
+      "category": "upgrade",
+      "sources": [
+        "Yahoo Finance"
       ]
     }
   ]
