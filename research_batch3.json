@@ -1,75 +1,75 @@
 {
-  "report_date": "2026-06-19",
+  "report_date": "2026-06-22",
   "batch": 3,
   "stocks": [
     {
-      "ticker": "SHOP",
-      "company": "Shopify Inc.",
-      "discussion_driver": "Wolfe Research downgraded Shopify to Peer Perform from Outperform on June 19, citing 'elevated expectations' and a valuation that 'looks full' after a two-year re-rating. Despite a $5B share repurchase authorization and bullish AI-driven targets from BofA ($190) and Wells Fargo ($198), the stock trades at ~112x trailing P/E and sits 40%+ below its 52-week high, leaving consensus bulls at $149.71 with limited near-term catalysts to bridge the gap.",
+      "ticker": "ALAB",
+      "company": "Astera Labs Inc.",
+      "discussion_driver": "Added to the Nasdaq-100 on June 22 as part of the quarterly rebalance, forcing mandatory passive-fund inflows that lifted shares to new 52-week highs; the stock has surged 200%+ in three months on AI connectivity demand but now trades roughly 80% above the average analyst price target of ~$245, drawing intense debate about whether the run has gone too far.",
       "bull_case": [
-        "Shopify's AI and Agentic Commerce opportunity remains large and underpriced by bears: BofA ($190) and Wells Fargo ($198) see AI-powered merchant tools as a durable multi-year growth driver with margin upside",
-        "Board authorized an additional $3B in June 2026, bringing the total share repurchase program to $5B — signals management confidence and provides direct EPS support as shares trade well below 52-week highs"
+        "Dominant rack-scale AI connectivity position (Aries PCIe retimers, Scorpio fabric switches) addresses a merchant switching silicon market projected at $20B annually by 2030; Q1 2026 revenue of $308M with Q2 guidance of $355-365M demonstrates extraordinary execution at 76%+ gross margins",
+        "Nasdaq-100 inclusion drives sustained mandatory passive buying; upcoming software monetization and UALink platform deployments in FY26 could justify premium multiples as Astera transitions from hardware vendor to full-stack AI infrastructure operating layer"
       ],
       "bear_case": [
-        "Wolfe Research downgrade cites shares as 'fully valued' at 112x trailing P/E with a PEG of 4.28 and only modest margin upside — limited near-term catalyst to re-rate higher after a two-year run",
-        "Shopify Payments lacks a standalone moat versus AI-partnered rivals; stock remains 40%+ below 52-week high ($182.19), indicating persistent selling pressure despite the buyback authorization"
+        "Trades at ~263x trailing GAAP P/E — roughly 3x the semiconductor peer average (NVIDIA ~17x, Broadcom ~21x) — with the current price ~80% above the average analyst consensus target of $245, leaving virtually no valuation margin for error",
+        "Insiders net-sold ~$155M over the past year (CEO trust sold $57.9M in April alone); customer concentration risk and the potential shift from copper to optical interconnects could erode core retimer product demand"
       ],
       "recommendation": "Hold",
-      "current_price": "$108.85",
-      "price_target": "$149.71 (+37.5%)",
-      "pe_ratio": "111.82",
-      "rsi": "52.0",
-      "vs_52wk_high": "-40.3% below high ($182.19)",
+      "current_price": "$441.65",
+      "price_target": "$244.97 (-44.5%)",
+      "pe_ratio": "263.1",
+      "rsi": "60.1",
+      "vs_52wk_high": "-0.3% below high ($443.00)",
       "analyst_rating": "Buy",
-      "sector": "Technology - E-Commerce",
-      "sources": ["Investing.com", "Yahoo Finance", "GuruFocus", "FinanceCharts", "MarketBeat", "StockAnalysis", "TradingKey", "ainvest.com"],
-      "price_history_5d": [110.00, 113.59, 113.42, 108.09, 108.85]
+      "sector": "Technology - Semiconductor / AI Connectivity",
+      "sources": ["TIKR", "Insider Monkey", "Yahoo Finance", "MarketBeat", "Barchart", "247 Wall St", "Simply Wall St", "TradingKey"],
+      "price_history_5d": [363.09, 374.68, 417.07, 417.07, 441.65]
     },
     {
-      "ticker": "SPCX",
-      "company": "Space Exploration Technologies Corp. (SpaceX)",
-      "discussion_driver": "SpaceX's landmark IPO on June 12, 2026 — the largest in stock market history, raising $75B at a ~$2.1T market cap — sent shares from a $135 IPO price to an all-time high of $225.64 by June 16 before pulling back to $185 by June 18. Oppenheimer initiated at Outperform ($190 target) and Nasdaq-100 passive fund flows drove mechanical buying; however, the former Nasdaq chairman publicly warned the stock is not trading on fundamentals, and Morningstar's fair value estimate is just $63.",
+      "ticker": "RKLB",
+      "company": "Rocket Lab Corporation",
+      "discussion_driver": "Joined the Nasdaq-100 on June 22 in the quarterly rebalance, triggering passive fund inflows; the stock had already pulled back ~33% from its May ATH of $151 amid investor concerns about SpaceX competitive dynamics post-IPO and Neutron development timeline risk, making the index inclusion a potential catalyst at a discounted entry point.",
       "bull_case": [
-        "Unparalleled exposure to three high-growth verticals simultaneously — Starlink satellite internet (already profitable), Falcon/Starship orbital launch monopoly, and future point-to-point transport — with no publicly traded peer competing across all three",
-        "Strong institutional demand: Oppenheimer $190 Outperform initiation, 6 of 7 analysts rate Buy, average target $187.80 (high: $310); Starlink subscriber growth drives visible free cash flow that underpins the long-term investment case"
+        "Record Q1 2026 revenue of $200.3M (+63.5% YoY) and $2.2B order backlog growing 20% QoQ; string of Space Force contracts validates Rocket Lab as a credible U.S. defense-grade launch prime with end-to-end space infrastructure capabilities",
+        "Neutron medium-lift rocket (targeting 2026 first flight) is the only credible Western alternative to SpaceX's Falcon 9 near-monopoly; national security launch customers require multi-vendor supply chains, giving RKLB a strategic moat"
       ],
       "bear_case": [
-        "Trading at a ~$2.1T market cap with minimal near-term earnings visibility; Morningstar's fair value of $63 implies ~66% downside, and the former Nasdaq chair warns valuation is purely speculative and untethered from fundamentals",
-        "Extreme IPO-week volatility ($135 IPO → $225.64 peak → $185 in five trading days) highlights a thin public float and speculative momentum-driven positioning; heavy key-person risk tied to Elon Musk's attention across Tesla, xAI, and other ventures"
-      ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$185.00",
-      "price_target": "$187.80 (+1.5%)",
-      "pe_ratio": "N/A",
-      "rsi": "60.0",
-      "vs_52wk_high": "-18.0% below high ($225.64)",
-      "analyst_rating": "Buy",
-      "sector": "Aerospace & Defense / Technology",
-      "sources": ["CNBC", "Investing.com", "TradingView", "TradingKey", "Oppenheimer", "Morningstar", "Yahoo Finance", "StartupHub.ai", "NPR"],
-      "price_history_5d": [160.95, 171.91, 213.59, 206.00, 185.00]
-    },
-    {
-      "ticker": "CCL",
-      "company": "Carnival Corporation",
-      "discussion_driver": "Carnival rallied June 18 as Trump signed an Iran peace deal reopening the Strait of Hormuz, sending crude oil toward $80/barrel from ~$120 highs and materially reducing Carnival's largest operating cost. Loop Capital raised its price target to $36 on June 1 (~31% implied upside), and 28 of 47 analysts rate CCL Buy or Strong Buy with a consensus $35.85 target (+22.9%); at 14.4x trailing P/E the stock remains attractively valued relative to improving demand fundamentals.",
-      "bull_case": [
-        "Iran peace deal and collapsing oil prices directly slash Carnival's single largest operating cost (fuel), potentially adding hundreds of millions in annual savings while improved Middle East stability supports Red Sea and Mediterranean cruise itineraries",
-        "28 of 47 analysts rate CCL Buy/Strong Buy with a $35.85 consensus target (+22.9% upside); trailing P/E of 14.4x and forward P/E of 13.1x are compelling for a company with strong forward bookings momentum and post-COVID demand recovery"
-      ],
-      "bear_case": [
-        "CCL carries approximately $27B in long-term debt accumulated during COVID-era operations, making it highly vulnerable to rising interest rates or any consumer spending slowdown that compresses discretionary cruise demand",
-        "Iran peace deal could prove fragile; a geopolitical reversal would immediately spike oil prices and reignite Middle East cruise itinerary disruptions, reversing both the fuel cost tailwind and the travel sentiment improvement"
+        "Currently unprofitable (trailing P/E deeply negative at -347x); forward valuation prices in flawless Neutron execution — any delay into 2027 would likely reprice shares toward analyst low targets around $68",
+        "SpaceX's newly flush $75B IPO war chest enables aggressive capacity expansion and pricing that could pressure Rocket Lab's commercial launch margins and customer win rates"
       ],
       "recommendation": "Buy",
-      "current_price": "$30.95",
-      "price_target": "$35.85 (+15.8%)",
-      "pe_ratio": "14.4",
-      "rsi": "N/A",
-      "vs_52wk_high": "-9.1% below high ($34.03)",
+      "current_price": "$100.29",
+      "price_target": "$108.70 (+8.4%)",
+      "pe_ratio": "N/A (negative)",
+      "rsi": "51.9",
+      "vs_52wk_high": "-33.6% below high ($151.00)",
       "analyst_rating": "Buy",
-      "sector": "Consumer Discretionary - Cruise Lines",
-      "sources": ["Benzinga", "TickerNerd", "StockAnalysis", "VCP Scanner", "Loop Capital", "CNBC", "eToro", "Finviz", "FullRatio"],
-      "price_history_5d": [29.18, 29.60, 30.90, 30.87, 30.95]
+      "sector": "Industrials - Space Infrastructure / Launch Services",
+      "sources": ["eToro", "TradingKey", "TOPONE Markets", "MarketBeat", "Nasdaq IR", "StreetInsider", "Yahoo Finance", "Money Morning"],
+      "price_history_5d": [104.50, 103.89, 107.24, 100.29]
+    },
+    {
+      "ticker": "ONDS",
+      "company": "Ondas Inc.",
+      "discussion_driver": "Announced $40M+ in new autonomous defense system orders in June (Counter-UAS solutions, Loitering Munition Systems, ground robotics), bringing Q2-to-date order activity above $150M — a standout bright spot in a session where broader defense names sold off sharply on U.S.-Iran peace talk progress; company also completed the $125M acquisition of Cyberhawk in June, expanding aerial inspection capabilities.",
+      "bull_case": [
+        "$150M+ Q2-to-date order backlog backed by 7/7 analyst Strong Buy ratings and a $20.14 consensus price target implying ~117% upside; new LADOS autonomous defense C2 platform unifies drones, sensors, and AI mission software into a systems-of-systems stack positioned for multi-year DoD program-of-record bids",
+        "Accelerating European and U.S. demand for autonomous loitering munitions and Counter-UAS solutions provides multi-year contract runway; Palantir AI integration differentiates the platform and could catalyze additional government customer wins"
+      ],
+      "bear_case": [
+        "Profitability not expected until Q1 2028; FY2025 net loss of $133M creates ongoing dilution risk, compounded by share resale prospectuses from insiders and extremely high volatility (beta 2.62)",
+        "Absorbed ~8 companies in 18 months — integration risk is elevated; any defense budget sequestration, contract cancellation, or execution miss could dramatically deflate the order narrative and compress the stretched valuation"
+      ],
+      "recommendation": "Speculative Buy",
+      "current_price": "$9.27",
+      "price_target": "$20.14 (+117.3%)",
+      "pe_ratio": "N/A (unprofitable)",
+      "rsi": "43.3",
+      "vs_52wk_high": "-39.3% below high ($15.28)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Defense - Autonomous Systems / Drone Technology",
+      "sources": ["Benzinga", "Investing.com", "StockTitan", "TipRanks", "Timothy Sykes", "TOPONE Markets", "Insider Monkey", "Voice of Alexandria"],
+      "price_history_5d": [9.21, 9.27, 9.12, 9.27]
     }
   ]
 }
