@@ -1,121 +1,121 @@
 {
-  "report_date": "2026-06-22",
+  "report_date": "2026-06-23",
   "batch": 2,
   "stocks": [
     {
-      "ticker": "VC",
-      "company": "Visteon Corporation",
-      "discussion_driver": "Visteon surged ~7% on June 22 after JPMorgan upgraded to Overweight (PT $165, up from $108) and Barclays upgraded to Overweight (PT $145, up from $115), both citing the company's automotive electronics outgrowth trajectory and reduced execution risk as it exits the most challenging phase of its automotive cycle. The dual upgrades signal a Wall Street re-rating of Visteon's multi-year digital cockpit and EV battery management growth story, with JPMorgan's new target implying ~45% upside from current levels.",
+      "ticker": "FDX",
+      "company": "FedEx Corporation",
+      "discussion_driver": "FedEx reported Q4 FY2026 earnings on June 23, beating EPS estimates ($6.31 vs $5.95) but missing on margins. Management cited trade policy headwinds, rising costs, and muted package demand as drag factors. The company also announced a fiscal year-end shift to December 31, adding structural uncertainty alongside the mixed earnings picture.",
       "bull_case": [
-        "Dual analyst upgrades with price targets of $165 (JPMorgan) and $145 (Barclays) imply 27-45% upside; both firms project ~7% average organic growth in 2027-2028 driven by digital cockpit electronics wins and reduced execution risk",
-        "CognitoAI automotive-grade AI platform and configurable battery management systems position Visteon at the intersection of EV and ADAS growth in a global automotive electronics market projected to reach $382B by 2026"
+        "EPS beat by 6% ($6.31 vs $5.95 est) demonstrates core delivery business resilience, with quarterly revenue hitting $25B; BofA raised its price target to $1,500 and analyst consensus holds a Buy with ~24% upside",
+        "P/E of 17.56 is below the sector historical average, offering relative value; disciplined FedEx ONE restructuring continues to strip out costs ahead of the fiscal year transition"
       ],
       "bear_case": [
-        "Automotive OEM production uncertainty and decelerating EV adoption in key Western markets could compress volumes and organic growth below analyst estimates",
-        "Stock approaching 52-week high ($129.10) and investors appear skeptical the de-risking story is complete, with shares initially retreating on upgrade day before recovering — suggesting limited near-term upside beyond upgrade catalyst"
+        "Margins missed despite the EPS beat, with management calling out trade policy uncertainty, rising structural costs, and softening package demand as persistent headwinds",
+        "Fiscal year restructuring (shifting to Dec 31) adds near-term complexity; cautious forward guidance signals limited volume recovery in the next two quarters"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$317.24",
+      "price_target": "$394.04 (+24.2%)",
+      "pe_ratio": "17.56",
+      "rsi": "N/A",
+      "vs_52wk_high": "-8.1% below high ($345.37)",
+      "analyst_rating": "Buy",
+      "sector": "Industrials - Air Freight & Logistics",
+      "sources": ["Bloomberg", "TheStreet", "Alphastreet", "MarketBeat", "public.com", "Yahoo Finance"],
+      "price_history_5d": [337.00, 333.50, 331.00, 328.78, 317.24]
+    },
+    {
+      "ticker": "CBRS",
+      "company": "Cerebras Systems Inc.",
+      "discussion_driver": "Cerebras Systems reported its first post-IPO earnings after the market close on June 23, posting $193.4M Q1 revenue (+92% YoY) and disclosing a landmark $20B+ multi-year OpenAI deal. However, 2026 full-year guidance of $855-$865M fell short of investor expectations, sending shares down ~10% in after-hours trading — this was the company's first earnings report since its May 2026 semiconductor IPO.",
+      "bull_case": [
+        "$20B+ multi-year OpenAI partnership and a new AWS collaboration validate Cerebras at hyperscaler scale, representing a transformational long-term revenue runway",
+        "Revenue grew 92% YoY to $193.4M, demonstrating explosive AI inference chip demand; full-year 2026 guidance of $855-$865M implies continued hyper-growth trajectory"
+      ],
+      "bear_case": [
+        "2026 revenue guidance of $855-$865M missed the high end of investor expectations, triggering a ~10% after-hours selloff on the company's very first public earnings call",
+        "Heavy customer concentration with OpenAI dominating revenue; P/S ratio near 167x leaves zero margin for execution error or demand disruption"
+      ],
+      "recommendation": "Speculative Buy",
+      "current_price": "$225.20",
+      "price_target": "$294.00 (+30.6%)",
+      "pe_ratio": "N/A",
+      "rsi": "N/A",
+      "vs_52wk_high": "-41.7% below high ($386.34)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Technology - AI Inference Chips",
+      "sources": ["Bloomberg", "TheStreet", "Yahoo Finance", "Wedbush", "Morgan Stanley", "eciks.org"],
+      "price_history_5d": [213.67, 234.71, 232.00, 229.00, 225.20]
+    },
+    {
+      "ticker": "IBM",
+      "company": "International Business Machines Corporation",
+      "discussion_driver": "IBM bucked the June 23 semiconductor selloff, rising ~4% after JPMorgan upgraded the stock to Overweight from Neutral and raised the price target to $291 from $270. Analyst Brian Essex cited IBM's software segment transformation — now ~45% of revenue and ~two-thirds of consolidated profits — as the key growth driver, with acceleration expected in H2 2026. IBM stood out as a defensive AI infrastructure play amid the broader tech rout.",
+      "bull_case": [
+        "JPMorgan Overweight upgrade with $291 target signals renewed institutional confidence; software segment now drives ~67% of consolidated profits with H2 2026 growth expected to accelerate",
+        "IBM's hybrid cloud and AI infrastructure positioning resonates with enterprise clients migrating workloads, providing durable high-margin recurring revenue streams"
+      ],
+      "bear_case": [
+        "Stock remains 21% below its 52-week high of $332.46, reflecting persistent investor skepticism about IBM's ability to compete with cloud-native rivals in its core enterprise markets",
+        "IBM's consulting segment faces ongoing pricing pressure as clients increasingly prefer AI-native alternatives over traditional IT services engagements"
       ],
       "recommendation": "Buy",
-      "current_price": "$113.81",
-      "price_target": "$120.83 consensus (+6.2%); key upgrades: JPMorgan $165 (+44.9%), Barclays $145 (+27.4%)",
-      "pe_ratio": "20.52",
-      "rsi": "63.38",
-      "vs_52wk_high": "-11.8% below high ($129.10)",
+      "current_price": "$262.23",
+      "price_target": "$288.95 (+10.2%)",
+      "pe_ratio": "21.23",
+      "rsi": "43.6",
+      "vs_52wk_high": "-21.1% below high ($332.46)",
       "analyst_rating": "Buy",
-      "sector": "Consumer Discretionary - Automotive Electronics",
-      "sources": ["Investing.com", "TickerReport", "GuruFocus", "StockAnalysis", "TipRanks"],
-      "price_history_5d": [112.14, 113.81]
+      "sector": "Technology - IT Services & Software",
+      "sources": ["CNBC", "247WallSt", "Yahoo Finance", "JPMorgan", "TradingKey", "StockInvest"],
+      "price_history_5d": [262.35, 260.00, 257.50, 252.22, 262.23]
     },
     {
-      "ticker": "AVAV",
-      "company": "AeroVironment",
-      "discussion_driver": "AeroVironment tumbled ~10% to a new 52-week low on June 22 as U.S.-Iran peace talks in Burgenstock, Switzerland erased the geopolitical risk premium across the defense sector, dragging Lockheed Martin (-4.9%) and RTX (-3.5%) lower in sympathy. The selloff compounds existing pressure from multiple securities class action lawsuits alleging SCAR program misrepresentations and a Q3 FY2026 operating loss of $179M — including a $151.3M goodwill impairment in AeroVironment's space division — that exposed deep fundamental cracks beneath the UAS franchise.",
+      "ticker": "ACN",
+      "company": "Accenture plc",
+      "discussion_driver": "Accenture rose 1.7% on June 23, bucking the broad tech selloff, after announcing a $2B increase to its fiscal 2026 share repurchase program to more than $7.5B — a 62% year-over-year increase. The buyback signals management confidence despite the stock trading near 52-week lows, down 59% from its peak. The market remains divided on whether AI disrupts or enhances Accenture's consulting model.",
       "bull_case": [
-        "Median analyst target of $305 implies ~96% upside from current depressed levels; long-term DoD and NATO demand for Switchblade and Puma UAS systems provides durable backlog with multi-year revenue visibility",
-        "Core battlefield drone franchise remains strategically critical even as geopolitical tensions temporarily ease; any reversal of peace talks or re-escalation could rapidly restore the defense risk premium"
+        "Record Advanced AI bookings and a 1.2x book-to-bill ratio indicate Accenture is capturing AI-driven enterprise transformation demand, not being displaced by it; internal Copilot deployment shows AI is raising revenue per employee",
+        "Trades at ~10x trailing P/E vs its 25x historical average, representing deep value if AI disruption fears are overstated; $7.5B+ buyback provides downside support near 52-week lows"
       ],
       "bear_case": [
-        "Securities class action lawsuits over SCAR program misrepresentations carry material liability risk with lead plaintiff deadline July 27, 2026; Raymond James downgraded two notches to Underperform in March 2026 citing severity of SCAR program unraveling",
-        "Q3 FY2026 $179M operating loss vs. $3.1M prior year due to $151.3M goodwill impairment signals the space division faces fundamental impairment; ongoing peace talks represent a structural headwind to defense sector valuation multiples"
+        "Stock is down 59% from its $307.77 52-week high as repeated guidance cuts confirm genuine AI-related demand compression in traditional IT consulting engagements",
+        "Foreign currency headwinds and elongated client decision cycles in uncertain macro conditions could delay any meaningful revenue and margin recovery"
       ],
-      "recommendation": "Hold",
-      "current_price": "$155.38",
-      "price_target": "$305.00 median (+96.3%)",
-      "pe_ratio": "N/A",
+      "recommendation": "Buy",
+      "current_price": "$126.20",
+      "price_target": "$179.33 (+42.1%)",
+      "pe_ratio": "10.13",
       "rsi": "N/A",
-      "vs_52wk_high": "-62.8% below high ($417.86)",
+      "vs_52wk_high": "-59.0% below high ($307.77)",
       "analyst_rating": "Buy",
-      "sector": "Industrials - Aerospace & Defense",
-      "sources": ["Benzinga", "CNBC", "MarketBeat", "BusinessWire", "PRNewswire", "GuruFocus"],
-      "price_history_5d": [170.31, 167.11, 169.61, 155.38]
+      "sector": "Technology - IT Services & Professional Services",
+      "sources": ["CNBC", "TradingPedia", "Investing.com", "MarketBeat", "etoro", "TIKR"],
+      "price_history_5d": [120.50, 121.80, 122.90, 124.83, 126.20]
     },
     {
-      "ticker": "CRWV",
-      "company": "CoreWeave",
-      "discussion_driver": "CoreWeave fell ~9% on June 22 as investors weighed $2.3B+ in cumulative insider selling since the IPO lockup expiration, including CEO Michael Intrator's $35.9M sale last week under a 10b5-1 plan. The selloff overshadows significant positives: CRWV joined the Nasdaq-100 today (triggering mandatory passive fund inflows), holds a $99.4B contracted revenue backlog, and recently locked in ~$2.2B in 15-year Chicago hyperscale data center revenue — underscoring durable AI cloud demand.",
+      "ticker": "SNPS",
+      "company": "Synopsys Inc.",
+      "discussion_driver": "Synopsys received a Piper Sandler upgrade to Overweight from Neutral on June 23, with the price target raised to $550 from $450. The catalyst was improving Intel foundry momentum — Apple and Google are reportedly tapping Intel's 18A-P and 14A nodes, which would significantly boost Synopsys IP licensing revenue. The upgrade positions Synopsys as a key beneficiary of both the AI chip design boom and Intel's manufacturing recovery.",
       "bull_case": [
-        "$99.4B contracted revenue backlog and Q1 2026 revenue of $2.08B (more than double year-over-year) demonstrate hypergrowth execution; Nasdaq-100 inclusion drives near-term mandatory passive fund buying from trillions in index-tracking assets",
-        "Analyst consensus target of $140.18 implies 27% upside; Chicago hyperscale data center win (15-year fully leased) and $2.2B locked revenue validate CoreWeave's competitive position in mission-critical AI infrastructure"
+        "Piper Sandler's $550 target driven by Intel foundry revival: Apple and Google tapping Intel 18A/14A nodes could be a meaningful IP licensing windfall for Synopsys as the dominant EDA vendor",
+        "AI chip design complexity is a multi-year secular tailwind for EDA software demand; Synopsys FY2027 EPS consensus of $14.75+ reflects strong underlying business momentum"
       ],
       "bear_case": [
-        "$2.3B+ in cumulative insider sales signals large-scale co-founder profit-taking; aggressive $30-35B capex plan for 2026 against ~$35B in existing debt creates significant leverage risk if AI demand growth moderates",
-        "Securities class action lawsuits alleging misrepresentations about data center scaling timelines add legal overhang; widening net losses as capital intensity outpaces the path to profitability is a structural concern"
+        "GAAP trailing P/E of ~76x is elevated and leaves the stock vulnerable to multiple compression if the AI chip design cycle slows or Intel's foundry recovery timeline slips",
+        "Stock is 28.7% below its 52-week high of $651.73, reflecting sustained investor uncertainty about the timing and scale of Intel foundry revenue contributions"
       ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$110.27",
-      "price_target": "$140.18 avg. (+27.1%)",
-      "pe_ratio": "N/A",
+      "recommendation": "Buy",
+      "current_price": "$464.58",
+      "price_target": "$550.00 (+18.4%)",
+      "pe_ratio": "76.49",
       "rsi": "N/A",
-      "vs_52wk_high": "-41.0% below high ($187.00)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - AI Cloud Infrastructure",
-      "sources": ["StockAnalysis", "QuiverQuant", "GuruFocus", "FX Leaders", "StocksToTrade", "247 Wall St"],
-      "price_history_5d": [117.03, 117.95, 110.27]
-    },
-    {
-      "ticker": "CRM",
-      "company": "Salesforce",
-      "discussion_driver": "Salesforce fell to its 14th consecutive losing session — the longest losing streak in company history — trading near $152, down ~43% year-to-date. The latest decline was amplified by the Alphabet AI talent exodus (Nobel laureate John Jumper joining Anthropic, Noam Shazeer moving to OpenAI), dragging the broader software complex lower and renewing deep investor fear that AI agents will cannibalize Salesforce's per-seat subscription model before its Agentforce pivot can generate sufficient ARR to offset the structural seat-count pressure.",
-      "bull_case": [
-        "53-analyst Buy consensus and forward P/E of 10.9x suggest deep value after a 43% YTD decline; Q4 FY2026 AI and data ARR surpassed $2.9B (+200% YoY), demonstrating Agentforce is achieving real monetization traction beyond marketing",
-        "Installed base, Slack integration, Data Cloud, and sales/service cloud dominance provide durable competitive moats; average analyst target of $253.95 implies 67% upside if AI agent cannibalization fears prove overstated"
-      ],
-      "bear_case": [
-        "Structural model disruption: AI agents do not hold per-seat licenses, so AI-driven workforce displacement directly compresses Salesforce's addressable revenue base — Bank of America reinstated Underperform at $160 citing muted net new customer adds and limited upsell potential",
-        "14-session losing streak reflects sustained institutional de-risking with no identifiable near-term positive catalyst; momentum and sentiment indicators remain deeply negative with the streak itself becoming a media-amplified self-reinforcing narrative"
-      ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$151.78",
-      "price_target": "$253.95 avg. (+67.3%)",
-      "pe_ratio": "17.62",
-      "rsi": "N/A",
-      "vs_52wk_high": "-45.2% below high ($276.80)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Enterprise Software (SaaS/CRM)",
-      "sources": ["StockStory", "CNBC", "GuruFocus", "MoneyCheck", "TechTimes", "FX Leaders", "StockAnalysis"],
-      "price_history_5d": [155.02, 151.78, 151.78]
-    },
-    {
-      "ticker": "UMC",
-      "company": "United Micro Electronics ADR",
-      "discussion_driver": "UMC's ADR surged ~13-15% to a new 52-week high on June 22, driven by Taiwan's AI-fueled GDP boom forecasts and rising expectations for wafer price hikes as AI chip demand strains global foundry capacity. Reports of an Intel collaboration further lifted sentiment for the world's third-largest dedicated semiconductor foundry, which is positioned to benefit from AI infrastructure demand spillover as TSMC advanced-node capacity remains fully allocated to leading-edge AI chip clients.",
-      "bull_case": [
-        "Taiwan AI GDP boom narrative and wafer price hike expectations could meaningfully expand UMC's ASPs and margins; Intel collaboration reports open a potential anchor-customer relationship that de-risks revenue visibility for mature-node foundry capacity",
-        "Third-largest dedicated foundry globally with ~5% market share; AI-driven demand spillover from TSMC capacity constraints positions UMC to capture incremental mature-node orders for memory controllers, interface chips, and power management ICs"
-      ],
-      "bear_case": [
-        "Stale analyst consensus price targets (~$10-12 USD from 5 analysts) are dramatically below the current ADR price ($27.50), suggesting the Taiwan AI surge has pushed the stock well ahead of fundamentally-justified valuations with limited institutional analytical coverage",
-        "Taiwan geopolitical risk (cross-strait tensions) and intensifying legacy-node competition from Chinese foundries (SMIC benefiting from domestic subsidies) represent structural headwinds to sustained margin expansion and multiple re-rating"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$27.50",
-      "price_target": "N/A (consensus targets stale; Morgan Stanley Overweight with NT$138 local Taiwan target)",
-      "pe_ratio": "18.04",
-      "rsi": "N/A",
-      "vs_52wk_high": "At new 52-week high (prev. high $23.69)",
-      "analyst_rating": "Hold",
-      "sector": "Technology - Semiconductor Foundry",
-      "sources": ["TradingKey", "TheStreet", "eToro", "MarketBeat", "StockAnalysis", "CompaniesMarketCap"],
-      "price_history_5d": [21.62, 21.76, 24.08, 27.50]
+      "vs_52wk_high": "-28.7% below high ($651.73)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Technology - Electronic Design Automation (EDA)",
+      "sources": ["247WallSt", "Yahoo Finance", "Piper Sandler", "Investing.com", "Zacks", "coincentral.com"],
+      "price_history_5d": [449.00, 455.51, 458.00, 461.00, 464.58]
     }
   ]
 }
