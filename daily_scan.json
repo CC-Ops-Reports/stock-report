@@ -1,175 +1,169 @@
 {
-  "report_date": "2026-06-24",
+  "report_date": "2026-06-25",
   "market_tone": "Mixed",
   "key_themes": [
-    "Micron record Q3 earnings beat on AI/data-center memory demand",
-    "Oil price drop on US-Iran diplomacy lifts travel stocks, hammers energy sector",
-    "Wendy's meme stock revival on Reddit WallStreetBets short-squeeze campaign",
-    "Sunrun-Tesla-Renew Home 16 GW virtual power plant deal for AI data centers",
-    "Alphabet replaces Verizon in Dow Jones Industrial Average (effective June 29)"
+    "AI memory chip supercycle driving Micron blowout earnings; semiconductor sector surges",
+    "AI-driven component shortage forces Apple and Microsoft to hike consumer device prices, weighing on Mag7",
+    "Qualcomm bets on data center AI with Dragonfly roadmap and landmark Meta CPU deal at Investor Day"
   ],
   "sp500": {
-    "value": "7,358.22",
-    "change": "-0.10%"
+    "value": "7,357.49",
+    "change": "-0.01%"
   },
   "nasdaq": {
-    "value": "25,476.44",
-    "change": "-0.43%"
+    "value": "25,358.60",
+    "change": "-0.46%"
   },
   "stocks": [
     {
       "ticker": "MU",
       "company": "Micron Technology",
-      "reason": "Reported record Q3 FY2026 results after hours: revenue $41.5B (+346% YoY) and EPS $25.11, both smashing estimates ($35.1B and $20.39). Q4 guidance of $49-51B far above consensus $43.2B. Stock up ~15% after hours after falling 12% during the session.",
+      "reason": "Blowout Q3 FY2026 earnings: EPS $25.11 vs $20.20 est; revenue $41.46B (346% YoY), driven by AI HBM demand; stock +16%",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "TheStreet",
-        "StockTitan",
+        "Bloomberg",
+        "TheStreet"
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "reason": "Announced price increases of up to $300 on MacBook and iPad lines citing soaring semiconductor costs; stock fell ~6.1%, erasing $265B in market cap",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "CBS News",
+        "NBC News",
+        "TheStreet"
+      ]
+    },
+    {
+      "ticker": "TECH",
+      "company": "Bio-Techne",
+      "reason": "Merck KGaA agreed to acquire Bio-Techne for $73/share in cash ($11.3B deal, 36% premium); largest Merck deal in over a decade; stock +19.5%",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "PR Newswire",
+        "TipRanks",
+        "TradingView"
+      ]
+    },
+    {
+      "ticker": "QCOM",
+      "company": "Qualcomm",
+      "reason": "Investor Day: unveiled Dragonfly C1000 250-core data center CPU, secured multi-gen Meta CPU deal, targeted $15B data center revenue by FY2029; stock +11-13%",
+      "category": "news",
+      "sources": [
+        "Digitimes",
+        "Data Center Knowledge",
         "Yahoo Finance"
       ]
     },
     {
-      "ticker": "WEN",
-      "company": "Wendy's",
-      "reason": "Surged 25.7% (up 30-40% intraday, trading halted briefly) after Reddit r/WallStreetBets launched a Save Wendy's campaign targeting the stock's 23% short float. New CFO Steven Cirulis appointment added fuel.",
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "reason": "Announced Xbox console price increases up to $150 (Series X disc rising from $649 to $800) due to soaring chip costs; stock fell ~3.5%",
       "category": "news",
       "sources": [
+        "TechCrunch",
         "CNBC",
+        "Xbox Wire",
+        "TheStreet"
+      ]
+    },
+    {
+      "ticker": "AYI",
+      "company": "Acuity Brands",
+      "reason": "Q3 FY2026 earnings beat: EPS $5.31 vs $5.19 est, sales $1.198B (+1.6% YoY); highlighted data centers as predictable growth engine; stock +21.4%",
+      "category": "earnings",
+      "sources": [
         "Benzinga",
-        "Motley Fool",
-        "Yahoo Finance"
+        "Alphastreet",
+        "SEC 8-K"
       ]
     },
     {
-      "ticker": "RUN",
-      "company": "Sunrun",
-      "reason": "Surged ~23% after announcing a partnership with Tesla and Renew Home to aggregate 16 gigawatts of flexible residential battery capacity, creating the nation's largest virtual power plant for utilities and AI data-center hyperscalers.",
-      "category": "news",
-      "sources": [
-        "Motley Fool",
-        "GuruFocus",
-        "QuiverQuant"
-      ]
-    },
-    {
-      "ticker": "CBRS",
-      "company": "Cerebras Systems",
-      "reason": "Fell ~15% despite Q1 revenue growing 92% YoY on strong AI inference demand. Selloff driven by margin compression: guided Q2 gross margin to 36-38% and FY2026 core gross margin to 38-41%.",
+      "ticker": "BB",
+      "company": "BlackBerry",
+      "reason": "Quarterly earnings showed strength, stock surged +20.6% on results beat; cybersecurity and IoT segments driving renewed investor interest",
       "category": "earnings",
       "sources": [
-        "CNBC",
-        "StockTitan"
+        "Bloomberg",
+        "TheStreet"
       ]
     },
     {
-      "ticker": "EXPE",
-      "company": "Expedia Group",
-      "reason": "Jumped ~9% as WTI crude briefly fell to $69.63/bbl on advancing US-Iran diplomatic negotiations easing Middle East supply concerns. Lower fuel costs benefit travel platforms and consumer airfare costs.",
+      "ticker": "SNDK",
+      "company": "Sandisk",
+      "reason": "Rose +18.25% in sympathy with Micron; memory storage sector broadly lifted by Micron blowout earnings and AI data center demand narrative",
       "category": "sector",
       "sources": [
-        "CNBC",
-        "GuruFocus"
+        "Bloomberg",
+        "TheStreet"
       ]
     },
     {
-      "ticker": "BKNG",
-      "company": "Booking Holdings",
-      "reason": "Rose ~8% alongside Expedia as oil prices tumbled on US-Iran diplomatic progress, reducing cost pressures for travel industry and boosting consumer travel spending outlook.",
-      "category": "sector",
-      "sources": [
-        "CNBC",
-        "GuruFocus"
-      ]
-    },
-    {
-      "ticker": "UAL",
-      "company": "United Airlines",
-      "reason": "Climbed ~6% as crude oil prices fell sharply on Middle East diplomatic developments, cutting fuel cost assumptions for airlines. Delta Air Lines also rose ~4% on the same thesis.",
-      "category": "sector",
-      "sources": [
-        "CNBC",
-        "Travel And Tour World"
-      ]
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet",
-      "reason": "Gained ~1% after S&P Dow Jones Indices announced Alphabet will replace Verizon in the Dow Jones Industrial Average effective before market open June 29, 2026. Stock is up 10%+ YTD.",
+      "ticker": "TCOM",
+      "company": "Trip.com Group",
+      "reason": "Stock dropped ~13.5% despite Q1 2026 revenue +17% YoY; market spooked by ongoing SAMR anti-monopoly probe that could result in significant fines or business practice changes",
       "category": "news",
+      "sources": [
+        "SEC 6-K",
+        "MarketBeat",
+        "Bloomberg"
+      ]
+    },
+    {
+      "ticker": "DRI",
+      "company": "Darden Restaurants",
+      "reason": "Q4 FY2026 earnings: revenue beat but Olive Garden and Fine Dining same-store sales missed; FY2027 EPS guidance $11.10-$11.35 below consensus $11.39; stock fell on outlook",
+      "category": "earnings",
       "sources": [
         "CNBC",
         "GuruFocus",
-        "StockTitan"
+        "Alphastreet"
       ]
     },
     {
-      "ticker": "VZ",
-      "company": "Verizon Communications",
-      "reason": "Set to be removed from Dow Jones Industrial Average on June 29 as S&P Dow Jones Indices cited its low share price limiting influence in the price-weighted index. Had represented only ~0.5% of index.",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "StockTitan"
-      ]
-    },
-    {
-      "ticker": "ARM",
-      "company": "Arm Holdings",
-      "reason": "Rose ~3% after receiving price target increases from both UBS and TD Cowen analysts on the same day, reflecting continued bullish sentiment on AI chip design licensing demand.",
-      "category": "upgrade",
-      "sources": [
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "PAYX",
-      "company": "Paychex",
-      "reason": "Fell ~2.2% after reporting Q4 FY2026 on June 24: EPS $1.32 (beat $1.31 estimate), revenue $1.61B (in line), but slid on weaker-than-expected revenue guidance for the coming fiscal year. Launched WISE Workforce Intelligence Engine.",
+      "ticker": "MKC",
+      "company": "McCormick",
+      "reason": "Q2 2026 earnings beat: EPS $0.80 vs $0.69 est, revenue $1.94B vs $1.91B est; showed consumer staples resilience amid inflationary environment",
       "category": "earnings",
       "sources": [
-        "StockStory",
-        "Yahoo Finance"
+        "TheStreet",
+        "Bloomberg"
       ]
     },
     {
-      "ticker": "KBH",
-      "company": "KB Home",
-      "reason": "Reported Q2 FY2026 results: EPS $0.43 missed $0.45 estimate, down from $1.50 YoY, showing significant margin pressure in homebuilding. Revenue of $1.11B narrowly beat. Shares active as midday mover.",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Quiver Quantitative",
-        "Investing.com"
-      ]
-    },
-    {
-      "ticker": "APA",
-      "company": "APA Corporation",
-      "reason": "Fell 3%+ as WTI crude dropped to $69.63/bbl on US-Iran diplomatic developments signaling potential reopening of oil flows. Halliburton and ConocoPhillips also fell 3%+ with the broader energy sector down 2%.",
-      "category": "sector",
-      "sources": [
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "INVH",
-      "company": "Invitation Homes",
-      "reason": "Upgraded to Overweight from Equal Weight by Wells Fargo with a $33 price target (from $31) on June 24, citing improved risk-reward in single-family rental REITs as rate expectations shift.",
+      "ticker": "CRWV",
+      "company": "CoreWeave",
+      "reason": "Rosenblatt initiated coverage at Buy with $250 price target; AI cloud infrastructure play benefiting from hyperscaler GPU demand surge",
       "category": "upgrade",
       "sources": [
-        "Yahoo Finance",
-        "24/7 Wall St."
+        "Benzinga",
+        "MarketBeat"
       ]
     },
     {
-      "ticker": "VRNS",
-      "company": "Varonis Systems",
-      "reason": "Upgraded to Overweight from Equal Weight at Stephens with price target raised to $45 (from $33), a 36% increase, reflecting growing conviction in data security demand driven by AI data sprawl.",
+      "ticker": "AFRM",
+      "company": "Affirm Holdings",
+      "reason": "Morgan Stanley downgraded from Overweight to Equal-Weight with $79 price target; concerns over consumer credit quality and BNPL competitive pressures",
+      "category": "downgrade",
+      "sources": [
+        "Benzinga",
+        "MarketBeat"
+      ]
+    },
+    {
+      "ticker": "KDP",
+      "company": "Keurig Dr Pepper",
+      "reason": "Barclays upgraded from Equal Weight to Overweight with $36 price target; analysts cite improving pricing power and beverage category resilience",
       "category": "upgrade",
       "sources": [
-        "Yahoo Finance",
-        "24/7 Wall St."
+        "Benzinga",
+        "MarketBeat"
       ]
     }
   ]
