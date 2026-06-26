@@ -1,169 +1,145 @@
 {
-  "report_date": "2026-06-25",
+  "report_date": "2026-06-26",
   "market_tone": "Mixed",
   "key_themes": [
-    "AI memory chip supercycle driving Micron blowout earnings; semiconductor sector surges",
-    "AI-driven component shortage forces Apple and Microsoft to hike consumer device prices, weighing on Mag7",
-    "Qualcomm bets on data center AI with Dragonfly roadmap and landmark Meta CPU deal at Investor Day"
+    "OpenAI IPO reportedly delayed to 2027, rattling AI/tech stocks and triggering fifth consecutive Nasdaq losing session",
+    "Pharma/biotech strength: Moderna surges on Science Day catalyst; Eli Lilly hits new highs on European regulatory win and Medicare GLP-1 bridge program",
+    "Chip sector pressure: ON Semiconductor tanks 20%+ on $7B Synaptics acquisition; Micron gives back post-earnings gains; Sandisk/storage stocks in broad selloff",
+    "SpaceX joins Russell 1000 after market close, driving index-driven buying ahead of Monday rebalancing",
+    "M&A headline: ON Semiconductor acquires Synaptics for ~$7B in largest deal in company history"
   ],
   "sp500": {
-    "value": "7,357.49",
-    "change": "-0.01%"
+    "value": "7,354.02",
+    "change": "-0.05%"
   },
   "nasdaq": {
-    "value": "25,358.60",
-    "change": "-0.46%"
+    "value": "25,297.62",
+    "change": "-0.24%"
   },
   "stocks": [
     {
-      "ticker": "MU",
-      "company": "Micron Technology",
-      "reason": "Blowout Q3 FY2026 earnings: EPS $25.11 vs $20.20 est; revenue $41.46B (346% YoY), driven by AI HBM demand; stock +16%",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Bloomberg",
-        "TheStreet"
-      ]
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "reason": "Announced price increases of up to $300 on MacBook and iPad lines citing soaring semiconductor costs; stock fell ~6.1%, erasing $265B in market cap",
+      "ticker": "MRNA",
+      "company": "Moderna",
+      "reason": "S&P 500 top performer, surging ~12% after annual Science Day: announced in vivo CAR-T therapy for autoimmune diseases and detailed long-term mRNA oncology/rare disease pipeline beyond vaccines",
       "category": "news",
       "sources": [
-        "CNBC",
-        "CBS News",
-        "NBC News",
-        "TheStreet"
+        "TheStreet",
+        "CNBC"
       ]
     },
     {
-      "ticker": "TECH",
-      "company": "Bio-Techne",
-      "reason": "Merck KGaA agreed to acquire Bio-Techne for $73/share in cash ($11.3B deal, 36% premium); largest Merck deal in over a decade; stock +19.5%",
+      "ticker": "LLY",
+      "company": "Eli Lilly",
+      "reason": "Up ~6%, hitting new 52-week high of $1,200.55 on dual catalysts: European Medicines Agency positive opinion for Jaypirca (CLL treatment), and Medicare GLP-1 Bridge program announced starting July 1 covering Zepbound/Foundayo at $50/month copay",
       "category": "news",
       "sources": [
-        "CNBC",
-        "PR Newswire",
-        "TipRanks",
-        "TradingView"
-      ]
-    },
-    {
-      "ticker": "QCOM",
-      "company": "Qualcomm",
-      "reason": "Investor Day: unveiled Dragonfly C1000 250-core data center CPU, secured multi-gen Meta CPU deal, targeted $15B data center revenue by FY2029; stock +11-13%",
-      "category": "news",
-      "sources": [
-        "Digitimes",
-        "Data Center Knowledge",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "reason": "Announced Xbox console price increases up to $150 (Series X disc rising from $649 to $800) due to soaring chip costs; stock fell ~3.5%",
-      "category": "news",
-      "sources": [
-        "TechCrunch",
-        "CNBC",
-        "Xbox Wire",
-        "TheStreet"
-      ]
-    },
-    {
-      "ticker": "AYI",
-      "company": "Acuity Brands",
-      "reason": "Q3 FY2026 earnings beat: EPS $5.31 vs $5.19 est, sales $1.198B (+1.6% YoY); highlighted data centers as predictable growth engine; stock +21.4%",
-      "category": "earnings",
-      "sources": [
-        "Benzinga",
-        "Alphastreet",
-        "SEC 8-K"
-      ]
-    },
-    {
-      "ticker": "BB",
-      "company": "BlackBerry",
-      "reason": "Quarterly earnings showed strength, stock surged +20.6% on results beat; cybersecurity and IoT segments driving renewed investor interest",
-      "category": "earnings",
-      "sources": [
-        "Bloomberg",
-        "TheStreet"
-      ]
-    },
-    {
-      "ticker": "SNDK",
-      "company": "Sandisk",
-      "reason": "Rose +18.25% in sympathy with Micron; memory storage sector broadly lifted by Micron blowout earnings and AI data center demand narrative",
-      "category": "sector",
-      "sources": [
-        "Bloomberg",
-        "TheStreet"
-      ]
-    },
-    {
-      "ticker": "TCOM",
-      "company": "Trip.com Group",
-      "reason": "Stock dropped ~13.5% despite Q1 2026 revenue +17% YoY; market spooked by ongoing SAMR anti-monopoly probe that could result in significant fines or business practice changes",
-      "category": "news",
-      "sources": [
-        "SEC 6-K",
-        "MarketBeat",
-        "Bloomberg"
-      ]
-    },
-    {
-      "ticker": "DRI",
-      "company": "Darden Restaurants",
-      "reason": "Q4 FY2026 earnings: revenue beat but Olive Garden and Fine Dining same-store sales missed; FY2027 EPS guidance $11.10-$11.35 below consensus $11.39; stock fell on outlook",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "GuruFocus",
+        "TradingKey",
+        "Investing.com",
         "Alphastreet"
       ]
     },
     {
-      "ticker": "MKC",
-      "company": "McCormick",
-      "reason": "Q2 2026 earnings beat: EPS $0.80 vs $0.69 est, revenue $1.94B vs $1.91B est; showed consumer staples resilience amid inflationary environment",
-      "category": "earnings",
+      "ticker": "ON",
+      "company": "ON Semiconductor",
+      "reason": "Plunged ~20-24% after announcing $7B all-stock acquisition of Synaptics \u2014 largest deal in company history \u2014 to expand into physical AI and edge computing; market punished dilution and deal risk",
+      "category": "news",
       "sources": [
-        "TheStreet",
-        "Bloomberg"
+        "CNBC",
+        "Yahoo Finance",
+        "Invezz"
       ]
     },
     {
-      "ticker": "CRWV",
-      "company": "CoreWeave",
-      "reason": "Rosenblatt initiated coverage at Buy with $250 price target; AI cloud infrastructure play benefiting from hyperscaler GPU demand surge",
-      "category": "upgrade",
+      "ticker": "SYNA",
+      "company": "Synaptics",
+      "reason": "Being acquired by ON Semiconductor in all-stock deal at ~$7B enterprise value; deal adds Edge AI compute, connectivity, and HMI solutions to ON Semi portfolio; expected to close mid-2027",
+      "category": "news",
       "sources": [
-        "Benzinga",
-        "MarketBeat"
+        "SEC 8-K filings",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "SPCX",
+      "company": "SpaceX",
+      "reason": "Up ~3% as company officially joins Russell 1000, Russell Top 200, and related indexes after market close tonight; fast-tracked under new FTSE Russell rule for large new listings; passive funds estimated to buy $3B-$27B in shares",
+      "category": "news",
+      "sources": [
+        "ETF.com",
+        "Invezz",
+        "Yahoo Finance"
       ]
     },
     {
       "ticker": "AFRM",
-      "company": "Affirm Holdings",
-      "reason": "Morgan Stanley downgraded from Overweight to Equal-Weight with $79 price target; concerns over consumer credit quality and BNPL competitive pressures",
+      "company": "Affirm",
+      "reason": "Downgraded by Morgan Stanley from Overweight to Equal-Weight with $79 price target and removed from Top Picks list; analyst cites valuation catch-up after prior session surge on CPP Investments $1.7-2.2B loan forward-flow deal",
       "category": "downgrade",
       "sources": [
-        "Benzinga",
-        "MarketBeat"
+        "Seeking Alpha",
+        "Investing.com",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk",
+      "reason": "Down ~7% in broad memory/storage sector selloff accompanying post-Micron earnings tech sector rotation; Seagate and Western Digital also declined sharply on same session",
+      "category": "sector",
+      "sources": [
+        "Yahoo Finance",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "reason": "Pulled back ~4.5% in premarket after surging ~16% previous session on blowout fiscal Q3 earnings driven by AI data center memory demand; Erste Group upgraded to Buy today but profit-taking dominated; chip sector headwinds amplified pullback",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Investing.com",
+        "Erste Group"
+      ]
+    },
+    {
+      "ticker": "SFTBY",
+      "company": "SoftBank Group",
+      "reason": "Plunged 12-13%, wiping out 5.6 trillion yen in market cap, after reports that OpenAI may delay its IPO until 2027; SoftBank holds ~13% stake in OpenAI worth ~$65B and is deeply exposed to OpenAI valuation trajectory",
+      "category": "news",
+      "sources": [
+        "Value The Markets",
+        "TradingKey",
+        "IG"
+      ]
+    },
+    {
+      "ticker": "RKLB",
+      "company": "Rocket Lab",
+      "reason": "NASA selected Rocket Lab to provide three Electron launches for two science missions (PolSIR and TSIS-2) starting early next year; stock was a premarket mover and featured in CNBC midday movers amid space sector volatility",
+      "category": "news",
+      "sources": [
+        "Yahoo Finance/NASA",
+        "CNBC"
       ]
     },
     {
       "ticker": "KDP",
       "company": "Keurig Dr Pepper",
-      "reason": "Barclays upgraded from Equal Weight to Overweight with $36 price target; analysts cite improving pricing power and beverage category resilience",
+      "reason": "Upgraded by Barclays from Equal Weight to Overweight with $36 price target; analyst sees defensive consumer staples value amid tech-led market weakness",
       "category": "upgrade",
       "sources": [
         "Benzinga",
         "MarketBeat"
+      ]
+    },
+    {
+      "ticker": "SLS",
+      "company": "SELLAS Life Sciences",
+      "reason": "Surged ~13.5% as short interest hit all-time highs amid executive severance reports, triggering a short squeeze dynamic; one of the session's biggest small-cap percentage gainers",
+      "category": "news",
+      "sources": [
+        "StockTitan"
       ]
     }
   ]
