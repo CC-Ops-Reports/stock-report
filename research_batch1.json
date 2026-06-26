@@ -1,195 +1,129 @@
 {
-  "report_date": "2026-06-24",
+  "report_date": "2026-06-25",
   "batch": 1,
   "market_tone": "Mixed",
   "key_themes": [
-    "Micron record Q3 earnings beat on AI/data-center memory demand",
-    "Oil price drop on US-Iran diplomacy lifts travel stocks, hammers energy sector",
-    "Wendy's meme stock revival on Reddit WallStreetBets short-squeeze campaign",
-    "Sunrun-Tesla-Renew Home 16 GW virtual power plant deal for AI data centers",
-    "Alphabet replaces Verizon in Dow Jones Industrial Average (effective June 29)"
+    "AI memory chip supercycle driving Micron blowout earnings; semiconductor sector surges",
+    "AI-driven component shortage forces Apple and Microsoft to hike consumer device prices, weighing on Mag7",
+    "Qualcomm bets on data center AI with Dragonfly roadmap and landmark Meta CPU deal at Investor Day"
   ],
-  "sp500": {
-    "value": "7,358.22",
-    "change": "-0.10%"
-  },
-  "nasdaq": {
-    "value": "25,476.44",
-    "change": "-0.43%"
-  },
+  "sp500": {"value": "7,357.49", "change": "-0.01%"},
+  "nasdaq": {"value": "25,358.60", "change": "-0.46%"},
   "stocks": [
     {
       "ticker": "MU",
       "company": "Micron Technology",
-      "discussion_driver": "Micron reported record Q3 FY2026 results on June 24, 2026, with revenue of $41.46B (+346% YoY) and non-GAAP EPS of $25.11, crushing consensus estimates of $35.25B and $20.28, respectively. Q4 FY2026 guidance came in at $50B +/-$1B with ~86% gross margin — far above Wall Street expectations — powered by insatiable AI HBM demand and a global memory supply shortage. The stock had fallen ~13% intraday on June 23 due to a South Korean market crash (unrelated to Micron), then surged ~12.6-15% in after-hours trading on June 24 after the blowout earnings print.",
+      "discussion_driver": "Micron reported the most explosive quarter in memory chip history: Q3 FY2026 revenue of $41.46B (+346% YoY) and EPS of $25.11 vs. $20.20 estimate, driven by insatiable AI demand for High Bandwidth Memory (HBM). The true catalyst for the +16% post-earnings surge was Q4 guidance of $50B — a 16.8% beat vs. consensus — combined with disclosure of $100B in multi-year take-or-pay Strategic Customer Agreements with hyperscalers, signaling Micron has transformed from a commodity cyclical into a contracted AI infrastructure supplier with extraordinary forward revenue visibility.",
       "bull_case": [
-        "HBM (High Bandwidth Memory) for AI accelerators is sold out through 2026 under multi-year supply contracts, locking in pricing power within a three-player oligopoly (Micron, SK Hynix, Samsung); Micron has ~$100B in RPO and the HBM TAM is projected to reach $100B by 2028 growing ~40% annually.",
-        "Micron is structurally re-rated from a commodity cyclical to an AI infrastructure compounder: gross margins expanded from 37.7% to 84.6% YoY in Q3 FY2026, with Q4 guided to ~86%, reflecting durable pricing power from hyperscaler AI capex that analysts now expect to persist through at least 2027."
+        "Entire calendar 2026 HBM supply is sold out under fixed price-and-volume agreements, driving GAAP gross margins to ~85%; $100B in hyperscaler take-or-pay contracts provides unprecedented revenue visibility through 2027 and beyond into an HBM TAM projected to reach ~$100B by 2028.",
+        "Forward P/E collapses to ~9-11x on Q4 guidance of $50B revenue and $31.00 non-GAAP EPS, making the stock optically cheap while $600B+ in hyperscaler AI capex for 2026 continues fueling HBM demand with no near-term supply relief in sight."
       ],
       "bear_case": [
-        "Memory markets are historically and brutally cyclical: the current 84%+ gross margins are extraordinary and could compress sharply if AI capex moderates, LLM efficiency gains reduce memory-per-token demand, or new HBM supply from Samsung's recovery and $58B+ industry-wide capex comes online simultaneously in 2027-2028.",
-        "Valuation risk: at ~49x trailing P/E — 152% above Micron's 10-year historical average — the stock is priced for perfection; a guidance miss, geopolitical disruption to DRAM supply chains (Taiwan/China risk), or macro slowdown could trigger a severe de-rating from peak multiples."
+        "Memory market cyclicality: Samsung and SK Hynix are each committing $15B+ to new capacity, which could cause a supply glut in 2027-2028 and collapse the current peak gross margins — a cyclical reversal that has never been sustained through a full memory downturn at 49x trailing earnings.",
+        "China competition risk from state-backed CXMT and YMTC flooding non-HBM markets with subsidized supply; CAC ban on Micron in Chinese critical infrastructure remains in effect; significant CEO insider selling (30+ transactions in May 2026 at $942-$979) signals potential price ceiling at current levels."
       ],
       "recommendation": "Buy",
-      "current_price": "$1,057.59",
-      "price_target": "$1,296.80 (+22.6%)",
-      "pe_ratio": "49.01",
+      "current_price": "$1,165.94",
+      "price_target": "$1,339.00 (+14.8%)",
+      "pe_ratio": "49.5",
       "rsi": "66.39",
-      "vs_52wk_high": "-12.9% below high ($1,213.56)",
+      "vs_52wk_high": "-7.1% below high ($1,255.00)",
       "analyst_rating": "Strong Buy",
-      "sector": "Information Technology (Semiconductors)",
-      "sources": [
-        "StockAnalysis — MU quote June 24",
-        "TipRanks — Strong Buy consensus; 24 buy / 2 hold; avg target $1,296.80",
-        "GuruFocus — Trailing P/E 49.01; 14-day RSI 66.39",
-        "StockAnalysis — 52-week high $1,213.56 (June 22, 2026); June 23 close $1,051.77",
-        "Investing.com — Q3 FY2026 earnings call transcript",
-        "StockTitan — Micron Q3 record results press release",
-        "SeekingAlpha — HBM sold out through 2026",
-        "TIKR — Post-earnings analyst target raises (Needham $1,550; UBS $1,625; Deutsche Bank $1,500)",
-        "CNBC — Micron hits $1 trillion market cap May 2026"
-      ],
-      "price_history_5d": [1041.41, 1051.77, 1057.59]
+      "sector": "Technology - Semiconductors",
+      "sources": ["CNBC", "Bloomberg", "TheStreet", "TipRanks", "MarketBeat", "Investing.com", "StockTitan"],
+      "price_history_5d": [1211.38, 1089.37, 1048.51, 1165.94]
     },
     {
-      "ticker": "WEN",
-      "company": "Wendy's",
-      "discussion_driver": "WEN surged ~25.7% on June 24, 2026 (halted intraday at a ~40% peak gain) after r/WallStreetBets launched a viral 'Save Wendy's' campaign targeting the stock's ~23% short float, sending shares from near 20-year lows in a meme-stock short squeeze. The move was amplified by Wendy's announcement the prior day that veteran restaurant finance executive Steve Cirulis — who previously worked alongside incoming CEO Bob Wright at Potbelly — would serve as the new CFO and Chief Strategy Officer, adding credibility to a nascent turnaround narrative.",
+      "ticker": "AAPL",
+      "company": "Apple",
+      "discussion_driver": "Apple announced Mac and iPad price increases of $100-$300 per device on June 25, citing an unprecedented surge in DRAM and NAND flash costs driven by AI data center demand diverting chip supply from consumer electronics. CEO Tim Cook stated Apple had 'never seen component prices rise this much, this quickly,' projecting DRAM up 58-63% and NAND up 70-75% quarter-over-quarter. AAPL fell 6.12%, erasing ~$265B in market cap in its steepest single-day decline in over a year; iPhone, Apple Watch, and AirPods pricing was left unchanged.",
       "bull_case": [
-        "New leadership duo with proven track record: CEO Bob Wright and CFO Steve Cirulis previously engineered a successful operational turnaround together at Potbelly, and their reunion at Wendy's raises the credibility of 'Project Fresh' — early adopter company restaurants are already outperforming the broader system by ~310 basis points.",
-        "Massive China expansion upside: Wendy's signed its largest-ever development deal to open 1,000 restaurants across China over 10 years, providing a long-dated international growth runway not yet reflected in depressed valuation multiples."
+        "Services segment generating ~$30B quarterly at 70%+ gross margins (now ~21% of revenue) positions Apple as a premier AI monetization platform, with 1.4B active devices providing a massive runway for Apple Intelligence subscription upsell and third-party AI agent fees.",
+        "Anticipated foldable iPhone launch and iPhone 18 upgrade cycle are expected to drive a multi-year hardware refresh supercycle, backed by ~$25B in quarterly buybacks that mechanically support EPS regardless of near-term hardware headwinds from the chip cost surge."
       ],
       "bear_case": [
-        "Persistent same-store sales declines: Wendy's reported its fifth consecutive quarter of negative U.S. same-restaurant sales in Q1 2026 (down 7.8% YoY), signaling deeply entrenched consumer traffic erosion that new management must reverse.",
-        "Meme-driven surge creates fragile price floor: The June 24 rally was largely momentum/retail-driven with no fundamental change in near-term earnings power; when meme enthusiasm fades, the stock could give back gains quickly given the still-challenging operating backdrop."
+        "AI execution risk: delayed Siri overhaul and questions around the Google Gemini integration raise competitive concerns; iPhone shipments already down 19% YoY in May 2026, and Mac/iPad price hikes may worsen demand destruction before the iPhone 18 cycle can act as a catalyst.",
+        "Valuation of 36x trailing earnings on only ~5% projected revenue growth leaves thin margin of safety, while EU and US antitrust pressure threatening App Store commission rates and alternative distribution mandates directly endanger the high-margin Services engine."
       ],
       "recommendation": "Hold",
-      "current_price": "$7.81",
-      "price_target": "$8.51 (+9.0%)",
-      "pe_ratio": "9.49",
-      "rsi": "N/A",
-      "vs_52wk_high": "-37.6% below high ($12.51)",
-      "analyst_rating": "Hold",
-      "sector": "Consumer Discretionary / Quick Service Restaurants",
-      "sources": [
-        "CNBC — New meme stock Wendy's soars more than 25% (June 24, 2026)",
-        "Yahoo Finance — Wendy's stock swept up in meme-like rally after viral Reddit post, leadership hire",
-        "Yahoo Finance — Wendy's Soars 31% as Save Wendy's Meme Army Targets Short Squeeze",
-        "Wendy's IR — Steve Cirulis CFO/CSO Appointment press release",
-        "Kavout — Wendy's China Expansion Analysis",
-        "GuruFocus — WEN 14-Day RSI 34.25",
-        "MarketBeat — WEN Analyst Forecast / Hold Consensus",
-        "TIKR — Wendy's Names Bob Wright CEO",
-        "Stocktwits — WEN Best Single-Day Gain in 6 Years"
-      ],
-      "price_history_5d": [6.17, 6.26, 7.81]
+      "current_price": "$275.15",
+      "price_target": "$313.62 (+14.0%)",
+      "pe_ratio": "36.01",
+      "rsi": "30.41",
+      "vs_52wk_high": "-13.3% below high ($317.40)",
+      "analyst_rating": "Moderate Buy",
+      "sector": "Technology - Consumer Electronics",
+      "sources": ["CNBC", "CBS News", "NBC News", "TheStreet", "9to5Mac", "TechCrunch", "Gizmodo"],
+      "price_history_5d": [295.53, 293.50, 293.08, 275.15]
     },
     {
-      "ticker": "RUN",
-      "company": "Sunrun",
-      "discussion_driver": "Sunrun surged ~26% on June 24, 2026 after announcing a landmark framework agreement with Tesla and Renew Home to aggregate more than 16 gigawatts of flexible residential battery and smart-device capacity — creating the nation's largest distributed virtual power plant. The deal is designed to deliver fast, dispatchable power to utilities and AI data-center hyperscalers, with 300+ MW available immediately in Virginia's Data Center Alley and a path to 500 MW by 2030, all with no new land, hardware, or interconnection buildout required from offtakers.",
+      "ticker": "TECH",
+      "company": "Bio-Techne",
+      "discussion_driver": "Merck KGaA announced a definitive $11.3B all-cash agreement to acquire Bio-Techne at $73 per share on June 25 — a 36% premium to the 30-day VWAP and 24% above the prior-day close of $58.88 — the largest Merck deal since the $17B Sigma-Aldrich acquisition in 2014 and one of the largest transactions in Minnesota corporate history. TECH surged ~20%, fully validating activist investor Ananym Capital Management's June 15 push for a strategic review; the deal is expected to close late 2026 or early 2027, subject to shareholder vote and regulatory approval.",
       "bull_case": [
-        "Transformational AI/data-center revenue stream: The 16 GW Tesla/Renew Home virtual power plant deal positions Sunrun as clean infrastructure for surging AI compute demand, with U.S. data-center power needs projected at 66 GW by 2027 — opening an entirely new, high-margin revenue category beyond residential subscriptions.",
-        "Dominant residential battery moat with 73% storage attach rate: Sunrun's record-high storage attachment rate and ~4.3 GWh networked battery fleet give it a uniquely scalable, recurring-revenue grid-services platform that competitors cannot replicate quickly, underpinning Q1 2026 revenue growth of 43% YoY and a massive EPS beat."
+        "Hard $73/share all-cash deal floor unanimously approved by both boards, representing a 36% premium to VWAP; premier life sciences portfolio spanning cytokines, spatial biology (RNAscope), and cell therapy manufacturing validated at full strategic value by a sophisticated global acquirer.",
+        "Activist thesis fully confirmed in under two weeks: Ananym Capital Management's June 15 campaign succeeded immediately, and the all-cash structure with €140M annual cost synergy target by year three provides certainty of value for existing shareholders at deal close."
       ],
       "bear_case": [
-        "Framework deal, not firm contracts: The Tesla/Renew Home partnership is a capacity agreement, not signed hyperscaler revenue — execution hinges on customer enrollment, utility program approvals, and regulatory sign-off, and analyst Gordon Johnson (GLJ Research) argues only ~4 GW of the claimed 16 GW reflects real rated battery power.",
-        "Ongoing cash generation misses and operating pressure: Sunrun's Q2 cash generation came in at just $27M vs. $50-60M guidance, earnings are forecast to decline ~27% per year on average, and a higher-rate environment (11% discount rate) continues to compress margins and project economics — leading Jefferies to downgrade to Hold."
+        "Limited upside to deal: stock at ~$70.47 versus $73 deal price offers only ~3.6% to deal close; any antitrust delay, regulatory block, or deal break sends the stock sharply lower toward pre-announcement levels near $58 — a -18% downside scenario.",
+        "Underlying standalone business faced structural headwinds prior to acquisition — uneven revenue growth, persistent weakness in China, and constrained pharma/academic spending — meaning the deal priced in all value with no standalone alternative floor if the deal falls through."
       ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$16.12",
-      "price_target": "$18.88 (+17.1%)",
-      "pe_ratio": "7.32",
-      "rsi": "59.69",
-      "vs_52wk_high": "-28.2% below high ($22.44)",
-      "analyst_rating": "Buy",
-      "sector": "Residential Solar & Energy Storage (Renewable Energy)",
-      "sources": [
-        "GuruFocus — RUN stock surge +25.9% on June 24",
-        "GlobeNewswire — Sunrun, Renew Home and Tesla 16 GW VPP announcement",
-        "247WallSt — Sunrun surges 26% on 16 GW VPP deal",
-        "Yahoo Finance — Sunrun 16 GW deal coverage",
-        "MarketBeat — RUN analyst forecast",
-        "StockAnalysis — RUN forecast",
-        "Motley Fool — Stock market today June 24 (Sunrun/Tesla deal)",
-        "Electrek — Tesla Sunrun 16GW VPP for data centers",
-        "Public.com — RUN P/E ratio",
-        "WallStreetZen — RUN stock forecast"
-      ],
-      "price_history_5d": [12.81, 16.12]
-    },
-    {
-      "ticker": "CBRS",
-      "company": "Cerebras Systems",
-      "discussion_driver": "Cerebras fell ~15% on June 24, 2026, despite reporting Q1 revenue of $193.4M — up 92% year-over-year — beating estimates of $180.8M on surging AI inference demand. The selloff was triggered by margin compression: Q1 core gross margin of 47% was guided sharply lower to 36-38% in Q2 and 38-41% for full-year 2026, far below Nvidia's margins. This marked the company's first earnings report as a public company after its record $5.55B IPO in May 2026.",
-      "bull_case": [
-        "Explosive revenue growth and $20B+ anchor contract: Q1 revenue surged 92% YoY to $193.4M, and Cerebras holds a multi-year, $20B+ deal with OpenAI for 750MW of compute capacity — the single largest inference infrastructure contract in the industry — plus an expanding AWS distribution partnership that diversifies its go-to-market.",
-        "Fastest AI inference hardware with FY2026 revenue guided to ~$860M midpoint: Cerebras' Wafer-Scale Engine leads independent benchmarks for inference speed, giving it a defensible technical moat. Full-year 2026 core revenue guidance of $855-865M implies continued hyper-growth, and analysts maintain a Strong Buy consensus with an average $294 price target (+30% upside from current levels)."
-      ],
-      "bear_case": [
-        "Severe margin compression and widening losses: Core gross margin is guided to collapse from 47% in Q1 to 36-38% in Q2 and 38-41% for all of FY2026, while operating margins remain deeply negative (-28% to -32%). At a ~$50B market cap on ~$860M in revenue with no near-term path to profitability, the valuation demands perfect execution.",
-        "Extreme customer concentration and execution risk: Cerebras depends overwhelmingly on a single customer (OpenAI), whose contract represents roughly 23x the company's annual revenue guidance midpoint. The company is also temporarily renting back hardware from G42 because its own data centers aren't built yet — any OpenAI deployment slippage or relationship deterioration would force a severe re-rating."
-      ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$226.72",
-      "price_target": "$294.00 (+29.7%)",
-      "pe_ratio": "~544.00",
-      "rsi": "29",
-      "vs_52wk_high": "-41.4% below high ($386.34)",
+      "recommendation": "Hold",
+      "current_price": "$70.47",
+      "price_target": "$73.00 (+3.6%)",
+      "pe_ratio": "75.35",
+      "rsi": "62.71",
+      "vs_52wk_high": "-2.3% below high ($72.16)",
       "analyst_rating": "Strong Buy",
-      "sector": "Semiconductors / AI Infrastructure",
-      "sources": [
-        "Yahoo Finance — CBRS quote and history",
-        "CNBC — Cerebras Q1 earnings report 2026",
-        "CNBC — Cerebras starts trading on Nasdaq after IPO (May 14, 2026)",
-        "MarketBeat — CBRS analyst ratings and price targets",
-        "Zacks — CBRS price target forecast",
-        "ChartMill — CBRS technical analysis and RSI",
-        "Stocks Down Under — Cerebras $20B OpenAI deal analysis",
-        "Yahoo Finance — CBRS stock tumbles after-hours following Q1 print",
-        "FX Leaders — Cerebras stock forecast after margin outlook",
-        "SeekingAlpha — Cerebras tumbles as margin worries outweigh OpenAI deal",
-        "TIKR — Cerebras Has Fallen 39% From Its Peak",
-        "StocksToTrade — CBRS stock Morgan Stanley $250 target",
-        "Cerebras Investor Relations — Q1 2026 Results Press Release"
-      ],
-      "price_history_5d": [225.77, 234.71, 226.83, 226.72]
+      "sector": "Healthcare - Life Sciences Tools & Services",
+      "sources": ["CNBC", "PR Newswire", "TipRanks", "TradingView", "GuruFocus", "Bloomberg", "SEC 8-K"],
+      "price_history_5d": [58.50, 58.88, 70.47]
     },
     {
-      "ticker": "EXPE",
-      "company": "Expedia Group",
-      "discussion_driver": "Expedia surged ~9% on June 24, 2026 as WTI crude briefly fell to $69.63/bbl following advancing U.S.-Iran diplomatic negotiations that eased Middle East supply concerns and reduced fuel cost pressures across the travel industry. Lower fuel costs directly benefit online travel platforms by reducing consumer airfare prices and boosting booking volumes. The oil-driven tailwind amplified already positive sentiment from strong Q4 2025 B2B results and ongoing institutional accumulation.",
+      "ticker": "QCOM",
+      "company": "Qualcomm",
+      "discussion_driver": "Qualcomm's June 24 Investor Day unveiled the Dragonfly data center platform — including the C1000 250-core server CPU (>5 GHz, PCIe Gen 7), AI250/AI300 accelerators with novel HBC near-memory compute architecture — and secured Meta Platforms as the first named CPU customer in a multi-generation deployment agreement. Qualcomm also acquired AI software startup Modular for $3.92B all-stock to build a CUDA alternative (MAX framework), raised FY2029 data center revenue target to $15B+ and total non-handset QCT revenue to $40B, prompting Morgan Stanley to reverse its bearish stance with an upgrade and a wave of analyst price target hikes.",
       "bull_case": [
-        "Rapid B2B expansion: Expedia's B2B gross bookings and revenues surged 24% year-over-year in Q4 2025, diversifying revenue away from consumer OTA traffic and providing a more durable, higher-margin growth engine that reduces reliance on paid search and AI-disrupted discovery channels.",
-        "Compelling relative valuation with aggressive capital return: EXPE trades at a forward P/E of ~12x versus ~16x for Booking Holdings and ~25x for Airbnb, while sitting at a full-year 2026 EPS growth consensus of ~20% and executing a $5 billion share buyback program — offering both a valuation discount and shareholder-friendly capital allocation."
+        "Dragonfly data center pivot is credible and early: confirmed Meta CPU deal, Microsoft Azure partnership for AI250 accelerators mid-2027, and Modular acquisition building a CUDA-alternative software stack that could break Nvidia's ecosystem lock-in at the model-portability layer.",
+        "Non-handset diversification is already delivering: automotive hit $1.33B (+38% YoY) crossing a $5B annualized threshold with a $65B design-win pipeline, IoT grew 9%, and Snapdragon PCs hold ~10% of Windows laptops above $800, meaningfully reducing smartphone dependency that bears have over-weighted."
       ],
       "bear_case": [
-        "AI disruption to consumer OTA traffic: The core consumer business (~62% of revenue) remains structurally exposed to AI-powered travel planning tools (ChatGPT, Google AI Overviews) that could erode direct and paid search traffic, compressing the margins that underpin the bull thesis if B2B growth cannot fully offset the deterioration.",
-        "Execution risk on brand consolidation and One Key loyalty program: EXPE's multi-year tech unification and the One Key cross-brand rewards program (Expedia, Hotels.com, Vrbo) remain works in progress; missteps in product integration or failure to convert One Key into a durable competitive moat could leave Expedia at a sustained discount to peers without the growth to justify a re-rating."
+        "Apple modem exit creates a $5.7-8B annual revenue cliff by 2027-2028 as Apple's Prometheus modem achieves full iPhone coverage, leaving a 12-18 month earnings gap before Dragonfly C1000 production revenue begins in H2 2028.",
+        "China export control escalation risk: the ByteDance ASIC deal was deliberately structured below computing thresholds to comply with current rules, but any further tightening could void that compliance simultaneously with Apple revenue loss — a worst-case double-hit scenario for the data center transformation thesis."
       ],
-      "recommendation": "Buy",
-      "current_price": "$268.27",
-      "price_target": "$282.50 (+5.3%)",
-      "pe_ratio": "24.16",
-      "rsi": "67.65",
-      "vs_52wk_high": "-11.7% below high ($303.80)",
-      "analyst_rating": "Buy",
-      "sector": "Consumer Discretionary (Online Travel Services)",
-      "sources": [
-        "GuruFocus — EXPE shares surge on June 24 (travel stocks/oil drop)",
-        "GuruFocus — Travel stocks surge as oil prices drop (June 24, 2026)",
-        "StockStory — Why Expedia (EXPE) stock is up today (June 24, 2026)",
-        "MacroTrends — EXPE P/E ratio historical",
-        "MarketBeat — EXPE analyst forecast",
-        "StockAnalysis — EXPE forecast",
-        "SimplyWallSt — EXPE valuation analysis",
-        "InsiderMonkey — Expedia bull case thesis",
-        "Kalkine — Expedia B2B surge and valuation analysis",
-        "TIKR — Expedia B2B story and model",
-        "NASDAQ — EXPE historical prices",
-        "Yahoo Finance — EXPE history"
+      "recommendation": "Speculative Buy",
+      "current_price": "$204.90",
+      "price_target": "$220.00 (+7.4%)",
+      "pe_ratio": "24.5",
+      "rsi": "44.68",
+      "vs_52wk_high": "-21.2% below high ($259.92)",
+      "analyst_rating": "Hold",
+      "sector": "Technology - Semiconductors",
+      "sources": ["Digitimes", "Data Center Knowledge", "Yahoo Finance", "CNBC", "Bloomberg", "ServeTheHome", "247 Wall St."],
+      "price_history_5d": [221.90, 197.41, 204.90]
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "discussion_driver": "Microsoft announced Xbox console price increases of up to $150 on June 25, with Xbox Series X rising from $649 to $799 — the third Xbox price hike in 15 months — citing a 2.5x surge in storage and memory component costs from AI chipmaker demand. Simultaneously, Stifel cut its price target to $400 citing severe Azure gross margin compression expectations for FY2027. The dual catalysts sent MSFT down ~3.8% to a fresh 52-week closing low of $354.32 (intraday low $349.20), extending its ~29% YTD decline as the worst-performing Magnificent Seven stock in 2026.",
+      "bull_case": [
+        "AI business generating $37B annualized revenue run rate (+123% YoY); Azure growing 39% in constant currency with 20M+ Copilot commercial seats and 80%+ of Fortune 500 using Microsoft AI — building durable competitive infrastructure moats while the stock trades at its most attractive valuation since the pre-AI era.",
+        "At ~21x trailing earnings near a 52-week low with a consensus price target of ~$565 implying ~60% upside, MSFT offers a rare combination of quality-at-discount; 35 Buy / 1 Hold / 0 Sell analyst ratings suggest institutional conviction in the long-term AI narrative despite near-term margin headwinds."
       ],
-      "price_history_5d": [239.47, 243.21, 245.07, 245.07, 268.27]
+      "bear_case": [
+        "$190B capex commitment in 2026 is compressing free cash flow, with Stifel projecting Azure gross margin erosion of 100-150 bps/quarter through FY2027, potentially leaving consensus FY2027 EPS estimates of ~$19.45 overstated by $1+ as capital intensity outpaces revenue ramp.",
+        "45%+ Azure backlog concentration from OpenAI creates customer dependency risk as OpenAI diversifies cloud providers; MSFT has underperformed mega-cap peers significantly in 2026 (down 29% vs. Alphabet +14%, Amazon +4%), signaling structural rather than cyclical investor concerns about AI monetization timing."
+      ],
+      "recommendation": "Hold",
+      "current_price": "$354.32",
+      "price_target": "$565.00 (+59.5%)",
+      "pe_ratio": "21.0",
+      "rsi": "32.44",
+      "vs_52wk_high": "-36.2% below high ($555.45)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Technology - Software & Cloud",
+      "sources": ["TechCrunch", "CNBC", "Xbox Wire", "TheStreet", "MarketBeat", "Investing.com", "Benzinga"],
+      "price_history_5d": [373.94, 365.46, 354.32]
     }
   ]
 }
