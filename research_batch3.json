@@ -1,98 +1,52 @@
 {
-  "report_date": "2026-06-25",
+  "report_date": "2026-06-26",
   "batch": 3,
   "stocks": [
     {
-      "ticker": "MKC",
-      "company": "McCormick & Company",
-      "discussion_driver": "McCormick posted a Q2 2026 earnings beat on June 25 — EPS $0.80 vs. $0.69 est. and revenue $1.94B vs. $1.91B est. — driven by the McCormick de Mexico acquisition (contributing ~12% to sales growth) and 270 bps of gross margin expansion. Net sales rose 16.7% YoY and the company reaffirmed FY2026 EPS guidance of $3.05–$3.13 and 13–17% net sales growth, though the stock's muted reaction reflects lingering cost inflation concerns.",
-      "bull_case": [
-        "Q2 2026 earnings beat with 270 bps gross margin expansion; reaffirmed FY2026 guidance signals management confidence in H2 organic volume recovery",
-        "McCormick de Mexico acquisition contributing ~12% to total sales growth, accelerating international diversification and revenue scale"
-      ],
-      "bear_case": [
-        "Stock remains ~38% below its 52-week high despite earnings beat, suggesting persistent sector headwinds and limited near-term catalyst for re-rating",
-        "Rising cost pressures from global supply chains (including Middle East conflict) and a tax headwind flagged for Q3 2026 may compress margins"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$48.42",
-      "price_target": "$61.23 (+26.5%)",
-      "pe_ratio": "17.55",
-      "rsi": "44.44",
-      "vs_52wk_high": "-38.1% below high ($78.16)",
-      "analyst_rating": "Buy",
-      "sector": "Consumer Staples - Spices & Seasonings",
-      "sources": ["TheStreet", "Bloomberg", "StockTitan", "Investing.com", "StockStory"],
-      "price_history_5d": [47.60, 48.42]
-    },
-    {
-      "ticker": "CRWV",
-      "company": "CoreWeave Inc.",
-      "discussion_driver": "Rosenblatt initiated coverage on CoreWeave June 25 with a Buy rating and $250 price target, calling it 'the de facto operating system for AI' — citing 1+ GW of active GPU power, a $100B Q1 2026 backlog, and revenue expected to double YoY to $12.8B in 2026. The stock also recently joined the Nasdaq-100 on June 22, though profit-taking pulled shares back near $100 post-inclusion before recovering.",
-      "bull_case": [
-        "Rosenblatt's $250 target implies 139% upside; $100B backlog, 1+ GW active power capacity, and 77% revenue CAGR forecast through 2030 position CRWV as a structural AI infrastructure winner",
-        "Revenue doubling YoY to $12.8B in 2026, with Nasdaq-100 inclusion driving new institutional demand and index-fund buying"
-      ],
-      "bear_case": [
-        "Extremely heavy debt load ($35.1B total debt, 7.39x debt-to-equity) to fund GPU buildout creates significant financial risk in a rising rate or tightening credit environment",
-        "Recent insider selling — CEO sold $32.87M, CDO sold $5.84M — raises questions about near-term valuation ceiling; stock down 43% from 52-week high"
-      ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$104.76",
-      "price_target": "$140.18 (+33.8%)",
-      "pe_ratio": "N/A",
-      "rsi": "N/A",
-      "vs_52wk_high": "-43.1% below high ($183.98)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - AI Cloud Infrastructure",
-      "sources": ["Rosenblatt", "TipRanks", "Investing.com", "MarketBeat", "Benzinga"],
-      "price_history_5d": [100.88, 104.76]
-    },
-    {
-      "ticker": "AFRM",
-      "company": "Affirm Holdings Inc.",
-      "discussion_driver": "Affirm surged ~10.7% on June 24 after CPP Investments (Canada Pension Plan) agreed to buy $1.7B–$2.2B of Affirm loans over 24 months, pushing total funding capacity to $28.2B and supporting ~$8B in loan volume. The very next session, Morgan Stanley downgraded shares to Equal-Weight at $79 — essentially the current price — arguing valuation had 'caught up' to the bull case after the rally, creating a tug-of-war between fresh institutional funding news and a high-profile valuation concern.",
-      "bull_case": [
-        "CPP Investments forward-flow deal expands total funding capacity to $28.2B, substantially de-risking Affirm's ability to scale loan volume and GMV durability",
-        "Broad analyst consensus remains Buy (31 analysts); Deutsche Bank ($85) and Susquehanna ($105) both raised targets, suggesting multiple firm-specific growth drivers beyond the CPP deal"
-      ],
-      "bear_case": [
-        "Morgan Stanley downgraded to Equal-Weight ($79 target) citing valuation concerns after the rally — current price of $76.42 leaves minimal margin of safety near the MS target",
-        "Consumer credit quality risks and intensifying BNPL competition could pressure loss rates and GMV growth in a slowing consumer environment"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$76.42",
-      "price_target": "$85.76 (+12.2%)",
-      "pe_ratio": "82.86",
-      "rsi": "N/A",
-      "vs_52wk_high": "-23.6% below high ($100.00)",
-      "analyst_rating": "Buy",
-      "sector": "Financial Technology - Buy Now Pay Later (BNPL)",
-      "sources": ["Morgan Stanley", "MarketBeat", "Benzinga", "Seeking Alpha", "Investing.com", "GuruFocus"],
-      "price_history_5d": [73.92, 79.53, 76.42]
-    },
-    {
       "ticker": "KDP",
       "company": "Keurig Dr Pepper Inc.",
-      "discussion_driver": "Barclays upgraded KDP to Overweight with a $36 price target on June 25, citing improving clarity on KDP's planned corporate separation into 'Beverage Co.' and 'Global Coffee Co.' by early 2027. The split will create two focused pure-play businesses with combined pro forma net sales of ~$28B. KDP also reaffirmed its 2026 net sales guidance of $25.90–$26.40B, offering relative stability as the breakup thesis plays out.",
+      "discussion_driver": "Barclays upgraded KDP from Equal Weight to Overweight on June 25, raising its price target from $30 to $36, citing improving clarity around the planned separation of Keurig Dr Pepper into two standalone companies — Beverage Co. and Global Coffee Co. The stock surged on the upgrade and continued gaining Friday amid broader defensive rotation as tech-led selling pushed investors toward consumer staples. The upcoming business split is increasingly viewed as a value-unlocking catalyst, though the June 23 announcement that coffee unit CEO Rafa Oliveira is departing ahead of the split added a layer of execution uncertainty.",
       "bull_case": [
-        "Barclays' Overweight upgrade ($36 target) reflects growing confidence the Beverage Co./Global Coffee Co. breakup will unlock hidden value, consistent with peers trading at premium pure-play multiples",
-        "Company reaffirmed 2026 net sales guidance of $25.90–$26.40B while executing a major strategic transformation — signals operational stability amid structural change"
+        "Planned separation into Beverage Co. and Global Coffee Co. is expected to eliminate the conglomerate discount and unlock shareholder value; Barclays' $36 target implies ~8.6% upside and aligns with the highest-conviction bull case that pure-play peers trade at premium multiples.",
+        "Defensive consumer staples profile with iconic brands (Dr Pepper, Snapple, Green Mountain Coffee) provides earnings stability and dividend income during tech-led market volatility; company reaffirmed 2026 net sales guidance of $25.9–$26.4B."
       ],
       "bear_case": [
-        "Corporate separation into two entities introduces meaningful execution risk, management transition uncertainty, and potential one-time restructuring costs through early 2027",
-        "Stock trades near multi-year lows relative to its 52-week high; beverage volumes remain sensitive to consumer discretionary spending and private-label competition"
+        "CEO departure from the coffee unit (Rafa Oliveira leaving end of July to join Heineken) ahead of the planned separation creates leadership risk and potential execution uncertainty at a critical transition point.",
+        "High debt load from historical acquisitions limits financial flexibility; any macro deterioration or rising interest rate environment could pressure free cash flow and complicate the business-split timeline."
       ],
       "recommendation": "Buy",
-      "current_price": "$30.36",
-      "price_target": "$35.47 (+16.8%)",
+      "current_price": "$33.22",
+      "price_target": "$35.47 (+6.8%)",
       "pe_ratio": "22.6",
-      "rsi": "N/A",
-      "vs_52wk_high": "-15.5% below high ($35.94)",
+      "rsi": "58.6",
+      "vs_52wk_high": "-7.6% below high ($35.94)",
       "analyst_rating": "Buy",
       "sector": "Consumer Staples - Beverages",
-      "sources": ["Barclays", "Benzinga", "MarketBeat", "Investing.com", "StockTitan"],
-      "price_history_5d": [30.76, 31.40, 30.36]
+      "sources": ["Barclays via GuruFocus", "Yahoo Finance", "MarketBeat", "Benzinga", "StockAnalysis"],
+      "price_history_5d": [30.76, 32.52, 33.22]
+    },
+    {
+      "ticker": "SLS",
+      "company": "SELLAS Life Sciences Group Inc.",
+      "discussion_driver": "SELLAS Life Sciences surged ~13.5% as short interest climbed to an all-time high of ~32.65% of float (63.4M shares short, 9.3 days to cover), with amended executive employment agreements — including enhanced change-of-control severance provisions for the CEO, CFO, and CDO — sparking acquisition speculation. The combination of record short positioning and M&A rumors is creating a classic short-squeeze setup heading into binary clinical catalysts: Phase III REGAL trial results for GPS (galinpepimut-S in AML) and Phase II data for SLS009 (CDK9 inhibitor tambiciclib).",
+      "bull_case": [
+        "Record-high short interest (~33% of float, 9.3 days to cover) creates explosive short-squeeze potential; any positive Phase III REGAL trial readout for GPS in AML could trigger a forced-covering cascade that dramatically amplifies the stock move.",
+        "Executive change-of-control amendments filed with the SEC signal possible M&A interest; a takeout premium on a late-stage oncology platform with two AML assets would likely represent substantial upside from current levels."
+      ],
+      "bear_case": [
+        "Stock is overbought (RSI 72.67) and trading above analyst consensus price target ($10.00), leaving little margin of safety; a short-squeeze unwind or negative trial readout could produce a severe reversal from current levels.",
+        "Clinical-stage company with no revenue and negative earnings; a missed primary endpoint in the Phase III REGAL trial for GPS would likely cause a catastrophic stock decline, consistent with small-cap biotech historical failure rates."
+      ],
+      "recommendation": "Speculative Buy",
+      "current_price": "$10.53",
+      "price_target": "$10.00 (-5.0%)",
+      "pe_ratio": "N/A",
+      "rsi": "72.67",
+      "vs_52wk_high": "-4.8% below high ($11.06)",
+      "analyst_rating": "Buy",
+      "sector": "Healthcare - Biotechnology",
+      "sources": ["StockTitan", "MarketBeat", "StockAnalysis", "Yahoo Finance", "ts2.tech", "Alliance Global Partners"],
+      "price_history_5d": [8.53, 9.07, 9.17, 10.53]
     }
   ]
 }
