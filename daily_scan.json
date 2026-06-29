@@ -1,145 +1,187 @@
 {
-  "report_date": "2026-06-26",
-  "market_tone": "Mixed",
+  "report_date": "2026-06-29",
+  "market_tone": "Bullish",
   "key_themes": [
-    "OpenAI IPO reportedly delayed to 2027, rattling AI/tech stocks and triggering fifth consecutive Nasdaq losing session",
-    "Pharma/biotech strength: Moderna surges on Science Day catalyst; Eli Lilly hits new highs on European regulatory win and Medicare GLP-1 bridge program",
-    "Chip sector pressure: ON Semiconductor tanks 20%+ on $7B Synaptics acquisition; Micron gives back post-earnings gains; Sandisk/storage stocks in broad selloff",
-    "SpaceX joins Russell 1000 after market close, driving index-driven buying ahead of Monday rebalancing",
-    "M&A headline: ON Semiconductor acquires Synaptics for ~$7B in largest deal in company history"
+    "Media sector restructuring as Comcast announces NBCUniversal/Sky spinoff, sparking cable M&A speculation",
+    "Space sector M&A: Rocket Lab acquires Iridium in $8B deal, lifting satellite stocks broadly",
+    "Tech/semiconductor relief rally as US-Iran diplomatic talks resume, easing geopolitical risk"
   ],
   "sp500": {
-    "value": "7,354.02",
-    "change": "-0.05%"
+    "value": "7,440.43",
+    "change": "+1.18%"
   },
   "nasdaq": {
-    "value": "25,297.62",
-    "change": "-0.24%"
+    "value": "25,820.14",
+    "change": "+2.07%"
   },
   "stocks": [
     {
-      "ticker": "MRNA",
-      "company": "Moderna",
-      "reason": "S&P 500 top performer, surging ~12% after annual Science Day: announced in vivo CAR-T therapy for autoimmune diseases and detailed long-term mRNA oncology/rare disease pipeline beyond vaccines",
-      "category": "news",
-      "sources": [
-        "TheStreet",
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "LLY",
-      "company": "Eli Lilly",
-      "reason": "Up ~6%, hitting new 52-week high of $1,200.55 on dual catalysts: European Medicines Agency positive opinion for Jaypirca (CLL treatment), and Medicare GLP-1 Bridge program announced starting July 1 covering Zepbound/Foundayo at $50/month copay",
-      "category": "news",
-      "sources": [
-        "TradingKey",
-        "Investing.com",
-        "Alphastreet"
-      ]
-    },
-    {
-      "ticker": "ON",
-      "company": "ON Semiconductor",
-      "reason": "Plunged ~20-24% after announcing $7B all-stock acquisition of Synaptics \u2014 largest deal in company history \u2014 to expand into physical AI and edge computing; market punished dilution and deal risk",
+      "ticker": "CMCSA",
+      "company": "Comcast Corporation",
+      "reason": "Announced plan to spin off NBCUniversal and Sky into a separate public company, splitting cable/broadband from media; shares surged ~23% on blockbuster restructuring news",
       "category": "news",
       "sources": [
         "CNBC",
+        "CNN Business",
+        "CBS News",
+        "Investing.com"
+      ]
+    },
+    {
+      "ticker": "CHTR",
+      "company": "Charter Communications",
+      "reason": "Surged 14-20% on Comcast spinoff news; investors speculate cable assets could merge, with Charter also reportedly in talks with SpaceX on broadband",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Investing.com",
+        "TheStreet"
+      ]
+    },
+    {
+      "ticker": "QDEL",
+      "company": "QuidelOrtho Corporation",
+      "reason": "Jumped ~35% after reports emerged that company is exploring $1.5B sale of point-of-care testing unit to PE firms to reduce its $3.8B debt load; Jefferies called it a net positive",
+      "category": "news",
+      "sources": [
+        "StreetInsider",
         "Yahoo Finance",
-        "Invezz"
+        "FinancialContent"
       ]
     },
     {
-      "ticker": "SYNA",
-      "company": "Synaptics",
-      "reason": "Being acquired by ON Semiconductor in all-stock deal at ~$7B enterprise value; deal adds Edge AI compute, connectivity, and HMI solutions to ON Semi portfolio; expected to close mid-2027",
+      "ticker": "IRDM",
+      "company": "Iridium Communications",
+      "reason": "Surged 21% after Rocket Lab announced $8B acquisition at $54/share (cash and stock); deal creates vertically integrated space company with Iridium's 66-satellite LEO network",
       "category": "news",
       "sources": [
-        "SEC 8-K filings",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "SPCX",
-      "company": "SpaceX",
-      "reason": "Up ~3% as company officially joins Russell 1000, Russell Top 200, and related indexes after market close tonight; fast-tracked under new FTSE Russell rule for large new listings; passive funds estimated to buy $3B-$27B in shares",
-      "category": "news",
-      "sources": [
-        "ETF.com",
-        "Invezz",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "AFRM",
-      "company": "Affirm",
-      "reason": "Downgraded by Morgan Stanley from Overweight to Equal-Weight with $79 price target and removed from Top Picks list; analyst cites valuation catch-up after prior session surge on CPP Investments $1.7-2.2B loan forward-flow deal",
-      "category": "downgrade",
-      "sources": [
+        "Yahoo Finance",
+        "PR Newswire",
         "Seeking Alpha",
-        "Investing.com",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "SNDK",
-      "company": "SanDisk",
-      "reason": "Down ~7% in broad memory/storage sector selloff accompanying post-Micron earnings tech sector rotation; Seagate and Western Digital also declined sharply on same session",
-      "category": "sector",
-      "sources": [
-        "Yahoo Finance",
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron Technology",
-      "reason": "Pulled back ~4.5% in premarket after surging ~16% previous session on blowout fiscal Q3 earnings driven by AI data center memory demand; Erste Group upgraded to Buy today but profit-taking dominated; chip sector headwinds amplified pullback",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Investing.com",
-        "Erste Group"
-      ]
-    },
-    {
-      "ticker": "SFTBY",
-      "company": "SoftBank Group",
-      "reason": "Plunged 12-13%, wiping out 5.6 trillion yen in market cap, after reports that OpenAI may delay its IPO until 2027; SoftBank holds ~13% stake in OpenAI worth ~$65B and is deeply exposed to OpenAI valuation trajectory",
-      "category": "news",
-      "sources": [
-        "Value The Markets",
-        "TradingKey",
-        "IG"
+        "GlobeNewswire"
       ]
     },
     {
       "ticker": "RKLB",
-      "company": "Rocket Lab",
-      "reason": "NASA selected Rocket Lab to provide three Electron launches for two science missions (PolSIR and TSIS-2) starting early next year; stock was a premarket mover and featured in CNBC midday movers amid space sector volatility",
+      "company": "Rocket Lab USA",
+      "reason": "Rose 8-11% on announcement of $8B Iridium acquisition; deal transforms Rocket Lab from launch provider into a fully vertically integrated space platform with global satellite comms",
       "category": "news",
       "sources": [
-        "Yahoo Finance/NASA",
+        "Yahoo Finance",
+        "PR Newswire",
+        "Seeking Alpha"
+      ]
+    },
+    {
+      "ticker": "OC",
+      "company": "Owens Corning",
+      "reason": "Surged 14%+ (best day since 2009) on reports Carlisle Companies made unsolicited takeover bid; Owens Corning has not yet engaged significantly with the overture",
+      "category": "news",
+      "sources": [
+        "QuiverQuant",
+        "Investing.com",
         "CNBC"
       ]
     },
     {
-      "ticker": "KDP",
-      "company": "Keurig Dr Pepper",
-      "reason": "Upgraded by Barclays from Equal Weight to Overweight with $36 price target; analyst sees defensive consumer staples value amid tech-led market weakness",
-      "category": "upgrade",
+      "ticker": "ALAB",
+      "company": "Astera Labs",
+      "reason": "Rose ~16% as semiconductor sector rebounded sharply; VanEck Semiconductor ETF (SMH) gained 3%+ as US-Iran diplomatic talks eased geopolitical fears weighing on tech capex outlook",
+      "category": "sector",
       "sources": [
         "Benzinga",
-        "MarketBeat"
+        "TradingKey",
+        "CNBC"
       ]
     },
     {
-      "ticker": "SLS",
-      "company": "SELLAS Life Sciences",
-      "reason": "Surged ~13.5% as short interest hit all-time highs amid executive severance reports, triggering a short squeeze dynamic; one of the session's biggest small-cap percentage gainers",
+      "ticker": "KLAC",
+      "company": "KLA Corporation",
+      "reason": "Jumped ~12% in broader semiconductor relief rally; Philadelphia Semiconductor Index rose 3%+ as investors returned to chip equipment names following last week's sell-off",
+      "category": "sector",
+      "sources": [
+        "Benzinga",
+        "TradingKey",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "AMAT",
+      "company": "Applied Materials",
+      "reason": "Rose ~11% alongside semiconductor equipment peers as Nasdaq led market gains; sector rebounded on Iran peace talk optimism and renewed confidence in AI-driven capex cycle",
+      "category": "sector",
+      "sources": [
+        "Benzinga",
+        "TradingKey",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla Inc.",
+      "reason": "Jumped 7-8% as part of broader tech/growth relief rally tied to resuming US-Iran diplomatic talks in Doha; space stocks and AI-adjacent names led Monday's advance",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "TradingKey",
+        "TheStreet"
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet Inc.",
+      "reason": "First day trading as Dow Jones Industrial Average member, replacing Verizon; shares gained ~3.7-5% as index funds rebalanced; adds AI, cloud, and advertising exposure to Dow",
       "category": "news",
       "sources": [
-        "StockTitan"
+        "Bloomberg",
+        "CNBC",
+        "Motley Fool",
+        "US News"
+      ]
+    },
+    {
+      "ticker": "BLD",
+      "company": "TopBuild Corp",
+      "reason": "Fell 12-15% (worst day since March 2020) after shareholders approved QXO acquisition (~99% of QXO votes, ~78% of TopBuild votes); deal expected to close around July 1",
+      "category": "news",
+      "sources": [
+        "GuruFocus",
+        "Investing.com",
+        "CNBC",
+        "SEC filing"
+      ]
+    },
+    {
+      "ticker": "SNEX",
+      "company": "StoneX Group",
+      "reason": "Dropped ~11.5% (-$15.62 to $119.80) in significant sell-off; among the session's biggest decliners with no single company-specific catalyst widely attributed",
+      "category": "news",
+      "sources": [
+        "GuruFocus",
+        "MarketBeat",
+        "TheStreet"
+      ]
+    },
+    {
+      "ticker": "CSL",
+      "company": "Carlisle Companies",
+      "reason": "Fell more than 5% after reports emerged it made unsolicited takeover offers to acquire Owens Corning; market concerned about deal risk and dilution",
+      "category": "news",
+      "sources": [
+        "Investing.com",
+        "CNBC",
+        "QuiverQuant"
+      ]
+    },
+    {
+      "ticker": "VZ",
+      "company": "Verizon Communications",
+      "reason": "Removed from Dow Jones Industrial Average effective today, replaced by Alphabet; index reconstitution pressure and reduced visibility as Dow component",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Bloomberg",
+        "Motley Fool"
       ]
     }
   ]
