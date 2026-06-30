@@ -1,187 +1,174 @@
 {
-  "report_date": "2026-06-29",
+  "report_date": "2026-06-30",
   "market_tone": "Bullish",
   "key_themes": [
-    "Media sector restructuring as Comcast announces NBCUniversal/Sky spinoff, sparking cable M&A speculation",
-    "Space sector M&A: Rocket Lab acquires Iridium in $8B deal, lifting satellite stocks broadly",
-    "Tech/semiconductor relief rally as US-Iran diplomatic talks resume, easing geopolitical risk"
+    "Q2 2026 quarter-end rally \u2014 best quarter for S&P 500 and Nasdaq since 2020",
+    "Defense/drone sector surge led by AeroVironment massive earnings beat (+133% revenue YoY)",
+    "Biotech catalyst: Abivax Phase 3 ABTECT trial success for ulcerative colitis drug obefazimod",
+    "AI/data center capex cycle driving upgrades in water tech and semiconductor connectivity names",
+    "Heavy analyst action day \u2014 notable double-upgrade for Block, downgrades for Fortinet and Logitech"
   ],
   "sp500": {
-    "value": "7,440.43",
-    "change": "+1.18%"
+    "value": "7,449.36",
+    "change": "+0.79%"
   },
   "nasdaq": {
-    "value": "25,820.14",
-    "change": "+2.07%"
+    "value": "26,213.72",
+    "change": "+1.52%"
   },
   "stocks": [
     {
-      "ticker": "CMCSA",
-      "company": "Comcast Corporation",
-      "reason": "Announced plan to spin off NBCUniversal and Sky into a separate public company, splitting cable/broadband from media; shares surged ~23% on blockbuster restructuring news",
+      "ticker": "AVAV",
+      "company": "AeroVironment",
+      "reason": "Surged ~18-20% after reporting Q4 FY2026 earnings beat: revenue +133% YoY to $642M (vs. $559M est.), EPS $1.84 vs. $1.46 est. Record full-year revenue of $1.97B on rising military drone demand.",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "GuruFocus",
+        "SEC Filing"
+      ]
+    },
+    {
+      "ticker": "ABVX",
+      "company": "Abivax",
+      "reason": "Jumped ~40% after Phase 3 ABTECT trial of obefazimod in ulcerative colitis hit FDA primary endpoint and all key secondary endpoints at Week 44 (50-51% clinical remission vs. 10.4% on placebo, N=580).",
       "category": "news",
       "sources": [
         "CNBC",
-        "CNN Business",
-        "CBS News",
-        "Investing.com"
+        "StocksToTrade"
       ]
     },
     {
-      "ticker": "CHTR",
-      "company": "Charter Communications",
-      "reason": "Surged 14-20% on Comcast spinoff news; investors speculate cable assets could merge, with Charter also reportedly in talks with SpaceX on broadband",
-      "category": "news",
+      "ticker": "CNXC",
+      "company": "Concentrix",
+      "reason": "Tumbled ~22% after missing Q2 earnings and revenue estimates and issuing weak Q3 and full-year 2026 guidance. Technology services demand slowdown.",
+      "category": "earnings",
       "sources": [
+        "TheStreet",
         "CNBC",
-        "Investing.com",
-        "TheStreet"
+        "Yahoo Finance"
       ]
     },
     {
-      "ticker": "QDEL",
-      "company": "QuidelOrtho Corporation",
-      "reason": "Jumped ~35% after reports emerged that company is exploring $1.5B sale of point-of-care testing unit to PE firms to reduce its $3.8B debt load; Jefferies called it a net positive",
-      "category": "news",
+      "ticker": "NKE",
+      "company": "Nike",
+      "reason": "Q4 FY2026 earnings released today: revenue $11.0B (down 1% reported, -4% currency-neutral). NIKE Direct revenue fell 7% YoY; wholesale up 4%. Full-year revenue $46.4B, flat YoY.",
+      "category": "earnings",
       "sources": [
-        "StreetInsider",
-        "Yahoo Finance",
-        "FinancialContent"
+        "BusinessWire",
+        "SEC Filing",
+        "Yahoo Finance"
       ]
     },
     {
-      "ticker": "IRDM",
-      "company": "Iridium Communications",
-      "reason": "Surged 21% after Rocket Lab announced $8B acquisition at $54/share (cash and stock); deal creates vertically integrated space company with Iridium's 66-satellite LEO network",
+      "ticker": "NSC",
+      "company": "Norfolk Southern",
+      "reason": "Fell ~8.4% after a regulatory roadblock slammed the proposed Norfolk Southern / Union Pacific merger, raising doubts about deal completion timeline.",
       "category": "news",
       "sources": [
-        "Yahoo Finance",
-        "PR Newswire",
-        "Seeking Alpha",
-        "GlobeNewswire"
+        "TipRanks",
+        "TheStreet",
+        "Yahoo Finance"
       ]
     },
     {
-      "ticker": "RKLB",
-      "company": "Rocket Lab USA",
-      "reason": "Rose 8-11% on announcement of $8B Iridium acquisition; deal transforms Rocket Lab from launch provider into a fully vertically integrated space platform with global satellite comms",
+      "ticker": "DLR",
+      "company": "Digital Realty Trust",
+      "reason": "Dropped ~4.2% after agreeing to acquire a stake in three fully leased data centers from Blackstone for $7.8 billion, raising leverage concerns.",
       "category": "news",
       "sources": [
-        "Yahoo Finance",
-        "PR Newswire",
-        "Seeking Alpha"
-      ]
-    },
-    {
-      "ticker": "OC",
-      "company": "Owens Corning",
-      "reason": "Surged 14%+ (best day since 2009) on reports Carlisle Companies made unsolicited takeover bid; Owens Corning has not yet engaged significantly with the overture",
-      "category": "news",
-      "sources": [
-        "QuiverQuant",
-        "Investing.com",
         "CNBC"
+      ]
+    },
+    {
+      "ticker": "WTS",
+      "company": "Watts Water Technologies",
+      "reason": "Jumped ~7% after Barclays upgraded to Overweight, citing Watts as \"best positioned\" in water/waste tech to benefit from the data center capital expenditure cycle.",
+      "category": "upgrade",
+      "sources": [
+        "CNBC",
+        "Barclays Research"
+      ]
+    },
+    {
+      "ticker": "SQ",
+      "company": "Block",
+      "reason": "Received a rare double upgrade from Piper Sandler, lifted to Overweight from Underweight with target raised to $100 from $58, citing improved fintech monetization outlook.",
+      "category": "upgrade",
+      "sources": [
+        "Yahoo Finance",
+        "247 Wall St.",
+        "Benzinga"
+      ]
+    },
+    {
+      "ticker": "HON",
+      "company": "Honeywell International",
+      "reason": "Upgraded to Outperform from Neutral at Daiwa, with price target raised to $255 from $240, reflecting confidence in the industrial conglomerate's restructuring and aerospace segment.",
+      "category": "upgrade",
+      "sources": [
+        "Yahoo Finance",
+        "Benzinga"
+      ]
+    },
+    {
+      "ticker": "CMCSA",
+      "company": "Comcast",
+      "reason": "Upgraded to Buy from Hold at Deutsche Bank with $32 target (trimmed from $34), as analysts see improving broadband subscriber trajectory and SpinCo separation catalyst.",
+      "category": "upgrade",
+      "sources": [
+        "Yahoo Finance",
+        "Deutsche Bank Research"
+      ]
+    },
+    {
+      "ticker": "FTNT",
+      "company": "Fortinet",
+      "reason": "Downgraded to Reduce from Hold at HSBC with a $102 price target, flagging valuation concerns and competitive pressure in the firewall/network security segment.",
+      "category": "downgrade",
+      "sources": [
+        "Yahoo Finance",
+        "Benzinga",
+        "HSBC Research"
+      ]
+    },
+    {
+      "ticker": "LOGI",
+      "company": "Logitech International",
+      "reason": "Downgraded to Underperform from Neutral at BofA, target cut to $86 from $108. BofA expects demand to \"worsen materially\" over the next 12-18 months as PC/peripheral cycle weakens.",
+      "category": "downgrade",
+      "sources": [
+        "Yahoo Finance",
+        "BofA Research"
+      ]
+    },
+    {
+      "ticker": "MRK",
+      "company": "Merck",
+      "reason": "Slipped ~0.6% after Reuters reported a U.S. House committee launched a probe into whether Merck (and AbbVie) participated in clinical trials in China that aided Chinese military capabilities.",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Reuters"
       ]
     },
     {
       "ticker": "ALAB",
       "company": "Astera Labs",
-      "reason": "Rose ~16% as semiconductor sector rebounded sharply; VanEck Semiconductor ETF (SMH) gained 3%+ as US-Iran diplomatic talks eased geopolitical fears weighing on tech capex outlook",
+      "reason": "Jumped ~7% (to ~$493 from ~$456) amid continued AI data center connectivity demand; stock is up significantly on the quarter as semiconductor/AI names led Q2 2026 rally.",
       "category": "sector",
       "sources": [
-        "Benzinga",
-        "TradingKey",
+        "CNBC",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "MSTR",
+      "company": "Strategy (MicroStrategy)",
+      "reason": "Fell ~3%, giving back some of Monday's sharp gains as Bitcoin pulled back; the crypto proxy stock remains highly volatile around quarter-end rebalancing flows.",
+      "category": "sector",
+      "sources": [
         "CNBC"
-      ]
-    },
-    {
-      "ticker": "KLAC",
-      "company": "KLA Corporation",
-      "reason": "Jumped ~12% in broader semiconductor relief rally; Philadelphia Semiconductor Index rose 3%+ as investors returned to chip equipment names following last week's sell-off",
-      "category": "sector",
-      "sources": [
-        "Benzinga",
-        "TradingKey",
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "AMAT",
-      "company": "Applied Materials",
-      "reason": "Rose ~11% alongside semiconductor equipment peers as Nasdaq led market gains; sector rebounded on Iran peace talk optimism and renewed confidence in AI-driven capex cycle",
-      "category": "sector",
-      "sources": [
-        "Benzinga",
-        "TradingKey",
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla Inc.",
-      "reason": "Jumped 7-8% as part of broader tech/growth relief rally tied to resuming US-Iran diplomatic talks in Doha; space stocks and AI-adjacent names led Monday's advance",
-      "category": "sector",
-      "sources": [
-        "CNBC",
-        "TradingKey",
-        "TheStreet"
-      ]
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet Inc.",
-      "reason": "First day trading as Dow Jones Industrial Average member, replacing Verizon; shares gained ~3.7-5% as index funds rebalanced; adds AI, cloud, and advertising exposure to Dow",
-      "category": "news",
-      "sources": [
-        "Bloomberg",
-        "CNBC",
-        "Motley Fool",
-        "US News"
-      ]
-    },
-    {
-      "ticker": "BLD",
-      "company": "TopBuild Corp",
-      "reason": "Fell 12-15% (worst day since March 2020) after shareholders approved QXO acquisition (~99% of QXO votes, ~78% of TopBuild votes); deal expected to close around July 1",
-      "category": "news",
-      "sources": [
-        "GuruFocus",
-        "Investing.com",
-        "CNBC",
-        "SEC filing"
-      ]
-    },
-    {
-      "ticker": "SNEX",
-      "company": "StoneX Group",
-      "reason": "Dropped ~11.5% (-$15.62 to $119.80) in significant sell-off; among the session's biggest decliners with no single company-specific catalyst widely attributed",
-      "category": "news",
-      "sources": [
-        "GuruFocus",
-        "MarketBeat",
-        "TheStreet"
-      ]
-    },
-    {
-      "ticker": "CSL",
-      "company": "Carlisle Companies",
-      "reason": "Fell more than 5% after reports emerged it made unsolicited takeover offers to acquire Owens Corning; market concerned about deal risk and dilution",
-      "category": "news",
-      "sources": [
-        "Investing.com",
-        "CNBC",
-        "QuiverQuant"
-      ]
-    },
-    {
-      "ticker": "VZ",
-      "company": "Verizon Communications",
-      "reason": "Removed from Dow Jones Industrial Average effective today, replaced by Alphabet; index reconstitution pressure and reduced visibility as Dow component",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "Bloomberg",
-        "Motley Fool"
       ]
     }
   ]
