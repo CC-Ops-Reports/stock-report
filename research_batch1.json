@@ -1,180 +1,137 @@
 {
-  "report_date": "2026-06-29",
+  "report_date": "2026-06-30",
   "batch": 1,
   "market_tone": "Bullish",
   "key_themes": [
-    "Media sector restructuring as Comcast announces NBCUniversal/Sky spinoff, sparking cable M&A speculation",
-    "Space sector M&A: Rocket Lab acquires Iridium in $8B deal, lifting satellite stocks broadly",
-    "Tech/semiconductor relief rally as US-Iran diplomatic talks resume, easing geopolitical risk"
+    "Q2 2026 quarter-end rally — best quarter for S&P 500 and Nasdaq since 2020",
+    "Defense/drone sector surge led by AeroVironment massive earnings beat (+133% revenue YoY)",
+    "Biotech catalyst: Abivax Phase 3 ABTECT trial success for ulcerative colitis drug obefazimod",
+    "AI/data center capex cycle driving upgrades in water tech and semiconductor connectivity names",
+    "Heavy analyst action day — notable double-upgrade for Block, downgrades for Fortinet and Logitech"
   ],
   "sp500": {
-    "value": "7,440.43",
-    "change": "+1.18%"
+    "value": "7,449.36",
+    "change": "+0.79%"
   },
   "nasdaq": {
-    "value": "25,820.14",
-    "change": "+2.07%"
+    "value": "26,213.72",
+    "change": "+1.52%"
   },
   "stocks": [
     {
-      "ticker": "CMCSA",
-      "company": "Comcast Corporation",
-      "discussion_driver": "On June 29, 2026, Comcast announced a tax-free spinoff of NBCUniversal and Sky into a separate publicly traded company, separating its media and entertainment assets (including NBC, Peacock, Universal Pictures, Universal theme parks, and Sky) from its core U.S. cable, broadband, and wireless connectivity business. The announcement — framed as unlocking a long-standing conglomerate discount — sent shares surging approximately 23-25%, marking Comcast's best single trading day in over a decade. The transaction is expected to close in about one year, pending regulatory, board, and financing approvals.",
+      "ticker": "AVAV",
+      "company": "AeroVironment",
+      "discussion_driver": "AeroVironment surged ~20.6% after reporting Q4 FY2026 results with revenue +133% YoY to $642M (vs. $559M estimated) and adjusted EPS $1.84 (vs. $1.46 expected), demonstrating record full-year revenue of $1.97B on rising military drone demand. Despite the earnings beat, the stock remains ~60% below its 52-week high of $418 as the earlier Space Force SCAR contract termination and guidance cut had structurally damaged investor confidence before today's rebound.",
       "bull_case": [
-        "Unlocking the conglomerate discount: By separating the high-margin, cash-generative U.S. broadband/cable business from the lower-margin media arm, each entity can attract its natural investor base and trade at a more appropriate multiple — potentially driving significant combined upside as the pure-play connectivity company garners a utility-style premium valuation.",
-        "Broadband infrastructure investment paying off: Comcast's Project Genesis network upgrade toward multi-gigabit speeds is expected to wrap up by 2027, and as capital expenditures normalize post-upgrade, free cash flow should expand significantly for the standalone connectivity company, supporting dividends and buybacks."
+        "Record Q4 FY2026 revenue of $642M (+133% YoY) and full-year revenue of $1.97B confirm surging military drone demand, with global defense budgets expanding and AVAV's Switchblade and JUMP-20 systems in high demand",
+        "Buy consensus from 17+ analysts with average price target of $284.22 implies ~70% upside from current levels, suggesting Wall Street views the SCAR contract headwind as a one-time setback"
       ],
       "bear_case": [
-        "Structural broadband competition: Fixed Wireless Access from T-Mobile and Verizon, plus accelerating fiber overbuilds by AT&T and regional telcos, continue to erode Comcast's broadband subscriber base and ARPU — a problem the spinoff does not solve and which may worsen as the cable-only entity lacks media content to bundle.",
-        "Peacock and media losses burden the new NBCUniversal entity: Peacock reported approximately $432 million in quarterly EBITDA losses, and the standalone media company inherits these streaming losses alongside a structurally declining linear TV business, requiring heavy investment before achieving profitability."
+        "Stock remains ~60% below 52-week high of $418 as the Space Force SCAR contract termination and subsequent guidance cut have raised concerns about contract concentration risk and deal sustainability",
+        "Negative trailing GAAP PE (-39.09) signals the company has not yet achieved sustainable GAAP profitability despite strong adjusted earnings, adding valuation complexity"
       ],
       "recommendation": "Speculative Buy",
-      "current_price": "$28.67",
-      "price_target": "$34.34 (+19.8%)",
-      "pe_ratio": "4.5",
-      "rsi": "42.2",
-      "vs_52wk_high": "-21.8% below high ($36.66)",
-      "analyst_rating": "Hold",
-      "sector": "Communication Services",
-      "sources": [
-        "CNBC: Comcast Announces Spinoff of NBCUniversal and Sky",
-        "CBS News: Comcast NBCUniversal Sky Spinoff",
-        "NBC News: Comcast Spinoff NBCUniversal Sky Split Two Companies",
-        "Hollywood Reporter: Comcast Split Two Companies NBCUniversal Spinoff",
-        "GuruFocus: Comcast (CMCSA) Shares Surge 25% on Media Business Spinoff",
-        "Seeking Alpha: Comcast's Breakup Was Long Overdue",
-        "MarketBeat: CMCSA Stock Forecast",
-        "SEC: Comcast 8-K Filing June 2026"
-      ],
-      "price_history_5d": [23.45, 23.38, 23.21, 23.17, 23.15]
-    },
-    {
-      "ticker": "CHTR",
-      "company": "Charter Communications",
-      "discussion_driver": "Charter Communications surged 14-24% in late June 2026 on two catalysts: Comcast's announcement to spin off NBCUniversal and Sky fueled speculation that Comcast's remaining cable/broadband unit could merge with Charter to create a near-national cable giant; and on June 29, separate reports emerged of Charter entering exclusive talks with SpaceX on a mobile broadband partnership leveraging Charter's ground infrastructure. Both events follow Charter's FCC-approved $34.5B acquisition of Cox Communications in February 2026, which made it the largest US cable operator.",
-      "bull_case": [
-        "M&A optionality: The Comcast spinoff creates a credible path to a Charter-Comcast cable merger that would establish near-national broadband scale with massive cost synergies — analysts have explicitly floated this scenario, and Charter's CEO has publicly expressed appetite for more cable M&A at the right price.",
-        "SpaceX partnership upside: A collaboration with SpaceX Starlink could extend Charter's broadband reach beyond its cable footprint into mobile and satellite connectivity, diversifying revenue and positioning the combined Charter-Cox platform as a full national competitor to Verizon and AT&T Fiber."
-      ],
-      "bear_case": [
-        "Heavy debt and subscriber erosion: Charter carries substantial leverage from the Cox acquisition while cord-cutting continues; the stock was down ~36% year-to-date before the June surge, reflecting sluggish subscriber growth and a structurally declining video business.",
-        "Execution and regulatory risk: Cox integration is still early-stage; a Comcast merger would face intense antitrust scrutiny; and the SpaceX partnership remains unconfirmed — if these catalysts fail to materialize, the stock could rapidly retrace toward its 52-week lows near $124."
-      ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$153.38",
-      "price_target": "$307.67 (+100.6%)",
-      "pe_ratio": "3.95",
+      "current_price": "$167.63",
+      "price_target": "$284.22 (+69.6%)",
+      "pe_ratio": "-39.09",
       "rsi": "N/A",
-      "vs_52wk_high": "-63.7% below high ($422.29)",
-      "analyst_rating": "Hold",
-      "sector": "Communication Services",
-      "sources": [
-        "Investing.com: Charter Communications stock surges 14% on Comcast spinoff news",
-        "GuruFocus: Charter Communications (CHTR) Shares Surge Amid SpaceX Partnership Talks",
-        "Invezz: Charter Communications stock jumps over 24% — what's the SpaceX link?",
-        "Yahoo Finance: Charter Communications Shares Jump as Comcast Unveils Major Corporate Split",
-        "Fierce Network: Analysts float the idea of a Comcast-Charter merger",
-        "Broadband Breakfast: FCC Approves $34.5 Billion Charter-Cox Merger",
-        "MarketBeat: Charter Communications (CHTR) Stock Forecast and Price Target",
-        "Lightreading: Charter CEO has appetite for more cable M&A"
-      ],
-      "price_history_5d": [131.00, 129.65, 129.65, 133.64, 153.38]
+      "vs_52wk_high": "-59.9% below high ($418.00)",
+      "analyst_rating": "Buy",
+      "sector": "Defense - Unmanned Aircraft Systems",
+      "sources": ["GuruFocus", "StocksToTrade", "Invezz", "Yahoo Finance", "MarketBeat"],
+      "price_history_5d": [151.33, 139.00, 167.63]
     },
     {
-      "ticker": "QDEL",
-      "company": "QuidelOrtho Corporation",
-      "discussion_driver": "QuidelOrtho surged ~35% on June 27/29, 2026, after Bloomberg and the FT reported the company is exploring the sale of its point-of-care testing unit at a ~$1.5 billion valuation to private equity firms including Advent International, SK Capital Partners, and Archimed. The divestiture is aimed at reducing the company's ~$3.8 billion gross debt burden inherited from its 2022 acquisition of Ortho Clinical Diagnostics. Jefferies called the potential sale 'a net positive' while reiterating a Hold rating with a $12.50 price target.",
+      "ticker": "ABVX",
+      "company": "Abivax",
+      "discussion_driver": "Abivax surged ~37.8% after its Phase 3 ABTECT maintenance trial of obefazimod met the FDA primary endpoint and all key secondary endpoints at Week 44 (50-51% clinical remission vs. 10.4% placebo, N=580) for ulcerative colitis, with an NDA filing planned for late 2026. The data substantially de-risks the lead program and triggered analyst upgrades, though an initial after-hours selloff on safety concerns around the 50mg dose highlights the volatility inherent in clinical-stage biotech.",
       "bull_case": [
-        "Debt deleveraging catalyst: A successful $1.5B POC unit sale would meaningfully reduce the company's ~$3.8B gross debt (currently at 4.1x net leverage), freeing cash flow and potentially accelerating the path toward the company's mid-term 2.5x-3.5x leverage target and improved FCF generation.",
-        "Strategic refocus on core diagnostics: Shedding the structurally declining POC business (revenue down 34% YoY in Q1 2026 due to COVID normalization and weak respiratory season) allows QuidelOrtho to focus on its higher-margin laboratory immunoassay, clinical chemistry, and immunohematology segments with more durable long-term growth."
+        "Phase 3 ABTECT trial met primary FDA endpoint and all key secondary endpoints at Week 44 with compelling 50-51% remission vs. 10.4% placebo, dramatically de-risking the lead asset with NDA submission planned for late 2026",
+        "Strong analyst consensus with 10 Buy ratings and zero Sell ratings; Jefferies raised target to $158, BTIG and Guggenheim set targets of $175, averaging to $150.73 consensus"
       ],
       "bear_case": [
-        "Deal execution risk and analyst targets well below current price: The POC sale is advanced but not guaranteed; the freshest analyst price targets ($11-$13.50) are significantly below the current post-surge price of ~$18.69, and Zacks rated QDEL Strong Sell; suggesting limited institutional upside conviction even if the sale succeeds.",
-        "Persistent revenue headwinds and leverage risk: Q1 2026 revenue fell 13% YoY to $620M (missing estimates by $60M+); full-year FCF guidance is only $100M-$120M; and with net leverage at 4.1x, Altman Z-Score in distress territory (~1.07), and $51.1M quarterly interest expense, any deal failure or delay risks financial distress."
+        "Pre-revenue clinical-stage biotech with no approved products; initial after-hours selling on safety concerns around the 50mg obefazimod dose highlights residual regulatory risk before FDA approval",
+        "FDA could request additional data or an advisory committee meeting before approval decision, introducing timeline uncertainty that could weigh on the stock"
+      ],
+      "recommendation": "Speculative Buy",
+      "current_price": "$132.51",
+      "price_target": "$150.73 (+13.7%)",
+      "pe_ratio": "N/A",
+      "rsi": "N/A",
+      "vs_52wk_high": "-11.0% below high ($148.83)",
+      "analyst_rating": "Buy",
+      "sector": "Biotechnology",
+      "sources": ["CNBC", "StocksToTrade", "TimothySykes", "GuruFocus", "Investing.com"],
+      "price_history_5d": [96.15, 132.51]
+    },
+    {
+      "ticker": "CNXC",
+      "company": "Concentrix",
+      "discussion_driver": "Concentrix tumbled ~22% after Q2 2026 earnings showed revenue up only 1.9% to $2.46B (in line) but Q3 revenue guidance came in 2.4% below analyst estimates, full-year revenue guidance was cut 1.3%, and full-year adjusted EPS guidance was reduced 6.5% to an $11.00 midpoint. The weak forward guidance signals broad technology services demand weakness, sending the stock to new 52-week lows on the day and down ~68% from its peak.",
+      "bull_case": [
+        "Significant new AI deal contracts signed in Q2 2026 position Concentrix for potential long-term growth in AI-enabled customer experience services despite the near-term demand slowdown",
+        "At current depressed price levels, forward adjusted EPS guidance of ~$11 implies a P/E below 2x, representing deep value if the business trajectory stabilizes or guidance proves conservative"
+      ],
+      "bear_case": [
+        "Full-year revenue guidance cut 1.3% and adjusted EPS guidance cut 6.5% to $11.00 midpoint signals persistent technology services demand weakness with no clear near-term recovery catalyst",
+        "Stock at new 52-week lows, down ~68% from 52-week high of $62.14; pre-earnings analyst price targets (~$41) are stale and likely to see significant downward revisions after this guidance cut"
       ],
       "recommendation": "Hold",
-      "current_price": "$18.69",
-      "price_target": "$12.13 (-35.1%)",
-      "pe_ratio": "N/A",
+      "current_price": "$19.69",
+      "price_target": "$41.25 (+109.5%)",
+      "pe_ratio": "-1.18",
       "rsi": "N/A",
-      "vs_52wk_high": "-47.2% below high ($35.38)",
-      "analyst_rating": "Hold",
-      "sector": "Healthcare - Medical Devices & Diagnostics",
-      "sources": [
-        "Bloomberg: Diagnostics Firm QuidelOrtho Looks at Testing Unit Sale",
-        "GuruFocus: QuidelOrtho (QDEL) to Sell Point-of-Care Testing Unit, Targeting $1.5B Valuation",
-        "StreetInsider: Jefferies on QuidelOrtho (QDEL): 'we view a potential sale as a net positive'",
-        "Investing.com: Jefferies reiterates Quidel stock Hold rating on PoC business sale",
-        "PR Newswire: QuidelOrtho Reports First Quarter 2026 Financial Results",
-        "StockTwits: QDEL Stock Eyes Best Day In Over A Year",
-        "ChartMill: QDEL analyst ratings (JPMorgan $11 Underweight, UBS $12 Neutral, Citi $13 Neutral)",
-        "Seeking Alpha: QuidelOrtho said to sell testing unit for $1.5B"
-      ],
-      "price_history_5d": [12.80, 13.00, 13.30, 13.79, 18.60]
-    },
-    {
-      "ticker": "IRDM",
-      "company": "Iridium Communications",
-      "discussion_driver": "On June 29, 2026, Rocket Lab announced an $8 billion definitive agreement to acquire Iridium Communications at $54 per share ($27 cash plus Rocket Lab stock), sending IRDM surging approximately 22% in a single session to ~$53.06. The deal creates a vertically integrated space powerhouse by combining Rocket Lab's launch and satellite manufacturing capabilities with Iridium's unique 66-satellite LEO constellation, global IoT services, and 500-plus partner ecosystem. The transaction was unanimously approved by both boards and is expected to close in mid-2027, pending shareholder and regulatory approvals.",
-      "bull_case": [
-        "The $54/share acquisition price provides a hard floor for shareholders with strong deal certainty — both boards unanimously approved and the strategic rationale of creating the only end-to-end vertically integrated space operator is compelling, with Oppenheimer projecting Iridium NTN Direct and Aireon-driven revenue growth running ~700 bps above Street consensus for five years.",
-        "Iridium's irreplaceable 66-satellite truly global LEO network (the only commercial constellation covering the poles), proven Aireon air traffic surveillance revenue, and 500-plus partner ecosystem give the combined company a durable moat in satellite IoT, direct-to-device, PNT, and safety-of-life services with no terrestrial substitute."
-      ],
-      "bear_case": [
-        "With IRDM trading at ~$53.06 vs. the $54 deal price, new buyers capture only ~1.8% upside over a ~12-month close timeline — any regulatory challenge (FCC spectrum review, antitrust), shareholder rejection, or Rocket Lab stock decline could cause deal value to fall sharply, reverting IRDM back toward pre-deal levels near $43.",
-        "The collar structure (RKLB shares banded $67.50-$112.50) means IRDM holders are implicitly long Rocket Lab equity risk for up to a year; deterioration in RKLB fundamentals, launch failures, or macro compression of high-multiple space stocks would reduce the effective per-share value received at closing below $54."
-      ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$53.06",
-      "price_target": "$54.00 (+1.8%)",
-      "pe_ratio": "49.3",
-      "rsi": "66.7",
-      "vs_52wk_high": "-1.4% below high ($53.83)",
-      "analyst_rating": "Moderate Buy",
-      "sector": "Communication Services",
-      "sources": [
-        "CNBC: Rocket Lab pops 16%, Iridium soars 25% on $8B space deal (June 29, 2026)",
-        "PR Newswire: Rocket Lab to Acquire Iridium in Historic Deal",
-        "StockTitan SEC 8-K: IRDM material event (deal announcement)",
-        "TimothySykes/StocksToTrade: IRDM pops as Oppenheimer hikes PT to $60",
-        "Investing.com: IRDM hits 52-week high $53.83",
-        "FullRatio: IRDM P/E ratio historical analysis",
-        "Iridium Investor Relations: 2025 Annual Results & 2026 Outlook",
-        "Yahoo Finance: Rocket Lab taking on SpaceX with Iridium buy"
-      ],
-      "price_history_5d": [40.85, 41.22, 41.84, 43.52, 43.71]
-    },
-    {
-      "ticker": "RKLB",
-      "company": "Rocket Lab USA",
-      "discussion_driver": "On June 29, 2026, Rocket Lab announced a definitive agreement to acquire Iridium Communications for approximately $8 billion in a cash-and-stock deal ($27 cash plus stock per Iridium share, totaling $54), transforming Rocket Lab from a small-satellite launch provider into a fully vertically integrated space company with global satellite communications, IoT, direct-to-device services, and PNT capabilities. The announcement sent RKLB shares surging nearly 12%, capping a week in which Rocket Lab had also received a $300M NASA contract for three dedicated Electron launches.",
-      "bull_case": [
-        "Iridium acquisition instantly delivers $871.7M in annual revenue and $495M in OEBITDA, transforming Rocket Lab into a profitable, cash-generating entity with a 500-plus partner ecosystem, L-band spectrum rights, and 66-satellite constellation — accelerating the path to profitability years ahead of organic schedule.",
-        "Rocket Lab is becoming NASA's go-to small launcher, with a 10-for-10 consecutive successful launch record, a record $2.2B backlog, Q1 revenue of $200M (up 63% YoY), and a Neutron medium-lift rocket targeting first flight in Q4 2026 that could open a massive new addressable market."
-      ],
-      "bear_case": [
-        "The $8B Iridium acquisition is a massive leveraged bet adding significant debt and integration risk; Iridium's legacy L-band constellation faces competitive pressure from LEO broadband constellations (Starlink, OneWeb) and requires a costly next-generation satellite refresh in the 2030s.",
-        "RKLB remains deeply unprofitable, trades at roughly 100x price-to-sales, and has diluted shareholders with $450M-plus in equity raises; any Neutron delay, integration stumble, or regulatory rejection of the Iridium deal could send the stock back toward the $60 bear-case range."
-      ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$98.01",
-      "price_target": "$106.92 (+9.1%)",
-      "pe_ratio": "N/A",
-      "rsi": "37.2",
-      "vs_52wk_high": "-35.0% below high ($151.00)",
+      "vs_52wk_high": "-68.3% below high ($62.14)",
       "analyst_rating": "Buy",
-      "sector": "Industrials / Aerospace & Defense",
-      "sources": [
-        "Rocket Lab IR: Iridium acquisition press release (investors.rocketlabcorp.com, June 29, 2026)",
-        "SEC Form 8-K: Rocket Lab Corp (June 29, 2026)",
-        "GuruFocus: Rocket Lab to Acquire Iridium for $8 Billion",
-        "Yahoo Finance: Rocket Lab to acquire Iridium in $8B cash-and-stock deal",
-        "TechCrunch: Rocket Lab continues buying spree by acquiring Iridium",
-        "Proactive Investors: RKLB Iridium $8B cash-and-stock deal",
-        "AltIndex: RKLB Technical Analysis RSI",
-        "MarketBeat: RKLB analyst ratings and price targets"
+      "sector": "Technology - Customer Experience Services",
+      "sources": ["TheStreet", "CNBC", "Yahoo Finance", "GuruFocus", "FX Leaders"],
+      "price_history_5d": [25.24, 19.69]
+    },
+    {
+      "ticker": "NKE",
+      "company": "Nike",
+      "discussion_driver": "Nike reported Q4 FY2026 results that beat consensus expectations (EPS $0.20 vs. $0.13 est.; revenue $10.97B vs. $10.86B est.) aided by a ~$986M tariff refund boosting gross margins by 8.9%. However, NIKE Direct revenue fell 7% YoY and Greater China dropped 12% to $1.30B, highlighting the ongoing turnaround challenges; shares dropped up to 8% in after-hours trading despite the headline beat, as investors focused on the non-recurring tariff benefit.",
+      "bull_case": [
+        "Q4 FY2026 beat on EPS ($0.20 vs. $0.13 est.) and revenue ($10.97B vs. $10.86B est.) with gross margin up 8.9%; wholesale channel grew 4% YoY suggesting improved retailer re-engagement under CEO Elliott Hill's strategy",
+        "Stock near 52-week lows at $41.25 with 33 analysts maintaining average target of ~$59, implying 43% upside as a potential long-term turnaround entry point"
       ],
-      "price_history_5d": [89.10, 87.20, 85.60, 84.54, 84.54]
+      "bear_case": [
+        "NIKE Direct revenue fell 7% YoY and Greater China dropped 12%, flagging persistent structural weakness in the direct digital channel and key growth market that are central to the long-term strategy",
+        "The ~$986M tariff refund driving gross margin improvement is non-recurring, raising questions about sustainable profitability; shares dropped up to 8% after-hours despite the headline beat"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$41.25",
+      "price_target": "$58.86 (+42.7%)",
+      "pe_ratio": "27.47",
+      "rsi": "N/A",
+      "vs_52wk_high": "-48.6% below high ($80.17)",
+      "analyst_rating": "Hold",
+      "sector": "Consumer Discretionary - Footwear & Apparel",
+      "sources": ["CNBC", "BusinessWire", "Yahoo Finance", "MarketBeat", "Quiver Quantitative"],
+      "price_history_5d": [41.48, 41.25]
+    },
+    {
+      "ticker": "NSC",
+      "company": "Norfolk Southern",
+      "discussion_driver": "Norfolk Southern fell ~8.4% after the U.S. Surface Transportation Board paused review of the proposed $85B merger with Union Pacific, requesting additional competitive information and raising significant uncertainty about deal timeline and approval prospects. The stock had been trading near the ~$326 implied deal value; the regulatory roadblock sends it sharply lower and calls into question whether the deal will close as anticipated.",
+      "bull_case": [
+        "Union Pacific merger at an implied deal value of ~$326/share provides a meaningful upside target if approved; the STB information request is a procedural step that may not ultimately block the deal",
+        "PSR 2.0 operational efficiency improvements are driving ongoing margin enhancement independent of the merger, providing solid fundamental support for the standalone rail business"
+      ],
+      "bear_case": [
+        "Surface Transportation Board paused merger review seeking additional competitive impact data, raising material doubt about deal timeline; historically, Class I railroad mega-mergers face high regulatory barriers and can take years to resolve",
+        "If the merger is ultimately blocked, NSC could re-rate sharply toward standalone intrinsic value estimates, eliminating the merger premium currently embedded in the price"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$290.05",
+      "price_target": "$334.36 (+15.3%)",
+      "pe_ratio": "26.82",
+      "rsi": "N/A",
+      "vs_52wk_high": "-11.0% below high ($326.00)",
+      "analyst_rating": "Hold",
+      "sector": "Industrials - Railroads",
+      "sources": ["TipRanks", "TheStreet", "Yahoo Finance", "Simply Wall St", "eToro"],
+      "price_history_5d": [316.65, 290.05]
     }
   ]
 }
