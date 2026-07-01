@@ -1,174 +1,157 @@
 {
-  "report_date": "2026-06-30",
-  "market_tone": "Bullish",
+  "report_date": "2026-07-01",
+  "market_tone": "Mixed",
   "key_themes": [
-    "Q2 2026 quarter-end rally \u2014 best quarter for S&P 500 and Nasdaq since 2020",
-    "Defense/drone sector surge led by AeroVironment massive earnings beat (+133% revenue YoY)",
-    "Biotech catalyst: Abivax Phase 3 ABTECT trial success for ulcerative colitis drug obefazimod",
-    "AI/data center capex cycle driving upgrades in water tech and semiconductor connectivity names",
-    "Heavy analyst action day \u2014 notable double-upgrade for Block, downgrades for Fortinet and Logitech"
+    "Semiconductor sector profit-taking after AI-driven H1 2026 surge of 70-100%",
+    "Meta pivots to AI cloud business to sell excess compute, rattling neocloud rivals",
+    "Earnings beats from Nike and General Mills signal consumer resilience; analyst upgrades sweep ServiceNow, Salesforce, Lockheed Martin"
   ],
   "sp500": {
-    "value": "7,449.36",
-    "change": "+0.79%"
+    "value": "7,483.23",
+    "change": "-0.22%"
   },
   "nasdaq": {
-    "value": "26,213.72",
-    "change": "+1.52%"
+    "value": "26,040.03",
+    "change": "-0.66%"
   },
   "stocks": [
     {
-      "ticker": "AVAV",
-      "company": "AeroVironment",
-      "reason": "Surged ~18-20% after reporting Q4 FY2026 earnings beat: revenue +133% YoY to $642M (vs. $559M est.), EPS $1.84 vs. $1.46 est. Record full-year revenue of $1.97B on rising military drone demand.",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "GuruFocus",
-        "SEC Filing"
-      ]
-    },
-    {
-      "ticker": "ABVX",
-      "company": "Abivax",
-      "reason": "Jumped ~40% after Phase 3 ABTECT trial of obefazimod in ulcerative colitis hit FDA primary endpoint and all key secondary endpoints at Week 44 (50-51% clinical remission vs. 10.4% on placebo, N=580).",
+      "ticker": "META",
+      "company": "Meta Platforms",
+      "reason": "Surged ~11% after Bloomberg reported Meta is building \"Meta Compute\" cloud business to sell excess AI computing capacity externally, competing with AWS/Azure/Google",
       "category": "news",
       "sources": [
+        "Bloomberg",
         "CNBC",
-        "StocksToTrade"
+        "Motley Fool",
+        "TechCrunch"
       ]
     },
     {
-      "ticker": "CNXC",
-      "company": "Concentrix",
-      "reason": "Tumbled ~22% after missing Q2 earnings and revenue estimates and issuing weak Q3 and full-year 2026 guidance. Technology services demand slowdown.",
-      "category": "earnings",
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "reason": "Fell ~8-10% on massive profit-taking after 305% YTD gain; California class action filed alleging DRAM price-fixing collusion with Samsung and SK Hynix",
+      "category": "news",
       "sources": [
-        "TheStreet",
-        "CNBC",
+        "24/7 Wall St.",
+        "Invezz",
         "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk",
+      "reason": "Slumped ~10% on semiconductor profit-taking after an extraordinary 858% YTD run; memory sector broadly retreating as Citrini Research warns of buy-side efficiency pressure",
+      "category": "sector",
+      "sources": [
+        "24/7 Wall St.",
+        "CNBC",
+        "Invezz"
       ]
     },
     {
       "ticker": "NKE",
       "company": "Nike",
-      "reason": "Q4 FY2026 earnings released today: revenue $11.0B (down 1% reported, -4% currency-neutral). NIKE Direct revenue fell 7% YoY; wholesale up 4%. Full-year revenue $46.4B, flat YoY.",
+      "reason": "Q4 FY2026 earnings beat estimates (EPS and revenue), but China sales declined 12% YoY; stock jumped ~5% after premarket dip as recovery narrative held",
       "category": "earnings",
       "sources": [
-        "BusinessWire",
-        "SEC Filing",
-        "Yahoo Finance"
+        "CNBC",
+        "Yahoo Finance",
+        "Motley Fool"
       ]
     },
     {
-      "ticker": "NSC",
-      "company": "Norfolk Southern",
-      "reason": "Fell ~8.4% after a regulatory roadblock slammed the proposed Norfolk Southern / Union Pacific merger, raising doubts about deal completion timeline.",
-      "category": "news",
-      "sources": [
-        "TipRanks",
-        "TheStreet",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "DLR",
-      "company": "Digital Realty Trust",
-      "reason": "Dropped ~4.2% after agreeing to acquire a stake in three fully leased data centers from Blackstone for $7.8 billion, raising leverage concerns.",
-      "category": "news",
-      "sources": [
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "WTS",
-      "company": "Watts Water Technologies",
-      "reason": "Jumped ~7% after Barclays upgraded to Overweight, citing Watts as \"best positioned\" in water/waste tech to benefit from the data center capital expenditure cycle.",
+      "ticker": "NOW",
+      "company": "ServiceNow",
+      "reason": "Rose >5% after Guggenheim upgraded to Buy with $125 price target; also boosted by new AI-powered services launch with Accenture partner program",
       "category": "upgrade",
       "sources": [
         "CNBC",
-        "Barclays Research"
-      ]
-    },
-    {
-      "ticker": "SQ",
-      "company": "Block",
-      "reason": "Received a rare double upgrade from Piper Sandler, lifted to Overweight from Underweight with target raised to $100 from $58, citing improved fintech monetization outlook.",
-      "category": "upgrade",
-      "sources": [
-        "Yahoo Finance",
-        "247 Wall St.",
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "HON",
-      "company": "Honeywell International",
-      "reason": "Upgraded to Outperform from Neutral at Daiwa, with price target raised to $255 from $240, reflecting confidence in the industrial conglomerate's restructuring and aerospace segment.",
-      "category": "upgrade",
-      "sources": [
-        "Yahoo Finance",
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "CMCSA",
-      "company": "Comcast",
-      "reason": "Upgraded to Buy from Hold at Deutsche Bank with $32 target (trimmed from $34), as analysts see improving broadband subscriber trajectory and SpinCo separation catalyst.",
-      "category": "upgrade",
-      "sources": [
-        "Yahoo Finance",
-        "Deutsche Bank Research"
-      ]
-    },
-    {
-      "ticker": "FTNT",
-      "company": "Fortinet",
-      "reason": "Downgraded to Reduce from Hold at HSBC with a $102 price target, flagging valuation concerns and competitive pressure in the firewall/network security segment.",
-      "category": "downgrade",
-      "sources": [
-        "Yahoo Finance",
         "Benzinga",
-        "HSBC Research"
+        "24/7 Wall St."
       ]
     },
     {
-      "ticker": "LOGI",
-      "company": "Logitech International",
-      "reason": "Downgraded to Underperform from Neutral at BofA, target cut to $86 from $108. BofA expects demand to \"worsen materially\" over the next 12-18 months as PC/peripheral cycle weakens.",
-      "category": "downgrade",
-      "sources": [
-        "Yahoo Finance",
-        "BofA Research"
-      ]
-    },
-    {
-      "ticker": "MRK",
-      "company": "Merck",
-      "reason": "Slipped ~0.6% after Reuters reported a U.S. House committee launched a probe into whether Merck (and AbbVie) participated in clinical trials in China that aided Chinese military capabilities.",
-      "category": "news",
+      "ticker": "GIS",
+      "company": "General Mills",
+      "reason": "Jumped >6% after Q4 beat: adjusted EPS $0.95 vs $0.80 consensus, revenue $4.61B vs $4.59B; announced $3B cumulative cost savings plan through FY2030",
+      "category": "earnings",
       "sources": [
         "CNBC",
-        "Reuters"
+        "Benzinga",
+        "FactSet"
       ]
     },
     {
-      "ticker": "ALAB",
-      "company": "Astera Labs",
-      "reason": "Jumped ~7% (to ~$493 from ~$456) amid continued AI data center connectivity demand; stock is up significantly on the quarter as semiconductor/AI names led Q2 2026 rally.",
-      "category": "sector",
+      "ticker": "DDOG",
+      "company": "Datadog",
+      "reason": "Gained >2% after announcing acquisition of Adaptive ML, an AI startup specializing in deployment of specialized AI agents; expands AI observability offering",
+      "category": "news",
       "sources": [
         "CNBC",
         "Yahoo Finance"
       ]
     },
     {
-      "ticker": "MSTR",
-      "company": "Strategy (MicroStrategy)",
-      "reason": "Fell ~3%, giving back some of Monday's sharp gains as Bitcoin pulled back; the crypto proxy stock remains highly volatile around quarter-end rebalancing flows.",
+      "ticker": "STZ",
+      "company": "Constellation Brands",
+      "reason": "Fell ~4.5% after Q1 FY2027 earnings disappointed; broader brewer sector (BUD, TAP, ABEV) also sold off 1.4-4.3%; tariff headwinds cited on conference call",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Benzinga",
+        "StockTitan"
+      ]
+    },
+    {
+      "ticker": "LMT",
+      "company": "Lockheed Martin",
+      "reason": "Upgraded to Buy from Neutral at Citigroup with price target raised to $582 from $571; defense spending tailwinds cited amid global geopolitical backdrop",
+      "category": "upgrade",
+      "sources": [
+        "24/7 Wall St.",
+        "MarketBeat"
+      ]
+    },
+    {
+      "ticker": "CRM",
+      "company": "Salesforce",
+      "reason": "Raised to Buy from Neutral at Guggenheim with $228 price target; analysts cite AI CRM adoption acceleration and enterprise AI agent deployment cycle",
+      "category": "upgrade",
+      "sources": [
+        "24/7 Wall St.",
+        "Benzinga"
+      ]
+    },
+    {
+      "ticker": "WDC",
+      "company": "Western Digital",
+      "reason": "Fell ~7% alongside memory sector peers Micron and SanDisk on profit-taking and Citrini Research note flagging potential memory demand efficiency risks from hyperscalers",
       "category": "sector",
       "sources": [
-        "CNBC"
+        "24/7 Wall St.",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "CRWV",
+      "company": "CoreWeave",
+      "reason": "Dropped ~10.8% after Bloomberg reported Meta building its own cloud compute business; CoreWeave and Nebius seen as at risk of losing Meta as a key neocloud customer",
+      "category": "news",
+      "sources": [
+        "Bloomberg",
+        "Yahoo Finance",
+        "TechCrunch"
+      ]
+    },
+    {
+      "ticker": "ABVX",
+      "company": "Abivax",
+      "reason": "Upgraded to Buy from Hold at Jefferies with price target raised to $158 from $108; biotech inflammatory disease drug pipeline progress cited",
+      "category": "upgrade",
+      "sources": [
+        "24/7 Wall St.",
+        "MarketBeat"
       ]
     }
   ]
