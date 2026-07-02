@@ -1,121 +1,75 @@
 {
-  "report_date": "2026-06-30",
+  "report_date": "2026-07-01",
   "batch": 3,
   "stocks": [
     {
-      "ticker": "FTNT",
-      "company": "Fortinet Inc.",
-      "discussion_driver": "HSBC downgraded FTNT to Reduce on June 30, 2026, raising its price target to $102 from $98, citing valuation concerns despite strong Q1 2026 earnings. The analyst flagged Fortinet's premium 46.1x 2026 P/E ratio versus the cybersecurity peer median, coupled with slowing 11.6% EPS growth and competitive pressures in firewall/network security from CrowdStrike, Zscaler, and Palo Alto Networks.",
+      "ticker": "WDC",
+      "company": "Western Digital Corp.",
+      "discussion_driver": "Western Digital fell ~7% on July 1 alongside Micron and SanDisk in a broad memory sector selloff driven by profit-taking after a 240% YTD surge on AI data center demand. Citrini Research flagged potential AI-efficiency headwinds that could reduce hyperscaler memory consumption, cooling sentiment. The pullback follows WDC's 52-week high of $799.87 in mid-June, a Fox Advisors downgrade citing HDD pricing expectations running ahead of fundamentals, and a sharp 13.2% drop on June 26 before a 10.2% partial recovery on June 29.",
       "bull_case": [
-        "AI-driven cybersecurity demand is surging — FortiGuard Labs blocked 3+ trillion vulnerability attempts in 2024, and the new AI-powered FortiGate G series firewalls are gaining traction as enterprises upgrade defenses against a 389% ransomware surge",
-        "Unified SASE billings grew 40% in Q4 2025 (27% of total billings), driving 20% Q1 2026 revenue growth and record 31% GAAP operating margins, with 69% of revenue now high-margin recurring streams"
+        "AI/cloud data center demand for HDDs and NAND is driving record revenue — Q3 FY2026 hit $3.34B (+46% YoY) with net income up 320%, and a global memory shortage is expected to persist into 2027-2028 supporting sustained pricing power.",
+        "Multiple tier-1 analysts remain bullish: Cantor Fitzgerald raised its target to $900 and Bank of America to $732 on June 29, citing WDC's strategic positioning in AI storage infrastructure and data center capacity expansion cycles."
       ],
       "bear_case": [
-        "Valuation is stretched at 53x trailing P/E and 46x forward P/E with a PEG ratio exceeding 3, as billings growth is projected at only ~11% — far below prior quarters and difficult to justify at current multiples",
-        "Competitive pressure from CrowdStrike, Zscaler, and Palo Alto Networks, plus tariff and supply chain headwinds in key markets, could squeeze margins if SASE growth fails to sustain its current pace"
+        "Massive share dilution risk: the SanDisk spin-off transaction closed June 22, 2026, issuing ~21.3M new common shares, and insiders have recorded 125 sales vs. zero purchases over the past six months — a concerning signal.",
+        "HDD pricing expectations may be running ahead of likely actual gains (Fox Advisors downgrade to Equal-Weight), and the stock is trading near or above the published analyst consensus average, limiting near-term upside."
       ],
       "recommendation": "Hold",
-      "current_price": "$153.52",
-      "price_target": "$112.49 (-26.7%)",
-      "pe_ratio": "53.43",
-      "rsi": "N/A",
-      "vs_52wk_high": "-0.8% below high ($152.77)",
-      "analyst_rating": "Hold",
-      "sector": "Technology - Cybersecurity",
-      "sources": ["MarketBeat", "StockAnalysis", "GuruFocus", "Investing.com", "MacroTrends", "HSBC Research", "Yahoo Finance", "TIKR"],
-      "price_history_5d": [151.35, 151.29, 152.77, 153.62, 153.52]
+      "current_price": "$593.81",
+      "price_target": "$615.71 (+3.7%)",
+      "pe_ratio": "29.6",
+      "rsi": "50.1",
+      "vs_52wk_high": "-25.8% below high ($799.87)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Technology - Data Storage",
+      "sources": ["24/7 Wall St.", "Yahoo Finance", "TipRanks", "CoinCentral", "TradingKey", "Fox Advisors", "Cantor Fitzgerald", "Bank of America"],
+      "price_history_5d": [675.15, 586.45, 646.44, 638.72, 593.81]
     },
     {
-      "ticker": "LOGI",
-      "company": "Logitech International S.A.",
-      "discussion_driver": "Bank of America downgraded LOGI to Underperform from Neutral on June 30, 2026, slashing its price target to $86 from $108 — a 20% cut. BofA expects demand to worsen materially over the next 12-18 months as hardware price hikes of 5-20% across PCs, tablets, and smartphones drive consumers toward cheaper peripherals, compounding the ongoing PC/peripheral cycle downturn.",
+      "ticker": "CRWV",
+      "company": "CoreWeave, Inc.",
+      "discussion_driver": "CoreWeave dropped ~10.8% on July 1 after Bloomberg reported Meta Platforms is developing 'Meta Compute' — an initiative to sell its excess AI compute capacity externally, directly competing with neocloud providers. Meta represents approximately $35B (~35%) of CoreWeave's $99.4B revenue backlog, making customer concentration risk the central concern for investors. Evercore ISI maintained its Outperform rating at $150, noting existing locked-in contracts remain in force through 2032 and overall AI GPU demand remains robust across multiple customers.",
       "bull_case": [
-        "Manufacturing diversification is paying off — U.S.-bound production sourced from China fell from 40% to 10%, helping expand gross margins 170 basis points and operating margins 70 basis points while reducing tariff exposure",
-        "A $1.40 billion share repurchase program announced in March 2026, combined with growing demand for AI-enabled peripherals, provides a valuation floor — DCF analysis suggests shares trade at a 30% discount to intrinsic value"
+        "$99.4B contracted revenue backlog with long-term agreements from Meta, Microsoft, Nvidia, and OpenAI — including a $21B Meta AI infrastructure deal through December 2032 — provides exceptional revenue visibility even if Meta later redirects some demand.",
+        "Q1 FY2026 revenue doubled YoY to $2.08B, the company has 3.5+ GW of contracted power capacity under development, and 24 of 26 covering analysts maintain Buy ratings with median target of $145, implying 60%+ upside from current levels."
       ],
       "bear_case": [
-        "BofA's Underperform downgrade signals material demand deterioration as hardware price inflation ripples through consumer electronics, reducing spending on complementary accessories like keyboards and mice",
-        "P/E multiple compression risk is significant — the mid-case scenario projects 6.4% annual P/E contraction, requiring sustained EPS growth above 8% annually just to maintain share price; a 150 basis point margin miss could push growth to 5% in the bear case"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$98.63",
-      "price_target": "$103.00 (+4.4%)",
-      "pe_ratio": "20.55",
-      "rsi": "64.04",
-      "vs_52wk_high": "-24.0% below high ($129.66)",
-      "analyst_rating": "Hold",
-      "sector": "Technology - Hardware & Peripherals",
-      "sources": ["Yahoo Finance", "GuruFocus", "Investing.com", "Public.com", "StockAnalysis", "TipRanks", "MacroTrends", "BofA Research"],
-      "price_history_5d": []
-    },
-    {
-      "ticker": "MRK",
-      "company": "Merck & Co., Inc.",
-      "discussion_driver": "Merck slipped ~0.6% on June 30, 2026, after Reuters reported that a U.S. House committee launched a national security probe into whether Merck and AbbVie conducted clinical trials in China — including 31 studies in Xinjiang and 40 at military-affiliated hospitals — that may have aided Chinese military capabilities. The bipartisan investigation, led by House China Select Committee Chair John Moolenaar, requested documentation on clinical trial due diligence and data protection measures by July 17, 2026.",
-      "bull_case": [
-        "Deep pipeline with $70B+ in estimated value from late-stage candidates (KEYTRUDA combinations, WELIREG, LENVIMA) and multiple PDUFA dates in 2026-2027 that could provide revenue replacement as the KEYTRUDA patent cliff approaches",
-        "Analyst consensus remains strongly bullish (18 Buy/Strong Buy, 0 Sell out of 39 analysts), reflecting confidence in Merck's ability to expand KEYTRUDA indications across kidney, ovarian, and bladder cancers while building durable combination-therapy revenue"
-      ],
-      "bear_case": [
-        "KEYTRUDA patent expiry in 2028-2029 represents a severe revenue cliff — the drug accounts for ~46% of pharma revenue at ~$33-34B peak, and biosimilar competition could mirror Humira's 80% price cuts seen in European markets",
-        "IRA-driven Medicare price cuts (79% reduction to Januvia in 2026) are compounding headwinds, and the elevated 33.78x trailing P/E — 43% above the 10-year median — leaves limited margin for pipeline disappointments"
-      ],
-      "recommendation": "Buy",
-      "current_price": "$128.50",
-      "price_target": "$130.00 (+1.2%)",
-      "pe_ratio": "33.78",
-      "rsi": "31.91",
-      "vs_52wk_high": "-1.1% below high ($129.97)",
-      "analyst_rating": "Buy",
-      "sector": "Healthcare - Pharmaceuticals",
-      "sources": ["Yahoo Finance", "Benzinga", "Reuters", "MacroTrends", "Public.com", "StockAnalysis", "247 Wall St.", "U.S. News"],
-      "price_history_5d": [124.50, 125.46, 128.66, 129.38, 128.50]
-    },
-    {
-      "ticker": "ALAB",
-      "company": "Astera Labs, Inc.",
-      "discussion_driver": "Astera Labs jumped ~7% from ~$456 to ~$493 on June 30, riding the broader semiconductor/AI infrastructure rally that defined Q2 2026. The stock's move reflects continued hyperscaler capex commitments to AI data center buildouts, a $6.5B Amazon warrant agreement tied to Scorpio smart fabric switch deployments, and Nasdaq-100 index inclusion earlier in the quarter that drove sustained institutional accumulation.",
-      "bull_case": [
-        "Exceptional AI infrastructure growth: Q1 2026 revenue surged 93% YoY to $308.4M, with purpose-built PCIe, CXL, Ethernet, and smart fabric switching solutions at the heart of rack-scale AI connectivity — exactly where hyperscalers are deploying capital",
-        "Platform evolution underway: Software monetization launches targeted for FY26, UALink deployments expected in 2026, and the Scorpio smart fabric switch ramp position ALAB to transition from a hardware vendor to a full-stack AI connectivity platform commanding higher multiples"
-      ],
-      "bear_case": [
-        "Extreme valuation disconnect: At 307x trailing P/E and trading ~70% above the analyst consensus price target of $263.60, any earnings miss or guidance cut could trigger severe multiple compression — InvestingPro flags 53%+ downside risk to fair value",
-        "Customer concentration is a critical vulnerability: Top 3 customers represent 86% of 2025 revenue, and intensifying competition from Broadcom and Marvell, combined with notable insider selling, raises questions about sustaining current growth rates"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$492.79",
-      "price_target": "$263.60 (-46.5%)",
-      "pe_ratio": "307.3",
-      "rsi": "79.5",
-      "vs_52wk_high": "-1.3% below high ($499.48)",
-      "analyst_rating": "Buy",
-      "sector": "Semiconductors - AI Infrastructure",
-      "sources": ["Yahoo Finance", "Benzinga", "MarketBeat", "StockAnalysis", "MacroTrends", "Seeking Alpha", "Astera Labs IR", "TIKR", "TradingKey", "EvidInvest"],
-      "price_history_5d": [391.74, 407.00, 430.00, 455.96, 492.79]
-    },
-    {
-      "ticker": "MSTR",
-      "company": "Strategy (MicroStrategy)",
-      "discussion_driver": "Strategy surged 12%+ on June 29 after announcing a new Digital Credit Capital Framework and Bitcoin Monetization Program allowing up to $1.25B in BTC sales, but gave back ~3% on June 30 as Bitcoin retreated below $60,000 amid quarter-end rebalancing flows. The violent two-day swing underscores MSTR's status as one of the most leveraged Bitcoin proxies in public markets, with TD Cowen cutting its price target to $260 on the same day.",
-      "bull_case": [
-        "Strategy holds 847,363 BTC valued at ~$50.7B, giving shareholders leveraged exposure to Bitcoin's long-term appreciation thesis — the company has achieved a 9.5% BTC yield YTD 2026 through its disciplined accumulation strategy",
-        "Analyst consensus remains overwhelmingly bullish (14 Buy ratings, 0 Sell) with an average price target of $322.50, implying 279% upside — reflecting conviction that institutional Bitcoin adoption will drive both BTC price recovery and MSTR's premium-to-NAV expansion"
-      ],
-      "bear_case": [
-        "The company posts significant losses (trailing EPS of -$40.16) with a negative P/E ratio, creating financial fragility — continued reliance on capital markets to fund Bitcoin accumulation is unsustainable if BTC prices decline materially",
-        "Stock is down 81.6% from its 52-week high of $455.90, and multiple analyst price target cuts signal growing concerns about execution risk, Bitcoin downside volatility, and the new monetization framework's complexity"
+        "Meta (~35% of total backlog) building its own external cloud business could simultaneously reduce future CoreWeave demand AND compete for the same enterprise customers — an existential double threat given the customer concentration.",
+        "CoreWeave carries heavy debt and capital costs to fund its GPU buildout; any slowdown in AI infrastructure spending, hyperscaler self-sufficiency shift, or loss of a major customer could rapidly compress margins and multiples."
       ],
       "recommendation": "Speculative Buy",
-      "current_price": "$85.02",
-      "price_target": "$322.50 (+278.9%)",
+      "current_price": "$89.24",
+      "price_target": "$143.41 (+60.7%)",
       "pe_ratio": "N/A",
-      "rsi": "25.4",
-      "vs_52wk_high": "-81.6% below high ($455.90)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Technology - Bitcoin Treasury / Software",
-      "sources": ["StockAnalysis", "MarketBeat", "Investing.com", "CoinDesk", "Invezz", "GuruFocus", "Public.com", "Lambda Financial"],
-      "price_history_5d": [95.31, 92.68, 85.02]
+      "rsi": "N/A",
+      "vs_52wk_high": "-46.3% below high ($166.22)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - AI Cloud Infrastructure",
+      "sources": ["Bloomberg", "Yahoo Finance", "Benzinga", "Evercore ISI", "Motley Fool", "TechCrunch", "Investing.com"],
+      "price_history_5d": [105.00, 101.00, 96.58, 99.54, 89.24]
+    },
+    {
+      "ticker": "ABVX",
+      "company": "Abivax S.A.",
+      "discussion_driver": "Abivax surged ~38% on June 30 after Phase 3 ABTECT Maintenance Part 2 trial data showed obefazimod achieving ~51% clinical remission at Week 44 versus 10.4% for placebo in treatment-refractory ulcerative colitis patients, with no new cancer safety signals over 44 weeks. Jefferies upgraded to Buy with a $158 price target, stating the data 'appropriately addresses the key safety overhang' — a malignancy signal at the 50mg dose that had weighed on the stock. Abivax plans to file an NDA with the FDA in Q4 2026, with Citizens Financial targeting $187 on the news.",
+      "bull_case": [
+        "Phase 3 ABTECT data is compelling — ~51% remission vs 10.4% placebo in treatment-refractory patients across both induction and maintenance trials, with favorable 44-week safety profile, providing a clear regulatory path to NDA filing in Q4 2026.",
+        "First-in-class oral miR-124 enhancer mechanism differentiates obefazimod from existing biologics; multiple analysts (Jefferies $158, Citizens $187, Truist $135, Morgan Stanley $132) maintain Buy-equivalent ratings with average ~$148 target."
+      ],
+      "bear_case": [
+        "FDA approval is not guaranteed — regulatory scrutiny of malignancy signals at the 50mg dose remains a key overhang, and any additional safety finding during the NDA review process could delay or derail the approval timeline.",
+        "Pre-revenue single-asset biotech concentration risk: failure of obefazimod or approval of a competing ulcerative colitis therapy (ozanimod, etrasimod) could dramatically reset the stock's valuation given the binary nature of the catalyst."
+      ],
+      "recommendation": "Speculative Buy",
+      "current_price": "$133.26",
+      "price_target": "$148.00 (+11.1%)",
+      "pe_ratio": "N/A",
+      "rsi": "N/A",
+      "vs_52wk_high": "-10.5% below high ($148.83)",
+      "analyst_rating": "Buy",
+      "sector": "Healthcare - Biotechnology",
+      "sources": ["24/7 Wall St.", "MarketBeat", "Jefferies", "BioPharma Dive", "IR.Abivax.com", "StocksToTrade", "Investing.com"],
+      "price_history_5d": [96.00, 95.00, 96.00, 132.24, 133.26]
     }
   ]
 }
