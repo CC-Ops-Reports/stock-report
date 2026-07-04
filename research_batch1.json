@@ -1,135 +1,137 @@
 {
-  "report_date": "2026-07-02",
+  "report_date": "2026-07-03",
   "batch": 1,
   "market_tone": "Mixed",
   "key_themes": [
-    "AI/semiconductor rotation: chip stocks sink after 80%+ H1 rally as investors question sustainability",
-    "Healthcare sector surge: CMS proposes 2.4% Medicare home health payment increase for 2027",
-    "Jobs miss + Fed signal: June payrolls 57k vs 113k expected; Warsh says inflation risks eased substantially"
+    "Semiconductor selloff accelerates — SOX index drops 6.7% as chip stocks reverse H1 gains",
+    "Meta cloud entry crushes AI-infrastructure neoclouds (CoreWeave, Nebius)",
+    "Dow hits all-time high (52,900) while Nasdaq falls 1.6% — rare divergence",
+    "Weak June jobs report (57K vs 115K est.) lifts Fed rate-cut hopes",
+    "Tesla beats delivery estimates but stock tanks on margin concerns"
   ],
   "sp500": {
-    "value": "7,483.23",
-    "change": "-0.2%"
+    "value": "7,608.00",
+    "change": "-0.1%"
   },
   "nasdaq": {
-    "value": "26,040.03",
-    "change": "-0.7%"
+    "value": "24,312.00",
+    "change": "-1.6%"
   },
   "stocks": [
     {
-      "ticker": "RIVN",
-      "company": "Rivian Automotive",
-      "discussion_driver": "Rivian delivered 12,194 vehicles in Q2 2026, beating estimates, and raised full-year 2026 guidance to 65,000-70,000 units. The stock surged 12.9% on July 2 to $19.39, pushing above the analyst consensus price target of $18.19. The delivery beat signals Rivian's production ramp is gaining momentum, though the company remains unprofitable and analysts may now lag the stock until they revise targets higher.",
+      "ticker": "META",
+      "company": "Meta Platforms",
+      "discussion_driver": "Meta surged ~10% on July 1 after Bloomberg reported the company is launching 'Meta Compute,' a cloud business to rent excess AI capacity to outside customers, entering direct competition with AWS, Azure, and GCP. The announcement — the biggest single-day gain of the year for META — signals a strategic pivot from pure ad platform to diversified AI hyperscaler, while simultaneously crushing neocloud stocks CoreWeave and Nebius that depend heavily on Meta revenue.",
       "bull_case": [
-        "Q2 delivery beat and raised full-year guidance signal accelerating production ramp and improving operational execution",
-        "New R2 SUV platform launch opens the mass-market EV segment and could dramatically expand Rivian's addressable market"
+        "New Meta Compute cloud business monetizes $100B+ AI infrastructure investment into a major new revenue stream, potentially positioning META as the fourth major hyperscaler",
+        "Industry-leading AI-powered ad platform and 3.3B+ daily active users provide an unassailable monetization moat; analyst consensus target implies 42% upside from current levels"
       ],
       "bear_case": [
-        "Company remains deeply unprofitable with significant ongoing cash burn; stock now trading above analyst consensus price target after the surge",
-        "Intense competition from Tesla, legacy automakers, and subsidized Chinese EV manufacturers threatens long-term market position"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$19.39",
-      "price_target": "$18.19 (-6.2%)",
-      "pe_ratio": "N/A",
-      "rsi": "45.72",
-      "vs_52wk_high": "-14.5% below high ($22.69)",
-      "analyst_rating": "Hold",
-      "sector": "Consumer Discretionary - Electric Vehicles",
-      "sources": ["Yahoo Finance", "MarketBeat", "CNBC", "MacroTrends", "TheStreet"],
-      "price_history_5d": [15.63, 17.18, 19.39]
-    },
-    {
-      "ticker": "SNDK",
-      "company": "Sandisk Corporation",
-      "discussion_driver": "Sandisk plunged 10-12% on July 2 amid a broad semiconductor selloff as fears of AI-trade overextension intensified, led by declines in Korean chip stocks. The stock has fallen ~25% from its June 25 all-time high despite bullish analyst targets of $2,500-$3,250, creating tension between near-term memory supply-glut fears and long-term AI storage demand tailwinds.",
-      "bull_case": [
-        "AI data centers require exponentially more NAND flash storage, driving long-term secular demand growth for Sandisk's core products",
-        "Major bank price targets of $2,500-$3,250 (Susquehanna $3,250, Bernstein $3,000, BofA $2,500) suggest ~50%+ upside from current levels"
-      ],
-      "bear_case": [
-        "Elevated trailing P/E ratio of 70-75x leaves minimal margin for error in earnings execution amid macro uncertainty",
-        "Memory chip supply glut fears and Korean chip sector contagion could prolong near-term selling pressure"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$1,769.85",
-      "price_target": "$2,666.67 (+50.7%)",
-      "pe_ratio": "70.64",
-      "rsi": "N/A",
-      "vs_52wk_high": "-24.8% below high ($2,354.39)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Data Storage",
-      "sources": ["CNBC", "Yahoo Finance", "FX Leaders", "Benzinga", "MarketBeat", "Simply Wall St"],
-      "price_history_5d": [2273.73, 2048.44, 1769.85]
-    },
-    {
-      "ticker": "TER",
-      "company": "Teradyne",
-      "discussion_driver": "Teradyne fell 9-13% on July 2 in the broad semiconductor sector selloff, reversing some of its remarkable 111%+ year-to-date gain driven by record Q1 2026 results and AI-driven semiconductor testing demand. Recent analyst upgrades from Cantor Fitzgerald and Susquehanna to $550 price targets signal long-term conviction, while the stock's elevated 56-64x forward P/E leaves it exposed to valuation compression in a risk-off environment.",
-      "bull_case": [
-        "AI-driven semiconductor testing demand driving record revenues; Nasdaq-100 inclusion brings structural institutional buying demand",
-        "Robotics division (Universal Robots) provides non-semiconductor revenue diversification and reduces cyclicality risk"
-      ],
-      "bear_case": [
-        "Trades at 56-64x forward P/E following a 111%+ YTD run, creating significant vulnerability to multiple compression during sector rotations",
-        "Analyst consensus price target of $393.92 sits just 5.3% above current price, limiting near-term upside if semiconductor sentiment stays negative"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$373.92",
-      "price_target": "$393.92 (+5.3%)",
-      "pe_ratio": "N/A",
-      "rsi": "42.2",
-      "vs_52wk_high": "-20.8% below high ($472.37)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Semiconductor Test Equipment",
-      "sources": ["Yahoo Finance", "StockAnalysis.com", "TIKR.com", "MarketBeat", "TipRanks"],
-      "price_history_5d": [463.21, 427.34, 428.00, 373.92]
-    },
-    {
-      "ticker": "GLW",
-      "company": "Corning",
-      "discussion_driver": "Corning fell 10-13% on July 2 after hitting an all-time high of $271.78 on June 30, dragged lower by the AI infrastructure selloff alongside chip equipment peers. The stock has surged 391% over the past year on surging demand for its fiber optic and photonic products for AI data centers. However, the stock trades 14.6% above analyst consensus price targets and at a trailing P/E exceeding 90x, raising material valuation concerns.",
-      "bull_case": [
-        "AI data center buildout driving unprecedented demand for optical fiber; new Photonics MAP platform targeting Gen AI OEMs expected to generate significant revenue growth through 2030",
-        "Recent FTSE Russell index reconstitution added Corning to growth benchmarks, potentially attracting new long-term institutional capital"
-      ],
-      "bear_case": [
-        "Stock trading 14.6% above analyst consensus price target of $192.64 even after the July 2 selloff, with trailing P/E above 90x — extreme valuation risk",
-        "Production bottlenecks and costly maintenance shutdown at its newly separated solar wafer facility create near-term earnings risk"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$220.63",
-      "price_target": "$192.64 (-12.7%)",
-      "pe_ratio": "90.0",
-      "rsi": "61.14",
-      "vs_52wk_high": "-18.8% below high ($271.78)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Specialty Glass & Optical Fiber",
-      "sources": ["Yahoo Finance", "MarketBeat", "CNBC", "TradingKey.com", "UBS", "Simply Wall St"],
-      "price_history_5d": [223.00, 255.69, 271.78, 255.37, 220.63]
-    },
-    {
-      "ticker": "AMAT",
-      "company": "Applied Materials",
-      "discussion_driver": "Applied Materials plunged approximately 10% on July 2 in a sector-wide semiconductor equipment selloff as investors questioned the sustainability of AI infrastructure buildout valuations. The selloff follows AMAT hitting an all-time intraday high of $739.67 on June 30. Despite the decline, major banks recently raised price targets to $715-$900, and the company holds a Strong Buy consensus from 39 analysts, suggesting the pullback may represent a buying opportunity.",
-      "bull_case": [
-        "Dominant semiconductor equipment market position with deep exposure to the AI chip manufacturing capex cycle driving long-term revenue growth",
-        "Recent analyst upgrades from BofA ($720), Wells Fargo ($715), and Susquehanna ($900) signal strong institutional conviction in the multi-year AI buildout thesis"
-      ],
-      "bear_case": [
-        "Semiconductor equipment spending is highly cyclical; any deceleration in AI capex by hyperscalers could cause sharp revenue and multiple contraction",
-        "Stock is down ~16% from its all-time high with negative sector sentiment; formal analyst consensus target was last measured below current price"
+        "Late cloud market entrant faces entrenched hyperscalers (AWS, Azure, GCP) with decades-long enterprise relationships and superior tooling ecosystems",
+        "Accelerating capex to build cloud scale will weigh on near-term free cash flow and margins; management credibility risk if cloud revenue ramp disappoints"
       ],
       "recommendation": "Buy",
-      "current_price": "$622.59",
-      "price_target": "$715.00 (+14.8%)",
-      "pe_ratio": "46.09",
+      "current_price": "$582.90",
+      "price_target": "$827.32 (+41.9%)",
+      "pe_ratio": "21.93",
       "rsi": "N/A",
-      "vs_52wk_high": "-15.8% below high ($739.67)",
+      "vs_52wk_high": "-26.8% below high ($796.25)",
       "analyst_rating": "Strong Buy",
-      "sector": "Technology - Semiconductor Equipment",
-      "sources": ["Yahoo Finance", "TheStreet", "CNBC", "MarketBeat", "MacroTrends", "FullRatio.com"],
-      "price_history_5d": [626.84, 694.64, 723.00, 657.52, 622.59]
+      "sector": "Technology - Internet Media / Digital Advertising",
+      "sources": ["Bloomberg", "CNBC", "GuruFocus", "Benzinga", "Yahoo Finance"],
+      "price_history_5d": [612.91, 582.90]
+    },
+    {
+      "ticker": "RIVN",
+      "company": "Rivian Automotive",
+      "discussion_driver": "Rivian jumped ~13% after raising its 2026 delivery guidance to 65,000–70,000 vehicles (up from 62,000–67,000) on the strength of Q2 deliveries of 12,194 units that beat estimates. The raise signals improving production execution and growing consumer demand, though the company remains deeply loss-making and the post-surge price has largely closed the gap to analyst consensus targets, limiting near-term upside.",
+      "bull_case": [
+        "Raised 2026 delivery guidance signals operational execution improvements; Q2 beat demonstrates the VW partnership and Amazon fleet contract are enabling a credible production ramp",
+        "VW partnership provides capital, technology co-development, and global platform scale while Amazon delivery van contract provides a steady cash floor independent of consumer demand cycles"
+      ],
+      "bear_case": [
+        "Company remains deeply unprofitable with a negative P/E and no clear timeline to positive free cash flow; cash burn continues at scale in a difficult capital markets environment",
+        "Post-surge valuation has virtually closed the gap to analyst consensus price targets, limiting near-term upside; EV market remains intensely competitive with Tesla and legacy OEMs"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$18.57",
+      "price_target": "$20.09 (+8.2%)",
+      "pe_ratio": "-6.38",
+      "rsi": "N/A",
+      "vs_52wk_high": "-18.2% below high ($22.69)",
+      "analyst_rating": "Moderate Buy",
+      "sector": "Consumer Discretionary - Electric Vehicles",
+      "sources": ["CNBC", "Yahoo Finance", "Benzinga", "MarketBeat", "TradingKey"],
+      "price_history_5d": [15.63, 18.57]
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "discussion_driver": "Tesla reported blowout Q2 deliveries of 480,126 vehicles (+25% YoY), far exceeding estimates, but shares fell 7.5% in a classic 'buy the rumor, sell the news' reaction as investors shifted focus to margin compression from aggressive pricing cuts used to drive volume. The divergence between record operational results and the stock's negative reaction reflects deep investor anxiety about Tesla's profitability trajectory and whether delivery beats are sustainable without further margin sacrifice.",
+      "bull_case": [
+        "Record Q2 deliveries of 480,126 units (+25% YoY) confirm robust demand resilience and market share recovery; Tesla Energy storage and FSD/Robotaxi represent significant optionality not captured in traditional auto valuations",
+        "Weak June jobs report raises Fed rate-cut probability, which could benefit high-multiple growth stocks; potential rate cuts may re-accelerate EV demand via lower financing costs"
+      ],
+      "bear_case": [
+        "Stretched trailing P/E of 380x leaves no margin of safety; aggressive pricing cuts boosting delivery volumes are directly compressing already-thin automotive gross margins",
+        "'Sell the news' reaction to record deliveries signals deep investor skepticism about whether volume growth can continue without further price reductions that erode profitability"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$393.45",
+      "price_target": "$422.99 (+7.5%)",
+      "pe_ratio": "380.59",
+      "rsi": "N/A",
+      "vs_52wk_high": "-21.1% below high ($498.83)",
+      "analyst_rating": "Hold",
+      "sector": "Consumer Discretionary - Electric Vehicles",
+      "sources": ["CNBC", "Yahoo Finance", "TradingKey", "MarketBeat"],
+      "price_history_5d": [425.30, 393.45]
+    },
+    {
+      "ticker": "CRWV",
+      "company": "CoreWeave",
+      "discussion_driver": "CoreWeave plunged 14% on July 1 after Bloomberg reported Meta Platforms is launching 'Meta Compute,' a cloud business that would directly compete with CoreWeave and potentially reduce Meta's $21B committed spend on CoreWeave's GPU infrastructure. The selloff exposed severe customer concentration risk. Analyst Rosenblatt pushed back, arguing Meta contractually cannot resell CoreWeave's leased capacity to third parties, maintaining a Buy with a $250 target.",
+      "bull_case": [
+        "$21B+ committed contract backlog through 2032 provides strong revenue visibility; Rosenblatt argues Meta cannot legally resell leased CoreWeave capacity, materially limiting the direct competitive threat",
+        "Best-in-class GPU cluster density and AI-optimized networking infrastructure create a technical moat; 75%+ upside to analyst consensus target makes the selloff a potential entry point"
+      ],
+      "bear_case": [
+        "Meta cloud entry directly threatens the largest customer relationship; severe customer concentration risk is now fully exposed and could trigger a prolonged re-rating of the revenue backlog",
+        "Deeply unprofitable (P/E -26x) with massive debt load; any reduction in Meta spending could accelerate cash burn and raise material financing risk"
+      ],
+      "recommendation": "Speculative Buy",
+      "current_price": "$81.75",
+      "price_target": "$142.29 (+74.1%)",
+      "pe_ratio": "-25.97",
+      "rsi": "N/A",
+      "vs_52wk_high": "-50.0% below high ($163.66)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - Cloud Computing / AI Infrastructure",
+      "sources": ["Motley Fool", "Yahoo Finance", "Seeking Alpha", "TipRanks", "Rosenblatt Securities"],
+      "price_history_5d": [85.69, 81.75]
+    },
+    {
+      "ticker": "NBIS",
+      "company": "Nebius Group",
+      "discussion_driver": "Nebius Group fell 17% on July 1 in sympathy with CoreWeave after Meta announced plans to build 'Meta Compute,' its internal AI cloud unit. Nebius had secured deals worth up to $27B from Meta, making it similarly exposed to the customer concentration risk now threatening the entire neocloud sector. Shares continued lower on July 2, now down ~28% from the 52-week high reached just weeks ago.",
+      "bull_case": [
+        "Up to $27B in committed Meta partnerships and NVIDIA preferred partner status provide massive revenue runway and technical credibility in the high-growth AI infrastructure market",
+        "High-density GPU clusters and a strong European data center footprint offer geographic diversification that US-centric hyperscalers cannot easily replicate"
+      ],
+      "bear_case": [
+        "Meta cloud entry threatens the very partnerships that drove Nebius's 338% YoY return; extreme single-customer concentration represents an existential risk to the core bull thesis",
+        "Elevated P/E of 63.6x despite ongoing profitability concerns and now-challenged revenue commitments; stock remains expensive relative to its sharply upgraded risk profile"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$215.89",
+      "price_target": "$244.07 (+13.1%)",
+      "pe_ratio": "63.57",
+      "rsi": "N/A",
+      "vs_52wk_high": "-28.0% below high ($299.86)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - Cloud Computing / AI Infrastructure",
+      "sources": ["Motley Fool", "Yahoo Finance", "247WallSt", "MarketBeat", "Simply Wall St"],
+      "price_history_5d": [261.15, 229.18, 215.89]
     }
   ]
 }
