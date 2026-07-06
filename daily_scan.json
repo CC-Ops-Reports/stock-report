@@ -1,102 +1,95 @@
 {
-  "report_date": "2026-07-03",
+  "report_date": "2026-07-06",
   "market_tone": "Mixed",
   "key_themes": [
-    "Semiconductor selloff accelerates \u2014 SOX index drops 6.7% as chip stocks reverse H1 gains",
-    "Meta cloud entry crushes AI-infrastructure neoclouds (CoreWeave, Nebius)",
-    "Dow hits all-time high (52,900) while Nasdaq falls 1.6% \u2014 rare divergence",
-    "Weak June jobs report (57K vs 115K est.) lifts Fed rate-cut hopes",
-    "Tesla beats delivery estimates but stock tanks on margin concerns"
+    "Trump White House endorsement sparks retail investor rally in Dell",
+    "Semiconductor equipment names surge on major analyst upgrades (ASML, LRCX)",
+    "Pharma M&A heats up as Vertex acquires Crinetics for $10B at 102% premium",
+    "AI chip sector extends losses (MU, INTC, AMD) despite broader market recovery",
+    "Auto parts sector shaken by O'Reilly $10B bid for Genuine Parts auto unit"
   ],
   "sp500": {
-    "value": "7,608.00",
-    "change": "-0.1%"
+    "value": "7,537.43",
+    "change": "+0.72%"
   },
   "nasdaq": {
-    "value": "24,312.00",
-    "change": "-1.6%"
+    "value": "26,121.16",
+    "change": "+1.12%"
   },
   "stocks": [
     {
-      "ticker": "META",
-      "company": "Meta Platforms",
-      "reason": "Shares surged ~9-11% after Bloomberg reported Meta is launching a cloud business to sell excess AI compute capacity, entering competition with AWS/Azure/GCP and threatening neocloud providers.",
+      "ticker": "DELL",
+      "company": "Dell Technologies",
+      "reason": "Stock surged 7-8% after President Trump rang the opening bell from the Oval Office and publicly urged Americans to buy Dell computers, his second such endorsement in 2026. Trump disclosed owning $1M-$5M in Dell shares.",
       "category": "news",
       "sources": [
         "CNBC",
+        "Yahoo Finance",
+        "Benzinga",
+        "UPI"
+      ]
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "reason": "Stock rose ~4% after Broadcom extended its chip supply partnership with Apple through 2031, expanding from wireless/connectivity into custom AI-capable ASICs \u2014 locking in Apple (~20% of revenue) as a multi-year design win.",
+      "category": "news",
+      "sources": [
+        "Yahoo Finance",
+        "RTT News",
+        "Investing.com",
+        "Motley Fool"
+      ]
+    },
+    {
+      "ticker": "CRNX",
+      "company": "Crinetics Pharmaceuticals",
+      "reason": "Stock roughly doubled after Vertex Pharmaceuticals announced a definitive agreement to acquire Crinetics for $85/share in cash ($10B total equity value), a 102% premium, to expand into endocrinology/acromegaly.",
+      "category": "news",
+      "sources": [
         "Bloomberg",
+        "Business Wire",
+        "GuruFocus",
         "Yahoo Finance"
       ]
     },
     {
-      "ticker": "RIVN",
-      "company": "Rivian Automotive",
-      "reason": "Shares jumped ~13% after Rivian raised its 2026 delivery guidance to 65K-70K vehicles (up from 62K-67K), following Q2 deliveries of 12,194 units.",
+      "ticker": "VRTX",
+      "company": "Vertex Pharmaceuticals",
+      "reason": "Announced $10B all-cash acquisition of Crinetics Pharmaceuticals to enter endocrinology, financed via cash on hand and $4.5B bridge financing from BofA and Morgan Stanley. Deal expected to close Q3 2026.",
       "category": "news",
       "sources": [
-        "CNBC",
-        "Yahoo Finance",
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "reason": "Stock fell ~7.5% despite reporting blowout Q2 deliveries of 480,126 vehicles (+25% YoY, far above estimates) \u2014 \"buy the rumor, sell the news\" reaction on margin concerns tied to pricing cuts.",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance",
-        "TradingKey"
-      ]
-    },
-    {
-      "ticker": "CRWV",
-      "company": "CoreWeave",
-      "reason": "Shares plunged ~14% after Meta announced plans to launch a cloud business, threatening CoreWeave's $21B customer commitment from Meta \u2014 customer concentration risk now front and center.",
-      "category": "news",
-      "sources": [
-        "Motley Fool",
-        "Yahoo Finance",
-        "Seeking Alpha"
-      ]
-    },
-    {
-      "ticker": "NBIS",
-      "company": "Nebius Group",
-      "reason": "Stock sank ~17% in sympathy with CoreWeave on Meta cloud news \u2014 Nebius had a deal worth up to $27B from Meta, making it similarly exposed to the new competitive threat.",
-      "category": "news",
-      "sources": [
-        "Motley Fool",
-        "Yahoo Finance",
-        "247WallSt"
-      ]
-    },
-    {
-      "ticker": "AVAV",
-      "company": "AeroVironment",
-      "reason": "Shares rose ~11% after winning a $500 million U.S. Army contract to develop counter-drone capabilities for the military.",
-      "category": "news",
-      "sources": [
-        "CNBC",
+        "Bloomberg",
+        "Business Wire",
         "Yahoo Finance"
       ]
     },
     {
-      "ticker": "PLTR",
-      "company": "Palantir Technologies",
-      "reason": "D.A. Davidson upgraded stock from Neutral to Buy with a $175 price target; shares paced for a ~15% gain on the week as AI government/enterprise contracts remain strong.",
+      "ticker": "LRCX",
+      "company": "Lam Research",
+      "reason": "Stock up 4%+ after Morgan Stanley raised its price target to $404 from $331 (Overweight maintained), citing AI-driven expansion in wafer fab equipment demand. Also featured in CNBC premarket movers.",
       "category": "upgrade",
       "sources": [
-        "Yahoo Finance",
+        "GuruFocus",
+        "Investing.com",
         "CNBC"
       ]
     },
     {
-      "ticker": "SNDK",
-      "company": "Sandisk",
-      "reason": "Shares sank ~14% as part of a broad semiconductor sector selloff; PHLX SOX index lost 6.7% as investors rotated out of chips after a near-doubling in Q2.",
-      "category": "sector",
+      "ticker": "ASML",
+      "company": "ASML Holding",
+      "reason": "Shares surged 4%+ after Bernstein hiked its price target by more than 30% to $2,300, with analysts citing unprecedented AI-driven expansion in both logic and DRAM capacity as justification for a significantly higher valuation.",
+      "category": "upgrade",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "TMUS",
+      "company": "T-Mobile US",
+      "reason": "Shares rose 1%+ after Bank of America upgraded T-Mobile to Buy from Neutral with a $220 price target, citing improved competitive positioning and subscriber growth outlook.",
+      "category": "upgrade",
       "sources": [
         "CNBC",
         "Yahoo Finance"
@@ -105,7 +98,18 @@
     {
       "ticker": "MU",
       "company": "Micron Technology",
-      "reason": "Dropped ~10% in the semiconductor sector rotation; shares fell alongside Marvell, Applied Materials, and Lam Research as investors took profits from H1 chip rally.",
+      "reason": "Stock fell 5.5% as AI semiconductor names extended a two-day losing streak, pressured by ongoing concerns about memory cost trajectory and a broader de-rating of AI-exposed chip valuations.",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance",
+        "TheStreet"
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "company": "Intel",
+      "reason": "Stock declined 5.3% in the AI chip sector sell-off despite an initial premarket bounce of 2.5%. Featured in CNBC premarket movers (LRCX, INTC, DDOG article) as a key watch for session direction.",
       "category": "sector",
       "sources": [
         "CNBC",
@@ -113,62 +117,52 @@
       ]
     },
     {
-      "ticker": "HOOD",
-      "company": "Robinhood Markets",
-      "reason": "Stock jumped ~7-8% after Robinhood announced Robinhood Chain (Layer 2 blockchain mainnet), new stock tokens tradeable 24/7, agentic AI trading tools, and commodity perpetual futures for European customers.",
+      "ticker": "AMD",
+      "company": "Advanced Micro Devices",
+      "reason": "Shares fell 4.3% as the AI semiconductor sell-off continued for a second consecutive session, with multiple sell-side notes flagging valuation concerns across the sector.",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance",
+        "Intellectia AI"
+      ]
+    },
+    {
+      "ticker": "ORLY",
+      "company": "O'Reilly Automotive",
+      "reason": "Stock dropped ~7% to its lowest level since January 2025 after Bloomberg reported O'Reilly is pursuing a ~$10B cash bid for Genuine Parts' auto parts division, raising investor concerns about deal size, leverage, and integration risk.",
       "category": "news",
       "sources": [
+        "Bloomberg",
+        "Alphastreet",
+        "Investing.com"
+      ]
+    },
+    {
+      "ticker": "GPC",
+      "company": "Genuine Parts",
+      "reason": "Shares surged ~13% on reports that O'Reilly Automotive made a ~$10B cash offer for Genuine Parts' auto parts business, representing a meaningful premium for the division.",
+      "category": "news",
+      "sources": [
+        "Bloomberg",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "GILD",
+      "company": "Gilead Sciences",
+      "reason": "HSBC upgraded Gilead to Buy from Hold and raised its price target to $155 from $133, cited as one of the top Wall Street analyst calls on Monday per Yahoo Finance and CNBC.",
+      "category": "upgrade",
+      "sources": [
         "Yahoo Finance",
-        "Forbes",
         "CNBC"
       ]
     },
     {
-      "ticker": "CRWD",
-      "company": "CrowdStrike Holdings",
-      "reason": "Executed a 4-for-1 stock split on July 2 (shareholders of record June 25 received 3 additional shares); cybersecurity spending wave and AI security tailwinds driving momentum.",
-      "category": "news",
-      "sources": [
-        "Yahoo Finance",
-        "Motley Fool",
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "GIS",
-      "company": "General Mills",
-      "reason": "Shares jumped ~6% after Q4 earnings beat with adjusted EPS of $0.95/share and management announced plans to generate $3 billion in cumulative cost savings through fiscal 2030.",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "ADBE",
-      "company": "Adobe",
-      "reason": "HSBC Securities upgraded Adobe from Hold to Buy with a $308 price target, citing improving AI product monetization prospects.",
-      "category": "upgrade",
-      "sources": [
-        "Benzinga",
-        "MarketBeat"
-      ]
-    },
-    {
-      "ticker": "CRM",
-      "company": "Salesforce",
-      "reason": "Guggenheim upgraded to Buy at a $228 price target, calling fears of an AI-driven \"SaaSpocalypse\" a \"hallucination\" and arguing CRM is poised to benefit from AI agent adoption.",
-      "category": "upgrade",
-      "sources": [
-        "Seeking Alpha",
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "AMAT",
-      "company": "Applied Materials",
-      "reason": "Fell ~10% in the semiconductor equipment sector selloff as investors rotated out of chip names after the SOX index nearly doubled in Q2.",
-      "category": "sector",
+      "ticker": "DDOG",
+      "company": "Datadog",
+      "reason": "Bernstein downgraded Datadog to Market Perform from Outperform (despite raising the price target to $226 from $180), weighing on the stock. Also featured in CNBC premarket movers list alongside LRCX and INTC.",
+      "category": "downgrade",
       "sources": [
         "CNBC",
         "Yahoo Finance"
