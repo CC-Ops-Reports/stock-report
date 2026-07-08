@@ -1,175 +1,176 @@
 {
-  "report_date": "2026-07-07",
+  "report_date": "2026-07-08",
   "market_tone": "Mixed",
   "key_themes": [
-    "Samsung Q2 earnings spark semiconductor/AI infrastructure selloff; chip stocks broadly lower",
-    "Hyperscalers raise 2026 AI capex to $750B, boosting storage/memory names (WDC, STX, AMD)",
-    "SpaceX (SPCX) joins Nasdaq-100 under new fast-track IPO rules on volatile debut day",
-    "Vertex Pharmaceuticals acquires Crinetics in $10B rare-disease deal at 102% premium",
-    "Oil spikes above $75/bbl on Iran Strait of Hormuz attacks; adds pressure to AI-heavy Nasdaq"
+    "US-Iran tensions escalate as Trump declares ceasefire over at NATO summit, oil surges 4-6%",
+    "AI infrastructure boom drives select tech outperformers (Penguin Solutions, Broadcom, Arista, Alibaba)",
+    "Energy sector leads gains while consumer travel and materials stocks slide on oil spike"
   ],
   "sp500": {
-    "value": "7,503.85",
-    "change": "-0.45%"
+    "value": "7,482.71",
+    "change": "-0.28%"
   },
   "nasdaq": {
-    "value": "25,818.69",
-    "change": "-1.16%"
+    "value": "25,870.65",
+    "change": "+0.20%"
   },
   "stocks": [
     {
-      "ticker": "CRNX",
-      "company": "Crinetics Pharmaceuticals",
-      "reason": "Vertex agreed to acquire Crinetics for $85/share in cash (~$10B deal), representing a 102% premium; shares surged ~100% in after-hours trading on July 7",
-      "category": "news",
+      "ticker": "PENG",
+      "company": "Penguin Solutions",
+      "reason": "Surged 18-26% after record Q3 FY2026 earnings: revenue $479M (+48% YoY), EPS $0.84 vs $0.56 est; raised FY guidance to $2.60 EPS; named NVIDIA AI Factory Specialized Partner",
+      "category": "earnings",
       "sources": [
-        "CNBC",
-        "Bloomberg",
-        "BioPharma Dive"
+        "Investing.com",
+        "GuruFocus",
+        "StocksToTrade",
+        "Seeking Alpha"
       ]
     },
     {
-      "ticker": "VRTX",
-      "company": "Vertex Pharmaceuticals",
-      "reason": "Announced $10B acquisition of Crinetics Pharmaceuticals to expand into rare endocrine diseases; deal adds PALSONIFY (approved acromegaly drug) and Phase 3 CAH asset with ~$5B peak sales potential",
+      "ticker": "BABA",
+      "company": "Alibaba Group",
+      "reason": "Jumped 10-12% (biggest single-day gain in ~10 months) on DOJ $600M non-prosecution deal, court blocking Pentagon military-company designation, and pre-earnings optimism around 45% cloud revenue growth",
       "category": "news",
       "sources": [
-        "CNBC",
         "Bloomberg",
-        "BioPharma Dive"
+        "Yahoo Finance",
+        "Motley Fool",
+        "StocksToTrade"
       ]
     },
     {
-      "ticker": "SPCX",
-      "company": "SpaceX",
-      "reason": "Joined Nasdaq-100 today under new fast-track IPO rules (first under 15-day seasoning period); stock fell 5%+ to ~$149 after run from $135 IPO price to $225 high; $4.3B in forced QQQ passive buying triggered",
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "reason": "Rose ~5.87% as CEO Hock Tan guided AI semiconductor revenue to grow 200%+ YoY to $16B in Q3; strong AI infrastructure demand narrative",
       "category": "news",
       "sources": [
         "CNBC",
-        "Seeking Alpha",
-        "Motley Fool"
+        "24/7 Wall St.",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "ANET",
+      "company": "Arista Networks",
+      "reason": "Gained ~7-8.76% and featured in CNBC midday movers; AI networking infrastructure demand driving momentum alongside sector peers",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "AKAM",
+      "company": "Akamai Technologies",
+      "reason": "Rose ~7.9-10.67% and appeared among top midday movers on CNBC July 8; strong volume day tied to AI/cloud sector momentum",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "OXY",
+      "company": "Occidental Petroleum",
+      "reason": "Advanced ~4%, double catalyst: Evercore ISI upgraded to Outperform with $65 target (from $58), and WTI crude surged 4-6% on Trump declaring US-Iran ceasefire \"over\" at NATO summit",
+      "category": "upgrade",
+      "sources": [
+        "Evercore ISI via 24/7 Wall St.",
+        "247wallst.com",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "FANG",
+      "company": "Diamondback Energy",
+      "reason": "Led energy sector gains as WTI crude surged to $73.52 (+4.37%) on Iran tensions; Permian pure-play with high oil-price leverage",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "TheStreet"
+      ]
+    },
+    {
+      "ticker": "CVX",
+      "company": "Chevron",
+      "reason": "Rose ~1.9% as Brent crude settled up 5.43% at $78.19/bbl after Trump declared US-Iran ceasefire over; featured in CNBC premarket movers",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "TheStreet",
+        "Yahoo Finance"
       ]
     },
     {
       "ticker": "MU",
       "company": "Micron Technology",
-      "reason": "Dropped ~5% in session after Samsung Q2 results and DeepSeek AI chip development report sparked broad semiconductor selloff; premarket decline accelerated into regular trading",
+      "reason": "Fell ~4% continuing Tuesday selloff; Asian chip market weakness, profit-taking after Samsung earnings, DRAM oversupply fears, and ongoing class-action lawsuit over alleged price-fixing with Samsung/SK Hynix",
       "category": "sector",
       "sources": [
         "CNBC",
         "Yahoo Finance",
-        "TheStreet"
+        "TradingKey"
       ]
     },
     {
-      "ticker": "LRCX",
-      "company": "Lam Research",
-      "reason": "Tumbled nearly 7% as Samsung's mixed quarterly results renewed fears about AI chip demand sustainability and triggered broad semiconductor equipment selloff",
+      "ticker": "CCL",
+      "company": "Carnival Corporation",
+      "reason": "Dropped ~3.82% to $25.66 as oil price surge and Strait of Hormuz tensions raised fuel-cost fears; cruise operators highly exposed to marine fuel prices",
       "category": "sector",
       "sources": [
-        "CNBC",
-        "Bloomberg"
-      ]
-    },
-    {
-      "ticker": "GEV",
-      "company": "GE Vernova",
-      "reason": "Tanked 10% as AI infrastructure/power plays sold off broadly; concern about AI capex ROI and slowing hyperscaler demand for power equipment pressured the stock",
-      "category": "sector",
-      "sources": [
-        "CNBC",
-        "MarketBeat"
-      ]
-    },
-    {
-      "ticker": "VRT",
-      "company": "Vertiv Holdings",
-      "reason": "Slumped nearly 7% alongside GE Vernova in a broad AI infrastructure selloff triggered by Samsung earnings and DeepSeek AI chip news",
-      "category": "sector",
-      "sources": [
-        "CNBC",
-        "Bloomberg"
-      ]
-    },
-    {
-      "ticker": "WDC",
-      "company": "Western Digital",
-      "reason": "Surged 7.1% after the four major hyperscalers raised combined 2026 AI capex budgets to $750B; WDC is a key beneficiary of memory/storage demand tied to AI data center build-out",
-      "category": "news",
-      "sources": [
-        "Yahoo Finance",
-        "Globe and Mail"
-      ]
-    },
-    {
-      "ticker": "AMD",
-      "company": "Advanced Micro Devices",
-      "reason": "Gained 6.6% on news that hyperscalers raised 2026 AI infrastructure capex to $750B (set to cross $1T in 2027), boosting demand outlook for AMD AI chips",
-      "category": "news",
-      "sources": [
-        "Yahoo Finance",
-        "Bloomberg"
-      ]
-    },
-    {
-      "ticker": "FISV",
-      "company": "Fiserv",
-      "reason": "Rallied 5%+ in premarket after WSJ reported Fiserv held talks with JPMorgan and Bank of America about selling its debit card payments infrastructure business",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "Bloomberg",
-        "Wall Street Journal"
-      ]
-    },
-    {
-      "ticker": "CTSH",
-      "company": "Cognizant Technology Solutions",
-      "reason": "Gained more than 6% after announcing expanded partnership with Google Cloud to accelerate enterprise adoption of Gemini AI",
-      "category": "news",
-      "sources": [
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "USAR",
-      "company": "USA Rare Earth",
-      "reason": "Dropped 7%+ after WSJ/Bloomberg reported Democratic senators (Warren, Wyden, Van Hollen) expanded inquiry into government's $1.6B investment and potential Cantor Fitzgerald conflict of interest",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "Bloomberg",
+        "Benzinga",
         "Yahoo Finance"
       ]
     },
     {
-      "ticker": "NET",
-      "company": "Cloudflare",
-      "reason": "Scotiabank upgraded to Outperform from Sector Perform and raised price target to $300 from $225 on July 7, citing strengthened enterprise AI security positioning",
-      "category": "upgrade",
+      "ticker": "UAL",
+      "company": "United Airlines",
+      "reason": "Featured in CNBC premarket movers July 8; options market pricing ~3% move on July 15 earnings; Susquehanna raised price target to $172 (from $135); geopolitical risk from Iran tensions creating uncertainty",
+      "category": "news",
       "sources": [
-        "Yahoo Finance",
-        "Briefing.com"
+        "CNBC",
+        "Investing.com"
       ]
     },
     {
-      "ticker": "FSLR",
-      "company": "First Solar",
-      "reason": "Deutsche Bank upgraded to Buy from Hold with a $272 price target on July 7; solar demand benefiting from AI data center power needs and energy transition tailwinds",
+      "ticker": "DLTR",
+      "company": "Dollar Tree",
+      "reason": "Goldman Sachs upgraded to Neutral from Sell with $155 price target; analyst sees reduced downside risk",
       "category": "upgrade",
       "sources": [
-        "Yahoo Finance",
-        "MarketBeat"
+        "24/7 Wall St.",
+        "Goldman Sachs"
       ]
     },
     {
-      "ticker": "ADBE",
-      "company": "Adobe",
-      "reason": "Stock popped more than 5% despite Bank of America reinstating coverage with an Underperform rating and $190 price target, suggesting market sees the downgrade as overdone",
+      "ticker": "AA",
+      "company": "Alcoa",
+      "reason": "Morgan Stanley downgraded to Equal Weight from Overweight, slashed price target to $53 from $79; materials sector also on track for biggest one-day loss in over a year (-3% sector)",
       "category": "downgrade",
       "sources": [
-        "CNBC",
-        "Yahoo Finance"
+        "24/7 Wall St.",
+        "Morgan Stanley"
+      ]
+    },
+    {
+      "ticker": "PYPL",
+      "company": "PayPal Holdings",
+      "reason": "Barclays initiated coverage with Underweight rating and $42 price target, bearish initiation weighing on shares",
+      "category": "downgrade",
+      "sources": [
+        "24/7 Wall St.",
+        "Barclays"
+      ]
+    },
+    {
+      "ticker": "PINS",
+      "company": "Pinterest",
+      "reason": "DA Davidson initiated coverage with Buy rating and $26 price target, positive new coverage from major bank",
+      "category": "upgrade",
+      "sources": [
+        "24/7 Wall St.",
+        "DA Davidson"
       ]
     }
   ]
