@@ -1,101 +1,68 @@
 {
-  "report_date": "2026-07-08",
-  "market_tone": "Mixed",
+  "report_date": "2026-07-09",
+  "market_tone": "Bullish",
   "key_themes": [
-    "US-Iran tensions escalate as Trump declares ceasefire over at NATO summit, oil surges 4-6%",
-    "AI infrastructure boom drives select tech outperformers (Penguin Solutions, Broadcom, Arista, Alibaba)",
-    "Energy sector leads gains while consumer travel and materials stocks slide on oil spike"
+    "Semiconductor surge led by Micron $3B US manufacturing investment announcement",
+    "Pharma volatility: AstraZeneca/Ionis ATTR-CM drug Wainua fails Phase 3, boosting rival Alnylam",
+    "Geopolitical tension from renewed US-Iran strikes weighs on broader sentiment"
   ],
   "sp500": {
-    "value": "7,482.71",
-    "change": "-0.28%"
+    "value": "7,543.64",
+    "change": "+0.81%"
   },
   "nasdaq": {
-    "value": "25,870.65",
-    "change": "+0.20%"
+    "value": "26,206.89",
+    "change": "+1.30%"
   },
   "stocks": [
     {
-      "ticker": "PENG",
-      "company": "Penguin Solutions",
-      "reason": "Surged 18-26% after record Q3 FY2026 earnings: revenue $479M (+48% YoY), EPS $0.84 vs $0.56 est; raised FY guidance to $2.60 EPS; named NVIDIA AI Factory Specialized Partner",
-      "category": "earnings",
-      "sources": [
-        "Investing.com",
-        "GuruFocus",
-        "StocksToTrade",
-        "Seeking Alpha"
-      ]
-    },
-    {
-      "ticker": "BABA",
-      "company": "Alibaba Group",
-      "reason": "Jumped 10-12% (biggest single-day gain in ~10 months) on DOJ $600M non-prosecution deal, court blocking Pentagon military-company designation, and pre-earnings optimism around 45% cloud revenue growth",
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "reason": "Shares surged ~7-9% after Micron announced $3B expansion of U.S. semiconductor manufacturing investments, including $500M with GlobalWafers in Texas",
       "category": "news",
       "sources": [
-        "Bloomberg",
-        "Yahoo Finance",
+        "CNBC",
         "Motley Fool",
-        "StocksToTrade"
+        "MarketBeat"
       ]
     },
     {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "reason": "Rose ~5.87% as CEO Hock Tan guided AI semiconductor revenue to grow 200%+ YoY to $16B in Q3; strong AI infrastructure demand narrative",
+      "ticker": "ARM",
+      "company": "Arm Holdings",
+      "reason": "Shares jumped ~11% riding semiconductor sector rally, outperforming peers as AI chip demand drives re-rating",
+      "category": "sector",
+      "sources": [
+        "TheStreet",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "ALNY",
+      "company": "Alnylam Pharmaceuticals",
+      "reason": "Shares surged ~18% after rival AstraZeneca/Ionis drug Wainua failed Phase 3 CARDIO-TTRansform trial for ATTR-CM, clearing path for Alnylam's AMVUTTRA in the $15B+ market",
       "category": "news",
       "sources": [
         "CNBC",
-        "24/7 Wall St.",
-        "Yahoo Finance"
+        "Investing.com",
+        "Blockonomi"
       ]
     },
     {
-      "ticker": "ANET",
-      "company": "Arista Networks",
-      "reason": "Gained ~7-8.76% and featured in CNBC midday movers; AI networking infrastructure demand driving momentum alongside sector peers",
-      "category": "sector",
+      "ticker": "AZN",
+      "company": "AstraZeneca",
+      "reason": "NYSE-listed ADRs fell ~8-9% \u2014 worst day since March 2020 \u2014 after Phase 3 CARDIO-TTRansform trial for heart disease drug Wainua (eplontersen) failed to meet primary endpoint",
+      "category": "news",
       "sources": [
         "CNBC",
-        "Yahoo Finance"
+        "TheStreet",
+        "Bloomberg"
       ]
     },
     {
-      "ticker": "AKAM",
-      "company": "Akamai Technologies",
-      "reason": "Rose ~7.9-10.67% and appeared among top midday movers on CNBC July 8; strong volume day tied to AI/cloud sector momentum",
-      "category": "sector",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "OXY",
-      "company": "Occidental Petroleum",
-      "reason": "Advanced ~4%, double catalyst: Evercore ISI upgraded to Outperform with $65 target (from $58), and WTI crude surged 4-6% on Trump declaring US-Iran ceasefire \"over\" at NATO summit",
-      "category": "upgrade",
-      "sources": [
-        "Evercore ISI via 24/7 Wall St.",
-        "247wallst.com",
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "FANG",
-      "company": "Diamondback Energy",
-      "reason": "Led energy sector gains as WTI crude surged to $73.52 (+4.37%) on Iran tensions; Permian pure-play with high oil-price leverage",
-      "category": "sector",
-      "sources": [
-        "CNBC",
-        "TheStreet"
-      ]
-    },
-    {
-      "ticker": "CVX",
-      "company": "Chevron",
-      "reason": "Rose ~1.9% as Brent crude settled up 5.43% at $78.19/bbl after Trump declared US-Iran ceasefire over; featured in CNBC premarket movers",
-      "category": "sector",
+      "ticker": "IONS",
+      "company": "Ionis Pharmaceuticals",
+      "reason": "Shares dropped ~21% on same Wainua Phase 3 failure; Ionis co-developed eplontersen with AstraZeneca for ATTR-CM indication",
+      "category": "news",
       "sources": [
         "CNBC",
         "TheStreet",
@@ -103,74 +70,105 @@
       ]
     },
     {
-      "ticker": "MU",
-      "company": "Micron Technology",
-      "reason": "Fell ~4% continuing Tuesday selloff; Asian chip market weakness, profit-taking after Samsung earnings, DRAM oversupply fears, and ongoing class-action lawsuit over alleged price-fixing with Samsung/SK Hynix",
-      "category": "sector",
+      "ticker": "MARA",
+      "company": "Mara Holdings",
+      "reason": "Shares surged ~15% after announcing acquisition of 1,200+ acre site in Matagorda County, Texas from HIF USA, which will more than double power capacity to ~4.8 GW for bitcoin mining operations",
+      "category": "news",
       "sources": [
         "CNBC",
-        "Yahoo Finance",
-        "TradingKey"
+        "Yahoo Finance"
       ]
     },
     {
-      "ticker": "CCL",
-      "company": "Carnival Corporation",
-      "reason": "Dropped ~3.82% to $25.66 as oil price surge and Strait of Hormuz tensions raised fuel-cost fears; cruise operators highly exposed to marine fuel prices",
-      "category": "sector",
+      "ticker": "PEP",
+      "company": "PepsiCo",
+      "reason": "Shares fell ~1.8% after Q2 earnings miss on EPS ($2.20 vs $2.21 expected) amid North American consumer spending weakness, despite revenue beat ($24.18B vs $23.95B estimate)",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Benzinga",
+        "TheStreet"
+      ]
+    },
+    {
+      "ticker": "PSKY",
+      "company": "Paramount Skydance",
+      "reason": "Shares dropped ~6% after Reuters reported multiple U.S. states are planning antitrust lawsuit over company's acquisition of Warner Bros. Discovery",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Reuters"
+      ]
+    },
+    {
+      "ticker": "PENG",
+      "company": "Penguin Solutions",
+      "reason": "Shares soared ~25% after reporting Q3 fiscal 2026 adjusted EPS of $0.84, well above the $0.63 consensus estimate",
+      "category": "earnings",
       "sources": [
         "Benzinga",
         "Yahoo Finance"
       ]
     },
     {
-      "ticker": "UAL",
-      "company": "United Airlines",
-      "reason": "Featured in CNBC premarket movers July 8; options market pricing ~3% move on July 15 earnings; Susquehanna raised price target to $172 (from $135); geopolitical risk from Iran tensions creating uncertainty",
-      "category": "news",
+      "ticker": "SNDK",
+      "company": "Sandisk",
+      "reason": "Shares popped ~7.6% riding the broad semiconductor sector rally alongside Micron and Marvell",
+      "category": "sector",
+      "sources": [
+        "TheStreet",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "MRVL",
+      "company": "Marvell Technology",
+      "reason": "Shares gained ~5.4% in premarket and extended gains during session as semiconductor sector surged on AI infrastructure demand",
+      "category": "sector",
       "sources": [
         "CNBC",
-        "Investing.com"
+        "Yahoo Finance"
       ]
     },
     {
-      "ticker": "DLTR",
-      "company": "Dollar Tree",
-      "reason": "Goldman Sachs upgraded to Neutral from Sell with $155 price target; analyst sees reduced downside risk",
-      "category": "upgrade",
+      "ticker": "WDFC",
+      "company": "WD-40 Company",
+      "reason": "Shares climbed ~14.7% in after-hours trading after reporting Q3 net sales of $195.1M, beating year-over-year comps by 24%; also reported scheduled pre-market earnings",
+      "category": "earnings",
       "sources": [
-        "24/7 Wall St.",
-        "Goldman Sachs"
+        "StockAnalysis",
+        "Benzinga"
       ]
     },
     {
-      "ticker": "AA",
-      "company": "Alcoa",
-      "reason": "Morgan Stanley downgraded to Equal Weight from Overweight, slashed price target to $53 from $79; materials sector also on track for biggest one-day loss in over a year (-3% sector)",
+      "ticker": "CRM",
+      "company": "Salesforce",
+      "reason": "Shares under pressure after KeyBanc downgraded to Sector Weight from Overweight; also flagged in premarket movers on Thursday",
       "category": "downgrade",
       "sources": [
         "24/7 Wall St.",
-        "Morgan Stanley"
+        "Benzinga",
+        "CNBC"
       ]
     },
     {
-      "ticker": "PYPL",
-      "company": "PayPal Holdings",
-      "reason": "Barclays initiated coverage with Underweight rating and $42 price target, bearish initiation weighing on shares",
-      "category": "downgrade",
-      "sources": [
-        "24/7 Wall St.",
-        "Barclays"
-      ]
-    },
-    {
-      "ticker": "PINS",
-      "company": "Pinterest",
-      "reason": "DA Davidson initiated coverage with Buy rating and $26 price target, positive new coverage from major bank",
+      "ticker": "TOST",
+      "company": "Toast",
+      "reason": "Shares upgraded to Buy from Neutral at Goldman Sachs with $36 price target, citing improving unit economics and restaurant tech platform growth",
       "category": "upgrade",
       "sources": [
         "24/7 Wall St.",
-        "DA Davidson"
+        "Benzinga"
+      ]
+    },
+    {
+      "ticker": "CNK",
+      "company": "Cinemark Holdings",
+      "reason": "Shares upgraded to Neutral from Sell at Goldman Sachs, with price target raised to $30 from $23, as analyst is no longer bearish on theater chain recovery",
+      "category": "upgrade",
+      "sources": [
+        "Benzinga",
+        "24/7 Wall St."
       ]
     }
   ]
