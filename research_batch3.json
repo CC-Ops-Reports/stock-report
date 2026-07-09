@@ -1,121 +1,121 @@
 {
-  "report_date": "2026-07-07",
+  "report_date": "2026-07-08",
   "batch": 3,
   "stocks": [
     {
-      "ticker": "CTSH",
-      "company": "Cognizant Technology Solutions",
-      "discussion_driver": "Cognizant surged more than 6% on July 7 after announcing an expanded partnership with Google Cloud to accelerate enterprise adoption of Gemini AI. The deal signals Cognizant's repositioning as an AI-first IT services provider. Q2 earnings on July 29 will be a key test of whether AI wins are translating into measurable revenue acceleration.",
+      "ticker": "UAL",
+      "company": "United Airlines Holdings, Inc.",
+      "discussion_driver": "United Airlines is in focus ahead of its July 15 earnings, with the options market pricing a ~3% move and Susquehanna raising its price target to $172 (from $135). However, the stock fell sharply this week — dropping from its all-time high of $138.77 on June 30 to $122 — as WTI crude surged 4%+ on Trump declaring the US-Iran ceasefire 'over' at NATO summit, raising near-term fuel-cost concerns. Geopolitical uncertainty creates a volatile pre-earnings setup.",
       "bull_case": [
-        "New Google Cloud partnership to deliver Gemini AI across enterprise clients gives Cognizant a differentiated AI monetization path in a crowded IT services market",
-        "Deeply discounted valuation at 11.1x trailing P/E — near multi-year lows — creates an attractive entry ahead of a potential earnings catalyst on July 29"
+        "Strong Buy consensus with $139 average target; Susquehanna raised to $172 reflecting bullish earnings momentum ahead of July 15 report",
+        "Trading at a deeply discounted 10.2x trailing PE vs. the broader market average of 24x, offering significant value if oil prices stabilize"
       ],
       "bear_case": [
-        "Stock is nearly 50% below its 52-week high, reflecting sustained revenue growth headwinds and broad IT spending caution among enterprise customers",
-        "Competitive pressure from Accenture, IBM, TCS, and Infosys all pursuing similar enterprise AI transformation deals limits pricing power and margin expansion"
+        "Oil surge of 4-6% on Iran tensions directly inflates jet fuel costs, which can materially compress airline operating margins in Q3",
+        "Stock has already pulled back ~12% from its June 30 all-time high; any earnings miss or cautious guidance could accelerate the decline"
       ],
       "recommendation": "Hold",
-      "current_price": "$43.74",
-      "price_target": "$68.02 (+55.5%)",
-      "pe_ratio": "11.1",
-      "rsi": "N/A",
-      "vs_52wk_high": "-49.7% below high ($87.03)",
-      "analyst_rating": "Hold",
-      "sector": "Information Technology - IT Services",
-      "sources": ["CNBC", "MarketBeat", "Yahoo Finance", "TickerNerd"],
-      "price_history_5d": [37.08, 41.99, 41.37, 43.74]
+      "current_price": "$122.33",
+      "price_target": "$139.43 (+14.0%)",
+      "pe_ratio": "10.2",
+      "rsi": "63.54",
+      "vs_52wk_high": "-11.8% below high ($138.77)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Industrials - Airlines",
+      "sources": ["CNBC", "Investing.com", "Susquehanna via CNBC", "TipRanks", "MacroTrends", "Simply Wall St"],
+      "price_history_5d": [138.77, 133.32, 128.31, 122.33]
     },
     {
-      "ticker": "USAR",
-      "company": "USA Rare Earth",
-      "discussion_driver": "USA Rare Earth dropped more than 7% on July 7 after Democratic senators Warren, Wyden, and Van Hollen expanded their inquiry into the government's $1.6B DOE investment, citing a potential Cantor Fitzgerald conflict of interest. Despite the political headwinds, all 8 Wall Street analysts maintain buy ratings with an average price target near 90% above the current price, reflecting confidence in the company's critical supply-chain thesis.",
+      "ticker": "DLTR",
+      "company": "Dollar Tree, Inc.",
+      "discussion_driver": "Goldman Sachs upgraded Dollar Tree from Sell to Neutral with a $155 price target, signaling reduced downside risk after a prolonged period of underperformance. The analyst upgrade reflects post-Family Dollar divestiture clarity and a cleaner, more focused discount store model. At current levels, Wall Street is in a holding pattern — the consensus is Hold with modest upside to ~$125, and the stock has bounced from its June lows near $112 to the mid-$120s.",
       "bull_case": [
-        "Direct DOE funding agreements and a planned $2.8B acquisition of Brazil's Serra Verde rare earths mine could establish a China-independent domestic rare earth supply chain with significant long-term strategic value",
-        "Universal analyst buy consensus (8 of 8 analysts, Strong Buy) with a $36.83 average price target implies ~90% upside — reflecting confidence in the rare earth macro tailwind regardless of near-term political noise"
+        "Goldman Sachs upgrade to Neutral (from Sell) with $155 target signals the worst may be over; completion of Family Dollar divestiture removes a major strategic overhang",
+        "Discount retail positioned to benefit if consumer confidence softens amid tariff-driven inflation, as value-seeking shoppers trade down"
       ],
       "bear_case": [
-        "Congressional investigation into the $1.6B DOE investment and alleged Cantor Fitzgerald conflict of interest creates meaningful regulatory and reputational overhang",
-        "China's export-control blacklist, an active MP Materials lawsuit, and a 23% June decline signal that legal, geopolitical, and shareholder dilution risks remain elevated"
+        "Analyst consensus target of $125.58 implies only ~3% upside from current price — limited reward for the risk in a still-uncertain retail environment",
+        "Tariff pressures on imported goods could squeeze margins on Dollar Tree's high proportion of China-sourced merchandise"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$122.02",
+      "price_target": "$125.58 (+2.9%)",
+      "pe_ratio": "18.98",
+      "rsi": "55.3",
+      "vs_52wk_high": "-14.3% below high ($142.40)",
+      "analyst_rating": "Hold",
+      "sector": "Consumer Staples - Discount Retail",
+      "sources": ["Goldman Sachs via 24/7 Wall St.", "StockAnalysis.com", "MarketBeat", "Yahoo Finance"],
+      "price_history_5d": []
+    },
+    {
+      "ticker": "AA",
+      "company": "Alcoa Corporation",
+      "discussion_driver": "Alcoa was hit by a double blow on July 8: Morgan Stanley downgraded from Overweight to Equal Weight and slashed its target from $79 to $53, citing an aluminum market rapidly shifting into surplus as Middle East smelters ramp production following a ceasefire resolution. This coincided with the materials sector posting its biggest one-day loss in over a year. The stock has now fallen ~40% in 30 days from $80.86 on June 3 to ~$48, while separately Alcoa announced a $4.1B acquisition of South32's bauxite and alumina assets on June 30.",
+      "bull_case": [
+        "The $4.1B acquisition of South32's bauxite, alumina, and aluminum assets announced June 30 significantly expands Alcoa's upstream production base and diversifies revenue sources",
+        "At 11.98x PE and near multi-year lows, the stock may be approaching a cyclical trough — any reversal in aluminum prices or supply-side disruptions could trigger a sharp recovery"
+      ],
+      "bear_case": [
+        "Morgan Stanley cut aluminum price forecasts by 11-13% for 2027-28, projecting ~20% below consensus, as new greenfield supply from Indonesia, Saudi Arabia, and India floods the market",
+        "The $4.1B acquisition adds significant debt at a time when aluminum prices are declining, increasing financial leverage risk if the commodity downturn deepens"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$47.84",
+      "price_target": "$53.00 (+10.8%)",
+      "pe_ratio": "11.98",
+      "rsi": "N/A",
+      "vs_52wk_high": "-43.3% below high ($84.38)",
+      "analyst_rating": "Hold",
+      "sector": "Materials - Aluminum",
+      "sources": ["Morgan Stanley via 24/7 Wall St.", "Investing.com", "Tickeron", "GuruFocus", "SEC Edgar"],
+      "price_history_5d": [48.68, 49.01, 47.84]
+    },
+    {
+      "ticker": "PYPL",
+      "company": "PayPal Holdings, Inc.",
+      "discussion_driver": "Barclays analyst Nik Cremo initiated coverage of PayPal with an Underweight rating and a bearish $42 price target, well below the current price, citing intensifying competition from Apple Pay, Google Pay, and Block. This added fresh selling pressure to a stock already down ~44% from its 52-week high. Despite the bearish initiation, the broader analyst consensus remains Hold with a $51.45 average target — Q2 earnings are due July 28 and could be a key catalyst either way.",
+      "bull_case": [
+        "Trades at an extremely low 8.3x trailing PE vs. 23.8x fintech sector average — if business execution improves, the multiple re-rating potential is significant",
+        "Venmo monetization and branded checkout improvements are showing early traction; July 28 earnings could provide a positive surprise catalyst"
+      ],
+      "bear_case": [
+        "Barclays initiated with Underweight and $42 price target, implying 5% downside from current price; institutional sentiment from new coverage is turning negative",
+        "Apple Pay, Google Pay, and embedded banking solutions are commoditizing PayPal's core checkout business, structurally compressing the addressable market"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$44.14",
+      "price_target": "$51.45 (+16.6%)",
+      "pe_ratio": "8.30",
+      "rsi": "N/A",
+      "vs_52wk_high": "-44.5% below high ($79.50)",
+      "analyst_rating": "Hold",
+      "sector": "Financials - Digital Payments",
+      "sources": ["Barclays via 24/7 Wall St.", "S&P Global", "Simply Wall St", "Yahoo Finance", "MarketScreener"],
+      "price_history_5d": [45.47, 45.15, 44.14]
+    },
+    {
+      "ticker": "PINS",
+      "company": "Pinterest, Inc.",
+      "discussion_driver": "DA Davidson analyst Wyatt Swanson initiated Pinterest with a Buy rating and $26 price target, citing the platform's AI-driven ad monetization and preferring it over Snap in new coverage. Pinterest reported Q1 2026 revenue of $1.01B (+18% YoY) with 631 million monthly active users (+11%), boosted by AI ad products and the tvScientific acquisition. With RSI at 38.55 approaching oversold territory, the stock may be stabilizing after falling 43.9% from its 52-week high.",
+      "bull_case": [
+        "Q1 2026 revenue grew 18% YoY to $1.01B with 631M MAUs; AI-driven ad products and the tvScientific CTV acquisition expand Pinterest's monetization reach significantly",
+        "RSI at 38.55 approaches oversold territory and DA Davidson's Buy initiation with $26 target offers 23.9% upside — analyst explicitly favors PINS over Snap"
+      ],
+      "bear_case": [
+        "Stock fell 40% in Q1 2026 and is 43.9% below its 52-week high — significant downward momentum and selling pressure remains in the name",
+        "Competition from TikTok, Instagram Reels, and Snap for both user attention and advertiser budgets could limit Pinterest's ability to sustain 18%+ revenue growth"
       ],
       "recommendation": "Speculative Buy",
-      "current_price": "$19.35",
-      "price_target": "$36.83 (+90.3%)",
-      "pe_ratio": "N/A",
-      "rsi": "N/A",
-      "vs_52wk_high": "-56.0% below high ($43.98)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Materials - Rare Earth Mining",
-      "sources": ["Bloomberg", "CNBC", "Yahoo Finance", "MarketBeat", "Motley Fool"],
-      "price_history_5d": [21.58, 19.98, 19.15, 19.46, 19.35]
-    },
-    {
-      "ticker": "NET",
-      "company": "Cloudflare",
-      "discussion_driver": "Cloudflare climbed on July 7 as Scotiabank upgraded the stock to Outperform with a $300 price target, citing the company's strengthened enterprise AI security positioning and the emerging agentic internet opportunity. Multiple Wall Street firms lifted targets following Cloudflare's Investor Day, with RBC projecting the company will surpass $5B in revenue before 2028. The stock now sits just ~3% below its 52-week high despite the Nasdaq selloff.",
-      "bull_case": [
-        "Scotiabank's $300 target and RBC's $5B revenue before 2028 projection highlight Cloudflare's expanding AI security moat — Zero Trust and AI Gateway products are winning enterprise mandates across multiple verticals",
-        "Stock holding within 3% of its 52-week high during a broad Nasdaq selloff demonstrates strong relative strength and continued institutional conviction in the agentic internet growth narrative"
-      ],
-      "bear_case": [
-        "P/E ratio is deeply negative (-942.84) with profitability still elusive at scale; current share price of ~$269 trades above the consensus average analyst target of ~$246, suggesting most of the upgrade cycle may already be priced in",
-        "AI network security is a rapidly crowding market with Microsoft Defender, Zscaler, and Palo Alto Networks all aggressively expanding their cloud security portfolios"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$268.77",
-      "price_target": "$300.00 (+11.6%)",
-      "pe_ratio": "N/A",
-      "rsi": "58.86",
-      "vs_52wk_high": "-2.9% below high ($276.82)",
-      "analyst_rating": "Moderate Buy",
-      "sector": "Technology - Cloud Security / Network Infrastructure",
-      "sources": ["Yahoo Finance", "Scotiabank via Briefing.com", "StocksToTrade", "MarketBeat", "GuruFocus"],
-      "price_history_5d": [242.41, 247.55, 268.77]
-    },
-    {
-      "ticker": "FSLR",
-      "company": "First Solar",
-      "discussion_driver": "First Solar received a Deutsche Bank upgrade to Buy with a $272 price target on July 7, adding to analyst momentum after Wells Fargo raised its target to $320 from $255 the prior week. Both upgrades cite a pending Section 232 tariff decision on imported polysilicon as a near-term binary catalyst and AI data center power demand as a secular tailwind. At 16.7x trailing P/E, the stock offers unusual value for a clean energy name with multiple near-term catalysts.",
-      "bull_case": [
-        "Deutsche Bank (Buy, $272) and Wells Fargo (Overweight, $320) upgrades reflect strong conviction that Section 232 tariffs on imported polysilicon would remove a key cost disadvantage — a potential near-term binary catalyst with significant upside",
-        "AI data center power demand is driving incremental utility-scale solar installations while First Solar's US-only manufacturing base provides a structural IRA tax credit advantage unavailable to Chinese-linked competitors"
-      ],
-      "bear_case": [
-        "Stock remains -28.5% below its 52-week high as uncertainty around US renewable energy policy (potential IRA subsidy rollbacks) and polysilicon price volatility weigh on forward earnings visibility",
-        "Two of 35 analysts rate FSLR a Sell and 12 rate it Hold, reflecting real risk that tariff decisions disappoint or solar ASPs compress further in 2026-2027"
-      ],
-      "recommendation": "Buy",
-      "current_price": "$229.60",
-      "price_target": "$277.00 (+20.6%)",
-      "pe_ratio": "16.7",
-      "rsi": "49.9",
-      "vs_52wk_high": "-28.5% below high ($320.95)",
+      "current_price": "$22.40",
+      "price_target": "$27.75 (+23.9%)",
+      "pe_ratio": "32.7",
+      "rsi": "38.55",
+      "vs_52wk_high": "-43.9% below high ($39.93)",
       "analyst_rating": "Buy",
-      "sector": "Clean Energy - Solar",
-      "sources": ["Yahoo Finance", "MarketBeat", "Deutsche Bank via Benzinga", "Wells Fargo via GuruFocus", "StockTwits"],
-      "price_history_5d": [232.08, 229.60]
-    },
-    {
-      "ticker": "ADBE",
-      "company": "Adobe",
-      "discussion_driver": "Adobe popped more than 5% on July 7 despite Bank of America reinstating coverage at Underperform with a $190 price target, calling the stock cheap but fundamentally challenged due to generative AI eroding its creative moat. The counter-intuitive rally reflects positioning dynamics — the stock had already shed ~42% from its peak — and followed HSBC upgrading ADBE to Buy with a $308 target. The divergent analyst views set up a high-conviction bull-vs-bear debate heading into earnings.",
-      "bull_case": [
-        "HSBC upgraded to Buy with $308 target, arguing Adobe's generative AI integration (Firefly) and deeply entrenched enterprise workflows (Photoshop, Premiere, Acrobat) are undervalued at 14.2x P/E — near the historical trough valuation",
-        "At $224.80, the stock sits only ~18% above its 52-week low with consensus targeting ~25% upside; limited incremental downside if AI disruption fears are already fully priced into the deeply compressed multiple"
-      ],
-      "bear_case": [
-        "Bank of America's $190 Underperform target — below the 52-week low — warns that AI image generation tools (Midjourney, DALL-E, Sora) are enabling non-creatives to bypass Adobe's subscription ecosystem entirely",
-        "Revenue growth is projected to decelerate from 10.5% to 8.8% in FY2027 with no clear near-term catalyst; mixed consensus (17 Buy / 18 Hold / 4 Sell) reflects genuine fundamental uncertainty"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$224.80",
-      "price_target": "$280.66 (+24.9%)",
-      "pe_ratio": "14.2",
-      "rsi": "N/A",
-      "vs_52wk_high": "-41.9% below high ($386.60)",
-      "analyst_rating": "Hold",
-      "sector": "Technology - Software / Digital Media",
-      "sources": ["CNBC", "Yahoo Finance", "Bank of America via Blockonomi", "HSBC via TIKR", "MarketBeat"],
-      "price_history_5d": [218.07, 224.80]
+      "sector": "Communication Services - Social Media",
+      "sources": ["DA Davidson via 24/7 Wall St.", "Investing.com", "Simply Wall St", "Yahoo Finance", "MarketBeat"],
+      "price_history_5d": [22.07, 22.42, 22.40]
     }
   ]
 }
