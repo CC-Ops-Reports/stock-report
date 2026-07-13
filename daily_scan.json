@@ -1,174 +1,177 @@
 {
-  "report_date": "2026-07-09",
-  "market_tone": "Bullish",
+  "report_date": "2026-07-13",
+  "market_tone": "Bearish",
   "key_themes": [
-    "Semiconductor surge led by Micron $3B US manufacturing investment announcement",
-    "Pharma volatility: AstraZeneca/Ionis ATTR-CM drug Wainua fails Phase 3, boosting rival Alnylam",
-    "Geopolitical tension from renewed US-Iran strikes weighs on broader sentiment"
+    "US-Iran Strait of Hormuz tensions spike oil ~5%, pressuring tech while lifting energy stocks",
+    "AI/chip trade rotation out of high-multiple names \u2014 memory sector worst hit, SK Hynix Seoul shares worst day ever",
+    "SpaceX post-IPO sell-off deepens; major bank earnings season kicks off Tuesday"
   ],
   "sp500": {
-    "value": "7,543.64",
-    "change": "+0.81%"
+    "value": "7,515.34",
+    "change": "-0.79%"
   },
   "nasdaq": {
-    "value": "26,206.89",
-    "change": "+1.30%"
+    "value": "25,873.18",
+    "change": "-1.55%"
   },
   "stocks": [
     {
-      "ticker": "MU",
-      "company": "Micron Technology",
-      "reason": "Shares surged ~7-9% after Micron announced $3B expansion of U.S. semiconductor manufacturing investments, including $500M with GlobalWafers in Texas",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "Motley Fool",
-        "MarketBeat"
-      ]
-    },
-    {
-      "ticker": "ARM",
-      "company": "Arm Holdings",
-      "reason": "Shares jumped ~11% riding semiconductor sector rally, outperforming peers as AI chip demand drives re-rating",
+      "ticker": "APP",
+      "company": "AppLovin",
+      "reason": "Tumbled 12%, worst S&P 500 performer today; broad AI ad-tech sell-off compounded by BofA data showing slower e-commerce ad growth in June and CEO Adam Foroughi selling ~$51M in shares last month",
       "category": "sector",
       "sources": [
-        "TheStreet",
-        "Yahoo Finance"
+        "CNBC",
+        "24/7 Wall St.",
+        "Investing.com"
       ]
     },
     {
-      "ticker": "ALNY",
-      "company": "Alnylam Pharmaceuticals",
-      "reason": "Shares surged ~18% after rival AstraZeneca/Ionis drug Wainua failed Phase 3 CARDIO-TTRansform trial for ATTR-CM, clearing path for Alnylam's AMVUTTRA in the $15B+ market",
-      "category": "news",
+      "ticker": "SKHY",
+      "company": "SK Hynix (US ADR)",
+      "reason": "US-listed shares tumbled 8% the session after debuting on Nasdaq; Seoul-listed shares sank 15%, the worst single day in company history \u2014 memory chip sell-off triggered by AI trade concerns",
+      "category": "sector",
       "sources": [
         "CNBC",
-        "Investing.com",
-        "Blockonomi"
-      ]
-    },
-    {
-      "ticker": "AZN",
-      "company": "AstraZeneca",
-      "reason": "NYSE-listed ADRs fell ~8-9% \u2014 worst day since March 2020 \u2014 after Phase 3 CARDIO-TTRansform trial for heart disease drug Wainua (eplontersen) failed to meet primary endpoint",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "TheStreet",
+        "Seeking Alpha",
         "Bloomberg"
       ]
     },
     {
-      "ticker": "IONS",
-      "company": "Ionis Pharmaceuticals",
-      "reason": "Shares dropped ~21% on same Wainua Phase 3 failure; Ionis co-developed eplontersen with AstraZeneca for ATTR-CM indication",
+      "ticker": "SPCX",
+      "company": "SpaceX",
+      "reason": "Dropped ~4% to $140 range, hitting a fresh post-IPO low and now down ~38% from its June 16 peak of $225; AI division projected losses of $6.4B raised by analysts",
       "category": "news",
       "sources": [
         "CNBC",
-        "TheStreet",
+        "GuruFocus",
+        "Seeking Alpha",
+        "Motley Fool"
+      ]
+    },
+    {
+      "ticker": "BRAI",
+      "company": "Braiin Limited",
+      "reason": "Surged 57-62% after launching ARIA \u2014 an agentic AI workforce targeting the $32B global real estate software market; initial deployment in Australia with US expansion planned",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Benzinga",
+        "GlobeNewswire"
+      ]
+    },
+    {
+      "ticker": "WDC",
+      "company": "Western Digital",
+      "reason": "Shares fell ~6% in sympathy with the broad memory/chip sector sell-off; Sandisk (related) down 12%, Roundhill Memory ETF (DRAM) down 9%",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "MarketWatch"
+      ]
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "reason": "Fell ~4% as the memory semiconductor sector was hit hardest by AI trade rotation; appeared on premarket movers list alongside SK Hynix",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "Bloomberg"
+      ]
+    },
+    {
+      "ticker": "XOM",
+      "company": "ExxonMobil",
+      "reason": "Gained ~1% as Brent crude rose ~5% after Trump announced restart of blockade on Iranian ships transiting Hormuz \u2014 energy names cushioned Dow losses against tech slide",
+      "category": "news",
+      "sources": [
+        "Bloomberg",
+        "Benzinga",
         "Yahoo Finance"
       ]
     },
     {
-      "ticker": "MARA",
-      "company": "Mara Holdings",
-      "reason": "Shares surged ~15% after announcing acquisition of 1,200+ acre site in Matagorda County, Texas from HIF USA, which will more than double power capacity to ~4.8 GW for bitcoin mining operations",
-      "category": "news",
+      "ticker": "NIO",
+      "company": "Nio",
+      "reason": "Rose ~3% after Goldman Sachs upgraded to Buy from Neutral, setting a new price target implying 46% upside for the China EV maker",
+      "category": "upgrade",
       "sources": [
         "CNBC",
         "Yahoo Finance"
       ]
     },
     {
-      "ticker": "PEP",
-      "company": "PepsiCo",
-      "reason": "Shares fell ~1.8% after Q2 earnings miss on EPS ($2.20 vs $2.21 expected) amid North American consumer spending weakness, despite revenue beat ($24.18B vs $23.95B estimate)",
+      "ticker": "MGM",
+      "company": "MGM Resorts International",
+      "reason": "Rose 2.5% premarket and held gains intraday on reports that takeover talks with billionaire Barry Diller (who offered $48.30/share in June) have \"heated up\" in July",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "CasinoBeats",
+        "Benzinga",
+        "Investing.com"
+      ]
+    },
+    {
+      "ticker": "BIIB",
+      "company": "Biogen",
+      "reason": "Added ~2% after Truist upgraded to Buy from Hold with a $235 price target, citing potential upside ahead of upcoming investigational drug trial data release",
+      "category": "upgrade",
+      "sources": [
+        "CNBC",
+        "24/7 Wall St."
+      ]
+    },
+    {
+      "ticker": "FAST",
+      "company": "Fastenal Company",
+      "reason": "Q2 2026 earnings reported before market open today; analysts expected EPS of $0.33 (+13.8% YoY) and revenue of $2.34B (+12.6% YoY); stock closed flat near $47; Rothschild & Co Redburn initiated Buy today with $55 target",
       "category": "earnings",
       "sources": [
         "CNBC",
         "Benzinga",
-        "TheStreet"
+        "StockStory"
       ]
     },
     {
-      "ticker": "PSKY",
-      "company": "Paramount Skydance",
-      "reason": "Shares dropped ~6% after Reuters reported multiple U.S. states are planning antitrust lawsuit over company's acquisition of Warner Bros. Discovery",
-      "category": "news",
+      "ticker": "SHOP",
+      "company": "Shopify",
+      "reason": "Shares moved higher after Jefferies upgraded to Buy from Hold, raising target to $160 from $140, citing strong fundamentals and agentic commerce as a long-term tailwind",
+      "category": "upgrade",
       "sources": [
-        "CNBC",
-        "Reuters"
-      ]
-    },
-    {
-      "ticker": "PENG",
-      "company": "Penguin Solutions",
-      "reason": "Shares soared ~25% after reporting Q3 fiscal 2026 adjusted EPS of $0.84, well above the $0.63 consensus estimate",
-      "category": "earnings",
-      "sources": [
-        "Benzinga",
+        "24/7 Wall St.",
         "Yahoo Finance"
       ]
     },
     {
-      "ticker": "SNDK",
-      "company": "Sandisk",
-      "reason": "Shares popped ~7.6% riding the broad semiconductor sector rally alongside Micron and Marvell",
-      "category": "sector",
+      "ticker": "DECK",
+      "company": "Deckers Outdoor Group",
+      "reason": "Upgraded to Buy from Hold at Jefferies, which raised price target to $130 from $110, calling out the footwear/apparel retailer's improving fundamentals",
+      "category": "upgrade",
       "sources": [
-        "TheStreet",
+        "24/7 Wall St.",
         "Yahoo Finance"
       ]
     },
     {
-      "ticker": "MRVL",
-      "company": "Marvell Technology",
-      "reason": "Shares gained ~5.4% in premarket and extended gains during session as semiconductor sector surged on AI infrastructure demand",
-      "category": "sector",
+      "ticker": "DIS",
+      "company": "Walt Disney",
+      "reason": "Initiated with a Buy rating at Benchmark with a $115 price target today, adding fresh analyst coverage to the entertainment giant ahead of earnings season",
+      "category": "upgrade",
       "sources": [
-        "CNBC",
+        "24/7 Wall St.",
         "Yahoo Finance"
       ]
     },
     {
-      "ticker": "WDFC",
-      "company": "WD-40 Company",
-      "reason": "Shares climbed ~14.7% in after-hours trading after reporting Q3 net sales of $195.1M, beating year-over-year comps by 24%; also reported scheduled pre-market earnings",
-      "category": "earnings",
-      "sources": [
-        "StockAnalysis",
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "CRM",
-      "company": "Salesforce",
-      "reason": "Shares under pressure after KeyBanc downgraded to Sector Weight from Overweight; also flagged in premarket movers on Thursday",
+      "ticker": "PZZA",
+      "company": "Papa John's International",
+      "reason": "Downgraded to Underperform from Neutral at Bank of America, which trimmed its price target to $34 from $42 \u2014 the most bearish analyst call on the pizza chain today",
       "category": "downgrade",
       "sources": [
         "24/7 Wall St.",
-        "Benzinga",
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "TOST",
-      "company": "Toast",
-      "reason": "Shares upgraded to Buy from Neutral at Goldman Sachs with $36 price target, citing improving unit economics and restaurant tech platform growth",
-      "category": "upgrade",
-      "sources": [
-        "24/7 Wall St.",
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "CNK",
-      "company": "Cinemark Holdings",
-      "reason": "Shares upgraded to Neutral from Sell at Goldman Sachs, with price target raised to $30 from $23, as analyst is no longer bearish on theater chain recovery",
-      "category": "upgrade",
-      "sources": [
-        "Benzinga",
-        "24/7 Wall St."
+        "Yahoo Finance"
       ]
     }
   ]
