@@ -1,177 +1,159 @@
 {
-  "report_date": "2026-07-13",
-  "market_tone": "Bearish",
+  "report_date": "2026-07-14",
+  "market_tone": "Mixed",
   "key_themes": [
-    "US-Iran Strait of Hormuz tensions spike oil ~5%, pressuring tech while lifting energy stocks",
-    "AI/chip trade rotation out of high-multiple names \u2014 memory sector worst hit, SK Hynix Seoul shares worst day ever",
-    "SpaceX post-IPO sell-off deepens; major bank earnings season kicks off Tuesday"
+    "Q2 earnings season opens: banks beat broadly, IBM delivers massive miss",
+    "June CPI cools to 3.5% (vs. 3.8% expected), reducing Fed rate-hike odds",
+    "Software sector rout \u2014 IBM contagion drags Workday, Salesforce, Oracle sharply lower"
   ],
   "sp500": {
-    "value": "7,515.34",
-    "change": "-0.79%"
+    "value": "7,543.59",
+    "change": "+0.38%"
   },
   "nasdaq": {
-    "value": "25,873.18",
-    "change": "-1.55%"
+    "value": "26,107.01",
+    "change": "+0.90%"
   },
   "stocks": [
     {
-      "ticker": "APP",
-      "company": "AppLovin",
-      "reason": "Tumbled 12%, worst S&P 500 performer today; broad AI ad-tech sell-off compounded by BofA data showing slower e-commerce ad growth in June and CEO Adam Foroughi selling ~$51M in shares last month",
-      "category": "sector",
+      "ticker": "IBM",
+      "company": "International Business Machines",
+      "reason": "Tumbled ~25% \u2014 worst single-day drop on record \u2014 after Q2 revenue of $17.2B missed the $17.9B estimate; blamed soft demand in software and infrastructure as customers prioritize AI chips/servers. HSBC downgraded to Reduce, cut target to $191.",
+      "category": "earnings",
       "sources": [
         "CNBC",
-        "24/7 Wall St.",
-        "Investing.com"
-      ]
-    },
-    {
-      "ticker": "SKHY",
-      "company": "SK Hynix (US ADR)",
-      "reason": "US-listed shares tumbled 8% the session after debuting on Nasdaq; Seoul-listed shares sank 15%, the worst single day in company history \u2014 memory chip sell-off triggered by AI trade concerns",
-      "category": "sector",
-      "sources": [
-        "CNBC",
-        "Seeking Alpha",
-        "Bloomberg"
-      ]
-    },
-    {
-      "ticker": "SPCX",
-      "company": "SpaceX",
-      "reason": "Dropped ~4% to $140 range, hitting a fresh post-IPO low and now down ~38% from its June 16 peak of $225; AI division projected losses of $6.4B raised by analysts",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "GuruFocus",
-        "Seeking Alpha",
-        "Motley Fool"
-      ]
-    },
-    {
-      "ticker": "BRAI",
-      "company": "Braiin Limited",
-      "reason": "Surged 57-62% after launching ARIA \u2014 an agentic AI workforce targeting the $32B global real estate software market; initial deployment in Australia with US expansion planned",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "Benzinga",
-        "GlobeNewswire"
-      ]
-    },
-    {
-      "ticker": "WDC",
-      "company": "Western Digital",
-      "reason": "Shares fell ~6% in sympathy with the broad memory/chip sector sell-off; Sandisk (related) down 12%, Roundhill Memory ETF (DRAM) down 9%",
-      "category": "sector",
-      "sources": [
-        "CNBC",
-        "MarketWatch"
-      ]
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron Technology",
-      "reason": "Fell ~4% as the memory semiconductor sector was hit hardest by AI trade rotation; appeared on premarket movers list alongside SK Hynix",
-      "category": "sector",
-      "sources": [
-        "CNBC",
-        "Bloomberg"
-      ]
-    },
-    {
-      "ticker": "XOM",
-      "company": "ExxonMobil",
-      "reason": "Gained ~1% as Brent crude rose ~5% after Trump announced restart of blockade on Iranian ships transiting Hormuz \u2014 energy names cushioned Dow losses against tech slide",
-      "category": "news",
-      "sources": [
         "Bloomberg",
-        "Benzinga",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "NIO",
-      "company": "Nio",
-      "reason": "Rose ~3% after Goldman Sachs upgraded to Buy from Neutral, setting a new price target implying 46% upside for the China EV maker",
-      "category": "upgrade",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "MGM",
-      "company": "MGM Resorts International",
-      "reason": "Rose 2.5% premarket and held gains intraday on reports that takeover talks with billionaire Barry Diller (who offered $48.30/share in June) have \"heated up\" in July",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "CasinoBeats",
-        "Benzinga",
-        "Investing.com"
-      ]
-    },
-    {
-      "ticker": "BIIB",
-      "company": "Biogen",
-      "reason": "Added ~2% after Truist upgraded to Buy from Hold with a $235 price target, citing potential upside ahead of upcoming investigational drug trial data release",
-      "category": "upgrade",
-      "sources": [
-        "CNBC",
         "24/7 Wall St."
       ]
     },
     {
-      "ticker": "FAST",
-      "company": "Fastenal Company",
-      "reason": "Q2 2026 earnings reported before market open today; analysts expected EPS of $0.33 (+13.8% YoY) and revenue of $2.34B (+12.6% YoY); stock closed flat near $47; Rothschild & Co Redburn initiated Buy today with $55 target",
+      "ticker": "GS",
+      "company": "Goldman Sachs",
+      "reason": "Surged ~7% after blowout Q2 earnings of $20.98/share vs. $14.48 consensus; revenue of $20.34B beat the $16.13B estimate by a wide margin.",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "Benzinga",
-        "StockStory"
+        "TheStreet"
       ]
     },
     {
-      "ticker": "SHOP",
-      "company": "Shopify",
-      "reason": "Shares moved higher after Jefferies upgraded to Buy from Hold, raising target to $160 from $140, citing strong fundamentals and agentic commerce as a long-term tailwind",
-      "category": "upgrade",
+      "ticker": "CLSK",
+      "company": "CleanSpark",
+      "reason": "Surged ~11% after announcing a 20-year data center lease in Georgia totaling $6.6 billion in contracted revenue.",
+      "category": "news",
       "sources": [
-        "24/7 Wall St.",
-        "Yahoo Finance"
+        "CNBC",
+        "Bloomberg"
       ]
     },
     {
-      "ticker": "DECK",
-      "company": "Deckers Outdoor Group",
-      "reason": "Upgraded to Buy from Hold at Jefferies, which raised price target to $130 from $110, calling out the footwear/apparel retailer's improving fundamentals",
-      "category": "upgrade",
+      "ticker": "HCA",
+      "company": "HCA Healthcare",
+      "reason": "Fell >7% after cutting full-year EPS guidance to $28.70\u2013$30.50, down from prior range of $29.10\u2013$31.50, citing cost pressures.",
+      "category": "earnings",
       "sources": [
-        "24/7 Wall St.",
-        "Yahoo Finance"
+        "CNBC",
+        "TheStreet"
       ]
     },
     {
-      "ticker": "DIS",
-      "company": "Walt Disney",
-      "reason": "Initiated with a Buy rating at Benchmark with a $115 price target today, adding fresh analyst coverage to the entertainment giant ahead of earnings season",
-      "category": "upgrade",
+      "ticker": "JPM",
+      "company": "JPMorgan Chase",
+      "reason": "Rose ~2% on Q2 EPS of $6.14 (ex-items) vs. $5.59 expected; Q2 net profit of $16.9B; managed revenue of $58B beat estimates.",
+      "category": "earnings",
       "sources": [
-        "24/7 Wall St.",
-        "Yahoo Finance"
+        "CNBC",
+        "TheStreet",
+        "Bloomberg"
       ]
     },
     {
-      "ticker": "PZZA",
-      "company": "Papa John's International",
-      "reason": "Downgraded to Underperform from Neutral at Bank of America, which trimmed its price target to $34 from $42 \u2014 the most bearish analyst call on the pizza chain today",
+      "ticker": "BAC",
+      "company": "Bank of America",
+      "reason": "Gained ~2% after Q2 EPS of $1.21 beat the $1.13 consensus; strong trading revenue drove outperformance.",
+      "category": "earnings",
+      "sources": [
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "WDAY",
+      "company": "Workday",
+      "reason": "Dropped ~10% in sympathy with IBM's software miss; investors fear broad enterprise software demand weakness heading into Q2 earnings season.",
+      "category": "sector",
+      "sources": [
+        "Bloomberg",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "CRM",
+      "company": "Salesforce",
+      "reason": "Fell ~6.2% on IBM contagion selloff in enterprise software sector; iShares Tech-Software ETF (IGV) dropped ~4.5% on the day.",
+      "category": "sector",
+      "sources": [
+        "Bloomberg"
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "reason": "KeyBanc downgraded to Underweight with a $250 target on weaker iPhone sales outlook and declining U.S. carrier subsidies; stock still near all-time highs approaching Nvidia in market cap race.",
       "category": "downgrade",
       "sources": [
+        "CNBC",
         "24/7 Wall St.",
         "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "reason": "Rose ~3.5% as cooler CPI data boosted growth stocks; Evercore flagged Nvidia as a \"beat-and-raise\" candidate ahead of earnings; Barclays initiated SK Hynix (SKHY) at Overweight citing AI memory demand benefiting the entire ecosystem.",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "Benzinga",
+        "TradingKey"
+      ]
+    },
+    {
+      "ticker": "NFLX",
+      "company": "Netflix",
+      "reason": "Slid ~3.2% on subscriber engagement concerns; Evercore bullish ahead of Q2 print, citing depressed sentiment, elevated short interest, and intact fundamentals as a setup for a beat.",
+      "category": "news",
+      "sources": [
+        "Benzinga",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "WFC",
+      "company": "Wells Fargo",
+      "reason": "Fell ~3% despite Q2 EPS of $2.00 beating the $1.72 estimate on revenue of $22.62B; investors focused on net interest income guidance concerns.",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "TheStreet"
+      ]
+    },
+    {
+      "ticker": "HAL",
+      "company": "Halliburton",
+      "reason": "Upgraded to Overweight from Neutral at Piper Sandler with a $43 price target ($40 prior); oilfield services demand seen resilient despite energy price volatility.",
+      "category": "upgrade",
+      "sources": [
+        "24/7 Wall St.",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "NEM",
+      "company": "Newmont",
+      "reason": "Upgraded to Buy from Hold at TD Cowen with a $127 price target; gold producer seen benefiting from lower real yields following the CPI surprise.",
+      "category": "upgrade",
+      "sources": [
+        "24/7 Wall St."
       ]
     }
   ]
