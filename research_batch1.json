@@ -1,135 +1,135 @@
 {
-  "report_date": "2026-07-09",
+  "report_date": "2026-07-13",
   "batch": 1,
-  "market_tone": "Bullish",
+  "market_tone": "Bearish",
   "key_themes": [
-    "Semiconductor surge led by Micron $3B US manufacturing investment announcement",
-    "Pharma volatility: AstraZeneca/Ionis ATTR-CM drug Wainua fails Phase 3, boosting rival Alnylam",
-    "Geopolitical tension from renewed US-Iran strikes weighs on broader sentiment"
+    "US-Iran Strait of Hormuz tensions spike oil ~5%, pressuring tech while lifting energy stocks",
+    "AI/chip trade rotation out of high-multiple names — memory sector worst hit, SK Hynix Seoul shares worst day ever",
+    "SpaceX post-IPO sell-off deepens; major bank earnings season kicks off Tuesday"
   ],
   "sp500": {
-    "value": "7,543.64",
-    "change": "+0.81%"
+    "value": "7,515.34",
+    "change": "-0.79%"
   },
   "nasdaq": {
-    "value": "26,206.89",
-    "change": "+1.30%"
+    "value": "25,873.18",
+    "change": "-1.55%"
   },
   "stocks": [
     {
-      "ticker": "MU",
-      "company": "Micron Technology",
-      "discussion_driver": "Micron surged ~7% on July 9 after announcing a $3 billion U.S. semiconductor ecosystem investment, including $500M to support GlobalWafers' 300mm silicon wafer plant in Sherman, Texas under a new 10-year supply agreement. The announcement reinforces Micron's strategic position in domestic AI memory supply chains and aligns with CHIPS Act priorities. The stock had been trading ~19% below its June all-time high before the rebound, with RSI at oversold levels of 38.25.",
+      "ticker": "APP",
+      "company": "AppLovin Corporation",
+      "discussion_driver": "AppLovin tumbled ~11% on July 13 as the worst S&P 500 performer, caught in a broad AI ad-tech sell-off compounded by BofA data showing slower e-commerce ad growth in June and CEO Adam Foroughi selling ~$51M in shares last month. Despite the drawdown, the company beat Q2 earnings estimates (EPS $3.56 vs. $3.44 expected; revenue $1.84B vs. $1.77B), and analyst consensus remains firmly Buy with a $686.90 consensus target.",
       "bull_case": [
-        "$3B U.S. manufacturing investment and 10-year GlobalWafers supply deal secure critical raw silicon for next-gen HBM and advanced memory — qualifying for CHIPS Act incentives and federal supply chain prioritization.",
-        "Micron is the sole major U.S.-based HBM (High Bandwidth Memory) producer; AI hyperscaler demand from NVIDIA, Google, and AWS continues to accelerate, improving pricing power and market share gains in a structurally supply-constrained segment."
+        "Beat Q2 earnings estimates with EPS $3.56 vs. $3.44 expected and revenue $1.84B vs. $1.77B, demonstrating durable fundamental strength in a volatile macro environment",
+        "AI-powered mobile advertising platform with strong recurring revenue growth and expanding market share in e-commerce advertising; 90% Buy/Strong Buy analyst consensus with $686.90 price target implies 52%+ upside"
       ],
       "bear_case": [
-        "Stock pulled back 18.9% from its June all-time high with RSI at 38.25 — oversold territory — suggesting selling pressure may not be fully exhausted despite the July 9 bounce.",
-        "Memory markets are inherently cyclical; if AI infrastructure capex softens or NAND/DRAM inventory builds, pricing and gross margins could deteriorate rapidly as they have in prior memory downturns."
-      ],
-      "recommendation": "Buy",
-      "current_price": "$1,018.19",
-      "price_target": "$1,264.45 (+24.2%)",
-      "pe_ratio": "20.6",
-      "rsi": "38.25",
-      "vs_52wk_high": "-18.9% below high ($1,255.00)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Semiconductors",
-      "sources": ["CNBC", "GlobeNewswire", "Yahoo Finance", "StockAnalysis", "MarketBeat", "TradingKey"],
-      "price_history_5d": [938.38, 948.80, 1018.19]
-    },
-    {
-      "ticker": "ARM",
-      "company": "Arm Holdings",
-      "discussion_driver": "Arm Holdings surged 11.2% on July 9 as the broader semiconductor sector rallied sharply following Micron's $3B U.S. manufacturing investment and renewed institutional confidence in AI infrastructure spending. The move follows ARM's Q4 FY2026 earnings beat ($1.49B revenue, +20% YoY) and a wave of analyst target raises from UBS ($470), TD Cowen ($475), and Bernstein ($500). However, with the stock trading near consensus and carrying a ~397x P/E multiple, risk/reward is uneven for new buyers.",
-      "bull_case": [
-        "ARM's chip architecture dominates AI inference from mobile to cloud — AWS Graviton, Google TPU, Apple Silicon, and Qualcomm Snapdragon all rely on ARM IP, with royalty rates expanding as chip complexity and transistor counts increase.",
-        "Q4 FY2026 revenue of $1.49B (+20% YoY) demonstrates accelerating AI-cycle monetization; a deep pipeline of next-generation licensing agreements provides recurring, high-margin revenue visibility through 2027 and beyond."
-      ],
-      "bear_case": [
-        "Trailing P/E of ~397x is one of the most elevated valuations in technology; any royalty growth shortfall, slower-than-expected AI chip deployment, or macro deterioration could trigger severe multiple compression with limited valuation support.",
-        "RISC-V open-source architecture is gaining traction as a cost-free ARM alternative among cost-sensitive chip designers; SoftBank's ~88% ownership stake creates meaningful secondary-offering overhang risk that could cap near-term gains."
+        "High-multiple valuation (PE ~35) is vulnerable to AI trade rotation; stock is already 40% below its 52-week high of $745.61 even after today's selloff",
+        "CEO insider selling (~$51M last month) and BofA data showing slower June e-commerce ad growth raise concerns about near-term momentum and insider confidence"
       ],
       "recommendation": "Hold",
-      "current_price": "$333.73",
-      "price_target": "$334.35 (+0.2%)",
-      "pe_ratio": "396.96",
-      "rsi": "N/A",
-      "vs_52wk_high": "-26.3% below high ($452.70)",
-      "analyst_rating": "Moderate Buy",
-      "sector": "Technology - Semiconductors",
-      "sources": ["Yahoo Finance", "Benzinga", "Blockonomi", "TradingKey", "StockAnalysis", "eToro"],
-      "price_history_5d": [300.24, 333.73]
+      "current_price": "$451.00",
+      "price_target": "$686.90 (+52.3%)",
+      "pe_ratio": "~35.3",
+      "rsi": "54.1",
+      "vs_52wk_high": "-39.5% below high ($745.61)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - Digital Advertising / Ad-Tech",
+      "sources": ["CNBC", "24/7 Wall St.", "Investing.com", "TradingKey"],
+      "price_history_5d": [523.0, 507.0, 507.0, 506.98, 451.0]
     },
     {
-      "ticker": "ALNY",
-      "company": "Alnylam Pharmaceuticals",
-      "discussion_driver": "Alnylam surged ~12% on July 9 as the competitive landscape in ATTR-CM shifted dramatically in its favor following AstraZeneca and Ionis's CARDIO-TTRansform Phase 3 failure. AMVUTTRA (vutrisiran) is now the clear RNAi leader in the $15B+ transthyretin cardiomyopathy market with no direct competitor in sight. The gain builds on Q1 2026 record revenues and an EPS beat, with 27 analysts maintaining a Strong Buy consensus and an average 12-month price target of $472.78 (+30.6% upside).",
+      "ticker": "SKHY",
+      "company": "SK Hynix Inc. (US ADR)",
+      "discussion_driver": "SK Hynix debuted on Nasdaq July 10 via a record $26.5B ADR listing priced at $149, rallying 13% on day one to close at $168.01. On July 13, US-listed shares tumbled ~8% as the broader memory chip AI trade rotated sharply lower, amplified by KIS issuing Q2 earnings estimates ~8% below consensus citing slower-than-expected HBM4 production ramp. The Seoul-listed shares suffered their worst single day in company history (-15%).",
       "bull_case": [
-        "Wainua's Phase 3 failure removes the primary competitive threat to AMVUTTRA in ATTR-CM; Alnylam is now the dominant RNAi player across both TTR-PN and TTR-CM indications in a $15B+ addressable market with no imminent competitor.",
-        "Record Q1 2026 revenue and EPS beat demonstrate accelerating commercial momentum; AMVUTTRA's broad safety/efficacy profile supports continued market share gains, with potential for further label expansion into additional transthyretin disease populations."
+        "World's #2 DRAM maker and leading supplier of HBM (high-bandwidth memory) chips critical for AI GPUs, with dominant position in HBM3/4 supply for NVIDIA and other hyperscalers",
+        "Record $26.5B Nasdaq IPO signals deep institutional demand; long-term AI data center buildout structurally drives memory requirements with 37-analyst Strong Buy consensus and $355 price target implying 130% upside"
       ],
       "bear_case": [
-        "Stock remains 27% below its 52-week high of $495.55 despite the competitive windfall, reflecting market concerns about near-term profitability and the premium 75x P/E multiple on still-nascent earnings.",
-        "RNAi therapy manufacturing is complex and expensive; payer reimbursement pressure on high-cost gene-silencing treatments and potential long-term competition from gene editing, small molecules, or next-generation RNAi platforms remain structural risks."
+        "KIS issued Q2 earnings estimates ~8% below consensus citing slower-than-expected HBM4 production timelines, which triggered today's historic Seoul selloff and US ADR decline",
+        "Limited Nasdaq trading history (IPO July 10) creates elevated short-term volatility; ADR structure adds complexity and foreign-exchange risk on top of semiconductor cycle risk"
       ],
       "recommendation": "Buy",
-      "current_price": "$361.88",
-      "price_target": "$472.78 (+30.6%)",
-      "pe_ratio": "75.19",
-      "rsi": "58.07",
-      "vs_52wk_high": "-27.0% below high ($495.55)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Healthcare - Biotechnology",
-      "sources": ["CNBC", "Investing.com", "Blockonomi", "StockAnalysis", "MarketBeat", "TipRanks"],
-      "price_history_5d": [323.50, 361.88]
-    },
-    {
-      "ticker": "AZN",
-      "company": "AstraZeneca",
-      "discussion_driver": "AstraZeneca's NYSE-listed ADRs fell ~5.7% on July 9 — one of the stock's worst single sessions since March 2020 — after the CARDIO-TTRansform Phase 3 trial evaluating Wainua (eplontersen) for ATTR-CM patients failed to meet its primary composite cardiovascular endpoint. The failure eliminates a key late-stage pipeline asset and removes projected multi-billion dollar ATTR-CM revenues. Despite the setback, 35 analysts maintain a Strong Buy consensus with a $235.52 average target, implying 31.9% upside and suggesting Wall Street views the selloff as overdone for a diversified pharma giant.",
-      "bull_case": [
-        "AstraZeneca's diversified oncology portfolio (Tagrisso, Imfinzi, Calquence, Lynparza) generates consistent multi-billion dollar revenues that far outweigh the ATTR-CM pipeline loss; Q2 2026 earnings on July 27 are expected to show $2.60 EPS on $15.94B revenue.",
-        "35 analysts rate AZN Strong Buy with $235.52 average price target; at 28.64x trailing P/E and 31.9% implied upside to consensus, AZN appears attractively valued vs. diversified pharma peers following the single-day selloff."
-      ],
-      "bear_case": [
-        "CARDIO-TTRansform failure removes a flagship late-stage asset and raises questions about the productivity of Ionis-licensed RNAi compounds within AZN's pipeline strategy, potentially weighing on the valuation of other non-oncology programs.",
-        "AZN faces compounding headwinds from US-Iran geopolitical tensions, GBP/USD currency risk, potential tariff exposure, and China market risk for oncology drugs — creating multiple layers of near-term uncertainty for a UK-based global pharma company."
-      ],
-      "recommendation": "Buy",
-      "current_price": "$178.49",
-      "price_target": "$235.52 (+31.9%)",
-      "pe_ratio": "28.64",
-      "rsi": "N/A",
-      "vs_52wk_high": "-16.1% below high ($212.71)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Healthcare - Pharmaceuticals",
-      "sources": ["CNBC", "TheStreet", "Bloomberg", "Yahoo Finance", "StockAnalysis", "MarketBeat"],
-      "price_history_5d": [189.24, 178.49]
-    },
-    {
-      "ticker": "IONS",
-      "company": "Ionis Pharmaceuticals",
-      "discussion_driver": "Ionis plunged ~17-21% on July 9 as co-developer of Wainua (eplontersen) alongside AstraZeneca, after the CARDIO-TTRansform Phase 3 trial failed to meet its primary composite cardiovascular endpoint in ATTR-CM patients. The collapse came just one session after IONS hit a new 52-week high of $86.74 on July 8, making the reversal particularly severe. TD Cowen (cut to $94), Jefferies, BofA, and Raymond James (cut to $87) all maintained positive ratings while reducing targets, suggesting the broader 40+ RNA pipeline retains long-term value despite the loss of the ATTR-CM program.",
-      "bull_case": [
-        "FDA-approved TRYNGOLZA (olezarsen) and a 40+ medicine RNA pipeline across cardiovascular, neurological, and rare disease programs provide diversified commercial and clinical catalysts that extend well beyond the failed ATTR-CM indication.",
-        "Multiple bulge-bracket analysts maintained Buy/Outperform ratings post-failure (TD Cowen, Jefferies, Oppenheimer); the ~20% single-session crash may represent an overreaction creating an attractive entry for risk-tolerant investors with a multi-year horizon."
-      ],
-      "bear_case": [
-        "ATTR-CM was Ionis's most significant near-term commercial opportunity; its failure not only removes the largest revenue growth driver but also raises questions about Ionis's ability to commercialize drugs at scale without a large-pharma partner like AstraZeneca.",
-        "With negative earnings and no major near-term catalyst to replace the ATTR-CM opportunity, Ionis must rely on slower TRYNGOLZA adoption and pipeline readouts — a process that could take 2+ years before meaningful revenue inflection."
-      ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$69.62",
-      "price_target": "$85.91 (+23.4%)",
+      "current_price": "$154.57",
+      "price_target": "$355.00 (+129.7%)",
       "pe_ratio": "N/A",
       "rsi": "N/A",
-      "vs_52wk_high": "-19.7% below high ($86.74)",
+      "vs_52wk_high": "-8.0% below high ($168.01)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Technology - Semiconductors (Memory/HBM)",
+      "sources": ["CNBC", "Bloomberg", "Seeking Alpha", "TradingKey"],
+      "price_history_5d": [168.01, 154.57]
+    },
+    {
+      "ticker": "SPCX",
+      "company": "Space Exploration Technologies Corp.",
+      "discussion_driver": "SpaceX dropped ~4% to $137.41, hitting a fresh post-IPO low and now down ~39% from its June 16 all-time high of $225.64. Analysts disclosed AI division projected losses of $6.4B, adding to selling pressure. The Nasdaq-100 inclusion on July 7 triggered an estimated $4.3B in passive inflows but failed to arrest the decline as high-multiple AI names faced broad sector rotation.",
+      "bull_case": [
+        "Starlink's global satellite internet network offers massive recurring revenue TAM; Nasdaq-100 inclusion forces ~$4.3B in structural passive ETF inflows from trackers like QQQ",
+        "Falcon 9 near-monopoly on commercial launch with significant cost advantages; 27 of 35 analysts rate Buy with consensus target of $245.96, implying ~79% upside from current levels"
+      ],
+      "bear_case": [
+        "AI division projected to lose $6.4B, creating material earnings drag at a time when investors are rotating out of high-multiple AI names",
+        "Extremely thin public float (~3%) creates severe volatility; stock is down ~39% from its all-time high just four weeks after IPO, signaling institutional distribution pressure"
+      ],
+      "recommendation": "Speculative Buy",
+      "current_price": "$137.41",
+      "price_target": "$245.96 (+79.0%)",
+      "pe_ratio": "N/A",
+      "rsi": "N/A",
+      "vs_52wk_high": "-39.1% below high ($225.64)",
       "analyst_rating": "Buy",
-      "sector": "Healthcare - Biotechnology",
-      "sources": ["CNBC", "TheStreet", "Yahoo Finance", "Investing.com", "FiercePharma", "TD Cowen"],
-      "price_history_5d": [84.46, 69.62]
+      "sector": "Aerospace & Defense / Space Technology",
+      "sources": ["CNBC", "GuruFocus", "Seeking Alpha", "Motley Fool", "MarketBeat"],
+      "price_history_5d": [158.0, 148.0, 146.7, 145.30, 137.41]
+    },
+    {
+      "ticker": "BRAI",
+      "company": "Braiin Limited",
+      "discussion_driver": "Braiin surged 57-62% intraday on July 13 after announcing the launch of ARIA, an agentic AI workforce platform targeting the $32B global real estate software market by 2033. Initial deployment is in Australia with US expansion planned. Shares hit an intraday high of $11.50 before settling at $7.36, giving the company a market cap of approximately $1.52B.",
+      "bull_case": [
+        "ARIA targets a $32B total addressable market in global real estate software; Braiin's existing IoT, AI/ML proprietary IP, and established Australian footprint provide a scalable foundation for deployment",
+        "Early-mover advantage in agentic AI for real estate could attract major enterprise contracts or acquisition interest from larger PropTech players as the market matures"
+      ],
+      "bear_case": [
+        "Extremely limited analyst coverage (1 Buy at $10, 1 Hold, 1 Sell) and micro-cap profile make this highly speculative; much of today's move may be retail-driven hype rather than institutional conviction",
+        "No demonstrated track record of commercial success in the US market; execution risk is very high for a small Australian company expanding into a competitive US AI software space"
+      ],
+      "recommendation": "Speculative Buy",
+      "current_price": "$7.36",
+      "price_target": "$10.00 (+35.9%)",
+      "pe_ratio": "N/A",
+      "rsi": "N/A",
+      "vs_52wk_high": "-35.9% below intraday high ($11.50)",
+      "analyst_rating": "Hold",
+      "sector": "Technology - AI / PropTech / AgriTech",
+      "sources": ["CNBC", "Benzinga", "GlobeNewswire", "Morningstar"],
+      "price_history_5d": [5.80, 5.80, 5.80, 5.80, 7.36]
+    },
+    {
+      "ticker": "WDC",
+      "company": "Western Digital Corporation",
+      "discussion_driver": "Western Digital shares fell ~6% in sympathy with the broad memory/chip sector collapse triggered by KIS issuing Q2 earnings estimates for SK Hynix ~8% below consensus. WDC has posted four consecutive quarters of 100%+ earnings beats on AI-driven storage demand. Citi, BofA (target $732), and Wells Fargo (target $730) all reiterated Buy ratings post-selloff with upgraded price targets.",
+      "bull_case": [
+        "Four consecutive quarters of earnings beats with 100%+ average earnings surprise; AI inference storage demand is driving a multi-year NAND and HDD upgrade cycle with improving pricing power",
+        "Multiple analyst upgrades post-July 13 with targets of $730-800 (BofA, WF, Citi) imply 34-47% upside from current levels; fundamentals remain intact despite the sector-driven selloff"
+      ],
+      "bear_case": [
+        "Memory sector is highly cyclical; SK Hynix Q2 earnings miss raises contagion risk for WDC's own upcoming results, potentially triggering further sector-wide de-rating",
+        "Stock is 31.9% below its 52-week high of $799.87 set in June, indicating persistent downward momentum; PE of ~32 remains elevated for a cyclical storage name"
+      ],
+      "recommendation": "Buy",
+      "current_price": "$544.48",
+      "price_target": "$606.13 (+11.3%)",
+      "pe_ratio": "~32.2",
+      "rsi": "62.49",
+      "vs_52wk_high": "-31.9% below high ($799.87)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - Data Storage (NAND/HDD)",
+      "sources": ["CNBC", "MarketWatch", "Benzinga", "Yahoo Finance", "TipRanks"],
+      "price_history_5d": [587.0, 581.0, 578.05, 583.00, 544.48]
     }
   ]
 }
