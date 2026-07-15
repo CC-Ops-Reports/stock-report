@@ -1,135 +1,135 @@
 {
-  "report_date": "2026-07-13",
+  "report_date": "2026-07-14",
   "batch": 1,
-  "market_tone": "Bearish",
+  "market_tone": "Mixed",
   "key_themes": [
-    "US-Iran Strait of Hormuz tensions spike oil ~5%, pressuring tech while lifting energy stocks",
-    "AI/chip trade rotation out of high-multiple names — memory sector worst hit, SK Hynix Seoul shares worst day ever",
-    "SpaceX post-IPO sell-off deepens; major bank earnings season kicks off Tuesday"
+    "Q2 earnings season opens: banks beat broadly, IBM delivers massive miss",
+    "June CPI cools to 3.5% (vs. 3.8% expected), reducing Fed rate-hike odds",
+    "Software sector rout — IBM contagion drags Workday, Salesforce, Oracle sharply lower"
   ],
   "sp500": {
-    "value": "7,515.34",
-    "change": "-0.79%"
+    "value": "7,543.59",
+    "change": "+0.38%"
   },
   "nasdaq": {
-    "value": "25,873.18",
-    "change": "-1.55%"
+    "value": "26,107.01",
+    "change": "+0.90%"
   },
   "stocks": [
     {
-      "ticker": "APP",
-      "company": "AppLovin Corporation",
-      "discussion_driver": "AppLovin tumbled ~11% on July 13 as the worst S&P 500 performer, caught in a broad AI ad-tech sell-off compounded by BofA data showing slower e-commerce ad growth in June and CEO Adam Foroughi selling ~$51M in shares last month. Despite the drawdown, the company beat Q2 earnings estimates (EPS $3.56 vs. $3.44 expected; revenue $1.84B vs. $1.77B), and analyst consensus remains firmly Buy with a $686.90 consensus target.",
+      "ticker": "IBM",
+      "company": "International Business Machines",
+      "discussion_driver": "IBM tumbled ~25% — its worst single-day drop in nearly 40 years — after Q2 revenue of $17.2B missed the $17.9B consensus, with management blaming customers pivoting spend toward AI chips and servers. HSBC immediately downgraded to Reduce with a $191 target, while the full Q2 earnings call is set for July 22.",
       "bull_case": [
-        "Beat Q2 earnings estimates with EPS $3.56 vs. $3.44 expected and revenue $1.84B vs. $1.77B, demonstrating durable fundamental strength in a volatile macro environment",
-        "AI-powered mobile advertising platform with strong recurring revenue growth and expanding market share in e-commerce advertising; 90% Buy/Strong Buy analyst consensus with $686.90 price target implies 52%+ upside"
+        "Stock now trades ~35% below its 52-week high at a historically depressed valuation, creating a mean-reversion opportunity if the Q2 miss proves isolated",
+        "HashiCorp integration and Red Hat momentum could reignite software growth in H2 2026 as enterprise AI budgets eventually expand beyond hardware"
       ],
       "bear_case": [
-        "High-multiple valuation (PE ~35) is vulnerable to AI trade rotation; stock is already 40% below its 52-week high of $745.61 even after today's selloff",
-        "CEO insider selling (~$51M last month) and BofA data showing slower June e-commerce ad growth raise concerns about near-term momentum and insider confidence"
+        "Revenue miss signals a structural shift in enterprise spend away from IBM's core offerings toward AI-centric infrastructure, threatening the long-term growth thesis",
+        "HSBC downgrade to Reduce with a $191 target and multiple analyst target cuts suggest further downside risk ahead of the July 22 earnings call"
       ],
       "recommendation": "Hold",
-      "current_price": "$451.00",
-      "price_target": "$686.90 (+52.3%)",
-      "pe_ratio": "~35.3",
-      "rsi": "54.1",
-      "vs_52wk_high": "-39.5% below high ($745.61)",
+      "current_price": "$217.07",
+      "price_target": "$300.47 (+38.4%)",
+      "pe_ratio": "26.07",
+      "rsi": "N/A",
+      "vs_52wk_high": "-34.7% below high ($332.46)",
       "analyst_rating": "Buy",
-      "sector": "Technology - Digital Advertising / Ad-Tech",
-      "sources": ["CNBC", "24/7 Wall St.", "Investing.com", "TradingKey"],
-      "price_history_5d": [523.0, 507.0, 507.0, 506.98, 451.0]
+      "sector": "Technology - Enterprise Software & Cloud",
+      "sources": ["CNBC", "Bloomberg", "24/7 Wall St.", "StockAnalysis.com", "MarketBeat"],
+      "price_history_5d": [285.00, 287.00, 289.00, 290.23, 217.07]
     },
     {
-      "ticker": "SKHY",
-      "company": "SK Hynix Inc. (US ADR)",
-      "discussion_driver": "SK Hynix debuted on Nasdaq July 10 via a record $26.5B ADR listing priced at $149, rallying 13% on day one to close at $168.01. On July 13, US-listed shares tumbled ~8% as the broader memory chip AI trade rotated sharply lower, amplified by KIS issuing Q2 earnings estimates ~8% below consensus citing slower-than-expected HBM4 production ramp. The Seoul-listed shares suffered their worst single day in company history (-15%).",
+      "ticker": "GS",
+      "company": "Goldman Sachs Group",
+      "discussion_driver": "Goldman Sachs surged ~7% after a blockbuster Q2 beat: EPS of $20.98 demolished the $14.48 consensus driven by exceptional FICC and equities trading revenues; net revenue of $20.34B beat the $16.13B estimate by 26%, marking one of the firm's most decisive recent earnings beats. B of A raised its price target to $1,150 following the results.",
       "bull_case": [
-        "World's #2 DRAM maker and leading supplier of HBM (high-bandwidth memory) chips critical for AI GPUs, with dominant position in HBM3/4 supply for NVIDIA and other hyperscalers",
-        "Record $26.5B Nasdaq IPO signals deep institutional demand; long-term AI data center buildout structurally drives memory requirements with 37-analyst Strong Buy consensus and $355 price target implying 130% upside"
+        "Record trading revenues and dominant capital markets franchise position GS to benefit further if M&A advisory activity recovers in H2 2026 following the CPI cooling",
+        "Lower real yields from the CPI surprise support deal-making and financial sector multiple expansion, providing a continued tailwind for GS outperformance"
       ],
       "bear_case": [
-        "KIS issued Q2 earnings estimates ~8% below consensus citing slower-than-expected HBM4 production timelines, which triggered today's historic Seoul selloff and US ADR decline",
-        "Limited Nasdaq trading history (IPO July 10) creates elevated short-term volatility; ADR structure adds complexity and foreign-exchange risk on top of semiconductor cycle risk"
+        "Stock is now trading above the consensus analyst price target of ~$1,010, with limited near-term upside priced in even after today's re-rating surge",
+        "Trading-driven revenue beats are inherently volatile and difficult to sustain quarter-to-quarter; a quieter Q3 markets environment could reverse much of today's gain"
       ],
-      "recommendation": "Buy",
-      "current_price": "$154.57",
-      "price_target": "$355.00 (+129.7%)",
-      "pe_ratio": "N/A",
+      "recommendation": "Hold",
+      "current_price": "$1,122.01",
+      "price_target": "$1,009.70 (-10.0%)",
+      "pe_ratio": "17.72",
       "rsi": "N/A",
-      "vs_52wk_high": "-8.0% below high ($168.01)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Technology - Semiconductors (Memory/HBM)",
-      "sources": ["CNBC", "Bloomberg", "Seeking Alpha", "TradingKey"],
-      "price_history_5d": [168.01, 154.57]
-    },
-    {
-      "ticker": "SPCX",
-      "company": "Space Exploration Technologies Corp.",
-      "discussion_driver": "SpaceX dropped ~4% to $137.41, hitting a fresh post-IPO low and now down ~39% from its June 16 all-time high of $225.64. Analysts disclosed AI division projected losses of $6.4B, adding to selling pressure. The Nasdaq-100 inclusion on July 7 triggered an estimated $4.3B in passive inflows but failed to arrest the decline as high-multiple AI names faced broad sector rotation.",
-      "bull_case": [
-        "Starlink's global satellite internet network offers massive recurring revenue TAM; Nasdaq-100 inclusion forces ~$4.3B in structural passive ETF inflows from trackers like QQQ",
-        "Falcon 9 near-monopoly on commercial launch with significant cost advantages; 27 of 35 analysts rate Buy with consensus target of $245.96, implying ~79% upside from current levels"
-      ],
-      "bear_case": [
-        "AI division projected to lose $6.4B, creating material earnings drag at a time when investors are rotating out of high-multiple AI names",
-        "Extremely thin public float (~3%) creates severe volatility; stock is down ~39% from its all-time high just four weeks after IPO, signaling institutional distribution pressure"
-      ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$137.41",
-      "price_target": "$245.96 (+79.0%)",
-      "pe_ratio": "N/A",
-      "rsi": "N/A",
-      "vs_52wk_high": "-39.1% below high ($225.64)",
-      "analyst_rating": "Buy",
-      "sector": "Aerospace & Defense / Space Technology",
-      "sources": ["CNBC", "GuruFocus", "Seeking Alpha", "Motley Fool", "MarketBeat"],
-      "price_history_5d": [158.0, 148.0, 146.7, 145.30, 137.41]
-    },
-    {
-      "ticker": "BRAI",
-      "company": "Braiin Limited",
-      "discussion_driver": "Braiin surged 57-62% intraday on July 13 after announcing the launch of ARIA, an agentic AI workforce platform targeting the $32B global real estate software market by 2033. Initial deployment is in Australia with US expansion planned. Shares hit an intraday high of $11.50 before settling at $7.36, giving the company a market cap of approximately $1.52B.",
-      "bull_case": [
-        "ARIA targets a $32B total addressable market in global real estate software; Braiin's existing IoT, AI/ML proprietary IP, and established Australian footprint provide a scalable foundation for deployment",
-        "Early-mover advantage in agentic AI for real estate could attract major enterprise contracts or acquisition interest from larger PropTech players as the market matures"
-      ],
-      "bear_case": [
-        "Extremely limited analyst coverage (1 Buy at $10, 1 Hold, 1 Sell) and micro-cap profile make this highly speculative; much of today's move may be retail-driven hype rather than institutional conviction",
-        "No demonstrated track record of commercial success in the US market; execution risk is very high for a small Australian company expanding into a competitive US AI software space"
-      ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$7.36",
-      "price_target": "$10.00 (+35.9%)",
-      "pe_ratio": "N/A",
-      "rsi": "N/A",
-      "vs_52wk_high": "-35.9% below intraday high ($11.50)",
+      "vs_52wk_high": "-1.9% below high ($1,143.84)",
       "analyst_rating": "Hold",
-      "sector": "Technology - AI / PropTech / AgriTech",
-      "sources": ["CNBC", "Benzinga", "GlobeNewswire", "Morningstar"],
-      "price_history_5d": [5.80, 5.80, 5.80, 5.80, 7.36]
+      "sector": "Financials - Investment Banking",
+      "sources": ["CNBC", "TheStreet", "MarketBeat", "StockAnalysis.com", "Benzinga"],
+      "price_history_5d": [1040.00, 1045.00, 1048.00, 1045.91, 1122.01]
     },
     {
-      "ticker": "WDC",
-      "company": "Western Digital Corporation",
-      "discussion_driver": "Western Digital shares fell ~6% in sympathy with the broad memory/chip sector collapse triggered by KIS issuing Q2 earnings estimates for SK Hynix ~8% below consensus. WDC has posted four consecutive quarters of 100%+ earnings beats on AI-driven storage demand. Citi, BofA (target $732), and Wells Fargo (target $730) all reiterated Buy ratings post-selloff with upgraded price targets.",
+      "ticker": "CLSK",
+      "company": "CleanSpark Inc.",
+      "discussion_driver": "CleanSpark surged ~11% after announcing a 20-year, triple-net data center lease in Sandersville, Georgia, contracted for $6.6 billion in revenue (up to $11.6B with two five-year extension options) with an undisclosed investment-grade global technology company. The deal marks a strategic pivot from pure bitcoin mining toward high-performance computing infrastructure for hyperscale clients.",
       "bull_case": [
-        "Four consecutive quarters of earnings beats with 100%+ average earnings surprise; AI inference storage demand is driving a multi-year NAND and HDD upgrade cycle with improving pricing power",
-        "Multiple analyst upgrades post-July 13 with targets of $730-800 (BofA, WF, Citi) imply 34-47% upside from current levels; fundamentals remain intact despite the sector-driven selloff"
+        "$6.6B in contracted, triple-net revenue over 20 years provides unprecedented revenue visibility and substantially de-risks bitcoin price exposure going forward",
+        "Citizens initiated coverage with Outperform and a $27 target, citing the HPC/AI data center pivot as a high-value rerating catalyst amid surging AI infrastructure demand"
       ],
       "bear_case": [
-        "Memory sector is highly cyclical; SK Hynix Q2 earnings miss raises contagion risk for WDC's own upcoming results, potentially triggering further sector-wide de-rating",
-        "Stock is 31.9% below its 52-week high of $799.87 set in June, indicating persistent downward momentum; PE of ~32 remains elevated for a cyclical storage name"
+        "Company remains unprofitable (Q2 EPS -$1.52) and the strategic tenant is undisclosed, limiting investor ability to assess credit risk and deal credibility",
+        "Stock is still ~42% below its 52-week high of $23.61 despite today's surge, reflecting persistent skepticism about the business model transition away from bitcoin mining"
       ],
-      "recommendation": "Buy",
-      "current_price": "$544.48",
-      "price_target": "$606.13 (+11.3%)",
-      "pe_ratio": "~32.2",
-      "rsi": "62.49",
-      "vs_52wk_high": "-31.9% below high ($799.87)",
+      "recommendation": "Speculative Buy",
+      "current_price": "$13.72",
+      "price_target": "$19.69 (+43.5%)",
+      "pe_ratio": "N/A",
+      "rsi": "N/A",
+      "vs_52wk_high": "-41.9% below high ($23.61)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Technology - Bitcoin Mining & Data Centers",
+      "sources": ["CNBC", "Bloomberg", "Motley Fool", "StockAnalysis.com", "MarketBeat"],
+      "price_history_5d": [13.80, 13.60, 13.20, 12.36, 13.72]
+    },
+    {
+      "ticker": "HCA",
+      "company": "HCA Healthcare Inc.",
+      "discussion_driver": "HCA Healthcare fell over 7% after cutting full-year EPS guidance to $28.70–$30.50 from $29.10–$31.50, citing rising cost pressures. KeyBanc lowered its target to $475 and BofA cut to $415 (both keeping constructive ratings), while an RSI of 16.47 signals deeply oversold conditions not often seen in large-cap healthcare.",
+      "bull_case": [
+        "RSI at 16.47 signals deeply oversold conditions rarely seen in large-cap healthcare, creating a tactical mean-reversion opportunity for patient investors",
+        "Consensus price target of $490 implies 34.5% upside from current levels, with 14 of 25 covering analysts maintaining Buy ratings despite the guidance cut"
+      ],
+      "bear_case": [
+        "Guidance cut signals persistent cost headwinds; if labor and supply chain pressures worsen, further earnings estimate reductions are likely throughout 2026",
+        "Stock is ~35% below its March 2026 high of $556.52 with declining momentum — a durable bottom may not yet be in place given ongoing guidance uncertainty"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$364.24",
+      "price_target": "$490.00 (+34.5%)",
+      "pe_ratio": "12.45",
+      "rsi": "16.47",
+      "vs_52wk_high": "-34.5% below high ($556.52)",
       "analyst_rating": "Buy",
-      "sector": "Technology - Data Storage (NAND/HDD)",
-      "sources": ["CNBC", "MarketWatch", "Benzinga", "Yahoo Finance", "TipRanks"],
-      "price_history_5d": [587.0, 581.0, 578.05, 583.00, 544.48]
+      "sector": "Healthcare - Hospital Systems",
+      "sources": ["CNBC", "TheStreet", "MarketBeat", "Benzinga", "Nasdaq.com"],
+      "price_history_5d": [410.00, 408.00, 406.59, 390.74, 364.24]
+    },
+    {
+      "ticker": "JPM",
+      "company": "JPMorgan Chase & Co.",
+      "discussion_driver": "JPMorgan Chase rose ~2% after Q2 EPS of $6.14 (ex-items) beat the $5.59 consensus; net income of $16.9B and managed revenue of $58B both surpassed expectations, driven by strength in trading and investment banking. UBS raised its price target to $384 following the results, reinforcing JPM's status as the preeminent large-cap bank.",
+      "bull_case": [
+        "Diversified revenue base spanning consumer banking, trading, and IB insulates JPM from interest rate swings, and the CPI surprise could boost deal activity in H2 2026",
+        "UBS raised its target to $384 (+12.6% upside from current), reflecting confidence in JPM's ability to sustain above-consensus earnings generation through the cycle"
+      ],
+      "bear_case": [
+        "Stock is trading within 1% of its all-time high with consensus price target of $353 implying only ~3.6% upside, leaving limited margin of safety at current levels",
+        "P/E of 16.33 is well above the 5-year median of 11.37, suggesting the market has already priced in a strong earnings environment with little room for disappointment"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$340.89",
+      "price_target": "$353.07 (+3.6%)",
+      "pe_ratio": "16.33",
+      "rsi": "N/A",
+      "vs_52wk_high": "-0.7% below high ($343.45)",
+      "analyst_rating": "Buy",
+      "sector": "Financials - Banking",
+      "sources": ["CNBC", "TheStreet", "Bloomberg", "Yahoo Finance", "GuruFocus"],
+      "price_history_5d": [337.00, 335.50, 336.80, 334.53, 340.89]
     }
   ]
 }
