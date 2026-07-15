@@ -1,121 +1,98 @@
 {
-  "report_date": "2026-07-13",
+  "report_date": "2026-07-14",
   "batch": 3,
   "stocks": [
     {
-      "ticker": "FAST",
-      "company": "Fastenal Company",
-      "discussion_driver": "Fastenal reported Q2 2026 earnings before market open on July 13, with analysts expecting EPS of $0.33 (+13.8% YoY) and revenue of $2.34B (+12.6% YoY); the stock closed flat near $47, signaling results were roughly in line with expectations. Separately, Rothschild & Co Redburn initiated coverage at Buy with a $55 price target — the highest on the Street — adding a fresh bullish catalyst on the same day as earnings.",
+      "ticker": "NFLX",
+      "company": "Netflix Inc.",
+      "discussion_driver": "Netflix slid ~3.2% on July 14 amid subscriber engagement concerns heading into Q2 earnings (scheduled July 16), with investors focused on viewer quality metrics rather than top-line growth. Evercore remains bullish, citing depressed sentiment, elevated short interest, and intact ad monetization fundamentals as a setup for a beat-and-raise quarter. The stock's P/E has compressed to a 3-year low as the market awaits clarity on whether Netflix's ad tier — expected to generate ~$3B in FY2026 — can offset a potential plateau in traditional subscriber growth.",
       "bull_case": [
-        "Consistent double-digit revenue growth (~12% YoY for two consecutive quarters) reflects share gains, broad-based demand, and expanding digital vending programs that deepen customer stickiness",
-        "Rothschild & Co Redburn Buy initiation at $55 today implies ~17% upside; industrial distribution leadership and manufacturing reshoring trends provide a long-runway secular growth backdrop"
+        "Q2 earnings catalyst on July 16 with Evercore flagging beat-and-raise potential; ad revenue expected to roughly double YoY to ~$3B for FY2026; P/E at 3-year low of 23.82x offering a valuation entry point with 20-25% earnings growth projected",
+        "250M monthly average viewers, expansion into 15 new international ad markets, and a strong content and live sports slate support long-term engagement; Evercore Outperform rating with $115 price target; 24 Buy ratings vs. 0 Sells"
       ],
       "bear_case": [
-        "Valuation stretched at ~40x trailing P/E for a slow-moving distribution company; Hold consensus (5 Buy, 7 Hold, 5 Sell across 17 analysts) limits near-term multiple expansion",
-        "Historical tendency to miss revenue estimates; AI-trade rotation hammering broader industrial and tech-adjacent sectors could dampen sentiment even with solid fundamentals"
+        "Stock down ~42% from 52-week high of $127.75 and near the 52-week low of $70.86; Netflix discontinued regular membership reporting after Q1 2026, reducing transparency and limiting investor ability to gauge growth deceleration",
+        "Rising competition from YouTube and other streamers; Jefferies sees 'limited upside catalyst' for Q2; tough H2 2026 comparisons and RSI at 38.7 not yet at oversold levels suggesting further downside remains possible"
       ],
-      "recommendation": "Hold",
-      "current_price": "$46.87",
-      "price_target": "$47.08 (+0.4%)",
-      "pe_ratio": "39.54",
+      "recommendation": "Buy",
+      "current_price": "$73.94",
+      "price_target": "$115.00 (+55.5%)",
+      "pe_ratio": "23.82",
+      "rsi": "38.7",
+      "vs_52wk_high": "-42.1% below high ($127.75)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Consumer Discretionary - Streaming",
+      "sources": ["CNBC", "Benzinga", "Evercore ISI", "Jefferies", "Hollywood Reporter", "Yahoo Finance"],
+      "price_history_5d": [73.83, 73.94]
+    },
+    {
+      "ticker": "WFC",
+      "company": "Wells Fargo & Company",
+      "discussion_driver": "Wells Fargo fell ~3% on July 14 despite reporting Q2 EPS of $2.00 that handily beat the $1.72 consensus on revenue of $22.62B, as investors focused on net interest margin compression guidance rather than the headline earnings beat. Management reaffirmed full-year 2026 NII guidance of ~$50B and expects NIM to stabilize in Q4, but the sell-the-news reaction underscores concern about mid-cycle bank profitability. The disconnect between a solid beat and the negative price action positions WFC as one of the cheapest large-cap banks by P/E heading into the back half of 2026.",
+      "bull_case": [
+        "Q2 2026 EPS of $2.00 beat the $1.72 consensus (25% YoY growth) on revenue of $22.62B; management reaffirmed full-year NII guidance of ~$50B with NIM stabilization expected in Q4 2026; broad-based revenue growth across all segments",
+        "Trading at 13.1x trailing P/E vs. peer average 13.9x, offering relative value among major banks; Buy consensus from 25 analysts with $97.75 average price target implying ~+15% upside from current depressed post-earnings levels"
+      ],
+      "bear_case": [
+        "Fell ~3% on earnings day despite the EPS beat as investors focused on near-term NIM compression expected to persist into Q3 2026, driven by a higher mix of interest-bearing commercial deposits and markets asset growth",
+        "Legacy regulatory constraints continue to limit balance sheet flexibility; slower NIM recovery timeline creates uncertainty about H2 earnings progression relative to the ~$50B NII guidance"
+      ],
+      "recommendation": "Buy",
+      "current_price": "$85.04",
+      "price_target": "$97.75 (+14.9%)",
+      "pe_ratio": "13.1",
+      "rsi": "56.0",
+      "vs_52wk_high": "-13.0% below high ($97.76)",
+      "analyst_rating": "Buy",
+      "sector": "Financials - Banking",
+      "sources": ["CNBC", "TheStreet", "TipRanks", "Simply Wall St", "Seeking Alpha", "Yahoo Finance"],
+      "price_history_5d": [87.16, 87.67, 85.04]
+    },
+    {
+      "ticker": "HAL",
+      "company": "Halliburton Company",
+      "discussion_driver": "Halliburton was upgraded to Overweight from Neutral at Piper Sandler with a raised price target of $43 (from $40), citing a constructive 2027-2028 WTI oil futures strip at $70-67/bbl, rising US land frac utilization, and equipment supply constraints that favor pricing power for leading OFS names. The stock had pulled back more than 20% from its May 2026 highs, creating what Piper Sandler views as a compelling re-entry point. Separately, the Iran ceasefire collapse on July 8 boosted energy prices and provided a tactical tailwind to the energy complex alongside the upgrade.",
+      "bull_case": [
+        "Piper Sandler upgrade to Overweight ($43 target) citing constructive oil price outlook, improving US land activity with rigs being added, rising frac utilization, and supply constraints from attrition and bifurcation creating better pricing power for HAL",
+        "Multiple high-conviction bulls: Citi at $52 (Buy) and Barclays at $55 (Overweight); offshore project wins including TotalEnergies contract; stock trades ~18% below 52-week high offering a value entry with 15 Buy vs. 1 Sell among 20 analysts"
+      ],
+      "bear_case": [
+        "Energy sector is highly sensitive to oil price volatility; a return to sub-$60/bbl WTI levels — as seen at the 2025 exit — would pressure oilfield services activity, utilization rates, and margins meaningfully",
+        "Iran ceasefire news could quickly reverse the geopolitical energy price tailwinds; RSI unavailable limits technical entry conviction; international market expansion faces geopolitical and counterparty execution risks"
+      ],
+      "recommendation": "Buy",
+      "current_price": "$35.22",
+      "price_target": "$44.16 (+25.4%)",
+      "pe_ratio": "18.87",
       "rsi": "N/A",
-      "vs_52wk_high": "-7.4% below high ($50.63)",
-      "analyst_rating": "Hold",
-      "sector": "Industrials - Distribution",
-      "sources": ["StockStory", "Benzinga", "CNBC", "Yahoo Finance", "MarketBeat"],
-      "price_history_5d": [47.11, 46.87]
+      "vs_52wk_high": "-18.1% below high ($42.98)",
+      "analyst_rating": "Buy",
+      "sector": "Energy - Oilfield Services",
+      "sources": ["24/7 Wall St.", "CNBC", "Piper Sandler via Investing.com", "Citi", "Barclays", "FinancialContent"],
+      "price_history_5d": [34.78, 34.39, 35.22, 35.22]
     },
     {
-      "ticker": "SHOP",
-      "company": "Shopify Inc.",
-      "discussion_driver": "Jefferies upgraded Shopify to Buy from Hold on July 13, raising its price target to $160 from $140, citing strong Q2 momentum, improving AI/agentic commerce strategy, and potential price hikes for merchant tiers; the stock rose ~3% on the day to close near $125.68. Stifel also remained bullish; Shopify's fiscal Q2 earnings are due August 5 and are expected to beat current Wall Street projections based on third-party metrics.",
+      "ticker": "NEM",
+      "company": "Newmont Corporation",
+      "discussion_driver": "Newmont popped on July 14 after TD Cowen upgraded to Buy from Hold with a $127 price target, citing the stock's valuation at 0.87x NAV versus its 3-year average of 1.10x and a deeply oversold RSI of 28.8 following a 31% decline from the 52-week high. The June CPI cooling to 3.5% (well below the 3.8% estimate) reduces real yields, directly benefiting gold producers as gold trades near $4,065/oz — well off its January 2026 all-time high of ~$5,600/oz. With 18 of 22 analysts recommending Buy and a consensus target of $137.64, Newmont represents a high-conviction recovery play for investors willing to look through a 2026 production trough toward a 2027 earnings inflection.",
       "bull_case": [
-        "Jefferies upgrade to Buy at $160 target — 31% upside from prior close — reflects broad institutional conviction; 38 Buy vs. 1 Sell across 51 analysts is a rare wall-to-wall bullish alignment in the current bearish tape",
-        "Revenue projected at $14.65B (+27% YoY) in FY2026 driven by agentic commerce expansion, international merchant growth, and price increases; the platform's network effects create a durable competitive moat"
+        "TD Cowen upgraded to Buy ($127 target) on valuation at 0.87x NAV vs 3-year average 1.10x implying a 26% discount; RSI at 28.8 is deeply oversold, historically a high-probability mean-reversion setup for quality gold majors",
+        "Cooler June CPI (3.5% vs 3.8% est.) reduces real yields — a direct positive for gold prices; management has divested non-core assets to focus on lower-cost gold production; 18 of 22 analysts rate Buy with $137.64 consensus target implying ~48% upside"
       ],
       "bear_case": [
-        "Trailing P/E of ~117x is extreme relative to peers and leaves little room for error; any Q2 earnings miss or guidance cut could spark a sharp de-rating",
-        "Stock is still -31% from its 52-week high of $182.19, reflecting lingering AI-trade rotation overhang and risk that BofA data showing slowing June e-commerce ad growth signals broader GMV deceleration"
+        "2026 is a trough production year: AISC guided to $1,680/oz (up sharply from $1,358 in 2025) and gold output declining to 5.3M oz; meaningful earnings recovery is not expected until 2027 and patience is required",
+        "Gold prices remain ~27% below the January 2026 all-time high of ~$5,600/oz; BofA lowered target to $132 from $157 citing cost pressures; catalysts for a sustained gold price recovery are macro-dependent and uncertain near-term"
       ],
       "recommendation": "Buy",
-      "current_price": "$125.68",
-      "price_target": "$150.00 (+19.3%)",
-      "pe_ratio": "117.45",
-      "rsi": "59.53",
-      "vs_52wk_high": "-31.0% below high ($182.19)",
+      "current_price": "$93.10",
+      "price_target": "$137.64 (+47.8%)",
+      "pe_ratio": "14.54",
+      "rsi": "28.8",
+      "vs_52wk_high": "-31.0% below high ($134.88)",
       "analyst_rating": "Buy",
-      "sector": "Technology - E-Commerce Software",
-      "sources": ["Jefferies via Investing.com", "Yahoo Finance", "24/7 Wall St.", "TradingKey", "Blockonomi"],
-      "price_history_5d": [121.04, 123.17, 125.68]
-    },
-    {
-      "ticker": "DECK",
-      "company": "Deckers Outdoor Corporation",
-      "discussion_driver": "Jefferies upgraded Deckers Outdoor to Buy from Hold on July 13, raising its price target to $130 from $110, arguing HOKA's growth deceleration is already priced in and showing early signs of reversal; shares rose ~3.5% on the day. Stifel separately reiterated Buy with a $144 target on the same session, making it a rare dual-upgrade day for DECK during an otherwise bearish consumer discretionary tape.",
-      "bull_case": [
-        "Jefferies and Stifel both bullish on July 13 with targets of $130 and $144 respectively; Deckers posted record FY2026 revenue of $5.47B driven by HOKA and UGG, with medium-term guidance projecting high-single-digit revenue growth and stable 20%+ operating margins",
-        "HOKA is one of the fastest-growing footwear brands globally; DTC channel expansion and international market penetration are still in early innings, providing multi-year runway above and beyond US growth"
-      ],
-      "bear_case": [
-        "HOKA growth slowdown is a genuine structural risk if brand saturation occurs; the core concern driving the prior Hold rating has not fully resolved and requires continued validation in coming quarters",
-        "Consumer discretionary headwinds from tariff uncertainty and macro pressure on discretionary spending could weigh on UGG seasonal demand and HOKA's premium price positioning"
-      ],
-      "recommendation": "Buy",
-      "current_price": "$107.78",
-      "price_target": "$122.45 (+13.6%)",
-      "pe_ratio": "15.70",
-      "rsi": "48.47",
-      "vs_52wk_high": "-14.8% below high ($126.50)",
-      "analyst_rating": "Buy",
-      "sector": "Consumer Discretionary - Footwear",
-      "sources": ["Jefferies via Investing.com", "Yahoo Finance", "24/7 Wall St.", "GuruFocus", "Stifel via Investing.com"],
-      "price_history_5d": [102.22, 104.26, 107.78]
-    },
-    {
-      "ticker": "DIS",
-      "company": "Walt Disney Company",
-      "discussion_driver": "Benchmark initiated Walt Disney at Buy with a $115 price target on July 13, calling it 'one of the world's most powerful consumer engagement platforms' with globally recognized IP monetizable across streaming, sports, parks, cruises, and gaming. DIS rose 1.5% to $97.06 on the news, though shares remain down ~14.6% YTD as the company works through its streaming profitability ramp, ESPN DTC transformation, and Parks growth normalization heading into a major earnings cycle.",
-      "bull_case": [
-        "Benchmark Buy initiation adds to an 83% buy consensus across 36 analysts with an average target of $134.18 — implying ~38% upside — while the stock trades at just 16.4x trailing earnings, significantly below its historical average",
-        "Disney's streaming segment is now profitable; the Experiences/Parks business is a cash-generative anchor, and the ESPN DTC launch represents a potential multi-billion-dollar value unlock not yet reflected in current prices"
-      ],
-      "bear_case": [
-        "DIS is -22.1% from its 52-week high and faces persistent headwinds: cord-cutting, rising content production costs, and consumer fatigue in the Parks segment as post-COVID revenge-spending normalizes",
-        "RSI of 49.3 is neutral with no strong technical momentum; the stock needs to reclaim $100 to confirm a sustained recovery, and macro risks from US-Iran tensions could dampen consumer confidence and Parks bookings"
-      ],
-      "recommendation": "Buy",
-      "current_price": "$97.06",
-      "price_target": "$134.18 (+38.2%)",
-      "pe_ratio": "16.43",
-      "rsi": "49.28",
-      "vs_52wk_high": "-22.1% below high ($124.61)",
-      "analyst_rating": "Buy",
-      "sector": "Communication Services - Entertainment",
-      "sources": ["Benchmark via Investing.com", "Yahoo Finance", "Schaeffer's Investment Research", "Benzinga"],
-      "price_history_5d": [95.62, 97.06]
-    },
-    {
-      "ticker": "PZZA",
-      "company": "Papa John's International",
-      "discussion_driver": "Bank of America downgraded Papa John's to Underperform from Neutral on July 13, cutting its price target to $34 from $42, citing the recent CFO departure, intensifying competitive pressure from Domino's and Pizza Hut, and limited near-term recovery visibility following weaker-than-expected Q1 2026 results (EPS $0.32 vs. $0.37 consensus). Shares fell ~1.9% premarket to $32.76, approaching the lower end of the 52-week range; BofA's $34 target implies essentially zero upside from current levels.",
-      "bull_case": [
-        "Stock trades near multi-year lows — close to the 52-week floor of $29.55 — suggesting much bad news is already priced in; remaining Buy-rated analysts see potential franchise royalty recovery as the new CEO implements a turnaround",
-        "International franchise expansion continues to add royalty revenue independent of US same-store sales struggles; any stabilization in domestic comps could trigger a meaningful re-rating"
-      ],
-      "bear_case": [
-        "BofA Underperform downgrade on July 13 reflects serious structural deterioration: CFO departure adds leadership uncertainty on top of persistent execution challenges and a broken turnaround narrative",
-        "P/E of ~38.7x is elevated for a QSR chain with declining US same-store sales; stock is -41.2% from its 52-week high with no near-term catalysts and mounting competitive headwinds in the heavily promotional pizza category"
-      ],
-      "recommendation": "Sell",
-      "current_price": "$32.76",
-      "price_target": "$37.90 (+15.7%)",
-      "pe_ratio": "38.68",
-      "rsi": "N/A",
-      "vs_52wk_high": "-41.2% below high ($55.74)",
-      "analyst_rating": "Hold",
-      "sector": "Consumer Discretionary - Restaurants / QSR",
-      "sources": ["Bank of America via Seeking Alpha", "Yahoo Finance", "GuruFocus", "StockStory", "WallStreetZen"],
-      "price_history_5d": [33.49, 32.76]
+      "sector": "Materials - Gold Mining",
+      "sources": ["24/7 Wall St.", "TD Cowen via Investing.com", "Jefferies", "BofA", "Motley Fool", "GuruFocus", "Seeking Alpha"],
+      "price_history_5d": [94.81, 95.29, 93.10]
     }
   ]
 }
