@@ -1,159 +1,164 @@
 {
-  "report_date": "2026-07-14",
+  "report_date": "2026-07-15",
   "market_tone": "Mixed",
   "key_themes": [
-    "Q2 earnings season opens: banks beat broadly, IBM delivers massive miss",
-    "June CPI cools to 3.5% (vs. 3.8% expected), reducing Fed rate-hike odds",
-    "Software sector rout \u2014 IBM contagion drags Workday, Salesforce, Oracle sharply lower"
+    "AI hardware budget shift crushes IBM, dragging software/consulting sector",
+    "China memory chip competition sparks Micron selloff, pulls AMD, Intel, Marvell lower",
+    "PayPal M&A surge on $53B Stripe/Advent takeover report; Apple AI approval in China hits record high"
   ],
   "sp500": {
-    "value": "7,543.59",
+    "value": "7,572.40",
     "change": "+0.38%"
   },
   "nasdaq": {
-    "value": "26,107.01",
-    "change": "+0.90%"
+    "value": "26,269.23",
+    "change": "+0.62%"
   },
   "stocks": [
     {
       "ticker": "IBM",
       "company": "International Business Machines",
-      "reason": "Tumbled ~25% \u2014 worst single-day drop on record \u2014 after Q2 revenue of $17.2B missed the $17.9B estimate; blamed soft demand in software and infrastructure as customers prioritize AI chips/servers. HSBC downgraded to Reduce, cut target to $191.",
+      "reason": "Stock crashed ~25% Tuesday (worst day since 1968) after Q2 revenue warning: $17.2B vs $17.86B estimate; CEO cited clients shifting capex from IBM software to AI hardware/chips. Recovering slightly Wednesday; Oppenheimer downgraded.",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "Bloomberg",
+        "Yahoo Finance",
+        "MoneyMorning",
         "24/7 Wall St."
       ]
     },
     {
-      "ticker": "GS",
-      "company": "Goldman Sachs",
-      "reason": "Surged ~7% after blowout Q2 earnings of $20.98/share vs. $14.48 consensus; revenue of $20.34B beat the $16.13B estimate by a wide margin.",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "TheStreet"
-      ]
-    },
-    {
-      "ticker": "CLSK",
-      "company": "CleanSpark",
-      "reason": "Surged ~11% after announcing a 20-year data center lease in Georgia totaling $6.6 billion in contracted revenue.",
+      "ticker": "PYPL",
+      "company": "PayPal Holdings",
+      "reason": "Surged ~17% on report that Stripe and Advent International made a $60.50/share (~$53B) takeover bid, nearly 28% above prior close; trading volume 446% above average.",
       "category": "news",
       "sources": [
-        "CNBC",
-        "Bloomberg"
+        "Motley Fool",
+        "Yahoo Finance",
+        "GuruFocus"
       ]
     },
     {
-      "ticker": "HCA",
-      "company": "HCA Healthcare",
-      "reason": "Fell >7% after cutting full-year EPS guidance to $28.70\u2013$30.50, down from prior range of $29.10\u2013$31.50, citing cost pressures.",
-      "category": "earnings",
+      "ticker": "AAPL",
+      "company": "Apple Inc.",
+      "reason": "Gained ~4% to notch a new all-time high after report that Apple received Chinese regulatory approval to launch generative AI features in China, a key growth market.",
+      "category": "news",
       "sources": [
+        "Yahoo Finance",
         "CNBC",
         "TheStreet"
       ]
     },
     {
-      "ticker": "JPM",
-      "company": "JPMorgan Chase",
-      "reason": "Rose ~2% on Q2 EPS of $6.14 (ex-items) vs. $5.59 expected; Q2 net profit of $16.9B; managed revenue of $58B beat estimates.",
+      "ticker": "BLK",
+      "company": "BlackRock",
+      "reason": "Rose 7%+ on Q2 earnings beat \u2014 AUM, ETF inflows, and fee income topped expectations. On pace for best single day in over a year.",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "TheStreet",
-        "Bloomberg"
+        "Yahoo Finance"
       ]
     },
     {
-      "ticker": "BAC",
-      "company": "Bank of America",
-      "reason": "Gained ~2% after Q2 EPS of $1.21 beat the $1.13 consensus; strong trading revenue drove outperformance.",
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "reason": "Fell ~8% after a report on Chinese memory chipmakers raised fears of intensifying competition, dragging the broader semiconductor group lower.",
+      "category": "sector",
+      "sources": [
+        "24/7 Wall St.",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "ASML",
+      "company": "ASML Holding",
+      "reason": "Q2 earnings beat with \u20ac9.3B net sales and \u20ac2.9B net income; raised full-year 2026 sales outlook to \u20ac43-45B and gross margin guidance to 54-56% (from 51-53%). Shares jumped in premarket.",
       "category": "earnings",
       "sources": [
+        "CNBC",
+        "SEC/6-K",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "CRWD",
+      "company": "CrowdStrike Holdings",
+      "reason": "Surged ~9.4% after Benzinga analysts forecast a 12%+ rally; bullish momentum driven by cybersecurity demand and positive analyst attention on Wednesday.",
+      "category": "upgrade",
+      "sources": [
+        "Benzinga",
         "CNBC"
       ]
     },
     {
-      "ticker": "WDAY",
-      "company": "Workday",
-      "reason": "Dropped ~10% in sympathy with IBM's software miss; investors fear broad enterprise software demand weakness heading into Q2 earnings season.",
+      "ticker": "AMD",
+      "company": "Advanced Micro Devices",
+      "reason": "Dropped 5%+ in sympathy with Micron on China memory competition fears, part of a broad semiconductor sector selloff hitting memory and chip names.",
       "category": "sector",
       "sources": [
-        "Bloomberg",
+        "24/7 Wall St.",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "SPCX",
+      "company": "SpaceX",
+      "reason": "Fell below $135 IPO price for the first time, down ~34% from post-IPO highs; fourth consecutive down session after joining Nasdaq-100 last week.",
+      "category": "news",
+      "sources": [
+        "TheStreet",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "ELV",
+      "company": "Elevance Health",
+      "reason": "Tumbled ~7% despite reporting Q2 revenue above consensus and raising full-year EPS guidance; market interpreted results negatively on margin pressures.",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "YUM",
+      "company": "Yum! Brands",
+      "reason": "On pace for worst week of 2026, down 5%+ this week after a cyclospora outbreak linked to KFC and Taco Bell locations rattled investors and raised food-safety liability concerns.",
+      "category": "news",
+      "sources": [
+        "Yahoo Finance",
+        "TheStreet"
+      ]
+    },
+    {
+      "ticker": "UAL",
+      "company": "United Airlines Holdings",
+      "reason": "Reported Q2 2026 earnings with revenue per available seat mile up 12.1% YoY; guided for even stronger growth in H2 2026 on strong international demand.",
+      "category": "earnings",
+      "sources": [
+        "Yahoo Finance",
+        "GuruFocus",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "MS",
+      "company": "Morgan Stanley",
+      "reason": "Reported Q2 earnings highlighted by wealth management inflows and investment banking fee recovery; shares moved on results as part of the ongoing bank earnings cycle.",
+      "category": "earnings",
+      "sources": [
+        "Yahoo Finance",
         "CNBC"
       ]
     },
     {
       "ticker": "CRM",
       "company": "Salesforce",
-      "reason": "Fell ~6.2% on IBM contagion selloff in enterprise software sector; iShares Tech-Software ETF (IGV) dropped ~4.5% on the day.",
+      "reason": "Sold off in sympathy with IBM as investors worried that AI hardware budget shifts will reduce enterprise software spending across the sector; Workday and Adobe also affected.",
       "category": "sector",
       "sources": [
-        "Bloomberg"
-      ]
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "reason": "KeyBanc downgraded to Underweight with a $250 target on weaker iPhone sales outlook and declining U.S. carrier subsidies; stock still near all-time highs approaching Nvidia in market cap race.",
-      "category": "downgrade",
-      "sources": [
-        "CNBC",
-        "24/7 Wall St.",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "reason": "Rose ~3.5% as cooler CPI data boosted growth stocks; Evercore flagged Nvidia as a \"beat-and-raise\" candidate ahead of earnings; Barclays initiated SK Hynix (SKHY) at Overweight citing AI memory demand benefiting the entire ecosystem.",
-      "category": "sector",
-      "sources": [
-        "CNBC",
-        "Benzinga",
-        "TradingKey"
-      ]
-    },
-    {
-      "ticker": "NFLX",
-      "company": "Netflix",
-      "reason": "Slid ~3.2% on subscriber engagement concerns; Evercore bullish ahead of Q2 print, citing depressed sentiment, elevated short interest, and intact fundamentals as a setup for a beat.",
-      "category": "news",
-      "sources": [
-        "Benzinga",
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "WFC",
-      "company": "Wells Fargo",
-      "reason": "Fell ~3% despite Q2 EPS of $2.00 beating the $1.72 estimate on revenue of $22.62B; investors focused on net interest income guidance concerns.",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "TheStreet"
-      ]
-    },
-    {
-      "ticker": "HAL",
-      "company": "Halliburton",
-      "reason": "Upgraded to Overweight from Neutral at Piper Sandler with a $43 price target ($40 prior); oilfield services demand seen resilient despite energy price volatility.",
-      "category": "upgrade",
-      "sources": [
-        "24/7 Wall St.",
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "NEM",
-      "company": "Newmont",
-      "reason": "Upgraded to Buy from Hold at TD Cowen with a $127 price target; gold producer seen benefiting from lower real yields following the CPI surprise.",
-      "category": "upgrade",
-      "sources": [
-        "24/7 Wall St."
+        "Yahoo Finance",
+        "MoneyMorning"
       ]
     }
   ]
