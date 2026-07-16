@@ -1,121 +1,121 @@
 {
-  "report_date": "2026-07-14",
+  "report_date": "2026-07-15",
   "batch": 2,
   "stocks": [
     {
-      "ticker": "BAC",
-      "company": "Bank of America Corp.",
-      "discussion_driver": "Bank of America surged in early trading after reporting Q2 2026 EPS of $1.21, beating the $1.13 consensus, with record equities trading revenue up 69.9% YoY and net revenue of $31.6B (+15% YoY) topping estimates. Profit jumped 27% to $9.1B driven by a 33% surge in sales and trading—the bank's 17th consecutive quarter of trading improvement. The stock climbed ~2% on the Q2 beat but remains technically overbought with RSI near 75.",
+      "ticker": "ASML",
+      "company": "ASML Holding N.V.",
+      "discussion_driver": "ASML surged on Q2 2026 earnings that beat estimates with €9.3B net sales and €2.9B net income, leading management to raise its full-year 2026 revenue outlook to €43-45B and gross margin guidance to 54-56% — the second guidance hike this year. As the world's sole supplier of EUV lithography machines critical to advanced AI chip manufacturing, the beat reinforced ASML's monopoly pricing power. Bernstein set a Street-high target of $2,623, joining a consensus of 44 analysts at Strong Buy.",
       "bull_case": [
-        "Record equities trading revenue (+69.9% YoY, $7.16B) and 17th consecutive quarter of trading gains signal durable investment banking strength sustainable even in a rate-cut environment",
-        "Diversified revenue across retail banking, investment banking, and trading reduces single-point-of-failure risk; NII expected to expand as loan demand recovers"
+        "Undisputed monopoly on EUV lithography machines — every leading-edge chip (TSMC, Samsung, Intel) requires ASML equipment, creating durable pricing power and multi-year backlog visibility.",
+        "Q2 2026 earnings beat drove a second guidance raise this year; AI-driven semiconductor capacity build-out is accelerating order intake with no credible competitor in sight."
       ],
       "bear_case": [
-        "RSI of 74.73 signals overbought territory with the stock at all-time closing highs; a technical pullback after the earnings pop is a real near-term risk",
-        "Looming Fed rate cuts threaten net interest margin compression; elevated operating expenses could weigh on profitability if trading volumes normalize"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$60.34",
-      "price_target": "$69.86 (+15.8%)",
-      "pe_ratio": "14.7",
-      "rsi": "74.73",
-      "vs_52wk_high": "-1.4% below high ($61.21)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Financials - Banking",
-      "sources": ["CNBC", "TipRanks", "MarketBeat", "QZ", "TradingView", "StockAnalysis.com", "Keefe Bruyette"],
-      "price_history_5d": [59.90, 59.67, 60.34]
-    },
-    {
-      "ticker": "WDAY",
-      "company": "Workday, Inc.",
-      "discussion_driver": "Workday dropped ~10% in sympathy with IBM's massive Q2 software revenue miss, which rattled the entire enterprise software sector. Investors fear IBM's cautionary signal on delayed deal closings reflects a broader pullback in enterprise IT spending—even though Workday's HR and finance automation software serves a fundamentally different buyer than IBM's legacy infrastructure. Structural concern that AI may erode the SaaS seat-based pricing model compounded the selling.",
-      "bull_case": [
-        "Workday's core HR and financial management software serves a distinct demand profile from IBM's legacy IT consulting; the sympathy selloff is likely an overreaction that creates a better entry point ahead of Workday's own earnings",
-        "AI-native product roadmap (Illuminate platform) positions WDAY to monetize workforce automation tailwinds via upsell and expansion revenue within its existing installed base"
-      ],
-      "bear_case": [
-        "IBM's warning of failed deal closings may reflect genuine enterprise software budget fatigue that could hurt Workday's Q2 results; guidance could be cut at the next earnings print",
-        "AI automation threatens the per-seat SaaS pricing model long-term; if HR functions are replaced by AI agents, Workday's addressable market and pricing power could structurally compress"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$139.81",
-      "price_target": "$202.50 (+44.8%)",
-      "pe_ratio": "25.92",
-      "rsi": "N/A",
-      "vs_52wk_high": "-49.3% below high ($276.00)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Enterprise Software",
-      "sources": ["Bloomberg", "CNBC", "TradingPedia", "MarketBeat", "StockStory", "Seeking Alpha"],
-      "price_history_5d": []
-    },
-    {
-      "ticker": "CRM",
-      "company": "Salesforce, Inc.",
-      "discussion_driver": "Salesforce fell ~6.2% as IBM's software miss triggered contagion across enterprise software, dragging the iShares Tech-Software ETF (IGV) down ~4.5% on the day. Despite no company-specific negative news, CRM bore the brunt of sympathy selling as the bellwether for cloud/SaaS. The stock is now down ~37% year-to-date at multi-year discount valuations, with analysts split between an Agentforce AI bull thesis and a structural bear view on seat-model disruption.",
-      "bull_case": [
-        "Agentforce ARR reached $1.2B (+205% YoY in Q1 FY2027), demonstrating that Salesforce is monetizing AI agents at scale and beginning to replace lost seat revenue with higher-margin consumption-based AI revenue",
-        "At ~39% below its 52-week high with a trailing P/E of only 15x, CRM offers deep-value entry for long-term investors if Agentforce adoption continues to accelerate"
-      ],
-      "bear_case": [
-        "Bank of America has an Underperform rating with a $160 price target; Agentforce could cannibalize existing seat licenses before AI revenue offsets the loss, creating a near-term revenue air pocket",
-        "Stock has already fallen 37% YTD; Jim Cramer warned 'cheap can still get cheaper' and sector multiple compression following IBM's miss could extend the downtrend before a catalyst emerges"
-      ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$167.56",
-      "price_target": "$245.60 (+46.6%)",
-      "pe_ratio": "15.08",
-      "rsi": "N/A",
-      "vs_52wk_high": "-38.8% below high ($274.00)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Enterprise Software / CRM",
-      "sources": ["Bloomberg", "CNBC", "24/7 Wall St.", "Guggenheim", "MoneyMorning", "StockAnalysis.com", "TheStreet"],
-      "price_history_5d": [163.32, 171.22, 167.56]
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple Inc.",
-      "discussion_driver": "Apple dipped ~1% after KeyBanc Capital Markets issued a rare Underweight downgrade with a $250 price target (implying ~21% downside), citing slowing U.S. carrier subsidies and weakening hardware demand signals. Analyst Branden Neiswender's proprietary index showed U.S. smartphone spending down 2% MoM in June versus the 3-year average of +9% growth. The downgrade came as the stock was near all-time highs, with FY26 iPhone revenue seen up 23% but FY27 expected to decelerate sharply to only 4.9% growth.",
-      "bull_case": [
-        "Apple Intelligence (iOS AI features) and the anticipated iPhone 18 AI-driven upgrade cycle represent the biggest hardware refresh catalyst in years; Services revenue growing ~14% YoY provides a high-margin recurring revenue floor",
-        "With market cap approaching Nvidia's, Apple's ecosystem of 2.2B active devices creates an unmatched switching-cost moat; durable free cash flow generation supports continued buybacks and dividend growth"
-      ],
-      "bear_case": [
-        "KeyBanc's $250 target implies 21% downside; the 2% MoM decline in U.S. carrier subsidies signals pricing power erosion in Apple's most important iPhone market just as the stock sits near record highs",
-        "Elevated P/E of 38x leaves minimal margin for error; any FY27 iPhone guidance miss or Services growth deceleration could trigger meaningful multiple compression from current elevated levels"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$313.05",
-      "price_target": "$316.76 (+1.2%)",
-      "pe_ratio": "38.22",
-      "rsi": "N/A",
-      "vs_52wk_high": "-3.2% below high ($323.45)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Consumer Electronics",
-      "sources": ["CNBC", "Bloomberg", "Benzinga", "Gurufocus", "Seeking Alpha", "MarketScreener", "Invezz", "24/7 Wall St."],
-      "price_history_5d": [315.32, 313.05]
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA Corporation",
-      "discussion_driver": "Nvidia rose ~3.5% as cooler-than-expected June CPI (3.5% vs. 3.8% forecast) boosted AI growth stocks broadly. Evercore flagged NVDA as a 'beat-and-raise' candidate ahead of its upcoming earnings, citing extraordinary Blackwell Ultra demand. Separately, NVDA disclosed it has halved its list of approved Asian AI chip buyers, removing entities in Singapore, Malaysia, and Japan suspected of routing chips to China via shell companies. Q2 FY2027 guidance of $91B already excludes all Chinese data center compute.",
-      "bull_case": [
-        "Evercore's beat-and-raise setup is supported by Q2 FY2027 guidance of $91B (vs. $46.7B in Q2 FY2026); Blackwell Ultra production is ramping at full speed with demand described as 'extraordinary,' and analyst consensus points to +47% upside to a $301 target",
-        "NVDA's trailing P/E of 32x is 39% below its 10-year median of 52x; compressed valuation combined with dominant AI chip market position makes NVDA unusually cheap relative to its growth trajectory"
-      ],
-      "bear_case": [
-        "Asia customer whitelist cuts removed more than half of approved Southeast Asian buyers; escalating U.S. export controls could further shrink NVDA's addressable market beyond the current China compute exclusion",
-        "Consensus target of $301 assumes 50%+ continued revenue growth; any sign of hyperscaler capex fatigue or GPU oversupply from AMD or custom silicon (Google TPU, Amazon Trainium) could break the beat-and-raise streak"
+        "Trailing P/E near 57x (well above its 10-year average of ~36x) leaves the stock vulnerable to multiple compression if AI capex spending slows or the chip cycle turns.",
+        "U.S.-China export restrictions limit ASML's ability to sell advanced EUV systems in China, constraining a significant portion of the global semiconductor TAM."
       ],
       "recommendation": "Buy",
-      "current_price": "$204.59",
-      "price_target": "$301.62 (+47.4%)",
-      "pe_ratio": "32.43",
-      "rsi": "49.89",
-      "vs_52wk_high": "-13.5% below high ($236.54)",
+      "current_price": "$1,783.00",
+      "price_target": "$1,997.00 (+12.0%)",
+      "pe_ratio": "57.19",
+      "rsi": "62.4",
+      "vs_52wk_high": "-10.8% below high ($1,999.96)",
       "analyst_rating": "Strong Buy",
-      "sector": "Technology - Semiconductors / AI Infrastructure",
-      "sources": ["CNBC", "Evercore", "Benzinga", "TradingKey", "Seeking Alpha", "YCharts", "Gurufocus", "Investing.com"],
-      "price_history_5d": [210.96, 203.53, 204.59]
+      "sector": "Technology - Semiconductor Equipment",
+      "sources": ["CNBC", "Yahoo Finance", "GuruFocus", "MarketBeat", "FX Leaders", "Bernstein", "TipRanks"],
+      "price_history_5d": [1797.32, 1750.75, 1726.04, 1775.64, 1783.00]
+    },
+    {
+      "ticker": "CRWD",
+      "company": "CrowdStrike Holdings",
+      "discussion_driver": "CrowdStrike surged ~10.5% on Tuesday (July 14) as part of a broad cybersecurity rally tied to cooling inflation data, with Palo Alto rising 7% the same session. The stock hit a new all-time high of $217.50 intraday on Wednesday before fading to close at $205.57. Bullish analyst target hikes from BTIG ($237), UBS ($235), and Benchmark ($230) — all citing AI-driven security demand expansion — fueled momentum following the company's 4-for-1 stock split effective July 2.",
+      "bull_case": [
+        "AI-native security platform is gaining wallet share as enterprises consolidate vendors; expanding Falcon platform modules drive net revenue retention above 120%, supporting durable growth.",
+        "Multiple analyst upgrades with post-split targets up to $237 (BTIG) signal Wall Street conviction; cybersecurity budgets are counter-cyclical to broad IT spending slowdowns."
+      ],
+      "bear_case": [
+        "RSI at 82.57 signals deeply overbought conditions; stock faded from its $217.50 intraday ATH to close at $205.57, suggesting near-term profit-taking pressure.",
+        "GAAP trailing P/E is effectively unmeasurable (~2,200x) on barely positive earnings; any macro-driven de-rating of high-multiple software names would hit CRWD hard."
+      ],
+      "recommendation": "Hold",
+      "current_price": "$205.57",
+      "price_target": "$230.00 (+11.9%)",
+      "pe_ratio": "N/A",
+      "rsi": "82.57",
+      "vs_52wk_high": "-5.5% below high ($217.50)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Information Technology - Cybersecurity",
+      "sources": ["Benzinga", "MarketBeat", "GuruFocus", "TipRanks", "BTIG", "UBS", "Benchmark"],
+      "price_history_5d": [198.40, 187.31, 187.91, 207.63, 205.57]
+    },
+    {
+      "ticker": "AMD",
+      "company": "Advanced Micro Devices",
+      "discussion_driver": "AMD fell ~6% on July 15 in sympathy with Micron after a report on Chinese memory chipmaker competition stoked fears of price pressure across the broader semiconductor sector, dragging AMD, Intel, and Marvell lower. The selloff came despite AMD being up roughly 160% year-to-date and unrelated to any company-specific news. Wall Street maintained its bullish stance — KeyBanc issued a Street-high $725 target (raised July 14), Goldman Sachs raised to $640, and BofA raised to $620 — suggesting analysts view the dip as a macro-driven overreaction.",
+      "bull_case": [
+        "MI300X GPU is gaining AI inference market share against Nvidia; expanding data center GPU revenue with a deep pipeline of MI400-series chips supports a multi-year AI hardware growth narrative.",
+        "Analyst conviction is unusually strong: 35 of 46 covering analysts rate Strong Buy, with the Street-high target of $725 from KeyBanc implying over 40% upside from current levels."
+      ],
+      "bear_case": [
+        "Trailing P/E near 149x leaves AMD highly exposed to sentiment swings; China semiconductor competition fears can trigger sharp selloffs regardless of AMD's direct exposure, as seen today.",
+        "AMD's GPU roadmap faces intensifying competition from Nvidia's Blackwell architecture; any execution stumble on MI400 could rapidly erode recent AI market share gains."
+      ],
+      "recommendation": "Buy",
+      "current_price": "$515.00",
+      "price_target": "$538.19 (+4.5%)",
+      "pe_ratio": "149.24",
+      "rsi": "57.68",
+      "vs_52wk_high": "-11.9% below high ($584.73)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Information Technology - Semiconductors",
+      "sources": ["Yahoo Finance", "24/7 Wall St.", "MarketBeat", "GuruFocus", "KeyBanc", "Goldman Sachs", "TipRanks"],
+      "price_history_5d": [557.89, 559.77, 534.39, 548.13, 515.00]
+    },
+    {
+      "ticker": "SPCX",
+      "company": "Space Exploration Technologies Corp. (SpaceX)",
+      "discussion_driver": "SpaceX closed below its $135 IPO price for the first time on July 15, marking a fourth consecutive down session and a 40% decline from its June 16 all-time high of $225.64. The selloff has been driven by a pending lawsuit over the Colossus 2 data center contract that threatens SpaceX's $45B Anthropic compute agreement, combined with concerns about an approaching insider selling window. Despite the technical breakdown, 28 of 29 covering analysts maintain Buy ratings with an average target near $241 — implying ~78% upside — citing Starlink subscriber growth and launch business economics.",
+      "bull_case": [
+        "Analyst consensus of ~$241 average target (78%+ upside) reflects long-term confidence in Starlink's global broadband growth and launch vehicle economics; Morgan Stanley alone carries a $300 target.",
+        "SpaceX holds a dominant market position in commercial launch with Falcon 9 and Starship; no credible near-term competitor threatens its commercial or government launch contract base."
+      ],
+      "bear_case": [
+        "Company is unprofitable (trailing EPS -$2.94, P/E N/A) with limited earnings history as a public company; the Colossus 2 lawsuit could impair the $45B Anthropic data-center contract, a major revenue driver.",
+        "Insider selling window is approaching post-IPO lockup; stock has breached its IPO price with RSI in deeply oversold territory, signaling potential further capitulation before stabilization."
+      ],
+      "recommendation": "Speculative Buy",
+      "current_price": "$135.27",
+      "price_target": "$241.00 (+78.2%)",
+      "pe_ratio": "N/A",
+      "rsi": "30",
+      "vs_52wk_high": "-40.1% below high ($225.64)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Industrials - Aerospace & Defense",
+      "sources": ["CNBC", "TheStreet", "MarketBeat", "TipRanks", "StockAnalysis", "Morgan Stanley", "Yahoo Finance"],
+      "price_history_5d": [167.00, 145.30, 139.14, 136.08, 135.27]
+    },
+    {
+      "ticker": "ELV",
+      "company": "Elevance Health",
+      "discussion_driver": "Elevance Health fell ~8% on July 15 despite reporting a strong Q2 2026 earnings beat: adjusted EPS of $7.45 came in roughly 20% above consensus and revenue topped estimates by 2-4%. The market focused on ongoing Medicaid margin pressure — management characterized 2026 as a 'trough year' — and noted that ~$0.80/share of the EPS beat reflected non-recurring investment income adjustments. Nevertheless, Bernstein ($482), Barclays ($480), JPMorgan ($476), and Mizuho ($465) all raised price targets post-results, with full-year EPS guidance lifted to at least $27.00.",
+      "bull_case": [
+        "RSI of 28.95 places ELV in deeply oversold territory; the selloff appears overdone given a 20% adj. EPS beat and multiple analyst price target upgrades from major firms to the $460-$482 range.",
+        "Full-year 2026 EPS guidance raised to $27.00+ despite Medicaid headwinds; once the margin trough is confirmed, managed care multiples typically re-rate sharply higher."
+      ],
+      "bear_case": [
+        "Medicaid margin pressure is structural and could persist beyond 2026 if states do not increase reimbursement rates; ~$0.80/share of today's EPS beat was non-recurring, reducing quality of earnings.",
+        "Market's -8% reaction to a headline earnings beat signals deep skepticism; renewed government scrutiny of managed care billing practices adds a regulatory overhang to recovery."
+      ],
+      "recommendation": "Buy",
+      "current_price": "$391.41",
+      "price_target": "$435.05 (+11.2%)",
+      "pe_ratio": "16.72",
+      "rsi": "28.95",
+      "vs_52wk_high": "-8.5% below high ($427.64)",
+      "analyst_rating": "Buy",
+      "sector": "Health Care - Managed Care",
+      "sources": ["Yahoo Finance", "Benzinga", "GuruFocus", "Investing.com", "Bernstein", "JPMorgan", "Barclays"],
+      "price_history_5d": [420.39, 416.23, 417.89, 426.79, 391.41]
     }
   ]
 }
