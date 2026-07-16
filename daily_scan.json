@@ -1,164 +1,167 @@
 {
-  "report_date": "2026-07-15",
-  "market_tone": "Mixed",
+  "report_date": "2026-07-16",
+  "market_tone": "Bearish",
   "key_themes": [
-    "AI hardware budget shift crushes IBM, dragging software/consulting sector",
-    "China memory chip competition sparks Micron selloff, pulls AMD, Intel, Marvell lower",
-    "PayPal M&A surge on $53B Stripe/Advent takeover report; Apple AI approval in China hits record high"
+    "Semiconductor sell-off on AI capex overhang \u2014 TSMC raised CapEx to $60-64B despite Q2 beat, dragging chip sector down 3%+",
+    "Alphabet loses $200B market cap as Bloomberg reports Gemini 3.5 Pro is months behind schedule with key DeepMind talent departing",
+    "Strong diversified earnings from UnitedHealth, United Airlines, J.B. Hunt, and BlackRock provide pockets of strength amid tech weakness",
+    "Oil tops $80/barrel for 4th consecutive session as US airstrikes on Iranian military sites escalate Strait of Hormuz supply fears",
+    "Wave of analyst actions: Capital One upgrades PANW and OKTA in cybersecurity; Truist slaps Sell on Lululemon"
   ],
   "sp500": {
-    "value": "7,572.40",
-    "change": "+0.38%"
+    "value": "7,533.77",
+    "change": "-0.51%"
   },
   "nasdaq": {
-    "value": "26,269.23",
-    "change": "+0.62%"
+    "value": "25,881.95",
+    "change": "-1.47%"
   },
   "stocks": [
     {
-      "ticker": "IBM",
-      "company": "International Business Machines",
-      "reason": "Stock crashed ~25% Tuesday (worst day since 1968) after Q2 revenue warning: $17.2B vs $17.86B estimate; CEO cited clients shifting capex from IBM software to AI hardware/chips. Recovering slightly Wednesday; Oppenheimer downgraded.",
+      "ticker": "TSM",
+      "company": "Taiwan Semiconductor Manufacturing",
+      "reason": "Fell ~4% despite Q2 earnings beat; raised full-year capex guidance to $60-64B (from $52-56B prior range), sparking a 3%+ decline in the broader semiconductor index on AI spending concerns",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "Yahoo Finance",
-        "MoneyMorning",
-        "24/7 Wall St."
+        "Bloomberg"
       ]
     },
     {
-      "ticker": "PYPL",
-      "company": "PayPal Holdings",
-      "reason": "Surged ~17% on report that Stripe and Advent International made a $60.50/share (~$53B) takeover bid, nearly 28% above prior close; trading volume 446% above average.",
+      "ticker": "UNH",
+      "company": "UnitedHealth Group",
+      "reason": "Surged 7%+ in early trading after massive Q2 beat: adj. EPS $6.38 vs. $4.90 estimate on revenue of $112.03B vs. $110.85B expected; company raised full-year earnings outlook",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet",
+      "reason": "Dropped 4.4%, erasing ~$200B in market cap, after Bloomberg reported Gemini 3.5 Pro is months behind schedule and key DeepMind researchers including Transformer co-inventor Noam Shazeer have departed for rivals",
       "category": "news",
       "sources": [
-        "Motley Fool",
-        "Yahoo Finance",
-        "GuruFocus"
-      ]
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple Inc.",
-      "reason": "Gained ~4% to notch a new all-time high after report that Apple received Chinese regulatory approval to launch generative AI features in China, a key growth market.",
-      "category": "news",
-      "sources": [
-        "Yahoo Finance",
+        "Bloomberg",
         "CNBC",
-        "TheStreet"
+        "Investing.com"
       ]
     },
     {
-      "ticker": "BLK",
-      "company": "BlackRock",
-      "reason": "Rose 7%+ on Q2 earnings beat \u2014 AUM, ETF inflows, and fee income topped expectations. On pace for best single day in over a year.",
+      "ticker": "JBHT",
+      "company": "J.B. Hunt Transport Services",
+      "reason": "Jumped ~7% after Q2 EPS of $1.73 beat estimates by $0.18; management cited accelerating intermodal demand throughout the quarter, with revenue of $3.5B in line with expectations",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "Yahoo Finance"
+        "Bloomberg"
       ]
     },
     {
-      "ticker": "MU",
-      "company": "Micron Technology",
-      "reason": "Fell ~8% after a report on Chinese memory chipmakers raised fears of intensifying competition, dragging the broader semiconductor group lower.",
-      "category": "sector",
-      "sources": [
-        "24/7 Wall St.",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "ASML",
-      "company": "ASML Holding",
-      "reason": "Q2 earnings beat with \u20ac9.3B net sales and \u20ac2.9B net income; raised full-year 2026 sales outlook to \u20ac43-45B and gross margin guidance to 54-56% (from 51-53%). Shares jumped in premarket.",
+      "ticker": "GE",
+      "company": "GE Aerospace",
+      "reason": "Fell ~4% despite Q2 beat (adj. EPS $2.02 vs. $1.86 est., revenue $12.63B vs. $11.86B est.); raised full-year adj. EPS to $7.65-$7.85 and guided high-teens revenue growth, but elevated capex outlook weighed on shares",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "SEC/6-K",
-        "Yahoo Finance"
+        "Yahoo Finance",
+        "Qz.com"
       ]
     },
     {
-      "ticker": "CRWD",
-      "company": "CrowdStrike Holdings",
-      "reason": "Surged ~9.4% after Benzinga analysts forecast a 12%+ rally; bullish momentum driven by cybersecurity demand and positive analyst attention on Wednesday.",
-      "category": "upgrade",
+      "ticker": "ABT",
+      "company": "Abbott Laboratories",
+      "reason": "Rose ~4% after Q2 EPS slightly topped estimates and company raised fiscal 2026 EPS guidance; medical devices segment showed continued momentum",
+      "category": "earnings",
       "sources": [
-        "Benzinga",
         "CNBC"
-      ]
-    },
-    {
-      "ticker": "AMD",
-      "company": "Advanced Micro Devices",
-      "reason": "Dropped 5%+ in sympathy with Micron on China memory competition fears, part of a broad semiconductor sector selloff hitting memory and chip names.",
-      "category": "sector",
-      "sources": [
-        "24/7 Wall St.",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "SPCX",
-      "company": "SpaceX",
-      "reason": "Fell below $135 IPO price for the first time, down ~34% from post-IPO highs; fourth consecutive down session after joining Nasdaq-100 last week.",
-      "category": "news",
-      "sources": [
-        "TheStreet",
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "ELV",
-      "company": "Elevance Health",
-      "reason": "Tumbled ~7% despite reporting Q2 revenue above consensus and raising full-year EPS guidance; market interpreted results negatively on margin pressures.",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "YUM",
-      "company": "Yum! Brands",
-      "reason": "On pace for worst week of 2026, down 5%+ this week after a cyclospora outbreak linked to KFC and Taco Bell locations rattled investors and raised food-safety liability concerns.",
-      "category": "news",
-      "sources": [
-        "Yahoo Finance",
-        "TheStreet"
       ]
     },
     {
       "ticker": "UAL",
       "company": "United Airlines Holdings",
-      "reason": "Reported Q2 2026 earnings with revenue per available seat mile up 12.1% YoY; guided for even stronger growth in H2 2026 on strong international demand.",
+      "reason": "Q2 adjusted EPS of $1.99 came in near top-end of guidance and above Wall Street expectations; total operating revenue up 16% YoY to $17.7B; raised full-year adj. EPS guidance to $9.00-$11.00; record passenger volumes",
       "category": "earnings",
       "sources": [
-        "Yahoo Finance",
-        "GuruFocus",
+        "Benzinga",
+        "TheStreet",
+        "StockTitan"
+      ]
+    },
+    {
+      "ticker": "BLK",
+      "company": "BlackRock",
+      "reason": "Posted record Q2 results: adj. EPS $13.91 vs. $12.70 estimate; AUM hit $15.3T on record inflows; operating margin peaked at 45.9%; JPMorgan simultaneously upgraded to Overweight with $1,364 price target",
+      "category": "earnings",
+      "sources": [
+        "Investing.com",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "STT",
+      "company": "State Street Corporation",
+      "reason": "Reported record Q2 results with total revenue up 17% YoY to $4.0B; diluted EPS of $3.65 jumped 68% YoY; AUC/A surged to record $57.9T; raised full-year guidance",
+      "category": "earnings",
+      "sources": [
+        "Investing.com",
+        "StockTitan"
+      ]
+    },
+    {
+      "ticker": "ASTS",
+      "company": "AST SpaceMobile",
+      "reason": "Plunged more than 16% after the satellite broadband company announced plans to offer $1 billion in convertible senior notes due 2034 in a private offering, raising dilution concerns",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Bloomberg"
+      ]
+    },
+    {
+      "ticker": "CTAS",
+      "company": "Cintas Corporation",
+      "reason": "Shares jumped 6.5% after Bank of America upgraded to Buy from Neutral following better-than-expected fiscal Q4 earnings; analyst cited strong pricing power and recurring revenue model",
+      "category": "upgrade",
+      "sources": [
         "CNBC"
       ]
     },
     {
-      "ticker": "MS",
-      "company": "Morgan Stanley",
-      "reason": "Reported Q2 earnings highlighted by wealth management inflows and investment banking fee recovery; shares moved on results as part of the ongoing bank earnings cycle.",
-      "category": "earnings",
+      "ticker": "PANW",
+      "company": "Palo Alto Networks",
+      "reason": "Capital One raised to Overweight from Equal Weight with price target lifted to $421 from $307, citing platform consolidation trends and accelerating platformization deals in enterprise cybersecurity",
+      "category": "upgrade",
       "sources": [
-        "Yahoo Finance",
-        "CNBC"
+        "Yahoo Finance"
       ]
     },
     {
-      "ticker": "CRM",
-      "company": "Salesforce",
-      "reason": "Sold off in sympathy with IBM as investors worried that AI hardware budget shifts will reduce enterprise software spending across the sector; Workday and Adobe also affected.",
-      "category": "sector",
+      "ticker": "OKTA",
+      "company": "Okta",
+      "reason": "Capital One upgraded to Overweight from Equal Weight with price target boosted to $171 from $126, alongside companion PANW call; sees identity security as a resilient enterprise budget priority",
+      "category": "upgrade",
       "sources": [
-        "Yahoo Finance",
-        "MoneyMorning"
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "LULU",
+      "company": "Lululemon Athletica",
+      "reason": "Truist downgraded to Sell from Hold with price target cut to $94 from $115, citing weakening consumer discretionary spending, rising competition from Alo Yoga and Vuori, and deteriorating North America sales trends",
+      "category": "downgrade",
+      "sources": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "CNK",
+      "company": "Cinemark Holdings",
+      "reason": "Fell nearly 4% after Wells Fargo downgraded to Equal Weight from Overweight, citing box office uncertainty in H2 2026 and limited upside to current valuation after a strong run",
+      "category": "downgrade",
+      "sources": [
+        "CNBC"
       ]
     }
   ]
