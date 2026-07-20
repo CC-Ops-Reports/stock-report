@@ -1,161 +1,158 @@
 {
-  "report_date": "2026-07-17",
-  "market_tone": "Bearish",
+  "report_date": "2026-07-20",
+  "market_tone": "Mixed",
   "key_themes": [
-    "Semiconductor bear market deepens on Chinese AI competition (Moonshot AI Kimi K3)",
-    "Q2 earnings season mixed: healthcare beats, streaming and metals miss",
-    "Energy stocks rise as oil spikes above $80 on Middle East tensions"
+    "US-Iran military escalation (9th consecutive night of strikes) pushes oil above $91 and weighs on equities",
+    "Big Tech earnings season kicks off this week with Alphabet and Tesla reporting; AI demand in focus",
+    "AI infrastructure spending boom: AMD-Microsoft deal and Hut 8's $9.8B data center lease underscore continued buildout"
   ],
   "sp500": {
-    "value": "5,476.00",
-    "change": "-0.99%"
+    "value": "7,443.28",
+    "change": "-0.19%"
   },
   "nasdaq": {
-    "value": "25,520.00",
-    "change": "-1.50%"
+    "value": "25,508.07",
+    "change": "-0.05%"
   },
   "stocks": [
     {
-      "ticker": "NFLX",
-      "company": "Netflix",
-      "reason": "Q2 revenue $12.56B missed consensus $12.6B; Q3 guidance $12.86B missed $13B estimate; stock fell ~10-12% on slowing growth and engagement reporting changes",
+      "ticker": "AMC",
+      "company": "AMC Entertainment Holdings",
+      "reason": "Q2 earnings beat with record $1.6B revenue and surprise profit of $0.14/share; box office recovery momentum; shares surged ~27%",
       "category": "earnings",
       "sources": [
-        "CNBC",
-        "Variety",
         "Motley Fool",
-        "Bloomberg"
+        "Investing.com"
       ]
     },
     {
-      "ticker": "ABT",
-      "company": "Abbott Laboratories",
-      "reason": "Q2 beat ($1.31 EPS vs $1.28 est); raised FY EPS guidance to $5.45-$5.60; stock surged up to 14% \u2014 largest intraday gain since July 2002; medical device +9%, diagnostics +42%",
-      "category": "earnings",
-      "sources": [
-        "Bloomberg",
-        "Benzinga",
-        "TipRanks",
-        "Seeking Alpha"
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "reason": "Down 2-5%; Chinese startup Moonshot AI unveiled Kimi K3 narrowing gap with US AI; ITC probe into Samsung HBM supply chain; Philadelphia Semiconductor Index down 11% this week, nearing bear market",
-      "category": "sector",
-      "sources": [
-        "Motley Fool",
-        "Yahoo Finance",
-        "24/7 Wall St.",
-        "MarketBeat"
-      ]
-    },
-    {
-      "ticker": "SPCX",
-      "company": "SpaceX",
-      "reason": "Post-IPO rout: stock ~$127, down 23% from recent peak; Starship 13th test flight aborted at last second (engine ignition failure); short sellers hold $25B bear bet; relaunch rescheduled July 20",
+      "ticker": "ACHR",
+      "company": "Archer Aviation",
+      "reason": "Unveiled \"Thunder\" autonomous VTOL defense craft co-developed with Anduril Industries; first flight planned for next year; shares surged ~20%",
       "category": "news",
       "sources": [
         "CNBC",
-        "Benzinga",
-        "Seeking Alpha"
-      ]
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet",
-      "reason": "Stock slid ~2.2% to $347; Gemini 3.5 Pro behind schedule for third time (missed July 17 deadline); EU DMA order to open 11 Android features to rivals; Q2 earnings due July 22",
-      "category": "news",
-      "sources": [
-        "Bloomberg",
-        "CNBC",
+        "Motley Fool",
         "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "reason": "HSBC upgraded to Buy from Hold, raised PT from $260 to $366 (+41%), citing agentic AI \"operational turning point\" and strong iPhone cycle; low capex (2.5% of sales) vs hyperscalers (39%)",
-      "category": "upgrade",
-      "sources": [
-        "Bloomberg",
-        "CNBC",
-        "TipRanks"
-      ]
-    },
-    {
-      "ticker": "ASML",
-      "company": "ASML Holding",
-      "reason": "Fell up to 4.3%; swept into chip selloff despite Q2 beat on July 15 (\u20ac9.3B revenue vs \u20ac8.9B est); rising AI capex scrutiny and Moonshot AI announcement hit European semiconductor sector",
-      "category": "sector",
-      "sources": [
-        "Bloomberg",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "TFC",
-      "company": "Truist Financial",
-      "reason": "Q2 EPS $1.23 beat $1.08 estimate (+14%); net income up 37% YoY to $1.5B; investment banking and wealth management drove 17% noninterest income growth; stock up ~1.4%",
-      "category": "earnings",
-      "sources": [
-        "Alphastreet",
-        "StockTitan",
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "AA",
-      "company": "Alcoa",
-      "reason": "Q2 EPS $2.12 missed $2.31 estimate; revenue $3.97B missed $4.06B despite being company record (+24% sequential); stock slipped ~3% on cautious alumina outlook",
-      "category": "earnings",
-      "sources": [
-        "QuiverQuant",
-        "Alphastreet",
-        "ChartMill"
       ]
     },
     {
       "ticker": "AMD",
       "company": "Advanced Micro Devices",
-      "reason": "Fell ~5% \u2014 steepest single-day decline among major chipmakers; Moonshot AI Kimi K3 and AI capex sustainability concerns drove broad GPU/chip sector rotation",
-      "category": "sector",
-      "sources": [
-        "24/7 Wall St.",
-        "Yahoo Finance",
-        "Fortune"
-      ]
-    },
-    {
-      "ticker": "COP",
-      "company": "ConocoPhillips",
-      "reason": "Up ~1.2% as oil rose 2-3% above $80/barrel; CNBC reported COP and BP to announce billions in new Iraq investment; Middle East conflict near Strait of Hormuz boosting energy names",
+      "reason": "Massive Microsoft AI infrastructure deal announced; chip sector rebound from last week's selloff; shares up ~5%",
       "category": "news",
       "sources": [
         "CNBC",
-        "Invezz",
-        "Intellectia AI"
+        "Yahoo Finance"
       ]
     },
     {
-      "ticker": "MMM",
-      "company": "3M",
-      "reason": "JPMorgan upgraded to Overweight from Neutral, raised PT from $178 to $180, ahead of Q2 earnings; seen as undervalued industrial play with positive sector momentum",
-      "category": "upgrade",
+      "ticker": "HUT",
+      "company": "Hut 8 Corp",
+      "reason": "Signed $9.8B 15-year AI data center lease (352 MW) fully commercializing Beacon Point campus in Texas; shares jumped ~12%",
+      "category": "news",
       "sources": [
-        "Yahoo Finance",
-        "Benzinga"
+        "CNBC",
+        "Yahoo Finance"
       ]
     },
     {
-      "ticker": "RF",
-      "company": "Regions Financial",
-      "reason": "Q2 diluted EPS $0.64 up 8% YoY; adjusted EPS up 13%; solid regional bank results amid broader Q2 earnings season; part of bank earnings wave this week",
+      "ticker": "DPZ",
+      "company": "Domino's Pizza",
+      "reason": "Q2 results beat subdued expectations: 3.0% global retail sales growth, 209 net new stores, 3.1% operating income increase; shares rose ~7%",
       "category": "earnings",
       "sources": [
-        "SEC Filing",
-        "Kiplinger"
+        "CNBC",
+        "Investing.com"
+      ]
+    },
+    {
+      "ticker": "TER",
+      "company": "Teradyne",
+      "reason": "Top Nasdaq 100/S&P 500 performer, up ~8.4%; chip sector rebound and renewed AI semiconductor test demand; earnings due July 28",
+      "category": "sector",
+      "sources": [
+        "TheStreet",
+        "BestStocks"
+      ]
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum Holdings",
+      "reason": "Upgraded to Overweight from Equal Weight at Barclays with $1,000 price target; shares advanced ~6.2%",
+      "category": "upgrade",
+      "sources": [
+        "247WallSt",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "reason": "Popped more than 4% on chip sector rebound; riding AI infrastructure tailwinds alongside AMD recovery",
+      "category": "sector",
+      "sources": [
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "OXY",
+      "company": "Occidental Petroleum",
+      "reason": "Bullish options activity with vol/OI ratio spike; up 30%+ YTD as Brent crude spiked toward $91 on Iran escalation",
+      "category": "news",
+      "sources": [
+        "Barchart",
+        "MSN Finance"
+      ]
+    },
+    {
+      "ticker": "SG",
+      "company": "Sweetgreen",
+      "reason": "Down ~8% as FDA investigates cyclospora outbreak linked to raw produce; stock down 24%+ in past month despite no direct link confirmed",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Bloomberg",
+        "Forbes"
+      ]
+    },
+    {
+      "ticker": "CAVA",
+      "company": "Cava Group",
+      "reason": "Shed ~5% on cyclospora food-safety contagion fears spreading across fast-casual restaurant sector",
+      "category": "news",
+      "sources": [
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "NFLX",
+      "company": "Netflix",
+      "reason": "Upgraded to Buy from Accumulate at Phillip Securities with $110 price target; also featured in Monday analyst call roundup",
+      "category": "upgrade",
+      "sources": [
+        "247WallSt",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "INTU",
+      "company": "Intuit",
+      "reason": "Steepest S&P 500 decliner on the day, down 3.4%; stock off 57.5% year-to-date; continued selling pressure in fintech/software names",
+      "category": "news",
+      "sources": [
+        "TheStreet"
+      ]
+    },
+    {
+      "ticker": "SPCX",
+      "company": "SpaceX",
+      "reason": "Moved Starship next launch attempt to Thursday; shares dipped ~1% despite the announcement; heavily discussed alongside Archer Aviation aerospace comparisons",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance",
+        "Motley Fool"
       ]
     }
   ]
