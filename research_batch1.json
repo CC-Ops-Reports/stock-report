@@ -1,135 +1,129 @@
 {
-  "report_date": "2026-07-17",
+  "report_date": "2026-07-20",
   "batch": 1,
-  "market_tone": "Bearish",
+  "market_tone": "Mixed",
   "key_themes": [
-    "Semiconductor bear market deepens on Chinese AI competition (Moonshot AI Kimi K3)",
-    "Q2 earnings season mixed: healthcare beats, streaming and metals miss",
-    "Energy stocks rise as oil spikes above $80 on Middle East tensions"
+    "US-Iran military escalation (9th consecutive night of strikes) pushes oil above $91 and weighs on equities",
+    "Big Tech earnings season kicks off this week with Alphabet and Tesla reporting; AI demand in focus",
+    "AI infrastructure spending boom: AMD-Microsoft deal and Hut 8's $9.8B data center lease underscore continued buildout"
   ],
-  "sp500": {
-    "value": "5,476.00",
-    "change": "-0.99%"
-  },
-  "nasdaq": {
-    "value": "25,520.00",
-    "change": "-1.50%"
-  },
+  "sp500": {"value": "7,443.28", "change": "-0.19%"},
+  "nasdaq": {"value": "25,508.07", "change": "-0.05%"},
   "stocks": [
     {
-      "ticker": "NFLX",
-      "company": "Netflix",
-      "discussion_driver": "Netflix Q2 2026 revenue of $12.56B missed the $12.6B consensus and Q3 guidance of $12.86B fell short of the $13B estimate, triggering a ~7% post-earnings selloff. The company also changed how it reports engagement metrics, sparking investor concern about slowing subscriber growth and monetization transparency heading into an increasingly competitive streaming landscape.",
+      "ticker": "AMC",
+      "company": "AMC Entertainment Holdings",
+      "discussion_driver": "AMC Entertainment posted its best-ever quarterly revenue of $1.6 billion for Q2 2026 with a surprise $0.14/share profit (vs. -$0.06 expected), triggering a 26.8% single-day stock surge on volume ~342% above the 3-month average. The result reflects both a robust 2026 box office slate and AMC's aggressive cost-cutting following its pandemic-era debt restructuring. The earnings beat marks a potential inflection point for the theater recovery narrative, though analyst consensus targets remain below the post-surge price.",
       "bull_case": [
-        "Expanding ad-supported tier is driving higher ARPU and broadening the addressable market in price-sensitive regions, with ad revenue growing faster than subscription revenue",
-        "Global password-sharing crackdown is complete and subscriber count is at record levels, providing a resilient and diversified revenue base that supports the long-term growth thesis"
+        "Record Q2 revenue of $1.6B with $0.14/share surprise profit demonstrates operational turnaround is gaining real traction; EBITDA margins projected to expand from ~8% in 2025 to ~11-12% by 2027 as cost restructuring bears fruit",
+        "Strong 2026 film slate continues to drive box office recovery with record summer ticket sales, improving attendance trends that could sustain margin expansion through year-end and into 2027"
       ],
       "bear_case": [
-        "Q3 2026 guidance of $12.86B missed the $13B consensus, signaling meaningful deceleration that could pressure the premium valuation multiple of 28.7x trailing earnings",
-        "Intensifying competition from Disney+, Amazon Prime Video, and YouTube threatens engagement share and content economics, particularly in the fast-growing ad-supported streaming segment"
+        "Heavy pandemic-era debt burden constrains financial flexibility and leaves AMC vulnerable to any softening in attendance; high fixed-cost structure means revenue misses flow disproportionately to the bottom line",
+        "Structural secular headwinds from streaming proliferation threaten long-term theater attendance; with 7-analyst S&P Global consensus at $2.24 now below the current price, near-term upside appears largely priced in following the earnings surge"
       ],
       "recommendation": "Hold",
-      "current_price": "$68.95",
-      "price_target": "$111.35 (+61.5%)",
-      "pe_ratio": "28.71",
-      "rsi": "45",
-      "vs_52wk_high": "-45.6% below high ($126.71)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Communication Services - Streaming Entertainment",
-      "sources": ["CNBC", "Bloomberg", "FX Leaders", "Variety", "Motley Fool", "Yahoo Finance", "MarketBeat"],
-      "price_history_5d": [75.80, 75.40, 73.75, 74.35, 68.95]
-    },
-    {
-      "ticker": "ABT",
-      "company": "Abbott Laboratories",
-      "discussion_driver": "Abbott Laboratories delivered a blowout Q2 2026 beat with EPS of $1.31 versus the $1.28 estimate and raised full-year adjusted EPS guidance to $5.45-$5.60. Shares surged up to 14% intraday — the largest single-day gain since July 2002 — driven by 9% growth in medical devices and a 42% jump in diagnostics revenue, reflecting accelerating demand for both established and next-generation diagnostic platforms.",
-      "bull_case": [
-        "Diagnostics segment posted 42% revenue growth in Q2 while medical devices grew 9%, driven by new product launches and international expansion signaling durable multi-year tailwinds",
-        "Full-year EPS guidance raise to $5.45-$5.60 signals management confidence in sustained earnings power, with the stock still trading 27% below its 52-week high of $137.49 leaving meaningful rerating upside"
-      ],
-      "bear_case": [
-        "Trading at a premium P/E of 32.2x relative to healthcare peers, ABT leaves limited margin for execution misses, particularly if medical device procedure volumes soften on any macro slowdown",
-        "The post-earnings surge from ~$89 to ~$100 recovered only a portion of prior losses; long-term investors who held through 2025 remain significantly underwater"
-      ],
-      "recommendation": "Buy",
-      "current_price": "$100.16",
-      "price_target": "$120.00 (+19.8%)",
-      "pe_ratio": "32.21",
+      "current_price": "$2.46",
+      "price_target": "$2.24 (-8.9%)",
+      "pe_ratio": "N/A",
       "rsi": "N/A",
-      "vs_52wk_high": "-27.1% below high ($137.49)",
-      "analyst_rating": "Buy",
-      "sector": "Healthcare - Medical Devices & Diagnostics",
-      "sources": ["Bloomberg", "Benzinga", "TipRanks", "Seeking Alpha", "Alphastreet", "StockTitan", "CNBC"],
-      "price_history_5d": [89.00, 89.50, 89.00, 98.83, 100.16]
+      "vs_52wk_high": "-31.7% below high ($3.60)",
+      "analyst_rating": "Hold",
+      "sector": "Consumer Discretionary - Movie Theaters",
+      "sources": ["Motley Fool", "StockStory", "Benzinga", "S&P Global", "TipRanks"],
+      "price_history_5d": [1.96, 2.07, 2.07, 1.94, 2.46]
     },
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "discussion_driver": "Nvidia fell ~3% on July 17 as Chinese startup Moonshot AI unveiled Kimi K3 at the World AI Conference in Shanghai — described as the world's largest publicly available open-weight AI model — threatening the 'more compute is always better' thesis underpinning GPU demand. The Philadelphia Semiconductor Index is down 11% for the week, nearing bear market territory, with an ITC probe into Samsung's HBM supply chain adding further uncertainty for Nvidia's AI chip ecosystem.",
+      "ticker": "ACHR",
+      "company": "Archer Aviation",
+      "discussion_driver": "Archer Aviation unveiled 'Thunder,' an autonomous military VTOL aircraft co-developed with Anduril Industries, marking a major strategic expansion into the defense sector alongside its civilian Midnight air taxi program. The announcement—with first flight planned for next year—drove a ~20% single-day stock surge from a 52-week intraday low of $4.30. Archer now has two distinct product lines targeting urban air mobility and autonomous defense markets, though it remains pre-revenue with ongoing scrutiny around cash runway sustainability.",
       "bull_case": [
-        "61 of 61 analysts maintain Strong Buy with a consensus price target of $301.62 implying ~49% upside; CUDA software ecosystem and the Blackwell/Rubin GPU roadmap maintain Nvidia's multi-year leadership in AI accelerator design",
-        "Data center revenue continues to grow at triple-digit rates as hyperscalers (Microsoft, Google, Meta, Amazon) are locked into multi-year NVDA-dependent AI infrastructure deployment cycles"
+        "Thunder defense VTOL co-development with Anduril opens a high-value defense contract market in addition to civilian Midnight eVTOL, significantly diversifying the addressable revenue opportunity",
+        "FAA type certification progress for Midnight and UAE pilot program launch in H1 2026 represent near-term commercialization catalysts; analyst consensus price target of $12 implies ~126% upside from current levels"
       ],
       "bear_case": [
-        "Chinese AI competition — DeepSeek building its own chips and Moonshot AI's efficient open-weight models — erodes the capital-intensive compute thesis and may reduce enterprise GPU capex growth rates",
-        "ITC probe into Samsung HBM supply chain risks disrupting HBM3e memory availability critical for H200 and Blackwell systems, potentially delaying shipments and pressuring near-term revenue"
-      ],
-      "recommendation": "Buy",
-      "current_price": "$202.00",
-      "price_target": "$301.62 (+49.3%)",
-      "pe_ratio": "31.62",
-      "rsi": "47",
-      "vs_52wk_high": "-14.6% below high ($236.54)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Technology - Semiconductors",
-      "sources": ["Motley Fool", "Yahoo Finance", "24/7 Wall St.", "MarketBeat", "GuruFocus", "Benzinga"],
-      "price_history_5d": [218.00, 215.00, 212.50, 207.40, 202.00]
-    },
-    {
-      "ticker": "SPCX",
-      "company": "SpaceX",
-      "discussion_driver": "SpaceX shares tumbled after Starship's 13th test flight was aborted at the last second due to an engine ignition failure, with relaunch rescheduled for July 20. The stock is now ~45% below its IPO-week high of $225.64 and has erased all post-IPO gains since its June 2026 debut at $135 (closing at $161 on IPO day). Short sellers hold a $25B bear position, making SPCX one of the most heavily shorted Nasdaq stocks, while a pending Nasdaq-100 inclusion remains a near-term demand catalyst.",
-      "bull_case": [
-        "Nasdaq-100 inclusion is expected to trigger an estimated $4.3B in forced institutional buying against a stock with a limited float, providing a significant near-term structural price support catalyst",
-        "27 of 28 analysts rate SPCX a Buy with a consensus price target of $244.50 implying ~97% upside, citing Starlink's growing subscriber base and near-monopoly position in commercial launch services"
-      ],
-      "bear_case": [
-        "Company is pre-profit with negative trailing earnings, burning cash on Starship development; repeated launch failures and a third consecutive abort damage technical credibility and investor confidence",
-        "$25B in short interest and a stock already below its IPO price after just five weeks signals deep institutional skepticism that could amplify downside on any further negative catalyst"
+        "Pre-revenue company with no commercial flights yet; cash runway is a major concern and any need for additional capital raises dilution risk for existing shareholders",
+        "FAA certification delays or slower-than-expected consumer and enterprise adoption of eVTOL could push meaningful revenue timelines well beyond 2026-2027 projections"
       ],
       "recommendation": "Speculative Buy",
-      "current_price": "$124.00",
-      "price_target": "$244.50 (+97.2%)",
-      "pe_ratio": "N/A (pre-profit, negative TTM earnings)",
-      "rsi": "36",
-      "vs_52wk_high": "-45.1% below IPO-era high ($225.64)",
-      "analyst_rating": "Buy",
-      "sector": "Aerospace & Defense - Commercial Space",
-      "sources": ["CNBC", "Benzinga", "Seeking Alpha", "TradingKey", "Investing.com", "Motley Fool"],
-      "price_history_5d": [161.50, 148.20, 132.15, 135.27, 124.00]
+      "current_price": "$5.31",
+      "price_target": "$12.00 (+126.0%)",
+      "pe_ratio": "N/A",
+      "rsi": "39.21",
+      "vs_52wk_high": "-63.7% below high ($14.62)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Aerospace & Defense - eVTOL",
+      "sources": ["CNBC", "247WallSt", "StockAnalysis", "TipRanks", "MarketBeat"],
+      "price_history_5d": [4.44, 5.31]
     },
     {
-      "ticker": "GOOGL",
-      "company": "Alphabet",
-      "discussion_driver": "Alphabet slid ~2.2% to ~$347 on July 17 after Gemini 3.5 Pro missed its July 17 launch deadline — the third consecutive delay — intensifying concerns that Google is falling behind OpenAI and Anthropic in the AI race. Simultaneously, the EU's Digital Markets Act issued binding orders requiring Google to open 11 Android features to rival AI assistants including ChatGPT and Claude starting July 2027. Q2 earnings are due July 22.",
+      "ticker": "AMD",
+      "company": "Advanced Micro Devices",
+      "discussion_driver": "AMD surged approximately 5% after Microsoft announced wide-scale deployment of AMD's next-generation Helios rackscale AI solution across Azure for frontier model inference and enterprise workloads, positioning AMD as a primary NVIDIA alternative for AI chips. The deal also expands EPYC CPU and Pensando DPU deployments across Azure, and triggered multiple analyst price target increases including BofA raising to $620. AMD is up ~160% year-to-date but remains ~11% below its June 30 52-week high of $584.73 after a mid-month chip sector selloff.",
       "bull_case": [
-        "Search advertising remains a near-impenetrable moat generating massive free cash flow; 64 analysts rate GOOGL Strong Buy with a $433 consensus target implying 25% upside from current levels",
-        "YouTube Shorts monetization ramp and Google Cloud growth are diversifying revenue streams and partially insulating Alphabet from AI-driven search disruption, with cloud segment growing 28% YoY"
+        "Microsoft Azure mega-deal validates the Helios platform and EPYC market penetration, providing a major enterprise revenue anchor and AI ecosystem credibility as the leading NVIDIA alternative for inference workloads",
+        "Rapidly expanding data center GPU segment alongside profitable EPYC CPU business provides multiple simultaneous growth engines; 160% YTD gain reflects a fundamental re-rating of AMD's AI total addressable market"
       ],
       "bear_case": [
-        "Repeated Gemini delays signal systemic execution gaps in AI product delivery; if ChatGPT or rival AI search tools capture meaningful query share, Alphabet's core advertising engine faces structural erosion",
-        "EU DMA compliance requiring open Android AI access erodes Gemini's default distribution advantage and sets a regulatory precedent that could cascade into other major jurisdictions"
+        "Trailing P/E of 165x and forward P/E of ~69x price in near-perfect execution; any miss on AI revenue ramp or guidance softness could trigger a sharp correction from these elevated valuation levels",
+        "NVIDIA's deeply entrenched CUDA software ecosystem and dominant market share in AI training remain formidable competitive moats; AMD's share gains are real but closing the gap further will be increasingly difficult"
       ],
       "recommendation": "Buy",
-      "current_price": "$347.00",
-      "price_target": "$433.14 (+24.8%)",
-      "pe_ratio": "26.89",
-      "rsi": "53",
-      "vs_52wk_high": "-15.1% below high ($408.61)",
+      "current_price": "$520.55",
+      "price_target": "$525.40 (+0.9%)",
+      "pe_ratio": "165.25",
+      "rsi": "57.47",
+      "vs_52wk_high": "-11.0% below high ($584.73)",
       "analyst_rating": "Strong Buy",
-      "sector": "Technology - Internet & AI Services",
-      "sources": ["Bloomberg", "CNBC", "Yahoo Finance", "TechTimes", "The Next Web", "24/7 Wall St.", "Artiverse"],
-      "price_history_5d": [380.50, 382.10, 377.22, 354.46, 347.00]
+      "sector": "Technology - Semiconductors",
+      "sources": ["Yahoo Finance", "Investing.com", "Gurufocus", "StockAnalysis", "TradingKey"],
+      "price_history_5d": [534.00, 495.76, 520.55]
+    },
+    {
+      "ticker": "HUT",
+      "company": "Hut 8 Corp",
+      "discussion_driver": "Hut 8 signed a second 15-year, $9.8 billion AI data center lease at its Beacon Point campus in Texas (352 MW), fully commercializing the 1-gigawatt facility and bringing total campus contracted value to $19.6 billion with renewal options up to $50.2 billion. The deal marks the completion of Hut 8's strategic pivot from Bitcoin miner to AI infrastructure developer and triggered a ~12% stock surge. Benchmark nearly doubled its price target to $165 (from $85) and BTIG raised to $150, both citing the transformative long-term contracted revenue base.",
+      "bull_case": [
+        "$9.8B 15-year AI data center lease creates predictable long-term contracted revenue that fundamentally re-rates Hut 8 from a speculative Bitcoin miner to a credible AI infrastructure developer with massive revenue visibility",
+        "Campus-level contracted value of $19.6B (up to $50.2B with renewals) provides an entirely new valuation floor; analyst targets of $129-$165 imply 25-60% upside from current levels"
+      ],
+      "bear_case": [
+        "Continued Bitcoin mining exposure creates earnings volatility tied to crypto market cycles, which could overshadow AI infrastructure progress and weigh on multiple expansion in down-market environments",
+        "Executing a $9.8B AI data center project at scale requires significant capital; past equity issuances and potential future capital raises remain key dilution risks for existing shareholders"
+      ],
+      "recommendation": "Speculative Buy",
+      "current_price": "$103.04",
+      "price_target": "$129.00 (+25.2%)",
+      "pe_ratio": "N/A",
+      "rsi": "N/A",
+      "vs_52wk_high": "-26.8% below high ($140.80)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Technology - AI Infrastructure & Bitcoin Mining",
+      "sources": ["CoinDesk", "CryptoTimes", "Yahoo Finance", "StockAnalysis", "Blockonomi"],
+      "price_history_5d": [92.00, 103.04]
+    },
+    {
+      "ticker": "DPZ",
+      "company": "Domino's Pizza",
+      "discussion_driver": "Domino's Pizza Q2 2026 results beat subdued revenue expectations ($1.19B vs. $1.18B estimated) but missed on EPS ($4.07 vs. $4.17), with U.S. same-store sales growing just 0.1%—the weakest quarterly showing in more than a year. The stock rose ~7% as investors viewed 209 net new store openings and 3.1% operating income growth as evidence of a resilient franchise model. Post-earnings analyst consensus coalesced around $391, though lingering CEO succession concerns and soft comps keep the long-term outlook cautious.",
+      "bull_case": [
+        "Global franchise expansion with 209 net new stores and 3.0% global retail sales growth demonstrates the durability of the Domino's asset-light model even in a challenging consumer spending environment",
+        "Stock remains ~30% below its 52-week high of $496, offering meaningful mean-reversion upside as the post-earnings beat re-establishes operational credibility and consumer sentiment eventually improves"
+      ],
+      "bear_case": [
+        "U.S. comps up only 0.1% and international comps down 0.1% signal consumer spending fatigue that could deepen if macro conditions deteriorate; EPS miss and weakening same-store trends suggest pricing power is eroding",
+        "CEO succession uncertainty creates strategic risk and could compress the valuation multiple; if same-store sales trends worsen, the 52-week low of $282 remains a plausible downside scenario"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$344.74",
+      "price_target": "$391.00 (+13.4%)",
+      "pe_ratio": "17.24",
+      "rsi": "N/A",
+      "vs_52wk_high": "-30.5% below high ($496.00)",
+      "analyst_rating": "Hold",
+      "sector": "Consumer Discretionary - Restaurant",
+      "sources": ["CNBC", "StockStory", "MarketBeat", "MacroTrends", "QZ"],
+      "price_history_5d": [322.18, 344.74]
     }
   ]
 }
