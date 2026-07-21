@@ -1,121 +1,121 @@
 {
-  "report_date": "2026-07-17",
+  "report_date": "2026-07-20",
   "batch": 2,
   "stocks": [
     {
-      "ticker": "AAPL",
-      "company": "Apple Inc.",
-      "discussion_driver": "HSBC upgraded Apple from Hold to Buy and raised its price target 41% to $366 (from $260), citing Apple Intelligence as an 'operational turning point' for agentic AI, an imminent iPhone super-cycle, and Apple's capital-efficient AI model (capex just 2.5% of revenue vs. hyperscalers at ~39%). The upgrade followed Citi's $365 target set earlier in the week and drove AAPL to an intraday all-time high of $334.68 on July 16, with Q3 FY2026 earnings scheduled for July 30.",
+      "ticker": "TER",
+      "company": "Teradyne",
+      "discussion_driver": "Top Nasdaq 100/S&P 500 performer on July 20 (+8.4%), riding the chip sector rebound with renewed AI semiconductor test demand. Q1 2026 revenue surged 87% YoY with AI now representing ~70% of total sales. Earnings report due July 28 is the key near-term catalyst.",
       "bull_case": [
-        "HSBC and Citi set $365-366 price targets citing agentic AI as a transformative multi-year cycle driver and Apple's capital-light model generating industry-leading free cash flow per AI dollar spent",
-        "Apple's 2.5 billion installed device base creates a massive recurring upgrade funnel for the iPhone 17 super-cycle, with Apple Intelligence premium features expected to drive meaningful ASP expansion"
+        "AI-related semiconductor test demand represents ~70% of revenue; Q1 2026 revenue up 87% YoY with TSMC GPU wafer sort partnerships expanding; Cantor Fitzgerald set a $550 price target",
+        "Strong analyst consensus (Buy, 45% Strong Buy, 45% Buy); multiple recent analyst upgrades and price target increases signal confidence in the AI test cycle durability through 2026-27"
       ],
       "bear_case": [
-        "The 47-analyst consensus price target of $315.79 is ~5% below the current price, suggesting the broad analyst community believes the market has run ahead of near-term fundamentals ahead of July 30 earnings",
-        "Chinese AI competition—including Moonshot Kimi K3 and other open-weight models—could commoditize AI smartphone features, reducing the differentiation advantage that justifies Apple's premium iPhone pricing"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$332.00",
-      "price_target": "$315.79 (-5.0%)",
-      "pe_ratio": "37.16",
-      "rsi": "N/A",
-      "vs_52wk_high": "-0.8% below high ($334.68)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Consumer Electronics",
-      "sources": ["CNBC", "HSBC Research", "TipRanks", "Bloomberg", "StockAnalysis"],
-      "price_history_5d": [317.31, 326.80, 327.50, 333.26, 332.00]
-    },
-    {
-      "ticker": "ASML",
-      "company": "ASML Holding N.V.",
-      "discussion_driver": "ASML fell up to 4.3% on July 17 as Moonshot AI's Kimi K3 model triggered a broad semiconductor selloff, despite ASML having just reported a strong Q2 2026 beat on July 15 (EUR9.33B revenue vs. EUR8.9B estimated, 54% gross margin) with FY2026 guidance raised to EUR43-45B. The selloff reflects investor anxiety about AI capex sustainability and whether Chinese open-weight AI efficiency gains reduce demand for cutting-edge chips.",
-      "bull_case": [
-        "ASML is the sole supplier of EUV lithography machines—the only tools capable of fabricating the world's most advanced chips—creating an irreplaceable monopoly that all leading semiconductor manufacturers must use regardless of AI model efficiency trends",
-        "Q2 2026 beat and raised FY guidance to EUR43-45B confirms AI-driven infrastructure spending is translating into real bookings; Wells Fargo targets $2,500 on ASML's unmatched long-term technology roadmap"
-      ],
-      "bear_case": [
-        "Chinese AI efficiency breakthroughs like Kimi K3—capable open-weight models running on commodity hardware—threaten to slow the volume of advanced chips needed, potentially dampening EUV tool order velocity",
-        "At a trailing P/E of 61.36, ASML is priced for sustained EUV demand acceleration; US export restrictions on China sales remain an unresolved revenue overhang that could materially impact forward bookings"
+        "Trades at ~48x forward P/E vs. semiconductor sector average of ~33x; premium valuation is vulnerable if AI testing demand disappoints or growth rate decelerates post-earnings",
+        "Significant drawdown from $487.91 June 30 all-time high; sluggish industrial automation segment and geopolitical semiconductor supply chain risk may cap the recovery into Q3"
       ],
       "recommendation": "Buy",
-      "current_price": "$1,710.00",
-      "price_target": "$2,120.70 (+24.0%)",
-      "pe_ratio": "61.36",
-      "rsi": "N/A",
-      "vs_52wk_high": "-14.5% below high ($1,999.96)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Technology - Semiconductor Equipment",
-      "sources": ["Bloomberg", "Yahoo Finance", "MarketBeat", "GuruFocus", "TradingKey"],
-      "price_history_5d": [1726.04, 1775.64, 1738.75, 1786.87, 1710.00]
-    },
-    {
-      "ticker": "TFC",
-      "company": "Truist Financial Corporation",
-      "discussion_driver": "Truist Financial beat Q2 2026 estimates with EPS of $1.23 (+14% vs. $1.08 consensus) and net income up 37% YoY to $1.5B, driven by 17% noninterest income growth across investment banking and wealth management, and a 15.4% ROTCE. The stock rose ~1.4% on results, though the muted reaction reflects BofA's concurrent downgrade to Neutral citing limited upside after TFC's 7.1% gain over the prior month.",
-      "bull_case": [
-        "Truist's 37% YoY net income growth to $1.5B and 15.4% ROTCE demonstrate above-peer returns as post-merger integration delivers, with investment banking and wealth management emerging as durable growth engines",
-        "Trading at 13.2x P/E with a $55 analyst consensus target, TFC offers value among large regional banks with a diversified business model and moderate CRE exposure relative to peers"
-      ],
-      "bear_case": [
-        "BofA downgraded TFC to Neutral citing the stock's recent outperformance (up 7.1% in the past month) as reducing near-term risk/reward; the $55.10 consensus PT implies only ~3% upside from current levels",
-        "As a large regional bank, Truist remains exposed to NIM compression if the Fed holds rates higher longer, and any deterioration in commercial real estate loan quality could trigger elevated provisioning"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$53.44",
-      "price_target": "$55.10 (+3.1%)",
-      "pe_ratio": "13.20",
-      "rsi": "N/A",
-      "vs_52wk_high": "-4.9% below high ($56.20)",
-      "analyst_rating": "Hold",
-      "sector": "Financial Services - Regional Banking",
-      "sources": ["Alphastreet", "StockTitan", "CNBC", "StockAnalysis", "Finviz"],
-      "price_history_5d": [51.40, 51.90, 52.60, 52.70, 53.44]
-    },
-    {
-      "ticker": "AA",
-      "company": "Alcoa Corporation",
-      "discussion_driver": "Alcoa missed Q2 2026 EPS estimates ($2.12 vs. $2.31 consensus) despite record revenue of $3.97B (+24% sequential), and shares fell ~3% on cautious alumina pricing guidance. The company simultaneously announced a $4.1B acquisition of South32 aluminum assets—adding long-term production capacity but near-term leverage risk. With RSI at 28.49, the stock is deeply oversold at a potential inflection point between contrarian value and continued fundamental deterioration.",
-      "bull_case": [
-        "Record $3.97B revenue and the South32 acquisition position Alcoa to benefit from structural long-term aluminum demand growth driven by EVs, energy transition, and defense spending",
-        "With RSI of 28.49 (deeply oversold), a P/E of 12.3x, and analysts maintaining a $64.33 average price target (~40% upside), AA represents a contrarian value opportunity if alumina prices stabilize"
-      ],
-      "bear_case": [
-        "The $4.1B South32 acquisition adds substantial leverage at a time of EPS misses and cautious alumina pricing guidance, raising debt-servicing concerns if commodity prices weaken further",
-        "AA is down 45.5% from its 52-week high of $84.38—a sustained drawdown suggesting structural alumina overcapacity rather than a temporary sentiment overshoot, making the RSI-28 bounce thesis unreliable"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$46.00",
-      "price_target": "$64.33 (+39.8%)",
-      "pe_ratio": "12.30",
-      "rsi": "28.49",
-      "vs_52wk_high": "-45.5% below high ($84.38)",
+      "current_price": "$349.44",
+      "price_target": "$448.58 (+28.4%)",
+      "pe_ratio": "N/A",
+      "rsi": "42.2",
+      "vs_52wk_high": "-28.4% below high ($487.91)",
       "analyst_rating": "Buy",
-      "sector": "Materials - Aluminum",
-      "sources": ["QuiverQuant", "Alphastreet", "ChartMill", "en.cryptonomist.ch", "MarketBeat"],
-      "price_history_5d": [50.50, 49.06, 49.20, 48.59, 46.00]
+      "sector": "Technology - Semiconductors / Test Equipment",
+      "sources": ["Yahoo Finance", "MarketBeat", "Simply Wall St", "TIKR.com", "TheStreet", "BestStocks"],
+      "price_history_5d": [353.23, 322.36, 349.44]
     },
     {
-      "ticker": "AMD",
-      "company": "Advanced Micro Devices, Inc.",
-      "discussion_driver": "AMD fell ~5% on July 17—its steepest single-day decline among major chipmakers—as Moonshot AI's Kimi K3 (a large open-weight AI model unveiled at the World AI Conference in Shanghai) challenged the premium compute demand thesis driving chip valuations. Combined with TSMC's higher-than-expected capex guidance feeding margin compression fears, the Philadelphia Semiconductor Index lost 11% on the week, nearing bear market territory with $3.3T in global chip-sector market cap erased since June 22.",
+      "ticker": "LITE",
+      "company": "Lumentum Holdings",
+      "discussion_driver": "Barclays upgraded LITE to Overweight with a $1,000 price target, driving a 6.2% gain on July 20 amid surging demand for AI data center optical components. Lumentum is positioned as a key photonics supplier to hyperscalers, with 15 analysts issuing a Buy consensus and a median target of $1,100.",
       "bull_case": [
-        "AMD's MI300X and next-gen data center GPUs are winning hyperscaler contracts as enterprises diversify GPU supply away from Nvidia concentration; the product roadmap through 2027 supports significant AI server revenue ramp",
-        "At a forward P/E of 60.24x, AMD trades at a meaningful discount to Nvidia for competitive GPU performance; Strong Buy consensus from 51 analysts with a $525.40 average target implies ~10% near-term upside"
+        "Barclays Overweight upgrade and $1,000 PT reflects the AI data center optical supercycle; Buy consensus from 15 analysts with median target $1,100; stock up 121% YTD",
+        "AI infrastructure buildout is creating insatiable demand for coherent optics and photonics; Lumentum is a key supplier benefiting directly from hyperscaler capital expenditure expansion"
       ],
       "bear_case": [
-        "The proliferation of capable open-weight AI models that run efficiently on commodity hardware directly threatens the 'more compute = better AI' narrative that drove AMD's +261% 52-week gain, making the 176x trailing P/E increasingly difficult to justify",
-        "AMD is down 18.6% from its June 30 52-week high of $584.73 and the broader chip sector is undergoing a major de-rating; further multiple compression is likely if AI capex narratives continue to reset globally"
+        "Trailing P/E of ~146x is extremely elevated; heavy capacity commitments create fixed-cost risk if AI optical demand fluctuates or hyperscaler spending moderates",
+        "Down ~29.5% from 52-week high of $1,085.68 despite strong YTD gains; insider selling noted; execution risk and demand durability are key pressure points at this valuation"
+      ],
+      "recommendation": "Speculative Buy",
+      "current_price": "$765.55",
+      "price_target": "$1,100.00 (+43.7%)",
+      "pe_ratio": "146.4",
+      "rsi": "N/A",
+      "vs_52wk_high": "-29.5% below high ($1,085.68)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - Optical Communications / Photonics",
+      "sources": ["247WallSt", "Yahoo Finance", "MarketBeat", "Barclays Research", "TradingKey"],
+      "price_history_5d": [814.80, 752.86, 732.82, 765.55]
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "discussion_driver": "Micron popped 4%+ on July 20 chip sector rebound, recouping part of a steep mid-week selloff driven by China's CXMT announcing an $8.5B IPO and the US government considering new HBM export restrictions. AI infrastructure demand for HBM memory remains robust, and MU's RSI near 38 signals the pullback may be approaching oversold territory.",
+      "bull_case": [
+        "Strong Buy consensus from 29+ analysts with average target $1,269; AI HBM memory demand is accelerating with Anthropic and other hyperscalers signing major supply agreements",
+        "Forward P/E of ~11x with RSI at 38.25 (near oversold) creates compelling risk/reward; fundamental AI memory demand cycle remains intact and HBM pricing is favorable"
+      ],
+      "bear_case": [
+        "China CXMT's $8.5B IPO and potential US HBM export restrictions are material near-term risks that could impair Micron's AI market share and disrupt HBM pricing",
+        "Stock down ~30% from 52-week high of $1,255.00; geopolitical export control risk remains unpredictable and could significantly limit addressable AI memory market revenues"
+      ],
+      "recommendation": "Buy",
+      "current_price": "$882.75",
+      "price_target": "$1,269.62 (+43.8%)",
+      "pe_ratio": "19.22",
+      "rsi": "38.25",
+      "vs_52wk_high": "-29.7% below high ($1,255.00)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Technology - Semiconductors / Memory",
+      "sources": ["CNBC", "MarketBeat", "StockAnalysis", "TradingKey", "eToro"],
+      "price_history_5d": [985.00, 916.05, 853.20, 848.95, 882.75]
+    },
+    {
+      "ticker": "OXY",
+      "company": "Occidental Petroleum",
+      "discussion_driver": "OXY attracted bullish options activity (elevated vol/OI ratio spike) on July 20 as Iran military escalation entered its 9th consecutive night of strikes, pushing Brent crude toward $91. Up 30%+ YTD, OXY is a direct unhedged play on oil prices; the majority Hold analyst consensus reflects the risk that any diplomatic resolution could sharply reverse recent gains.",
+      "bull_case": [
+        "Direct beneficiary of Iran-driven oil spike toward $91/bbl; up 30%+ YTD; Evercore ISI upgraded to Outperform on July 8; strong 7% QoQ production growth bolsters cash flow",
+        "Bullish institutional options activity (vol/OI spike) signals near-term conviction; Berkshire Hathaway remains a major holder, adding fundamental long-term credibility to the energy thesis"
+      ],
+      "bear_case": [
+        "56% of analysts rate OXY a Hold with only 6% Strong Buy; unhedged production makes earnings highly sensitive to oil price volatility and potential geopolitical de-escalation",
+        "Iran ceasefire or diplomatic breakthrough could trigger a sharp oil price retrace, disproportionately hitting OXY's unhedged cash flows and compressing the valuation quickly"
       ],
       "recommendation": "Hold",
-      "current_price": "$476.00",
-      "price_target": "$525.40 (+10.4%)",
-      "pe_ratio": "176.45",
-      "rsi": "57.47",
-      "vs_52wk_high": "-18.6% below high ($584.73)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Technology - Semiconductors",
-      "sources": ["24/7 Wall St.", "Yahoo Finance", "Fortune", "StockAnalysis", "MarketBeat", "TradingKey"],
-      "price_history_5d": [543.00, 527.00, 529.14, 500.94, 476.00]
+      "current_price": "$54.60",
+      "price_target": "$64.68 (+18.5%)",
+      "pe_ratio": "26.23",
+      "rsi": "N/A",
+      "vs_52wk_high": "-19.1% below high ($67.45)",
+      "analyst_rating": "Hold",
+      "sector": "Energy - Oil & Gas E&P",
+      "sources": ["Barchart", "MSN Finance", "MarketBeat", "StockAnalysis", "public.com"],
+      "price_history_5d": [53.77, 54.85, 54.60]
+    },
+    {
+      "ticker": "SG",
+      "company": "Sweetgreen",
+      "discussion_driver": "Sweetgreen fell ~8% on July 20 as the FDA cyclospora parasite investigation continued to weigh on the stock. Despite a July 17 relief rally (+17%) when federal traceback investigators linked the outbreak to Taylor Farms lettuce at Taco Bell, renewed fears have returned. The stock is down 24%+ in the past month and sits 61% below its 52-week high.",
+      "bull_case": [
+        "FDA traceback already partially cleared Sweetgreen (July 17 +17% relief rally); full clearance could trigger another sharp bounce from deeply oversold levels on any positive FDA update",
+        "BofA raised price target to $8.90 in July 2026 citing improving restaurant-level margins and cost discipline; Q1 was challenging but a cyclical low may be near"
+      ],
+      "bear_case": [
+        "Pre-existing business weakness independent of the cyclospora scare: same-store sales fell 12.8% in Q1 2026, showing structural demand headwinds that persist even after FDA resolution",
+        "Ongoing FDA investigation creates binary risk; any confirmed Sweetgreen supply chain link to the outbreak could trigger a severe additional selloff from already depressed levels"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$6.51",
+      "price_target": "$7.51 (+15.4%)",
+      "pe_ratio": "N/A",
+      "rsi": "N/A",
+      "vs_52wk_high": "-61.0% below high ($16.70)",
+      "analyst_rating": "Hold",
+      "sector": "Consumer Discretionary - Restaurants / Fast Casual",
+      "sources": ["CNBC", "Bloomberg", "Forbes", "Motley Fool", "BofA Research"],
+      "price_history_5d": [8.40, 6.22, 7.08, 6.51]
     }
   ]
 }
