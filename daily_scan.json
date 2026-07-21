@@ -1,158 +1,174 @@
 {
-  "report_date": "2026-07-20",
-  "market_tone": "Mixed",
+  "report_date": "2026-07-21",
+  "market_tone": "Bullish",
   "key_themes": [
-    "US-Iran military escalation (9th consecutive night of strikes) pushes oil above $91 and weighs on equities",
-    "Big Tech earnings season kicks off this week with Alphabet and Tesla reporting; AI demand in focus",
-    "AI infrastructure spending boom: AMD-Microsoft deal and Hut 8's $9.8B data center lease underscore continued buildout"
+    "Semiconductor/AI chip surge led by AMD-Microsoft Helios deal and memory rally (Micron +12%, WDC +11%)",
+    "Crypto regulatory tailwind: CLARITY Act momentum lifts Coinbase +12%, Robinhood +9%, Bitcoin to 2-week high",
+    "Earnings season split: 3M and GM beat expectations; Danaher tumbles 14% on trimmed revenue outlook"
   ],
   "sp500": {
-    "value": "7,443.28",
-    "change": "-0.19%"
+    "value": "7,509.00",
+    "change": "+0.89%"
   },
   "nasdaq": {
-    "value": "25,508.07",
-    "change": "-0.05%"
+    "value": "25,837.00",
+    "change": "+1.29%"
   },
   "stocks": [
     {
-      "ticker": "AMC",
-      "company": "AMC Entertainment Holdings",
-      "reason": "Q2 earnings beat with record $1.6B revenue and surprise profit of $0.14/share; box office recovery momentum; shares surged ~27%",
-      "category": "earnings",
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "reason": "Surged 12% as AMD-Microsoft Helios AI deal supercharged demand outlook for HBM and AI memory; memory sector led Nasdaq rally",
+      "category": "sector",
       "sources": [
+        "Yahoo Finance",
         "Motley Fool",
-        "Investing.com"
-      ]
-    },
-    {
-      "ticker": "ACHR",
-      "company": "Archer Aviation",
-      "reason": "Unveiled \"Thunder\" autonomous VTOL defense craft co-developed with Anduril Industries; first flight planned for next year; shares surged ~20%",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "Motley Fool",
-        "Yahoo Finance"
+        "TheStreet"
       ]
     },
     {
       "ticker": "AMD",
       "company": "Advanced Micro Devices",
-      "reason": "Massive Microsoft AI infrastructure deal announced; chip sector rebound from last week's selloff; shares up ~5%",
+      "reason": "Jumped ~8% to $543 after Microsoft announced deployment of AMD Helios rack-scale AI infrastructure across Azure, combining MI455X + EPYC Venice + Pensando",
       "category": "news",
       "sources": [
         "CNBC",
-        "Yahoo Finance"
+        "FX Leaders",
+        "Invezz",
+        "TradingKey"
       ]
     },
     {
-      "ticker": "HUT",
-      "company": "Hut 8 Corp",
-      "reason": "Signed $9.8B 15-year AI data center lease (352 MW) fully commercializing Beacon Point campus in Texas; shares jumped ~12%",
+      "ticker": "NBIS",
+      "company": "Nebius Group",
+      "reason": "Surged ~19% after Nvidia disclosed a 9.3% passive stake (22.3M shares, valued near $5B) in the AI neocloud company via SEC filing",
       "category": "news",
       "sources": [
         "CNBC",
-        "Yahoo Finance"
+        "Seeking Alpha",
+        "GuruFocus",
+        "247WallSt"
       ]
     },
     {
-      "ticker": "DPZ",
-      "company": "Domino's Pizza",
-      "reason": "Q2 results beat subdued expectations: 3.0% global retail sales growth, 209 net new stores, 3.1% operating income increase; shares rose ~7%",
+      "ticker": "COIN",
+      "company": "Coinbase Global",
+      "reason": "Jumped ~12% as Treasury Secretary Scott Bessent said the CLARITY Act is at the \"1-yard line\" in the Senate, fueling crypto regulatory optimism",
+      "category": "news",
+      "sources": [
+        "Bloomberg",
+        "Benzinga",
+        "CNBC",
+        "247WallSt"
+      ]
+    },
+    {
+      "ticker": "DHR",
+      "company": "Danaher",
+      "reason": "Tumbled ~14% despite Q2 earnings beat ($1.94 EPS vs $1.84 est.); investors sold on trimmed full-year core revenue growth outlook and soft bioprocessing guidance",
       "category": "earnings",
       "sources": [
-        "CNBC",
-        "Investing.com"
+        "Benzinga",
+        "Seeking Alpha",
+        "Investing.com",
+        "Danaher IR"
       ]
     },
     {
-      "ticker": "TER",
-      "company": "Teradyne",
-      "reason": "Top Nasdaq 100/S&P 500 performer, up ~8.4%; chip sector rebound and renewed AI semiconductor test demand; earnings due July 28",
+      "ticker": "ADBE",
+      "company": "Adobe",
+      "reason": "Fell ~4% after Morgan Stanley downgraded to Underweight from Equal-weight, slashing price target to $240 from $365 on AI disruption and leadership transition concerns",
+      "category": "downgrade",
+      "sources": [
+        "Morgan Stanley",
+        "TipRanks",
+        "Yahoo Finance",
+        "Bloomberg"
+      ]
+    },
+    {
+      "ticker": "CRM",
+      "company": "Salesforce",
+      "reason": "Fell ~4% after Morgan Stanley cut to Equalweight from Overweight and slashed price target to $185 from $287, citing need for more proof AI investments drive growth",
+      "category": "downgrade",
+      "sources": [
+        "Morgan Stanley",
+        "TipRanks",
+        "Yahoo Finance",
+        "Bloomberg"
+      ]
+    },
+    {
+      "ticker": "GM",
+      "company": "General Motors",
+      "reason": "Reported Q2 EPS of $3.57, beating $3.15 estimate by 13%; net income of $3.9B; also announced shareholder payouts, stock rose on earnings beat",
+      "category": "earnings",
+      "sources": [
+        "Yahoo Finance",
+        "MarketBeat",
+        "Benzinga",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "MMM",
+      "company": "3M",
+      "reason": "Surged ~7% after Q2 earnings beat; revenue of $6.39B and EPS of $2.24 exceeded expectations; helped snap the market's three-session losing streak",
+      "category": "earnings",
+      "sources": [
+        "Yahoo Finance",
+        "Benzinga",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "HAS",
+      "company": "Hasbro",
+      "reason": "Rose 7% after Q2 earnings and revenue beat; company raised its adjusted EBITDA guidance for full-year 2026",
+      "category": "earnings",
+      "sources": [
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "WDC",
+      "company": "Western Digital",
+      "reason": "Climbed ~11% on memory sector rally; analysts raised price targets on long-term AI storage demand outlook following AMD-Microsoft deal",
       "category": "sector",
       "sources": [
         "TheStreet",
-        "BestStocks"
-      ]
-    },
-    {
-      "ticker": "LITE",
-      "company": "Lumentum Holdings",
-      "reason": "Upgraded to Overweight from Equal Weight at Barclays with $1,000 price target; shares advanced ~6.2%",
-      "category": "upgrade",
-      "sources": [
-        "247WallSt",
         "Yahoo Finance"
       ]
     },
     {
-      "ticker": "MU",
-      "company": "Micron Technology",
-      "reason": "Popped more than 4% on chip sector rebound; riding AI infrastructure tailwinds alongside AMD recovery",
-      "category": "sector",
-      "sources": [
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "OXY",
-      "company": "Occidental Petroleum",
-      "reason": "Bullish options activity with vol/OI ratio spike; up 30%+ YTD as Brent crude spiked toward $91 on Iran escalation",
-      "category": "news",
-      "sources": [
-        "Barchart",
-        "MSN Finance"
-      ]
-    },
-    {
-      "ticker": "SG",
-      "company": "Sweetgreen",
-      "reason": "Down ~8% as FDA investigates cyclospora outbreak linked to raw produce; stock down 24%+ in past month despite no direct link confirmed",
+      "ticker": "HOOD",
+      "company": "Robinhood Markets",
+      "reason": "Jumped ~9% alongside Coinbase as CLARITY Act crypto regulatory clarity drove broad crypto brokerage rally",
       "category": "news",
       "sources": [
         "CNBC",
-        "Bloomberg",
-        "Forbes"
+        "BitcoinWorld",
+        "StockStory"
       ]
     },
     {
-      "ticker": "CAVA",
-      "company": "Cava Group",
-      "reason": "Shed ~5% on cyclospora food-safety contagion fears spreading across fast-casual restaurant sector",
+      "ticker": "TSM",
+      "company": "Taiwan Semiconductor Manufacturing",
+      "reason": "Popped 3%+ on reports it will raise chipmaking service prices by up to 10% next year, signaling strong AI chip demand outlook",
       "category": "news",
       "sources": [
-        "CNBC"
+        "CNBC",
+        "Reuters"
       ]
     },
     {
-      "ticker": "NFLX",
-      "company": "Netflix",
-      "reason": "Upgraded to Buy from Accumulate at Phillip Securities with $110 price target; also featured in Monday analyst call roundup",
-      "category": "upgrade",
+      "ticker": "MSCI",
+      "company": "MSCI Inc.",
+      "reason": "Fell ~10.7% after missing Wall Street's Q2 earnings expectations, one of the session's biggest decliners outside the semiconductor rally",
+      "category": "earnings",
       "sources": [
-        "247WallSt",
+        "TheStreet",
         "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "INTU",
-      "company": "Intuit",
-      "reason": "Steepest S&P 500 decliner on the day, down 3.4%; stock off 57.5% year-to-date; continued selling pressure in fintech/software names",
-      "category": "news",
-      "sources": [
-        "TheStreet"
-      ]
-    },
-    {
-      "ticker": "SPCX",
-      "company": "SpaceX",
-      "reason": "Moved Starship next launch attempt to Thursday; shares dipped ~1% despite the announcement; heavily discussed alongside Archer Aviation aerospace comparisons",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance",
-        "Motley Fool"
       ]
     }
   ]
