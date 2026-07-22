@@ -1,129 +1,135 @@
 {
-  "report_date": "2026-07-20",
+  "report_date": "2026-07-21",
   "batch": 1,
-  "market_tone": "Mixed",
+  "market_tone": "Bullish",
   "key_themes": [
-    "US-Iran military escalation (9th consecutive night of strikes) pushes oil above $91 and weighs on equities",
-    "Big Tech earnings season kicks off this week with Alphabet and Tesla reporting; AI demand in focus",
-    "AI infrastructure spending boom: AMD-Microsoft deal and Hut 8's $9.8B data center lease underscore continued buildout"
+    "Semiconductor/AI chip surge led by AMD-Microsoft Helios deal and memory rally (Micron +12%, WDC +11%)",
+    "Crypto regulatory tailwind: CLARITY Act momentum lifts Coinbase +12%, Robinhood +9%, Bitcoin to 2-week high",
+    "Earnings season split: 3M and GM beat expectations; Danaher tumbles 14% on trimmed revenue outlook"
   ],
-  "sp500": {"value": "7,443.28", "change": "-0.19%"},
-  "nasdaq": {"value": "25,508.07", "change": "-0.05%"},
+  "sp500": {
+    "value": "7,509.00",
+    "change": "+0.89%"
+  },
+  "nasdaq": {
+    "value": "25,837.00",
+    "change": "+1.29%"
+  },
   "stocks": [
     {
-      "ticker": "AMC",
-      "company": "AMC Entertainment Holdings",
-      "discussion_driver": "AMC Entertainment posted its best-ever quarterly revenue of $1.6 billion for Q2 2026 with a surprise $0.14/share profit (vs. -$0.06 expected), triggering a 26.8% single-day stock surge on volume ~342% above the 3-month average. The result reflects both a robust 2026 box office slate and AMC's aggressive cost-cutting following its pandemic-era debt restructuring. The earnings beat marks a potential inflection point for the theater recovery narrative, though analyst consensus targets remain below the post-surge price.",
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "discussion_driver": "Micron surged ~12% as the AMD-Microsoft Helios rack-scale AI infrastructure deal supercharged demand forecasts for HBM and AI memory. With HBM4 supply fully sold out for calendar 2026 and mass shipments underway to a lead customer, Micron sits at the center of the AI memory boom. The stock rebounded sharply from oversold RSI territory (38.25) but remains 22.7% below its 52-week high.",
       "bull_case": [
-        "Record Q2 revenue of $1.6B with $0.14/share surprise profit demonstrates operational turnaround is gaining real traction; EBITDA margins projected to expand from ~8% in 2025 to ~11-12% by 2027 as cost restructuring bears fruit",
-        "Strong 2026 film slate continues to drive box office recovery with record summer ticket sales, improving attendance trends that could sustain margin expansion through year-end and into 2027"
+        "HBM4 supply completely sold out for all of calendar 2026 with mass shipments commenced; Micron is tightly embedded in critical AI infrastructure, offering strong near-term revenue visibility",
+        "AMD-Microsoft Helios deployment across Azure reinforces explosive AI memory demand forecasts; analyst consensus projects HBM revenues to roughly double by fiscal 2027 as AI workloads proliferate"
       ],
       "bear_case": [
-        "Heavy pandemic-era debt burden constrains financial flexibility and leaves AMC vulnerable to any softening in attendance; high fixed-cost structure means revenue misses flow disproportionately to the bottom line",
-        "Structural secular headwinds from streaming proliferation threaten long-term theater attendance; with 7-analyst S&P Global consensus at $2.24 now below the current price, near-term upside appears largely priced in following the earnings surge"
+        "RSI of 38.25 signals oversold conditions but persistent downward momentum (-22.7% from 52-week high) suggests the market may continue repricing the stock before a sustained recovery materializes",
+        "Memory markets are inherently cyclical; a slowdown in AI infrastructure capex or inventory buildup by hyperscalers could rapidly compress Micron margins and pricing power across the HBM and NAND segments"
       ],
-      "recommendation": "Hold",
-      "current_price": "$2.46",
-      "price_target": "$2.24 (-8.9%)",
-      "pe_ratio": "N/A",
-      "rsi": "N/A",
-      "vs_52wk_high": "-31.7% below high ($3.60)",
-      "analyst_rating": "Hold",
-      "sector": "Consumer Discretionary - Movie Theaters",
-      "sources": ["Motley Fool", "StockStory", "Benzinga", "S&P Global", "TipRanks"],
-      "price_history_5d": [1.96, 2.07, 2.07, 1.94, 2.46]
-    },
-    {
-      "ticker": "ACHR",
-      "company": "Archer Aviation",
-      "discussion_driver": "Archer Aviation unveiled 'Thunder,' an autonomous military VTOL aircraft co-developed with Anduril Industries, marking a major strategic expansion into the defense sector alongside its civilian Midnight air taxi program. The announcement—with first flight planned for next year—drove a ~20% single-day stock surge from a 52-week intraday low of $4.30. Archer now has two distinct product lines targeting urban air mobility and autonomous defense markets, though it remains pre-revenue with ongoing scrutiny around cash runway sustainability.",
-      "bull_case": [
-        "Thunder defense VTOL co-development with Anduril opens a high-value defense contract market in addition to civilian Midnight eVTOL, significantly diversifying the addressable revenue opportunity",
-        "FAA type certification progress for Midnight and UAE pilot program launch in H1 2026 represent near-term commercialization catalysts; analyst consensus price target of $12 implies ~126% upside from current levels"
-      ],
-      "bear_case": [
-        "Pre-revenue company with no commercial flights yet; cash runway is a major concern and any need for additional capital raises dilution risk for existing shareholders",
-        "FAA certification delays or slower-than-expected consumer and enterprise adoption of eVTOL could push meaningful revenue timelines well beyond 2026-2027 projections"
-      ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$5.31",
-      "price_target": "$12.00 (+126.0%)",
-      "pe_ratio": "N/A",
-      "rsi": "39.21",
-      "vs_52wk_high": "-63.7% below high ($14.62)",
+      "recommendation": "Buy",
+      "current_price": "$969.89",
+      "price_target": "$1,268.93 (+30.8%)",
+      "pe_ratio": "19.22",
+      "rsi": "38.25",
+      "vs_52wk_high": "-22.7% below high ($1,255.00)",
       "analyst_rating": "Strong Buy",
-      "sector": "Aerospace & Defense - eVTOL",
-      "sources": ["CNBC", "247WallSt", "StockAnalysis", "TipRanks", "MarketBeat"],
-      "price_history_5d": [4.44, 5.31]
+      "sector": "Technology - Semiconductors",
+      "sources": ["MarketBeat", "TradingKey", "StockAnalysis", "FX Leaders", "eToro"],
+      "price_history_5d": [853.20, 848.95, 865.46, 969.89]
     },
     {
       "ticker": "AMD",
       "company": "Advanced Micro Devices",
-      "discussion_driver": "AMD surged approximately 5% after Microsoft announced wide-scale deployment of AMD's next-generation Helios rackscale AI solution across Azure for frontier model inference and enterprise workloads, positioning AMD as a primary NVIDIA alternative for AI chips. The deal also expands EPYC CPU and Pensando DPU deployments across Azure, and triggered multiple analyst price target increases including BofA raising to $620. AMD is up ~160% year-to-date but remains ~11% below its June 30 52-week high of $584.73 after a mid-month chip sector selloff.",
+      "discussion_driver": "AMD jumped ~8% to $543 after Microsoft announced full deployment of AMD Helios rack-scale AI infrastructure across Azure, combining MI455X GPUs, EPYC Venice CPUs, and Pensando DPUs. This landmark hyperscaler win validates AMD's data center stack as a credible Nvidia alternative and reinforces a major AI revenue ramp, with B of A raising its price target to $620 and Keybanc at $725.",
       "bull_case": [
-        "Microsoft Azure mega-deal validates the Helios platform and EPYC market penetration, providing a major enterprise revenue anchor and AI ecosystem credibility as the leading NVIDIA alternative for inference workloads",
-        "Rapidly expanding data center GPU segment alongside profitable EPYC CPU business provides multiple simultaneous growth engines; 160% YTD gain reflects a fundamental re-rating of AMD's AI total addressable market"
+        "Microsoft Helios deployment across Azure confirms AMD's MI455X GPU at hyperscale, directly threatening Nvidia's monopoly on AI cloud workloads; B of A's $620 target and Keybanc's $725 reflect growing Street confidence in AMD's AI data center roadmap",
+        "EPYC Venice CPUs continue taking x86 server market share from Intel; the combined CPU+GPU+DPU stack creates a unified data center offering that hyperscalers can procure from a single vendor, reducing supply chain complexity"
       ],
       "bear_case": [
-        "Trailing P/E of 165x and forward P/E of ~69x price in near-perfect execution; any miss on AI revenue ramp or guidance softness could trigger a sharp correction from these elevated valuation levels",
-        "NVIDIA's deeply entrenched CUDA software ecosystem and dominant market share in AI training remain formidable competitive moats; AMD's share gains are real but closing the gap further will be increasingly difficult"
+        "Trailing P/E of 167.92 reflects an extremely stretched valuation; any miss on AI data center revenue targets or margin compression could trigger sharp multiple contraction from current levels",
+        "Persistent reports of MI450-series next-generation GPU delays risk undermining hyperscaler confidence in AMD's roadmap, particularly if Nvidia accelerates its Blackwell successor launch timeline"
       ],
       "recommendation": "Buy",
-      "current_price": "$520.55",
-      "price_target": "$525.40 (+0.9%)",
-      "pe_ratio": "165.25",
-      "rsi": "57.47",
-      "vs_52wk_high": "-11.0% below high ($584.73)",
+      "current_price": "$544.52",
+      "price_target": "$620.00 (+13.9%)",
+      "pe_ratio": "167.92",
+      "rsi": "N/A",
+      "vs_52wk_high": "-6.9% below high ($584.73)",
       "analyst_rating": "Strong Buy",
       "sector": "Technology - Semiconductors",
-      "sources": ["Yahoo Finance", "Investing.com", "Gurufocus", "StockAnalysis", "TradingKey"],
-      "price_history_5d": [534.00, 495.76, 520.55]
+      "sources": ["Benzinga", "StockAnalysis", "Yahoo Finance", "CNN Markets", "TradingKey"],
+      "price_history_5d": [496.00, 495.76, 513.21, 544.52]
     },
     {
-      "ticker": "HUT",
-      "company": "Hut 8 Corp",
-      "discussion_driver": "Hut 8 signed a second 15-year, $9.8 billion AI data center lease at its Beacon Point campus in Texas (352 MW), fully commercializing the 1-gigawatt facility and bringing total campus contracted value to $19.6 billion with renewal options up to $50.2 billion. The deal marks the completion of Hut 8's strategic pivot from Bitcoin miner to AI infrastructure developer and triggered a ~12% stock surge. Benchmark nearly doubled its price target to $165 (from $85) and BTIG raised to $150, both citing the transformative long-term contracted revenue base.",
+      "ticker": "NBIS",
+      "company": "Nebius Group",
+      "discussion_driver": "Nebius surged ~19% after Nvidia disclosed a 9.3% passive stake (22.3 million Class A shares, valued at ~$4B at Monday's close) via SEC filing, validating Nebius as a strategic AI neocloud partner. Separately, the company secured its first $775M senior secured debt facility, enabling aggressive datacenter expansion at a time when AI cloud supply remains severely constrained.",
       "bull_case": [
-        "$9.8B 15-year AI data center lease creates predictable long-term contracted revenue that fundamentally re-rates Hut 8 from a speculative Bitcoin miner to a credible AI infrastructure developer with massive revenue visibility",
-        "Campus-level contracted value of $19.6B (up to $50.2B with renewals) provides an entirely new valuation floor; analyst targets of $129-$165 imply 25-60% upside from current levels"
+        "Nvidia's 9.3% equity stake signals deep strategic validation and potential preferential access to cutting-edge GPU allocations, creating a durable competitive moat vs. rival AI cloud providers; Northland Capital raised its target to $410 on July 20",
+        "$775M senior secured debt facility enables rapid data center capacity expansion into the fastest-growing segment of AI infrastructure, with management targeting multi-gigawatt deployments across Europe and the US"
       ],
       "bear_case": [
-        "Continued Bitcoin mining exposure creates earnings volatility tied to crypto market cycles, which could overshadow AI infrastructure progress and weigh on multiple expansion in down-market environments",
-        "Executing a $9.8B AI data center project at scale requires significant capital; past equity issuances and potential future capital raises remain key dilution risks for existing shareholders"
+        "52-week range of $49-$299.86 reflects extreme volatility and a heavily speculative premium; a cooling of AI sentiment or any reduction in Nvidia's stake would sharply reprice the stock",
+        "Company remains pre-profitability with growing operating losses and is entirely dependent on continued capital markets access and sustained investor appetite for early-stage AI infrastructure growth plays"
       ],
       "recommendation": "Speculative Buy",
-      "current_price": "$103.04",
-      "price_target": "$129.00 (+25.2%)",
+      "current_price": "$216.92",
+      "price_target": "$238.35 (+9.9%)",
       "pe_ratio": "N/A",
       "rsi": "N/A",
-      "vs_52wk_high": "-26.8% below high ($140.80)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Technology - AI Infrastructure & Bitcoin Mining",
-      "sources": ["CoinDesk", "CryptoTimes", "Yahoo Finance", "StockAnalysis", "Blockonomi"],
-      "price_history_5d": [92.00, 103.04]
+      "vs_52wk_high": "-27.7% below high ($299.86)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - AI Cloud Infrastructure",
+      "sources": ["CNBC", "Seeking Alpha", "GuruFocus", "StockAnalysis", "TipRanks"],
+      "price_history_5d": [194.09, 182.62, 216.92]
     },
     {
-      "ticker": "DPZ",
-      "company": "Domino's Pizza",
-      "discussion_driver": "Domino's Pizza Q2 2026 results beat subdued revenue expectations ($1.19B vs. $1.18B estimated) but missed on EPS ($4.07 vs. $4.17), with U.S. same-store sales growing just 0.1%—the weakest quarterly showing in more than a year. The stock rose ~7% as investors viewed 209 net new store openings and 3.1% operating income growth as evidence of a resilient franchise model. Post-earnings analyst consensus coalesced around $391, though lingering CEO succession concerns and soft comps keep the long-term outlook cautious.",
+      "ticker": "COIN",
+      "company": "Coinbase Global",
+      "discussion_driver": "Coinbase surged ~11% as Treasury Secretary Scott Bessent said the CLARITY Act is at the 'one-yard line' in the Senate, fueling broad crypto regulatory optimism and sending Bitcoin to a two-week high. Coinbase's Base Layer 2 network also announced an imminent launch of 1:1 tokenized equity trading, directly competing with Robinhood and potentially expanding Coinbase's addressable market well beyond crypto.",
       "bull_case": [
-        "Global franchise expansion with 209 net new stores and 3.0% global retail sales growth demonstrates the durability of the Domino's asset-light model even in a challenging consumer spending environment",
-        "Stock remains ~30% below its 52-week high of $496, offering meaningful mean-reversion upside as the post-earnings beat re-establishes operational credibility and consumer sentiment eventually improves"
+        "CLARITY Act passage would establish the first comprehensive US crypto regulatory framework, legitimizing Coinbase as the primary regulated exchange and unlocking significant institutional capital inflows into the crypto market",
+        "Tokenized equity trading on Coinbase's Base L2 could transform Coinbase from a crypto-only exchange into a broad securities trading platform, dramatically expanding total addressable market and recurring revenue streams"
       ],
       "bear_case": [
-        "U.S. comps up only 0.1% and international comps down 0.1% signal consumer spending fatigue that could deepen if macro conditions deteriorate; EPS miss and weakening same-store trends suggest pricing power is eroding",
-        "CEO succession uncertainty creates strategic risk and could compress the valuation multiple; if same-store sales trends worsen, the 52-week low of $282 remains a plausible downside scenario"
+        "Stock trades 59.2% below its 52-week high despite today's CLARITY Act-driven rally, reflecting persistent institutional caution about the sustainability of a crypto-dependent, cyclical revenue model",
+        "Legislative risk remains elevated: CLARITY Act could face Senate amendments, procedural delays, or Presidential opposition, and any setback would immediately reverse the regulatory-optimism-driven gains"
+      ],
+      "recommendation": "Speculative Buy",
+      "current_price": "$178.00",
+      "price_target": "$241.49 (+35.7%)",
+      "pe_ratio": "57.60",
+      "rsi": "N/A",
+      "vs_52wk_high": "-59.2% below high ($436.38)",
+      "analyst_rating": "Buy",
+      "sector": "Financial Services - Cryptocurrency Exchange",
+      "sources": ["Bloomberg", "Benzinga", "CNBC", "StockAnalysis", "Yahoo Finance"],
+      "price_history_5d": [160.43, 175.85, 160.43, 178.00]
+    },
+    {
+      "ticker": "DHR",
+      "company": "Danaher",
+      "discussion_driver": "Danaher tumbled ~14% despite a Q2 earnings beat ($1.94 EPS vs. $1.84 estimated; revenues $6.3B, +5.5% YoY). Investors sold aggressively on trimmed full-year core revenue growth guidance (3-4%, cut from 3-6%), biopharma client order timing delays in the bioprocessing segment, and a sharp adjusted operating margin contraction to 18% — down 9.3 percentage points year-over-year.",
+      "bull_case": [
+        "Q2 EPS of $1.94 beat the $1.84 consensus estimate and revenues grew 5.5% YoY, confirming Danaher's underlying operational resilience; the post-earnings 14% drop creates an attractive entry point at forward P/E ~20x, well below historical averages, if bioprocessing delays prove temporary",
+        "88% of analysts maintain Buy ratings with a $234.95 consensus target implying 36.4% upside; Danaher's diversified life science and diagnostics franchise with significant recurring revenue provides long-term downside protection"
+      ],
+      "bear_case": [
+        "Full-year core revenue growth guidance cut to 3-4% (from 3-6%) and adjusted operating margin contraction of 9.3 percentage points signals meaningful structural headwinds in bioprocessing and biopharma, not just a one-quarter anomaly",
+        "Biopharma clients pushing out order timing could reflect a longer demand-cycle reset than management is acknowledging, with risk of further guidance cuts in Q3 that would extend the stock's underperformance"
       ],
       "recommendation": "Hold",
-      "current_price": "$344.74",
-      "price_target": "$391.00 (+13.4%)",
-      "pe_ratio": "17.24",
+      "current_price": "$172.29",
+      "price_target": "$234.95 (+36.4%)",
+      "pe_ratio": "37.45",
       "rsi": "N/A",
-      "vs_52wk_high": "-30.5% below high ($496.00)",
-      "analyst_rating": "Hold",
-      "sector": "Consumer Discretionary - Restaurant",
-      "sources": ["CNBC", "StockStory", "MarketBeat", "MacroTrends", "QZ"],
-      "price_history_5d": [322.18, 344.74]
+      "vs_52wk_high": "-29.0% below high ($242.80)",
+      "analyst_rating": "Buy",
+      "sector": "Healthcare - Life Sciences & Diagnostics",
+      "sources": ["GuruFocus", "Seeking Alpha", "Investing.com", "Danaher IR", "StockAnalysis"],
+      "price_history_5d": [203.83, 201.11, 172.29]
     }
   ]
 }
