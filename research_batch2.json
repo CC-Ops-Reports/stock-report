@@ -1,121 +1,156 @@
 {
-  "report_date": "2026-07-20",
+  "report_date": "2026-07-21",
   "batch": 2,
   "stocks": [
     {
-      "ticker": "TER",
-      "company": "Teradyne",
-      "discussion_driver": "Top Nasdaq 100/S&P 500 performer on July 20 (+8.4%), riding the chip sector rebound with renewed AI semiconductor test demand. Q1 2026 revenue surged 87% YoY with AI now representing ~70% of total sales. Earnings report due July 28 is the key near-term catalyst.",
+      "ticker": "ADBE",
+      "company": "Adobe Inc.",
+      "discussion_driver": "Adobe fell ~4% after Morgan Stanley downgraded to Underweight from Equal-weight and slashed its price target from $365 to $240, citing accelerating AI disruption risk to core creative products and uncertainty around a leadership transition. CEO Shantanu Narayen sold shares on July 15 at $224.56, adding to investor caution. Despite a historically deep discount at 13.57x trailing PE vs a 10-year median of 48x, near-term sentiment remains negative.",
       "bull_case": [
-        "AI-related semiconductor test demand represents ~70% of revenue; Q1 2026 revenue up 87% YoY with TSMC GPU wafer sort partnerships expanding; Cantor Fitzgerald set a $550 price target",
-        "Strong analyst consensus (Buy, 45% Strong Buy, 45% Buy); multiple recent analyst upgrades and price target increases signal confidence in the AI test cycle durability through 2026-27"
+        "Trading at a 13.57x trailing PE — 72% below its 10-year median — offering a compelling long-term entry point if AI headwinds prove manageable",
+        "Creative Cloud and Document Cloud ecosystem with 300M+ users provides deep recurring revenue moat that AI challengers will struggle to replicate quickly"
       ],
       "bear_case": [
-        "Trades at ~48x forward P/E vs. semiconductor sector average of ~33x; premium valuation is vulnerable if AI testing demand disappoints or growth rate decelerates post-earnings",
-        "Significant drawdown from $487.91 June 30 all-time high; sluggish industrial automation segment and geopolitical semiconductor supply chain risk may cap the recovery into Q3"
+        "Morgan Stanley Underweight downgrade and $240 target reflects genuine concern that generative AI tools (Midjourney, Sora, etc.) are eroding Adobe's core design market",
+        "Leadership transition risk and CEO insider selling create near-term uncertainty; stock already down ~40% from 52-week high with no clear re-rating catalyst"
       ],
-      "recommendation": "Buy",
-      "current_price": "$349.44",
-      "price_target": "$448.58 (+28.4%)",
-      "pe_ratio": "N/A",
-      "rsi": "42.2",
-      "vs_52wk_high": "-28.4% below high ($487.91)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Semiconductors / Test Equipment",
-      "sources": ["Yahoo Finance", "MarketBeat", "Simply Wall St", "TIKR.com", "TheStreet", "BestStocks"],
-      "price_history_5d": [353.23, 322.36, 349.44]
+      "recommendation": "Hold",
+      "current_price": "$226.90",
+      "price_target": "$272.48 (+20.0%)",
+      "pe_ratio": "13.57",
+      "rsi": "N/A",
+      "vs_52wk_high": "-39.7% below high ($376.16)",
+      "analyst_rating": "Hold",
+      "sector": "Technology - Software",
+      "sources": [
+        "Morgan Stanley",
+        "GuruFocus",
+        "TipRanks",
+        "Yahoo Finance",
+        "Bloomberg",
+        "StockAnalysis"
+      ],
+      "price_history_5d": [224.56, 237.25, 234.74, 226.90]
     },
     {
-      "ticker": "LITE",
-      "company": "Lumentum Holdings",
-      "discussion_driver": "Barclays upgraded LITE to Overweight with a $1,000 price target, driving a 6.2% gain on July 20 amid surging demand for AI data center optical components. Lumentum is positioned as a key photonics supplier to hyperscalers, with 15 analysts issuing a Buy consensus and a median target of $1,100.",
+      "ticker": "CRM",
+      "company": "Salesforce, Inc.",
+      "discussion_driver": "Salesforce fell ~4% after Morgan Stanley downgraded to Equalweight from Overweight and cut its price target from $287 to $185, citing a need for concrete proof that AI investments are driving revenue growth. The simultaneous Adobe/CRM double-downgrade amplified the sell-off. Despite a broad analyst Buy consensus with a $243 average price target, near-term growth visibility remains clouded ahead of its next earnings report.",
       "bull_case": [
-        "Barclays Overweight upgrade and $1,000 PT reflects the AI data center optical supercycle; Buy consensus from 15 analysts with median target $1,100; stock up 121% YTD",
-        "AI infrastructure buildout is creating insatiable demand for coherent optics and photonics; Lumentum is a key supplier benefiting directly from hyperscaler capital expenditure expansion"
+        "Agentforce AI platform with 300K+ enterprise customers deployed positions Salesforce as a leading AI-native CRM; management expects meaningful revenue contribution in FY2027",
+        "Stock trading 39% below its 52-week high at a 19.28x trailing PE creates a potential value entry if Agentforce AI revenue proves out; 39 Buy vs 10 Hold vs 2 Sell from 51 analysts"
       ],
       "bear_case": [
-        "Trailing P/E of ~146x is extremely elevated; heavy capacity commitments create fixed-cost risk if AI optical demand fluctuates or hyperscaler spending moderates",
-        "Down ~29.5% from 52-week high of $1,085.68 despite strong YTD gains; insider selling noted; execution risk and demand durability are key pressure points at this valuation"
+        "Morgan Stanley downgrade highlights that AI agents from Microsoft Copilot and ServiceNow may displace traditional CRM workflows before Agentforce gains sufficient traction",
+        "RSI of 41.40 and stock near 52-week lows reflect continued selling pressure; near-term recovery depends heavily on next earnings catalyst and AI ARR disclosure"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$166.27",
+      "price_target": "$243.48 (+46.4%)",
+      "pe_ratio": "19.28",
+      "rsi": "41.40",
+      "vs_52wk_high": "-39.3% below high ($274.00)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - Enterprise Software",
+      "sources": [
+        "Morgan Stanley",
+        "TipRanks",
+        "Yahoo Finance",
+        "StockAnalysis",
+        "CNN Markets",
+        "CLSA"
+      ],
+      "price_history_5d": [170.77, 173.79, 166.27]
+    },
+    {
+      "ticker": "GM",
+      "company": "General Motors Company",
+      "discussion_driver": "General Motors delivered a strong Q2 2026 with adjusted EPS of $3.57 beating the $3.29 consensus estimate by 9%, and raised full-year guidance citing consistent vehicle transaction prices, lower warranty costs, and narrowing EV losses. Benchmark reaffirmed Buy at $105 on July 21. The stock rose ~5% and remains among the cheapest large-cap automakers globally with a forward PE of 6.09x versus an industry median of 13.18x.",
+      "bull_case": [
+        "Forward PE of 6.09x is 54% below the auto industry median of 13.18x — substantial value if GM sustains current earnings trajectory and continues narrowing EV losses",
+        "Beat-and-raise Q2 with adjusted EPS 9% above estimates and raised 2026 guidance signals strong management execution despite a challenging tariff environment"
+      ],
+      "bear_case": [
+        "High trailing PE of 29.56x versus very low forward PE of 6.09x suggests trailing earnings are elevated by non-recurring items; sustainable profitability remains an open question",
+        "Q2 revenue of $48.0B slightly missed the $48.4B estimate; any deterioration in consumer auto demand or new tariff escalation could quickly compress margins"
+      ],
+      "recommendation": "Buy",
+      "current_price": "$79.52",
+      "price_target": "$95.85 (+20.5%)",
+      "pe_ratio": "29.56",
+      "rsi": "44.14",
+      "vs_52wk_high": "-9.2% below high ($87.62)",
+      "analyst_rating": "Buy",
+      "sector": "Consumer Discretionary - Automobiles",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance",
+        "GuruFocus",
+        "StockAnalysis",
+        "TradingKey",
+        "Benchmark Research"
+      ],
+      "price_history_5d": [76.07, 79.52]
+    },
+    {
+      "ticker": "MMM",
+      "company": "3M Company",
+      "discussion_driver": "3M surged ~7% after reporting a Q2 2026 earnings beat with non-GAAP EPS of $2.40 versus the $2.24 consensus estimate on revenue of $6.5B, and raised full-year 2026 EPS guidance to $8.80-$8.95. The results highlighted effective post-spinoff restructuring and margin improvement across core industrial and safety segments. RSI of 59.67 confirms healthy technical momentum, with shares now within 5% of the 52-week high.",
+      "bull_case": [
+        "Strong Q2 beat and raised full-year EPS guidance to $8.80-$8.95 reflect post-spinoff operational discipline and sustained margin expansion across core industrial and safety products",
+        "RSI of 59.67 signals continued bullish momentum; stock recovering toward 52-week high with improving fundamental backing and technical confirmation"
+      ],
+      "bear_case": [
+        "Stock already trading within 5% of most analyst price targets (~$170-$180 consensus vs current $165.66), limiting meaningful near-term upside from current levels",
+        "Historical litigation liabilities and pension obligations remain balance sheet overhangs; any macro industrial slowdown could quickly reverse recent gains"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$165.66",
+      "price_target": "$170.96 (+3.2%)",
+      "pe_ratio": "28.17",
+      "rsi": "59.67",
+      "vs_52wk_high": "-5.2% below high ($174.69)",
+      "analyst_rating": "Hold",
+      "sector": "Industrials - Diversified Manufacturing",
+      "sources": [
+        "Yahoo Finance",
+        "Benzinga",
+        "CNBC",
+        "GuruFocus",
+        "MarketBeat",
+        "Investing.com"
+      ],
+      "price_history_5d": [159.11, 165.66]
+    },
+    {
+      "ticker": "HAS",
+      "company": "Hasbro, Inc.",
+      "discussion_driver": "Hasbro rose 7% after Q2 2026 earnings beat with EPS of $1.28 versus $1.17 expected, driven by a record quarter for Magic: The Gathering under the Wizards of the Coast division. Management raised full-year 2026 revenue and EBITDA guidance. Trading volume spiked to 7.88M shares versus the 2.7M daily average, reflecting strong institutional demand. The prior RSI near 34 (approaching oversold) made the stock primed for a bounce on this positive catalyst.",
+      "bull_case": [
+        "Record Magic: The Gathering quarter and raised EBITDA guidance confirm the Wizards of the Coast IP strategy is delivering scalable, high-margin digital licensing revenue",
+        "Strong analyst consensus with 15 analysts rating Strong Buy and a $112.29 average price target representing 26.4% upside from current levels"
+      ],
+      "bear_case": [
+        "Negative trailing PE of -52.67 reflects ongoing net losses; debt-heavy balance sheet limits financial flexibility if premium game IP cycle softens or consumer spending pulls back",
+        "Traditional toy segment (Nerf, Play-Doh) faces structural headwinds from digital entertainment; stock still 17% below its 52-week high despite today's 7% rally"
       ],
       "recommendation": "Speculative Buy",
-      "current_price": "$765.55",
-      "price_target": "$1,100.00 (+43.7%)",
-      "pe_ratio": "146.4",
-      "rsi": "N/A",
-      "vs_52wk_high": "-29.5% below high ($1,085.68)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Optical Communications / Photonics",
-      "sources": ["247WallSt", "Yahoo Finance", "MarketBeat", "Barclays Research", "TradingKey"],
-      "price_history_5d": [814.80, 752.86, 732.82, 765.55]
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron Technology",
-      "discussion_driver": "Micron popped 4%+ on July 20 chip sector rebound, recouping part of a steep mid-week selloff driven by China's CXMT announcing an $8.5B IPO and the US government considering new HBM export restrictions. AI infrastructure demand for HBM memory remains robust, and MU's RSI near 38 signals the pullback may be approaching oversold territory.",
-      "bull_case": [
-        "Strong Buy consensus from 29+ analysts with average target $1,269; AI HBM memory demand is accelerating with Anthropic and other hyperscalers signing major supply agreements",
-        "Forward P/E of ~11x with RSI at 38.25 (near oversold) creates compelling risk/reward; fundamental AI memory demand cycle remains intact and HBM pricing is favorable"
-      ],
-      "bear_case": [
-        "China CXMT's $8.5B IPO and potential US HBM export restrictions are material near-term risks that could impair Micron's AI market share and disrupt HBM pricing",
-        "Stock down ~30% from 52-week high of $1,255.00; geopolitical export control risk remains unpredictable and could significantly limit addressable AI memory market revenues"
-      ],
-      "recommendation": "Buy",
-      "current_price": "$882.75",
-      "price_target": "$1,269.62 (+43.8%)",
-      "pe_ratio": "19.22",
-      "rsi": "38.25",
-      "vs_52wk_high": "-29.7% below high ($1,255.00)",
+      "current_price": "$88.78",
+      "price_target": "$112.29 (+26.4%)",
+      "pe_ratio": "-52.67",
+      "rsi": "34.33",
+      "vs_52wk_high": "-17.0% below high ($106.98)",
       "analyst_rating": "Strong Buy",
-      "sector": "Technology - Semiconductors / Memory",
-      "sources": ["CNBC", "MarketBeat", "StockAnalysis", "TradingKey", "eToro"],
-      "price_history_5d": [985.00, 916.05, 853.20, 848.95, 882.75]
-    },
-    {
-      "ticker": "OXY",
-      "company": "Occidental Petroleum",
-      "discussion_driver": "OXY attracted bullish options activity (elevated vol/OI ratio spike) on July 20 as Iran military escalation entered its 9th consecutive night of strikes, pushing Brent crude toward $91. Up 30%+ YTD, OXY is a direct unhedged play on oil prices; the majority Hold analyst consensus reflects the risk that any diplomatic resolution could sharply reverse recent gains.",
-      "bull_case": [
-        "Direct beneficiary of Iran-driven oil spike toward $91/bbl; up 30%+ YTD; Evercore ISI upgraded to Outperform on July 8; strong 7% QoQ production growth bolsters cash flow",
-        "Bullish institutional options activity (vol/OI spike) signals near-term conviction; Berkshire Hathaway remains a major holder, adding fundamental long-term credibility to the energy thesis"
+      "sector": "Consumer Discretionary - Toys & Games",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance",
+        "StockAnalysis",
+        "AltIndex",
+        "Investing.com",
+        "Daily Political"
       ],
-      "bear_case": [
-        "56% of analysts rate OXY a Hold with only 6% Strong Buy; unhedged production makes earnings highly sensitive to oil price volatility and potential geopolitical de-escalation",
-        "Iran ceasefire or diplomatic breakthrough could trigger a sharp oil price retrace, disproportionately hitting OXY's unhedged cash flows and compressing the valuation quickly"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$54.60",
-      "price_target": "$64.68 (+18.5%)",
-      "pe_ratio": "26.23",
-      "rsi": "N/A",
-      "vs_52wk_high": "-19.1% below high ($67.45)",
-      "analyst_rating": "Hold",
-      "sector": "Energy - Oil & Gas E&P",
-      "sources": ["Barchart", "MSN Finance", "MarketBeat", "StockAnalysis", "public.com"],
-      "price_history_5d": [53.77, 54.85, 54.60]
-    },
-    {
-      "ticker": "SG",
-      "company": "Sweetgreen",
-      "discussion_driver": "Sweetgreen fell ~8% on July 20 as the FDA cyclospora parasite investigation continued to weigh on the stock. Despite a July 17 relief rally (+17%) when federal traceback investigators linked the outbreak to Taylor Farms lettuce at Taco Bell, renewed fears have returned. The stock is down 24%+ in the past month and sits 61% below its 52-week high.",
-      "bull_case": [
-        "FDA traceback already partially cleared Sweetgreen (July 17 +17% relief rally); full clearance could trigger another sharp bounce from deeply oversold levels on any positive FDA update",
-        "BofA raised price target to $8.90 in July 2026 citing improving restaurant-level margins and cost discipline; Q1 was challenging but a cyclical low may be near"
-      ],
-      "bear_case": [
-        "Pre-existing business weakness independent of the cyclospora scare: same-store sales fell 12.8% in Q1 2026, showing structural demand headwinds that persist even after FDA resolution",
-        "Ongoing FDA investigation creates binary risk; any confirmed Sweetgreen supply chain link to the outbreak could trigger a severe additional selloff from already depressed levels"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$6.51",
-      "price_target": "$7.51 (+15.4%)",
-      "pe_ratio": "N/A",
-      "rsi": "N/A",
-      "vs_52wk_high": "-61.0% below high ($16.70)",
-      "analyst_rating": "Hold",
-      "sector": "Consumer Discretionary - Restaurants / Fast Casual",
-      "sources": ["CNBC", "Bloomberg", "Forbes", "Motley Fool", "BofA Research"],
-      "price_history_5d": [8.40, 6.22, 7.08, 6.51]
+      "price_history_5d": [88.78]
     }
   ]
 }
