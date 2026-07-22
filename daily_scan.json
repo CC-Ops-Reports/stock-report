@@ -1,173 +1,178 @@
 {
-  "report_date": "2026-07-21",
-  "market_tone": "Bullish",
+  "report_date": "2026-07-22",
+  "market_tone": "Mixed",
   "key_themes": [
-    "Semiconductor/AI chip surge led by AMD-Microsoft Helios deal and memory rally (Micron +12%, WDC +11%)",
-    "Crypto regulatory tailwind: CLARITY Act momentum lifts Coinbase +12%, Robinhood +9%, Bitcoin to 2-week high",
-    "Earnings season split: 3M and GM beat expectations; Danaher tumbles 14% on trimmed revenue outlook"
+    "Big Tech earnings wave \u2014 Alphabet, Tesla, IBM, ServiceNow all reporting Q2 after the close",
+    "AI capex surge \u2014 Alphabet raises 2026 capex guidance to $195\u2013205B, spotlighting AI infrastructure spend",
+    "Oil price spike \u2014 Brent crude jumps 3.4% to $94/barrel, pressuring broader market"
   ],
   "sp500": {
-    "value": "7,509.00",
-    "change": "+0.89%"
+    "value": "7,498.96",
+    "change": "-0.14%"
   },
   "nasdaq": {
-    "value": "25,837.00",
-    "change": "+1.29%"
+    "value": "25,690.90",
+    "change": "-0.57%"
   },
   "stocks": [
     {
-      "ticker": "MU",
-      "company": "Micron Technology",
-      "reason": "Surged 12% as AMD-Microsoft Helios AI deal supercharged demand outlook for HBM and AI memory; memory sector led Nasdaq rally",
-      "category": "sector",
-      "sources": [
-        "Yahoo Finance",
-        "Motley Fool",
-        "TheStreet"
-      ]
-    },
-    {
-      "ticker": "AMD",
-      "company": "Advanced Micro Devices",
-      "reason": "Jumped ~8% to $543 after Microsoft announced deployment of AMD Helios rack-scale AI infrastructure across Azure, combining MI455X + EPYC Venice + Pensando",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "FX Leaders",
-        "Invezz",
-        "TradingKey"
-      ]
-    },
-    {
-      "ticker": "NBIS",
-      "company": "Nebius Group",
-      "reason": "Surged ~19% after Nvidia disclosed a 9.3% passive stake (22.3M shares, valued near $5B) in the AI neocloud company via SEC filing",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "Seeking Alpha",
-        "GuruFocus",
-        "247WallSt"
-      ]
-    },
-    {
-      "ticker": "COIN",
-      "company": "Coinbase Global",
-      "reason": "Jumped ~12% as Treasury Secretary Scott Bessent said the CLARITY Act is at the \"1-yard line\" in the Senate, fueling crypto regulatory optimism",
-      "category": "news",
-      "sources": [
-        "Bloomberg",
-        "Benzinga",
-        "CNBC",
-        "247WallSt"
-      ]
-    },
-    {
-      "ticker": "DHR",
-      "company": "Danaher",
-      "reason": "Tumbled ~14% despite Q2 earnings beat ($1.94 EPS vs $1.84 est.); investors sold on trimmed full-year core revenue growth outlook and soft bioprocessing guidance",
+      "ticker": "SMCI",
+      "company": "Super Micro Computer",
+      "reason": "Surged ~25% on strong preliminary Q4 results: record $60B+ order backlog, improved gross margins, and announced AI data center deal with SpaceX",
       "category": "earnings",
       "sources": [
-        "Benzinga",
-        "Seeking Alpha",
-        "Investing.com",
-        "Danaher IR"
-      ]
-    },
-    {
-      "ticker": "ADBE",
-      "company": "Adobe",
-      "reason": "Fell ~4% after Morgan Stanley downgraded to Underweight from Equal-weight, slashing price target to $240 from $365 on AI disruption and leadership transition concerns",
-      "category": "downgrade",
-      "sources": [
-        "Morgan Stanley",
-        "TipRanks",
+        "CNBC",
         "Yahoo Finance",
-        "Bloomberg"
+        "Benzinga"
       ]
     },
     {
-      "ticker": "CRM",
-      "company": "Salesforce",
-      "reason": "Fell ~4% after Morgan Stanley cut to Equalweight from Overweight and slashed price target to $185 from $287, citing need for more proof AI investments drive growth",
-      "category": "downgrade",
+      "ticker": "GOOGL",
+      "company": "Alphabet",
+      "reason": "Fell 4%+ after-hours after raising 2026 capex to $195\u2013205B despite Q2 revenue beat of $119.8B; Google Cloud revenue jumped 82% YoY",
+      "category": "earnings",
       "sources": [
-        "Morgan Stanley",
-        "TipRanks",
+        "CNBC",
         "Yahoo Finance",
-        "Bloomberg"
+        "GuruFocus"
       ]
     },
     {
-      "ticker": "GM",
-      "company": "General Motors",
-      "reason": "Reported Q2 EPS of $3.57, beating $3.15 estimate by 13%; net income of $3.9B; also announced shareholder payouts, stock rose on earnings beat",
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "reason": "Slid 5.4% after-hours after missing Q2 estimates; revenue $22.5B (down 12% YoY, below $22.8B expected); EPS $0.40 vs $0.42 consensus",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance",
+        "GuruFocus"
+      ]
+    },
+    {
+      "ticker": "IBM",
+      "company": "International Business Machines",
+      "reason": "Reported Q2 revenue miss ($17.16B vs $17.58B expected) and lowered full-year forecast; previously downgraded by HSBC to Reduce ahead of results",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "GuruFocus",
+        "IBM Newsroom",
+        "247WallSt"
+      ]
+    },
+    {
+      "ticker": "NOW",
+      "company": "ServiceNow",
+      "reason": "Jumped 3.4% after-hours on Q2 beat ($3.99B revenue) and raised full-year subscription revenue guidance to $15.76\u201315.78B on strong AI demand",
       "category": "earnings",
       "sources": [
         "Yahoo Finance",
         "MarketBeat",
-        "Benzinga",
         "CNBC"
       ]
     },
     {
-      "ticker": "MMM",
-      "company": "3M",
-      "reason": "Surged ~7% after Q2 earnings beat; revenue of $6.39B and EPS of $2.24 exceeded expectations; helped snap the market's three-session losing streak",
+      "ticker": "GEV",
+      "company": "GE Vernova",
+      "reason": "Fell 7%+ despite Q2 revenue beat ($11.1B vs $10.7B expected); EPS missed significantly ($2.47 vs $3.13 consensus)",
       "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Benzinga",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "T",
+      "company": "AT&T",
+      "reason": "Rose 4%+ premarket after Q2 earnings beat; adjusted EPS $0.65 vs $0.59 consensus estimate",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "TipRanks",
+        "Proactive Investors"
+      ]
+    },
+    {
+      "ticker": "PEGA",
+      "company": "Pegasystems",
+      "reason": "Plunged 15%+ after Q2 revenue miss ($420.7M vs $426.6M expected); clients delaying purchases amid AI market uncertainty",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "GuruFocus",
+        "Motley Fool"
+      ]
+    },
+    {
+      "ticker": "EQT",
+      "company": "EQT Corporation",
+      "reason": "Gained 6.6% after stronger-than-expected Q2 natural gas production and raised 2026 sales volume guidance to 2,375\u20132,450 Bcfe",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "AIR",
+      "company": "AAR Corp",
+      "reason": "Fell ~11% after fiscal Q4 gross margin and adjusted EBITDA margin missed Wall Street estimates for the aviation services provider",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "reason": "Declined 1.3% after KeyBanc downgraded to Underweight with $250 target, citing decelerating iPhone, MacBook, and iPad demand",
+      "category": "downgrade",
       "sources": [
         "Yahoo Finance",
-        "Benzinga",
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "HAS",
-      "company": "Hasbro",
-      "reason": "Rose 7% after Q2 earnings and revenue beat; company raised its adjusted EBITDA guidance for full-year 2026",
-      "category": "earnings",
-      "sources": [
-        "CNBC"
+        "TipRanks",
+        "Seeking Alpha"
       ]
     },
     {
       "ticker": "WDC",
       "company": "Western Digital",
-      "reason": "Climbed ~11% on memory sector rally; analysts raised price targets on long-term AI storage demand outlook following AMD-Microsoft deal",
+      "reason": "Gained 12.5% amid broad semiconductor rebound tied to AI infrastructure spending optimism on heavy volume",
       "category": "sector",
       "sources": [
-        "TheStreet",
-        "Yahoo Finance"
+        "CNBC",
+        "Blockonomi"
       ]
     },
     {
-      "ticker": "HOOD",
-      "company": "Robinhood Markets",
-      "reason": "Jumped ~9% alongside Coinbase as CLARITY Act crypto regulatory clarity drove broad crypto brokerage rally",
-      "category": "news",
+      "ticker": "INTC",
+      "company": "Intel",
+      "reason": "Jumped 8.6% as semiconductor sector rebounded on AI capex optimism following strong cloud spending signals",
+      "category": "sector",
       "sources": [
         "CNBC",
-        "BitcoinWorld",
-        "StockStory"
+        "Blockonomi"
       ]
     },
     {
-      "ticker": "TSM",
-      "company": "Taiwan Semiconductor Manufacturing",
-      "reason": "Popped 3%+ on reports it will raise chipmaking service prices by up to 10% next year, signaling strong AI chip demand outlook",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "Reuters"
-      ]
-    },
-    {
-      "ticker": "MSCI",
-      "company": "MSCI Inc.",
-      "reason": "Fell ~10.7% after missing Wall Street's Q2 earnings expectations, one of the session's biggest decliners outside the semiconductor rally",
+      "ticker": "CALM",
+      "company": "Cal-Maine Foods",
+      "reason": "Slid 6%+ premarket after disappointing fiscal Q1 earnings results; egg producer facing post-avian-flu demand normalization",
       "category": "earnings",
       "sources": [
-        "TheStreet",
+        "CNBC",
+        "TipRanks",
+        "StockTitan"
+      ]
+    },
+    {
+      "ticker": "CB",
+      "company": "Chubb",
+      "reason": "Fell 3%+ as Q2 results showed P&C insurance premium growth slowing, with company citing deliberate underwriting discipline",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
         "Yahoo Finance"
       ]
     }
