@@ -1,179 +1,173 @@
 {
-  "report_date": "2026-07-22",
-  "market_tone": "Mixed",
+  "report_date": "2026-07-23",
+  "market_tone": "Bearish",
   "key_themes": [
-    "Big Tech earnings wave \u2014 Alphabet, Tesla, IBM, ServiceNow all reporting Q2 after the close",
-    "AI capex surge \u2014 Alphabet raises 2026 capex guidance to $195\u2013205B, spotlighting AI infrastructure spend",
-    "Oil price spike \u2014 Brent crude jumps 3.4% to $94/barrel, pressuring broader market"
+    "AI capital expenditure surge rattles investors: Alphabet raises 2026 capex to $195-205B, triggering broad tech selloff",
+    "Q2 earnings divergence: defense and industrials surge while mega-cap tech and airlines disappoint",
+    "Oil spikes above $100/barrel on escalating Middle East tensions (Houthi attacks on Red Sea tankers)"
   ],
   "sp500": {
-    "value": "7,498.96",
-    "change": "-0.14%"
+    "value": "7,408.30",
+    "change": "-1.21%"
   },
   "nasdaq": {
-    "value": "25,690.90",
-    "change": "-0.57%"
+    "value": "25,137.69",
+    "change": "-2.15%"
   },
   "stocks": [
     {
-      "ticker": "SMCI",
-      "company": "Super Micro Computer",
-      "reason": "Surged ~25% on strong preliminary Q4 results: record $60B+ order backlog, improved gross margins, and announced AI data center deal with SpaceX",
+      "ticker": "TSLA",
+      "company": "Tesla Inc.",
+      "reason": "Plunged 14.5% to $319.69 (11-month low) after Q2 EPS miss ($0.33 non-GAAP vs $0.55 expected); capex +142% YoY to $5.79B; free cash flow turned negative at -$1.09B",
       "category": "earnings",
       "sources": [
         "CNBC",
         "Yahoo Finance",
-        "Benzinga"
+        "Electrek",
+        "Motley Fool"
       ]
     },
     {
       "ticker": "GOOGL",
-      "company": "Alphabet",
-      "reason": "Fell 4%+ after-hours after raising 2026 capex to $195\u2013205B despite Q2 revenue beat of $119.8B; Google Cloud revenue jumped 82% YoY",
+      "company": "Alphabet Inc.",
+      "reason": "Fell 6-7% after raising 2026 capex guidance to $195-205B (up from $190B cap); Q2 revenue of $119.8B beat estimates but massive AI infrastructure spending concern; triggered broad tech selloff",
       "category": "earnings",
       "sources": [
+        "Bloomberg",
         "CNBC",
-        "Yahoo Finance",
-        "GuruFocus"
+        "Axios",
+        "Investing.com"
       ]
     },
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "reason": "Slid 5.4% after-hours after missing Q2 estimates; revenue $22.5B (down 12% YoY, below $22.8B expected); EPS $0.40 vs $0.42 consensus",
+      "ticker": "LMT",
+      "company": "Lockheed Martin",
+      "reason": "Surged 11.4% to $573.21 after Q2 earnings beat ($7.94 vs $7.09 EPS expected) and revenue of $20.06B vs $19.34B expected; raised full-year outlook",
+      "category": "earnings",
+      "sources": [
+        "Benzinga",
+        "CNBC",
+        "Qz.com"
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "company": "Intel Corporation",
+      "reason": "Jumped 9% after hours after Q2 revenue surged 25% YoY to $16.1B \u2014 sharpest quarterly revenue growth in nearly 15 years; adjusted EPS of $0.42 beat expectations",
       "category": "earnings",
       "sources": [
         "CNBC",
+        "FX Leaders",
+        "Benzinga"
+      ]
+    },
+    {
+      "ticker": "HON",
+      "company": "Honeywell International",
+      "reason": "Rose 5-6.3% to $247.68 after Q2 sales beat estimates and raised FY2026 adjusted EPS guidance with midpoint above consensus",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Benzinga"
+      ]
+    },
+    {
+      "ticker": "CLF",
+      "company": "Cleveland-Cliffs Inc.",
+      "reason": "Popped 14-20% on better-than-expected Q2 results (loss of $0.20/share vs expected $0.21 loss) and Q3 EBITDA guidance that topped estimates; revenue of $5.23B beat $5.15B estimate",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Timothy Sykes",
+        "Alphastreet"
+      ]
+    },
+    {
+      "ticker": "ROL",
+      "company": "Rollins Inc.",
+      "reason": "Dropped 14-16% after Q2 earnings miss ($0.30 EPS vs $0.34 expected; $1.08B revenue vs $1.09B expected); worst performer among industrials",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Benzinga"
+      ]
+    },
+    {
+      "ticker": "LUV",
+      "company": "Southwest Airlines",
+      "reason": "Fell 6.2% to $44.71 after Q3 guidance missed Wall Street expectations; oil price surge above $100/barrel adds additional headwind",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Gurufocus",
+        "Quiver Quant"
+      ]
+    },
+    {
+      "ticker": "AAL",
+      "company": "American Airlines Group",
+      "reason": "Dropped ~8.6% to $13.52 on weaker travel demand concerns and analyst downgrade; sector pressure from oil spike",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "StocksToTrade"
+      ]
+    },
+    {
+      "ticker": "ROP",
+      "company": "Roper Technologies",
+      "reason": "Advanced ~6% after lifting full-year adjusted EPS guidance to $22.15-$22.30, beating FactSet consensus; strong Q2 results",
+      "category": "earnings",
+      "sources": [
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "company": "Amazon.com Inc.",
+      "reason": "Slid ~4% in sympathy with Alphabet on AI capital expenditure concerns; investors worried about sustained cloud/AI spending across mega-caps",
+      "category": "sector",
+      "sources": [
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple Inc.",
+      "reason": "Downgraded to Underweight from Sector Weight at KeyBanc with $250 price target; analyst cites valuation concerns",
+      "category": "downgrade",
+      "sources": [
         "Yahoo Finance",
-        "GuruFocus"
+        "247 Wall St."
+      ]
+    },
+    {
+      "ticker": "JPM",
+      "company": "JPMorgan Chase & Co.",
+      "reason": "Upgraded to Buy from Hold at Deutsche Bank with $375 price target (raised from $345); analyst cites strong earnings trajectory",
+      "category": "upgrade",
+      "sources": [
+        "247 Wall St.",
+        "Benzinga"
       ]
     },
     {
       "ticker": "IBM",
       "company": "International Business Machines",
-      "reason": "Reported Q2 revenue miss ($17.16B vs $17.58B expected) and lowered full-year forecast; previously downgraded by HSBC to Reduce ahead of results",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "GuruFocus",
-        "IBM Newsroom",
-        "247WallSt"
-      ]
-    },
-    {
-      "ticker": "NOW",
-      "company": "ServiceNow",
-      "reason": "Jumped 3.4% after-hours on Q2 beat ($3.99B revenue) and raised full-year subscription revenue guidance to $15.76\u201315.78B on strong AI demand",
-      "category": "earnings",
-      "sources": [
-        "Yahoo Finance",
-        "MarketBeat",
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "GEV",
-      "company": "GE Vernova",
-      "reason": "Fell 7%+ despite Q2 revenue beat ($11.1B vs $10.7B expected); EPS missed significantly ($2.47 vs $3.13 consensus)",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Benzinga",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "T",
-      "company": "AT&T",
-      "reason": "Rose 4%+ premarket after Q2 earnings beat; adjusted EPS $0.65 vs $0.59 consensus estimate",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "TipRanks",
-        "Proactive Investors"
-      ]
-    },
-    {
-      "ticker": "PEGA",
-      "company": "Pegasystems",
-      "reason": "Plunged 15%+ after Q2 revenue miss ($420.7M vs $426.6M expected); clients delaying purchases amid AI market uncertainty",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "GuruFocus",
-        "Motley Fool"
-      ]
-    },
-    {
-      "ticker": "EQT",
-      "company": "EQT Corporation",
-      "reason": "Gained 6.6% after stronger-than-expected Q2 natural gas production and raised 2026 sales volume guidance to 2,375\u20132,450 Bcfe",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "AIR",
-      "company": "AAR Corp",
-      "reason": "Fell ~11% after fiscal Q4 gross margin and adjusted EBITDA margin missed Wall Street estimates for the aviation services provider",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "reason": "Declined 1.3% after KeyBanc downgraded to Underweight with $250 target, citing decelerating iPhone, MacBook, and iPad demand",
+      "reason": "Downgraded to Reduce from Hold at HSBC with $191 price target (cut from $231); analyst sees limited upside given AI transition headwinds",
       "category": "downgrade",
       "sources": [
         "Yahoo Finance",
-        "TipRanks",
-        "Seeking Alpha"
+        "247 Wall St."
       ]
     },
     {
-      "ticker": "WDC",
-      "company": "Western Digital",
-      "reason": "Gained 12.5% amid broad semiconductor rebound tied to AI infrastructure spending optimism on heavy volume",
-      "category": "sector",
-      "sources": [
-        "CNBC",
-        "Blockonomi"
-      ]
-    },
-    {
-      "ticker": "INTC",
-      "company": "Intel",
-      "reason": "Jumped 8.6% as semiconductor sector rebounded on AI capex optimism following strong cloud spending signals",
-      "category": "sector",
-      "sources": [
-        "CNBC",
-        "Blockonomi"
-      ]
-    },
-    {
-      "ticker": "CALM",
-      "company": "Cal-Maine Foods",
-      "reason": "Slid 6%+ premarket after disappointing fiscal Q1 earnings results; egg producer facing post-avian-flu demand normalization",
+      "ticker": "DOV",
+      "company": "Dover Corporation",
+      "reason": "Dropped nearly 8% after Q2 results failed to impress investors; earnings and revenue missed Street estimates",
       "category": "earnings",
       "sources": [
-        "CNBC",
-        "TipRanks",
-        "StockTitan"
-      ]
-    },
-    {
-      "ticker": "CB",
-      "company": "Chubb",
-      "reason": "Fell 3%+ as Q2 results showed P&C insurance premium growth slowing, with company citing deliberate underwriting discipline",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance"
+        "CNBC"
       ]
     }
   ]
