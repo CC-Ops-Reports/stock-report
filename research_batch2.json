@@ -1,156 +1,121 @@
 {
-  "report_date": "2026-07-21",
+  "report_date": "2026-07-22",
   "batch": 2,
   "stocks": [
     {
-      "ticker": "ADBE",
-      "company": "Adobe Inc.",
-      "discussion_driver": "Adobe fell ~4% after Morgan Stanley downgraded to Underweight from Equal-weight and slashed its price target from $365 to $240, citing accelerating AI disruption risk to core creative products and uncertainty around a leadership transition. CEO Shantanu Narayen sold shares on July 15 at $224.56, adding to investor caution. Despite a historically deep discount at 13.57x trailing PE vs a 10-year median of 48x, near-term sentiment remains negative.",
+      "ticker": "GEV",
+      "company": "GE Vernova Inc.",
+      "discussion_driver": "GE Vernova fell over 8% on July 22 despite beating Q2 2026 revenue estimates ($11.1B vs. $10.7B expected, +21.9% YoY), as EPS of $2.47 missed consensus of $3.13 by over 22% due to persistent offshore wind margin headwinds. Management raised full-year revenue guidance to ~$46B but failed to deliver the margin improvement investors had been anticipating. The stock now sits nearly 18% below its July 6 all-time high of $1,195.94.",
       "bull_case": [
-        "Trading at a 13.57x trailing PE — 72% below its 10-year median — offering a compelling long-term entry point if AI headwinds prove manageable",
-        "Creative Cloud and Document Cloud ecosystem with 300M+ users provides deep recurring revenue moat that AI challengers will struggle to replicate quickly"
+        "AI and data center buildout driving unprecedented electricity demand directly benefiting GE Vernova's gas turbine and grid electrification businesses; full-year revenue guidance raised to ~$46B midpoint, 1.1% above analyst estimates",
+        "Record order backlog across gas power and electrification segments positions the company as a critical infrastructure enabler for the global energy transition, with strong multi-year pricing power and 21.9% YoY revenue growth"
       ],
       "bear_case": [
-        "Morgan Stanley Underweight downgrade and $240 target reflects genuine concern that generative AI tools (Midjourney, Sora, etc.) are eroding Adobe's core design market",
-        "Leadership transition risk and CEO insider selling create near-term uncertainty; stock already down ~40% from 52-week high with no clear re-rating catalyst"
+        "Q2 EPS of $2.47 missed consensus by 22.4% due to offshore wind margin disappointments; profitability timeline for the wind segment remains uncertain and could continue to weigh on results",
+        "Stock trades at ~60x forward earnings, pricing in near-perfect execution; any further margin shortfalls or large-project delays risk significant multiple compression from elevated valuation"
       ],
       "recommendation": "Hold",
-      "current_price": "$226.90",
-      "price_target": "$272.48 (+20.0%)",
-      "pe_ratio": "13.57",
+      "current_price": "$985.03",
+      "price_target": "$1,212.00 (+23.0%)",
+      "pe_ratio": "32.47",
       "rsi": "N/A",
-      "vs_52wk_high": "-39.7% below high ($376.16)",
-      "analyst_rating": "Hold",
-      "sector": "Technology - Software",
-      "sources": [
-        "Morgan Stanley",
-        "GuruFocus",
-        "TipRanks",
-        "Yahoo Finance",
-        "Bloomberg",
-        "StockAnalysis"
-      ],
-      "price_history_5d": [224.56, 237.25, 234.74, 226.90]
+      "vs_52wk_high": "-17.6% below high ($1,195.94)",
+      "analyst_rating": "Buy",
+      "sector": "Industrials - Power Equipment & Energy",
+      "sources": ["TradingKey", "MarketBeat", "CNN Markets", "StockAnalysis", "FinancialContent", "Yahoo Finance"],
+      "price_history_5d": [1071.91, 985.03]
     },
     {
-      "ticker": "CRM",
-      "company": "Salesforce, Inc.",
-      "discussion_driver": "Salesforce fell ~4% after Morgan Stanley downgraded to Equalweight from Overweight and cut its price target from $287 to $185, citing a need for concrete proof that AI investments are driving revenue growth. The simultaneous Adobe/CRM double-downgrade amplified the sell-off. Despite a broad analyst Buy consensus with a $243 average price target, near-term growth visibility remains clouded ahead of its next earnings report.",
+      "ticker": "T",
+      "company": "AT&T Inc.",
+      "discussion_driver": "AT&T jumped over 3.5% on July 22 after Q2 2026 results showed adjusted EPS of $0.65 handily beating the $0.59 consensus, fueled by strong wireless subscriber additions and record fiber net adds. Revenue grew 2.3% YoY, slightly below the top-line estimate, but subscriber metrics more than compensated. With a PE of just 7.6x and a price target 28% above current levels, AT&T looks attractively valued on earnings metrics but faces structural drag from legacy wireline and heavy debt.",
       "bull_case": [
-        "Agentforce AI platform with 300K+ enterprise customers deployed positions Salesforce as a leading AI-native CRM; management expects meaningful revenue contribution in FY2027",
-        "Stock trading 39% below its 52-week high at a 19.28x trailing PE creates a potential value entry if Agentforce AI revenue proves out; 39 Buy vs 10 Hold vs 2 Sell from 51 analysts"
+        "Q2 2026 adjusted EPS of $0.65 beat consensus by 10% ($0.59 expected) on strong wireless subscriber growth and record fiber net additions, demonstrating execution on its network investment strategy",
+        "Dividend yield remains compelling; ongoing debt reduction and fiber network expansion support a multi-year revenue growth narrative with the stock still trading 22.7% below its 52-week high"
       ],
       "bear_case": [
-        "Morgan Stanley downgrade highlights that AI agents from Microsoft Copilot and ServiceNow may displace traditional CRM workflows before Agentforce gains sufficient traction",
-        "RSI of 41.40 and stock near 52-week lows reflect continued selling pressure; near-term recovery depends heavily on next earnings catalyst and AI ARR disclosure"
+        "Revenue growth of 2.3% remains modest and below top-line expectations; intensifying competition from T-Mobile and Verizon could pressure wireless ARPU and future subscriber additions",
+        "Legacy wireline business continues its secular decline and the company carries a significant debt load, limiting financial flexibility and constraining shareholder returns despite the Q2 earnings beat"
       ],
       "recommendation": "Hold",
-      "current_price": "$166.27",
-      "price_target": "$243.48 (+46.4%)",
-      "pe_ratio": "19.28",
-      "rsi": "41.40",
-      "vs_52wk_high": "-39.3% below high ($274.00)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Enterprise Software",
-      "sources": [
-        "Morgan Stanley",
-        "TipRanks",
-        "Yahoo Finance",
-        "StockAnalysis",
-        "CNN Markets",
-        "CLSA"
-      ],
-      "price_history_5d": [170.77, 173.79, 166.27]
+      "current_price": "$23.04",
+      "price_target": "$29.50 (+28.0%)",
+      "pe_ratio": "7.59",
+      "rsi": "N/A",
+      "vs_52wk_high": "-22.7% below high ($29.79)",
+      "analyst_rating": "Hold",
+      "sector": "Communication Services - Telecom",
+      "sources": ["Motley Fool", "StockAnalysis", "Yahoo Finance", "247WallSt", "Benzinga", "CNBC"],
+      "price_history_5d": [21.98, 21.91, 22.26, 23.04]
     },
     {
-      "ticker": "GM",
-      "company": "General Motors Company",
-      "discussion_driver": "General Motors delivered a strong Q2 2026 with adjusted EPS of $3.57 beating the $3.29 consensus estimate by 9%, and raised full-year guidance citing consistent vehicle transaction prices, lower warranty costs, and narrowing EV losses. Benchmark reaffirmed Buy at $105 on July 21. The stock rose ~5% and remains among the cheapest large-cap automakers globally with a forward PE of 6.09x versus an industry median of 13.18x.",
+      "ticker": "PEGA",
+      "company": "Pegasystems Inc.",
+      "discussion_driver": "Pegasystems plunged over 15% on July 22 after Q2 2026 revenue of $420.7M missed the $426.6M consensus, and adjusted EPS of $0.35 fell short of the $0.43 estimate. Management warned that 'unprecedented changes in the AI market' are causing enterprise clients to delay purchasing decisions, a concern that could extend through the remainder of 2026. Citizens downgraded the stock to Market Perform post-earnings, and at 61.5% below its 52-week high, sentiment is deeply negative.",
       "bull_case": [
-        "Forward PE of 6.09x is 54% below the auto industry median of 13.18x — substantial value if GM sustains current earnings trajectory and continues narrowing EV losses",
-        "Beat-and-raise Q2 with adjusted EPS 9% above estimates and raised 2026 guidance signals strong management execution despite a challenging tariff environment"
+        "At 14.4x trailing P/E and trading near multi-year lows, PEGA offers substantial mean-reversion upside if client deal activity recovers in H2 2026; revenue still grew 9% YoY with no reported churn, suggesting the underlying business remains intact",
+        "AI-native workflow automation is a core Pegasystems strength; delayed deals could pull forward into Q3-Q4 as enterprise budgets clarify, potentially driving a significant earnings recovery and multiple re-rating"
       ],
       "bear_case": [
-        "High trailing PE of 29.56x versus very low forward PE of 6.09x suggests trailing earnings are elevated by non-recurring items; sustainable profitability remains an open question",
-        "Q2 revenue of $48.0B slightly missed the $48.4B estimate; any deterioration in consumer auto demand or new tariff escalation could quickly compress margins"
+        "Management guided for continued ACV growth headwinds through the rest of 2026 due to AI market disruption; the revenue miss and cautious outlook signal more than a one-quarter blip, and analyst price targets will likely be revised sharply lower",
+        "Stock is 61.5% below its 52-week high with accelerating negative analyst momentum; Citizens downgrade to Market Perform is likely the first of several, and further de-rating is possible if AI displacement of traditional enterprise software accelerates"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$26.24",
+      "price_target": "$48.00 (+83.0%)",
+      "pe_ratio": "14.42",
+      "rsi": "N/A",
+      "vs_52wk_high": "-61.5% below high ($68.10)",
+      "analyst_rating": "Hold",
+      "sector": "Technology - Enterprise Software",
+      "sources": ["GuruFocus", "Quiver Quantitative", "Motley Fool", "Yahoo Finance", "Seeking Alpha", "StockAnalysis"],
+      "price_history_5d": [30.90, 26.24]
+    },
+    {
+      "ticker": "EQT",
+      "company": "EQT Corporation",
+      "discussion_driver": "EQT Corporation gained 6-8% on July 22 after Q2 2026 results showed stronger-than-expected natural gas production volumes and management raised 2026 volume guidance to 2,375-2,450 Bcfe, even as EPS modestly missed estimates. As the largest U.S. natural gas producer, EQT is well-positioned to benefit from surging electricity demand from AI data centers and LNG export growth. Trading near its 52-week lows and at a 35% discount to the $67 analyst consensus target, the risk/reward appears compelling.",
+      "bull_case": [
+        "Q2 production volumes exceeded estimates and 2026 volume guidance raised to 2,375-2,450 Bcfe; Appalachian Basin natural gas demand structurally supported by AI data center electricity needs and growing LNG export capacity",
+        "25 analysts maintain a Buy consensus with a $67.16 average price target (+34.8% upside); multiple firms including Wells Fargo recently raised targets, signaling improving sentiment despite near-term gas price volatility"
+      ],
+      "bear_case": [
+        "Q2 EPS missed consensus estimates despite the production beat, reflecting continued natural gas price headwinds and cost pressures; stock near its 52-week low of $47.94 limits the technical support floor",
+        "Natural gas prices remain highly volatile; a prolonged mild-weather period, supply glut, or slowdown in LNG permit approvals could pressure realizations well below the company's volume guidance"
       ],
       "recommendation": "Buy",
-      "current_price": "$79.52",
-      "price_target": "$95.85 (+20.5%)",
-      "pe_ratio": "29.56",
-      "rsi": "44.14",
-      "vs_52wk_high": "-9.2% below high ($87.62)",
+      "current_price": "$49.81",
+      "price_target": "$67.16 (+34.8%)",
+      "pe_ratio": "27.54",
+      "rsi": "N/A",
+      "vs_52wk_high": "-27.0% below high ($68.24)",
       "analyst_rating": "Buy",
-      "sector": "Consumer Discretionary - Automobiles",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance",
-        "GuruFocus",
-        "StockAnalysis",
-        "TradingKey",
-        "Benchmark Research"
-      ],
-      "price_history_5d": [76.07, 79.52]
+      "sector": "Energy - Natural Gas E&P",
+      "sources": ["GuruFocus", "ChartMill", "StockAnalysis", "Yahoo Finance", "StockTitan", "CNBC"],
+      "price_history_5d": [49.40, 45.60, 49.81]
     },
     {
-      "ticker": "MMM",
-      "company": "3M Company",
-      "discussion_driver": "3M surged ~7% after reporting a Q2 2026 earnings beat with non-GAAP EPS of $2.40 versus the $2.24 consensus estimate on revenue of $6.5B, and raised full-year 2026 EPS guidance to $8.80-$8.95. The results highlighted effective post-spinoff restructuring and margin improvement across core industrial and safety segments. RSI of 59.67 confirms healthy technical momentum, with shares now within 5% of the 52-week high.",
+      "ticker": "AIR",
+      "company": "AAR Corp.",
+      "discussion_driver": "AAR Corp fell approximately 11% on July 22 after fiscal Q4 2026 results (quarter ending May 31) showed gross margin and adjusted EBITDA margin both missing Wall Street estimates. The miss was particularly notable given the stock had surged to an all-time high of $146.75 just three weeks earlier on strong aviation demand tailwinds. With the stock now trading just below the analyst consensus price target and margin concerns surfacing, the near-term path forward is uncertain.",
       "bull_case": [
-        "Strong Q2 beat and raised full-year EPS guidance to $8.80-$8.95 reflect post-spinoff operational discipline and sustained margin expansion across core industrial and safety products",
-        "RSI of 59.67 signals continued bullish momentum; stock recovering toward 52-week high with improving fundamental backing and technical confirmation"
+        "Commercial aviation MRO market remains structurally strong as global aircraft fleets age and MRO capacity stays constrained through 2027-2028; AAR's Parts Supply segment continues gaining market share in a high-barrier-to-entry business",
+        "Defense MRO revenue provides stability alongside commercial exposure; the 83% gain from the 52-week low to the July 1 all-time high reflects genuine business momentum that a single quarter of margin pressure does not erase"
       ],
       "bear_case": [
-        "Stock already trading within 5% of most analyst price targets (~$170-$180 consensus vs current $165.66), limiting meaningful near-term upside from current levels",
-        "Historical litigation liabilities and pension obligations remain balance sheet overhangs; any macro industrial slowdown could quickly reverse recent gains"
+        "Fiscal Q4 gross margin and adjusted EBITDA margin both missed estimates, signaling potential cost pressures or a mix shift toward lower-margin work; profitability execution risk could persist into fiscal year 2027",
+        "With the analyst consensus target of ~$131.67 now approximately equal to the post-selloff price, forward upside is minimal without further earnings beats or analyst target increases following the Q4 miss"
       ],
       "recommendation": "Hold",
-      "current_price": "$165.66",
-      "price_target": "$170.96 (+3.2%)",
-      "pe_ratio": "28.17",
-      "rsi": "59.67",
-      "vs_52wk_high": "-5.2% below high ($174.69)",
-      "analyst_rating": "Hold",
-      "sector": "Industrials - Diversified Manufacturing",
-      "sources": [
-        "Yahoo Finance",
-        "Benzinga",
-        "CNBC",
-        "GuruFocus",
-        "MarketBeat",
-        "Investing.com"
-      ],
-      "price_history_5d": [159.11, 165.66]
-    },
-    {
-      "ticker": "HAS",
-      "company": "Hasbro, Inc.",
-      "discussion_driver": "Hasbro rose 7% after Q2 2026 earnings beat with EPS of $1.28 versus $1.17 expected, driven by a record quarter for Magic: The Gathering under the Wizards of the Coast division. Management raised full-year 2026 revenue and EBITDA guidance. Trading volume spiked to 7.88M shares versus the 2.7M daily average, reflecting strong institutional demand. The prior RSI near 34 (approaching oversold) made the stock primed for a bounce on this positive catalyst.",
-      "bull_case": [
-        "Record Magic: The Gathering quarter and raised EBITDA guidance confirm the Wizards of the Coast IP strategy is delivering scalable, high-margin digital licensing revenue",
-        "Strong analyst consensus with 15 analysts rating Strong Buy and a $112.29 average price target representing 26.4% upside from current levels"
-      ],
-      "bear_case": [
-        "Negative trailing PE of -52.67 reflects ongoing net losses; debt-heavy balance sheet limits financial flexibility if premium game IP cycle softens or consumer spending pulls back",
-        "Traditional toy segment (Nerf, Play-Doh) faces structural headwinds from digital entertainment; stock still 17% below its 52-week high despite today's 7% rally"
-      ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$88.78",
-      "price_target": "$112.29 (+26.4%)",
-      "pe_ratio": "-52.67",
-      "rsi": "34.33",
-      "vs_52wk_high": "-17.0% below high ($106.98)",
+      "current_price": "$130.83",
+      "price_target": "$131.67 (+0.6%)",
+      "pe_ratio": "31.46",
+      "rsi": "N/A",
+      "vs_52wk_high": "-10.8% below high ($146.75)",
       "analyst_rating": "Strong Buy",
-      "sector": "Consumer Discretionary - Toys & Games",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance",
-        "StockAnalysis",
-        "AltIndex",
-        "Investing.com",
-        "Daily Political"
-      ],
-      "price_history_5d": [88.78]
+      "sector": "Industrials - Aviation MRO Services",
+      "sources": ["The Markets Daily", "StockAnalysis", "Yahoo Finance", "CNN Markets", "Barchart", "Public.com"],
+      "price_history_5d": [141.40, 130.83]
     }
   ]
 }
