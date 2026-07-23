@@ -1,98 +1,121 @@
 {
-  "report_date": "2026-07-21",
+  "report_date": "2026-07-22",
   "batch": 3,
   "stocks": [
     {
-      "ticker": "WDC",
-      "company": "Western Digital Corporation",
-      "discussion_driver": "Western Digital surged approximately 11% as the AMD-Microsoft Helios AI infrastructure deal triggered a broad memory sector rally, with analysts raising long-term price targets on AI-driven HBM and enterprise storage demand. The company's HDD segment has 2026 production fully sold out via long-term AI infrastructure contracts through 2028. A recent Q3 earnings beat ($2.72 EPS vs $2.39 estimate) and dividend raise further bolstered analyst confidence in a multi-year AI storage supercycle.",
+      "ticker": "AAPL",
+      "company": "Apple Inc.",
+      "discussion_driver": "Apple declined 1.3% after KeyBanc downgraded the stock to Underweight with a $250 price target — nearly 25% below current levels — citing decelerating demand across iPhone, MacBook, and iPad. Despite the downgrade, 42 analysts maintain a Buy consensus with a $312.88 target, while the stock trades above that consensus near all-time highs around $334.85, creating a divergence between technical momentum and fundamental concerns.",
       "bull_case": [
-        "AI boom driving unprecedented HBM and enterprise storage demand; calendar 2026 HDD production is fully sold out under long-term AI infrastructure contracts through 2028.",
-        "Q3 earnings beat ($2.72 EPS vs $2.39 consensus) with raised dividend and significant analyst price target upgrades signal institutional conviction in Western Digital's AI storage positioning."
+        "Services revenue growth provides earnings resilience beyond hardware cycles, diversifying revenue and supporting a premium valuation",
+        "Stock trading near its all-time high of $334.99 signals strong institutional demand; AI-powered device features could re-ignite iPhone upgrade cycles in 2027"
       ],
       "bear_case": [
-        "Memory sector is deeply cyclical; WDC already lost ~36% from its June high before today's bounce, and a slowdown in AI capex spending could trigger another sharp reversal.",
-        "HBM competition from Samsung and SK Hynix is intensifying; aggressive capacity buildouts from Korean rivals could pressure pricing and market share in NAND and DRAM."
-      ],
-      "recommendation": "Buy",
-      "current_price": "$523.14",
-      "price_target": "$527.77 (+0.9%)",
-      "pe_ratio": "27.55",
-      "rsi": "39.76",
-      "vs_52wk_high": "-34.6% below high ($799.87)",
-      "analyst_rating": "Moderate Buy",
-      "sector": "Technology - Data Storage",
-      "sources": ["TheStreet", "Yahoo Finance", "TradingKey", "ChartMill", "StocksToTrade"],
-      "price_history_5d": [466.00, 466.81, 477.22, 500.59, 523.14]
-    },
-    {
-      "ticker": "HOOD",
-      "company": "Robinhood Markets Inc.",
-      "discussion_driver": "Robinhood jumped ~9% as Treasury Secretary Bessent declared the CLARITY Act crypto regulatory framework is at the 'one-yard line' in the Senate, igniting a broad rally in crypto-adjacent brokerages. The legislation would provide the first comprehensive U.S. regulatory framework for digital assets, directly benefiting Robinhood's growing crypto trading platform and its Bitstamp acquisition. Combined with strong 2026 product expansion and international momentum, Robinhood is positioning itself as a full-service financial platform with significant crypto upside.",
-      "bull_case": [
-        "CLARITY Act passage would provide massive regulatory clarity for Robinhood's crypto brokerage operations, unlocking new product offerings and institutional client flows in digital assets.",
-        "International expansion and the Bitstamp acquisition open significant new revenue streams; analyst consensus is Buy with targets as high as $160 from Bernstein."
-      ],
-      "bear_case": [
-        "Revenue is highly dependent on market volatility and trading volumes; a market downturn or prolonged crypto bear market could sharply reduce transaction-based revenue.",
-        "Regulatory risk remains elevated despite CLARITY Act progress; crypto legislation can be reversed, delayed, or diluted by political shifts, leaving HOOD exposed to significant policy uncertainty."
-      ],
-      "recommendation": "Buy",
-      "current_price": "$107.55",
-      "price_target": "$118.28 (+10.0%)",
-      "pe_ratio": "51.28",
-      "rsi": "N/A",
-      "vs_52wk_high": "-30.1% below high ($153.86)",
-      "analyst_rating": "Buy",
-      "sector": "Financial Services - Online Brokerage",
-      "sources": ["CNBC", "BitcoinWorld", "StockStory", "Benzinga", "MarketBeat", "StockAnalysis"],
-      "price_history_5d": [97.00, 96.50, 98.50, 98.67, 107.55]
-    },
-    {
-      "ticker": "TSM",
-      "company": "Taiwan Semiconductor Manufacturing Company",
-      "discussion_driver": "Taiwan Semiconductor popped over 3% on reports it will raise chipmaking service prices by up to 10% next year, signaling extraordinary pricing power driven by insatiable AI chip demand. TSMC simultaneously raised its 2026 revenue growth target to above 40% in U.S. dollars and expanded its total U.S. Arizona investment commitment to $265 billion cumulative. These announcements reinforce TSMC's dominant position as the world's indispensable AI chip manufacturer, with Nvidia, AMD, and Apple unable to produce at scale without TSMC's leading-edge nodes.",
-      "bull_case": [
-        "Plans to raise chipmaking prices up to 10% next year reflect extraordinary pricing power; TSMC can pass higher costs to customers without demand destruction, directly boosting already-strong margins.",
-        "Raised 2026 revenue growth target to 40%+ in USD and $265B cumulative U.S. investment signals massive capacity expansion to meet AI chip demand that is structurally growing for years ahead."
-      ],
-      "bear_case": [
-        "Geopolitical risk from Taiwan-China tensions remains the most critical unpriced risk; any escalation could disrupt global semiconductor supply chains and devastate the stock overnight.",
-        "Customer concentration in Nvidia, Apple, and AMD means any meaningful slowdown in AI capex spending or iPhone demand would materially impact TSMC revenue and margins."
-      ],
-      "recommendation": "Buy",
-      "current_price": "$410.00",
-      "price_target": "$520.37 (+26.9%)",
-      "pe_ratio": "29.12",
-      "rsi": "N/A",
-      "vs_52wk_high": "-14.4% below high ($479.00)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Technology - Semiconductors",
-      "sources": ["CNBC", "Reuters", "StockAnalysis", "Zacks", "FinanceCharts"],
-      "price_history_5d": [392.00, 395.00, 398.37, 405.89, 410.00]
-    },
-    {
-      "ticker": "MSCI",
-      "company": "MSCI Inc.",
-      "discussion_driver": "MSCI fell nearly 11% despite reporting all-time high revenues from index licensing fees, as investors reacted harshly to a slight EPS miss ($4.94 vs $4.97 estimate) and a raised 2026 expense outlook with operating expenses up 9.2% to $379.5 million. Revenue grew 12.2% year-over-year, underscoring the strength of MSCI's recurring subscription and AUM-linked index fee model. The severe selloff reflects how high expectations had been priced into the stock near its 52-week high, where any cost guidance disappointment can trigger outsized institutional selling.",
-      "bull_case": [
-        "MSCI's AUM-linked index licensing model generates highly recurring, predictable revenue that scales automatically as global equity markets rise; all-time high index revenues in Q2 demonstrate the model's resilience.",
-        "Long-term secular tailwind from global passive investing growth and ESG adoption continues to drive AUM growth; MSCI is structurally advantaged as the global standard for institutional benchmarking."
-      ],
-      "bear_case": [
-        "Q2 2026 EPS miss with raised expense guidance (operating expenses up 9.2%) could signal structural margin compression from higher non-compensation costs and acquisition integration headwinds.",
-        "AUM-linked fee revenue is highly sensitive to equity market performance; a global market correction would reduce licensing fees sharply and could simultaneously trigger institutional redemptions from MSCI-tracked funds."
+        "Stock trades 6.6% above analyst consensus price target of $312.88 with RSI above 70, signaling overbought conditions and limited near-term upside",
+        "KeyBanc Underweight downgrade with $250 target (-25%) cites structural deceleration in demand across all major hardware product lines: iPhone, MacBook, and iPad"
       ],
       "recommendation": "Hold",
-      "current_price": "$558.50",
-      "price_target": "$703.41 (+25.9%)",
-      "pe_ratio": "36.14",
+      "current_price": "$334.85",
+      "price_target": "$312.88 (-6.6%)",
+      "pe_ratio": "39.51",
+      "rsi": ">70 (overbought)",
+      "vs_52wk_high": "-0.04% below high ($334.99)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - Consumer Electronics",
+      "sources": ["Yahoo Finance", "TipRanks", "Seeking Alpha", "MacroTrends", "StockAnalysis", "Benzinga"],
+      "price_history_5d": [333.74, 327.74, 334.85]
+    },
+    {
+      "ticker": "WDC",
+      "company": "Western Digital Corporation",
+      "discussion_driver": "Western Digital surged 12.5% to $548 on July 22 as the semiconductor sector rebounded sharply on Alphabet's $195-205B AI capex guidance, with renewed Kioxia merger talks adding a strategic catalyst on heavy volume. Despite today's rally, the stock remains 31.4% below its June 52-week high of $799.87, underscoring the magnitude of recent sector volatility.",
+      "bull_case": [
+        "AI data center infrastructure buildout is driving unprecedented demand for high-capacity storage, with HDD reportedly sold out and long-term AI infrastructure contracts providing revenue visibility",
+        "Potential Kioxia merger could create a global storage powerhouse; Wells Fargo raised its price target to $730, with another analyst citing a $900 target based on merger synergies and AI demand"
+      ],
+      "bear_case": [
+        "Stock is 31.4% below its June 2026 52-week high of $799.87, reflecting significant valuation compression from sector rotation and profit-taking",
+        "Memory and storage sectors are highly cyclical; any pullback in AI capex or macro deterioration could rapidly reverse gains in a stock prone to large swings"
+      ],
+      "recommendation": "Buy",
+      "current_price": "$548.39",
+      "price_target": "$633.83 (+15.6%)",
+      "pe_ratio": "29.10",
       "rsi": "N/A",
-      "vs_52wk_high": "-13.4% below high ($644.77)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Financial Services - Financial Data & Analytics",
-      "sources": ["TheStreet", "Yahoo Finance", "GuruFocus", "Seeking Alpha", "CoinCentral", "The Markets Daily"],
-      "price_history_5d": [632.00, 637.24, 628.66, 627.00, 558.50]
+      "vs_52wk_high": "-31.4% below high ($799.87)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - Data Storage",
+      "sources": ["CNBC", "Blockonomi", "TradingKey", "StockAnalysis", "Wells Fargo Research", "Public.com"],
+      "price_history_5d": [477.22, 522.00, 548.39]
+    },
+    {
+      "ticker": "INTC",
+      "company": "Intel Corporation",
+      "discussion_driver": "Intel jumped 8.6% as semiconductor stocks broadly rallied on AI infrastructure spending optimism after Alphabet raised its 2026 capex guidance to $195-205B, signaling sustained chip demand. Intel reports Q2 earnings on July 23, adding near-term binary event risk; HSBC separately raised its price target to $200 citing foundry long-term potential, while the 48-analyst Hold consensus averaging $106.70 reflects cautious expectations on execution.",
+      "bull_case": [
+        "HSBC raised price target to $200 citing Intel Foundry's long-term potential as AI chip manufacturing demand expands globally and Intel diversifies beyond its own products",
+        "RSI at 37.82 is approaching oversold territory, and the stock's 26.4% discount to its 52-week high could attract value buyers ahead of the Q2 earnings catalyst on July 23"
+      ],
+      "bear_case": [
+        "Q2 earnings report on July 23 is a significant binary event with the stock having already declined 26% from its 52-week high; a miss could trigger another sharp leg down",
+        "Hold consensus among 48 analysts with an average target of only $106.70 (+1.8% upside) reflects broad skepticism about Intel's ability to close the gap with TSMC and regain semiconductor leadership"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$104.80",
+      "price_target": "$106.70 (+1.8%)",
+      "pe_ratio": "N/A",
+      "rsi": "37.82",
+      "vs_52wk_high": "-26.4% below high ($142.35)",
+      "analyst_rating": "Hold",
+      "sector": "Technology - Semiconductors",
+      "sources": ["CNBC", "Blockonomi", "TradingKey", "StockAnalysis", "StocksGuide", "247WallSt"],
+      "price_history_5d": [95.04, 105.45, 104.80]
+    },
+    {
+      "ticker": "CALM",
+      "company": "Cal-Maine Foods Inc.",
+      "discussion_driver": "Cal-Maine Foods plunged 6%+ premarket after a catastrophic fiscal Q4 miss: EPS of -$0.76 came in $0.84 below the $0.08 consensus estimate while revenue fell 50% year-over-year to $552.6M with gross profit collapsing 94%, as post-avian-flu industry oversupply drove wholesale shell egg prices to historically low inflation-adjusted levels. CEO Sherman Miller called Q4 'particularly challenging' with no clear timeline provided for an industry recovery.",
+      "bull_case": [
+        "Trading at a P/E of only 5.28x with a 10.73% dividend yield offers compelling value for income investors buying at the trough of the egg industry cycle",
+        "As the dominant U.S. egg producer, Cal-Maine is best-positioned to recover earnings power when industry oversupply normalizes and wholesale egg prices recover"
+      ],
+      "bear_case": [
+        "Industry oversupply is driving wholesale shell egg prices to historically low inflation-adjusted levels with no clear timeline for recovery, and Q4 gross profit collapsed 94% YoY",
+        "Q4 EPS miss of $0.84 versus consensus and revenue down 50% YoY signals near-term earnings power has essentially evaporated; recovery depends entirely on external market conditions"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$86.70",
+      "price_target": "$87.83 (+1.3%)",
+      "pe_ratio": "5.28",
+      "rsi": "N/A",
+      "vs_52wk_high": "-31.4% below high ($126.40)",
+      "analyst_rating": "Hold",
+      "sector": "Consumer Staples - Food Production",
+      "sources": ["CNBC", "TipRanks", "StockTitan", "Motley Fool", "StockAnalysis", "Benzinga", "SEC Edgar"],
+      "price_history_5d": [87.25, 86.70]
+    },
+    {
+      "ticker": "CB",
+      "company": "Chubb Limited",
+      "discussion_driver": "Chubb fell 3%+ despite a strong Q2 earnings beat — EPS of $7.26 surpassed the $6.63 consensus by 9.5% and grew 18% YoY, with revenue rising 6.5% to $15.77B — as investors focused on slowing P&C insurance premium growth that management attributed to deliberate underwriting discipline. Multiple analysts raised targets ahead of results (Piper Sandler and Evercore ISI to $374), yet the negative stock reaction reflects market concern about the forward insurance growth cycle.",
+      "bull_case": [
+        "Q2 EPS of $7.26 beat consensus by 9.5% and grew 18% YoY from $6.14, demonstrating strong underwriting profitability and earnings quality even in a disciplined premium environment",
+        "Multiple analysts raised price targets to $374 (Piper Sandler, Evercore ISI), and the stock's 12.23x P/E is 12% below its 10-year median, suggesting relative undervaluation"
+      ],
+      "bear_case": [
+        "P&C insurance premium growth is slowing due to deliberate underwriting discipline, limiting top-line expansion; investors sold the stock despite a 9.5% EPS beat, signaling concern about forward momentum",
+        "Analyst consensus target of approximately $346 is near current price levels after the post-earnings decline, providing minimal consensus-implied upside at current valuations"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$344.15",
+      "price_target": "$346.09 (+0.6%)",
+      "pe_ratio": "12.23",
+      "rsi": "N/A",
+      "vs_52wk_high": "-5.8% below high ($365.29)",
+      "analyst_rating": "Hold",
+      "sector": "Financials - P&C Insurance",
+      "sources": ["CNBC", "Yahoo Finance", "Benzinga", "GuruFocus", "Evercore ISI", "Piper Sandler", "Wells Fargo"],
+      "price_history_5d": [341.74, 352.16, 354.80, 344.15]
     }
   ]
 }
