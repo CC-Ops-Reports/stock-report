@@ -1,173 +1,176 @@
 {
-  "report_date": "2026-07-23",
-  "market_tone": "Bearish",
+  "report_date": "2026-07-24",
+  "market_tone": "Mixed",
   "key_themes": [
-    "AI capital expenditure surge rattles investors: Alphabet raises 2026 capex to $195-205B, triggering broad tech selloff",
-    "Q2 earnings divergence: defense and industrials surge while mega-cap tech and airlines disappoint",
-    "Oil spikes above $100/barrel on escalating Middle East tensions (Houthi attacks on Red Sea tankers)"
+    "AI capital expenditure concerns weigh on Big Tech (Alphabet, Tesla negative FCF)",
+    "Chip sector weakness despite strong Intel earnings beat",
+    "Software names surge as investors rotate from hardware to software AI plays"
   ],
   "sp500": {
-    "value": "7,408.30",
-    "change": "-1.21%"
+    "value": "7,411.98",
+    "change": "+0.05%"
   },
   "nasdaq": {
-    "value": "25,137.69",
-    "change": "-2.15%"
+    "value": "24,975.82",
+    "change": "-0.64%"
   },
   "stocks": [
     {
-      "ticker": "TSLA",
-      "company": "Tesla Inc.",
-      "reason": "Plunged 14.5% to $319.69 (11-month low) after Q2 EPS miss ($0.33 non-GAAP vs $0.55 expected); capex +142% YoY to $5.79B; free cash flow turned negative at -$1.09B",
-      "category": "earnings",
+      "ticker": "SAFT",
+      "company": "Safety Insurance Group",
+      "reason": "Shares surged ~40% after Mapfre agreed to acquire the company in a $1.54B all-cash deal at $105/share, a 44% premium to prior close",
+      "category": "news",
       "sources": [
-        "CNBC",
         "Yahoo Finance",
-        "Electrek",
-        "Motley Fool"
-      ]
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet Inc.",
-      "reason": "Fell 6-7% after raising 2026 capex guidance to $195-205B (up from $190B cap); Q2 revenue of $119.8B beat estimates but massive AI infrastructure spending concern; triggered broad tech selloff",
-      "category": "earnings",
-      "sources": [
-        "Bloomberg",
-        "CNBC",
-        "Axios",
-        "Investing.com"
-      ]
-    },
-    {
-      "ticker": "LMT",
-      "company": "Lockheed Martin",
-      "reason": "Surged 11.4% to $573.21 after Q2 earnings beat ($7.94 vs $7.09 EPS expected) and revenue of $20.06B vs $19.34B expected; raised full-year outlook",
-      "category": "earnings",
-      "sources": [
         "Benzinga",
-        "CNBC",
-        "Qz.com"
+        "The Middle Market"
       ]
     },
     {
-      "ticker": "INTC",
-      "company": "Intel Corporation",
-      "reason": "Jumped 9% after hours after Q2 revenue surged 25% YoY to $16.1B \u2014 sharpest quarterly revenue growth in nearly 15 years; adjusted EPS of $0.42 beat expectations",
-      "category": "earnings",
+      "ticker": "AMKR",
+      "company": "Amkor Technology",
+      "reason": "Stock jumped ~11% after announcing a multiyear $1.5B agreement with Nvidia to develop advanced AI semiconductor packaging and testing technologies",
+      "category": "news",
       "sources": [
         "CNBC",
-        "FX Leaders",
-        "Benzinga"
+        "Seeking Alpha"
       ]
     },
     {
-      "ticker": "HON",
-      "company": "Honeywell International",
-      "reason": "Rose 5-6.3% to $247.68 after Q2 sales beat estimates and raised FY2026 adjusted EPS guidance with midpoint above consensus",
+      "ticker": "SLB",
+      "company": "SLB (Schlumberger)",
+      "reason": "Shares surged 10.4% after Q2 earnings beat (adj. EPS $0.52 vs $0.51 est.) driven by Digital segment strength and ChampionX acquisition contributions",
       "category": "earnings",
       "sources": [
-        "CNBC",
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "CLF",
-      "company": "Cleveland-Cliffs Inc.",
-      "reason": "Popped 14-20% on better-than-expected Q2 results (loss of $0.20/share vs expected $0.21 loss) and Q3 EBITDA guidance that topped estimates; revenue of $5.23B beat $5.15B estimate",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Timothy Sykes",
-        "Alphastreet"
-      ]
-    },
-    {
-      "ticker": "ROL",
-      "company": "Rollins Inc.",
-      "reason": "Dropped 14-16% after Q2 earnings miss ($0.30 EPS vs $0.34 expected; $1.08B revenue vs $1.09B expected); worst performer among industrials",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "LUV",
-      "company": "Southwest Airlines",
-      "reason": "Fell 6.2% to $44.71 after Q3 guidance missed Wall Street expectations; oil price surge above $100/barrel adds additional headwind",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Gurufocus",
-        "Quiver Quant"
+        "GuruFocus",
+        "MarketBeat",
+        "SLB Newsroom"
       ]
     },
     {
       "ticker": "AAL",
       "company": "American Airlines Group",
-      "reason": "Dropped ~8.6% to $13.52 on weaker travel demand concerns and analyst downgrade; sector pressure from oil spike",
+      "reason": "Stock rose ~6% after Q2 earnings beat (adj. EPS $0.15 vs $0.05 est.) on revenue of $16.74B; multiple banks raised price targets",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Timothy Sykes",
+        "247 Wall St."
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "company": "Intel Corporation",
+      "reason": "Stock fell ~4% as investors focused on heavy capex plans despite a massive Q2 beat: revenue of $16.1B (+25% YoY), adj. EPS of $0.42 vs $0.21 est. \u2014 fastest revenue growth since 2011",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Benzinga",
+        "Seeking Alpha"
+      ]
+    },
+    {
+      "ticker": "AXP",
+      "company": "American Express",
+      "reason": "Reported Q2 EPS of $4.53 (beat $4.45 est.) and raised full-year 2026 revenue growth guidance to 10%; stock slipped despite the beat on slight revenue miss",
+      "category": "earnings",
+      "sources": [
+        "Yahoo Finance",
+        "Quiver Quantitative",
+        "QZ"
+      ]
+    },
+    {
+      "ticker": "ADBE",
+      "company": "Adobe Inc.",
+      "reason": "Shares rose more than 5% as investors rotated into software names amid broader AI spending narrative favoring software over hardware",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "NOW",
+      "company": "ServiceNow",
+      "reason": "Stock gained more than 5% as enterprise software names rallied on the day, benefiting from investor rotation away from chip stocks",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "WDAY",
+      "company": "Workday",
+      "reason": "Shares climbed more than 4% as software sector outperformed in a mixed market session driven by AI spending theme rotation",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "reason": "Shares under pressure after Q2 report (rev $28.2B, adj. EPS $0.33); Elon Musk confirmed Optimus humanoid robot production lines being installed at Gigafactory Texas, but negative FCF and higher capex outlook weighed on stock",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "XTB",
+        "Stansberry Research"
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet Inc.",
+      "reason": "Q2 revenue of $119.8B beat estimates ($117B) and AI business shines, but heavy capex and negative FCF (inflated by ~$99B in equity investment gains) sent shares down 3%+ after hours",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "XTB",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "SPCX",
+      "company": "Space Exploration Technologies (SpaceX)",
+      "reason": "Shares dropped to an all-time low as investors continued to rerate valuation following last month's massive IPO; HSBC initiated with Hold at $115 target",
       "category": "news",
       "sources": [
         "CNBC",
-        "StocksToTrade"
-      ]
-    },
-    {
-      "ticker": "ROP",
-      "company": "Roper Technologies",
-      "reason": "Advanced ~6% after lifting full-year adjusted EPS guidance to $22.15-$22.30, beating FactSet consensus; strong Q2 results",
-      "category": "earnings",
-      "sources": [
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "AMZN",
-      "company": "Amazon.com Inc.",
-      "reason": "Slid ~4% in sympathy with Alphabet on AI capital expenditure concerns; investors worried about sustained cloud/AI spending across mega-caps",
-      "category": "sector",
-      "sources": [
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple Inc.",
-      "reason": "Downgraded to Underweight from Sector Weight at KeyBanc with $250 price target; analyst cites valuation concerns",
-      "category": "downgrade",
-      "sources": [
-        "Yahoo Finance",
         "247 Wall St."
       ]
     },
     {
-      "ticker": "JPM",
-      "company": "JPMorgan Chase & Co.",
-      "reason": "Upgraded to Buy from Hold at Deutsche Bank with $375 price target (raised from $345); analyst cites strong earnings trajectory",
-      "category": "upgrade",
-      "sources": [
-        "247 Wall St.",
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "IBM",
-      "company": "International Business Machines",
-      "reason": "Downgraded to Reduce from Hold at HSBC with $191 price target (cut from $231); analyst sees limited upside given AI transition headwinds",
-      "category": "downgrade",
-      "sources": [
-        "Yahoo Finance",
-        "247 Wall St."
-      ]
-    },
-    {
-      "ticker": "DOV",
-      "company": "Dover Corporation",
-      "reason": "Dropped nearly 8% after Q2 results failed to impress investors; earnings and revenue missed Street estimates",
+      "ticker": "RHI",
+      "company": "Robert Half International",
+      "reason": "Stock fell ~6% after reporting underwhelming Q2 results, signaling continued weakness in the staffing and executive search market",
       "category": "earnings",
       "sources": [
-        "CNBC"
+        "CNBC",
+        "Seeking Alpha"
+      ]
+    },
+    {
+      "ticker": "MXLV",
+      "company": "MaxLinear",
+      "reason": "Shares tumbled 9-20% despite reporting better-than-expected Q2 earnings, suggesting the market expected a stronger forward outlook",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Seeking Alpha"
+      ]
+    },
+    {
+      "ticker": "VZ",
+      "company": "Verizon Communications",
+      "reason": "Reported Q2 2026 earnings on July 24; company disclosed expected Q2 loss of $700M-$800M due to asset reclassification from Contributed Business sale; forecasted full-year revenue growth",
+      "category": "earnings",
+      "sources": [
+        "Yahoo Finance",
+        "Globe Newswire",
+        "GuruFocus"
       ]
     }
   ]
