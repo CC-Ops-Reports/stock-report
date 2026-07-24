@@ -1,121 +1,121 @@
 {
-  "report_date": "2026-07-22",
+  "report_date": "2026-07-23",
   "batch": 3,
   "stocks": [
     {
-      "ticker": "AAPL",
-      "company": "Apple Inc.",
-      "discussion_driver": "Apple declined 1.3% after KeyBanc downgraded the stock to Underweight with a $250 price target — nearly 25% below current levels — citing decelerating demand across iPhone, MacBook, and iPad. Despite the downgrade, 42 analysts maintain a Buy consensus with a $312.88 target, while the stock trades above that consensus near all-time highs around $334.85, creating a divergence between technical momentum and fundamental concerns.",
+      "ticker": "AMZN",
+      "company": "Amazon.com Inc.",
+      "discussion_driver": "Amazon slid ~4% in sympathy with Alphabet's massive AI capex guidance increase, as investors fear similar spending pressures will weigh on Amazon's margins. Q2 2026 earnings are due July 30, with AWS AI-driven revenue expected to be strong. Strong Buy consensus with $313 price target implies ~30% upside from current levels.",
       "bull_case": [
-        "Services revenue growth provides earnings resilience beyond hardware cycles, diversifying revenue and supporting a premium valuation",
-        "Stock trading near its all-time high of $334.99 signals strong institutional demand; AI-powered device features could re-ignite iPhone upgrade cycles in 2027"
+        "AWS AI-driven cloud growth accelerating; Q2 earnings on July 30 expected to show strong revenue (~$198.8B) driven by surging enterprise AI demand",
+        "Advertising and e-commerce monetization improving; diverse revenue streams from Prime, AWS, and advertising provide resilience against sector-specific headwinds"
       ],
       "bear_case": [
-        "Stock trades 6.6% above analyst consensus price target of $312.88 with RSI above 70, signaling overbought conditions and limited near-term upside",
-        "KeyBanc Underweight downgrade with $250 target (-25%) cites structural deceleration in demand across all major hardware product lines: iPhone, MacBook, and iPad"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$334.85",
-      "price_target": "$312.88 (-6.6%)",
-      "pe_ratio": "39.51",
-      "rsi": ">70 (overbought)",
-      "vs_52wk_high": "-0.04% below high ($334.99)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Consumer Electronics",
-      "sources": ["Yahoo Finance", "TipRanks", "Seeking Alpha", "MacroTrends", "StockAnalysis", "Benzinga"],
-      "price_history_5d": [333.74, 327.74, 334.85]
-    },
-    {
-      "ticker": "WDC",
-      "company": "Western Digital Corporation",
-      "discussion_driver": "Western Digital surged 12.5% to $548 on July 22 as the semiconductor sector rebounded sharply on Alphabet's $195-205B AI capex guidance, with renewed Kioxia merger talks adding a strategic catalyst on heavy volume. Despite today's rally, the stock remains 31.4% below its June 52-week high of $799.87, underscoring the magnitude of recent sector volatility.",
-      "bull_case": [
-        "AI data center infrastructure buildout is driving unprecedented demand for high-capacity storage, with HDD reportedly sold out and long-term AI infrastructure contracts providing revenue visibility",
-        "Potential Kioxia merger could create a global storage powerhouse; Wells Fargo raised its price target to $730, with another analyst citing a $900 target based on merger synergies and AI demand"
-      ],
-      "bear_case": [
-        "Stock is 31.4% below its June 2026 52-week high of $799.87, reflecting significant valuation compression from sector rotation and profit-taking",
-        "Memory and storage sectors are highly cyclical; any pullback in AI capex or macro deterioration could rapidly reverse gains in a stock prone to large swings"
+        "AI capex contagion: Amazon will need to sustain heavy AI infrastructure investment, potentially pressuring free cash flow and margins as Alphabet's experience signals",
+        "Near-term technical pressure from Alphabet-driven AI selloff; at P/E ~30x, limited multiple expansion room if Q2 earnings disappoint on July 30"
       ],
       "recommendation": "Buy",
-      "current_price": "$548.39",
-      "price_target": "$633.83 (+15.6%)",
-      "pe_ratio": "29.10",
+      "current_price": "$241.62",
+      "price_target": "$313.00 (+29.5%)",
+      "pe_ratio": "29.58",
       "rsi": "N/A",
-      "vs_52wk_high": "-31.4% below high ($799.87)",
+      "vs_52wk_high": "-13.3% below high ($278.56)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Consumer Discretionary - E-Commerce/Cloud",
+      "sources": ["CNBC", "MarketBeat", "Yahoo Finance", "StockAnalysis", "Investing.com"],
+      "price_history_5d": [247.23, 249.99, 247.55, 244.85, 241.62]
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple Inc.",
+      "discussion_driver": "Apple hit an all-time high close of $333.74 on July 17, defying KeyBanc's Underweight downgrade ($250 target) issued July 14 on weak hardware demand and stretched valuation. Shares have since pulled back as the broad AI-driven tech selloff weighs on Magnificent 7 names. The consensus price target ($318) now sits slightly below the current price, with Q2 earnings on August 1 as the next major catalyst.",
+      "bull_case": [
+        "Best-performing Magnificent 7 stock YTD (+17%) with upcoming iPhone 17 cycle and Apple Intelligence AI features expected to drive strong upgrade demand in late 2026",
+        "Services revenue (App Store, iCloud, Apple TV+) growing at premium margins, reducing hardware-cycle dependence and supporting premium multiple long-term"
+      ],
+      "bear_case": [
+        "KeyBanc sees slowing demand: June tracking data shows Apple-related spending -2% vs historical +9% seasonal average, flagging hardware demand deterioration ahead of iPhone 17",
+        "Premium valuation at 38x P/E with analyst consensus price target ($318) now BELOW current price; RSI at 76 signals overbought conditions near-term"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$321.66",
+      "price_target": "$318.25 (-1.1%)",
+      "pe_ratio": "38.37",
+      "rsi": "76.17",
+      "vs_52wk_high": "-4.0% below high ($334.99)",
       "analyst_rating": "Buy",
-      "sector": "Technology - Data Storage",
-      "sources": ["CNBC", "Blockonomi", "TradingKey", "StockAnalysis", "Wells Fargo Research", "Public.com"],
-      "price_history_5d": [477.22, 522.00, 548.39]
+      "sector": "Technology - Consumer Electronics",
+      "sources": ["GuruFocus", "Yahoo Finance", "Invezz", "StockAnalysis", "Barchart", "Foreign Policy Journal"],
+      "price_history_5d": [333.74, 327.74, 325.89, 321.66]
     },
     {
-      "ticker": "INTC",
-      "company": "Intel Corporation",
-      "discussion_driver": "Intel jumped 8.6% as semiconductor stocks broadly rallied on AI infrastructure spending optimism after Alphabet raised its 2026 capex guidance to $195-205B, signaling sustained chip demand. Intel reports Q2 earnings on July 23, adding near-term binary event risk; HSBC separately raised its price target to $200 citing foundry long-term potential, while the 48-analyst Hold consensus averaging $106.70 reflects cautious expectations on execution.",
+      "ticker": "JPM",
+      "company": "JPMorgan Chase & Co.",
+      "discussion_driver": "Deutsche Bank upgraded JPMorgan to Buy (from Hold) with a $375 price target following strong Q2 results featuring 23.7% ex-notables EPS growth. BofA set an even more bullish $408 target citing NIM strength and wealth management momentum through H2 2026. JPM is trading within 0.4% of its all-time high, making it a quality compounder but with limited near-term consensus upside.",
       "bull_case": [
-        "HSBC raised price target to $200 citing Intel Foundry's long-term potential as AI chip manufacturing demand expands globally and Intel diversifies beyond its own products",
-        "RSI at 37.82 is approaching oversold territory, and the stock's 26.4% discount to its 52-week high could attract value buyers ahead of the Q2 earnings catalyst on July 23"
+        "Strong Q2 EPS growth of 23.7% ex-notables; BofA and Deutsche Bank see continued earnings upgrades through 2026-2027 driven by NIM expansion and wealth management inflows",
+        "Financials outperforming tech in today's AI-driven selloff; JPM benefits as a defensive rotation destination in a risk-off environment, supporting the near all-time high"
       ],
       "bear_case": [
-        "Q2 earnings report on July 23 is a significant binary event with the stock having already declined 26% from its 52-week high; a miss could trigger another sharp leg down",
-        "Hold consensus among 48 analysts with an average target of only $106.70 (+1.8% upside) reflects broad skepticism about Intel's ability to close the gap with TSMC and regain semiconductor leadership"
+        "Stock trading within 0.4% of all-time high with consensus price target ($353-363) implying only 1-4% additional upside; risk/reward less compelling at current levels",
+        "Exposed to recession risk; if economic conditions soften, loan loss provisions could rise and compress the 14.9x P/E premium versus historical median of 12.4x"
       ],
       "recommendation": "Hold",
-      "current_price": "$104.80",
-      "price_target": "$106.70 (+1.8%)",
-      "pe_ratio": "N/A",
-      "rsi": "37.82",
-      "vs_52wk_high": "-26.4% below high ($142.35)",
-      "analyst_rating": "Hold",
-      "sector": "Technology - Semiconductors",
-      "sources": ["CNBC", "Blockonomi", "TradingKey", "StockAnalysis", "StocksGuide", "247WallSt"],
-      "price_history_5d": [95.04, 105.45, 104.80]
-    },
-    {
-      "ticker": "CALM",
-      "company": "Cal-Maine Foods Inc.",
-      "discussion_driver": "Cal-Maine Foods plunged 6%+ premarket after a catastrophic fiscal Q4 miss: EPS of -$0.76 came in $0.84 below the $0.08 consensus estimate while revenue fell 50% year-over-year to $552.6M with gross profit collapsing 94%, as post-avian-flu industry oversupply drove wholesale shell egg prices to historically low inflation-adjusted levels. CEO Sherman Miller called Q4 'particularly challenging' with no clear timeline provided for an industry recovery.",
-      "bull_case": [
-        "Trading at a P/E of only 5.28x with a 10.73% dividend yield offers compelling value for income investors buying at the trough of the egg industry cycle",
-        "As the dominant U.S. egg producer, Cal-Maine is best-positioned to recover earnings power when industry oversupply normalizes and wholesale egg prices recover"
-      ],
-      "bear_case": [
-        "Industry oversupply is driving wholesale shell egg prices to historically low inflation-adjusted levels with no clear timeline for recovery, and Q4 gross profit collapsed 94% YoY",
-        "Q4 EPS miss of $0.84 versus consensus and revenue down 50% YoY signals near-term earnings power has essentially evaporated; recovery depends entirely on external market conditions"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$86.70",
-      "price_target": "$87.83 (+1.3%)",
-      "pe_ratio": "5.28",
+      "current_price": "$349.90",
+      "price_target": "$362.67 (+3.6%)",
+      "pe_ratio": "14.92",
       "rsi": "N/A",
-      "vs_52wk_high": "-31.4% below high ($126.40)",
-      "analyst_rating": "Hold",
-      "sector": "Consumer Staples - Food Production",
-      "sources": ["CNBC", "TipRanks", "StockTitan", "Motley Fool", "StockAnalysis", "Benzinga", "SEC Edgar"],
-      "price_history_5d": [87.25, 86.70]
+      "vs_52wk_high": "-0.4% below high ($351.24)",
+      "analyst_rating": "Buy",
+      "sector": "Financials - Banking",
+      "sources": ["Seeking Alpha", "TipRanks", "Yahoo Finance", "StockAnalysis", "247 Wall St.", "Benzinga"],
+      "price_history_5d": [338.87, 348.21, 349.90]
     },
     {
-      "ticker": "CB",
-      "company": "Chubb Limited",
-      "discussion_driver": "Chubb fell 3%+ despite a strong Q2 earnings beat — EPS of $7.26 surpassed the $6.63 consensus by 9.5% and grew 18% YoY, with revenue rising 6.5% to $15.77B — as investors focused on slowing P&C insurance premium growth that management attributed to deliberate underwriting discipline. Multiple analysts raised targets ahead of results (Piper Sandler and Evercore ISI to $374), yet the negative stock reaction reflects market concern about the forward insurance growth cycle.",
+      "ticker": "IBM",
+      "company": "International Business Machines Corp.",
+      "discussion_driver": "IBM crashed 26% on July 14 following a preliminary Q2 revenue miss, and confirmed the shortfall in its July 22 report ($17.16B vs $17.43B expected), cutting full-year revenue growth guidance from 'more than 5%' to 4-5%. HSBC downgraded to Reduce ($191 target). Shares rose ~2% after-hours on July 22 as EPS met estimates ($2.93) and software ARR grew 8%. RBC maintained Outperform at $270, reflecting a deeply split analyst consensus.",
       "bull_case": [
-        "Q2 EPS of $7.26 beat consensus by 9.5% and grew 18% YoY from $6.14, demonstrating strong underwriting profitability and earnings quality even in a disciplined premium environment",
-        "Multiple analysts raised price targets to $374 (Piper Sandler, Evercore ISI), and the stock's 12.23x P/E is 12% below its 10-year median, suggesting relative undervaluation"
+        "Software segment (8% ARR growth, 5% revenue growth) and consulting signings (+6%) show healthy underlying business momentum despite the top-line miss",
+        "Down 37.6% from 52-week high with consensus price target of $279.55 implying 34.8% upside for patient investors willing to wait for AI transition recovery"
       ],
       "bear_case": [
-        "P&C insurance premium growth is slowing due to deliberate underwriting discipline, limiting top-line expansion; investors sold the stock despite a 9.5% EPS beat, signaling concern about forward momentum",
-        "Analyst consensus target of approximately $346 is near current price levels after the post-earnings decline, providing minimal consensus-implied upside at current valuations"
+        "Q2 revenue miss ($17.16B vs $17.43B) and guidance cut to 4-5% growth signals structural AI transition headwinds; consulting flat and infrastructure revenue fell 7%",
+        "HSBC sees IBM trading at 22x forward PE vs sector median 16.9x — stretched valuation for a company missing revenue estimates and cutting growth guidance"
       ],
       "recommendation": "Hold",
-      "current_price": "$344.15",
-      "price_target": "$346.09 (+0.6%)",
-      "pe_ratio": "12.23",
+      "current_price": "$207.38",
+      "price_target": "$279.55 (+34.8%)",
+      "pe_ratio": "18.30",
       "rsi": "N/A",
-      "vs_52wk_high": "-5.8% below high ($365.29)",
+      "vs_52wk_high": "-37.6% below high ($332.46)",
       "analyst_rating": "Hold",
-      "sector": "Financials - P&C Insurance",
-      "sources": ["CNBC", "Yahoo Finance", "Benzinga", "GuruFocus", "Evercore ISI", "Piper Sandler", "Wells Fargo"],
-      "price_history_5d": [341.74, 352.16, 354.80, 344.15]
+      "sector": "Technology - IT Services/Cloud",
+      "sources": ["GuruFocus", "Yahoo Finance", "CNBC", "Investing.com", "StockStory", "StreetInsider"],
+      "price_history_5d": [212.67, 213.00, 213.00, 205.77, 207.38]
+    },
+    {
+      "ticker": "DOV",
+      "company": "Dover Corporation",
+      "discussion_driver": "Dover dropped nearly 8% on July 23 after Q2 revenue of $2.19B missed the $2.21B consensus, despite an EPS beat ($2.74 vs $2.72 expected) and raised FY26 EPS guidance ($10.55-$10.75). The miss was driven by a significant refrigeration segment production shortfall due to a complex facility consolidation and labor ramping challenges. Investors punished the stock on the revenue miss and near-term execution risk despite the upbeat guidance raise.",
+      "bull_case": [
+        "EPS beat ($2.74 vs $2.72) and raised full-year EPS guidance ($10.55-$10.75) demonstrate strong profitability; analyst consensus price target of $251.44 implies 27% upside post-drop",
+        "Refrigeration production shortfall is facility-consolidation related and likely temporary; resolution could restore ~1-1.5% of suppressed organic revenue growth in H2 2026"
+      ],
+      "bear_case": [
+        "Revenue missed ($2.19B vs $2.21B) despite favorable macro conditions; sell-off suggests investors question whether execution headwinds are truly temporary, adding credibility risk",
+        "Stock now 16.6% below 52-week high following today's drop; if refrigeration recovery is slower than expected or spills into Q3, further estimate cuts and de-rating likely"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$197.92",
+      "price_target": "$251.44 (+27.0%)",
+      "pe_ratio": "26.30",
+      "rsi": "N/A",
+      "vs_52wk_high": "-16.6% below high ($237.39)",
+      "analyst_rating": "Buy",
+      "sector": "Industrials - Diversified Industrial",
+      "sources": ["StockStory", "RTT News", "Yahoo Finance", "StockAnalysis", "StockTitan"],
+      "price_history_5d": [211.42, 214.53, 197.92]
     }
   ]
 }
