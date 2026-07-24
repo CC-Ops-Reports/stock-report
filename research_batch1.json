@@ -1,135 +1,135 @@
 {
-  "report_date": "2026-07-22",
+  "report_date": "2026-07-23",
   "batch": 1,
-  "market_tone": "Mixed",
+  "market_tone": "Bearish",
   "key_themes": [
-    "Big Tech earnings wave — Alphabet, Tesla, IBM, ServiceNow all reporting Q2 after the close",
-    "AI capex surge — Alphabet raises 2026 capex guidance to $195–205B, spotlighting AI infrastructure spend",
-    "Oil price spike — Brent crude jumps 3.4% to $94/barrel, pressuring broader market"
+    "AI capital expenditure surge rattles investors: Alphabet raises 2026 capex to $195-205B, triggering broad tech selloff",
+    "Q2 earnings divergence: defense and industrials surge while mega-cap tech and airlines disappoint",
+    "Oil spikes above $100/barrel on escalating Middle East tensions (Houthi attacks on Red Sea tankers)"
   ],
   "sp500": {
-    "value": "7,498.96",
-    "change": "-0.14%"
+    "value": "7,408.30",
+    "change": "-1.21%"
   },
   "nasdaq": {
-    "value": "25,690.90",
-    "change": "-0.57%"
+    "value": "25,137.69",
+    "change": "-2.15%"
   },
   "stocks": [
     {
-      "ticker": "SMCI",
-      "company": "Super Micro Computer",
-      "discussion_driver": "Super Micro Computer surged ~25% on July 22 after releasing a preliminary fiscal Q4 update showing a record $60B+ order backlog and gross margins of 15-17% (roughly double prior guidance of 8.2-8.4%). An announced AI data center deal with SpaceX further validated SMCI as a critical AI infrastructure provider, though the stock remains 51% below its 52-week high amid ongoing governance questions.",
+      "ticker": "TSLA",
+      "company": "Tesla Inc.",
+      "discussion_driver": "Tesla cratered 14.5% to $319.69, an 11-month low, after Q2 2026 earnings badly missed estimates ($0.33 non-GAAP EPS vs $0.55 expected). Capital expenditures surged 142% YoY to $5.79B and free cash flow turned deeply negative at -$1.09B, raising concerns about the pace of AI and robotics spending with no clear near-term payoff.",
       "bull_case": [
-        "70-80% market share in liquid-cooled AI racks with a $60B+ record order backlog and SpaceX AI data center deal validating tier-1 demand at the exact moment the industry is being forced to adopt liquid cooling",
-        "Gross margins recovering to 9.9% from 6.3% with management guiding to 15-17%, signaling a significant profitability inflection that could power shares back toward the analyst target zone"
+        "Robotaxi and Full Self-Driving platform expansion could unlock a high-margin, recurring revenue stream with near-term city rollouts expanding globally",
+        "Energy storage segment (Megapack/Powerwall) growing 50%+ YoY could become a major earnings contributor independent of vehicle sales"
       ],
       "bear_case": [
-        "Ongoing Board independent review tied to export-control matters creates governance overhang, compounded by CEO and director selling a combined 680K shares in May 2026",
-        "High cash burn ($6.6B operating cash outflow in fiscal Q3 FY2026) and $8.8B in total bank debt and convertibles limit financial flexibility if AI capex spending slows"
+        "Q2 earnings miss and -$1.09B free cash flow signal severe execution risk while management keeps raising capex guidance",
+        "Valuation at 335x trailing P/E is difficult to justify given margin compression and slowing EV delivery growth"
       ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$30.56",
-      "price_target": "$37.38 (+22.3%)",
-      "pe_ratio": "N/A",
+      "recommendation": "Hold",
+      "current_price": "$319.69",
+      "price_target": "$408.07 (+27.6%)",
+      "pe_ratio": "335.34",
       "rsi": "N/A",
-      "vs_52wk_high": "-51.0% below high ($62.36)",
+      "vs_52wk_high": "-35.9% below high ($498.83)",
       "analyst_rating": "Hold",
-      "sector": "Technology - Computer Hardware",
-      "sources": ["GuruFocus", "24/7 Wall St.", "Benzinga", "Yahoo Finance", "CNBC", "Motley Fool"],
-      "price_history_5d": [25.70, 24.80, 24.29, 25.50, 30.56]
+      "sector": "Consumer Discretionary - Electric Vehicles",
+      "sources": ["CNBC", "Yahoo Finance", "Electrek", "Motley Fool", "MarketBeat"],
+      "price_history_5d": [391.06, 378.93, 374.01, 319.69]
     },
     {
       "ticker": "GOOGL",
-      "company": "Alphabet",
-      "discussion_driver": "Alphabet beat Q2 2026 estimates with $119.8B in revenue and Google Cloud surging 82% YoY to $24.8B, but shares fell 4%+ after-hours when management raised 2026 capex guidance to $195-205B, well above the $188B analyst consensus. The elevated spending signals aggressive AI infrastructure commitment, sparking a bull-bear debate on whether it leads to durable competitive advantage or destroys near-term shareholder value.",
+      "company": "Alphabet Inc.",
+      "discussion_driver": "Alphabet fell 6.55% to $319.70 despite Q2 2026 earnings beats (revenue $119.8B, Google Cloud up 82% YoY). The selloff was driven by management raising 2026 capex guidance to $195-205B, stoking fears of sustained negative free cash flow as AI infrastructure spending escalates. The move rippled across mega-cap tech, dragging Amazon and Microsoft lower.",
       "bull_case": [
-        "Google Cloud revenue surged 82% YoY to $24.8B in Q2 2026 with operating income tripling to $6.6B at a 32.9% margin, validating the AI infrastructure investment thesis with improving returns",
-        "Search revenue accelerating with AI Overviews driving 19% growth and 89% of analysts rating the stock Buy, reflecting broad institutional confidence in Alphabet's full-stack AI positioning"
+        "Google Cloud growing at 82% YoY is establishing a dominant enterprise AI platform with high-margin recurring revenue; operating income tripled to $6.6B at a 32.9% margin",
+        "Core search and advertising generating $100B+ annually with AI Overviews driving 19% search revenue growth provides a durable earnings floor as monetization expands"
       ],
       "bear_case": [
-        "2026 capex guidance raised to $195-205B (above $188B consensus) is driving free cash flow negative, with 2027 capex expected to increase further, creating multi-year FCF margin compression",
-        "AI competitors OpenAI, Perplexity, and Microsoft threaten Google's core search dominance, while a $3.5B EU fine adds regulatory overhang to an already capital-intensive investment cycle"
-      ],
-      "recommendation": "Buy",
-      "current_price": "$355.00",
-      "price_target": "$433.55 (+22.1%)",
-      "pe_ratio": "26.77",
-      "rsi": "55.87",
-      "vs_52wk_high": "-13.1% below high ($408.61)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Technology - Internet & Cloud Services",
-      "sources": ["CNBC", "Seeking Alpha", "Yahoo Finance", "GuruFocus", "TipRanks", "BofA", "BMO Capital"],
-      "price_history_5d": [353.81, 352.00, 349.00, 347.15, 355.00]
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "discussion_driver": "Tesla reported Q2 2026 results showing a stark bifurcation: record $28.2B in revenue significantly beat the $26.4B estimate, but adjusted EPS of $0.33 missed the $0.54 consensus by 39% as operating profit fell 57% YoY and regulatory credits collapsed. Shares fell 5%+ after-hours, with bears focused on collapsing margins while bulls point to the dramatically improved cash burn rate and upcoming FSD/robotaxi catalysts.",
-      "bull_case": [
-        "Record Q2 revenue of $28.2B beat estimates by 6.8%, and free cash flow burn of -$1.09B dramatically beat the -$3.64B estimate, signaling improving capital efficiency and operational execution",
-        "FSD, robotaxi, and Optimus robot represent unpriced optionality catalysts that could significantly re-rate shares if executed, with Wedbush maintaining a $600 price target on these platform opportunities"
-      ],
-      "bear_case": [
-        "Adjusted EPS of $0.33 missed the $0.54 consensus by 39%, with operating profit down 57% YoY as regulatory credit revenue collapsed and core auto margins deteriorated sharply",
-        "Trailing PE of 363x leaves no margin of safety if the robotaxi and FSD commercialization timeline slips further, with GLJ Research maintaining a Sell rating at $24.86"
+        "Capex escalation to $195-205B in 2026 threatens free cash flow and may require debt issuance, limiting buybacks and dividends at the very moment AI ROI is unproven",
+        "Antitrust scrutiny and competition from Microsoft Copilot and OpenAI products could erode search market share over the next 2-3 years"
       ],
       "recommendation": "Hold",
-      "current_price": "$374.01",
-      "price_target": "$407.41 (+8.9%)",
-      "pe_ratio": "363.72",
+      "current_price": "$319.70",
+      "price_target": "$433.51 (+35.6%)",
+      "pe_ratio": "26.85",
       "rsi": "N/A",
-      "vs_52wk_high": "-25.0% below high ($498.83)",
+      "vs_52wk_high": "-21.8% below high ($408.61)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Communication Services - Internet & Media",
+      "sources": ["Bloomberg", "CNBC", "Axios", "Investing.com", "StockAnalysis", "MacroTrends"],
+      "price_history_5d": [370.92, 342.09, 319.70]
+    },
+    {
+      "ticker": "LMT",
+      "company": "Lockheed Martin",
+      "discussion_driver": "Lockheed Martin surged 11.4% to $573.21 after Q2 2026 results crushed expectations (EPS $7.94 vs $7.09 est.; revenue $20.06B vs $19.34B est.) and raised full-year revenue guidance to $79.75B-$81.75B. A $10.5B SOCOM logistics contract and $1.6B Navy F-35 spare parts order amplified confidence in the record order pipeline.",
+      "bull_case": [
+        "Surging global defense budgets driven by NATO expansion and Middle East/Ukraine conflicts are building LMT's backlog to record levels, with demand outpacing production capacity",
+        "F-35 program provides decades of guaranteed revenue across 17 countries through ongoing upgrades, sustainment contracts, and spare parts demand"
+      ],
+      "bear_case": [
+        "Stock remains 17% below its 52-week high of $692 despite today's surge, suggesting the market has structural concerns about defense budget sustainability if geopolitical tensions ease",
+        "Analyst consensus is only Hold/Neutral (6 buy, 14 hold, 1 sell) implying limited further upside at current levels from a sell-side standpoint"
+      ],
+      "recommendation": "Buy",
+      "current_price": "$573.21",
+      "price_target": "$625.16 (+9.1%)",
+      "pe_ratio": "24.91",
+      "rsi": "N/A",
+      "vs_52wk_high": "-17.2% below high ($692.00)",
       "analyst_rating": "Hold",
-      "sector": "Consumer Discretionary - Electric Vehicles",
-      "sources": ["Yahoo Finance", "CNBC", "Electrek", "24/7 Wall St.", "TipRanks", "Benzinga"],
-      "price_history_5d": [386.00, 380.84, 380.00, 376.00, 374.01]
+      "sector": "Industrials - Aerospace & Defense",
+      "sources": ["Benzinga", "CNBC", "Qz.com", "StocksToTrade", "TradingKey", "StockAnalysis"],
+      "price_history_5d": [505.00, 507.09, 514.36, 573.21]
     },
     {
-      "ticker": "IBM",
-      "company": "International Business Machines",
-      "discussion_driver": "IBM confirmed its Q2 2026 revenue miss ($17.16B vs $17.58B consensus) and lowered its full-year forecast at its July 22 earnings call, largely corroborating the July 14 preliminary warning that sent the stock crashing 25%+ in a single session — the worst one-day drop in company history. The EPS miss ($2.27 vs $2.97 expected) reflected enterprise AI budgets shifting toward cloud infrastructure hardware at the expense of IBM's software and services stack.",
+      "ticker": "INTC",
+      "company": "Intel Corporation",
+      "discussion_driver": "Intel reported Q2 2026 revenue of $16.1B (+25% YoY), the sharpest quarterly growth in nearly 15 years, with adjusted EPS of $0.42 doubling the $0.21 consensus. Q3 guidance of $15.8B-$16.8B also topped expectations. The stock closed regular trading at $102.72 and jumped roughly 9% after hours as investors cheered the broadest execution beat of Intel's foundry-led turnaround.",
       "bull_case": [
-        "Software segment continues to grow with the generative AI book of business exceeding $12.5B, and IBM has raised its dividend for 31 consecutive years, providing income support for investors weathering the selloff",
-        "Jefferies maintained a Buy rating (target $260) after the Q2 miss, suggesting analysts view the post-crash price near $213 as an attractive entry point relative to IBM's AI monetization trajectory"
+        "AI PC and data center chip demand is driving Intel's first sustained multi-quarter revenue acceleration since 2021, validating the foundry-first strategy ahead of the Intel 18A node ramp",
+        "Intel 18A process node customer commitments suggest the foundry business could achieve meaningful revenue contribution in 2027, adding a high-margin growth vector"
       ],
       "bear_case": [
-        "Q2 revenue of $17.16B missed by $420M with full-year guidance cut, signaling structural headwinds as enterprises redirect AI spend toward cloud infrastructure hardware rather than IBM's software-centric stack",
-        "Down 35%+ from its June 2026 high near $332, with HSBC downgraded to Reduce at a $191 target and the worst single-session drop in IBM's trading history still fresh in institutional memory"
+        "Stock trades 28% below its 52-week high despite the strong beat; forward P/E of ~147x leaves virtually no margin for error in coming quarters",
+        "TSMC and AMD continue winning high-performance compute designs; Intel's server CPU market share recovery remains slow relative to elevated investor expectations"
       ],
       "recommendation": "Hold",
-      "current_price": "$213.40",
-      "price_target": "$268.75 (+25.9%)",
-      "pe_ratio": "19.27",
+      "current_price": "$102.72",
+      "price_target": "$108.63 (+5.8%)",
+      "pe_ratio": "N/A",
       "rsi": "N/A",
-      "vs_52wk_high": "-35.8% below high ($332.46)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Enterprise Software & IT Services",
-      "sources": ["CNBC", "GuruFocus", "Forbes", "IndMoney", "TipRanks", "Benzinga", "Jefferies"],
-      "price_history_5d": [219.05, 212.67, 211.50, 210.50, 213.40]
+      "vs_52wk_high": "-27.8% below high ($142.35)",
+      "analyst_rating": "Hold",
+      "sector": "Technology - Semiconductors",
+      "sources": ["CNBC", "FX Leaders", "Benzinga", "TipRanks", "TradingKey", "24/7 Wall St."],
+      "price_history_5d": [95.04, 100.23, 102.72]
     },
     {
-      "ticker": "NOW",
-      "company": "ServiceNow",
-      "discussion_driver": "ServiceNow beat Q2 2026 estimates across the board (revenue $3.99B, subscription growth 23% YoY constant currency beating guidance by 1.5 points, operating margin 29.5% vs 26.5% guidance) and raised full-year subscription guidance to $15.76-15.78B for the second time, citing robust AI demand for Now Assist and AI Control Tower. Shares fell 6.47% during the regular July 22 session before rallying 4.68% after-hours on the results.",
+      "ticker": "HON",
+      "company": "Honeywell International",
+      "discussion_driver": "Honeywell rose 5-6.3% to $247.68 after Q2 2026 earnings beat across the board (non-GAAP EPS $4.52 well above forecast; revenue $9.72B up 4.3% YoY) and management raised FY2026 adjusted EPS guidance with the midpoint above consensus. Multiple analysts lifted price targets post-earnings: Deutsche Bank to $263, Citigroup to $260, and Evercore upgraded to Outperform with a $275 target.",
       "bull_case": [
-        "AI Control Tower and Now Assist gaining rapid enterprise traction with AI ACV surpassing $1B and targeting $1.5B by year-end 2026, supporting the second upward revision to full-year subscription revenue guidance",
-        "Q2 subscription growth of 23% YoY constant currency beat guidance by 1.5 points with 29.5% operating margin (3 points above guidance), demonstrating strong pricing power and execution discipline"
+        "Automation and building management systems are benefiting from global energy efficiency mandates and industrial reshoring, providing durable mid-single-digit organic growth with margin expansion",
+        "Post-spin-off portfolio simplification toward high-growth software and services segments should drive multiple expansion as business mix improves"
       ],
       "bear_case": [
-        "At 61x trailing PE with the stock down 54% from its 52-week high, significant multiple contraction risk exists if OpenAI's new enterprise product Presence captures core IT service management market share",
-        "Armis integration adds a 200bps headwind to free cash flow margin and gross margin is under pressure from AI infrastructure scaling costs, introducing near-term integration and execution risk"
+        "Stock sits only 4.8% below its 52-week high of $260.15 after today's surge, leaving limited near-term upside relative to most analyst price targets",
+        "Aerospace segment faces headwinds from airline sector weakness and oil prices above $100/barrel, which could temper demand for aerospace components and MRO services"
       ],
-      "recommendation": "Buy",
-      "current_price": "$95.46",
-      "price_target": "$139.25 (+45.9%)",
-      "pe_ratio": "60.76",
-      "rsi": "48",
-      "vs_52wk_high": "-54.6% below high ($210.20)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Technology - Enterprise Software & Cloud",
-      "sources": ["ChartMill", "24/7 Wall St.", "Yahoo Finance", "Benzinga", "MarketBeat", "DA Davidson"],
-      "price_history_5d": [104.50, 103.24, 101.00, 102.00, 95.46]
+      "recommendation": "Hold",
+      "current_price": "$247.68",
+      "price_target": "$260.00 (+5.0%)",
+      "pe_ratio": "18.19",
+      "rsi": "N/A",
+      "vs_52wk_high": "-4.8% below high ($260.15)",
+      "analyst_rating": "Buy",
+      "sector": "Industrials - Diversified",
+      "sources": ["CNBC", "Benzinga", "Gurufocus", "TradingKey", "StockAnalysis", "MarketBeat"],
+      "price_history_5d": [221.81, 229.86, 236.54, 247.68]
     }
   ]
 }
