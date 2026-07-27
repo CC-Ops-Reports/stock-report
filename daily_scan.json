@@ -1,176 +1,184 @@
 {
-  "report_date": "2026-07-24",
+  "report_date": "2026-07-27",
   "market_tone": "Mixed",
   "key_themes": [
-    "AI capital expenditure concerns weigh on Big Tech (Alphabet, Tesla negative FCF)",
-    "Chip sector weakness despite strong Intel earnings beat",
-    "Software names surge as investors rotate from hardware to software AI plays"
+    "China chipmaking breakthrough (DUV lithography + ChangXin Memory IPO) hammers semiconductor stocks",
+    "Big Tech capex anxiety drags Nasdaq as Intel and Alphabet both sell off despite earnings beats",
+    "AI software outperforms hardware: ServiceNow surges on strong Q2 beat and agentic AI monetization"
   ],
   "sp500": {
-    "value": "7,411.98",
-    "change": "+0.05%"
+    "value": "7,413.00",
+    "change": "+0.02%"
   },
   "nasdaq": {
-    "value": "24,975.82",
-    "change": "-0.64%"
+    "value": "24,932.00",
+    "change": "-0.18%"
   },
   "stocks": [
     {
-      "ticker": "SAFT",
-      "company": "Safety Insurance Group",
-      "reason": "Shares surged ~40% after Mapfre agreed to acquire the company in a $1.54B all-cash deal at $105/share, a 44% premium to prior close",
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "reason": "Down ~4-5%: China state-backed firm began mass-producing DUV lithography tools; also circular-financing concerns around $250B OpenAI data-center backstop deal; Apple overtook Nvidia as world's largest company by market cap",
       "category": "news",
       "sources": [
         "Yahoo Finance",
-        "Benzinga",
-        "The Middle Market"
+        "Bloomberg",
+        "FX Leaders",
+        "AOL/Reuters"
       ]
     },
     {
-      "ticker": "AMKR",
-      "company": "Amkor Technology",
-      "reason": "Stock jumped ~11% after announcing a multiyear $1.5B agreement with Nvidia to develop advanced AI semiconductor packaging and testing technologies",
+      "ticker": "SNDK",
+      "company": "SanDisk",
+      "reason": "Down ~12%: ChangXin Memory Technologies completed blockbuster $8.6B Shanghai IPO, stock surged 466% on debut, renewing fears of Chinese competition crushing NAND memory pricing; stock now 45% off June peak",
       "category": "news",
       "sources": [
-        "CNBC",
-        "Seeking Alpha"
+        "Motley Fool",
+        "Benzinga",
+        "Yahoo Finance",
+        "QuiverQuant"
       ]
     },
     {
-      "ticker": "SLB",
-      "company": "SLB (Schlumberger)",
-      "reason": "Shares surged 10.4% after Q2 earnings beat (adj. EPS $0.52 vs $0.51 est.) driven by Digital segment strength and ChampionX acquisition contributions",
-      "category": "earnings",
+      "ticker": "ASML",
+      "company": "ASML Holding",
+      "reason": "Down ~6-7%: Bloomberg report that China's state-backed Naura Technology began mass-producing domestic immersion DUV chipmaking machines, threatening ASML's competitive moat in older-generation tool sales to China",
+      "category": "news",
       "sources": [
-        "GuruFocus",
-        "MarketBeat",
-        "SLB Newsroom"
+        "Bloomberg",
+        "Yahoo Finance",
+        "Benzinga",
+        "ProActive Investors"
       ]
     },
     {
-      "ticker": "AAL",
-      "company": "American Airlines Group",
-      "reason": "Stock rose ~6% after Q2 earnings beat (adj. EPS $0.15 vs $0.05 est.) on revenue of $16.74B; multiple banks raised price targets",
-      "category": "earnings",
+      "ticker": "AMD",
+      "company": "Advanced Micro Devices",
+      "reason": "Down ~7%: Broad semiconductor selloff triggered by China's DUV chipmaking breakthrough; contagion from ASML and Nvidia declines hit the entire chip sector",
+      "category": "sector",
       "sources": [
-        "CNBC",
-        "Timothy Sykes",
-        "247 Wall St."
+        "Yahoo Finance",
+        "Proactive Investors"
+      ]
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "reason": "Down ~5%: ChangXin Memory Technologies' massive Shanghai IPO reinforced fears of Chinese competition in DRAM/NAND; memory sector broadly sold off alongside SanDisk",
+      "category": "sector",
+      "sources": [
+        "TradingKey",
+        "CNBC"
       ]
     },
     {
       "ticker": "INTC",
-      "company": "Intel Corporation",
-      "reason": "Stock fell ~4% as investors focused on heavy capex plans despite a massive Q2 beat: revenue of $16.1B (+25% YoY), adj. EPS of $0.42 vs $0.21 est. \u2014 fastest revenue growth since 2011",
+      "company": "Intel",
+      "reason": "Down ~7.9% despite massive Q2 beat: EPS $0.42 vs ~$0.21 est., revenue $16.1B (+25% YoY, fastest growth in 15 years), AI/Data Center revenue +59%; investors punished stock over capex raise to $20B+ for 2026 and ongoing foundry losses",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "Benzinga",
-        "Seeking Alpha"
-      ]
-    },
-    {
-      "ticker": "AXP",
-      "company": "American Express",
-      "reason": "Reported Q2 EPS of $4.53 (beat $4.45 est.) and raised full-year 2026 revenue growth guidance to 10%; stock slipped despite the beat on slight revenue miss",
-      "category": "earnings",
-      "sources": [
-        "Yahoo Finance",
-        "Quiver Quantitative",
-        "QZ"
-      ]
-    },
-    {
-      "ticker": "ADBE",
-      "company": "Adobe Inc.",
-      "reason": "Shares rose more than 5% as investors rotated into software names amid broader AI spending narrative favoring software over hardware",
-      "category": "sector",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance"
+        "Motley Fool",
+        "FX Leaders",
+        "Phemex"
       ]
     },
     {
       "ticker": "NOW",
       "company": "ServiceNow",
-      "reason": "Stock gained more than 5% as enterprise software names rallied on the day, benefiting from investor rotation away from chip stocks",
-      "category": "sector",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "WDAY",
-      "company": "Workday",
-      "reason": "Shares climbed more than 4% as software sector outperformed in a mixed market session driven by AI spending theme rotation",
-      "category": "sector",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "reason": "Shares under pressure after Q2 report (rev $28.2B, adj. EPS $0.33); Elon Musk confirmed Optimus humanoid robot production lines being installed at Gigafactory Texas, but negative FCF and higher capex outlook weighed on stock",
+      "reason": "Up ~7%: Q2 beat on nearly every metric \u2014 EPS $0.90 vs $0.86 est., revenue $3.99B vs $3.93B est., subscription revenue +24.5% YoY; 50% of net new business is now non-seat-based, directly addressing agentic AI cannibalisation fears",
       "category": "earnings",
       "sources": [
-        "CNBC",
-        "XTB",
-        "Stansberry Research"
+        "GuruFocus",
+        "TradingKey",
+        "Finviz"
+      ]
+    },
+    {
+      "ticker": "CLS",
+      "company": "Celestica",
+      "reason": "Reported Q2 after close: EPS $2.41 vs $2.29 est. (+$0.12 beat); stock rose ~$15.78 to $321.06 on 2x average volume; raised FY2026 and Q3 guidance; AI infrastructure demand driving strong results",
+      "category": "earnings",
+      "sources": [
+        "24/7 Wall St.",
+        "Daily Political",
+        "TipRanks"
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "reason": "KeyBanc downgraded to Underweight (rare bearish rating) with $250 PT, citing weak iPhone demand, slowing upgrade cycles, higher prices reducing trade-ins, and June spending down 2% vs 3-year avg of +9%; also surpassed Nvidia as world's most valuable company",
+      "category": "downgrade",
+      "sources": [
+        "Yahoo Finance",
+        "Seeking Alpha",
+        "Gurufocus",
+        "Investing.com"
       ]
     },
     {
       "ticker": "GOOGL",
-      "company": "Alphabet Inc.",
-      "reason": "Q2 revenue of $119.8B beat estimates ($117B) and AI business shines, but heavy capex and negative FCF (inflated by ~$99B in equity investment gains) sent shares down 3%+ after hours",
-      "category": "earnings",
+      "company": "Alphabet",
+      "reason": "Upgraded to Buy at Phillip Securities (PT $425); last week earnings beat with Cloud revenue +82% YoY to $24.8B; but raised 2026 capex guidance to $195-205B, stoking investor worry; stock trading off post-earnings capex scare",
+      "category": "upgrade",
       "sources": [
+        "24/7 Wall St.",
         "CNBC",
-        "XTB",
+        "Yahoo Finance",
+        "Seeking Alpha"
+      ]
+    },
+    {
+      "ticker": "RIVN",
+      "company": "Rivian Automotive",
+      "reason": "Piper Sandler upgraded to Overweight, raised PT to $20 from $18; upgrade cites de-risked balance sheet, smooth R2 ramp, improved demand outlook; earnings due July 30",
+      "category": "upgrade",
+      "sources": [
+        "GuruFocus",
+        "TipRanks",
+        "Motley Fool",
+        "247wallst.com"
+      ]
+    },
+    {
+      "ticker": "F",
+      "company": "Ford Motor",
+      "reason": "Jefferies upgraded to Buy from Hold, raised PT to $17.50 from $14.50, implying ~22% upside; EV strategy and cost-cutting progress cited as catalysts",
+      "category": "upgrade",
+      "sources": [
+        "24/7 Wall St.",
+        "Benzinga"
+      ]
+    },
+    {
+      "ticker": "IBM",
+      "company": "IBM",
+      "reason": "HSBC downgraded to Reduce from Hold with PT cut to $191 from $231; concerns about slowing enterprise software demand and AI integration costs weighing on margins",
+      "category": "downgrade",
+      "sources": [
+        "Yahoo Finance",
+        "24/7 Wall St."
+      ]
+    },
+    {
+      "ticker": "WBD",
+      "company": "Warner Bros. Discovery",
+      "reason": "Seaport Research downgraded to Neutral from Buy (no PT); also news that Paramount-Skydance put their WBD acquisition discussions on hold, removing a potential buyout premium",
+      "category": "downgrade",
+      "sources": [
+        "24/7 Wall St.",
         "Yahoo Finance"
       ]
     },
     {
-      "ticker": "SPCX",
-      "company": "Space Exploration Technologies (SpaceX)",
-      "reason": "Shares dropped to an all-time low as investors continued to rerate valuation following last month's massive IPO; HSBC initiated with Hold at $115 target",
-      "category": "news",
+      "ticker": "SIRI",
+      "company": "SiriusXM Holdings",
+      "reason": "Wells Fargo upgraded to Equal Weight from Underweight, raised PT to $30 from $18 (+67% PT increase); shift signals improving subscriber retention and cost structure post-restructuring",
+      "category": "upgrade",
       "sources": [
-        "CNBC",
-        "247 Wall St."
-      ]
-    },
-    {
-      "ticker": "RHI",
-      "company": "Robert Half International",
-      "reason": "Stock fell ~6% after reporting underwhelming Q2 results, signaling continued weakness in the staffing and executive search market",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Seeking Alpha"
-      ]
-    },
-    {
-      "ticker": "MXLV",
-      "company": "MaxLinear",
-      "reason": "Shares tumbled 9-20% despite reporting better-than-expected Q2 earnings, suggesting the market expected a stronger forward outlook",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Seeking Alpha"
-      ]
-    },
-    {
-      "ticker": "VZ",
-      "company": "Verizon Communications",
-      "reason": "Reported Q2 2026 earnings on July 24; company disclosed expected Q2 loss of $700M-$800M due to asset reclassification from Contributed Business sale; forecasted full-year revenue growth",
-      "category": "earnings",
-      "sources": [
-        "Yahoo Finance",
-        "Globe Newswire",
-        "GuruFocus"
+        "24/7 Wall St.",
+        "Benzinga"
       ]
     }
   ]
