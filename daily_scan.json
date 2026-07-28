@@ -1,184 +1,170 @@
 {
-  "report_date": "2026-07-27",
+  "report_date": "2026-07-28",
   "market_tone": "Mixed",
   "key_themes": [
-    "China chipmaking breakthrough (DUV lithography + ChangXin Memory IPO) hammers semiconductor stocks",
-    "Big Tech capex anxiety drags Nasdaq as Intel and Alphabet both sell off despite earnings beats",
-    "AI software outperforms hardware: ServiceNow surges on strong Q2 beat and agentic AI monetization"
+    "Chip sector rout triggered by CXMT (China DRAM maker) IPO and SK Hynix -15% crash in Korea",
+    "Big Tech earnings week with MSFT, AMZN, AAPL, META reporting later this week; Fed decision due Wednesday",
+    "Rotation from semiconductors into healthcare, industrials, and software \u2014 Dow +1% vs Nasdaq -0.2%"
   ],
   "sp500": {
-    "value": "7,413.00",
-    "change": "+0.02%"
+    "value": "7,428.78",
+    "change": "+0.21%"
   },
   "nasdaq": {
-    "value": "24,932.00",
-    "change": "-0.18%"
+    "value": "24,876.91",
+    "change": "-0.22%"
   },
   "stocks": [
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "reason": "Down ~4-5%: China state-backed firm began mass-producing DUV lithography tools; also circular-financing concerns around $250B OpenAI data-center backstop deal; Apple overtook Nvidia as world's largest company by market cap",
-      "category": "news",
+      "ticker": "AMKR",
+      "company": "Amkor Technology",
+      "reason": "Plunged 24.1% after Q2 beat (EPS $0.70 vs $0.45 est, revenue $1.9B vs $1.81B) but forward revenue guidance came in below analyst expectations",
+      "category": "earnings",
       "sources": [
-        "Yahoo Finance",
-        "Bloomberg",
-        "FX Leaders",
-        "AOL/Reuters"
-      ]
-    },
-    {
-      "ticker": "SNDK",
-      "company": "SanDisk",
-      "reason": "Down ~12%: ChangXin Memory Technologies completed blockbuster $8.6B Shanghai IPO, stock surged 466% on debut, renewing fears of Chinese competition crushing NAND memory pricing; stock now 45% off June peak",
-      "category": "news",
-      "sources": [
-        "Motley Fool",
+        "CNBC",
         "Benzinga",
-        "Yahoo Finance",
-        "QuiverQuant"
-      ]
-    },
-    {
-      "ticker": "ASML",
-      "company": "ASML Holding",
-      "reason": "Down ~6-7%: Bloomberg report that China's state-backed Naura Technology began mass-producing domestic immersion DUV chipmaking machines, threatening ASML's competitive moat in older-generation tool sales to China",
-      "category": "news",
-      "sources": [
-        "Bloomberg",
-        "Yahoo Finance",
-        "Benzinga",
-        "ProActive Investors"
-      ]
-    },
-    {
-      "ticker": "AMD",
-      "company": "Advanced Micro Devices",
-      "reason": "Down ~7%: Broad semiconductor selloff triggered by China's DUV chipmaking breakthrough; contagion from ASML and Nvidia declines hit the entire chip sector",
-      "category": "sector",
-      "sources": [
-        "Yahoo Finance",
-        "Proactive Investors"
+        "Motley Fool"
       ]
     },
     {
       "ticker": "MU",
       "company": "Micron Technology",
-      "reason": "Down ~5%: ChangXin Memory Technologies' massive Shanghai IPO reinforced fears of Chinese competition in DRAM/NAND; memory sector broadly sold off alongside SanDisk",
+      "reason": "Slid ~9% as global chip sell-off deepened following CXMT 466% IPO debut (China DRAM maker) and SK Hynix plunging 15% in South Korea on fears of DRAM supply glut",
       "category": "sector",
       "sources": [
-        "TradingKey",
-        "CNBC"
+        "CNBC",
+        "Benzinga",
+        "NBC News"
       ]
     },
     {
-      "ticker": "INTC",
-      "company": "Intel",
-      "reason": "Down ~7.9% despite massive Q2 beat: EPS $0.42 vs ~$0.21 est., revenue $16.1B (+25% YoY, fastest growth in 15 years), AI/Data Center revenue +59%; investors punished stock over capex raise to $20B+ for 2026 and ongoing foundry losses",
+      "ticker": "AMD",
+      "company": "Advanced Micro Devices",
+      "reason": "Fell 8%+ as semiconductor sector sell-off intensified; Nasdaq-100 pushed into correction territory amid CXMT IPO supply-glut fears and Korean market crash",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "Benzinga",
+        "FX Leaders"
+      ]
+    },
+    {
+      "ticker": "GLW",
+      "company": "Corning",
+      "reason": "Plunged 16% despite Q2 beat (EPS $0.78 vs $0.76 est, revenue $4.74B vs $4.61B) after current-quarter revenue guidance came in below Wall Street consensus",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "Motley Fool",
-        "FX Leaders",
-        "Phemex"
+        "TheStreet"
       ]
     },
     {
-      "ticker": "NOW",
-      "company": "ServiceNow",
-      "reason": "Up ~7%: Q2 beat on nearly every metric \u2014 EPS $0.90 vs $0.86 est., revenue $3.99B vs $3.93B est., subscription revenue +24.5% YoY; 50% of net new business is now non-seat-based, directly addressing agentic AI cannibalisation fears",
+      "ticker": "TER",
+      "company": "Teradyne",
+      "reason": "Surged 14% after hours after massive Q2 EPS beat \u2014 $2.47 vs $2.06 est (beat by $0.41); revenue $1.33B vs $1.22B consensus for semiconductor test equipment maker",
       "category": "earnings",
       "sources": [
-        "GuruFocus",
-        "TradingKey",
-        "Finviz"
-      ]
-    },
-    {
-      "ticker": "CLS",
-      "company": "Celestica",
-      "reason": "Reported Q2 after close: EPS $2.41 vs $2.29 est. (+$0.12 beat); stock rose ~$15.78 to $321.06 on 2x average volume; raised FY2026 and Q3 guidance; AI infrastructure demand driving strong results",
-      "category": "earnings",
-      "sources": [
-        "24/7 Wall St.",
-        "Daily Political",
-        "TipRanks"
-      ]
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "reason": "KeyBanc downgraded to Underweight (rare bearish rating) with $250 PT, citing weak iPhone demand, slowing upgrade cycles, higher prices reducing trade-ins, and June spending down 2% vs 3-year avg of +9%; also surpassed Nvidia as world's most valuable company",
-      "category": "downgrade",
-      "sources": [
-        "Yahoo Finance",
-        "Seeking Alpha",
-        "Gurufocus",
-        "Investing.com"
-      ]
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet",
-      "reason": "Upgraded to Buy at Phillip Securities (PT $425); last week earnings beat with Cloud revenue +82% YoY to $24.8B; but raised 2026 capex guidance to $195-205B, stoking investor worry; stock trading off post-earnings capex scare",
-      "category": "upgrade",
-      "sources": [
-        "24/7 Wall St.",
         "CNBC",
-        "Yahoo Finance",
-        "Seeking Alpha"
+        "StreetInsider"
       ]
     },
     {
-      "ticker": "RIVN",
-      "company": "Rivian Automotive",
-      "reason": "Piper Sandler upgraded to Overweight, raised PT to $20 from $18; upgrade cites de-risked balance sheet, smooth R2 ramp, improved demand outlook; earnings due July 30",
-      "category": "upgrade",
+      "ticker": "KLAC",
+      "company": "KLA Corporation",
+      "reason": "Fell ~9% after hours despite Q2 revenue of $3.66B (+15.2% YoY) and adjusted EPS beating expectations by 5.1%; sector-wide chip equipment selling pressure",
+      "category": "earnings",
       "sources": [
-        "GuruFocus",
-        "TipRanks",
-        "Motley Fool",
-        "247wallst.com"
+        "CNBC",
+        "TradingView"
+      ]
+    },
+    {
+      "ticker": "IQV",
+      "company": "IQVIA Holdings",
+      "reason": "Rallied 12% after clinical research services company reported better-than-expected Q2 results, bucking healthcare sector strength on the day",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "TheStreet"
+      ]
+    },
+    {
+      "ticker": "RCKY",
+      "company": "Rocky Brands",
+      "reason": "Surged 16% after Q2 EPS (ex-items) more than tripled from a year ago, reporting after market close on July 28",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "StockTitan"
       ]
     },
     {
       "ticker": "F",
       "company": "Ford Motor",
-      "reason": "Jefferies upgraded to Buy from Hold, raised PT to $17.50 from $14.50, implying ~22% upside; EV strategy and cost-cutting progress cited as catalysts",
+      "reason": "Rose 6% after posting Q2 adjusted earnings that beat expectations and raising its full-year 2026 earnings outlook; also reported after hours",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "FX Leaders"
+      ]
+    },
+    {
+      "ticker": "BA",
+      "company": "Boeing",
+      "reason": "Moved higher despite reporting a wider-than-expected Q2 loss driven by a $280M charge on the long-delayed Air Force One 747 program delivery",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "TheStreet"
+      ]
+    },
+    {
+      "ticker": "CSGP",
+      "company": "CoStar Group",
+      "reason": "Tumbled 12% after Q2 revenue failed to meet FactSet analyst consensus estimates",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "TheStreet"
+      ]
+    },
+    {
+      "ticker": "V",
+      "company": "Visa",
+      "reason": "Lost ~2% after hours as FY2026 guidance reaffirmed mid-teens adjusted EPS growth \u2014 roughly in line with consensus but not enough to impress the Street",
+      "category": "earnings",
+      "sources": [
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "ISRG",
+      "company": "Intuitive Surgical",
+      "reason": "Upgraded to Buy from Neutral at UBS with price target raised to $550 from $500, leading healthcare sector rotation gains",
       "category": "upgrade",
       "sources": [
-        "24/7 Wall St.",
-        "Benzinga"
+        "247 Wall St.",
+        "Daily Trade Alert"
       ]
     },
     {
-      "ticker": "IBM",
-      "company": "IBM",
-      "reason": "HSBC downgraded to Reduce from Hold with PT cut to $191 from $231; concerns about slowing enterprise software demand and AI integration costs weighing on margins",
-      "category": "downgrade",
+      "ticker": "ADBE",
+      "company": "Adobe",
+      "reason": "Gained ~6%, defying the Nasdaq sell-off; investor interest in AI revenue growth potential offset leadership transition (CEO moving to Board Chair)",
+      "category": "news",
       "sources": [
-        "Yahoo Finance",
-        "24/7 Wall St."
+        "Benzinga",
+        "CoinCentral"
       ]
     },
     {
-      "ticker": "WBD",
-      "company": "Warner Bros. Discovery",
-      "reason": "Seaport Research downgraded to Neutral from Buy (no PT); also news that Paramount-Skydance put their WBD acquisition discussions on hold, removing a potential buyout premium",
-      "category": "downgrade",
-      "sources": [
-        "24/7 Wall St.",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "SIRI",
-      "company": "SiriusXM Holdings",
-      "reason": "Wells Fargo upgraded to Equal Weight from Underweight, raised PT to $30 from $18 (+67% PT increase); shift signals improving subscriber retention and cost structure post-restructuring",
+      "ticker": "HON",
+      "company": "Honeywell International",
+      "reason": "Upgraded to Neutral from Underperform at Bank of America with target raised to $265 from $205; accounted for part of the Dow's 1%+ gain in the industrial rotation",
       "category": "upgrade",
       "sources": [
-        "24/7 Wall St.",
-        "Benzinga"
+        "247 Wall St.",
+        "Daily Trade Alert"
       ]
     }
   ]
