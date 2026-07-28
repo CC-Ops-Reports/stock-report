@@ -1,121 +1,151 @@
 {
-  "report_date": "2026-07-24",
+  "report_date": "2026-07-27",
   "batch": 2,
   "stocks": [
     {
-      "ticker": "AXP",
-      "company": "American Express",
-      "discussion_driver": "American Express reported Q2 2026 EPS of $4.53, beating the $4.45 estimate, with net income up 11% YoY to $3.11B on revenue of $19.64B. Management raised full-year 2026 revenue growth guidance to 10%, signaling confidence in its premium cardholder franchise, but the stock slipped on earnings day as a slight revenue miss disappointed investors focused on top-line growth momentum.",
+      "ticker": "INTC",
+      "company": "Intel Corp.",
+      "discussion_driver": "Intel delivered its fastest revenue growth in 15 years (Q2 revenue +25% YoY to $16.1B, EPS $0.42 vs $0.21 estimate) and AI/Data Center revenue surged 59%, yet shares fell ~8% on July 24 as investors focused on capex raised to $20B+ for 2026 and an $11B net loss tied to ongoing foundry losses. The paradox of record operational results paired with sustained losses has created a bifurcated analyst view: bulls see a foundry transformation inflection, while bears worry the spending is open-ended. Shares are rebounding toward $95 on July 27 as some investors view the post-earnings selloff as overdone relative to Intel's improving competitive position.",
       "bull_case": [
-        "Consistent earnings beats and raised full-year guidance demonstrate resilient demand from AmEx's premium cardholder base, which is less sensitive to economic softness than mass-market credit card issuers.",
-        "Value-added services and digital revenue continue to diversify income beyond core card spending, while the 10% revenue guidance raise signals durable compounding growth momentum."
+        "Fastest revenue growth in 15 years (+25% YoY) with AI/Data Center up 59% validates Intel's turnaround; stock is 33% below 52-week high and may be oversold after the earnings selloff",
+        "18A foundry process attracting potential Apple and Microsoft fabrication contracts could unlock a transformational new revenue stream as the world's most advanced process outside TSMC"
       ],
       "bear_case": [
-        "The slight revenue miss raises questions about whether premium consumer spending growth is beginning to decelerate, which could weigh on forward multiple expansion.",
-        "Rising credit loss provisions among small business cardholders could pressure earnings if the macroeconomic environment deteriorates further in H2 2026."
+        "Company posted an $11B net loss despite the top-line beat and is raising capex to $20B+ for 2026, creating multi-year free cash flow headwinds",
+        "Circular-financing concerns around the $250B OpenAI data-center backstop deal, combined with continued foundry losses, create persistent overhang on valuation beyond near-term earnings beats"
       ],
       "recommendation": "Hold",
-      "current_price": "$326.17",
-      "price_target": "$375.00 (+14.9%)",
-      "pe_ratio": "21.88",
-      "rsi": "62.0",
-      "vs_52wk_high": "-15.8% below high ($387.49)",
-      "analyst_rating": "Buy",
-      "sector": "Financial Services",
-      "sources": ["StockAnalysis", "GuruFocus", "Yahoo Finance", "Quiver Quantitative", "QZ"],
-      "price_history_5d": [344.00, 347.50, 350.79, 354.43, 326.17]
-    },
-    {
-      "ticker": "ADBE",
-      "company": "Adobe Inc.",
-      "discussion_driver": "Adobe shares saw intraday gains of more than 5% on July 24 as investors rotated into software names amid the AI spending narrative favoring platform software over hardware. Despite the intraday pop, ADBE remains deeply depressed — trading 43%+ below its 52-week high with an RSI of 29 in oversold territory — reflecting persistent uncertainty over generative AI's competitive threat to Adobe's core creative franchise.",
-      "bull_case": [
-        "Severely oversold RSI of 29 and a 43%+ decline from the 52-week high may represent an asymmetric entry if Adobe's AI generative tools (Firefly) gain commercial traction and stabilize subscriber growth.",
-        "Adobe's entrenched position across creative, document, and digital experience software — with high switching costs and large enterprise contracts — provides recurring revenue stability regardless of near-term AI headwinds."
-      ],
-      "bear_case": [
-        "Generative AI tools from OpenAI, Stability AI, and Midjourney continue to commoditize core creative workflows, threatening Adobe's Creative Cloud pricing power and subscriber retention.",
-        "A Hold consensus among analysts and a persistent downward price trend signal sustained uncertainty about Adobe's ability to monetize AI effectively, limiting near-term re-rating potential."
-      ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$212.15",
-      "price_target": "$272.48 (+28.4%)",
-      "pe_ratio": "N/A",
-      "rsi": "29.19",
-      "vs_52wk_high": "-43.6% below high ($376.16)",
+      "current_price": "$94.80",
+      "price_target": "$114.33 (+20.6%)",
+      "pe_ratio": "N/A (net loss TTM)",
+      "rsi": "36",
+      "vs_52wk_high": "-33.4% below high ($142.35)",
       "analyst_rating": "Hold",
-      "sector": "Technology - Software",
-      "sources": ["StockAnalysis", "MarketBeat", "Benzinga", "Simply Wall St", "CNBC", "Yahoo Finance"],
-      "price_history_5d": [238.00, 227.16, 220.00, 212.17, 212.15]
+      "sector": "Technology - Semiconductors",
+      "sources": [
+        "FX Leaders",
+        "CNBC",
+        "Phemex",
+        "TradingKey",
+        "StockAnalysis"
+      ],
+      "price_history_5d": [97.00, 99.00, 101.30, 93.29, 91.52]
     },
     {
       "ticker": "NOW",
-      "company": "ServiceNow",
-      "discussion_driver": "ServiceNow gained more than 5% on July 24 as enterprise software names rallied amid a sector rotation away from chip stocks. However, shares remain more than 53% below their 52-week high following a sharp post-earnings drop on July 22, when Q2 2026 results triggered a -6.47% single-session selloff as investors reassessed ServiceNow's growth trajectory despite a near-unanimous Strong Buy consensus from Wall Street analysts.",
+      "company": "ServiceNow, Inc.",
+      "discussion_driver": "ServiceNow beat Q2 2026 estimates on nearly every metric — EPS $0.90 vs $0.86, subscription revenue +24.5% YoY — and crucially announced that 50% of net new business is now non-seat-based, directly countering fears that agentic AI would cannibalize its core licensing model. Despite the beat, the stock had been down ~38% YTD entering Q2 due to concerns about Remaining Performance Obligations deceleration, causing an initially mixed market reaction before surging ~7% on both July 24 and July 27. With RSI near 26 (deeply oversold) and 31% upside to the $140 consensus target, NOW is positioned for a potential re-rating if AI monetization trends continue.",
       "bull_case": [
-        "An 83% buy consensus among analysts with 40%+ average upside to price targets reflects deep conviction that ServiceNow's AI workflow platform (Now Assist) is becoming an indispensable enterprise automation layer.",
-        "Multi-year enterprise deals and integration partnerships with Nvidia and Microsoft position ServiceNow to capture growing AI agent orchestration spending from large corporations."
+        "50% of net new business is now non-seat-based, countering agentic AI cannibalization fears and demonstrating a structural shift to consumption-based pricing that could drive a significant re-rating",
+        "RSI near 26 (deeply oversold) with 49 analysts rating Strong Buy and 31% upside to $140 consensus target; Q2 beat shows core platform demand remains intact despite macro headwinds"
       ],
       "bear_case": [
-        "A 53%+ decline from the 52-week high and severe post-Q2 earnings selloff suggest the market is materially repricing ServiceNow's growth expectations, with revenue expansion potentially slowing below the premium multiple once commanded.",
-        "Microsoft Copilot's expanding enterprise workflow automation capabilities represent a direct competitive threat that could erode ServiceNow's platform differentiation and pricing power."
-      ],
-      "recommendation": "Buy",
-      "current_price": "$98.19",
-      "price_target": "$140.00 (+42.6%)",
-      "pe_ratio": "61.87",
-      "rsi": "48.0",
-      "vs_52wk_high": "-53.3% below high ($210.20)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Technology - Enterprise Software",
-      "sources": ["StockAnalysis", "TickerNerd", "ChartMill", "MacroTrends", "CNBC", "Yahoo Finance"],
-      "price_history_5d": [105.00, 102.00, 95.46, 93.00, 98.19]
-    },
-    {
-      "ticker": "WDAY",
-      "company": "Workday",
-      "discussion_driver": "Workday shares climbed more than 5% on July 24 as the software sector outperformed in a mixed market session driven by AI spending theme rotation from hardware to software. Despite the day's gain, WDAY remains deeply oversold (RSI 27.64) and more than 46% below its 52-week high, reflecting sustained investor concern about enterprise IT budget compression and rising competition in the HCM and ERP software market.",
-      "bull_case": [
-        "An oversold RSI of 27.64 and a forward PE of just 11.37x — a steep discount to the software sector median — could attract value-oriented institutional buyers if near-term earnings delivery stabilizes.",
-        "Workday's AI-powered HR and finance cloud platform is gaining adoption among large enterprise clients, with strong net revenue retention and a growing partner ecosystem supporting long-term growth."
-      ],
-      "bear_case": [
-        "A 46%+ decline from the 52-week high reflects real concerns about slowing enterprise SaaS spend, with CFOs cutting discretionary software budgets across large organizations.",
-        "SAP, Oracle, and ADP continue to aggressively invest in competing HCM and ERP platforms, limiting Workday's ability to expand its TAM at historically strong growth rates."
+        "Remaining Performance Obligations (RPO) deceleration disappointed institutional investors, raising questions about forward revenue visibility and whether the business is maturing faster than expected",
+        "Stock was down ~38% YTD before earnings despite consecutive beats, suggesting structural market skepticism about AI substitution risk that a single quarter's results may not overcome"
       ],
       "recommendation": "Speculative Buy",
-      "current_price": "$134.76",
-      "price_target": "$195.87 (+45.4%)",
-      "pe_ratio": "49.02",
-      "rsi": "27.64",
-      "vs_52wk_high": "-46.1% below high ($249.85)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Enterprise Software",
-      "sources": ["StockAnalysis", "Public.com", "GuruFocus", "MarketBeat", "CNBC", "Yahoo Finance"],
-      "price_history_5d": [145.00, 140.00, 133.00, 127.87, 134.76]
+      "current_price": "$106.57",
+      "price_target": "$140.01 (+31.4%)",
+      "pe_ratio": "60.76",
+      "rsi": "26",
+      "vs_52wk_high": "-47.0% below high ($201.15)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Technology - Software",
+      "sources": [
+        "GuruFocus",
+        "TradingKey",
+        "24/7 Wall St.",
+        "MarketBeat",
+        "Motley Fool"
+      ],
+      "price_history_5d": [96.35, 91.68, 91.94, 98.78, 99.50]
     },
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "discussion_driver": "Tesla shares fell further on July 24 following a disappointing Q2 2026 earnings report: adjusted EPS of $0.33 missed the $0.51 consensus estimate by 35%, while negative free cash flow and heavy capex plans unsettled investors. Elon Musk announced Optimus humanoid robot production lines are being installed at Gigafactory Texas, but the robotics vision could not offset concern over core automotive margin deterioration.",
+      "ticker": "CLS",
+      "company": "Celestica Inc.",
+      "discussion_driver": "Celestica reported Q2 2026 EPS of $2.41 vs $2.29 estimated after the July 27 close, with revenue of $4.70B (+62% YoY) driven by hyperscaler AI infrastructure demand and the Connectivity & Cloud Solutions segment growing 84%; shares jumped ~$15.78 to $321.06 in after-hours trading. The company raised FY2026 guidance to $20.5B revenue and adjusted EPS of $11.30, cementing its position as a key EMS beneficiary of the AI infrastructure buildout by Alphabet, Microsoft, and other hyperscalers. Despite the strong results, CLS stock is down ~35% from its all-time high of $472.40 set on June 2, reflecting investor concern about the sustainability of hyperscaler capex cycles.",
       "bull_case": [
-        "Optimus humanoid robot production scaling at Gigafactory Texas represents a potentially transformational long-term revenue stream; even modest commercial deployment success could justify significant multiple expansion.",
-        "Tesla's Full Self-Driving (FSD) subscription growth and energy storage (Megapack) business continue to ramp, offering meaningful revenue diversification beyond the pressured core automotive segment."
+        "Q2 revenue +62% YoY driven by AI infrastructure with CCS segment up 84%; raised FY2026 outlook with 20 of 21 analysts rating Buy and $448 consensus target implying ~47% upside from current levels",
+        "Pure-play AI supply chain beneficiary with exposure to all major hyperscalers; as Alphabet ($195-205B capex), Microsoft, and AWS ramp AI data centers, Celestica's addressable market expands directly"
       ],
       "bear_case": [
-        "Q2 EPS of $0.33 versus a $0.51 estimate and negative free cash flow signal serious margin pressure in the core automotive business, with heavy capex commitments limiting near-term earnings recovery.",
-        "A trailing PE of 296x remains extremely elevated despite the earnings miss, creating substantial downside risk if profitability does not recover materially over the next several quarters."
+        "Stock has corrected 35%+ from its all-time high of $472.40 set June 2, signaling market concern that hyperscaler AI capex may be approaching a peak; any deceleration could compress multiples rapidly",
+        "Extreme customer concentration risk — if one or two large hyperscalers slow AI infrastructure spending (as Alphabet's investors just demonstrated), Celestica's high-growth narrative would be disrupted"
+      ],
+      "recommendation": "Buy",
+      "current_price": "$305.14",
+      "price_target": "$448.00 (+46.8%)",
+      "pe_ratio": "46.58",
+      "rsi": "50",
+      "vs_52wk_high": "-35.4% below high ($472.40)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - Electronic Manufacturing Services",
+      "sources": [
+        "24/7 Wall St.",
+        "TipRanks",
+        "Daily Political",
+        "GuruFocus",
+        "StockAnalysis"
+      ],
+      "price_history_5d": [320.50, 315.20, 310.00, 305.28, 302.50]
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple Inc.",
+      "discussion_driver": "KeyBanc issued a rare Underweight rating on Apple with a bearish $250 price target, citing June consumer spending on Apple products down 2% versus the 3-year average of +9%, slowing iPhone upgrade cycles, and stretched valuation — the most bearish institutional call on the stock in recent memory. Paradoxically, Apple surpassed Nvidia to become the world's most valuable company (~$5T market cap), with shares near their 52-week high of $334.99 and up ~56% over the past year. The consensus analyst price target of $318.81 now sits below the current price, making this a high-stakes debate between momentum/AI bulls and fundamental bears focused on near-term hardware demand weakness.",
+      "bull_case": [
+        "Apple Intelligence AI features could catalyze a multi-year iPhone upgrade supercycle starting in late 2026, driving services revenue and hardware ASPs simultaneously to new highs",
+        "Surpassed Nvidia as world's most valuable company with ~$5T market cap; strong brand loyalty and expanding ecosystem create durable competitive advantages and highly predictable cash flows"
+      ],
+      "bear_case": [
+        "KeyBanc's rare Underweight call with $250 PT is backed by hard data: June Apple product spending was -2% vs 3-year avg of +9%, suggesting demand weakness not priced into current elevated valuation",
+        "Analyst consensus target of $318.81 is now BELOW the current stock price, RSI above 70 signals overbought conditions, and iPhone demand concerns could weigh through the full 2026 iPhone cycle"
       ],
       "recommendation": "Hold",
-      "current_price": "$313.03",
-      "price_target": "$425.22 (+35.8%)",
-      "pe_ratio": "296.14",
-      "rsi": "33.23",
-      "vs_52wk_high": "-37.3% below high ($498.83)",
-      "analyst_rating": "Hold",
-      "sector": "Consumer Discretionary - Electric Vehicles",
-      "sources": ["StockAnalysis", "Public.com", "CNBC", "Benzinga", "XTB", "Stansberry Research"],
-      "price_history_5d": [410.00, 380.00, 355.00, 319.69, 313.03]
+      "current_price": "$334.20",
+      "price_target": "$318.81 (-4.6% vs current)",
+      "pe_ratio": "40.27",
+      "rsi": "72 (overbought)",
+      "vs_52wk_high": "-0.2% below high ($334.99)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - Consumer Electronics",
+      "sources": [
+        "Yahoo Finance",
+        "GuruFocus",
+        "Seeking Alpha",
+        "Benzinga",
+        "StockAnalysis"
+      ],
+      "price_history_5d": [317.00, 318.50, 321.65, 333.02, 334.10]
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet Inc.",
+      "discussion_driver": "Alphabet delivered a Q2 2026 blowout — revenue $119.8B (+24% YoY), EPS $9.11 vs $2.89 estimated, Cloud revenue +82% YoY to $24.8B — but shares fell 6%+ on July 23 as the company raised 2026 capex guidance to $195-205B (up from $180-190B), stoking free cash flow compression fears. Phillip Securities upgraded GOOGL to Buy with a $425 price target on July 27, viewing the post-earnings selloff as an overreaction to AI investment that will drive long-term Cloud dominance. With 68 analysts rating it Strong Buy, 25% upside to the $428 consensus target, and a trailing P/E of just 16x, the capex-driven pullback may represent a compelling entry point.",
+      "bull_case": [
+        "Google Cloud grew 82% YoY to $24.8B, cementing Alphabet as a top-3 hyperscaler; 68 analysts rate it Strong Buy and at 16x trailing P/E the stock is historically cheap relative to its growth rate",
+        "The $195-205B capex investment positions Google to maintain search dominance while growing Cloud; Phillip Securities (PT $425) and BMO Capital (PT $455) see the capex selloff as an overreaction"
+      ],
+      "bear_case": [
+        "Capex raise to $195-205B from $180-190B guidance creates years of elevated spending that will suppress free cash flow; if AI revenue doesn't scale proportionally, ROI concerns will intensify",
+        "DOJ antitrust rulings on Google's search monopoly create regulatory overhang that could force restructuring of the core advertising business that still funds the entire AI investment thesis"
+      ],
+      "recommendation": "Buy",
+      "current_price": "$343.00",
+      "price_target": "$428.12 (+24.8%)",
+      "pe_ratio": "16.06",
+      "rsi": "43",
+      "vs_52wk_high": "-16.0% below high ($408.61)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Communication Services - Internet",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance",
+        "24/7 Wall St.",
+        "StockAnalysis",
+        "Seeking Alpha"
+      ],
+      "price_history_5d": [345.96, 341.91, 321.39, 319.74, 341.68]
     }
   ]
 }
