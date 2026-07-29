@@ -1,121 +1,121 @@
 {
-  "report_date": "2026-07-27",
+  "report_date": "2026-07-28",
   "batch": 3,
   "stocks": [
     {
-      "ticker": "RIVN",
-      "company": "Rivian Automotive",
-      "discussion_driver": "Piper Sandler upgraded Rivian to Overweight with a $20 price target (from $18), citing a smooth R2 SUV launch and stronger 2026 delivery guidance raised to 65,000–70,000 vehicles; a concurrent $1.5B equity offering weighed on the stock mid-week, and Q2 earnings due July 30 are the next major catalyst.",
+      "ticker": "CSGP",
+      "company": "CoStar Group, Inc.",
+      "discussion_driver": "CoStar Group fell ~12% on July 28 after reporting Q2 2026 revenue of $925M (slightly below the $928.8M estimate) and issuing Q3 revenue guidance of $935–$945M — a midpoint of $940M well short of the $967.5M Wall Street consensus. Despite an EPS beat ($0.32 vs $0.29 est) and dramatically improved profitability (operating margin flipping from -3.5% to +8.2%), the weak forward guidance spooked investors, overshadowing strong Homes.com and commercial platform momentum.",
       "bull_case": [
-        "R2 SUV ramp is proceeding without production missteps, with 2026 delivery guidance raised to 65K–70K vehicles, signaling accelerating commercial momentum and de-risking the growth outlook",
-        "Balance sheet strengthened via $1.5B equity raise and Volkswagen partnership, extending cash runway through the R2 scale-up and reducing near-term liquidity risk"
+        "Revenue growing 18% YoY with a dramatic profitability turnaround — operating margin surged from -3.5% to +8.2% and free cash flow swung from -$5M to +$140M, signaling the business model is scaling toward sustained profitability.",
+        "Homes.com and the CoStar commercial marketplace are gaining traction as dominant real estate data platforms; analyst consensus remains Buy with a $48.27 average target implying 86% upside from current depressed levels."
       ],
       "bear_case": [
-        "Company remains deeply unprofitable with a net margin of approximately -63%, with no clear near-term path to positive free cash flow as R2 ramp-up costs remain elevated",
-        "Morgan Stanley keeps an Underweight rating with a $13 price target, implying material downside; the equity offering dilutes existing shareholders at a time of continued heavy cash burn"
+        "Guidance shortfall raises concerns that revenue growth is decelerating faster than expected; Q3 midpoint missed consensus by ~3%, and full-year guidance of $3.74B midpoint trailed the $3.8B estimate.",
+        "Stock remains richly valued at ~500x trailing earnings even after its 73% collapse from the 52-week high; monetization of Homes.com is taking longer than investors anticipated."
+      ],
+      "recommendation": "Hold",
+      "current_price": "$25.93",
+      "price_target": "$48.27 (+86.1%)",
+      "pe_ratio": "~500",
+      "rsi": "N/A",
+      "vs_52wk_high": "-73.4% below high ($97.43)",
+      "analyst_rating": "Buy",
+      "sector": "Real Estate - Commercial Real Estate Tech",
+      "sources": ["CNBC", "TheStreet", "Investing.com", "StockStory", "Yahoo Finance"],
+      "price_history_5d": [27.50, 27.14, 27.64, 29.16, 25.93]
+    },
+    {
+      "ticker": "V",
+      "company": "Visa Inc.",
+      "discussion_driver": "Visa slipped ~2% in after-hours trading on July 28 after reporting fiscal Q3 results that reaffirmed mid-teens adjusted EPS growth guidance for FY2026 — roughly in line with consensus but insufficient to impress the Street. During regular trading, the stock climbed nearly 2% to approach its 52-week high of $370.99, supported by a Baird price target raise to $412 from $370, before the in-line guidance sparked modest after-hours selling.",
+      "bull_case": [
+        "Strong Buy consensus from 41 analysts with a $402.66 average price target; Visa's payment network benefits from secular digital payment adoption tailwinds and an unrivaled global acceptance network with ~4B cards in circulation.",
+        "Consistent double-digit adjusted EPS growth guidance (mid-teens for FY2026), robust cross-border travel recovery driving payment volume, and a $2.68 annual dividend make Visa a high-quality capital-allocation compounder."
+      ],
+      "bear_case": [
+        "Stock trading at/near its 52-week high of $370.99 with after-hours guidance reaffirmation disappointing growth-hungry investors; in-line results may cap near-term upside with only ~10% left to the average analyst target.",
+        "Regulatory risks (DOJ antitrust scrutiny, potential interchange fee caps) and rising competition from stablecoins, BNPL providers, and real-time payment networks like FedNow could structurally compress long-term take rates."
+      ],
+      "recommendation": "Hold",
+      "current_price": "$366.59",
+      "price_target": "$402.66 (+9.8%)",
+      "pe_ratio": "28.55",
+      "rsi": "N/A",
+      "vs_52wk_high": "-1.2% below high ($370.99)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Financial Services - Payment Processing",
+      "sources": ["CNBC", "Defense World", "Investing.com", "stockanalysis.com", "Baird"],
+      "price_history_5d": [349.00, 354.00, 362.53, 363.50, 366.59]
+    },
+    {
+      "ticker": "ISRG",
+      "company": "Intuitive Surgical, Inc.",
+      "discussion_driver": "Intuitive Surgical gained on July 28 following a UBS upgrade to Buy from Neutral with a price target raised to $550 from $500, helping ISRG lead healthcare sector rotation gains. This follows ISRG's sharp ~14% post-earnings selloff on July 16 after a strong Q2 beat (EPS $2.80 vs $2.41 est, revenue $2.89B +19% YoY, da Vinci procedures +15%) but cautious near-term procedure guidance unsettled investors; the stock remains ~40% below its 52-week high.",
+      "bull_case": [
+        "Market-leading robotic surgery platform with 15%+ da Vinci procedure growth and 36% Ion (lung biopsy) procedure growth in Q2; expanding international presence and growing installed base create durable recurring revenue from instruments and accessories.",
+        "UBS upgrade (Buy, $550 PT) citing automation advances making robotic procedures faster and cheaper than laparoscopic alternatives; at $366 the stock is 40% below its 52-week high with 34% upside to consensus target — a compelling risk/reward entry."
+      ],
+      "bear_case": [
+        "Post-Q2 selloff of ~14% driven by cautious near-term guidance despite an earnings beat; if procedure volume growth moderates, the 44x P/E premium becomes difficult to justify and multiple analysts have already cut price targets.",
+        "Competitive robotic surgery entrants (Medtronic Hugo, J&J Ottava) are gaining FDA clearances and could erode ISRG's dominant market share over time; high valuation leaves limited margin for error."
       ],
       "recommendation": "Speculative Buy",
-      "current_price": "$16.48",
-      "price_target": "$18.73 (+13.7%)",
-      "pe_ratio": "N/A",
-      "rsi": "N/A",
-      "vs_52wk_high": "-27.4% below high ($22.69)",
-      "analyst_rating": "Hold",
-      "sector": "Consumer Discretionary - Electric Vehicles",
-      "sources": ["Piper Sandler via GuruFocus", "TipRanks", "CNBC", "Motley Fool", "MarketBeat"],
-      "price_history_5d": [17.76, 19.00, 19.50, 16.20, 15.84]
+      "current_price": "$366.56",
+      "price_target": "$490.47 (+33.8%)",
+      "pe_ratio": "43.8",
+      "rsi": "~37",
+      "vs_52wk_high": "-40.5% below high ($616.00)",
+      "analyst_rating": "Buy",
+      "sector": "Healthcare - Medical Devices / Robotic Surgery",
+      "sources": ["247 Wall St.", "Daily Trade Alert", "Kalkine Media", "Investing.com", "TradingKey", "TIKR"],
+      "price_history_5d": [340.69, 332.02, 337.50, 356.83, 366.56]
     },
     {
-      "ticker": "F",
-      "company": "Ford Motor Company",
-      "discussion_driver": "Jefferies upgraded Ford to Buy from Hold and raised its price target to $17.50 from $14.50, citing normalized F-150 production, expected Q2 guidance lift, and improved capital discipline; Q2 earnings are due July 28, which could serve as a near-term re-rating catalyst.",
+      "ticker": "ADBE",
+      "company": "Adobe Inc.",
+      "discussion_driver": "Adobe gained ~6% on July 28, defying the Nasdaq sell-off, as investor enthusiasm for the company's AI monetization potential — Adobe Firefly has surpassed $5B in AI-influenced ARR — offset concerns about fierce competition and a leadership transition. The stock remains deeply oversold (RSI ~29) and is down ~48% over the past year, with forward P/E compressing to just 9.6x, creating a contrarian valuation setup.",
       "bull_case": [
-        "Jefferies expects Ford to raise full-year guidance after Q2 results, supported by resilient U.S. vehicle demand, recovery of F-150 production lines, and a more disciplined electric vehicle investment strategy",
-        "Cost reduction progress—including lower warranty expenses and rationalized EV spending—is improving free cash flow and setting up a potential profitability inflection in the back half of 2026"
+        "Stock is deeply oversold with RSI ~29 and trading at a historically cheap forward P/E of 9.6x; Adobe Firefly crossed $5B in AI-influenced ARR demonstrating meaningful monetization that the market may be under-pricing in a beaten-down stock.",
+        "Creative Cloud's ~$19B Digital Media run-rate retains dominant market positioning; at current levels Adobe offers a significant margin of safety — the stock would need to rebound just 8.2% to reach analyst consensus, with far more upside if AI bets pay off."
       ],
       "bear_case": [
-        "Ford posted a trailing net loss (TTM EPS of -$1.56), reflecting ongoing restructuring and EV investment headwinds that make traditional valuation metrics difficult to apply",
-        "Macro risks including tariff exposure on imported components and potential consumer spending weakness could compress auto demand and pressure Ford margins ahead of an already uncertain earnings print"
+        "Canva ($4B ARR, 30%+ growth) and Figma ($1.2B ARR, 40% growth) are rapidly closing the distance on Adobe's core creative franchise; William Blair downgraded to Market Perform citing AI-native competition threatening Creative Cloud's pricing power.",
+        "Stock has fallen 48% over the past year and consensus remains Hold; generative AI could structurally erode the value of professional creative software, and a leadership transition adds execution uncertainty at a critical competitive moment."
       ],
-      "recommendation": "Hold",
-      "current_price": "$14.68",
-      "price_target": "$14.88 (+1.4%)",
-      "pe_ratio": "N/A (at loss; forward ~8.5x)",
-      "rsi": "N/A",
-      "vs_52wk_high": "-17.4% below high ($17.78)",
+      "recommendation": "Speculative Buy",
+      "current_price": "$251.76",
+      "price_target": "$272.48 (+8.2%)",
+      "pe_ratio": "N/A (forward: 9.6)",
+      "rsi": "29.19",
+      "vs_52wk_high": "-33.1% below high ($376.16)",
       "analyst_rating": "Hold",
-      "sector": "Consumer Cyclical - Automotive",
-      "sources": ["Jefferies via GuruFocus", "CNBC", "Yahoo Finance", "24/7 Wall St.", "MarketBeat"],
-      "price_history_5d": [13.99, 14.10, 14.25, 14.37, 14.40]
+      "sector": "Technology - Software (Creative & Marketing)",
+      "sources": ["Benzinga", "Yahoo Finance", "Simply Wall St", "Motley Fool", "stockanalysis.com", "William Blair"],
+      "price_history_5d": [229.00, 231.00, 234.00, 237.75, 251.76]
     },
     {
-      "ticker": "IBM",
-      "company": "IBM",
-      "discussion_driver": "HSBC downgraded IBM to Reduce with a $191 price target (cut from $231), citing stretched valuation and below-sector EPS growth following IBM's historic 25% single-day crash on July 14 after a Q2 earnings warning; customers are shifting spend to AI infrastructure, eroding IBM's core software and mainframe revenue, though the full Q2 report on July 22 was modestly better than feared.",
+      "ticker": "HON",
+      "company": "Honeywell International Inc.",
+      "discussion_driver": "Honeywell rose on July 28 after Bank of America upgraded to Neutral from Underperform with a target raised to $265 from $205, contributing to the Dow's 1%+ industrial rotation gain. HON had already jumped ~5.6% on July 23 after a strong Q2 2026 earnings beat (EPS $1.95 vs $1.80 est; revenue $5.19B vs $4.98B) with 16% organic orders growth — its first report as a pure-play automation company after spinning off its Aerospace business on June 29, 2026.",
       "bull_case": [
-        "IBM's full Q2 earnings released July 22 were better than the July 14 warning implied—stock rose ~3.5% after-hours—suggesting the worst-case AI-shift scenario may already be priced in after a 25%+ decline from the 52-week high",
-        "IBM's watsonx AI and consulting portfolio gives long-term leverage on enterprise AI adoption; Citi maintains a Buy rating with a $245 price target, arguing IBM's diversified services base creates resilient recurring revenue streams"
+        "Q2 2026 delivered a broad-based beat with 4% organic sales growth, 16% organic orders growth, and strong margin expansion, validating Honeywell's pure-play automation identity post-Aerospace spin-off; full-year adjusted EPS guidance raised to $8.05–$8.35.",
+        "Industrial rotation benefiting HON with multiple analyst upgrades and price target raises post-earnings; as a focused automation platform serving global infrastructure, building management, and process industries, HON is well-positioned for AI-driven industrial capex cycles."
       ],
       "bear_case": [
-        "HSBC cut its target to $191 (Reduce), pointing to 22x forward P/E versus a sector median of 16.9x and projected EPS CAGR of 10.7% vs. the sector median of 19.2%, suggesting valuation remains stretched even after the historic crash",
-        "Structural headwinds persist as enterprises reallocate budgets to AI servers and memory at the expense of IBM's software licenses and mainframe refreshes, raising the risk of secular displacement of IBM's highest-margin product lines"
+        "Stock trading near its 52-week high with the average analyst target at $257.79 implying only ~4.3% upside; BofA's upgrade was only to Neutral (not Buy), reflecting limited enthusiasm even among previously bearish analysts.",
+        "Organic sales growth of just 4% is modest; the trailing P/E of ~9.4x is distorted by Aerospace spin-off accounting, and if the more relevant forward P/E (~26.6x) re-rates lower on a macro slowdown, the stock could give back its recent gains."
       ],
       "recommendation": "Hold",
-      "current_price": "$211.61",
-      "price_target": "$255.63 (+20.8%)",
-      "pe_ratio": "18.3",
+      "current_price": "$247.05",
+      "price_target": "$257.79 (+4.3%)",
+      "pe_ratio": "9.39 (trailing; spin-off distorted)",
       "rsi": "N/A",
-      "vs_52wk_high": "-34.9% below high ($325.00)",
-      "analyst_rating": "Hold",
-      "sector": "Technology - IT Services / Enterprise Software",
-      "sources": ["HSBC via GuruFocus", "CNBC", "Yahoo Finance", "TradingKey", "Motley Fool", "Investing.com"],
-      "price_history_5d": [218.00, 222.00, 220.00, 214.19, 211.61]
-    },
-    {
-      "ticker": "WBD",
-      "company": "Warner Bros. Discovery",
-      "discussion_driver": "Seaport Research downgraded WBD to Neutral from Buy after Paramount-Skydance put its WBD acquisition on hold until at least June 2027, citing legal challenges from the Writers Guild and state attorneys general; the delay removes the near-term buyout premium that previously anchored the bull case, and Seaport cut its Q2 revenue estimate by $236M.",
-      "bull_case": [
-        "Average analyst price target of $29.82 implies approximately 17% upside from current levels; any renewed M&A interest or deal resumption would immediately re-rate the stock toward that target",
-        "WBD's Max streaming service is approaching EBITDA breakeven with subscriber growth accelerating, offering a value-creation path independent of the stalled Paramount transaction"
-      ],
-      "bear_case": [
-        "Seaport cut Q2 2026 revenue estimates by $236M and EBITDA by $219M, reflecting fundamental softness in linear TV advertising that will persist regardless of any M&A outcomes",
-        "Trailing P/E of 93.3x is more than double the peer average of 42.7x, suggesting elevated expectations are already embedded even as the deal catalyst that justified the premium is now deferred by at least a year"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$25.45",
-      "price_target": "$29.82 (+17.2%)",
-      "pe_ratio": "93.3",
-      "rsi": "N/A",
-      "vs_52wk_high": "-15.2% below high ($30.00)",
-      "analyst_rating": "Hold",
-      "sector": "Communication Services - Media & Entertainment",
-      "sources": ["Seaport Research via GuruFocus", "Investing.com", "Schaeffer's Investment Research", "Yahoo Finance", "StocksGuide"],
-      "price_history_5d": [26.10, 26.20, 26.00, 25.77, 25.68]
-    },
-    {
-      "ticker": "SIRI",
-      "company": "SiriusXM Holdings",
-      "discussion_driver": "Wells Fargo upgraded SiriusXM to Equal Weight from Underweight and raised its price target from $18 to $30, driven by a major reassessment of the company's spectrum assets—lifting estimated spectrum net equity value from ~$1B to ~$4.9B ($12.10/share); the upgrade also cited record-low Q1 2026 self-pay monthly churn of 1.5% and reaffirmed full-year EBITDA guidance.",
-      "bull_case": [
-        "Wells Fargo's spectrum value reassessment ($4.9B vs. prior $1B estimate) unlocks $12.10/share in previously unrecognized balance sheet value, with spectrum valuations broadly running hotter across the wireless industry",
-        "Record-low Q1 2026 self-pay churn of 1.5% monthly—lowest ever for a first quarter—validates SiriusXM's content and pricing strategy and signals durable subscriber retention improvements post-restructuring"
-      ],
-      "bear_case": [
-        "With the stock near $30.50 and the updated Wells Fargo target at $30, the upgrade is largely priced in; the stock sits within 3% of its 52-week high of $31.42, limiting near-term incremental upside",
-        "Citi maintains a Sell rating with a $22 price target, arguing the stock is fundamentally overvalued once spectrum speculation is excluded; linear satellite radio faces secular decline as in-car entertainment shifts toward streaming and connected audio"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$30.50",
-      "price_target": "$29.24 (-4.1%)",
-      "pe_ratio": "8.4",
-      "rsi": "60.7",
-      "vs_52wk_high": "-2.9% below high ($31.42)",
-      "analyst_rating": "Hold",
-      "sector": "Communication Services - Satellite Radio",
-      "sources": ["Wells Fargo via Seeking Alpha", "TipRanks", "Investing.com", "Benzinga", "GuruFocus"],
-      "price_history_5d": [30.40, 30.20, 29.87, 29.80, 29.80]
+      "vs_52wk_high": "-5.0% below high ($260.15)",
+      "analyst_rating": "Buy",
+      "sector": "Industrials - Automation",
+      "sources": ["247 Wall St.", "Daily Trade Alert", "Yahoo Finance", "Motley Fool", "Bank of America"],
+      "price_history_5d": [229.86, 242.73, 244.20, 245.75, 247.05]
     }
   ]
 }
