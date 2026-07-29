@@ -1,151 +1,121 @@
 {
-  "report_date": "2026-07-27",
+  "report_date": "2026-07-28",
   "batch": 2,
   "stocks": [
     {
-      "ticker": "INTC",
-      "company": "Intel Corp.",
-      "discussion_driver": "Intel delivered its fastest revenue growth in 15 years (Q2 revenue +25% YoY to $16.1B, EPS $0.42 vs $0.21 estimate) and AI/Data Center revenue surged 59%, yet shares fell ~8% on July 24 as investors focused on capex raised to $20B+ for 2026 and an $11B net loss tied to ongoing foundry losses. The paradox of record operational results paired with sustained losses has created a bifurcated analyst view: bulls see a foundry transformation inflection, while bears worry the spending is open-ended. Shares are rebounding toward $95 on July 27 as some investors view the post-earnings selloff as overdone relative to Intel's improving competitive position.",
+      "ticker": "KLAC",
+      "company": "KLA Corporation",
+      "discussion_driver": "KLAC fell ~5% in the regular session on July 28 amid the broad chip equipment sector selloff triggered by CXMT's 466% IPO in China and SK Hynix plunging 15% in Korea, raising DRAM supply glut fears. After market close, KLA reported Q4 2026 results — EPS of $1.05 beating estimates of $1.02 but revenue of $3.66B narrowly missing consensus of $3.67B — sending shares down an additional ~9% after hours to approximately $176. With RSI at a deeply oversold 24.2 and the stock now ~37% below its 52-week high, analysts maintaining Buy ratings view the selloff as potentially overdone given KLAC's mission-critical position in advanced chip node production.",
       "bull_case": [
-        "Fastest revenue growth in 15 years (+25% YoY) with AI/Data Center up 59% validates Intel's turnaround; stock is 33% below 52-week high and may be oversold after the earnings selloff",
-        "18A foundry process attracting potential Apple and Microsoft fabrication contracts could unlock a transformational new revenue stream as the world's most advanced process outside TSMC"
+        "Deeply oversold RSI of 24.2 and a ~37% discount from the 52-week high create a compelling long-term entry point; analysts including TD Cowen (Buy, $260 target) see the revenue miss as noise while KLAC's process control tools remain essential for AI chip manufacturing at leading-edge nodes",
+        "Structural AI-driven demand for advanced semiconductor manufacturing equipment remains intact; KLAC's inspection and metrology tools face no viable substitutes for sub-5nm nodes, supporting a multi-year capex cycle regardless of near-term DRAM oversupply fears"
       ],
       "bear_case": [
-        "Company posted an $11B net loss despite the top-line beat and is raising capex to $20B+ for 2026, creating multi-year free cash flow headwinds",
-        "Circular-financing concerns around the $250B OpenAI data-center backstop deal, combined with continued foundry losses, create persistent overhang on valuation beyond near-term earnings beats"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$94.80",
-      "price_target": "$114.33 (+20.6%)",
-      "pe_ratio": "N/A (net loss TTM)",
-      "rsi": "36",
-      "vs_52wk_high": "-33.4% below high ($142.35)",
-      "analyst_rating": "Hold",
-      "sector": "Technology - Semiconductors",
-      "sources": [
-        "FX Leaders",
-        "CNBC",
-        "Phemex",
-        "TradingKey",
-        "StockAnalysis"
-      ],
-      "price_history_5d": [97.00, 99.00, 101.30, 93.29, 91.52]
-    },
-    {
-      "ticker": "NOW",
-      "company": "ServiceNow, Inc.",
-      "discussion_driver": "ServiceNow beat Q2 2026 estimates on nearly every metric — EPS $0.90 vs $0.86, subscription revenue +24.5% YoY — and crucially announced that 50% of net new business is now non-seat-based, directly countering fears that agentic AI would cannibalize its core licensing model. Despite the beat, the stock had been down ~38% YTD entering Q2 due to concerns about Remaining Performance Obligations deceleration, causing an initially mixed market reaction before surging ~7% on both July 24 and July 27. With RSI near 26 (deeply oversold) and 31% upside to the $140 consensus target, NOW is positioned for a potential re-rating if AI monetization trends continue.",
-      "bull_case": [
-        "50% of net new business is now non-seat-based, countering agentic AI cannibalization fears and demonstrating a structural shift to consumption-based pricing that could drive a significant re-rating",
-        "RSI near 26 (deeply oversold) with 49 analysts rating Strong Buy and 31% upside to $140 consensus target; Q2 beat shows core platform demand remains intact despite macro headwinds"
-      ],
-      "bear_case": [
-        "Remaining Performance Obligations (RPO) deceleration disappointed institutional investors, raising questions about forward revenue visibility and whether the business is maturing faster than expected",
-        "Stock was down ~38% YTD before earnings despite consecutive beats, suggesting structural market skepticism about AI substitution risk that a single quarter's results may not overcome"
+        "DRAM oversupply fears sparked by CXMT's IPO debut and SK Hynix's 15% Korean market crash suggest memory chip capital spending could slow materially, reducing near-term demand for KLAC inspection equipment and potentially triggering earnings estimate cuts",
+        "Geopolitical risk around China semiconductor export restrictions remains a persistent overhang; further tightening of US chip equipment export controls could reduce KLAC's addressable market in one of its largest customer regions"
       ],
       "recommendation": "Speculative Buy",
-      "current_price": "$106.57",
-      "price_target": "$140.01 (+31.4%)",
-      "pe_ratio": "60.76",
-      "rsi": "26",
-      "vs_52wk_high": "-47.0% below high ($201.15)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Technology - Software",
-      "sources": [
-        "GuruFocus",
-        "TradingKey",
-        "24/7 Wall St.",
-        "MarketBeat",
-        "Motley Fool"
-      ],
-      "price_history_5d": [96.35, 91.68, 91.94, 98.78, 99.50]
+      "current_price": "$192.84",
+      "price_target": "$234.00 (+21.3%)",
+      "pe_ratio": "57.57",
+      "rsi": "24.2",
+      "vs_52wk_high": "-37.3% below high ($307.37)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - Semiconductor Equipment",
+      "sources": ["TradingKey", "MarketBeat", "StockAnalysis", "MacroTrends", "Quiver Quantitative", "CNBC"],
+      "price_history_5d": [218.73, 210.52, 203.36, 192.84]
     },
     {
-      "ticker": "CLS",
-      "company": "Celestica Inc.",
-      "discussion_driver": "Celestica reported Q2 2026 EPS of $2.41 vs $2.29 estimated after the July 27 close, with revenue of $4.70B (+62% YoY) driven by hyperscaler AI infrastructure demand and the Connectivity & Cloud Solutions segment growing 84%; shares jumped ~$15.78 to $321.06 in after-hours trading. The company raised FY2026 guidance to $20.5B revenue and adjusted EPS of $11.30, cementing its position as a key EMS beneficiary of the AI infrastructure buildout by Alphabet, Microsoft, and other hyperscalers. Despite the strong results, CLS stock is down ~35% from its all-time high of $472.40 set on June 2, reflecting investor concern about the sustainability of hyperscaler capex cycles.",
+      "ticker": "IQV",
+      "company": "IQVIA Holdings",
+      "discussion_driver": "IQVIA surged ~12% on July 28 after delivering a standout Q2 2026 beat: adjusted EPS of $3.15 vs. $3.04 consensus and revenue of $4.37B vs. $4.30B expected, with organic growth accelerating to 6%. The company raised full-year revenue guidance to $17.28-$17.48B (implying 6.5% growth) and lifted adjusted EPS guidance to $12.80-$13.00. Record R&D bookings of $3.15B (+19% YoY) with a 1.22x book-to-bill ratio and a 45% surge in new drug launches driving analytics demand prompted immediate analyst target hikes from HSBC ($240), Baird ($252), and Mizuho ($230).",
       "bull_case": [
-        "Q2 revenue +62% YoY driven by AI infrastructure with CCS segment up 84%; raised FY2026 outlook with 20 of 21 analysts rating Buy and $448 consensus target implying ~47% upside from current levels",
-        "Pure-play AI supply chain beneficiary with exposure to all major hyperscalers; as Alphabet ($195-205B capex), Microsoft, and AWS ramp AI data centers, Celestica's addressable market expands directly"
+        "Record R&D bookings of $3.15B with a 1.22x book-to-bill ratio signal a robust multi-quarter revenue pipeline; AI-integrated clinical trial solutions and a 45% rise in new drug launches position IQVIA as the leading data-and-analytics platform for the next wave of pharmaceutical development",
+        "Raised full-year revenue guidance to $17.28-$17.48B and EPS guidance to $12.80-$13.00 reflects management confidence in accelerating organic growth; the company's healthcare data moat deepens as AI adoption in clinical trials becomes a structural industry trend"
       ],
       "bear_case": [
-        "Stock has corrected 35%+ from its all-time high of $472.40 set June 2, signaling market concern that hyperscaler AI capex may be approaching a peak; any deceleration could compress multiples rapidly",
-        "Extreme customer concentration risk — if one or two large hyperscalers slow AI infrastructure spending (as Alphabet's investors just demonstrated), Celestica's high-growth narrative would be disrupted"
+        "Stock trading within 3.5% of its 52-week high with price above the pre-earnings analyst consensus of $225.47 limits near-term upside; any US policy headwinds on pharmaceutical R&D budgets or clinical trial slowdowns could pressure the elevated valuation",
+        "Trailing PE of 25.6x prices in near-perfect execution; a macroeconomic slowdown that curbs pharma R&D spending or disrupts the AI-driven clinical trial market could lead to a sharp re-rating given the stretched valuation and post-earnings momentum"
       ],
       "recommendation": "Buy",
-      "current_price": "$305.14",
-      "price_target": "$448.00 (+46.8%)",
-      "pe_ratio": "46.58",
-      "rsi": "50",
-      "vs_52wk_high": "-35.4% below high ($472.40)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Electronic Manufacturing Services",
-      "sources": [
-        "24/7 Wall St.",
-        "TipRanks",
-        "Daily Political",
-        "GuruFocus",
-        "StockAnalysis"
-      ],
-      "price_history_5d": [320.50, 315.20, 310.00, 305.28, 302.50]
+      "current_price": "$239.34",
+      "price_target": "$240.00 (+0.3%)",
+      "pe_ratio": "25.6",
+      "rsi": "68.0",
+      "vs_52wk_high": "-3.4% below high ($247.72)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Healthcare - Clinical Research/Technology",
+      "sources": ["Investing.com", "TradingView", "GurufFocus", "BigGo Finance", "StocksToTrade", "DirectorsTalk", "StockStory", "Alphastreet"],
+      "price_history_5d": [207.32, 213.22, 239.34]
     },
     {
-      "ticker": "AAPL",
-      "company": "Apple Inc.",
-      "discussion_driver": "KeyBanc issued a rare Underweight rating on Apple with a bearish $250 price target, citing June consumer spending on Apple products down 2% versus the 3-year average of +9%, slowing iPhone upgrade cycles, and stretched valuation — the most bearish institutional call on the stock in recent memory. Paradoxically, Apple surpassed Nvidia to become the world's most valuable company (~$5T market cap), with shares near their 52-week high of $334.99 and up ~56% over the past year. The consensus analyst price target of $318.81 now sits below the current price, making this a high-stakes debate between momentum/AI bulls and fundamental bears focused on near-term hardware demand weakness.",
+      "ticker": "RCKY",
+      "company": "Rocky Brands",
+      "discussion_driver": "Rocky Brands stunned markets by reporting Q2 2026 EPS (ex-items) of $1.90, more than 5x the $0.35 analyst consensus, as revenue grew 12% to $118.4M — the company's strongest quarterly growth rate since 2022. Gross margins expanded dramatically from 41.0% to 51.4%, driven by IEEPA tariff recovery benefits and robust direct-to-consumer demand across XTRATUF, Georgia Boot, Rocky, and Lehigh brands. The company raised its full-year 2026 revenue outlook to approximately +8.5% growth with EPS expected 'in the neighborhood of $5.' The blowout results triggered a 16% after-hours surge with shares approaching the 52-week high of $48.70.",
       "bull_case": [
-        "Apple Intelligence AI features could catalyze a multi-year iPhone upgrade supercycle starting in late 2026, driving services revenue and hardware ASPs simultaneously to new highs",
-        "Surpassed Nvidia as world's most valuable company with ~$5T market cap; strong brand loyalty and expanding ecosystem create durable competitive advantages and highly predictable cash flows"
+        "Double-digit growth from XTRATUF, Georgia Boot, Rocky, and Lehigh — with retail sales up 21.8% and record gross margins of 51.4% — demonstrates brand strength and pricing power; full-year EPS guidance of ~$5 implies a forward PE of just ~8.5x at the after-hours price, offering meaningful value",
+        "Management raised full-year revenue guidance to +8.5% growth across all channels (wholesale +7.9%, retail +21.8%, contract manufacturing +17.2%), signaling broad-based demand recovery; the Lehigh B2B safety-shoe operation adds a recurring revenue dimension that reduces cyclicality"
       ],
       "bear_case": [
-        "KeyBanc's rare Underweight call with $250 PT is backed by hard data: June Apple product spending was -2% vs 3-year avg of +9%, suggesting demand weakness not priced into current elevated valuation",
-        "Analyst consensus target of $318.81 is now BELOW the current stock price, RSI above 70 signals overbought conditions, and iPhone demand concerns could weigh through the full 2026 iPhone cycle"
+        "IEEPA tariff recovery benefits recognized in Q2 are likely non-recurring; stripping out these one-time gains, the normalized earnings trajectory may disappoint in future quarters when the tariff tailwind fades and gross margin reverts toward historical norms",
+        "Small-cap stock with limited analyst coverage and thin trading volume; the massive EPS beat vs. $0.35 consensus suggests analyst models were severely outdated rather than a genuine business inflection, making future consensus estimates unreliable and increasing forecast risk"
+      ],
+      "recommendation": "Buy",
+      "current_price": "$42.73",
+      "price_target": "$53.00 (+24.1%)",
+      "pe_ratio": "16.35",
+      "rsi": "N/A",
+      "vs_52wk_high": "-12.3% below high ($48.70)",
+      "analyst_rating": "Moderate Buy",
+      "sector": "Consumer Discretionary - Footwear/Workwear",
+      "sources": ["StockTitan", "MarketBeat", "eToro", "StockAnalysis", "MarketsDailyNews", "DailyPolitical", "CNBC"],
+      "price_history_5d": [40.37, 41.54, 42.73]
+    },
+    {
+      "ticker": "F",
+      "company": "Ford Motor",
+      "discussion_driver": "Ford delivered a Q2 2026 beat after market close on July 28, reporting adjusted EPS of $0.42 vs. $0.31 consensus and automotive revenue of $44.89B. More significantly, Ford raised its full-year adjusted EBIT guidance to $10-$11B (from $8.5-$10.5B) and free cash flow guidance to $6-$7B (from $5-$6B), citing improved pricing, mix, and net tariff exposure as structural drivers with F-Series recovery on track. Shares jumped 7-8% in after-hours trading. Jefferies upgraded Ford to Buy with a $17.50 target simultaneously, reinforcing positive sentiment heading into the second half of 2026.",
+      "bull_case": [
+        "Full-year EBIT guidance raised to $10-$11B (midpoint +$1.5B vs. prior outlook) and free cash flow lifted to $6-$7B demonstrates improving operational execution; Jefferies' Buy upgrade with a $17.50 target (+19% from regular close) signals a potential meaningful rerating as F-Series trucks recover",
+        "Adjusted EBIT margin expanded 0.9% YoY to 5.2% driven by pricing power and mix improvements management characterizes as structural; CFO commentary on net tariff exposure management provides confidence that near-term macro headwinds are being actively mitigated"
+      ],
+      "bear_case": [
+        "Revenue missed consensus estimates at $44.89B vs. $46.78B expected, suggesting weaker-than-anticipated vehicle volume even as margins improved; the broad Wall Street consensus remains Hold with an average target of ~$15, implying only minimal upside from the current regular-session close",
+        "Persistent EV losses, intensifying Chinese automaker competition, and cyclical demand risk in a higher-for-longer rate environment keep long-term upside capped; Ford's significant pension liabilities and high fixed cost base limit downside protection during any demand downturn"
       ],
       "recommendation": "Hold",
-      "current_price": "$334.20",
-      "price_target": "$318.81 (-4.6% vs current)",
-      "pe_ratio": "40.27",
-      "rsi": "72 (overbought)",
-      "vs_52wk_high": "-0.2% below high ($334.99)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Consumer Electronics",
-      "sources": [
-        "Yahoo Finance",
-        "GuruFocus",
-        "Seeking Alpha",
-        "Benzinga",
-        "StockAnalysis"
-      ],
-      "price_history_5d": [317.00, 318.50, 321.65, 333.02, 334.10]
+      "current_price": "$14.68",
+      "price_target": "$15.05 (+2.5%)",
+      "pe_ratio": "N/A",
+      "rsi": "55.6",
+      "vs_52wk_high": "-17.4% below high ($17.78)",
+      "analyst_rating": "Hold",
+      "sector": "Consumer Discretionary - Automobiles",
+      "sources": ["CNBC", "Benzinga", "Yahoo Finance", "QZ", "Investing.com", "StockTwits", "247WallSt"],
+      "price_history_5d": [14.15, 14.15, 14.68]
     },
     {
-      "ticker": "GOOGL",
-      "company": "Alphabet Inc.",
-      "discussion_driver": "Alphabet delivered a Q2 2026 blowout — revenue $119.8B (+24% YoY), EPS $9.11 vs $2.89 estimated, Cloud revenue +82% YoY to $24.8B — but shares fell 6%+ on July 23 as the company raised 2026 capex guidance to $195-205B (up from $180-190B), stoking free cash flow compression fears. Phillip Securities upgraded GOOGL to Buy with a $425 price target on July 27, viewing the post-earnings selloff as an overreaction to AI investment that will drive long-term Cloud dominance. With 68 analysts rating it Strong Buy, 25% upside to the $428 consensus target, and a trailing P/E of just 16x, the capex-driven pullback may represent a compelling entry point.",
+      "ticker": "BA",
+      "company": "Boeing",
+      "discussion_driver": "Boeing reported Q2 2026 results on July 28 showing genuine operational recovery but persistent defense contract pain: revenue rose 8% YoY to $24.56B (beating $24.25B consensus) and the company generated $631M in free cash flow — its best quarter in over a year — while delivering 171 commercial aircraft (+14% YoY, highest since 2018). However, a $280M charge on the Air Force One (VC-25B) program widened the net loss to $428M, or 67 cents a share. The accumulated Air Force One loss now exceeds $2.8B on a $3.9B contract with first delivery not expected until 2028. The stock moved higher as investors focused on the cash flow and delivery recovery story.",
       "bull_case": [
-        "Google Cloud grew 82% YoY to $24.8B, cementing Alphabet as a top-3 hyperscaler; 68 analysts rate it Strong Buy and at 16x trailing P/E the stock is historically cheap relative to its growth rate",
-        "The $195-205B capex investment positions Google to maintain search dominance while growing Cloud; Phillip Securities (PT $425) and BMO Capital (PT $455) see the capex selloff as an overreaction"
+        "171 commercial aircraft deliveries in Q2 (+14% YoY, best quarterly total since 2018) and $631M free cash flow signal Boeing's production turnaround is gaining tangible momentum; a record commercial backlog and improving delivery cadence support a sustained multi-year cash generation story as the 737 MAX recovery accelerates",
+        "Strong analyst conviction — Strong Buy consensus with an average target of $270 (+22% upside) — reflects confidence that 8% YoY revenue growth, improving free cash flow, and a record backlog will enable meaningful debt reduction from the $45.9B level over the next 2-3 years"
       ],
       "bear_case": [
-        "Capex raise to $195-205B from $180-190B guidance creates years of elevated spending that will suppress free cash flow; if AI revenue doesn't scale proportionally, ROI concerns will intensify",
-        "DOJ antitrust rulings on Google's search monopoly create regulatory overhang that could force restructuring of the core advertising business that still funds the entire AI investment thesis"
+        "The $45.9B debt load requires sustained positive free cash flow to erode meaningfully; fixed-price defense contracts continue to produce unexpected charges — Air Force One has now cost $2.8B+ more than expected on a $3.9B contract — and every certification delay adds unrecoverable costs Boeing cannot pass on",
+        "A trailing PE of 107x on minimal profits and a forward PE above 400x reflect extreme earnings normalization expectations that price in a multi-year recovery with no margin for error; any production quality issue, certification delay, or macroeconomic demand slowdown could unravel the investment thesis rapidly"
       ],
-      "recommendation": "Buy",
-      "current_price": "$343.00",
-      "price_target": "$428.12 (+24.8%)",
-      "pe_ratio": "16.06",
-      "rsi": "43",
-      "vs_52wk_high": "-16.0% below high ($408.61)",
+      "recommendation": "Hold",
+      "current_price": "$221.56",
+      "price_target": "$270.08 (+21.9%)",
+      "pe_ratio": "107.28",
+      "rsi": "N/A",
+      "vs_52wk_high": "-12.9% below high ($254.35)",
       "analyst_rating": "Strong Buy",
-      "sector": "Communication Services - Internet",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance",
-        "24/7 Wall St.",
-        "StockAnalysis",
-        "Seeking Alpha"
-      ],
-      "price_history_5d": [345.96, 341.91, 321.39, 319.74, 341.68]
+      "sector": "Industrials - Aerospace & Defense",
+      "sources": ["TechTimes", "Yahoo Finance", "QZ", "Blockonomi", "HNGN", "MarketScreener", "eToro", "StockAnalysis"],
+      "price_history_5d": [209.52, 209.23, 221.56]
     }
   ]
 }
