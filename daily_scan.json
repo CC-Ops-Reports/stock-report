@@ -1,174 +1,155 @@
 {
-  "report_date": "2026-07-29",
-  "market_tone": "Bearish",
+  "report_date": "2026-07-30",
+  "market_tone": "Bullish",
   "key_themes": [
-    "Fed holds rates at 3.50-3.75% with 3 hawkish dissenters \u2014 first triple dissent since 2016 spooks markets",
-    "Big Tech AI spending divergence: MSFT beats on Azure +43% growth, META misses EPS as expenses surge 55%",
-    "Q2 earnings season mixed: consumer/healthcare names beat (KO, SHW, GEHC, SBUX), AI infrastructure tumbles (VRT -16%)"
+    "Mega-cap tech earnings season in full swing \u2014 MSFT blowout, META miss, AMZN after-hours beat",
+    "Fed holds rates steady (9-3 vote) but hawkish tone raises September rate-hike odds to 72%",
+    "Apple CEO Tim Cook delivers final earnings call; John Ternus to take over Sept 1"
   ],
   "sp500": {
-    "value": "7,387.00",
-    "change": "-1.52%"
+    "value": "7,438.00",
+    "change": "+1.66%"
   },
   "nasdaq": {
-    "value": "21,893.00",
-    "change": "-1.74%"
+    "value": "25,122.00",
+    "change": "+2.78%"
   },
   "stocks": [
     {
-      "ticker": "META",
-      "company": "Meta Platforms",
-      "reason": "Q2 EPS of $6.18 missed $7.14 consensus by 14% as expenses surged 55% to $42B driven by AI investment and a $2.4B legal charge; net income fell 14% despite 28% revenue growth. Stock fell ~10% after hours.",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Bloomberg",
-        "Axios",
-        "Investing.com"
-      ]
-    },
-    {
       "ticker": "MSFT",
       "company": "Microsoft",
-      "reason": "Q4 FY2026 revenue of $90.01B topped $87.62B estimate; Azure cloud growth of 43% at constant currency beat 40.2% estimate. Stock up ~3% after hours despite ballooning AI capex.",
+      "reason": "Surged ~15% \u2014 largest single-day market-cap gain ever \u2014 after Q4 FY2026 revenue hit $90.01B (est. $87.62B); Azure grew 43% YoY and crossed $100B annual revenue for the first time",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "Bloomberg",
-        "Axios"
-      ]
-    },
-    {
-      "ticker": "VRT",
-      "company": "Vertiv Holdings",
-      "reason": "Shares tumbled 16% on mixed Q2 results \u2014 AI data center infrastructure provider disappointed investors expecting stronger guidance amid surging demand.",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "CVNA",
-      "company": "Carvana",
-      "reason": "Stock fell 15% as 2026 earnings guidance of $2.7-3B missed analyst expectations of $3.0-4.45B despite record Q2 net income of $513M and 38% increase in vehicle sales.",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Automotive News"
-      ]
-    },
-    {
-      "ticker": "GEHC",
-      "company": "GE HealthCare Technologies",
-      "reason": "Shares surged 10% after Q2 adjusted EPS of $1.13 beat FactSet consensus of $1.04, signaling continued strength in healthcare imaging and diagnostics.",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "SHW",
-      "company": "Sherwin-Williams",
-      "reason": "Jumped 8.3% after Q2 EPS of $3.70 beat consensus of $3.56; strong paint demand beat expectations despite a challenging housing market backdrop.",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Zacks",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "SBUX",
-      "company": "Starbucks",
-      "reason": "Q3 2026 EPS of $0.85 beat $0.67 estimate; company raised full-year adjusted EPS outlook to $2.55-$2.65 from $2.25-$2.45, and same-store sales rose 7.9% \u2014 fourth straight quarter of comparable-sales growth signaling turnaround momentum.",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Bloomberg",
-        "Quiver Quantitative"
-      ]
-    },
-    {
-      "ticker": "CAT",
-      "company": "Caterpillar",
-      "reason": "Dropped 6.4% to $787.19 after Baird downgraded to Neutral from Outperform and slashed price target to $900 from $1,200, citing threats from New York data center regulations raising costs for AI power infrastructure customers.",
-      "category": "downgrade",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "KO",
-      "company": "Coca-Cola",
-      "reason": "Shares rose 5% after Q2 EPS of $0.97 beat consensus of $0.92; company demonstrated pricing power and volume resilience despite macroeconomic pressures.",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Zacks"
-      ]
-    },
-    {
-      "ticker": "BA",
-      "company": "Boeing",
-      "reason": "Shares climbed 4.8% despite wider-than-expected Q2 loss of $0.76/share; quarterly revenue of $24.56B surpassed consensus by 2.1%, signaling production recovery progress.",
-      "category": "earnings",
-      "sources": [
         "Yahoo Finance",
-        "Zacks"
+        "Bloomberg",
+        "TheStreet"
       ]
     },
     {
-      "ticker": "QCOM",
-      "company": "Qualcomm",
-      "reason": "Shares fell 4.4% to $155.68 after Q2 earnings showed 20% decline in handset revenue (59.8% of QCT segment); Automotive (+61%) and IoT (+9%) growth only partially offset smartphone weakness.",
+      "ticker": "META",
+      "company": "Meta Platforms",
+      "reason": "Dropped ~9% after Q2 EPS of $6.18 missed estimates by $1.04; Q3 revenue guidance of $61-64B came in below the $63.15B consensus at the low end",
       "category": "earnings",
       "sources": [
-        "Investing.com",
+        "CNBC",
+        "Yahoo Finance",
+        "Motley Fool"
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "company": "Amazon",
+      "reason": "Gained 8%+ after hours on Q2 beat; AWS cloud revenue grew 37% YoY, well above the 31% Wall Street expected, signaling continued AI-driven demand",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Motley Fool",
+        "TheStreet"
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "reason": "Q3 2026 revenue of $109.4B (record) with $29.8B profit; Tim Cook hosted his final earnings call as CEO \u2014 stepping down Sept 1, replaced by John Ternus; stock fell 4%+ after hours",
+      "category": "news",
+      "sources": [
+        "MacRumors",
+        "Apple Insider",
+        "CNBC",
+        "Motley Fool"
+      ]
+    },
+    {
+      "ticker": "MKTX",
+      "company": "MarketAxess Holdings",
+      "reason": "Jumped 30% after NYSE-parent ICE announced a $6B all-cash acquisition at $167/share, a 33% premium to prior close; deal expected to close H1 2027",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Bloomberg",
+        "Markets Media"
+      ]
+    },
+    {
+      "ticker": "TDOC",
+      "company": "Teladoc Health",
+      "reason": "Plunged 18-21% after Q2 revenue missed expectations and the company slashed its full-year 2026 guidance, raising questions about telehealth demand normalization",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Seeking Alpha"
+      ]
+    },
+    {
+      "ticker": "LII",
+      "company": "Lennox International",
+      "reason": "Fell 21% \u2014 worst S&P 500 performer on the day \u2014 following its quarterly earnings release that disappointed investors on both top and bottom lines",
+      "category": "earnings",
+      "sources": [
+        "Trefis",
         "CNBC"
       ]
     },
     {
-      "ticker": "SOFI",
-      "company": "SoFi Technologies",
-      "reason": "Reported Q2 2026 earnings on July 29; unusual options activity of 684,445 contracts (83.3% of typical daily volume) detected ahead of results. Wall Street expected EPS of 11 cents on $1.11B revenue.",
+      "ticker": "CROX",
+      "company": "Crocs",
+      "reason": "Dropped 10%+ despite beating Q2 expectations and raising FY guidance; weaker-than-expected margins and light Q3 guidance spooked investors",
       "category": "earnings",
       "sources": [
-        "Benzinga",
-        "Barchart",
-        "CoinCentral"
+        "CNBC",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "SYK",
+      "company": "Stryker",
+      "reason": "Fell 8.4% after hours after reporting Q2 earnings that disappointed investors, continuing pressure on medical device stocks",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Seeking Alpha"
+      ]
+    },
+    {
+      "ticker": "SFM",
+      "company": "Sprouts Farmers Market",
+      "reason": "Surged on a Q2 earnings beat; JPMorgan simultaneously upgraded to Overweight and raised price target to $103 from $80, adding analyst fuel to the rally",
+      "category": "earnings",
+      "sources": [
+        "Yahoo Finance",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "HUM",
+      "company": "Humana",
+      "reason": "Multiple analyst upgrades today: Leerink upgraded to Outperform with $513 target; Piper Sandler upgraded to Overweight with $463 target (up from $254)",
+      "category": "upgrade",
+      "sources": [
+        "Yahoo Finance",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "CORT",
+      "company": "Corcept Therapeutics",
+      "reason": "Surged 21% after reporting a massive Q2 earnings beat, driven by strong Korlym sales momentum in a sector otherwise rattled by mixed results",
+      "category": "earnings",
+      "sources": [
+        "Seeking Alpha",
+        "Benzinga"
       ]
     },
     {
       "ticker": "BE",
       "company": "Bloom Energy",
-      "reason": "Upgraded to Buy from Hold at Clear Street with a $290 price target; analyst sees data center power demand as a major growth driver for the fuel cell company.",
+      "reason": "Mizuho upgraded to Outperform from Neutral with a $242 price target, citing improving power demand outlook tied to data center and AI infrastructure buildout",
       "category": "upgrade",
       "sources": [
         "Yahoo Finance",
-        "Daily Trade Alert"
-      ]
-    },
-    {
-      "ticker": "F",
-      "company": "Ford Motor",
-      "reason": "Shares climbed 3% after Q2 adjusted earnings beat expectations and company raised 2026 earnings outlook; Citi also upgraded to Buy from Neutral with $20 price target on the same day.",
-      "category": "earnings",
-      "sources": [
-        "Yahoo Finance",
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "TXN",
-      "company": "Texas Instruments",
-      "reason": "Upgraded to Buy from Neutral at Arete Research with $405 price target; analysts see semiconductor cycle recovery accelerating into second half of 2026.",
-      "category": "upgrade",
-      "sources": [
-        "Yahoo Finance",
-        "Daily Trade Alert"
+        "Benzinga"
       ]
     }
   ]
