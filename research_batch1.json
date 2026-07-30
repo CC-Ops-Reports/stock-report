@@ -1,135 +1,135 @@
 {
-  "report_date": "2026-07-28",
+  "report_date": "2026-07-29",
   "batch": 1,
-  "market_tone": "Mixed",
+  "market_tone": "Bearish",
   "key_themes": [
-    "Chip sector rout triggered by CXMT (China DRAM maker) IPO and SK Hynix -15% crash in Korea",
-    "Big Tech earnings week with MSFT, AMZN, AAPL, META reporting later this week; Fed decision due Wednesday",
-    "Rotation from semiconductors into healthcare, industrials, and software — Dow +1% vs Nasdaq -0.2%"
+    "Fed holds rates at 3.50-3.75% with 3 hawkish dissenters — first triple dissent since 2016 spooks markets",
+    "Big Tech AI spending divergence: MSFT beats on Azure +43% growth, META misses EPS as expenses surge 55%",
+    "Q2 earnings season mixed: consumer/healthcare names beat (KO, SHW, GEHC, SBUX), AI infrastructure tumbles (VRT -16%)"
   ],
   "sp500": {
-    "value": "7,428.78",
-    "change": "+0.21%"
+    "value": "7,387.00",
+    "change": "-1.52%"
   },
   "nasdaq": {
-    "value": "24,876.91",
-    "change": "-0.22%"
+    "value": "21,893.00",
+    "change": "-1.74%"
   },
   "stocks": [
     {
-      "ticker": "AMKR",
-      "company": "Amkor Technology",
-      "discussion_driver": "Amkor beat Q2 2026 estimates handily (EPS $0.70 vs $0.45 est, revenue $1.9B vs $1.81B) but issued disappointing Q3 revenue guidance, triggering a brutal 24% single-day selloff. A recently announced NVIDIA partnership underscores long-term AI packaging demand, but near-term guidance uncertainty has spooked investors and the stock is now 52% below its 52-week high.",
+      "ticker": "META",
+      "company": "Meta Platforms",
+      "discussion_driver": "Meta's Q2 2026 results beat on revenue ($60.8B vs $60.3B estimate) but sharply missed EPS ($6.18 vs $7.14 consensus) as expenses surged 55% driven by record AI capital expenditures and a $2.4B legal charge, cutting net income by 14% despite 28% revenue growth. The stock fell approximately 10% in after-hours trading on July 29, extending what had already been a nine-day losing streak heading into earnings.",
       "bull_case": [
-        "NVIDIA partnership highlights growing AI advanced packaging demand; Amkor is positioned as a critical outsourced semiconductor assembly and test (OSAT) player for AI chiplets",
-        "Q2 2026 EPS of $0.70 beat estimates of $0.45 by 56%, demonstrating strong operational execution despite a challenging macro backdrop"
+        "Revenue grew 28% YoY driven by strong ad demand across Facebook, Instagram, and WhatsApp, demonstrating advertising platform resilience despite macro uncertainty and competitive pressures.",
+        "Long-term AI investments in Llama models, improved ad targeting algorithms, and Ray-Ban/Quest AR/VR hardware position Meta for monetization waves well beyond its core social media business."
       ],
       "bear_case": [
-        "Q3 2026 revenue guidance came in below Wall Street consensus, triggering a 24% single-day share collapse and raising questions about forward demand visibility",
-        "Broad chip sector sell-off from CXMT supply glut fears amplifies individual guidance disappointment; packaging demand could soften if AI chip production slows"
+        "AI-driven expense surge of 55% to $42B with $125-145B in full-year 2026 capex commitments is severely compressing near-term earnings power, with ROI timelines remaining highly uncertain.",
+        "Ongoing EU antitrust and US regulatory scrutiny, including a $2.4B legal charge in Q2 alone, adds unpredictable headline risk that could restrict core business operations or impose structural changes."
       ],
       "recommendation": "Hold",
-      "current_price": "$46.30",
-      "price_target": "$76.80 (+65.9%)",
-      "pe_ratio": "37.36",
-      "rsi": "N/A",
-      "vs_52wk_high": "-52.1% below high ($96.66)",
-      "analyst_rating": "Moderate Buy",
-      "sector": "Technology - Semiconductor Packaging",
-      "sources": ["CNBC", "Benzinga", "Motley Fool", "Needham", "GuruFocus", "eToro"],
-      "price_history_5d": [66.97, 65.33, 65.79, 60.71, 46.30]
+      "current_price": "$534.60",
+      "price_target": "$825.49 (+54.4%)",
+      "pe_ratio": "21.65",
+      "rsi": "56.78",
+      "vs_52wk_high": "-32.9% below high ($796.25)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Communication Services - Interactive Media",
+      "sources": ["CNBC", "Bloomberg", "Axios", "StockAnalysis", "MarketBeat"],
+      "price_history_5d": [606.10, 595.19, 593.41]
     },
     {
-      "ticker": "MU",
-      "company": "Micron Technology",
-      "discussion_driver": "Micron slid ~9.8% as the global chip sell-off deepened following CXMT's 466% IPO debut (China DRAM maker) and SK Hynix's 15% single-day crash in South Korea, fueling fears of a DRAM supply glut. Despite sector headwinds, Micron's HBM leadership for AI data centers, RSI near oversold territory, and a 35% discount to its 52-week high make it one of the most compelling value setups in the semiconductor space.",
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "discussion_driver": "Microsoft delivered a strong Q4 FY2026 beat with revenue of $90.0B surpassing estimates by $633M and Azure cloud growth of 43% at constant currency exceeding the 40.2% consensus expectation. EPS of $4.74 beat the $4.33 estimate by $0.41, and the stock rose approximately 3% in after-hours trading to ~$402.52, validating AI infrastructure monetization while questions about ballooning capex persist.",
       "bull_case": [
-        "HBM (High Bandwidth Memory) for AI data centers is a high-margin secular growth driver; Micron is one of only three global suppliers alongside Samsung and SK Hynix",
-        "RSI near 38 (oversold territory) and a 35% discount to 52-week high combined with 45-analyst Strong Buy consensus at $1,492 average target suggest significant mean-reversion upside"
+        "Azure cloud growth of 43% at constant currency confirms AI workloads are driving accelerated cloud adoption, with Microsoft Copilot integration across enterprise products creating durable recurring revenue expansion.",
+        "Consistent multi-segment beats with revenue of $90B and strong EPS delivery demonstrate disciplined execution; the $561 consensus price target implies ~39% upside from current levels."
       ],
       "bear_case": [
-        "CXMT's 466% IPO debut signals massive new Chinese DRAM capacity entering the global market, raising credible fears of a prolonged supply glut that could compress DRAM pricing",
-        "SK Hynix's 15% single-day crash in South Korea signals global memory sector panic; commodity memory pricing could deteriorate faster than HBM premiums can offset"
+        "Ballooning AI capital expenditures continue to weigh on free cash flow, and investors need to see tangible ROI in sustained Azure revenue acceleration to justify the magnitude of infrastructure spending.",
+        "Intense competition from Google Cloud and Amazon AWS in AI cloud services could erode Azure pricing power and market share as AI model capabilities commoditize over the next 12-18 months."
       ],
       "recommendation": "Buy",
-      "current_price": "$812.18",
-      "price_target": "$1,492.00 (+83.7%)",
-      "pe_ratio": "20.38",
-      "rsi": "38.25",
-      "vs_52wk_high": "-35.3% below high ($1,255.00)",
+      "current_price": "$402.52",
+      "price_target": "$561.11 (+39.4%)",
+      "pe_ratio": "23.58",
+      "rsi": "44.76",
+      "vs_52wk_high": "-27.5% below high ($555.45)",
       "analyst_rating": "Strong Buy",
-      "sector": "Technology - Memory Semiconductors",
-      "sources": ["CNBC", "Benzinga", "NBC News", "MarketBeat", "StockAnalysis", "TradingKey"],
-      "price_history_5d": [920.95, 900.20, 812.18]
+      "sector": "Technology - Software & Cloud",
+      "sources": ["CNBC", "Bloomberg", "Quiver Quantitative", "24/7 Wall St.", "MarketBeat"],
+      "price_history_5d": [393.35, 390.54]
     },
     {
-      "ticker": "AMD",
-      "company": "Advanced Micro Devices",
-      "discussion_driver": "AMD fell 8%+ as the semiconductor sector rout from CXMT's IPO and SK Hynix's crash pushed the Nasdaq-100 into correction territory. Despite broad chip sector headwinds, AMD's AI accelerator business remains a core growth driver with shares still up over 100% YTD. Big Tech earnings this week (MSFT, AMZN, AAPL, META) and the Fed decision Wednesday could reignite AI spending sentiment and serve as near-term catalysts.",
+      "ticker": "VRT",
+      "company": "Vertiv Holdings",
+      "discussion_driver": "Vertiv shares collapsed 17.3% on July 29, 2026, closing at $223.04 as Q2 results disappointed investors who expected stronger forward guidance given the surging AI data center build-out. Despite Vertiv's strong positioning in thermal management and power distribution equipment critical for hyperscaler data centers, the market viewed guidance as insufficient relative to elevated expectations, leaving the stock 41% below its 52-week high.",
       "bull_case": [
-        "AMD's MI300 AI GPU series is gaining data center market share; Baird raised its price target to $1,250 (Outperform) reflecting transformative AI accelerator revenue growth potential",
-        "Shares have more than doubled in 2026 YTD and the 8%+ pullback on sector-wide macro fears—not AMD-specific fundamentals—creates a tactical buying opportunity ahead of Big Tech earnings"
+        "Vertiv is a critical infrastructure play on the global AI data center buildout; its thermal management and UPS systems are essential for hyperscaler expansions by Microsoft, Google, Amazon, and Meta.",
+        "With shares now 41% below their 52-week high and a consensus analyst price target above $376, the stock offers substantial mean-reversion upside if Q2 guidance anxiety proves excessive or transitory."
       ],
       "bear_case": [
-        "Chip sector rout from CXMT IPO and SK Hynix crash creates broad semiconductor headwinds regardless of AMD's AI merit; near-term price action likely remains volatile",
-        "Trailing P/E of 162x is extremely stretched even for a high-growth AI company; any earnings miss or guidance cut could trigger severe multiple compression"
-      ],
-      "recommendation": "Buy",
-      "current_price": "$494.95",
-      "price_target": "$528.97 (+6.9%)",
-      "pe_ratio": "162.28",
-      "rsi": "N/A",
-      "vs_52wk_high": "-15.3% below high ($584.73)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Technology - Semiconductors",
-      "sources": ["CNBC", "Benzinga", "FX Leaders", "GuruFocus", "StockAnalysis", "Baird", "UBS"],
-      "price_history_5d": [539.69, 521.95, 494.95]
-    },
-    {
-      "ticker": "GLW",
-      "company": "Corning",
-      "discussion_driver": "Corning plunged 16-17% despite reporting a solid Q2 beat (EPS $0.78 vs $0.76 est, GAAP revenue $4.51B, +17% YoY), as Q3 revenue guidance disappointed Wall Street. The stock is now 47% below its 52-week high yet analysts maintain a Buy consensus with a $215.47 target—implying 50% upside—based on optical fiber demand from AI data center buildout and strong execution across its enterprise and carrier markets.",
-      "bull_case": [
-        "Optical fiber and data center connectivity demand from AI infrastructure buildout provides a multi-year secular tailwind for Corning's core businesses",
-        "Q2 GAAP revenue +17% YoY demonstrates strong underlying demand; analyst consensus Buy with $215 average target implies 50% upside from post-earnings lows"
-      ],
-      "bear_case": [
-        "Q3 guidance miss triggered a 16-17% single-day selloff despite a Q2 beat—management credibility and forward revenue visibility are now under scrutiny",
-        "Down 27% over the past week and 47% below its 52-week high, the stock faces potential further selling as momentum investors exit and guidance uncertainty lingers"
+        "Shares fell 17.3% on July 29 following disappointing forward guidance, signaling AI data center order flow may be decelerating or shifting to competitors such as Eaton and Schneider Electric.",
+        "A trailing P/E near 61x is still elevated for an industrial company; further earnings disappointments could trigger additional multiple compression in a market already skeptical of AI capex sustainability."
       ],
       "recommendation": "Hold",
-      "current_price": "$143.36",
-      "price_target": "$215.47 (+50.3%)",
-      "pe_ratio": "70.57",
+      "current_price": "$223.04",
+      "price_target": "$376.15 (+68.7%)",
+      "pe_ratio": "60.93",
       "rsi": "N/A",
-      "vs_52wk_high": "-47.3% below high ($271.78)",
+      "vs_52wk_high": "-41.3% below high ($379.94)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Industrials - Electrical Equipment & Data Center Infrastructure",
+      "sources": ["CNBC", "Yahoo Finance", "GuruFocus", "MarketBeat", "StockAnalysis"],
+      "price_history_5d": [269.56, 223.04]
+    },
+    {
+      "ticker": "CVNA",
+      "company": "Carvana",
+      "discussion_driver": "Carvana delivered record Q2 net income of $513M and 38% vehicle unit sales growth, yet the stock fell ~15% after hours as full-year 2026 earnings guidance of $2.7-3.0B fell well short of analyst expectations ranging from $3.0B to $4.45B. The wide guidance gap prompted investors to question whether Carvana's profitability ramp is decelerating, with the initial AH drop exceeding 20% before a partial recovery.",
+      "bull_case": [
+        "Record Q2 net income of $513M and 38% vehicle unit growth demonstrate Carvana's platform has achieved genuine operating leverage, establishing it as a structurally profitable used-car e-commerce business.",
+        "Revenue of $7.38B beat estimates by $335M in Q2, and if the $2.7-3.0B full-year guidance proves conservative — as management guidance has been in prior cycles — the stock could recover sharply from current levels."
+      ],
+      "bear_case": [
+        "Full-year 2026 earnings guidance of $2.7-3.0B fell far below analyst consensus of $3.0-4.45B, suggesting a fundamental deceleration in profitability growth that a trailing P/E of ~43x cannot easily absorb.",
+        "The initial 20%+ AH drop before partial recovery signals significant loss of investor confidence in management's forward guidance credibility, which typically takes multiple quarters of consistent beats to rebuild."
+      ],
+      "recommendation": "Hold",
+      "current_price": "$56.37",
+      "price_target": "$91.90 (+63.0%)",
+      "pe_ratio": "42.94",
+      "rsi": "N/A",
+      "vs_52wk_high": "-42.1% below high ($97.38)",
       "analyst_rating": "Buy",
-      "sector": "Technology - Specialty Materials & Optical Fiber",
-      "sources": ["CNBC", "TheStreet", "GuruFocus", "eToro", "Public.com", "Citi", "BofA"],
-      "price_history_5d": [143.36]
+      "sector": "Consumer Discretionary - Automotive E-Commerce",
+      "sources": ["CNBC", "Automotive News", "Benzinga", "Quiver Quantitative", "GuruFocus"],
+      "price_history_5d": [60.19, 64.04, 66.07, 66.32]
     },
     {
-      "ticker": "TER",
-      "company": "Teradyne",
-      "discussion_driver": "Teradyne surged 14% in after-hours trading on July 28 after reporting a massive Q2 2026 beat—EPS $2.47 vs $2.06 consensus (20% beat) and revenue $1.33B vs $1.22B estimate (+104% YoY growth). Q3 guidance midpoint of $1.25B also topped the $1.03B consensus. Despite the after-hours pop, the regular July 28 close of $321.07 remains 34% below TER's 52-week high, representing a potential re-rating opportunity as AI-driven chip complexity accelerates test equipment demand.",
+      "ticker": "GEHC",
+      "company": "GE HealthCare Technologies",
+      "discussion_driver": "GE HealthCare surged approximately 10% on July 29, 2026, after Q2 adjusted EPS of $1.13 beat the $1.04 consensus by 8.7% and revenue of $5.3B topped expectations with record order growth, signaling continued strength in medical imaging and diagnostics. The company's forward P/E of 12.2x looks attractively valued relative to healthcare peers, making it an earnings-momentum standout in an otherwise bearish market session dominated by Big Tech earnings drama.",
       "bull_case": [
-        "Q2 revenue surged 104% YoY with EPS beating by 20% and Q3 guidance well above estimates, confirming an AI-driven semiconductor test equipment supercycle is underway",
-        "Post-earnings analyst price target upgrades (Cantor $550, BofA $525, Susquehanna $550, UBS $500) imply 55-71% upside from the July 28 close"
+        "Q2 adjusted EPS beat of 8.7% with record order growth provides strong near-term revenue visibility, validating GEHC's healthcare imaging and AI-assisted diagnostics product cycle upgrade thesis.",
+        "Forward P/E of 12.2x is notably cheap for a healthcare equipment leader with structural tailwinds from aging population demographics and global hospital infrastructure investment in imaging and diagnostics."
       ],
       "bear_case": [
-        "Stock is 34% below its June 2026 52-week high with a 23% pullback over the past month, reflecting sustained chip sector selling pressure even for outperforming companies",
-        "After-hours surge of 14% may face profit-taking as the broader semiconductor sector remains under pressure from supply glut fears and Korea market contagion"
+        "Revenue growth of 5.8% YoY is modest and leaves the stock vulnerable to de-rating if hospital capital spending slows due to macroeconomic pressure, Medicare reimbursement changes, or government budget cuts.",
+        "The stock remains 20% below its 52-week high of $89.77 despite today's rally, reflecting persistent investor skepticism about GEHC's ability to sustain its post-GE-spin earnings trajectory and margin expansion."
       ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$321.07",
-      "price_target": "$531.25 (+65.4%)",
-      "pe_ratio": "59.46",
+      "recommendation": "Buy",
+      "current_price": "$71.56",
+      "price_target": "$81.64 (+14.1%)",
+      "pe_ratio": "14.63",
       "rsi": "N/A",
-      "vs_52wk_high": "-34.2% below high ($487.91)",
-      "analyst_rating": "Moderate Buy",
-      "sector": "Technology - Semiconductor Test Equipment",
-      "sources": ["CNBC", "StreetInsider", "Yahoo Finance", "Quiver Quantitative", "MarketBeat", "Cantor Fitzgerald", "BofA"],
-      "price_history_5d": [369.46, 373.75, 349.92, 334.77, 321.07]
+      "vs_52wk_high": "-20.3% below high ($89.77)",
+      "analyst_rating": "Buy",
+      "sector": "Healthcare - Medical Equipment & Diagnostics",
+      "sources": ["CNBC", "Yahoo Finance", "MarketBeat", "GuruFocus", "FinancialContent"],
+      "price_history_5d": [64.11, 71.56]
     }
   ]
 }
