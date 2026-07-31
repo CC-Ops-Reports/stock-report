@@ -1,155 +1,161 @@
 {
-  "report_date": "2026-07-30",
-  "market_tone": "Bullish",
+  "report_date": "2026-07-31",
+  "market_tone": "Mixed",
   "key_themes": [
-    "Mega-cap tech earnings season in full swing \u2014 MSFT blowout, META miss, AMZN after-hours beat",
-    "Fed holds rates steady (9-3 vote) but hawkish tone raises September rate-hike odds to 72%",
-    "Apple CEO Tim Cook delivers final earnings call; John Ternus to take over Sept 1"
+    "Big Tech earnings bifurcation: AMZN/MSFT surge while AAPL disappoints on China and Services miss",
+    "AI infrastructure boom: AWS +37% and Azure +43% growth signal accelerating cloud spend",
+    "Platform monetization risk: Reddit and Roblox crater on Google AI search traffic disruption and engagement declines",
+    "Energy superprofits: ExxonMobil and Chevron report windfall Q2 earnings on Iran-conflict-driven oil price surge"
   ],
   "sp500": {
-    "value": "7,438.00",
-    "change": "+1.66%"
+    "value": "7,489.72",
+    "change": "+0.7%"
   },
   "nasdaq": {
-    "value": "25,122.00",
-    "change": "+2.78%"
+    "value": "25,373.85",
+    "change": "+1.0%"
   },
   "stocks": [
     {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "reason": "Surged ~15% \u2014 largest single-day market-cap gain ever \u2014 after Q4 FY2026 revenue hit $90.01B (est. $87.62B); Azure grew 43% YoY and crossed $100B annual revenue for the first time",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance",
-        "Bloomberg",
-        "TheStreet"
-      ]
-    },
-    {
-      "ticker": "META",
-      "company": "Meta Platforms",
-      "reason": "Dropped ~9% after Q2 EPS of $6.18 missed estimates by $1.04; Q3 revenue guidance of $61-64B came in below the $63.15B consensus at the low end",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance",
-        "Motley Fool"
-      ]
-    },
-    {
       "ticker": "AMZN",
       "company": "Amazon",
-      "reason": "Gained 8%+ after hours on Q2 beat; AWS cloud revenue grew 37% YoY, well above the 31% Wall Street expected, signaling continued AI-driven demand",
+      "reason": "Stock surged 13-15% on massive Q2 earnings beat; AWS cloud revenue grew 37% YoY vs 31% expected \u2014 largest single-day gain in over a decade",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "Motley Fool",
-        "TheStreet"
+        "Bloomberg",
+        "Seeking Alpha"
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "reason": "Stock surged 15.5% \u2014 largest single-day market-cap gain in stock market history \u2014 after Q4 earnings beat with Azure at 43% growth and Microsoft 365 Copilot seats above 30M",
+      "category": "earnings",
+      "sources": [
+        "Yahoo Finance",
+        "CNBC",
+        "24/7 Wall St"
       ]
     },
     {
       "ticker": "AAPL",
       "company": "Apple",
-      "reason": "Q3 2026 revenue of $109.4B (record) with $29.8B profit; Tim Cook hosted his final earnings call as CEO \u2014 stepping down Sept 1, replaced by John Ternus; stock fell 4%+ after hours",
-      "category": "news",
+      "reason": "Shares fell 6-7% after Q3 earnings: Services revenue of $30.7B missed $31.3B estimate and Greater China came in at $18.8B vs $19.5B expected, plus weak guidance",
+      "category": "earnings",
       "sources": [
-        "MacRumors",
-        "Apple Insider",
-        "CNBC",
-        "Motley Fool"
-      ]
-    },
-    {
-      "ticker": "MKTX",
-      "company": "MarketAxess Holdings",
-      "reason": "Jumped 30% after NYSE-parent ICE announced a $6B all-cash acquisition at $167/share, a 33% premium to prior close; deal expected to close H1 2027",
-      "category": "news",
-      "sources": [
-        "CNBC",
         "Bloomberg",
-        "Markets Media"
-      ]
-    },
-    {
-      "ticker": "TDOC",
-      "company": "Teladoc Health",
-      "reason": "Plunged 18-21% after Q2 revenue missed expectations and the company slashed its full-year 2026 guidance, raising questions about telehealth demand normalization",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Seeking Alpha"
-      ]
-    },
-    {
-      "ticker": "LII",
-      "company": "Lennox International",
-      "reason": "Fell 21% \u2014 worst S&P 500 performer on the day \u2014 following its quarterly earnings release that disappointed investors on both top and bottom lines",
-      "category": "earnings",
-      "sources": [
-        "Trefis",
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "CROX",
-      "company": "Crocs",
-      "reason": "Dropped 10%+ despite beating Q2 expectations and raising FY guidance; weaker-than-expected margins and light Q3 guidance spooked investors",
-      "category": "earnings",
-      "sources": [
         "CNBC",
         "Yahoo Finance"
       ]
     },
     {
-      "ticker": "SYK",
-      "company": "Stryker",
-      "reason": "Fell 8.4% after hours after reporting Q2 earnings that disappointed investors, continuing pressure on medical device stocks",
+      "ticker": "RDDT",
+      "company": "Reddit",
+      "reason": "Stock plunged ~21% in record worst single-day decline despite revenue beat; CEO flagged Google AI Overviews making search referrals \"choppy\" and no new AI data-licensing deals announced",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "Seeking Alpha"
+        "Benzinga",
+        "FX Leaders"
       ]
     },
     {
-      "ticker": "SFM",
-      "company": "Sprouts Farmers Market",
-      "reason": "Surged on a Q2 earnings beat; JPMorgan simultaneously upgraded to Overweight and raised price target to $103 from $80, adding analyst fuel to the rally",
+      "ticker": "RBLX",
+      "company": "Roblox",
+      "reason": "Stock crashed 29% in worst day ever after Q2 bookings grew only 8% vs 70% YoY growth last year; company withdrew full-year guidance and DAUs fell to 123M from 152M peak; BMO and Benchmark issued sell ratings",
+      "category": "downgrade",
+      "sources": [
+        "Yahoo Finance",
+        "Benzinga",
+        "24/7 Wall St"
+      ]
+    },
+    {
+      "ticker": "COIN",
+      "company": "Coinbase",
+      "reason": "Stock fell 12-14% after Q2 net loss of $359M \u2014 third straight quarterly loss \u2014 missed estimates significantly; revenue fell to $1.2B from $1.5B a year ago as crypto trading volumes slid 20%+",
       "category": "earnings",
       "sources": [
         "Yahoo Finance",
-        "CNBC"
+        "CNBC",
+        "Motley Fool"
       ]
     },
     {
-      "ticker": "HUM",
-      "company": "Humana",
-      "reason": "Multiple analyst upgrades today: Leerink upgraded to Outperform with $513 target; Piper Sandler upgraded to Overweight with $463 target (up from $254)",
-      "category": "upgrade",
-      "sources": [
-        "Yahoo Finance",
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "CORT",
-      "company": "Corcept Therapeutics",
-      "reason": "Surged 21% after reporting a massive Q2 earnings beat, driven by strong Korlym sales momentum in a sector otherwise rattled by mixed results",
+      "ticker": "IESC",
+      "company": "IES Holdings",
+      "reason": "Stock surged 25%+ on Q3 earnings beat: revenue +40% YoY to $1.24B, net income nearly doubled; board announced 2-for-1 stock split; data center backlog driving growth",
       "category": "earnings",
       "sources": [
         "Seeking Alpha",
-        "Benzinga"
+        "GlobeNewswire",
+        "TipRanks"
       ]
     },
     {
-      "ticker": "BE",
-      "company": "Bloom Energy",
-      "reason": "Mizuho upgraded to Outperform from Neutral with a $242 price target, citing improving power demand outlook tied to data center and AI infrastructure buildout",
+      "ticker": "XOM",
+      "company": "ExxonMobil",
+      "reason": "Q2 2026 earnings released today: $14.5B profit (~$160M/day), adjusted EPS of $3.52 missed by 8 cents; windfall profits driven by Iran-conflict oil price surge; funneling profits into debt reduction",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "CNN Business",
+        "Bloomberg"
+      ]
+    },
+    {
+      "ticker": "CVX",
+      "company": "Chevron",
+      "reason": "Q2 2026 earnings beat: profit of $12.1B more than quadrupled YoY; adjusted EPS of $6.06 beat by 50 cents; benefiting from Iran-war-driven crude price surge alongside ExxonMobil",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Bloomberg",
+        "Washington Post"
+      ]
+    },
+    {
+      "ticker": "GDDY",
+      "company": "GoDaddy",
+      "reason": "Stock fell ~5-8% despite slight earnings beat; cautious outlook for remainder of 2026 as company shifts to AI platform Airo; downgraded to Market Perform from Outperform by William Blair",
+      "category": "downgrade",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance",
+        "Investing.com"
+      ]
+    },
+    {
+      "ticker": "MRNA",
+      "company": "Moderna",
+      "reason": "Stock fell ~4% despite Q2 results beating estimates (loss of $1.97/share vs $2.03 expected); FDA decision on seasonal flu vaccine still pending August 5; stock had already gained 83% in 2026",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "24/7 Wall St",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "PWR",
+      "company": "Quanta Services",
+      "reason": "Upgraded to Buy from Neutral by Guggenheim with $800 price target on strong infrastructure spending tailwinds and grid modernization demand",
       "category": "upgrade",
       "sources": [
         "Yahoo Finance",
-        "Benzinga"
+        "Daily Trade Alert"
+      ]
+    },
+    {
+      "ticker": "ABBV",
+      "company": "AbbVie",
+      "reason": "Q2 2026 earnings reported today; Skyrizi at $4.48B (+30.9% YoY) and Rinvoq at $2.12B (+23.3% YoY) driving strength; management had guided raised full-year outlook; stock at $265 pre-report",
+      "category": "earnings",
+      "sources": [
+        "24/7 Wall St",
+        "Motley Fool",
+        "Yahoo Finance"
       ]
     }
   ]
