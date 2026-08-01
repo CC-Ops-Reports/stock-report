@@ -1,135 +1,136 @@
 {
-  "report_date": "2026-07-29",
+  "report_date": "2026-07-31",
   "batch": 1,
-  "market_tone": "Bearish",
+  "market_tone": "Mixed",
   "key_themes": [
-    "Fed holds rates at 3.50-3.75% with 3 hawkish dissenters — first triple dissent since 2016 spooks markets",
-    "Big Tech AI spending divergence: MSFT beats on Azure +43% growth, META misses EPS as expenses surge 55%",
-    "Q2 earnings season mixed: consumer/healthcare names beat (KO, SHW, GEHC, SBUX), AI infrastructure tumbles (VRT -16%)"
+    "Big Tech earnings bifurcation: AMZN/MSFT surge while AAPL disappoints on China and Services miss",
+    "AI infrastructure boom: AWS +37% and Azure +43% growth signal accelerating cloud spend",
+    "Platform monetization risk: Reddit and Roblox crater on Google AI search traffic disruption and engagement declines",
+    "Energy superprofits: ExxonMobil and Chevron report windfall Q2 earnings on Iran-conflict-driven oil price surge"
   ],
   "sp500": {
-    "value": "7,387.00",
-    "change": "-1.52%"
+    "value": "7,489.72",
+    "change": "+0.7%"
   },
   "nasdaq": {
-    "value": "21,893.00",
-    "change": "-1.74%"
+    "value": "25,373.85",
+    "change": "+1.0%"
   },
   "stocks": [
     {
-      "ticker": "META",
-      "company": "Meta Platforms",
-      "discussion_driver": "Meta's Q2 2026 results beat on revenue ($60.8B vs $60.3B estimate) but sharply missed EPS ($6.18 vs $7.14 consensus) as expenses surged 55% driven by record AI capital expenditures and a $2.4B legal charge, cutting net income by 14% despite 28% revenue growth. The stock fell approximately 10% in after-hours trading on July 29, extending what had already been a nine-day losing streak heading into earnings.",
+      "ticker": "AMZN",
+      "company": "Amazon.com, Inc.",
+      "discussion_driver": "Amazon surged ~15% on July 31 after a massive Q2 earnings beat: AWS cloud revenue grew 37% YoY to $42.2B vs. the 31% consensus estimate, and total Q2 revenue reached $200.6B. This marks Amazon's largest single-day gain in over a decade, adding over $400B in market cap and pushing the stock to within 2.5% of its 52-week high.",
       "bull_case": [
-        "Revenue grew 28% YoY driven by strong ad demand across Facebook, Instagram, and WhatsApp, demonstrating advertising platform resilience despite macro uncertainty and competitive pressures.",
-        "Long-term AI investments in Llama models, improved ad targeting algorithms, and Ray-Ban/Quest AR/VR hardware position Meta for monetization waves well beyond its core social media business."
+        "AWS revenue grew 37% YoY to $42.2B, significantly beating the 31% estimate and signaling accelerating market-share gains in enterprise cloud as AI workloads intensify",
+        "Advertising and third-party seller services also beat expectations, demonstrating broad-based strength across all major business segments and setting up full-year estimate upgrades"
       ],
       "bear_case": [
-        "AI-driven expense surge of 55% to $42B with $125-145B in full-year 2026 capex commitments is severely compressing near-term earnings power, with ROI timelines remaining highly uncertain.",
-        "Ongoing EU antitrust and US regulatory scrutiny, including a $2.4B legal charge in Q2 alone, adds unpredictable headline risk that could restrict core business operations or impose structural changes."
+        "After a 15% single-day surge, AMZN is trading just 2.5% below its 52-week high, creating near-term technical resistance and limited margin of safety for new buyers at this level",
+        "At 27x trailing earnings, any moderation in AWS growth momentum or macro softness in consumer spending could quickly compress the multiple and reverse recent gains"
       ],
-      "recommendation": "Hold",
-      "current_price": "$534.60",
-      "price_target": "$825.49 (+54.4%)",
-      "pe_ratio": "21.65",
-      "rsi": "56.78",
-      "vs_52wk_high": "-32.9% below high ($796.25)",
+      "recommendation": "Buy",
+      "current_price": "$271.58",
+      "price_target": "$321.40 (+18.3%)",
+      "pe_ratio": "27.09",
+      "rsi": "37.49",
+      "vs_52wk_high": "-2.5% below high ($278.56)",
       "analyst_rating": "Strong Buy",
-      "sector": "Communication Services - Interactive Media",
-      "sources": ["CNBC", "Bloomberg", "Axios", "StockAnalysis", "MarketBeat"],
-      "price_history_5d": [606.10, 595.19, 593.41]
+      "sector": "Consumer Cyclical - E-Commerce & Cloud Computing",
+      "sources": ["CNBC", "Bloomberg", "Seeking Alpha", "MarketBeat", "Yahoo Finance", "Vantage Markets"],
+      "price_history_5d": [231.43, 233.50, 235.50, 271.58]
     },
     {
       "ticker": "MSFT",
-      "company": "Microsoft",
-      "discussion_driver": "Microsoft delivered a strong Q4 FY2026 beat with revenue of $90.0B surpassing estimates by $633M and Azure cloud growth of 43% at constant currency exceeding the 40.2% consensus expectation. EPS of $4.74 beat the $4.33 estimate by $0.41, and the stock rose approximately 3% in after-hours trading to ~$402.52, validating AI infrastructure monetization while questions about ballooning capex persist.",
+      "company": "Microsoft Corporation",
+      "discussion_driver": "Microsoft reported FY26 Q4 earnings after the close on July 29, triggering a ~15% single-day surge on July 30 — the largest single-day market-cap gain in stock market history. Azure grew 43% YoY (vs. 38% estimate), Microsoft 365 Copilot seats crossed 30M, FY26 Q4 revenue hit $90B (+18% YoY), and GAAP EPS of $4.81 rose 32% YoY — demonstrating that Microsoft's massive AI infrastructure investment is generating measurable returns.",
       "bull_case": [
-        "Azure cloud growth of 43% at constant currency confirms AI workloads are driving accelerated cloud adoption, with Microsoft Copilot integration across enterprise products creating durable recurring revenue expansion.",
-        "Consistent multi-segment beats with revenue of $90B and strong EPS delivery demonstrate disciplined execution; the $561 consensus price target implies ~39% upside from current levels."
+        "Azure's 43% YoY growth and 30M+ Copilot paid seats show AI monetization is accelerating, setting up multiple years of above-market cloud growth and enterprise software expansion",
+        "FY26 Q4 revenue of $90B and GAAP EPS of $4.81 (+32% YoY) crushed guidance on every key metric, suggesting conservative forward guidance that analysts will systematically raise through 2027"
       ],
       "bear_case": [
-        "Ballooning AI capital expenditures continue to weigh on free cash flow, and investors need to see tangible ROI in sustained Azure revenue acceleration to justify the magnitude of infrastructure spending.",
-        "Intense competition from Google Cloud and Amazon AWS in AI cloud services could erode Azure pricing power and market share as AI model capabilities commoditize over the next 12-18 months."
+        "Trading 16.8% below its 52-week high of $555.45, MSFT has significant ground to recover; at 25x earnings, growth must remain exceptional to justify the current premium valuation",
+        "Intense competition from AWS and Google Cloud could pressure Azure pricing and margins while massive AI capital expenditures continue to weigh on free cash flow generation"
       ],
       "recommendation": "Buy",
-      "current_price": "$402.52",
-      "price_target": "$561.11 (+39.4%)",
-      "pe_ratio": "23.58",
-      "rsi": "44.76",
-      "vs_52wk_high": "-27.5% below high ($555.45)",
+      "current_price": "$462.23",
+      "price_target": "$562.31 (+21.6%)",
+      "pe_ratio": "25.06",
+      "rsi": "N/A",
+      "vs_52wk_high": "-16.8% below high ($555.45)",
       "analyst_rating": "Strong Buy",
-      "sector": "Technology - Software & Cloud",
-      "sources": ["CNBC", "Bloomberg", "Quiver Quantitative", "24/7 Wall St.", "MarketBeat"],
-      "price_history_5d": [393.35, 390.54]
+      "sector": "Technology - Cloud Software & Productivity",
+      "sources": ["Yahoo Finance", "CNBC", "Microsoft Investor Relations", "TradingKey", "MarketBeat"],
+      "price_history_5d": [393.35, 390.54, 448.03, 462.23]
     },
     {
-      "ticker": "VRT",
-      "company": "Vertiv Holdings",
-      "discussion_driver": "Vertiv shares collapsed 17.3% on July 29, 2026, closing at $223.04 as Q2 results disappointed investors who expected stronger forward guidance given the surging AI data center build-out. Despite Vertiv's strong positioning in thermal management and power distribution equipment critical for hyperscaler data centers, the market viewed guidance as insufficient relative to elevated expectations, leaving the stock 41% below its 52-week high.",
+      "ticker": "AAPL",
+      "company": "Apple Inc.",
+      "discussion_driver": "Apple shares fell ~9.5% on July 31 — the stock's worst day since the pandemic selloff — after Q3 earnings disappointed on key metrics: Services revenue of $30.7B missed the $31.3B estimate, Greater China came in at $18.8B vs. $19.5B expected, and management guided for 9-11% revenue growth (vs. 12% consensus), citing severe DRAM/NAND supply constraints. This marks Tim Cook's final earnings call as CEO, adding leadership transition risk.",
       "bull_case": [
-        "Vertiv is a critical infrastructure play on the global AI data center buildout; its thermal management and UPS systems are essential for hyperscaler expansions by Microsoft, Google, Amazon, and Meta.",
-        "With shares now 41% below their 52-week high and a consensus analyst price target above $376, the stock offers substantial mean-reversion upside if Q2 guidance anxiety proves excessive or transitory."
+        "Record Q3 revenue of $109.4B beat top-line estimates on iPhone and Mac strength; the upcoming product refresh cycle and AI-enhanced iPhone features could drive a new hardware upcycle in 2027",
+        "Services at $30.7B, despite missing estimates, represents a high-margin recurring revenue stream growing regardless of hardware cycles, providing durable earnings floor"
       ],
       "bear_case": [
-        "Shares fell 17.3% on July 29 following disappointing forward guidance, signaling AI data center order flow may be decelerating or shifting to competitors such as Eaton and Schneider Electric.",
-        "A trailing P/E near 61x is still elevated for an industrial company; further earnings disappointments could trigger additional multiple compression in a market already skeptical of AI capex sustainability."
+        "Supply chain disruptions (DRAM/NAND price inflation) and structurally weakening Greater China revenue create dual headwinds on the most critical iPhone revenue line, with near-term guidance well below consensus",
+        "CEO leadership transition away from Tim Cook introduces execution risk around Services acceleration and Apple Intelligence commercialization at a particularly critical strategic juncture"
       ],
       "recommendation": "Hold",
-      "current_price": "$223.04",
-      "price_target": "$376.15 (+68.7%)",
-      "pe_ratio": "60.93",
+      "current_price": "$308.91",
+      "price_target": "$321.66 (+4.1%)",
+      "pe_ratio": "40.91",
       "rsi": "N/A",
-      "vs_52wk_high": "-41.3% below high ($379.94)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Industrials - Electrical Equipment & Data Center Infrastructure",
-      "sources": ["CNBC", "Yahoo Finance", "GuruFocus", "MarketBeat", "StockAnalysis"],
-      "price_history_5d": [269.56, 223.04]
+      "vs_52wk_high": "-10.3% below high ($344.57)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - Consumer Electronics",
+      "sources": ["Bloomberg", "CNBC", "FX Leaders", "TheStreet", "MacDailyNews", "MarketBeat"],
+      "price_history_5d": [340.08, 338.26, 333.43, 308.91]
     },
     {
-      "ticker": "CVNA",
-      "company": "Carvana",
-      "discussion_driver": "Carvana delivered record Q2 net income of $513M and 38% vehicle unit sales growth, yet the stock fell ~15% after hours as full-year 2026 earnings guidance of $2.7-3.0B fell well short of analyst expectations ranging from $3.0B to $4.45B. The wide guidance gap prompted investors to question whether Carvana's profitability ramp is decelerating, with the initial AH drop exceeding 20% before a partial recovery.",
+      "ticker": "RDDT",
+      "company": "Reddit, Inc.",
+      "discussion_driver": "Reddit plunged 22% on July 31 — its worst single-day decline since its 2024 IPO — despite a strong Q2 earnings beat (revenue $804.9M vs. $731.8M estimate, EPS $1.25 vs. $0.95 consensus, net income $253M doubling YoY). CEO Steve Huffman's warning that Google AI Overviews have made search referrals 'choppy,' combined with no new AI data-licensing deals announced and a slight U.S. DAU miss (53.2M vs. 54M), spooked investors fearing Reddit's search-dependent traffic model is structurally threatened.",
       "bull_case": [
-        "Record Q2 net income of $513M and 38% vehicle unit growth demonstrate Carvana's platform has achieved genuine operating leverage, establishing it as a structurally profitable used-car e-commerce business.",
-        "Revenue of $7.38B beat estimates by $335M in Q2, and if the $2.7-3.0B full-year guidance proves conservative — as management guidance has been in prior cycles — the stock could recover sharply from current levels."
+        "Revenue grew 61% YoY and net income more than doubled to $253M — fundamental execution is strong, and the selloff may represent a significant overreaction to a specific traffic-quality concern",
+        "At 51% below its 52-week high, the stock may be pricing in an existential AI threat that overstates the Google risk; Reddit's niche community content is difficult for AI summaries to replicate authentically"
       ],
       "bear_case": [
-        "Full-year 2026 earnings guidance of $2.7-3.0B fell far below analyst consensus of $3.0-4.45B, suggesting a fundamental deceleration in profitability growth that a trailing P/E of ~43x cannot easily absorb.",
-        "The initial 20%+ AH drop before partial recovery signals significant loss of investor confidence in management's forward guidance credibility, which typically takes multiple quarters of consistent beats to rebuild."
+        "Google AI Overviews directly threaten Reddit's most critical traffic source; if AI summaries eliminate the need to click through to Reddit, ad revenue per user and overall monetization collapses",
+        "No new AI data-licensing deals were announced, removing a key bull thesis for 2026 revenue diversification and raising questions about Reddit's competitive value in the AI training data market"
       ],
-      "recommendation": "Hold",
-      "current_price": "$56.37",
-      "price_target": "$91.90 (+63.0%)",
-      "pe_ratio": "42.94",
+      "recommendation": "Speculative Buy",
+      "current_price": "$138.54",
+      "price_target": "$223.59 (+61.4%)",
+      "pe_ratio": "30.48",
       "rsi": "N/A",
-      "vs_52wk_high": "-42.1% below high ($97.38)",
+      "vs_52wk_high": "-51.0% below high ($282.95)",
       "analyst_rating": "Buy",
-      "sector": "Consumer Discretionary - Automotive E-Commerce",
-      "sources": ["CNBC", "Automotive News", "Benzinga", "Quiver Quantitative", "GuruFocus"],
-      "price_history_5d": [60.19, 64.04, 66.07, 66.32]
+      "sector": "Technology - Social Media & Internet",
+      "sources": ["Yahoo Finance", "Benzinga", "FX Leaders", "Proactive Investors", "Schaeffer's Research"],
+      "price_history_5d": [177.99, 178.04, 138.54]
     },
     {
-      "ticker": "GEHC",
-      "company": "GE HealthCare Technologies",
-      "discussion_driver": "GE HealthCare surged approximately 10% on July 29, 2026, after Q2 adjusted EPS of $1.13 beat the $1.04 consensus by 8.7% and revenue of $5.3B topped expectations with record order growth, signaling continued strength in medical imaging and diagnostics. The company's forward P/E of 12.2x looks attractively valued relative to healthcare peers, making it an earnings-momentum standout in an otherwise bearish market session dominated by Big Tech earnings drama.",
+      "ticker": "RBLX",
+      "company": "Roblox Corporation",
+      "discussion_driver": "Roblox crashed ~27% on July 31 — its worst single-day loss ever — after Q2 earnings revealed only 8% bookings growth (vs. 70% YoY last year), DAUs declined to 123M from a 152M peak, and management withdrew full-year guidance entirely. BMO and Benchmark issued Sell ratings. The collapse of key engagement metrics and guidance removal has analysts questioning whether the platform has entered a structural lifecycle decline as its core users age out.",
       "bull_case": [
-        "Q2 adjusted EPS beat of 8.7% with record order growth provides strong near-term revenue visibility, validating GEHC's healthcare imaging and AI-assisted diagnostics product cycle upgrade thesis.",
-        "Forward P/E of 12.2x is notably cheap for a healthcare equipment leader with structural tailwinds from aging population demographics and global hospital infrastructure investment in imaging and diagnostics."
+        "Trading 76% below its 52-week high creates optionality for a recovery if international expansion (Southeast Asia, India) and new content categories can offset North American engagement declines",
+        "Roblox's unique position as a youth UGC entertainment platform gives it a loyal creator ecosystem that could be re-monetized through advertising, premium experiences, or AI-generated content tools"
       ],
       "bear_case": [
-        "Revenue growth of 5.8% YoY is modest and leaves the stock vulnerable to de-rating if hospital capital spending slows due to macroeconomic pressure, Medicare reimbursement changes, or government budget cuts.",
-        "The stock remains 20% below its 52-week high of $89.77 despite today's rally, reflecting persistent investor skepticism about GEHC's ability to sustain its post-GE-spin earnings trajectory and margin expansion."
+        "DAUs fell from 152M peak to 123M and bookings growth collapsed from 70% to 8% YoY — this signals a structural engagement decline as users age out of the platform, not a temporary slowdown",
+        "Management withdrawing full-year guidance signals deep uncertainty about near-term trajectory; sell ratings from BMO and Benchmark indicate Wall Street confidence has fundamentally broken down"
       ],
-      "recommendation": "Buy",
-      "current_price": "$71.56",
-      "price_target": "$81.64 (+14.1%)",
-      "pe_ratio": "14.63",
+      "recommendation": "Sell",
+      "current_price": "$35.60",
+      "price_target": "$66.00 (+85.4%)",
+      "pe_ratio": "N/A",
       "rsi": "N/A",
-      "vs_52wk_high": "-20.3% below high ($89.77)",
+      "vs_52wk_high": "-76.4% below high ($150.59)",
       "analyst_rating": "Buy",
-      "sector": "Healthcare - Medical Equipment & Diagnostics",
-      "sources": ["CNBC", "Yahoo Finance", "MarketBeat", "GuruFocus", "FinancialContent"],
-      "price_history_5d": [64.11, 71.56]
+      "sector": "Technology - Gaming & Online Entertainment",
+      "sources": ["Yahoo Finance", "Benzinga", "Gurufocus", "Cryptonomist", "TechTimes", "24/7 Wall St"],
+      "price_history_5d": [48.62, 35.60]
     }
   ]
 }
