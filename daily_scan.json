@@ -1,125 +1,25 @@
 {
-  "report_date": "2026-07-31",
-  "market_tone": "Mixed",
+  "report_date": "2026-08-03",
+  "market_tone": "Bullish",
   "key_themes": [
-    "Big Tech earnings bifurcation: AMZN/MSFT surge while AAPL disappoints on China and Services miss",
-    "AI infrastructure boom: AWS +37% and Azure +43% growth signal accelerating cloud spend",
-    "Platform monetization risk: Reddit and Roblox crater on Google AI search traffic disruption and engagement declines",
-    "Energy superprofits: ExxonMobil and Chevron report windfall Q2 earnings on Iran-conflict-driven oil price surge"
+    "AI earnings supercycle: Amazon AWS beats by wide margin, CoreWeave surges on strong demand",
+    "Iran diplomacy collapses oil prices, lifting airlines and travel stocks to session highs",
+    "Mega-pharma M&A shock: AstraZeneca and Bristol Myers in reported $400B merger talks"
   ],
   "sp500": {
-    "value": "7,489.72",
-    "change": "+0.7%"
+    "value": "7,600.50",
+    "change": "+1.48%"
   },
   "nasdaq": {
-    "value": "25,373.85",
-    "change": "+1.0%"
+    "value": "25,913.90",
+    "change": "+2.10%"
   },
   "stocks": [
     {
       "ticker": "AMZN",
-      "company": "Amazon",
-      "reason": "Stock surged 13-15% on massive Q2 earnings beat; AWS cloud revenue grew 37% YoY vs 31% expected \u2014 largest single-day gain in over a decade",
+      "company": "Amazon.com",
+      "reason": "Q2 2026 blowout: AWS revenue +37% YoY to $42.2B, total revenue $200.6B; stock surged 15%+ as market cap crossed $3 trillion for first time",
       "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Bloomberg",
-        "Seeking Alpha"
-      ]
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "reason": "Stock surged 15.5% \u2014 largest single-day market-cap gain in stock market history \u2014 after Q4 earnings beat with Azure at 43% growth and Microsoft 365 Copilot seats above 30M",
-      "category": "earnings",
-      "sources": [
-        "Yahoo Finance",
-        "CNBC",
-        "24/7 Wall St"
-      ]
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "reason": "Shares fell 6-7% after Q3 earnings: Services revenue of $30.7B missed $31.3B estimate and Greater China came in at $18.8B vs $19.5B expected, plus weak guidance",
-      "category": "earnings",
-      "sources": [
-        "Bloomberg",
-        "CNBC",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "RDDT",
-      "company": "Reddit",
-      "reason": "Stock plunged ~21% in record worst single-day decline despite revenue beat; CEO flagged Google AI Overviews making search referrals \"choppy\" and no new AI data-licensing deals announced",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Benzinga",
-        "FX Leaders"
-      ]
-    },
-    {
-      "ticker": "RBLX",
-      "company": "Roblox",
-      "reason": "Stock crashed 29% in worst day ever after Q2 bookings grew only 8% vs 70% YoY growth last year; company withdrew full-year guidance and DAUs fell to 123M from 152M peak; BMO and Benchmark issued sell ratings",
-      "category": "downgrade",
-      "sources": [
-        "Yahoo Finance",
-        "Benzinga",
-        "24/7 Wall St"
-      ]
-    },
-    {
-      "ticker": "COIN",
-      "company": "Coinbase",
-      "reason": "Stock fell 12-14% after Q2 net loss of $359M \u2014 third straight quarterly loss \u2014 missed estimates significantly; revenue fell to $1.2B from $1.5B a year ago as crypto trading volumes slid 20%+",
-      "category": "earnings",
-      "sources": [
-        "Yahoo Finance",
-        "CNBC",
-        "Motley Fool"
-      ]
-    },
-    {
-      "ticker": "IESC",
-      "company": "IES Holdings",
-      "reason": "Stock surged 25%+ on Q3 earnings beat: revenue +40% YoY to $1.24B, net income nearly doubled; board announced 2-for-1 stock split; data center backlog driving growth",
-      "category": "earnings",
-      "sources": [
-        "Seeking Alpha",
-        "GlobeNewswire",
-        "TipRanks"
-      ]
-    },
-    {
-      "ticker": "XOM",
-      "company": "ExxonMobil",
-      "reason": "Q2 2026 earnings released today: $14.5B profit (~$160M/day), adjusted EPS of $3.52 missed by 8 cents; windfall profits driven by Iran-conflict oil price surge; funneling profits into debt reduction",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "CNN Business",
-        "Bloomberg"
-      ]
-    },
-    {
-      "ticker": "CVX",
-      "company": "Chevron",
-      "reason": "Q2 2026 earnings beat: profit of $12.1B more than quadrupled YoY; adjusted EPS of $6.06 beat by 50 cents; benefiting from Iran-war-driven crude price surge alongside ExxonMobil",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Bloomberg",
-        "Washington Post"
-      ]
-    },
-    {
-      "ticker": "GDDY",
-      "company": "GoDaddy",
-      "reason": "Stock fell ~5-8% despite slight earnings beat; cautious outlook for remainder of 2026 as company shifts to AI platform Airo; downgraded to Market Perform from Outperform by William Blair",
-      "category": "downgrade",
       "sources": [
         "CNBC",
         "Yahoo Finance",
@@ -127,35 +27,141 @@
       ]
     },
     {
-      "ticker": "MRNA",
-      "company": "Moderna",
-      "reason": "Stock fell ~4% despite Q2 results beating estimates (loss of $1.97/share vs $2.03 expected); FDA decision on seasonal flu vaccine still pending August 5; stock had already gained 83% in 2026",
+      "ticker": "PLTR",
+      "company": "Palantir Technologies",
+      "reason": "Q2 2026 after-hours beat: EPS $0.41 vs $0.33 expected, revenue $1.935B (+93% YoY), US commercial revenue +149%; stock surged ~12% post-earnings",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "24/7 Wall St",
-        "Yahoo Finance"
+        "MarketBeat",
+        "TheStreet"
       ]
     },
     {
-      "ticker": "PWR",
-      "company": "Quanta Services",
-      "reason": "Upgraded to Buy from Neutral by Guggenheim with $800 price target on strong infrastructure spending tailwinds and grid modernization demand",
+      "ticker": "CRWV",
+      "company": "CoreWeave",
+      "reason": "Shares +16% on Truist upgrade to Buy after 42% pullback, new Leidos government defense partnership, and $8.5B loan facility for AI cloud expansion",
       "category": "upgrade",
       "sources": [
-        "Yahoo Finance",
-        "Daily Trade Alert"
+        "CNBC",
+        "Trefis",
+        "Timothy Sykes News"
       ]
     },
     {
-      "ticker": "ABBV",
-      "company": "AbbVie",
-      "reason": "Q2 2026 earnings reported today; Skyrizi at $4.48B (+30.9% YoY) and Rinvoq at $2.12B (+23.3% YoY) driving strength; management had guided raised full-year outlook; stock at $265 pre-report",
+      "ticker": "AZN",
+      "company": "AstraZeneca",
+      "reason": "Shares dropped 7% on FT/Bloomberg report of preliminary $400B merger talks with Bristol Myers Squibb; analysts express skepticism over strategic rationale",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Benzinga",
+        "Bloomberg"
+      ]
+    },
+    {
+      "ticker": "BMY",
+      "company": "Bristol-Myers Squibb",
+      "reason": "Stock rose 6% on reports of merger talks with AstraZeneca that could create a $400B pharma giant; deal would combine complementary oncology pipelines",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Benzinga",
+        "Axios"
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "company": "Alibaba Group",
+      "reason": "Shares rallied 4-7% after unveiling Qwen 3.8-Max, a 2.4-trillion-parameter AI model said to rival Anthropic Fable 5 on key benchmarks",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance",
+        "Investing.com"
+      ]
+    },
+    {
+      "ticker": "GME",
+      "company": "GameStop",
+      "reason": "Stock plunged 12% after company announced private exchange of $1.4B in convertible senior notes for equity shares, raising dilution concerns",
+      "category": "news",
+      "sources": [
+        "Seeking Alpha",
+        "Benzinga",
+        "QZ"
+      ]
+    },
+    {
+      "ticker": "GLW",
+      "company": "Corning",
+      "reason": "Shares rose 5%+ after Truist upgraded to Buy from Hold with $175 price target, citing reasonable entry point following recent sell-off",
+      "category": "upgrade",
+      "sources": [
+        "CNBC",
+        "247 Wall St.",
+        "Benzinga"
+      ]
+    },
+    {
+      "ticker": "UAL",
+      "company": "United Airlines",
+      "reason": "Shares gained ~5% as oil prices fell nearly 5% after Trump announced new US-Iran diplomatic talks, directly lowering fuel cost outlook for carriers",
+      "category": "sector",
+      "sources": [
+        "TheStreet",
+        "Bloomberg",
+        "Al Jazeera"
+      ]
+    },
+    {
+      "ticker": "WING",
+      "company": "Wingstop",
+      "reason": "Bernstein downgraded from Outperform to Market Perform, cutting price target sharply from $220 to $155 on waning bullish conviction",
+      "category": "downgrade",
+      "sources": [
+        "Benzinga",
+        "247 Wall St."
+      ]
+    },
+    {
+      "ticker": "VRTX",
+      "company": "Vertex Pharmaceuticals",
+      "reason": "Scheduled to report Q2 2026 earnings at 4:30 PM ET today; one of the day's most anticipated healthcare reports given $126B market cap",
       "category": "earnings",
       "sources": [
-        "24/7 Wall St",
-        "Motley Fool",
-        "Yahoo Finance"
+        "Earnings Whispers",
+        "TheStreet"
+      ]
+    },
+    {
+      "ticker": "EBAY",
+      "company": "eBay",
+      "reason": "Wells Fargo downgraded to Underweight from Equal Weight citing escalating US competitive intensity threatening market share",
+      "category": "downgrade",
+      "sources": [
+        "247 Wall St.",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "ETN",
+      "company": "Eaton Corporation",
+      "reason": "Evercore ISI upgraded to Outperform from In Line, raising price target to $502 from $453 on power infrastructure demand outlook",
+      "category": "upgrade",
+      "sources": [
+        "247 Wall St.",
+        "Benzinga"
+      ]
+    },
+    {
+      "ticker": "CIRK",
+      "company": "Circle Internet",
+      "reason": "Morgan Stanley downgraded to Underweight from Equal Weight with $38 price target, citing negative upcoming catalysts for the stablecoin issuer",
+      "category": "downgrade",
+      "sources": [
+        "247 Wall St.",
+        "CNBC"
       ]
     }
   ]
