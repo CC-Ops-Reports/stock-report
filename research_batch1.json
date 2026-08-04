@@ -1,136 +1,135 @@
 {
-  "report_date": "2026-07-31",
+  "report_date": "2026-08-03",
   "batch": 1,
-  "market_tone": "Mixed",
+  "market_tone": "Bullish",
   "key_themes": [
-    "Big Tech earnings bifurcation: AMZN/MSFT surge while AAPL disappoints on China and Services miss",
-    "AI infrastructure boom: AWS +37% and Azure +43% growth signal accelerating cloud spend",
-    "Platform monetization risk: Reddit and Roblox crater on Google AI search traffic disruption and engagement declines",
-    "Energy superprofits: ExxonMobil and Chevron report windfall Q2 earnings on Iran-conflict-driven oil price surge"
+    "AI earnings supercycle: Amazon AWS beats by wide margin, CoreWeave surges on strong demand",
+    "Iran diplomacy collapses oil prices, lifting airlines and travel stocks to session highs",
+    "Mega-pharma M&A shock: AstraZeneca and Bristol Myers in reported $400B merger talks"
   ],
   "sp500": {
-    "value": "7,489.72",
-    "change": "+0.7%"
+    "value": "7,600.50",
+    "change": "+1.48%"
   },
   "nasdaq": {
-    "value": "25,373.85",
-    "change": "+1.0%"
+    "value": "25,913.90",
+    "change": "+2.10%"
   },
   "stocks": [
     {
       "ticker": "AMZN",
-      "company": "Amazon.com, Inc.",
-      "discussion_driver": "Amazon surged ~15% on July 31 after a massive Q2 earnings beat: AWS cloud revenue grew 37% YoY to $42.2B vs. the 31% consensus estimate, and total Q2 revenue reached $200.6B. This marks Amazon's largest single-day gain in over a decade, adding over $400B in market cap and pushing the stock to within 2.5% of its 52-week high.",
+      "company": "Amazon.com",
+      "discussion_driver": "Amazon reported a Q2 2026 blowout with AWS revenue surging 37% YoY to $42.2B and total revenue of $200.6B, driving a 15%+ single-day surge on July 31 that pushed market cap above $3 trillion for the first time. The rally continued into Aug 3 with AMZN closing at $286.16, setting a new all-time high, as Wall Street priced in AI infrastructure dominance and the company's $35B OpenAI partnership added further upside speculation.",
       "bull_case": [
-        "AWS revenue grew 37% YoY to $42.2B, significantly beating the 31% estimate and signaling accelerating market-share gains in enterprise cloud as AI workloads intensify",
-        "Advertising and third-party seller services also beat expectations, demonstrating broad-based strength across all major business segments and setting up full-year estimate upgrades"
+        "AWS revenue grew 37% YoY to $42.2B in Q2 2026, demonstrating continued cloud infrastructure dominance and accelerating AI-driven enterprise demand well above the 31% consensus estimate",
+        "$35B OpenAI strategic partnership unlocks new AI services revenue streams across AWS, with substantial monetization potential across enterprise and consumer segments"
       ],
       "bear_case": [
-        "After a 15% single-day surge, AMZN is trading just 2.5% below its 52-week high, creating near-term technical resistance and limited margin of safety for new buyers at this level",
-        "At 27x trailing earnings, any moderation in AWS growth momentum or macro softness in consumer spending could quickly compress the multiple and reverse recent gains"
+        "RSI near 80 after a 15%+ single-day earnings surge signals extreme short-term overbought conditions, raising near-term pullback risk for new buyers at post-surge levels",
+        "Pre-earnings consensus price target of ~$296 offers only ~3% upside from the post-earnings price of $286; analyst target refresh is needed to confirm continued conviction at current levels"
       ],
       "recommendation": "Buy",
-      "current_price": "$271.58",
-      "price_target": "$321.40 (+18.3%)",
-      "pe_ratio": "27.09",
-      "rsi": "37.49",
-      "vs_52wk_high": "-2.5% below high ($278.56)",
+      "current_price": "$286.16",
+      "price_target": "$296.00 (+3.4%)",
+      "pe_ratio": "21.84",
+      "rsi": "~80 (overbought post-earnings)",
+      "vs_52wk_high": "New ATH at $286.16 (+2.7% vs prior high of $278.56 on May 5, 2026)",
       "analyst_rating": "Strong Buy",
-      "sector": "Consumer Cyclical - E-Commerce & Cloud Computing",
-      "sources": ["CNBC", "Bloomberg", "Seeking Alpha", "MarketBeat", "Yahoo Finance", "Vantage Markets"],
-      "price_history_5d": [231.43, 233.50, 235.50, 271.58]
+      "sector": "Consumer Discretionary / Cloud Technology",
+      "sources": ["CNBC", "TradingKey", "GuruFocus", "Motley Fool", "Yahoo Finance", "Vantage Markets"],
+      "price_history_5d": [231.43, 233.00, 235.50, 271.58, 286.16]
     },
     {
-      "ticker": "MSFT",
-      "company": "Microsoft Corporation",
-      "discussion_driver": "Microsoft reported FY26 Q4 earnings after the close on July 29, triggering a ~15% single-day surge on July 30 — the largest single-day market-cap gain in stock market history. Azure grew 43% YoY (vs. 38% estimate), Microsoft 365 Copilot seats crossed 30M, FY26 Q4 revenue hit $90B (+18% YoY), and GAAP EPS of $4.81 rose 32% YoY — demonstrating that Microsoft's massive AI infrastructure investment is generating measurable returns.",
+      "ticker": "PLTR",
+      "company": "Palantir Technologies",
+      "discussion_driver": "Palantir delivered its 8th consecutive earnings beat in Q2 2026, posting $1.94B in revenue (+93% YoY) and EPS of $0.41 (vs $0.33 expected), with US commercial AI revenue surging 149% YoY. CEO Alex Karp called results 'otherworldly.' The stock rose ~4% in regular trading to $127.79 on Aug 3 and then surged ~10% in after-hours to ~$140 as full-year guidance was raised to $8.16B vs the $7.65B prior consensus.",
       "bull_case": [
-        "Azure's 43% YoY growth and 30M+ Copilot paid seats show AI monetization is accelerating, setting up multiple years of above-market cloud growth and enterprise software expansion",
-        "FY26 Q4 revenue of $90B and GAAP EPS of $4.81 (+32% YoY) crushed guidance on every key metric, suggesting conservative forward guidance that analysts will systematically raise through 2027"
+        "Q2 2026 EPS beat of 24% with US commercial revenue up 149% YoY demonstrates explosive enterprise AI platform adoption across government and commercial verticals",
+        "Full-year revenue guidance raised to $8.16B (vs prior consensus of $7.65B), projecting ~82% revenue growth as AI platform monetization accelerates across AIP deployments"
       ],
       "bear_case": [
-        "Trading 16.8% below its 52-week high of $555.45, MSFT has significant ground to recover; at 25x earnings, growth must remain exceptional to justify the current premium valuation",
-        "Intense competition from AWS and Google Cloud could pressure Azure pricing and margins while massive AI capital expenditures continue to weigh on free cash flow generation"
+        "Trailing P/E of 133x remains extreme even on 93% revenue growth, leaving no margin for execution errors or any deceleration in AI spending across its government and commercial customer base",
+        "Stock trades 38% below its 52-week high of $207.52 despite strong fundamentals, indicating that institutional investors remain cautious on valuation at these levels"
       ],
       "recommendation": "Buy",
-      "current_price": "$462.23",
-      "price_target": "$562.31 (+21.6%)",
-      "pe_ratio": "25.06",
-      "rsi": "N/A",
-      "vs_52wk_high": "-16.8% below high ($555.45)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Technology - Cloud Software & Productivity",
-      "sources": ["Yahoo Finance", "CNBC", "Microsoft Investor Relations", "TradingKey", "MarketBeat"],
-      "price_history_5d": [393.35, 390.54, 448.03, 462.23]
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple Inc.",
-      "discussion_driver": "Apple shares fell ~9.5% on July 31 — the stock's worst day since the pandemic selloff — after Q3 earnings disappointed on key metrics: Services revenue of $30.7B missed the $31.3B estimate, Greater China came in at $18.8B vs. $19.5B expected, and management guided for 9-11% revenue growth (vs. 12% consensus), citing severe DRAM/NAND supply constraints. This marks Tim Cook's final earnings call as CEO, adding leadership transition risk.",
-      "bull_case": [
-        "Record Q3 revenue of $109.4B beat top-line estimates on iPhone and Mac strength; the upcoming product refresh cycle and AI-enhanced iPhone features could drive a new hardware upcycle in 2027",
-        "Services at $30.7B, despite missing estimates, represents a high-margin recurring revenue stream growing regardless of hardware cycles, providing durable earnings floor"
-      ],
-      "bear_case": [
-        "Supply chain disruptions (DRAM/NAND price inflation) and structurally weakening Greater China revenue create dual headwinds on the most critical iPhone revenue line, with near-term guidance well below consensus",
-        "CEO leadership transition away from Tim Cook introduces execution risk around Services acceleration and Apple Intelligence commercialization at a particularly critical strategic juncture"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$308.91",
-      "price_target": "$321.66 (+4.1%)",
-      "pe_ratio": "40.91",
-      "rsi": "N/A",
-      "vs_52wk_high": "-10.3% below high ($344.57)",
+      "current_price": "$127.79",
+      "price_target": "$182.20 (+42.6%)",
+      "pe_ratio": "133.1",
+      "rsi": "41.2",
+      "vs_52wk_high": "-38.5% below high ($207.52)",
       "analyst_rating": "Buy",
-      "sector": "Technology - Consumer Electronics",
-      "sources": ["Bloomberg", "CNBC", "FX Leaders", "TheStreet", "MacDailyNews", "MarketBeat"],
-      "price_history_5d": [340.08, 338.26, 333.43, 308.91]
+      "sector": "Technology - AI / Enterprise Software",
+      "sources": ["MarketBeat", "TipRanks", "247 Wall St.", "TradingKey", "Yahoo Finance", "GuruFocus"],
+      "price_history_5d": [124.50, 123.80, 122.26, 123.06, 127.79]
     },
     {
-      "ticker": "RDDT",
-      "company": "Reddit, Inc.",
-      "discussion_driver": "Reddit plunged 22% on July 31 — its worst single-day decline since its 2024 IPO — despite a strong Q2 earnings beat (revenue $804.9M vs. $731.8M estimate, EPS $1.25 vs. $0.95 consensus, net income $253M doubling YoY). CEO Steve Huffman's warning that Google AI Overviews have made search referrals 'choppy,' combined with no new AI data-licensing deals announced and a slight U.S. DAU miss (53.2M vs. 54M), spooked investors fearing Reddit's search-dependent traffic model is structurally threatened.",
+      "ticker": "CRWV",
+      "company": "CoreWeave",
+      "discussion_driver": "CoreWeave surged 16-19% on Aug 3 driven by two catalysts: Truist upgraded the stock to Buy (from Hold) with a $126 target citing 58% upside after a 42% pullback from the 52-week high, and the company announced a new Leidos strategic partnership launching CoreWeave Federal for U.S. government and defense AI workloads. A concurrent $8.5B loan facility expansion signals aggressive infrastructure buildout as AI compute demand accelerates.",
       "bull_case": [
-        "Revenue grew 61% YoY and net income more than doubled to $253M — fundamental execution is strong, and the selloff may represent a significant overreaction to a specific traffic-quality concern",
-        "At 51% below its 52-week high, the stock may be pricing in an existential AI threat that overstates the Google risk; Reddit's niche community content is difficult for AI summaries to replicate authentically"
+        "Truist Buy upgrade with $126 target cites 58% upside potential as AI compute demand accelerates and a wide valuation gap vs smaller cloud peers remains underappreciated",
+        "New Leidos government defense partnership opens CoreWeave Federal to high-margin, sticky U.S. defense and intelligence AI workloads, diversifying revenue beyond commercial hyperscaler contracts"
       ],
       "bear_case": [
-        "Google AI Overviews directly threaten Reddit's most critical traffic source; if AI summaries eliminate the need to click through to Reddit, ad revenue per user and overall monetization collapses",
-        "No new AI data-licensing deals were announced, removing a key bull thesis for 2026 revenue diversification and raising questions about Reddit's competitive value in the AI training data market"
+        "Stock is 44% below its 52-week high and the company remains unprofitable; $8.5B in loan facilities creates significant balance sheet risk if the AI spending cycle decelerates",
+        "Heavy GPU infrastructure CAPEX requirements create execution risk if customer concentration among hyperscalers increases or if competing AI cloud providers scale rapidly"
       ],
       "recommendation": "Speculative Buy",
-      "current_price": "$138.54",
-      "price_target": "$223.59 (+61.4%)",
-      "pe_ratio": "30.48",
-      "rsi": "N/A",
-      "vs_52wk_high": "-51.0% below high ($282.95)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Social Media & Internet",
-      "sources": ["Yahoo Finance", "Benzinga", "FX Leaders", "Proactive Investors", "Schaeffer's Research"],
-      "price_history_5d": [177.99, 178.04, 138.54]
-    },
-    {
-      "ticker": "RBLX",
-      "company": "Roblox Corporation",
-      "discussion_driver": "Roblox crashed ~27% on July 31 — its worst single-day loss ever — after Q2 earnings revealed only 8% bookings growth (vs. 70% YoY last year), DAUs declined to 123M from a 152M peak, and management withdrew full-year guidance entirely. BMO and Benchmark issued Sell ratings. The collapse of key engagement metrics and guidance removal has analysts questioning whether the platform has entered a structural lifecycle decline as its core users age out.",
-      "bull_case": [
-        "Trading 76% below its 52-week high creates optionality for a recovery if international expansion (Southeast Asia, India) and new content categories can offset North American engagement declines",
-        "Roblox's unique position as a youth UGC entertainment platform gives it a loyal creator ecosystem that could be re-monetized through advertising, premium experiences, or AI-generated content tools"
-      ],
-      "bear_case": [
-        "DAUs fell from 152M peak to 123M and bookings growth collapsed from 70% to 8% YoY — this signals a structural engagement decline as users age out of the platform, not a temporary slowdown",
-        "Management withdrawing full-year guidance signals deep uncertainty about near-term trajectory; sell ratings from BMO and Benchmark indicate Wall Street confidence has fundamentally broken down"
-      ],
-      "recommendation": "Sell",
-      "current_price": "$35.60",
-      "price_target": "$66.00 (+85.4%)",
+      "current_price": "$85.76",
+      "price_target": "$127.64 (+48.8%)",
       "pe_ratio": "N/A",
       "rsi": "N/A",
-      "vs_52wk_high": "-76.4% below high ($150.59)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Gaming & Online Entertainment",
-      "sources": ["Yahoo Finance", "Benzinga", "Gurufocus", "Cryptonomist", "TechTimes", "24/7 Wall St"],
-      "price_history_5d": [48.62, 35.60]
+      "vs_52wk_high": "-44.0% below high ($153.20)",
+      "analyst_rating": "Moderate Buy",
+      "sector": "Technology - AI Cloud Infrastructure",
+      "sources": ["TipRanks", "CNBC", "TimothySykes", "247 Wall St.", "Benzinga", "StocksToTrade"],
+      "price_history_5d": [66.72, 73.90, 71.77, 85.76]
+    },
+    {
+      "ticker": "AZN",
+      "company": "AstraZeneca",
+      "discussion_driver": "AstraZeneca shares dropped 7-9% on Aug 3 after the Financial Times and Bloomberg reported preliminary merger discussions with Bristol Myers Squibb that could create a combined $400B pharmaceutical company. Analysts broadly questioned the strategic rationale, citing overlapping oncology pipelines and intense antitrust scrutiny risk in the U.S. and EU. Both companies declined to comment, leaving investors pricing in significant deal uncertainty as AZN approached oversold territory.",
+      "bull_case": [
+        "83% analyst buy consensus and Strong Buy rating reflect a best-in-class oncology pipeline (Tagrisso, Imfinzi, Enhertu) with multiple blockbuster drugs driving sustained revenue growth independent of any merger",
+        "Post-merger-scare pullback of ~8% creates an attractive entry point with ~34% upside to analyst consensus target of $213.69 if merger concerns fade or talks are formally terminated"
+      ],
+      "bear_case": [
+        "Proposed $400B merger with BMY raises serious acquirer premium risk and strategic dilution concerns, as AZN would likely need to issue equity at a discount to fund the deal",
+        "Overlapping oncology portfolios between AZN and BMY would face prolonged antitrust scrutiny in the U.S. and EU, creating years of regulatory uncertainty and management distraction"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$159.20",
+      "price_target": "$213.69 (+34.2%)",
+      "pe_ratio": "27.34",
+      "rsi": "~32 (approaching oversold)",
+      "vs_52wk_high": "-25.2% below high ($212.71)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Healthcare - Pharmaceuticals",
+      "sources": ["Bloomberg", "CNBC", "Benzinga", "QZ", "DirectorsTalkInterviews", "MacroTrends"],
+      "price_history_5d": [172.48, 171.50, 170.80, 170.90, 159.20]
+    },
+    {
+      "ticker": "BMY",
+      "company": "Bristol-Myers Squibb",
+      "discussion_driver": "Bristol-Myers Squibb surged intraday ~6% on Aug 3, reaching a high of $69.20, on reports of preliminary merger discussions with AstraZeneca that could create a combined $400B pharmaceutical giant. The deal would unite BMY's Opdivo/Eliquis franchise with AZN's Tagrisso/Imfinzi oncology portfolio. BMY closed at $65.47, near its 52-week high of $65.66, with gains entirely driven by M&A premium speculation rather than fundamental catalysts.",
+      "bull_case": [
+        "AstraZeneca merger premium speculation could drive additional near-term upside; a deal would likely value BMY at a significant premium to its current ~$133B market cap given its oncology and cardiovascular portfolio breadth",
+        "Stock up ~18% YTD in 2026, underpinned by Opdivo+Yervoy combination approvals and Breyanzi cell therapy growth, demonstrating positive fundamental momentum independent of M&A"
+      ],
+      "bear_case": [
+        "Consensus Hold rating with price target near the current price of $65.47 signals limited fundamental upside outside of M&A speculation; 18 of 28 analysts rate it Hold",
+        "If AZN merger talks collapse — historically common for early-stage deal reports — the M&A premium will unwind rapidly, potentially returning BMY to the low-to-mid $60s"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$65.47",
+      "price_target": "$65.38 (-0.1%)",
+      "pe_ratio": "9.36",
+      "rsi": "52.80",
+      "vs_52wk_high": "-0.3% below high ($65.66)",
+      "analyst_rating": "Hold",
+      "sector": "Healthcare - Pharmaceuticals",
+      "sources": ["Benzinga", "DirectorsTalkInterviews", "StockAnalysis", "Yahoo Finance", "MacroTrends"],
+      "price_history_5d": [63.20, 63.80, 64.20, 64.86, 65.47]
     }
   ]
 }
