@@ -1,167 +1,159 @@
 {
-  "report_date": "2026-08-03",
-  "market_tone": "Bullish",
+  "report_date": "2026-08-17",
+  "market_tone": "Bearish",
   "key_themes": [
-    "AI earnings supercycle: Amazon AWS beats by wide margin, CoreWeave surges on strong demand",
-    "Iran diplomacy collapses oil prices, lifting airlines and travel stocks to session highs",
-    "Mega-pharma M&A shock: AstraZeneca and Bristol Myers in reported $400B merger talks"
+    "Retail earnings week \u2014 Walmart, Home Depot, Target, Lowe's all report this week, consumer health in focus after weaker-than-expected retail sales",
+    "AI memory upgrade cycle \u2014 Micron upgraded to Buy with $1,250 target on sold-out HBM capacity; SanDisk and Intel surging premarket",
+    "US-Iran tensions lifting oil prices and pushing 30-year Treasury yield to multi-decade highs, pressuring equities broadly"
   ],
   "sp500": {
-    "value": "7,600.50",
-    "change": "+1.48%"
+    "value": "7,745.06",
+    "change": "-0.52%"
   },
   "nasdaq": {
-    "value": "25,913.90",
-    "change": "+2.10%"
+    "value": "26,644.91",
+    "change": "-0.32%"
   },
   "stocks": [
     {
-      "ticker": "AMZN",
-      "company": "Amazon.com",
-      "reason": "Q2 2026 blowout: AWS revenue +37% YoY to $42.2B, total revenue $200.6B; stock surged 15%+ as market cap crossed $3 trillion for first time",
-      "category": "earnings",
+      "ticker": "AAPL",
+      "company": "Apple Inc.",
+      "reason": "Rothschild & Co Redburn upgraded to Buy from Neutral today, raising price target to $400 from $260, citing upcoming foldable iPhone ($2,199 price point) and refreshed Apple Intelligence platform expected September",
+      "category": "upgrade",
       "sources": [
-        "CNBC",
-        "Yahoo Finance",
-        "Investing.com"
+        "Benzinga",
+        "MacDailyNews",
+        "Seeking Alpha",
+        "247 Wall St."
       ]
     },
     {
-      "ticker": "PLTR",
-      "company": "Palantir Technologies",
-      "reason": "Q2 2026 after-hours beat: EPS $0.41 vs $0.33 expected, revenue $1.935B (+93% YoY), US commercial revenue +149%; stock surged ~12% post-earnings",
-      "category": "earnings",
+      "ticker": "SPCX",
+      "company": "SpaceX",
+      "reason": "Shares rose 5.66% today as fears of heavy insider selling failed to materialize despite another 319M insider shares becoming eligible to trade on Aug 20; stock has rebounded from sub-$105 low to ~$148",
+      "category": "news",
       "sources": [
-        "CNBC",
-        "MarketBeat",
+        "TipRanks",
+        "TradingKey",
         "TheStreet"
       ]
     },
     {
-      "ticker": "CRWV",
-      "company": "CoreWeave",
-      "reason": "Shares +16% on Truist upgrade to Buy after 42% pullback, new Leidos government defense partnership, and $8.5B loan facility for AI cloud expansion",
+      "ticker": "SNDK",
+      "company": "SanDisk",
+      "reason": "Up 7.39% in premarket trading today, riding AI memory infrastructure momentum alongside Micron upgrade; CNBC listed as a top premarket mover this morning",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "StockTwits"
+      ]
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "reason": "New Street Research analyst Pierre Ferragu upgraded to Buy from Neutral on Friday, raising target to $1,250 (from ~$950 close); HBM market \"remarkably tight\" with 2027 capacity already allocated to AI customers",
       "category": "upgrade",
       "sources": [
-        "CNBC",
-        "Trefis",
-        "Timothy Sykes News"
+        "TheStreet",
+        "Yahoo Finance",
+        "Benzinga"
       ]
     },
     {
-      "ticker": "AZN",
-      "company": "AstraZeneca",
-      "reason": "Shares dropped 7% on FT/Bloomberg report of preliminary $400B merger talks with Bristol Myers Squibb; analysts express skepticism over strategic rationale",
+      "ticker": "INTC",
+      "company": "Intel Corporation",
+      "reason": "Named a CNBC premarket mover today; investor Dan Niles reiterated Intel as his favorite chip bet, calling the AI infrastructure rally likely to run at least another year",
       "category": "news",
       "sources": [
         "CNBC",
-        "Benzinga",
-        "Bloomberg"
-      ]
-    },
-    {
-      "ticker": "BMY",
-      "company": "Bristol-Myers Squibb",
-      "reason": "Stock rose 6% on reports of merger talks with AstraZeneca that could create a $400B pharma giant; deal would combine complementary oncology pipelines",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "Benzinga",
-        "Axios"
+        "StockTwits"
       ]
     },
     {
       "ticker": "BABA",
       "company": "Alibaba Group",
-      "reason": "Shares rallied 4-7% after unveiling Qwen 3.8-Max, a 2.4-trillion-parameter AI model said to rival Anthropic Fable 5 on key benchmarks",
-      "category": "news",
+      "reason": "Premarket mover today ahead of Aug 20 earnings; analysts watching whether Qwen AI momentum can offset four consecutive EPS misses; consensus expects ~8.6% revenue growth",
+      "category": "earnings",
       "sources": [
         "CNBC",
-        "Yahoo Finance",
+        "Investing.com",
+        "TradingKey"
+      ]
+    },
+    {
+      "ticker": "WDAY",
+      "company": "Workday",
+      "reason": "Down ~2.4% after double downgrade today: Deutsche Bank cut to Hold and BTIG moved to Neutral from Buy, both citing valuation after a 76% rebound from June lows; Silver Lake acquisition speculation added volatility",
+      "category": "downgrade",
+      "sources": [
+        "247 Wall St.",
+        "Benzinga",
+        "Daily Trade Alert"
+      ]
+    },
+    {
+      "ticker": "SHOP",
+      "company": "Shopify",
+      "reason": "Down 3.13% today; Phillip Securities downgraded to Accumulate from Buy on valuation grounds, raising PT to $170 from $160 but citing capped near-term upside after rapid share price appreciation",
+      "category": "downgrade",
+      "sources": [
+        "TradingKey",
+        "Benzinga",
         "Investing.com"
       ]
     },
     {
-      "ticker": "GME",
-      "company": "GameStop",
-      "reason": "Stock plunged 12% after company announced private exchange of $1.4B in convertible senior notes for equity shares, raising dilution concerns",
+      "ticker": "OKTA",
+      "company": "Okta",
+      "reason": "Upgraded to Overweight from Equal Weight at Wells Fargo today with price target raised to $180 from $150; among Monday's top analyst calls",
+      "category": "upgrade",
+      "sources": [
+        "247 Wall St.",
+        "Daily Trade Alert"
+      ]
+    },
+    {
+      "ticker": "RDDT",
+      "company": "Reddit",
+      "reason": "Continued buying pressure today ahead of S&P 500 official inclusion tomorrow (Aug 18), replacing AvalonBay; index funds estimated to need ~16.7M shares; stock surged 15%+ last week on announcement",
       "category": "news",
       "sources": [
-        "Seeking Alpha",
-        "Benzinga",
-        "QZ"
-      ]
-    },
-    {
-      "ticker": "GLW",
-      "company": "Corning",
-      "reason": "Shares rose 5%+ after Truist upgraded to Buy from Hold with $175 price target, citing reasonable entry point following recent sell-off",
-      "category": "upgrade",
-      "sources": [
         "CNBC",
-        "247 Wall St.",
-        "Benzinga"
+        "Forbes",
+        "Quartz"
       ]
     },
     {
-      "ticker": "UAL",
-      "company": "United Airlines",
-      "reason": "Shares gained ~5% as oil prices fell nearly 5% after Trump announced new US-Iran diplomatic talks, directly lowering fuel cost outlook for carriers",
-      "category": "sector",
-      "sources": [
-        "TheStreet",
-        "Bloomberg",
-        "Al Jazeera"
-      ]
-    },
-    {
-      "ticker": "WING",
-      "company": "Wingstop",
-      "reason": "Bernstein downgraded from Outperform to Market Perform, cutting price target sharply from $220 to $155 on waning bullish conviction",
-      "category": "downgrade",
-      "sources": [
-        "Benzinga",
-        "247 Wall St."
-      ]
-    },
-    {
-      "ticker": "VRTX",
-      "company": "Vertex Pharmaceuticals",
-      "reason": "Scheduled to report Q2 2026 earnings at 4:30 PM ET today; one of the day's most anticipated healthcare reports given $126B market cap",
+      "ticker": "WMT",
+      "company": "Walmart",
+      "reason": "In focus today as earnings season's key consumer bellwether; reports Thursday Aug 20 before open; market watching for signs of consumer spending slowdown after Friday's weaker-than-expected retail sales data",
       "category": "earnings",
       "sources": [
-        "Earnings Whispers",
-        "TheStreet"
+        "TheStreet",
+        "Fortune",
+        "Yahoo Finance"
       ]
     },
     {
-      "ticker": "EBAY",
-      "company": "eBay",
-      "reason": "Wells Fargo downgraded to Underweight from Equal Weight citing escalating US competitive intensity threatening market share",
-      "category": "downgrade",
+      "ticker": "HD",
+      "company": "Home Depot",
+      "reason": "Reports Tuesday Aug 18 before market open; alongside Target and Lowe's forms this week's retail earnings gauntlet testing consumer and housing sector health",
+      "category": "earnings",
       "sources": [
-        "247 Wall St.",
-        "CNBC"
+        "TheStreet",
+        "Fortune",
+        "MarketScreener"
       ]
     },
     {
-      "ticker": "ETN",
-      "company": "Eaton Corporation",
-      "reason": "Evercore ISI upgraded to Outperform from In Line, raising price target to $502 from $453 on power infrastructure demand outlook",
+      "ticker": "DELL",
+      "company": "Dell Technologies",
+      "reason": "Wells Fargo reiterated Overweight and raised price target to $545 from $505 on Friday, citing AI data-center server demand and upcoming Nvidia Vera Rubin platform transition; stock continuing upward move today",
       "category": "upgrade",
       "sources": [
-        "247 Wall St.",
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "CIRK",
-      "company": "Circle Internet",
-      "reason": "Morgan Stanley downgraded to Underweight from Equal Weight with $38 price target, citing negative upcoming catalysts for the stablecoin issuer",
-      "category": "downgrade",
-      "sources": [
-        "247 Wall St.",
-        "CNBC"
+        "Yahoo Finance",
+        "GuruFocus",
+        "TipRanks"
       ]
     }
   ]
