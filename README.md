@@ -330,6 +330,178 @@
 
 ## REPORT ARCHIVE
 
+### 2026-08-14 (recovered) | Mixed | Consumer confidence slide (UMich Aug index 51 vs 55 expected) stalled the rally, AI infrastructure demand lifts semiconductor equipment earnings, S&P 500 reshuffle and defense-sector drone tariffs drive individual stock moves
+
+| Stock | Rec | Price | Target | vs 52-Wk High |
+|-------|-----|-------|--------|---------------|
+| IMXI | Buy | $14.59 | n/a | -8.5% below high ($15.95) |
+| NU ⭐ | Buy | $15.23 | n/a | -19.8% below high ($18.98) |
+| RDDT ⭐ | Buy | $178.09 | n/a | -37.1% below high ($282.95) |
+| SNDK ⭐ | Buy | $1,641.11 | n/a | -30.3% below high ($2,354.39) |
+| FOXA ⭐ | Buy | $69.04 | n/a | -9.6% below high ($76.39) |
+| AVAV ⭐ | Hold | $192.81 | n/a | -53.9% below high ($417.86) |
+| AMAT ⭐ | Hold | $507.18 | n/a | -31.4% below high ($739.67) |
+| AVGO ⭐ | Hold | $392.99 | n/a | -20.6% below high ($495.00) |
+| MDU | Hold | $20.65 | n/a | -10.1% below high ($22.98) |
+| RRC | Hold | $40.32 | n/a | -16.5% below high ($48.31) |
+| CSCO ⭐ | Hold | $111.68 | n/a | -14.3% below high ($130.37) |
+| YSS | Hold | $10.93 | n/a | -75.5% below high ($44.54) |
+| GLOB | Hold | $37.38 | n/a | -53.1% below high ($79.65) |
+| W | Buy | $101.63 | n/a | -15.3% below high ($119.98) |
+| KRYS | Buy | $332.27 | n/a | -13.1% below high ($382.54) |
+
+### 2026-08-13 (recovered) | Bullish | Soft inflation data (CPI 3.4%, core 2.5%) lifts S&P 500 to all-time record above 7,800 on Fed hold expectations, Earnings season: beats punished on weak guidance (Tapestry, StubHub, Cisco); big revenue beats rewarded (EnerSys, Grocery Outlet), Memory chip rally led by SanDisk and Micron on AI-driven NAND demand
+
+| Stock | Rec | Price | Target | vs 52-Wk High |
+|-------|-----|-------|--------|---------------|
+| CSCO ⭐ | Hold | $113.47 | n/a | -13.0% below high ($130.37) |
+| CBRS ⭐ | Hold | $231.01 | n/a | -40.2% below high ($386.34) |
+| TPR ⭐ | Hold | $128.39 | n/a | -22.1% below high ($164.80) |
+| STUB | Hold | $7.68 | n/a | -72.5% below high ($27.89) |
+| AMAT ⭐ | Hold | $534.54 | n/a | -27.7% below high ($739.67) |
+| ENS | Buy | $197.38 | n/a | -19.2% below high ($244.30) |
+| GO | Buy | $10.80 | n/a | -43.8% below high ($19.23) |
+| JACK | Buy | $18.76 | n/a | -21.4% below high ($23.86) |
+| SNDK ⭐ | Buy | $1,528.11 | n/a | -35.1% below high ($2,354.39) |
+| MU ⭐ | Buy | $949.83 | n/a | -24.3% below high ($1,255.00) |
+| YETI | Hold | $45.47 | n/a | -15.8% below high ($53.99) |
+| JD | Hold | $29.30 | n/a | -20.5% below high ($36.86) |
+| SMCI ⭐ | Hold | $39.16 | n/a | -33.4% below high ($58.78) |
+| WYFI | Hold | $28.22 | n/a | -39.8% below high ($46.87) |
+
+### 2026-08-12 (recovered) | Bullish | AI infrastructure earnings surge: CoreWeave, Nebius, Super Micro all beat estimates on record demand, July CPI 0.1% monthly / 3.4% annual meets expectations, reinforces Fed patience on rates, Fast-casual restaurant strength: Cava Q2 same-store sales +9%, traffic up 5.3%
+
+| Stock | Rec | Price | Target | vs 52-Wk High |
+|-------|-----|-------|--------|---------------|
+| NBIS ⭐ | Buy | $259.20 | n/a | -13.6% below high ($299.86) |
+| CRWV ⭐ | Buy | $107.73 | n/a | -29.7% below high ($153.20) |
+| SMCI ⭐ | Buy | $37.61 | n/a | -36.0% below high ($58.78) |
+| CAVA ⭐ | Buy | $69.47 | n/a | -29.7% below high ($98.79) |
+| HRB | Buy | $54.18 | n/a | -7.7% below high ($58.67) |
+| LITE ⭐ | Buy | $932.47 | n/a | -14.1% below high ($1,085.68) |
+| HPE ⭐ | Buy | $58.79 | n/a | -8.5% below high ($64.25) |
+| COHR ⭐ | Buy | $355.64 | n/a | -19.2% below high ($440.00) |
+| WDAY ⭐ | Hold | $175.29 | n/a | -29.8% below high ($249.85) |
+| NBIX | Hold | $156.49 | n/a | -15.9% below high ($186.12) |
+| AAPL ⭐ | Hold | $302.25 | $205.00 (-32.2%) | -12.3% below high ($344.57) |
+| OKTA ⭐ | Buy | $147.30 | $170.00 (+15.4%) | -6.2% below high ($157.00) |
+| ISRG ⭐ | Buy | $401.27 | $500.00 (+24.6%) | -33.6% below high ($603.88) |
+| MRK ⭐ | Buy | $132.92 | $143.00 (+7.6%) | -1.6% below high ($135.05) |
+
+### 2026-08-11 (recovered) | Mixed | AI infrastructure deals lifting crypto/mining stocks (Riot-Anthropic $9.1B deal), M&A wave across sectors: MarineMax (+46%) and Varex Imaging (+48%) acquired, Markets cautious ahead of CPI/PPI inflation data; Strait of Hormuz/oil uncertainty
+
+| Stock | Rec | Price | Target | vs 52-Wk High |
+|-------|-----|-------|--------|---------------|
+| VREX ⭐ | Buy | $18.58 | $18.90 (+1.7%) | -0.3% below high ($18.63) |
+| HZO ⭐ | Buy | $52.46 | n/a | New ATH at $52.46 |
+| HYLN | Buy | $3.92 | n/a | -53.8% below high ($8.49) |
+| RIOT | Buy | $20.24 | n/a | -33.2% below high ($30.32) |
+| APO | Buy | $140.28 | n/a | -8.5% below high ($153.29) |
+| JBL | Buy | $356.61 | n/a | -16.9% below high ($428.93) |
+| SPCX ⭐ | Hold | $133.29 | n/a | -40.9% below high ($225.64) |
+| APP ⭐ | Hold | $318.68 | n/a | -57.3% below high ($745.61) |
+| HIMS ⭐ | Hold | $30.51 | n/a | -53.3% below high ($65.30) |
+| ONON ⭐ | Hold | $30.91 | n/a | -40.8% below high ($52.20) |
+| INTC ⭐ | Hold | $97.71 | n/a | -31.4% below high ($142.35) |
+| SMCI ⭐ | Hold | $31.60 | n/a | -46.2% below high ($58.78) |
+| ABNB ⭐ | Hold | $184.98 | n/a | -1.1% below high ($187.12) |
+| SPOT ⭐ | Buy | $501.00 | n/a | -33.0% below high ($748.30) |
+
+### 2026-08-10 (recovered) | Mixed | M&A surge: two major buyout deals (Varex/Teledyne, MarineMax/Blackstone), Middle East oil supply risk: Iran Strait of Hormuz uncertainty lifts energy stocks, AI photonics sell-off: pre-earnings profit-taking in Coherent and Lumentum, Enterprise storage upgrade cycle: Morgan Stanley upgrades HPE and NetApp
+
+| Stock | Rec | Price | Target | vs 52-Wk High |
+|-------|-----|-------|--------|---------------|
+| VREX | Buy | $18.46 | n/a | -0.2% below high ($18.49) |
+| HZO | Buy | $52.12 | n/a | -0.0% below high ($52.13) |
+| BW | Buy | $8.88 | n/a | -59.7% below high ($22.03) |
+| HPE ⭐ | Buy | $54.68 | $69.00 (+26.2%) | -14.9% below high ($64.25) |
+| OXY ⭐ | Buy | $58.65 | n/a | -13.0% below high ($67.45) |
+| MPC ⭐ | Buy | $320.32 | n/a | -2.0% below high ($326.92) |
+| XOM ⭐ | Hold | $159.79 | n/a | -9.4% below high ($176.41) |
+| GLW ⭐ | Hold | $157.76 | n/a | -42.0% below high ($271.78) |
+| LITE ⭐ | Hold | $813.51 | n/a | -25.1% below high ($1,085.68) |
+| COHR | Hold | $325.15 | n/a | -26.1% below high ($440.00) |
+| UPWK | Hold | $9.83 | n/a | -57.0% below high ($22.84) |
+| NTAP ⭐ | Buy | $198.72 | $173.00 (-12.9%) | -1.8% below high ($202.27) |
+| MNDY ⭐ | Hold | $88.62 | n/a | -59.9% below high ($220.80) |
+
+### 2026-08-07 (recovered) | Bullish | July Nonfarm Payrolls fell -23K vs +80K estimate, reducing Fed rate-hike fears and lifting rate-sensitive sectors, Strong software/tech earnings: Atlassian, Doximity, Cloudflare, and Airbnb all delivered decisive Q2/Q4 beats with raised guidance, AI infrastructure demand drives upgrades for SpaceX and Cloudflare while Trade Desk disappoints
+
+| Stock | Rec | Price | Target | vs 52-Wk High |
+|-------|-----|-------|--------|---------------|
+| DOCS ⭐ | Buy | $27.40 | n/a | -64.2% below high ($76.51) |
+| TEAM ⭐ | Buy | $149.07 | n/a | -21.4% below high ($189.69) |
+| NTRA | Buy | $322.10 | n/a | -0.3% below high ($323.01) |
+| NET ⭐ | Buy | $300.27 | n/a | -7.5% below high ($324.73) |
+| ABNB ⭐ | Buy | $178.07 | n/a | -0.2% below high ($178.48) |
+| SPCX ⭐ | Buy | $133.11 | n/a | -41.0% below high ($225.64) |
+| TTD ⭐ | Hold | $13.80 | n/a | -84.9% below high ($91.45) |
+| AKAM ⭐ | Hold | $110.54 | n/a | -33.2% below high ($165.45) |
+| VST | Hold | $140.59 | n/a | -36.0% below high ($219.82) |
+| OKLO ⭐ | Hold | $48.42 | n/a | -75.0% below high ($193.84) |
+| ETSY | Buy | $85.55 | $100.00 (+16.9%) | -2.8% below high ($87.97) |
+| BKR | Buy | $61.55 | $70.00 (+13.7%) | -12.6% below high ($70.41) |
+| CART | Buy | $50.17 | n/a | -6.2% below high ($53.50) |
+| HUBS | Hold | $210.45 | n/a | -60.0% below high ($525.51) |
+| WEN ⭐ | Hold | $7.69 | n/a | -29.1% below high ($10.84) |
+
+### 2026-08-06 (recovered) | Mixed | Earnings season producing extreme moves - big beats (OSCR +12%, CRL +11%) offset by punishing misses (UWMC -35%, HONA -24%, DDOG -16%), Oil prices spike toward $100/barrel on Iran Strait of Hormuz fears, lifting energy sector, FDA approves first-ever mRNA flu vaccine (Moderna mFlusiva), unlocking broader mRNA pipeline
+
+| Stock | Rec | Price | Target | vs 52-Wk High |
+|-------|-----|-------|--------|---------------|
+| UWMC | Hold | $1.20 | n/a | -83.2% below high ($7.14) |
+| HONA | Hold | $156.47 | n/a | -47.4% below high ($297.50) |
+| APP ⭐ | Hold | $335.67 | n/a | -55.0% below high ($745.61) |
+| DDOG ⭐ | Hold | $229.29 | n/a | -21.7% below high ($292.72) |
+| PTON | Hold | $5.51 | n/a | -40.1% below high ($9.20) |
+| FISV ⭐ | Hold | $54.11 | n/a | -61.5% below high ($140.42) |
+| ZG | Hold | $33.76 | n/a | -62.6% below high ($90.22) |
+| OSCR | Buy | $26.54 | n/a | -19.8% below high ($33.10) |
+| DEO | Buy | $92.80 | n/a | -20.3% below high ($116.41) |
+| MRNA ⭐ | Hold | $53.86 | n/a | -37.1% below high ($85.60) |
+| XOM ⭐ | Hold | $154.84 | n/a | -12.2% below high ($176.41) |
+| CVX ⭐ | Hold | $189.23 | n/a | -11.9% below high ($214.71) |
+| CRL ⭐ | Buy | $265.51 | n/a | -0.9% below high ($268.00) |
+| GPN | Buy | $87.69 | $110.00 (+25.4%) | -3.5% below high ($90.85) |
+| PODD ⭐ | Hold | $139.30 | n/a | -60.7% below high ($354.88) |
+
+### 2026-08-05 (recovered) | Mixed | Earnings season bifurcation: industrials and pharma beat while ad-tech disappoints, AI monetization divergence: Palantir surges on enterprise AI demand; AppLovin misses on revenue, GLP-1 / weight-loss drugs remain structural growth story as Eli Lilly raises full-year guidance
+
+| Stock | Rec | Price | Target | vs 52-Wk High |
+|-------|-----|-------|--------|---------------|
+| PLTR ⭐ | Buy | $158.43 | n/a | -23.7% below high ($207.52) |
+| APP ⭐ | Hold | $417.80 | n/a | -44.0% below high ($745.61) |
+| SHOP ⭐ | Buy | $144.24 | n/a | -20.8% below high ($182.19) |
+| PODD | Hold | $133.26 | n/a | -62.4% below high ($354.88) |
+| LLY ⭐ | Hold | $1,169.86 | n/a | -6.4% below high ($1,249.45) |
+| CAT ⭐ | Buy | $871.08 | n/a | -18.9% below high ($1,073.46) |
+| QLYS | Buy | $183.25 | n/a | -9.1% below high ($201.54) |
+| CRL | Buy | $260.72 | n/a | -2.7% below high ($267.99) |
+| DIS ⭐ | Hold | $101.76 | n/a | -15.0% below high ($119.78) |
+| WDC ⭐ | Hold | $519.17 | n/a | -35.1% below high ($799.87) |
+| MELI ⭐ | Hold | $1,922.57 | n/a | -24.6% below high ($2,548.50) |
+| BMY ⭐ | Buy | $63.63 | $75.00 (+17.9%) | -6.6% below high ($68.10) |
+| ELF ⭐ | Buy | $86.37 | $113.00 (+30.8%) | -42.8% below high ($150.99) |
+| BBY ⭐ | Hold | $84.50 | $85.00 (+0.6%) | -7.4% below high ($91.27) |
+
+### 2026-08-04 (recovered) | Bullish | AI earnings blowout driving record highs (Palantir +27%, AMD +8%, Astera Labs +11%), US-Iran Hormuz deal talks send oil down 3-4%, boosting risk sentiment to record S&P/Nasdaq closes, Industrial earnings strength (Caterpillar +8%, Gartner +18%, Zebra Technologies +22%) offset by selective misses
+
+| Stock | Rec | Price | Target | vs 52-Wk High |
+|-------|-----|-------|--------|---------------|
+| PLTR ⭐ | Buy | $162.66 | n/a | -21.6% below high ($207.52) |
+| ZBRA ⭐ | Buy | $368.83 | n/a | -0.3% below high ($369.79) |
+| IT | Buy | $185.79 | n/a | -44.9% below high ($337.29) |
+| MOVE | Buy | $13.73 | n/a | -48.6% below high ($26.72) |
+| APTV | Hold | $47.72 | n/a | -46.3% below high ($88.93) |
+| NRG | Hold | $117.04 | n/a | -38.4% below high ($189.96) |
+| SPCX ⭐ | Hold | $125.33 | n/a | -44.5% below high ($225.64) |
+| AMD ⭐ | Buy | $518.58 | n/a | -11.3% below high ($584.73) |
+| AMZN ⭐ | Hold | $277.42 | n/a | -3.4% below high ($287.20) |
+| SNDK ⭐ | Hold | $1,427.62 | n/a | -39.4% below high ($2,354.39) |
+| SNAP ⭐ | Hold | $5.79 | n/a | -39.4% below high ($9.55) |
+| ALAB ⭐ | Buy | $361.67 | n/a | -27.6% below high ($499.48) |
+| CAT ⭐ | Hold | $876.54 | n/a | -18.3% below high ($1,073.46) |
+
 ### 2026-08-03 | Bullish | AI earnings supercycle: Amazon AWS beats by wide margin, CoreWeave surges on strong demand, Iran diplomacy collapses oil prices, lifting airlines and travel stocks to session highs, Mega-pharma M&A shock: AstraZeneca and Bristol Myers in reported $400B merger talks
 
 | Stock | Rec | Price | Target | vs 52-Wk High |
