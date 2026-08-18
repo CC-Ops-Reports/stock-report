@@ -1,135 +1,129 @@
 {
-  "report_date": "2026-08-03",
+  "report_date": "2026-08-17",
   "batch": 1,
-  "market_tone": "Bullish",
+  "market_tone": "Bearish",
   "key_themes": [
-    "AI earnings supercycle: Amazon AWS beats by wide margin, CoreWeave surges on strong demand",
-    "Iran diplomacy collapses oil prices, lifting airlines and travel stocks to session highs",
-    "Mega-pharma M&A shock: AstraZeneca and Bristol Myers in reported $400B merger talks"
+    "Retail earnings week — Walmart, Home Depot, Target, Lowe's all report this week, consumer health in focus after weaker-than-expected retail sales",
+    "AI memory upgrade cycle — Micron upgraded to Buy with $1,250 target on sold-out HBM capacity; SanDisk and Intel surging premarket",
+    "US-Iran tensions lifting oil prices and pushing 30-year Treasury yield to multi-decade highs, pressuring equities broadly"
   ],
-  "sp500": {
-    "value": "7,600.50",
-    "change": "+1.48%"
-  },
-  "nasdaq": {
-    "value": "25,913.90",
-    "change": "+2.10%"
-  },
+  "sp500": {"value": "7,745.06", "change": "-0.52%"},
+  "nasdaq": {"value": "26,644.91", "change": "-0.32%"},
   "stocks": [
     {
-      "ticker": "AMZN",
-      "company": "Amazon.com",
-      "discussion_driver": "Amazon reported a Q2 2026 blowout with AWS revenue surging 37% YoY to $42.2B and total revenue of $200.6B, driving a 15%+ single-day surge on July 31 that pushed market cap above $3 trillion for the first time. The rally continued into Aug 3 with AMZN closing at $286.16, setting a new all-time high, as Wall Street priced in AI infrastructure dominance and the company's $35B OpenAI partnership added further upside speculation.",
+      "ticker": "AAPL",
+      "company": "Apple Inc.",
+      "discussion_driver": "Rothschild & Co Redburn upgraded Apple to Buy from Neutral today, raising its price target to $400 from $260, citing the upcoming foldable iPhone at a $2,199 price point and a refreshed Apple Intelligence platform expected in September. The upgrade adds to a growing bullish analyst chorus (27 of 46 analysts rate Buy) even as the stock trades 11% below its July 52-week high of $344.57.",
       "bull_case": [
-        "AWS revenue grew 37% YoY to $42.2B in Q2 2026, demonstrating continued cloud infrastructure dominance and accelerating AI-driven enterprise demand well above the 31% consensus estimate",
-        "$35B OpenAI strategic partnership unlocks new AI services revenue streams across AWS, with substantial monetization potential across enterprise and consumer segments"
+        "Foldable iPhone launch at ~$2,199 ASP creates a new premium hardware upgrade cycle, expanding average selling prices and targeting high-end consumers upgrading from flat iPhones",
+        "Apple Intelligence platform refresh deepens ecosystem stickiness and drives higher-margin services revenue, reinforcing growth well beyond hardware cycles"
       ],
       "bear_case": [
-        "RSI near 80 after a 15%+ single-day earnings surge signals extreme short-term overbought conditions, raising near-term pullback risk for new buyers at post-surge levels",
-        "Pre-earnings consensus price target of ~$296 offers only ~3% upside from the post-earnings price of $286; analyst target refresh is needed to confirm continued conviction at current levels"
+        "RSI at 39.7 and stock already -11.2% off its 52-week high signal near-term momentum weakness in a broadly bearish market environment",
+        "Trailing PE of 35x leaves limited margin of safety if foldable iPhone demand disappoints or macro conditions further pressure discretionary consumer spending"
       ],
       "recommendation": "Buy",
-      "current_price": "$286.16",
-      "price_target": "$296.00 (+3.4%)",
-      "pe_ratio": "21.84",
-      "rsi": "~80 (overbought post-earnings)",
-      "vs_52wk_high": "New ATH at $286.16 (+2.7% vs prior high of $278.56 on May 5, 2026)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Consumer Discretionary / Cloud Technology",
-      "sources": ["CNBC", "TradingKey", "GuruFocus", "Motley Fool", "Yahoo Finance", "Vantage Markets"],
-      "price_history_5d": [231.43, 233.00, 235.50, 271.58, 286.16]
-    },
-    {
-      "ticker": "PLTR",
-      "company": "Palantir Technologies",
-      "discussion_driver": "Palantir delivered its 8th consecutive earnings beat in Q2 2026, posting $1.94B in revenue (+93% YoY) and EPS of $0.41 (vs $0.33 expected), with US commercial AI revenue surging 149% YoY. CEO Alex Karp called results 'otherworldly.' The stock rose ~4% in regular trading to $127.79 on Aug 3 and then surged ~10% in after-hours to ~$140 as full-year guidance was raised to $8.16B vs the $7.65B prior consensus.",
-      "bull_case": [
-        "Q2 2026 EPS beat of 24% with US commercial revenue up 149% YoY demonstrates explosive enterprise AI platform adoption across government and commercial verticals",
-        "Full-year revenue guidance raised to $8.16B (vs prior consensus of $7.65B), projecting ~82% revenue growth as AI platform monetization accelerates across AIP deployments"
-      ],
-      "bear_case": [
-        "Trailing P/E of 133x remains extreme even on 93% revenue growth, leaving no margin for execution errors or any deceleration in AI spending across its government and commercial customer base",
-        "Stock trades 38% below its 52-week high of $207.52 despite strong fundamentals, indicating that institutional investors remain cautious on valuation at these levels"
-      ],
-      "recommendation": "Buy",
-      "current_price": "$127.79",
-      "price_target": "$182.20 (+42.6%)",
-      "pe_ratio": "133.1",
-      "rsi": "41.2",
-      "vs_52wk_high": "-38.5% below high ($207.52)",
+      "current_price": "$305.93",
+      "price_target": "$335.00 (+9.5%)",
+      "pe_ratio": "34.97",
+      "rsi": "39.7",
+      "vs_52wk_high": "-11.2% below high ($344.57)",
       "analyst_rating": "Buy",
-      "sector": "Technology - AI / Enterprise Software",
-      "sources": ["MarketBeat", "TipRanks", "247 Wall St.", "TradingKey", "Yahoo Finance", "GuruFocus"],
-      "price_history_5d": [124.50, 123.80, 122.26, 123.06, 127.79]
+      "sector": "Technology - Consumer Electronics",
+      "sources": ["Benzinga", "MacDailyNews", "Seeking Alpha", "247 Wall St.", "stockanalysis.com", "tickzen.app"],
+      "price_history_5d": [302.38, 305.93]
     },
     {
-      "ticker": "CRWV",
-      "company": "CoreWeave",
-      "discussion_driver": "CoreWeave surged 16-19% on Aug 3 driven by two catalysts: Truist upgraded the stock to Buy (from Hold) with a $126 target citing 58% upside after a 42% pullback from the 52-week high, and the company announced a new Leidos strategic partnership launching CoreWeave Federal for U.S. government and defense AI workloads. A concurrent $8.5B loan facility expansion signals aggressive infrastructure buildout as AI compute demand accelerates.",
+      "ticker": "SPCX",
+      "company": "SpaceX",
+      "discussion_driver": "SpaceX shares surged 5.66% on Aug 17 as feared heavy insider selling failed to materialize despite 319M shares becoming eligible to trade on Aug 20. The stock has rebounded sharply from a sub-$105 low after beating Q2 revenue estimates ($7.81B vs $6.93B expected) in its first public earnings report since the June 2026 IPO at $135.",
       "bull_case": [
-        "Truist Buy upgrade with $126 target cites 58% upside potential as AI compute demand accelerates and a wide valuation gap vs smaller cloud peers remains underappreciated",
-        "New Leidos government defense partnership opens CoreWeave Federal to high-margin, sticky U.S. defense and intelligence AI workloads, diversifying revenue beyond commercial hyperscaler contracts"
+        "Beat Q2 revenue expectations ($7.81B vs $6.93B consensus) in its first public earnings report, establishing early credibility and a strong top-line growth trajectory",
+        "Starlink global satellite internet and commercial launch services represent massive underpenetrated markets with recurring revenue potential that could drive significant margin expansion"
       ],
       "bear_case": [
-        "Stock is 44% below its 52-week high and the company remains unprofitable; $8.5B in loan facilities creates significant balance sheet risk if the AI spending cycle decelerates",
-        "Heavy GPU infrastructure CAPEX requirements create execution risk if customer concentration among hyperscalers increases or if competing AI cloud providers scale rapidly"
+        "Company is currently unprofitable (trailing PE -62.80), requiring heavy ongoing capital investment in Starship development and Starlink constellation that limits near-term free cash flow",
+        "319M insider shares eligible to trade on Aug 20 represent a substantial supply overhang; sustained buying pressure will be needed to absorb potential insider distribution"
       ],
       "recommendation": "Speculative Buy",
-      "current_price": "$85.76",
-      "price_target": "$127.64 (+48.8%)",
-      "pe_ratio": "N/A",
+      "current_price": "$140.00",
+      "price_target": "$227.00 (+62.1%)",
+      "pe_ratio": "-62.80",
+      "rsi": "48.66",
+      "vs_52wk_high": "-37.9% below high ($225.64)",
+      "analyst_rating": "Buy",
+      "sector": "Industrials - Aerospace & Defense",
+      "sources": ["TipRanks", "TradingKey", "TheStreet", "CNBC", "MarketBeat", "investing.com"],
+      "price_history_5d": []
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk",
+      "discussion_driver": "SanDisk surged 7.39% in premarket trading on Aug 17, riding AI memory infrastructure momentum alongside Micron's upgrade. The company's Aug 13 Investor Day set ambitious long-term targets — mid-to-high-teens revenue growth, ~80% gross margins, and 50% adjusted FCF margins by FY2028-2030 — reinforcing the Strong Buy consensus from 22 analysts with an average target of $2,053.50.",
+      "bull_case": [
+        "Investor Day targets (mid-to-high-teens revenue growth, 80% gross margins, 50% FCF margins by FY2028-2030) signal strong management confidence in sustained AI-driven NAND flash demand",
+        "Strong Buy consensus from 22 analysts with average target of $2,053.50 implies ~21% upside even after a 35% surge in the prior week"
+      ],
+      "bear_case": [
+        "Stock has already fallen ~28% from its $2,354.39 June 52-week high despite strong fundamental momentum, reflecting investor concern about sustainability of AI infrastructure spending",
+        "Cyclical NAND flash memory market is subject to supply/demand swings; any slowdown in AI hyperscaler capex could quickly compress margins and pricing power"
+      ],
+      "recommendation": "Buy",
+      "current_price": "$1,699.00",
+      "price_target": "$2,053.50 (+20.9%)",
+      "pe_ratio": "23.7",
       "rsi": "N/A",
-      "vs_52wk_high": "-44.0% below high ($153.20)",
-      "analyst_rating": "Moderate Buy",
-      "sector": "Technology - AI Cloud Infrastructure",
-      "sources": ["TipRanks", "CNBC", "TimothySykes", "247 Wall St.", "Benzinga", "StocksToTrade"],
-      "price_history_5d": [66.72, 73.90, 71.77, 85.76]
-    },
-    {
-      "ticker": "AZN",
-      "company": "AstraZeneca",
-      "discussion_driver": "AstraZeneca shares dropped 7-9% on Aug 3 after the Financial Times and Bloomberg reported preliminary merger discussions with Bristol Myers Squibb that could create a combined $400B pharmaceutical company. Analysts broadly questioned the strategic rationale, citing overlapping oncology pipelines and intense antitrust scrutiny risk in the U.S. and EU. Both companies declined to comment, leaving investors pricing in significant deal uncertainty as AZN approached oversold territory.",
-      "bull_case": [
-        "83% analyst buy consensus and Strong Buy rating reflect a best-in-class oncology pipeline (Tagrisso, Imfinzi, Enhertu) with multiple blockbuster drugs driving sustained revenue growth independent of any merger",
-        "Post-merger-scare pullback of ~8% creates an attractive entry point with ~34% upside to analyst consensus target of $213.69 if merger concerns fade or talks are formally terminated"
-      ],
-      "bear_case": [
-        "Proposed $400B merger with BMY raises serious acquirer premium risk and strategic dilution concerns, as AZN would likely need to issue equity at a discount to fund the deal",
-        "Overlapping oncology portfolios between AZN and BMY would face prolonged antitrust scrutiny in the U.S. and EU, creating years of regulatory uncertainty and management distraction"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$159.20",
-      "price_target": "$213.69 (+34.2%)",
-      "pe_ratio": "27.34",
-      "rsi": "~32 (approaching oversold)",
-      "vs_52wk_high": "-25.2% below high ($212.71)",
+      "vs_52wk_high": "-27.8% below high ($2,354.39)",
       "analyst_rating": "Strong Buy",
-      "sector": "Healthcare - Pharmaceuticals",
-      "sources": ["Bloomberg", "CNBC", "Benzinga", "QZ", "DirectorsTalkInterviews", "MacroTrends"],
-      "price_history_5d": [172.48, 171.50, 170.80, 170.90, 159.20]
+      "sector": "Technology - Data Storage & Memory",
+      "sources": ["CNBC", "StockTwits", "Forbes", "FX Leaders", "stockanalysis.com", "MarketBeat"],
+      "price_history_5d": [1528.11, 1641.11]
     },
     {
-      "ticker": "BMY",
-      "company": "Bristol-Myers Squibb",
-      "discussion_driver": "Bristol-Myers Squibb surged intraday ~6% on Aug 3, reaching a high of $69.20, on reports of preliminary merger discussions with AstraZeneca that could create a combined $400B pharmaceutical giant. The deal would unite BMY's Opdivo/Eliquis franchise with AZN's Tagrisso/Imfinzi oncology portfolio. BMY closed at $65.47, near its 52-week high of $65.66, with gains entirely driven by M&A premium speculation rather than fundamental catalysts.",
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "discussion_driver": "New Street Research upgraded Micron to Buy from Neutral, raising its target to $1,250 and citing a HBM market that is 'remarkably tight' with 2027 capacity already fully allocated to AI customers. The stock crossed $1,000 for the first time since July on Aug 17, up ~240% year-to-date, as Wall Street's average analyst target reaches $1,568.",
       "bull_case": [
-        "AstraZeneca merger premium speculation could drive additional near-term upside; a deal would likely value BMY at a significant premium to its current ~$133B market cap given its oncology and cardiovascular portfolio breadth",
-        "Stock up ~18% YTD in 2026, underpinned by Opdivo+Yervoy combination approvals and Breyanzi cell therapy growth, demonstrating positive fundamental momentum independent of M&A"
+        "HBM market is 'remarkably tight' with 2027 production capacity already sold out to AI hyperscalers, providing exceptional revenue visibility and strong pricing power through the cycle",
+        "Micron is up 240% YTD with analyst targets ranging from $1,150 (Citi) to $1,625 (UBS), reflecting transformational demand for high-bandwidth memory in AI accelerator systems"
       ],
       "bear_case": [
-        "Consensus Hold rating with price target near the current price of $65.47 signals limited fundamental upside outside of M&A speculation; 18 of 28 analysts rate it Hold",
-        "If AZN merger talks collapse — historically common for early-stage deal reports — the M&A premium will unwind rapidly, potentially returning BMY to the low-to-mid $60s"
+        "Stock still trades 18.7% below its $1,255 52-week high despite massive YTD gains, suggesting the market sees meaningful valuation risk if AI spending moderates",
+        "Memory semiconductors remain cyclical; a slowdown in AI hyperscaler capex or emergence of alternative memory architectures could reverse the current supply tightness"
+      ],
+      "recommendation": "Buy",
+      "current_price": "$1,020.38",
+      "price_target": "$1,568.39 (+53.7%)",
+      "pe_ratio": "21.2",
+      "rsi": "51.08",
+      "vs_52wk_high": "-18.7% below high ($1,255.00)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - Semiconductors",
+      "sources": ["TheStreet", "Yahoo Finance", "Benzinga", "TimothySykes", "StocksToTrade", "MarketBeat", "GuruFocus"],
+      "price_history_5d": [971.66, 1020.38]
+    },
+    {
+      "ticker": "INTC",
+      "company": "Intel Corporation",
+      "discussion_driver": "Intel was named a CNBC premarket mover on Aug 17, with investor Dan Niles reiterating it as his favorite chip bet and predicting the AI infrastructure rally will run at least another year. Despite the bullish narrative, Intel trades at $103.54 with a Hold consensus from 48 analysts as the market awaits concrete evidence of market share recovery against AMD and Nvidia in AI and data center workloads.",
+      "bull_case": [
+        "High-profile bull Dan Niles reiterated Intel as his top chip pick, calling the AI infrastructure rally likely to run another year — lending credibility to Intel's foundry and AI chip recovery strategy",
+        "Analyst consensus target of $114.88 represents ~11% upside, and a data center recovery could re-rate the stock toward its 52-week high of $142.35"
+      ],
+      "bear_case": [
+        "Intel is currently unprofitable (trailing PE -49.55) and its foundry transformation requires massive capital investment while AMD and TSMC maintain significant competitive advantages in advanced process nodes",
+        "Stock is 27.3% below its 52-week high of $142.35, reflecting persistent investor skepticism about Intel's ability to regain semiconductor leadership amid intense competition"
       ],
       "recommendation": "Hold",
-      "current_price": "$65.47",
-      "price_target": "$65.38 (-0.1%)",
-      "pe_ratio": "9.36",
-      "rsi": "52.80",
-      "vs_52wk_high": "-0.3% below high ($65.66)",
+      "current_price": "$103.54",
+      "price_target": "$114.88 (+10.9%)",
+      "pe_ratio": "-49.55",
+      "rsi": "43.33",
+      "vs_52wk_high": "-27.3% below high ($142.35)",
       "analyst_rating": "Hold",
-      "sector": "Healthcare - Pharmaceuticals",
-      "sources": ["Benzinga", "DirectorsTalkInterviews", "StockAnalysis", "Yahoo Finance", "MacroTrends"],
-      "price_history_5d": [63.20, 63.80, 64.20, 64.86, 65.47]
+      "sector": "Technology - Semiconductors",
+      "sources": ["CNBC", "StockTwits", "stockanalysis.com", "247 Wall St.", "GuruFocus", "TipRanks"],
+      "price_history_5d": [102.50, 103.54]
     }
   ]
 }
