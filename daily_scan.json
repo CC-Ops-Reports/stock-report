@@ -1,159 +1,167 @@
 {
-  "report_date": "2026-08-17",
+  "report_date": "2026-08-18",
   "market_tone": "Bearish",
   "key_themes": [
-    "Retail earnings week \u2014 Walmart, Home Depot, Target, Lowe's all report this week, consumer health in focus after weaker-than-expected retail sales",
-    "AI memory upgrade cycle \u2014 Micron upgraded to Buy with $1,250 target on sold-out HBM capacity; SanDisk and Intel surging premarket",
-    "US-Iran tensions lifting oil prices and pushing 30-year Treasury yield to multi-decade highs, pressuring equities broadly"
+    "AI hardware/optics selloff as 30-year Treasury hits 19-year high, compressing growth valuations",
+    "Retail earnings week kicks off with Home Depot beat, but rising yields and Klarna guidance cut weigh on sentiment",
+    "Energy M&A heats up as KKR bids $9B for UGI, tied to surging data center power demand"
   ],
   "sp500": {
-    "value": "7,745.06",
-    "change": "-0.52%"
+    "value": "7,691.76",
+    "change": "-0.69%"
   },
   "nasdaq": {
-    "value": "26,644.91",
-    "change": "-0.32%"
+    "value": "~24,200",
+    "change": "-1.3%"
   },
   "stocks": [
     {
-      "ticker": "AAPL",
-      "company": "Apple Inc.",
-      "reason": "Rothschild & Co Redburn upgraded to Buy from Neutral today, raising price target to $400 from $260, citing upcoming foldable iPhone ($2,199 price point) and refreshed Apple Intelligence platform expected September",
-      "category": "upgrade",
+      "ticker": "KLAR",
+      "company": "Klarna Group",
+      "reason": "BNPL stock plunged 22% after cutting full-year revenue guidance to $4.08-4.16B from above $4.34B, blaming European slowdown; Q2 beat was overshadowed by the forecast cut",
+      "category": "earnings",
       "sources": [
-        "Benzinga",
-        "MacDailyNews",
-        "Seeking Alpha",
-        "247 Wall St."
-      ]
-    },
-    {
-      "ticker": "SPCX",
-      "company": "SpaceX",
-      "reason": "Shares rose 5.66% today as fears of heavy insider selling failed to materialize despite another 319M insider shares becoming eligible to trade on Aug 20; stock has rebounded from sub-$105 low to ~$148",
-      "category": "news",
-      "sources": [
-        "TipRanks",
-        "TradingKey",
-        "TheStreet"
-      ]
-    },
-    {
-      "ticker": "SNDK",
-      "company": "SanDisk",
-      "reason": "Up 7.39% in premarket trading today, riding AI memory infrastructure momentum alongside Micron upgrade; CNBC listed as a top premarket mover this morning",
-      "category": "sector",
-      "sources": [
-        "CNBC",
-        "StockTwits"
-      ]
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron Technology",
-      "reason": "New Street Research analyst Pierre Ferragu upgraded to Buy from Neutral on Friday, raising target to $1,250 (from ~$950 close); HBM market \"remarkably tight\" with 2027 capacity already allocated to AI customers",
-      "category": "upgrade",
-      "sources": [
-        "TheStreet",
         "Yahoo Finance",
-        "Benzinga"
+        "FX Leaders",
+        "MarketScreener"
       ]
     },
     {
-      "ticker": "INTC",
-      "company": "Intel Corporation",
-      "reason": "Named a CNBC premarket mover today; investor Dan Niles reiterated Intel as his favorite chip bet, calling the AI infrastructure rally likely to run at least another year",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "StockTwits"
-      ]
-    },
-    {
-      "ticker": "BABA",
-      "company": "Alibaba Group",
-      "reason": "Premarket mover today ahead of Aug 20 earnings; analysts watching whether Qwen AI momentum can offset four consecutive EPS misses; consensus expects ~8.6% revenue growth",
+      "ticker": "FN",
+      "company": "Fabrinet",
+      "reason": "Dropped ~20% midday despite Q4 record revenue of $1.316B (+45% YoY) as investors focused on weaker margins, negative free cash flow, and slower sequential growth guidance; dragged MRVL and APH lower",
       "category": "earnings",
       "sources": [
-        "CNBC",
-        "Investing.com",
-        "TradingKey"
-      ]
-    },
-    {
-      "ticker": "WDAY",
-      "company": "Workday",
-      "reason": "Down ~2.4% after double downgrade today: Deutsche Bank cut to Hold and BTIG moved to Neutral from Buy, both citing valuation after a 76% rebound from June lows; Silver Lake acquisition speculation added volatility",
-      "category": "downgrade",
-      "sources": [
-        "247 Wall St.",
         "Benzinga",
-        "Daily Trade Alert"
-      ]
-    },
-    {
-      "ticker": "SHOP",
-      "company": "Shopify",
-      "reason": "Down 3.13% today; Phillip Securities downgraded to Accumulate from Buy on valuation grounds, raising PT to $170 from $160 but citing capped near-term upside after rapid share price appreciation",
-      "category": "downgrade",
-      "sources": [
-        "TradingKey",
-        "Benzinga",
-        "Investing.com"
-      ]
-    },
-    {
-      "ticker": "OKTA",
-      "company": "Okta",
-      "reason": "Upgraded to Overweight from Equal Weight at Wells Fargo today with price target raised to $180 from $150; among Monday's top analyst calls",
-      "category": "upgrade",
-      "sources": [
-        "247 Wall St.",
-        "Daily Trade Alert"
-      ]
-    },
-    {
-      "ticker": "RDDT",
-      "company": "Reddit",
-      "reason": "Continued buying pressure today ahead of S&P 500 official inclusion tomorrow (Aug 18), replacing AvalonBay; index funds estimated to need ~16.7M shares; stock surged 15%+ last week on announcement",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "Forbes",
-        "Quartz"
-      ]
-    },
-    {
-      "ticker": "WMT",
-      "company": "Walmart",
-      "reason": "In focus today as earnings season's key consumer bellwether; reports Thursday Aug 20 before open; market watching for signs of consumer spending slowdown after Friday's weaker-than-expected retail sales data",
-      "category": "earnings",
-      "sources": [
-        "TheStreet",
-        "Fortune",
+        "24/7 Wall St",
         "Yahoo Finance"
       ]
     },
     {
       "ticker": "HD",
       "company": "Home Depot",
-      "reason": "Reports Tuesday Aug 18 before market open; alongside Target and Lowe's forms this week's retail earnings gauntlet testing consumer and housing sector health",
+      "reason": "Beat Q2 estimates with EPS of $4.92 vs $4.73 expected and revenue of $47.86B vs $47.27B; comparable sales +1.7%, online sales +11%; reaffirmed FY guidance but did not raise it",
       "category": "earnings",
       "sources": [
-        "TheStreet",
-        "Fortune",
-        "MarketScreener"
+        "Yahoo Finance",
+        "Investing.com",
+        "StockTitan"
       ]
     },
     {
-      "ticker": "DELL",
-      "company": "Dell Technologies",
-      "reason": "Wells Fargo reiterated Overweight and raised price target to $545 from $505 on Friday, citing AI data-center server demand and upcoming Nvidia Vera Rubin platform transition; stock continuing upward move today",
-      "category": "upgrade",
+      "ticker": "BIDU",
+      "company": "Baidu",
+      "reason": "Q2 big miss: EPS $7.15 vs $11.05 estimate; revenue $31.1B vs $32.8B estimate; GPU Cloud +283% YoY but AI capex tripled, pushing FCF to -$1.18B; online marketing revenue still falling 19%",
+      "category": "earnings",
+      "sources": [
+        "Quiver Quantitative",
+        "24/7 Wall St",
+        "Barchart"
+      ]
+    },
+    {
+      "ticker": "LZB",
+      "company": "La-Z-Boy",
+      "reason": "Tanked ~17% after hours on Q1 miss: EPS 43 cents down 9% YoY, adjusted operating income fell 20%",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "ChartMill"
+      ]
+    },
+    {
+      "ticker": "TOL",
+      "company": "Toll Brothers",
+      "reason": "Q3 earnings beat ($2.97 vs $2.93 EPS; revenue $2.65B vs $2.61B est.) but Q4 delivery guidance of 3,450-3,550 nearly matched the 3,508 consensus; shares dipped 0.3%",
+      "category": "earnings",
       "sources": [
         "Yahoo Finance",
-        "GuruFocus",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "KEYS",
+      "company": "Keysight Technologies",
+      "reason": "Q3 earnings well ahead of expectations: EPS $3.07 vs $2.48 estimate; revenue $1.85B vs $1.75B consensus; shares rose ~2% after hours",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
         "TipRanks"
+      ]
+    },
+    {
+      "ticker": "UGI",
+      "company": "UGI Corp",
+      "reason": "Shares surged ~13% after KKR made a $9B takeover bid at $42.50/share (21% premium), per WSJ report; data center electricity demand driving energy utility M&A",
+      "category": "news",
+      "sources": [
+        "Seeking Alpha",
+        "Yahoo Finance",
+        "WSJ via Pulse2"
+      ]
+    },
+    {
+      "ticker": "COHR",
+      "company": "Coherent Corp",
+      "reason": "Down ~11-12%, one of the S&P 500's three biggest decliners; AI optics sector rotated out sharply as the 30-year Treasury hit a 19-year high, crushing growth valuations after stock surged 276% over the past year",
+      "category": "sector",
+      "sources": [
+        "24/7 Wall St",
+        "Yahoo Finance",
+        "Benzinga"
+      ]
+    },
+    {
+      "ticker": "CIEN",
+      "company": "Ciena",
+      "reason": "Down ~10%, one of the day's worst S&P performers, as AI optical networking names sold off on rising bond yields and profit-taking; stock had run ~390% over the prior year",
+      "category": "sector",
+      "sources": [
+        "24/7 Wall St",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "TER",
+      "company": "Teradyne",
+      "reason": "Down ~9-10%, among S&P 500's three biggest decliners on the day; sold off alongside other AI-infrastructure hardware names as Treasury yields surged and risk appetite faded",
+      "category": "sector",
+      "sources": [
+        "24/7 Wall St",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "MRVL",
+      "company": "Marvell Technology",
+      "reason": "Fell ~8% \u2014 dragged lower by Fabrinet's earnings selloff and rising 30-year Treasury yields; stock had been up 176% YTD going into Tuesday, making it vulnerable to profit-taking",
+      "category": "sector",
+      "sources": [
+        "TIKR",
+        "24/7 Wall St",
+        "TradingKey"
+      ]
+    },
+    {
+      "ticker": "DUOL",
+      "company": "Duolingo",
+      "reason": "Jumped ~7% after dual analyst upgrades: DA Davidson raised to Buy with $160 target; KeyBanc upgraded to Overweight, citing underappreciated marketing and monetization changes",
+      "category": "upgrade",
+      "sources": [
+        "Financial Modeling Prep",
+        "Yahoo Finance",
+        "BigGo Finance"
+      ]
+    },
+    {
+      "ticker": "BBWI",
+      "company": "Bath & Body Works",
+      "reason": "Shares gapped up after Citigroup upgraded to Buy (target $25) citing favorable risk/reward ahead of Q2 earnings; JPMorgan also raised target to $24 from $22",
+      "category": "upgrade",
+      "sources": [
+        "24/7 Wall St",
+        "MarketBeat",
+        "FinancialContent"
       ]
     }
   ]
