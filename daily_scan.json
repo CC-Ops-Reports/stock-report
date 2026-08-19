@@ -1,167 +1,160 @@
 {
-  "report_date": "2026-08-18",
-  "market_tone": "Bearish",
+  "report_date": "2026-08-19",
+  "market_tone": "Mixed",
   "key_themes": [
-    "AI hardware/optics selloff as 30-year Treasury hits 19-year high, compressing growth valuations",
-    "Retail earnings week kicks off with Home Depot beat, but rising yields and Klarna guidance cut weigh on sentiment",
-    "Energy M&A heats up as KKR bids $9B for UGI, tied to surging data center power demand"
+    "mRNA cancer vaccine breakthrough \u2014 Moderna/Merck Phase 3 melanoma trial success marks first-ever late-stage win",
+    "Retail earnings divergence \u2014 Target raises full-year guidance while Lowe's DIY weakness drags outlook",
+    "Storage and AI-infrastructure selloff \u2014 Seagate, Western Digital, Coherent under heavy pressure"
   ],
   "sp500": {
-    "value": "7,691.76",
-    "change": "-0.69%"
+    "value": "7,715.00",
+    "change": "+0.31%"
   },
   "nasdaq": {
-    "value": "~24,200",
-    "change": "-1.3%"
+    "value": "26,350.00",
+    "change": "+0.23%"
   },
   "stocks": [
     {
-      "ticker": "KLAR",
-      "company": "Klarna Group",
-      "reason": "BNPL stock plunged 22% after cutting full-year revenue guidance to $4.08-4.16B from above $4.34B, blaming European slowdown; Q2 beat was overshadowed by the forecast cut",
-      "category": "earnings",
+      "ticker": "MRNA",
+      "company": "Moderna",
+      "reason": "Stock surged 143-177% \u2014 best day ever \u2014 after Phase 3 melanoma vaccine trial (Intismeran + Keytruda) met both primary and secondary endpoints in 1,100+ patient study, the first-ever positive late-stage mRNA cancer vaccine result",
+      "category": "news",
       "sources": [
         "Yahoo Finance",
-        "FX Leaders",
-        "MarketScreener"
+        "Bloomberg",
+        "CNBC",
+        "Motley Fool",
+        "Forbes"
       ]
     },
     {
-      "ticker": "FN",
-      "company": "Fabrinet",
-      "reason": "Dropped ~20% midday despite Q4 record revenue of $1.316B (+45% YoY) as investors focused on weaker margins, negative free cash flow, and slower sequential growth guidance; dragged MRVL and APH lower",
-      "category": "earnings",
+      "ticker": "MRK",
+      "company": "Merck",
+      "reason": "Stock rose ~13% as co-partner on Moderna's melanoma mRNA vaccine trial; Keytruda-plus-Intismeran combo cut recurrence significantly vs. Keytruda alone, strengthening Keytruda's franchise and Merck's pipeline",
+      "category": "news",
       "sources": [
-        "Benzinga",
-        "24/7 Wall St",
+        "Bloomberg",
+        "CNBC",
         "Yahoo Finance"
       ]
     },
     {
-      "ticker": "HD",
-      "company": "Home Depot",
-      "reason": "Beat Q2 estimates with EPS of $4.92 vs $4.73 expected and revenue of $47.86B vs $47.27B; comparable sales +1.7%, online sales +11%; reaffirmed FY guidance but did not raise it",
+      "ticker": "EL",
+      "company": "Estee Lauder",
+      "reason": "Stock jumped ~16% after Q2 CY2026 earnings beat \u2014 revenue $3.6B (+6% YoY, beat estimates), adjusted EPS doubled YoY \u2014 plus raised fiscal 2027 adjusted operating margin outlook, signaling continued turnaround momentum",
       "category": "earnings",
       "sources": [
-        "Yahoo Finance",
-        "Investing.com",
-        "StockTitan"
+        "StockStory",
+        "Proactive Investors",
+        "Schaeffer's Investment Research"
       ]
     },
     {
-      "ticker": "BIDU",
-      "company": "Baidu",
-      "reason": "Q2 big miss: EPS $7.15 vs $11.05 estimate; revenue $31.1B vs $32.8B estimate; GPU Cloud +283% YoY but AI capex tripled, pushing FCF to -$1.18B; online marketing revenue still falling 19%",
+      "ticker": "TGT",
+      "company": "Target",
+      "reason": "Q2 2026 earnings beat driven by tariff refunds ($752M, +$1.65/share boost); company raised full-year net sales growth guidance to ~5% (from ~4%) and lifted adjusted EPS outlook; stock up ~55% YTD",
       "category": "earnings",
       "sources": [
-        "Quiver Quantitative",
-        "24/7 Wall St",
-        "Barchart"
-      ]
-    },
-    {
-      "ticker": "LZB",
-      "company": "La-Z-Boy",
-      "reason": "Tanked ~17% after hours on Q1 miss: EPS 43 cents down 9% YoY, adjusted operating income fell 20%",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "ChartMill"
-      ]
-    },
-    {
-      "ticker": "TOL",
-      "company": "Toll Brothers",
-      "reason": "Q3 earnings beat ($2.97 vs $2.93 EPS; revenue $2.65B vs $2.61B est.) but Q4 delivery guidance of 3,450-3,550 nearly matched the 3,508 consensus; shares dipped 0.3%",
-      "category": "earnings",
-      "sources": [
-        "Yahoo Finance",
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "KEYS",
-      "company": "Keysight Technologies",
-      "reason": "Q3 earnings well ahead of expectations: EPS $3.07 vs $2.48 estimate; revenue $1.85B vs $1.75B consensus; shares rose ~2% after hours",
-      "category": "earnings",
-      "sources": [
+        "Bloomberg",
         "CNBC",
         "TipRanks"
       ]
     },
     {
-      "ticker": "UGI",
-      "company": "UGI Corp",
-      "reason": "Shares surged ~13% after KKR made a $9B takeover bid at $42.50/share (21% premium), per WSJ report; data center electricity demand driving energy utility M&A",
+      "ticker": "HD",
+      "company": "Home Depot",
+      "reason": "Q2 2026 earnings beat \u2014 revenue $41.8B (+4.8% YoY, +$630M above estimates), EPS surprised by +$0.19 \u2014 company reaffirmed full fiscal year guidance; stock gained ~1.5%",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Investing.com",
+        "TradingView"
+      ]
+    },
+    {
+      "ticker": "LOW",
+      "company": "Lowe's",
+      "reason": "Stock fell ~2% after Q2 2026 earnings revealed persistent DIY customer weakness; company lowered full-year revenue and earnings guidance despite beating Q2 estimates, citing elevated borrowing costs and weak housing turnover",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "MarketBeat",
+        "24/7 Wall St."
+      ]
+    },
+    {
+      "ticker": "KLAR",
+      "company": "Klarna Group",
+      "reason": "Stock plunged 19-22% after slashing 2026 revenue guidance to $4.08-4.16B (vs. $4.42B consensus) \u2014 citing ~$600M in currency headwinds and weak German consumer demand; stock now down 33% YTD despite Q2 revenue beat",
       "category": "news",
       "sources": [
+        "Yahoo Finance",
+        "GuruFocus",
+        "24/7 Wall St.",
+        "Bloomberg"
+      ]
+    },
+    {
+      "ticker": "STX",
+      "company": "Seagate Technology",
+      "reason": "Shares fell ~7.8% in a broad storage-sector selloff; declining HDD average selling prices and hyperscaler capex concentration risks weighed on sentiment amid sector-wide de-rating",
+      "category": "sector",
+      "sources": [
+        "Yahoo Finance",
+        "StockStory",
+        "Seeking Alpha"
+      ]
+    },
+    {
+      "ticker": "WDC",
+      "company": "Western Digital",
+      "reason": "Shares dropped ~6.9% as analysts flagged fiscal Q1 gross margin guidance (55-56%) lagging Seagate, risks from HAMR technology transition costs, and extreme customer concentration (top 10 = 73% of revenue)",
+      "category": "sector",
+      "sources": [
         "Seeking Alpha",
-        "Yahoo Finance",
-        "WSJ via Pulse2"
-      ]
-    },
-    {
-      "ticker": "COHR",
-      "company": "Coherent Corp",
-      "reason": "Down ~11-12%, one of the S&P 500's three biggest decliners; AI optics sector rotated out sharply as the 30-year Treasury hit a 19-year high, crushing growth valuations after stock surged 276% over the past year",
-      "category": "sector",
-      "sources": [
-        "24/7 Wall St",
-        "Yahoo Finance",
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "CIEN",
-      "company": "Ciena",
-      "reason": "Down ~10%, one of the day's worst S&P performers, as AI optical networking names sold off on rising bond yields and profit-taking; stock had run ~390% over the prior year",
-      "category": "sector",
-      "sources": [
-        "24/7 Wall St",
+        "TradingKey",
         "Yahoo Finance"
       ]
     },
     {
-      "ticker": "TER",
-      "company": "Teradyne",
-      "reason": "Down ~9-10%, among S&P 500's three biggest decliners on the day; sold off alongside other AI-infrastructure hardware names as Treasury yields surged and risk appetite faded",
+      "ticker": "COHR",
+      "company": "Coherent Corp.",
+      "reason": "Photonics/AI-infrastructure stock tumbled ~6.9-12% amid a risk-off rotation out of AI hardware names; peer Lumentum also fell ~9%; chipmakers broadly declined even as overall market rose",
       "category": "sector",
       "sources": [
-        "24/7 Wall St",
-        "CNBC"
+        "CNBC",
+        "Bloomberg"
       ]
     },
     {
-      "ticker": "MRVL",
-      "company": "Marvell Technology",
-      "reason": "Fell ~8% \u2014 dragged lower by Fabrinet's earnings selloff and rising 30-year Treasury yields; stock had been up 176% YTD going into Tuesday, making it vulnerable to profit-taking",
-      "category": "sector",
-      "sources": [
-        "TIKR",
-        "24/7 Wall St",
-        "TradingKey"
-      ]
-    },
-    {
-      "ticker": "DUOL",
-      "company": "Duolingo",
-      "reason": "Jumped ~7% after dual analyst upgrades: DA Davidson raised to Buy with $160 target; KeyBanc upgraded to Overweight, citing underappreciated marketing and monetization changes",
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "reason": "Upgraded today by analysts citing eased valuation risks after recent price correction, improved financial trajectory, and declining inventory signaling reduced cyclicality; AI memory demand outlook remains robust",
       "category": "upgrade",
       "sources": [
-        "Financial Modeling Prep",
-        "Yahoo Finance",
-        "BigGo Finance"
+        "Seeking Alpha",
+        "Daily Trade Alert"
       ]
     },
     {
-      "ticker": "BBWI",
-      "company": "Bath & Body Works",
-      "reason": "Shares gapped up after Citigroup upgraded to Buy (target $25) citing favorable risk/reward ahead of Q2 earnings; JPMorgan also raised target to $24 from $22",
-      "category": "upgrade",
+      "ticker": "DDOG",
+      "company": "Datadog",
+      "reason": "Downgraded today by analysts; specific rationale cited by Seeking Alpha alongside GS downgrade suggesting valuation concerns or slowing cloud spend growth outlook",
+      "category": "downgrade",
       "sources": [
-        "24/7 Wall St",
-        "MarketBeat",
-        "FinancialContent"
+        "Seeking Alpha",
+        "Daily Trade Alert"
+      ]
+    },
+    {
+      "ticker": "CVNA",
+      "company": "Carvana",
+      "reason": "Shares rose ~8.6% making it among the top S&P 500 gainers; consumer discretionary recovery narrative gaining momentum as used-car demand improves",
+      "category": "news",
+      "sources": [
+        "ChartMill",
+        "Bloomberg"
       ]
     }
   ]
