@@ -1,160 +1,149 @@
 {
-  "report_date": "2026-08-19",
-  "market_tone": "Mixed",
+  "report_date": "2026-08-20",
+  "market_tone": "Bearish",
   "key_themes": [
-    "mRNA cancer vaccine breakthrough \u2014 Moderna/Merck Phase 3 melanoma trial success marks first-ever late-stage win",
-    "Retail earnings divergence \u2014 Target raises full-year guidance while Lowe's DIY weakness drags outlook",
-    "Storage and AI-infrastructure selloff \u2014 Seagate, Western Digital, Coherent under heavy pressure"
+    "Retail earnings disappoint \u2014 Walmart misses on comp sales, guides lower",
+    "Crypto surge on Trump pro-crypto legislation push lifts Bitcoin-linked stocks",
+    "Rising Treasury yields pressure equities as bond relief rally fades"
   ],
   "sp500": {
-    "value": "7,715.00",
-    "change": "+0.31%"
+    "value": "7,641.16",
+    "change": "-0.87%"
   },
   "nasdaq": {
-    "value": "26,350.00",
-    "change": "+0.23%"
+    "value": "26,067.17",
+    "change": "-1.00%"
   },
   "stocks": [
     {
-      "ticker": "MRNA",
-      "company": "Moderna",
-      "reason": "Stock surged 143-177% \u2014 best day ever \u2014 after Phase 3 melanoma vaccine trial (Intismeran + Keytruda) met both primary and secondary endpoints in 1,100+ patient study, the first-ever positive late-stage mRNA cancer vaccine result",
+      "ticker": "WMT",
+      "company": "Walmart",
+      "reason": "Q2 U.S. comparable sales rose only 2.6% vs. 3.5% expected; Q3 adjusted EPS guidance also missed consensus, sending shares down 5%+ premarket",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Benzinga"
+      ]
+    },
+    {
+      "ticker": "DE",
+      "company": "Deere & Company",
+      "reason": "Reported stronger-than-expected quarterly results and raised the low end of its full-year profit outlook; shares jumped ~6%",
+      "category": "earnings",
+      "sources": [
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "ROST",
+      "company": "Ross Stores",
+      "reason": "Q2 FY2026 earnings beat: comp sales +10%, EPS $2.66 vs. $1.85-$1.93 guidance, benefiting from IEEPA tariff refunds; shares up 7%+ after hours",
+      "category": "earnings",
+      "sources": [
+        "PR Newswire",
+        "StockTitan"
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "company": "Alibaba",
+      "reason": "U.S.-listed shares fell ~3% after reporting a 75% drop in June-quarter profits due to heavy AI infrastructure spending",
+      "category": "earnings",
+      "sources": [
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "COIN",
+      "company": "Coinbase Global",
+      "reason": "Shares surged 6% as Bitcoin and ether rallied following President Trump push for crypto-friendly legislation",
       "category": "news",
       "sources": [
-        "Yahoo Finance",
-        "Bloomberg",
         "CNBC",
-        "Motley Fool",
-        "Forbes"
-      ]
-    },
-    {
-      "ticker": "MRK",
-      "company": "Merck",
-      "reason": "Stock rose ~13% as co-partner on Moderna's melanoma mRNA vaccine trial; Keytruda-plus-Intismeran combo cut recurrence significantly vs. Keytruda alone, strengthening Keytruda's franchise and Merck's pipeline",
-      "category": "news",
-      "sources": [
-        "Bloomberg",
-        "CNBC",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "EL",
-      "company": "Estee Lauder",
-      "reason": "Stock jumped ~16% after Q2 CY2026 earnings beat \u2014 revenue $3.6B (+6% YoY, beat estimates), adjusted EPS doubled YoY \u2014 plus raised fiscal 2027 adjusted operating margin outlook, signaling continued turnaround momentum",
-      "category": "earnings",
-      "sources": [
-        "StockStory",
-        "Proactive Investors",
-        "Schaeffer's Investment Research"
-      ]
-    },
-    {
-      "ticker": "TGT",
-      "company": "Target",
-      "reason": "Q2 2026 earnings beat driven by tariff refunds ($752M, +$1.65/share boost); company raised full-year net sales growth guidance to ~5% (from ~4%) and lifted adjusted EPS outlook; stock up ~55% YTD",
-      "category": "earnings",
-      "sources": [
-        "Bloomberg",
-        "CNBC",
-        "TipRanks"
-      ]
-    },
-    {
-      "ticker": "HD",
-      "company": "Home Depot",
-      "reason": "Q2 2026 earnings beat \u2014 revenue $41.8B (+4.8% YoY, +$630M above estimates), EPS surprised by +$0.19 \u2014 company reaffirmed full fiscal year guidance; stock gained ~1.5%",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Investing.com",
-        "TradingView"
-      ]
-    },
-    {
-      "ticker": "LOW",
-      "company": "Lowe's",
-      "reason": "Stock fell ~2% after Q2 2026 earnings revealed persistent DIY customer weakness; company lowered full-year revenue and earnings guidance despite beating Q2 estimates, citing elevated borrowing costs and weak housing turnover",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "MarketBeat",
-        "24/7 Wall St."
-      ]
-    },
-    {
-      "ticker": "KLAR",
-      "company": "Klarna Group",
-      "reason": "Stock plunged 19-22% after slashing 2026 revenue guidance to $4.08-4.16B (vs. $4.42B consensus) \u2014 citing ~$600M in currency headwinds and weak German consumer demand; stock now down 33% YTD despite Q2 revenue beat",
-      "category": "news",
-      "sources": [
-        "Yahoo Finance",
-        "GuruFocus",
-        "24/7 Wall St.",
-        "Bloomberg"
-      ]
-    },
-    {
-      "ticker": "STX",
-      "company": "Seagate Technology",
-      "reason": "Shares fell ~7.8% in a broad storage-sector selloff; declining HDD average selling prices and hyperscaler capex concentration risks weighed on sentiment amid sector-wide de-rating",
-      "category": "sector",
-      "sources": [
-        "Yahoo Finance",
-        "StockStory",
         "Seeking Alpha"
       ]
     },
     {
-      "ticker": "WDC",
-      "company": "Western Digital",
-      "reason": "Shares dropped ~6.9% as analysts flagged fiscal Q1 gross margin guidance (55-56%) lagging Seagate, risks from HAMR technology transition costs, and extreme customer concentration (top 10 = 73% of revenue)",
-      "category": "sector",
-      "sources": [
-        "Seeking Alpha",
-        "TradingKey",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "COHR",
-      "company": "Coherent Corp.",
-      "reason": "Photonics/AI-infrastructure stock tumbled ~6.9-12% amid a risk-off rotation out of AI hardware names; peer Lumentum also fell ~9%; chipmakers broadly declined even as overall market rose",
-      "category": "sector",
-      "sources": [
-        "CNBC",
-        "Bloomberg"
-      ]
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron Technology",
-      "reason": "Upgraded today by analysts citing eased valuation risks after recent price correction, improved financial trajectory, and declining inventory signaling reduced cyclicality; AI memory demand outlook remains robust",
-      "category": "upgrade",
-      "sources": [
-        "Seeking Alpha",
-        "Daily Trade Alert"
-      ]
-    },
-    {
-      "ticker": "DDOG",
-      "company": "Datadog",
-      "reason": "Downgraded today by analysts; specific rationale cited by Seeking Alpha alongside GS downgrade suggesting valuation concerns or slowing cloud spend growth outlook",
-      "category": "downgrade",
-      "sources": [
-        "Seeking Alpha",
-        "Daily Trade Alert"
-      ]
-    },
-    {
-      "ticker": "CVNA",
-      "company": "Carvana",
-      "reason": "Shares rose ~8.6% making it among the top S&P 500 gainers; consumer discretionary recovery narrative gaining momentum as used-car demand improves",
+      "ticker": "MSTR",
+      "company": "Strategy (MicroStrategy)",
+      "reason": "Jumped ~10% on crypto rally driven by Trump-backed pro-crypto legislation push",
       "category": "news",
       "sources": [
-        "ChartMill",
-        "Bloomberg"
+        "CNBC",
+        "Seeking Alpha"
+      ]
+    },
+    {
+      "ticker": "MARA",
+      "company": "MARA Holdings",
+      "reason": "Rose 6% alongside broader crypto-sector rally on Trump legislative push for crypto-friendly policy",
+      "category": "news",
+      "sources": [
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "CIFR",
+      "company": "American Bitcoin (Cipher Mining)",
+      "reason": "Shares rose nearly 7% in crypto sector surge tied to Trump administration pro-crypto legislation effort",
+      "category": "news",
+      "sources": [
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "MRK",
+      "company": "Merck & Co.",
+      "reason": "Upgraded to Overweight from Equal Weight at Morgan Stanley; price target lifted to $179 from $116 on drug pipeline strength",
+      "category": "upgrade",
+      "sources": [
+        "247 Wall St."
+      ]
+    },
+    {
+      "ticker": "ADI",
+      "company": "Analog Devices",
+      "reason": "Upgraded to Outperform from Market Perform at Bernstein with a $465 price target on improving semiconductor cycle outlook",
+      "category": "upgrade",
+      "sources": [
+        "247 Wall St."
+      ]
+    },
+    {
+      "ticker": "ETSY",
+      "company": "Etsy",
+      "reason": "Upgraded to Buy from Neutral at Bank of America with a $105 price target, citing improved monetization and resilient discretionary spending",
+      "category": "upgrade",
+      "sources": [
+        "247 Wall St."
+      ]
+    },
+    {
+      "ticker": "CCI",
+      "company": "Crown Castle",
+      "reason": "Upgraded to Overweight from Equal Weight at Barclays (PT trimmed to $85 from $92) on tower leasing fundamentals improvement",
+      "category": "upgrade",
+      "sources": [
+        "247 Wall St."
+      ]
+    },
+    {
+      "ticker": "ALL",
+      "company": "Allstate",
+      "reason": "Downgraded to Underperform from Market Perform at Keefe Bruyette; PT lowered to $250 from $255 on elevated claims concerns",
+      "category": "downgrade",
+      "sources": [
+        "247 Wall St."
+      ]
+    },
+    {
+      "ticker": "MRNA",
+      "company": "Moderna",
+      "reason": "Among biggest premarket movers; stock volatile around flu vaccine mFLUSIVA PDUFA date and Q2 revenue beat ($145M, up 2% YoY)",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "MarketScreener"
       ]
     }
   ]
