@@ -1,75 +1,98 @@
 {
-  "report_date": "2026-08-19",
+  "report_date": "2026-08-20",
   "batch": 3,
   "stocks": [
     {
-      "ticker": "MU",
-      "company": "Micron Technology",
-      "discussion_driver": "Micron was upgraded today by multiple analysts citing eased valuation risks after the stock corrected ~25% from its $1,255 52-week high. HBM (high-bandwidth memory) production is fully sold out through 2026 under binding contracts, giving clear revenue visibility. UBS reiterated a Buy with a $1,625 price target, while the broader consensus sees ~59% upside.",
+      "ticker": "ETSY",
+      "company": "Etsy Inc.",
+      "discussion_driver": "Etsy upgraded to Buy from Neutral at Bank of America with $105 price target, following a strong Q2 earnings beat (EPS $0.98 vs. $0.73 consensus), a new $2B share buyback authorization, and a 12% workforce reduction. JPMorgan also upgraded in early August; shares jumped ~4% in pre-market trading on August 20 on the BofA action.",
       "bull_case": [
-        "HBM for AI data centers is fully sold out for 2026 under binding contracts, providing unprecedented revenue visibility and pricing power",
-        "Analyst upgrades today cite improved financial trajectory and declining inventory; AI memory supercycle remains intact with demand outpacing supply from Samsung and SK Hynix"
+        "Q2 earnings beat by 34% (EPS $0.98 vs. $0.73 consensus) alongside a new $2B buyback signals improving profitability and strong capital discipline",
+        "Wave of analyst upgrades — Bank of America (Buy/$105), JPMorgan (Overweight/~$100), Rosenblatt (Buy/$95) — reflects growing conviction in the turnaround story"
       ],
       "bear_case": [
-        "Historical memory boom-bust cycles: aggressive supply ramps by Samsung and SK Hynix could quickly close the HBM demand gap and compress margins",
-        "Stock is highly dependent on AI infrastructure capex continuing at current elevated levels; any slowdown in hyperscaler spending could trigger a sharp reversal"
+        "Rising Treasury yields and softening consumer discretionary spending create headwinds for Etsy's marketplace as buyers trade down",
+        "Competition from Amazon Handmade and Shopify-powered sellers could cap market share growth and weigh on seller retention metrics"
       ],
       "recommendation": "Buy",
-      "current_price": "$942.84",
-      "price_target": "$1,501.98 (+59.3%)",
-      "pe_ratio": "21.0",
-      "rsi": "65.6",
-      "vs_52wk_high": "-24.9% below high ($1,255.00)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Technology - Semiconductors",
-      "sources": ["Seeking Alpha", "Daily Trade Alert", "Alpha Spread", "UBS via StockAnalysis", "GuruFocus"],
-      "price_history_5d": [979.94, 971.66, 940.76, 942.84]
-    },
-    {
-      "ticker": "DDOG",
-      "company": "Datadog, Inc.",
-      "discussion_driver": "Datadog was downgraded today by Goldman Sachs (to Sell) and Bernstein amid concerns that intensifying competition from lower-cost observability vendors (Grafana, Clickhouse) could pressure its premium valuation. Despite strong Q2 results showing ~36% YoY revenue growth and five straight quarters of topline acceleration driven by AI workloads, the stock's extreme trailing P/E (~493) leaves little margin for error.",
-      "bull_case": [
-        "Q2 2026 beat expectations with ~36% YoY revenue growth and accelerating AI-driven observability demand; fifth straight quarter of topline acceleration",
-        "AI workloads exponentially increase data volumes and monitoring complexity, expanding Datadog's total addressable market as enterprises scale AI infrastructure"
-      ],
-      "bear_case": [
-        "Goldman Sachs downgraded to Sell citing competition from lower-cost observability platforms (Grafana, Clickhouse, Chronosphere) as customers seek budget optimization",
-        "Premium valuation with trailing P/E of ~493 requires flawless execution; Bernstein set a below-market $226 target, suggesting meaningful downside risk if growth decelerates"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$246.00",
-      "price_target": "$268.91 (+9.3%)",
-      "pe_ratio": "492.6",
-      "rsi": "62.2",
-      "vs_52wk_high": "-16.0% below high ($292.72)",
+      "current_price": "$82.41",
+      "price_target": "$91.50 (+11.0%)",
+      "pe_ratio": "29.37",
+      "rsi": "48.73",
+      "vs_52wk_high": "-6.3% below high ($87.97)",
       "analyst_rating": "Buy",
-      "sector": "Technology - Cloud Software",
-      "sources": ["Seeking Alpha", "Daily Trade Alert", "Goldman Sachs via Investing.com", "TIKR.com", "public.com", "financecharts.com"],
-      "price_history_5d": [240.91, 255.46, 246.00]
+      "sector": "Consumer Discretionary - E-Commerce",
+      "sources": ["Bank of America", "JPMorgan", "247 Wall St.", "GuruFocus", "MarketBeat"],
+      "price_history_5d": [82.41]
     },
     {
-      "ticker": "CVNA",
-      "company": "Carvana Co.",
-      "discussion_driver": "Carvana surged ~9% on August 19 after Bloomberg reported that billionaire investor Mark Walter's ~$2B stake is pledged collateral and therefore cannot be immediately liquidated, easing fears of a forced selloff amid his federal investigation. The stock had fallen ~14% over the prior two sessions on those forced-sale concerns despite strong Q2 fundamentals: revenue up 52% YoY and retail unit sales up 38% to 197,325 vehicles.",
+      "ticker": "CCI",
+      "company": "Crown Castle Inc.",
+      "discussion_driver": "Crown Castle upgraded to Overweight from Equal Weight at Barclays with a price target of $85 (trimmed from $92) as the firm argues Starlink's interest in terrestrial networks is a net positive for tower operators. Stock trades near 52-week lows and at a substantial discount to consensus targets, with Q2 2026 showing resilient cash flows despite revenue pressure.",
       "bull_case": [
-        "Record Q2 2026 results: revenue up 52% YoY to $7.4B, net income $513M (+66.6%), and 197,325 retail units sold (+38%); platform demonstrates durable unit-economics improvement",
-        "Mark Walter's $2B pledged stake cannot be sold immediately, removing the immediate technical overhang; analyst consensus remains Strong Buy with ~21% upside to average price target"
+        "Barclays upgrade argues satellite competition from Starlink is a tower tailwind, not a headwind, as SpaceX needs terrestrial infrastructure partnerships",
+        "5G densification demand is expected to drive core leasing growth to 2.0% in 2027, contributing 4.2% organic growth in site rental billings"
       ],
       "bear_case": [
-        "$4.83B in long-term debt creates significant financial risk; gross profit per unit declined 5.4% to $7,014 in Q2, signaling potential margin ceiling as the business scales",
-        "Federal probe into investor Mark Walter's broader empire remains an ongoing overhang; used-car pricing cycles and elevated borrowing costs could weaken consumer demand"
+        "Stock down ~36% from its 52-week high, with Q2 2026 revenue pressure reflecting real near-term leasing weakness as carriers constrain capex",
+        "Longer-term risk that direct-to-device satellite connectivity erodes the tower business model faster than Wall Street currently models"
+      ],
+      "recommendation": "Buy",
+      "current_price": "$74.00",
+      "price_target": "$92.00 (+24.3%)",
+      "pe_ratio": "30.1",
+      "rsi": "N/A",
+      "vs_52wk_high": "-36.1% below high ($115.76)",
+      "analyst_rating": "Buy",
+      "sector": "Real Estate - Tower REITs",
+      "sources": ["247 Wall St.", "Barclays", "Yahoo Finance", "ad-hoc-news", "StockAnalysis"],
+      "price_history_5d": []
+    },
+    {
+      "ticker": "ALL",
+      "company": "The Allstate Corporation",
+      "discussion_driver": "Allstate downgraded to Underperform from Market Perform by Keefe Bruyette & Woods with price target cut to $250 from $255, citing elevated claims concerns. The downgrade is notable because shares trade above the new PT (~$261 vs. $250), implying ~4% downside per KBW's view. This comes despite a strong Q2 with $18.6B in revenue and $3.27B net income.",
+      "bull_case": [
+        "Strong Q2 2026 earnings ($3.27B net income, $1.4B buyback completed) demonstrate restored profitability after prior years of elevated catastrophe losses",
+        "Historically low P/E of 4.64x offers compelling value if underwriting margins hold and claims frequency normalizes"
+      ],
+      "bear_case": [
+        "Keefe Bruyette downgrade to Underperform with $250 PT suggests the stock may be overvalued at current levels (~$261), with elevated auto and home claims as a persistent risk",
+        "Climate-related catastrophe exposure and rising loss ratios could pressure margins, particularly in states with increasing wildfire and storm activity"
       ],
       "recommendation": "Hold",
-      "current_price": "$70.65",
-      "price_target": "$85.21 (+20.7%)",
-      "pe_ratio": "41.3",
-      "rsi": "72.1",
-      "vs_52wk_high": "-27.4% below high ($97.38)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Consumer Discretionary - Automotive Retail",
-      "sources": ["Bloomberg", "TipRanks", "247wallst.com", "PYMNTS.com", "GuruFocus", "Seeking Alpha"],
-      "price_history_5d": [70.09, 65.00, 70.65]
+      "current_price": "$261.15",
+      "price_target": "$252.00 (-3.5%)",
+      "pe_ratio": "4.64",
+      "rsi": "54.68",
+      "vs_52wk_high": "-5.8% below high ($277.22)",
+      "analyst_rating": "Hold",
+      "sector": "Financials - Insurance",
+      "sources": ["247 Wall St.", "Keefe Bruyette", "StockAnalysis", "Benzinga"],
+      "price_history_5d": [261.15]
+    },
+    {
+      "ticker": "MRNA",
+      "company": "Moderna Inc.",
+      "discussion_driver": "Moderna shares surged ~177% on August 19, 2026 after its personalized mRNA cancer vaccine (mRNA-4157/V940, co-developed with Merck) delivered positive Phase 3 trial results — the first Phase 3 success for any mRNA cancer vaccine. Shares then pulled back ~23% on August 20 as investors took profits. Separately, the FDA cleared Moderna's mFLUSIVA, the first-ever mRNA flu vaccine approved for U.S. adults 50+.",
+      "bull_case": [
+        "Phase 3 success for personalized cancer vaccine mRNA-4157/V940 could open a multi-billion dollar oncology market and validate mRNA as a cancer treatment platform",
+        "FDA clearance of mFLUSIVA for adults 50+ provides an immediate commercial revenue opportunity beyond COVID, diversifying the revenue base"
+      ],
+      "bear_case": [
+        "Stock still trades far above pre-announcement levels ($63) and carries extreme valuation risk if follow-up data, regulatory reviews, or commercialization timelines disappoint",
+        "Negative P/E and ongoing cash burn require continued capital market access; high dependence on a single pipeline success amplifies downside risk"
+      ],
+      "recommendation": "Speculative Buy",
+      "current_price": "$133.32",
+      "price_target": "$120.00 (-10.0%)",
+      "pe_ratio": "N/A",
+      "rsi": "N/A",
+      "vs_52wk_high": "-24.5% below high ($176.66)",
+      "analyst_rating": "Hold",
+      "sector": "Health Care - Biotechnology",
+      "sources": ["CNBC", "MarketScreener", "ad-hoc-news", "UBS", "Goldman Sachs", "Morgan Stanley"],
+      "price_history_5d": [62.96, 174.38, 133.32]
     }
   ]
 }
