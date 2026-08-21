@@ -1,149 +1,159 @@
 {
-  "report_date": "2026-08-20",
-  "market_tone": "Bearish",
+  "report_date": "2026-08-21",
+  "market_tone": "Mixed",
   "key_themes": [
-    "Retail earnings disappoint \u2014 Walmart misses on comp sales, guides lower",
-    "Crypto surge on Trump pro-crypto legislation push lifts Bitcoin-linked stocks",
-    "Rising Treasury yields pressure equities as bond relief rally fades"
+    "Crypto rally on White House Clarity Act push; Bitcoin surges above $70K for weekly +22% gain",
+    "Treasury yield volatility weighs on equities; major indexes post weekly losses despite Friday recovery",
+    "AI chip stocks in focus ahead of Nvidia Aug 26 earnings; BMO initiates NVDA and AVGO at Outperform",
+    "Moderna/Merck mRNA cancer vaccine Phase 3 success drives biotech surge",
+    "Consumer resilience: BJ's Wholesale Q2 earnings beat with record membership and raised outlook"
   ],
   "sp500": {
-    "value": "7,641.16",
-    "change": "-0.87%"
+    "value": "7,674.37",
+    "change": "+0.43%"
   },
   "nasdaq": {
-    "value": "26,067.17",
-    "change": "-1.00%"
+    "value": "26,180.45",
+    "change": "+0.43%"
   },
   "stocks": [
     {
-      "ticker": "WMT",
-      "company": "Walmart",
-      "reason": "Q2 U.S. comparable sales rose only 2.6% vs. 3.5% expected; Q3 adjusted EPS guidance also missed consensus, sending shares down 5%+ premarket",
-      "category": "earnings",
+      "ticker": "MRNA",
+      "company": "Moderna",
+      "reason": "Jumped 12-17% after positive Phase 3 results for personalized mRNA cancer vaccine developed with Merck; biggest single-day biotech move",
+      "category": "news",
       "sources": [
         "CNBC",
-        "Benzinga"
+        "Bloomberg",
+        "TheStreet"
       ]
     },
     {
-      "ticker": "DE",
-      "company": "Deere & Company",
-      "reason": "Reported stronger-than-expected quarterly results and raised the low end of its full-year profit outlook; shares jumped ~6%",
-      "category": "earnings",
+      "ticker": "HOOD",
+      "company": "Robinhood Markets",
+      "reason": "Surged ~13% as Bitcoin broke above $70K following White House crypto meeting where Trump urged Congress to pass the Digital Asset Market Clarity Act",
+      "category": "sector",
       "sources": [
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "ROST",
-      "company": "Ross Stores",
-      "reason": "Q2 FY2026 earnings beat: comp sales +10%, EPS $2.66 vs. $1.85-$1.93 guidance, benefiting from IEEPA tariff refunds; shares up 7%+ after hours",
-      "category": "earnings",
-      "sources": [
-        "PR Newswire",
-        "StockTitan"
-      ]
-    },
-    {
-      "ticker": "BABA",
-      "company": "Alibaba",
-      "reason": "U.S.-listed shares fell ~3% after reporting a 75% drop in June-quarter profits due to heavy AI infrastructure spending",
-      "category": "earnings",
-      "sources": [
-        "CNBC"
+        "CNBC",
+        "24/7 Wall St.",
+        "BitcoinWorld"
       ]
     },
     {
       "ticker": "COIN",
       "company": "Coinbase Global",
-      "reason": "Shares surged 6% as Bitcoin and ether rallied following President Trump push for crypto-friendly legislation",
-      "category": "news",
+      "reason": "Rose ~9% on crypto rally and regulatory clarity tailwinds; Bitcoin weekly gain of 22% lifted exchange volumes and sentiment",
+      "category": "sector",
       "sources": [
         "CNBC",
-        "Seeking Alpha"
+        "Bloomberg",
+        "StocksToTrade"
       ]
     },
     {
-      "ticker": "MSTR",
-      "company": "Strategy (MicroStrategy)",
-      "reason": "Jumped ~10% on crypto rally driven by Trump-backed pro-crypto legislation push",
-      "category": "news",
+      "ticker": "BJ",
+      "company": "BJ's Wholesale Club",
+      "reason": "Stock popped ~4% on Q2 FY2026 earnings beat: adj EPS $1.36 vs $1.17 est (+19.3% YoY), revenue +15.7% YoY to $6.23B, record 8.5M members, raised full-year EPS outlook to $4.60-$4.80",
+      "category": "earnings",
       "sources": [
         "CNBC",
-        "Seeking Alpha"
+        "Benzinga",
+        "Schaeffer's",
+        "24/7 Wall St."
       ]
     },
     {
-      "ticker": "MARA",
-      "company": "MARA Holdings",
-      "reason": "Rose 6% alongside broader crypto-sector rally on Trump legislative push for crypto-friendly policy",
-      "category": "news",
-      "sources": [
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "CIFR",
-      "company": "American Bitcoin (Cipher Mining)",
-      "reason": "Shares rose nearly 7% in crypto sector surge tied to Trump administration pro-crypto legislation effort",
-      "category": "news",
-      "sources": [
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "MRK",
-      "company": "Merck & Co.",
-      "reason": "Upgraded to Overweight from Equal Weight at Morgan Stanley; price target lifted to $179 from $116 on drug pipeline strength",
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "reason": "Positioning ahead of Aug 26 FY Q2 2027 earnings report; BMO Capital initiated Outperform with $340 target; Nasdaq snapped 5-day drop as AI sentiment improved",
       "category": "upgrade",
       "sources": [
-        "247 Wall St."
+        "Yahoo Finance",
+        "Bloomberg",
+        "247wallst.com"
       ]
     },
     {
-      "ticker": "ADI",
-      "company": "Analog Devices",
-      "reason": "Upgraded to Outperform from Market Perform at Bernstein with a $465 price target on improving semiconductor cycle outlook",
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "reason": "BMO Capital initiated at Overweight with $455 target; separately reported in talks to raise $60B+ in debt for AI chip financing deal benefiting Anthropic and others; stock volatile in $360-$368 range",
       "category": "upgrade",
       "sources": [
-        "247 Wall St."
+        "Bloomberg",
+        "24/7 Wall St.",
+        "StockAnalysis"
       ]
     },
     {
-      "ticker": "ETSY",
-      "company": "Etsy",
-      "reason": "Upgraded to Buy from Neutral at Bank of America with a $105 price target, citing improved monetization and resilient discretionary spending",
-      "category": "upgrade",
-      "sources": [
-        "247 Wall St."
-      ]
-    },
-    {
-      "ticker": "CCI",
-      "company": "Crown Castle",
-      "reason": "Upgraded to Overweight from Equal Weight at Barclays (PT trimmed to $85 from $92) on tower leasing fundamentals improvement",
-      "category": "upgrade",
-      "sources": [
-        "247 Wall St."
-      ]
-    },
-    {
-      "ticker": "ALL",
-      "company": "Allstate",
-      "reason": "Downgraded to Underperform from Market Perform at Keefe Bruyette; PT lowered to $250 from $255 on elevated claims concerns",
+      "ticker": "TER",
+      "company": "Teradyne",
+      "reason": "Fell ~4% after Baird downgraded to Neutral from Outperform with $420 target, citing stretched valuation and no major growth catalyst expected until 2028",
       "category": "downgrade",
       "sources": [
-        "247 Wall St."
+        "24/7 Wall St.",
+        "Baird via Investing.com",
+        "GuruFocus"
       ]
     },
     {
-      "ticker": "MRNA",
-      "company": "Moderna",
-      "reason": "Among biggest premarket movers; stock volatile around flu vaccine mFLUSIVA PDUFA date and Q2 revenue beat ($145M, up 2% YoY)",
+      "ticker": "MRVL",
+      "company": "Marvell Technology",
+      "reason": "Fell 3-6% on chip sector profit-taking and institutional risk reduction ahead of Aug 27 earnings; also Melius downgrade cited ahead of earnings",
+      "category": "downgrade",
+      "sources": [
+        "Benzinga",
+        "Quiver Quant",
+        "TipRanks"
+      ]
+    },
+    {
+      "ticker": "AMD",
+      "company": "Advanced Micro Devices",
+      "reason": "Upgraded to Buy by Future Stack Investment on explosive data center revenue growth tied to AI infrastructure build-out; positive read-through from Nvidia AI demand narrative",
+      "category": "upgrade",
+      "sources": [
+        "Seeking Alpha",
+        "24/7 Wall St."
+      ]
+    },
+    {
+      "ticker": "UI",
+      "company": "Ubiquiti",
+      "reason": "Reported Q4 FY2026 earnings before open with adj EPS of $4.73 vs $3.54 last year \u2014 a strong beat that drove shares higher on the day",
+      "category": "earnings",
+      "sources": [
+        "Earnings Whispers",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "EFX",
+      "company": "Equifax",
+      "reason": "Upgraded to Buy from Neutral at Rothschild & Co Redburn, price target raised to $235 from $214, on improving credit data cycle and mortgage market recovery",
+      "category": "upgrade",
+      "sources": [
+        "24/7 Wall St.",
+        "Investing.com"
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "reason": "Gained 5.37% on broad market Friday recovery and ongoing retail investor enthusiasm; one of S&P 500's biggest gainers in mid-day trading",
       "category": "news",
       "sources": [
         "CNBC",
-        "MarketScreener"
+        "TheStreet"
+      ]
+    },
+    {
+      "ticker": "HUBB",
+      "company": "Hubbell",
+      "reason": "Baird initiated coverage at Outperform with $555 price target, citing electrical infrastructure spending tailwinds from grid modernization and data center buildout",
+      "category": "upgrade",
+      "sources": [
+        "24/7 Wall St.",
+        "MarketBeat"
       ]
     }
   ]
