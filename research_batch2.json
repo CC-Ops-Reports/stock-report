@@ -1,121 +1,121 @@
 {
-  "report_date": "2026-08-20",
+  "report_date": "2026-08-21",
   "batch": 2,
   "stocks": [
     {
-      "ticker": "MSTR",
-      "company": "Strategy (MicroStrategy)",
-      "discussion_driver": "Strategy surged ~10% as President Trump's push for pro-crypto legislation fueled a broad Bitcoin and Ethereum rally. As the largest corporate Bitcoin treasury with over 531,000 BTC, MSTR remains the highest-leverage public-market proxy for Bitcoin price appreciation, making it one of the session's biggest percentage winners.",
+      "ticker": "AVGO",
+      "company": "Broadcom Inc.",
+      "discussion_driver": "BMO Capital initiated Broadcom at Overweight with a $455 price target, citing AI chip demand momentum. Separately, Broadcom is reportedly in talks to raise $60B+ in debt financing for a major AI chip deal benefiting Anthropic and other hyperscalers, underscoring its central role in the custom silicon buildout. The stock declined more than 14% over the past five trading days amid broader chip-sector rotation.",
       "bull_case": [
-        "Largest Bitcoin treasury among public companies creates direct, asymmetric NAV upside as BTC prices rise; rising regulatory clarity under Trump accelerates institutional adoption",
-        "Strong Buy consensus from 15 analysts with an average $229 price target implies ~100% upside, and pro-crypto legislative momentum could sustain the rally"
+        "AI custom silicon demand from hyperscalers (Google, Meta, Apple) drives multi-year TAM expansion; BMO Outperform and consensus Strong Buy from 48 analysts with $527 average target signal conviction",
+        "VMware acquisition unlocking significant software-defined infrastructure revenue with high gross margins, accelerating EPS accretion and diversifying away from pure-play semiconductor cycles"
       ],
       "bear_case": [
-        "Shares are entirely driven by Bitcoin price — a severe BTC drawdown could instantly destroy the majority of market value with no operating revenue to provide a floor",
-        "Stock remains -69% below its 52-week high of $365.15, reflecting how violently it can move in either direction; carries significant execution and dilution risk from ongoing Bitcoin purchases"
+        "Valuation stretched at ~58x trailing P/E; stock declined >14% in five trading days amid broader AI chip rotation and Treasury yield pressure",
+        "Competition from custom silicon built in-house by Amazon (Trainium), Google (TPU), and Apple poses a long-term risk to Broadcom's networking ASIC and custom chip revenue"
       ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$114.68",
-      "price_target": "$229.07 (+99.7%)",
-      "pe_ratio": "5.5",
-      "rsi": "N/A",
-      "vs_52wk_high": "-68.6% below high ($365.15)",
+      "recommendation": "Buy",
+      "current_price": "$364.00",
+      "price_target": "$527.88 (+44.9%)",
+      "pe_ratio": "58.46",
+      "rsi": "71.9",
+      "vs_52wk_high": "-26.5% below high ($495.00)",
       "analyst_rating": "Strong Buy",
-      "sector": "Technology - Bitcoin Treasury",
-      "sources": ["StockInvest.us", "StockAnalysis.com", "Public.com", "MarketBeat"],
-      "price_history_5d": [92.52, 104.25, 114.68]
+      "sector": "Technology - Semiconductors",
+      "sources": ["Yahoo Finance", "Bloomberg", "24/7 Wall St.", "StockAnalysis", "GuruFocus"],
+      "price_history_5d": [392.43]
     },
     {
-      "ticker": "MARA",
-      "company": "MARA Holdings",
-      "discussion_driver": "MARA rose ~6% in the crypto sector surge tied to Trump's pro-crypto legislative push, but the rally comes against a difficult fundamental backdrop. The company just reported a devastating Q2 miss — EPS loss of $1.60 vs. expected profit and revenue of $174.9M vs. $238.5M a year ago — raising questions about whether the stock's recovery is durable.",
+      "ticker": "TER",
+      "company": "Teradyne Inc.",
+      "discussion_driver": "Baird downgraded Teradyne to Neutral from Outperform with a $420 price target, citing stretched valuation and a lack of near-term growth catalysts until 2028. The downgrade pressured shares roughly 4% on the session, making it one of the notable movers in the semiconductor equipment space amid a week of broad chip-sector volatility.",
       "bull_case": [
-        "One of the largest Bitcoin mining operations, directly leveraged to BTC prices; a sustained Bitcoin bull run from pro-crypto legislation would dramatically improve mining economics",
-        "Strategic pivot toward HPC/AI data center hosting diversifies revenue away from volatile pure-play mining and could unlock a new valuation multiple"
+        "Long-term AI compute chip testing market expansion as semiconductor complexity drives test time per chip higher; Universal Robots segment adds meaningful automation revenue diversification",
+        "13 analysts maintain a Buy consensus with a $449.80 average price target implying ~17% upside from current levels, suggesting most of Wall Street views the Baird downgrade as isolated"
       ],
       "bear_case": [
-        "Q2 2026 was a severe fundamental miss — revenue fell 27% YoY to $174.9M and EPS was a $1.60 loss vs. a $1.84 gain year-ago — raising questions about operational execution",
-        "Bitcoin mining margins remain pressured by rising energy costs and increasing global hash rate competition; stock is still 53% below its 52-week high despite the day's rally"
+        "Baird downgraded to Neutral from Outperform, citing stretched valuation and no major growth catalyst expected until 2028; headline risk from high-profile downgrades weighs on sentiment",
+        "Stock trades 21.5% below its 52-week high with a trailing P/E of ~55x, leaving limited margin of safety if AI-related test demand growth disappoints"
       ],
       "recommendation": "Hold",
-      "current_price": "$11.09",
-      "price_target": "$17.57 (+58.4%)",
-      "pe_ratio": "N/A",
+      "current_price": "$383.15",
+      "price_target": "$449.80 (+17.4%)",
+      "pe_ratio": "55.37",
       "rsi": "N/A",
-      "vs_52wk_high": "-52.7% below high ($23.45)",
+      "vs_52wk_high": "-21.5% below high ($487.91)",
       "analyst_rating": "Buy",
-      "sector": "Technology - Cryptocurrency Mining",
-      "sources": ["StocksToTrade", "TimothySykes.com", "StockAnalysis.com", "StockInvest.us"],
-      "price_history_5d": [8.96, 9.59, 11.09]
+      "sector": "Technology - Semiconductor Equipment & Testing",
+      "sources": ["24/7 Wall St.", "Baird via Investing.com", "GuruFocus", "StockAnalysis", "eToro"],
+      "price_history_5d": []
     },
     {
-      "ticker": "CIFR",
-      "company": "American Bitcoin (Cipher Digital)",
-      "discussion_driver": "Cipher Digital (formerly Cipher Mining, rebranded in February 2026) rose nearly 7% alongside the broader crypto sector rally on Trump-backed pro-crypto legislation momentum. This comes just two days after a disappointing Q2 earnings report where revenue of $24.8M significantly missed the $31.9M consensus and EPS loss deepened, sending shares lower mid-week.",
+      "ticker": "MRVL",
+      "company": "Marvell Technology Inc.",
+      "discussion_driver": "Marvell Technology surged ~6% after news broke of a Google partnership allowing Google to acquire up to $12.2B in Marvell shares for custom AI chip development. The stock faces a binary event with Q3 FY2027 earnings due Aug 27, where bulls point to $310-$350 analyst targets while a Melius downgrade ahead of the report tempered enthusiasm. Shares had previously sold off 3-6% on broader chip-sector profit-taking earlier in the week.",
       "bull_case": [
-        "Unanimous Wall Street support — 16 out of 16 analysts rate it Buy with a consensus $32.53 target implying ~102% upside — reflecting confidence in the long-term Bitcoin mining and HPC hosting thesis",
-        "Diversification into high-performance computing/AI hosting alongside Bitcoin mining provides multiple revenue streams and potential for a higher valuation multiple"
+        "Google's $12.2B custom AI chip partnership validates Marvell's ASIC design expertise and creates a massive long-term revenue runway; UBS raised target to $310 and Roth Capital to $350",
+        "Custom ASIC capabilities for cloud hyperscalers position Marvell as a key pick-and-shovel AI infrastructure play with Aug 27 earnings as a near-term catalyst"
       ],
       "bear_case": [
-        "Q2 2026 earnings miss was significant: revenue $24.8M vs. $31.9M expected, and EPS loss of $0.65 vs. $0.24 expected, indicating operational and monetization challenges in the near term",
-        "Negative P/E ratio reflects the company is unprofitable; the stock sits 46.6% below its 52-week high and the company likely needs to raise additional capital to fund growth"
+        "Melius downgrade ahead of Aug 27 earnings introduces near-term uncertainty; RSI near 86 signals overbought conditions after the recent Google-deal-driven surge",
+        "Stock trades 23.9% below its 52-week high at a stretched 81x trailing P/E; consensus price target of ~$264 implies limited near-term upside after the recent rally"
       ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$16.09",
-      "price_target": "$32.53 (+102.2%)",
-      "pe_ratio": "N/A",
-      "rsi": "N/A",
-      "vs_52wk_high": "-46.6% below high ($30.14)",
+      "recommendation": "Hold",
+      "current_price": "$251.01",
+      "price_target": "$263.94 (+5.1%)",
+      "pe_ratio": "81.08",
+      "rsi": "85.88",
+      "vs_52wk_high": "-23.9% below high ($329.88)",
       "analyst_rating": "Strong Buy",
-      "sector": "Technology - Cryptocurrency Mining / HPC",
-      "sources": ["StocksToTrade", "StockAnalysis.com", "FinanceCharts.com", "TIKR.com", "Yahoo Finance"],
-      "price_history_5d": [16.10, 16.09]
-    },
-    {
-      "ticker": "MRK",
-      "company": "Merck & Co.",
-      "discussion_driver": "Merck received a high-profile Morgan Stanley upgrade to Overweight (PT raised to $179 from $116) on August 20, with analyst Terence Flynn citing pipeline optionality in oncology — including intismeran autogene and sac-TMT — that could sustain growth beyond the Keytruda patent cliff. The upgrade was accompanied by positive melanoma vaccine data from Merck's collaboration with Moderna, which lifted the stock to a new 52-week high.",
-      "bull_case": [
-        "Morgan Stanley upgrade to Overweight (PT $179) backed by deep oncology pipeline analysis; collaboration with Moderna on melanoma vaccine showing strong trial results adds another near-term catalyst",
-        "Stock recently hit a 16-month high and has been up six consecutive sessions; institutional repositioning following the upgrade may drive further buying interest"
-      ],
-      "bear_case": [
-        "Trailing P/E of 102.5x is extremely elevated and not sustainable long-term — forward P/E of 15.1x is more reasonable but depends on pipeline execution and Keytruda revenue holding up",
-        "RSI of 65.8 signals the stock is approaching overbought territory after a sharp multi-day rally; Keytruda biosimilar competition at patent expiry remains a long-term structural risk"
-      ],
-      "recommendation": "Buy",
-      "current_price": "$149.50",
-      "price_target": "$179.00 (+19.7%)",
-      "pe_ratio": "102.46",
-      "rsi": "65.81",
-      "vs_52wk_high": "-2.6% below high ($153.50)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Healthcare - Pharmaceuticals",
-      "sources": ["Morgan Stanley via 247WallSt", "CNBC", "DailyPolitical.com", "TipRanks", "StockInvest.us", "GuruFocus"],
-      "price_history_5d": [152.20, 149.50]
-    },
-    {
-      "ticker": "ADI",
-      "company": "Analog Devices",
-      "discussion_driver": "Analog Devices delivered a blowout fiscal Q3 on August 19 — revenue up 40% YoY to $4.02B and EPS of $3.45 beat analyst estimates — and guided Q4 revenue to $4.3B, also ahead of consensus. Bernstein upgraded to Outperform (PT $465) post-earnings, citing a strengthening semiconductor upcycle. Despite the strong beat, shares initially pulled back as results had been partially priced in near 52-week highs.",
-      "bull_case": [
-        "Q3 revenue up 40% YoY with Q4 guidance also 40% above consensus signals a powerful multi-quarter upcycle; Bernstein Outperform upgrade with $465 target validates the secular recovery story",
-        "ADI serves diversified end markets (industrial, automotive, communications) reducing cyclicality risk; the stock has upside of ~24% to Bernstein's target and ~22% to the consensus analyst target"
-      ],
-      "bear_case": [
-        "Trailing P/E of 57.25x — 53% above its 10-year median — leaves limited margin of error; any slowdown in the semiconductor upcycle could trigger a sharp de-rating",
-        "Stock traded well below its 52-week high of $445.91 post-earnings despite the beat, suggesting 'buy the rumor, sell the news' dynamics; elevated expectations may cap near-term upside"
-      ],
-      "recommendation": "Buy",
-      "current_price": "$375.65",
-      "price_target": "$465.00 (+23.8%)",
-      "pe_ratio": "57.25",
-      "rsi": "48.38",
-      "vs_52wk_high": "-15.8% below high ($445.91)",
-      "analyst_rating": "Outperform",
       "sector": "Technology - Semiconductors",
-      "sources": ["Bernstein via Yahoo Finance", "Benzinga", "StockAnalysis.com", "GuruFocus", "TradingKey", "ad-hoc-news.de"],
-      "price_history_5d": [389.39, 394.41, 373.26, 375.65]
+      "sources": ["Benzinga", "Quiver Quant", "TipRanks", "StockAnalysis", "GuruFocus"],
+      "price_history_5d": [251.01]
+    },
+    {
+      "ticker": "AMD",
+      "company": "Advanced Micro Devices Inc.",
+      "discussion_driver": "AMD received a Buy upgrade from Future Stack Investment citing explosive AI data center revenue growth and the sector's positive read-through from Nvidia's upcoming Aug 26 earnings report. AMD's Instinct GPU series continues to gain enterprise traction as the closest NVDA rival for AI training workloads, and the Nasdaq's snap back from a five-day losing streak provided a broader tailwind for the stock.",
+      "bull_case": [
+        "Future Stack Investment upgraded AMD to Buy on surging data center GPU revenue; AI infrastructure buildout benefits both NVDA and AMD, with AMD's MI300X series gaining meaningful share in enterprise AI training",
+        "Positive read-through from Nvidia's Aug 26 earnings expected to lift the entire AI chip ecosystem; consensus Strong Buy from 52 analysts with a $614 average target implies ~30% upside"
+      ],
+      "bear_case": [
+        "Extreme trailing P/E of 131x reflects a priced-for-perfection valuation; any miss on AI-related guidance or a broader AI spending slowdown could trigger a sharp de-rating",
+        "NVDA retains commanding market share and mindshare in AI GPU training; AMD's MI300 series has not yet proven it can close the gap in software ecosystem (CUDA) or performance at scale"
+      ],
+      "recommendation": "Buy",
+      "current_price": "$473.25",
+      "price_target": "$614.43 (+29.8%)",
+      "pe_ratio": "131.29",
+      "rsi": "N/A",
+      "vs_52wk_high": "-19.1% below high ($584.73)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Technology - Semiconductors",
+      "sources": ["Seeking Alpha", "24/7 Wall St.", "StockAnalysis", "MarketBeat"],
+      "price_history_5d": [473.25]
+    },
+    {
+      "ticker": "UI",
+      "company": "Ubiquiti Inc.",
+      "discussion_driver": "Ubiquiti reported strong Q4 FY2026 earnings with adj EPS of $4.73 versus $3.54 last year, a solid beat. However, shares fell 4.54% on Aug 21 after the company warned that rising component costs could pressure future profit margins. The stock trades approximately 50% below its 52-week high of $1,099.99, creating an unusual combination of earnings strength and significant price-from-peak weakness.",
+      "bull_case": [
+        "Q4 FY2026 adj EPS of $4.73 versus $3.54 last year demonstrates strong underlying demand for enterprise networking hardware and consistent execution",
+        "Stock is deeply discounted from its 52-week high of $1,099.99; the $826 analyst price target implies over 50% upside for investors with a long-term horizon"
+      ],
+      "bear_case": [
+        "Company warned that rising component costs could eat into future profits; margin compression risk is the key near-term headwind and drove the Aug 21 selloff",
+        "Only 2 analysts cover the stock with a Hold consensus; thin analyst coverage limits price discovery and institutional conviction, while the stock trades 50% below its 52-week peak"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$547.82",
+      "price_target": "$826.00 (+50.7%)",
+      "pe_ratio": "37.53",
+      "rsi": "52.82",
+      "vs_52wk_high": "-50.2% below high ($1,099.99)",
+      "analyst_rating": "Hold",
+      "sector": "Technology - Networking Hardware",
+      "sources": ["Earnings Whispers", "Yahoo Finance", "Benzinga", "eToro", "StockAnalysis"],
+      "price_history_5d": [547.82]
     }
   ]
 }
