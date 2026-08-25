@@ -1,159 +1,184 @@
 {
-  "report_date": "2026-08-24",
+  "report_date": "2026-08-25",
   "market_tone": "Mixed",
   "key_themes": [
-    "Chip sector selloff ahead of Nvidia/Marvell earnings (Aug 26-27)",
-    "Iran sanctions and US-Canada tariff threats weigh on macro sentiment",
-    "Crypto/fintech rally on Clarity Act optimism and Bitcoin strength",
-    "Moderna mRNA cancer vaccine Phase 3 breakthrough drives biotech momentum",
-    "AI spending debate: Alibaba $10.2B dilutive share sale vs. AI optimism",
-    "Jackson Hole Fed symposium (new Chair Warsh) in focus this week"
+    "Nvidia earnings anticipation drives chip stock rally ahead of Wednesday report",
+    "Athletic footwear sector in turmoil as Dick's Sporting Goods crashes 31% on Foot Locker losses",
+    "Moderna recovers on cancer vaccine momentum; personalized mRNA melanoma trial milestone"
   ],
   "sp500": {
-    "value": "7,674.37",
-    "change": "+0.4%"
+    "value": "7,677.28",
+    "change": "+0.32%"
   },
   "nasdaq": {
-    "value": "26,180.46",
-    "change": "+0.4%"
+    "value": "N/A",
+    "change": "+0.60%"
   },
   "stocks": [
     {
-      "ticker": "HOOD",
-      "company": "Robinhood Markets",
-      "reason": "Best S&P 500 performer today (+13.7%); CEO said equity trading surpassed 2021 GameStop-era peak, options at record highs; Q2 revenue $1.31B (+32% YoY); Bitcoin rally and Clarity Act crypto-regulation optimism boosted sentiment; Goldman Sachs raised PT to $123",
+      "ticker": "DKS",
+      "company": "DICK'S Sporting Goods",
+      "reason": "Q2 EPS $3.53 vs $3.78 est; revenue $5.59B vs $5.65B est; cut full-year EPS guidance to $11-$12 from $13.50-$14.50 citing Foot Locker losses and athletic footwear slump; stock fell 30.67%, worst day ever",
       "category": "earnings",
       "sources": [
-        "Yahoo Finance",
         "CNBC",
-        "StocksTwits"
-      ]
-    },
-    {
-      "ticker": "MRNA",
-      "company": "Moderna",
-      "reason": "Second-best S&P 500 performer (+8.9% today, though pulling back from +120-177% surge since Aug 19); Phase 3 INTerpath-001 trial with Merck showed personalized mRNA cancer vaccine (intismeran autogene + Keytruda) worked in melanoma \u2014 first successful final-stage mRNA cancer therapy; profit-taking today after extraordinary run",
-      "category": "news",
-      "sources": [
-        "Forbes",
-        "Yahoo Finance",
-        "CNBC",
-        "TradingKey"
-      ]
-    },
-    {
-      "ticker": "BABA",
-      "company": "Alibaba Group",
-      "reason": "Launched $10.2B share sale (largest-ever primary follow-on by HK-listed company) at 3.6% discount to fund AI infrastructure expansion; Hong Kong shares dropped 9.5%; US-listed BABA down ~1.3%; investors question whether heavy AI capex will generate sufficient returns",
-      "category": "news",
-      "sources": [
-        "Bloomberg",
-        "Yahoo Finance",
-        "Schaeffer's Investment Research"
+        "Seeking Alpha",
+        "Motley Fool",
+        "Gurufocus"
       ]
     },
     {
       "ticker": "NVDA",
-      "company": "Nvidia",
-      "reason": "Earnings due Wednesday Aug 26 after market; analysts forecast 87% earnings growth for FY2027 and a strong beat; stock under pressure from broader chip sector selloff; 62 analysts have Strong Buy consensus with avg PT of $304.73; entire market watching AI demand signals",
+      "company": "NVIDIA Corporation",
+      "reason": "Reporting Q2 earnings after close Wednesday Aug 26; analysts expect $2.09 EPS (+100% YoY) and $92.2B revenue (+97% YoY); 58 of 61 analysts rate Buy/Strong Buy; stock up ~2% as chip rally accelerates ahead of report",
       "category": "earnings",
       "sources": [
         "Yahoo Finance",
+        "Kiplinger",
         "Motley Fool",
-        "CNBC"
+        "Intellectia"
+      ]
+    },
+    {
+      "ticker": "MRNA",
+      "company": "Moderna Inc.",
+      "reason": "Stock up 13.65% recovering from post-rally pullback; personalized mRNA cancer vaccine intismeran autogene met primary endpoint in Phase 3 melanoma trial (announced last week); Wolfe Research upgraded to Peer Perform from Underperform; BofA raised PT to $170",
+      "category": "news",
+      "sources": [
+        "Yahoo Finance",
+        "Forbes",
+        "Blockonomi",
+        "StocksToTrade"
+      ]
+    },
+    {
+      "ticker": "AMD",
+      "company": "Advanced Micro Devices",
+      "reason": "Upgraded to Strong Buy from Outperform at Raymond James; new $641 price target (up from $565) implying 40% upside; stock up ~4.9% as chip stocks rally ahead of Nvidia earnings",
+      "category": "upgrade",
+      "sources": [
+        "CNBC",
+        "247 Wall St.",
+        "Benzinga"
+      ]
+    },
+    {
+      "ticker": "INTU",
+      "company": "Intuit Inc.",
+      "reason": "Q4 2026 EPS $4.03 beat by $0.49; revenue $4.4B topped estimates; but FY2027 EPS guidance $22.88-$23.12 vs consensus $23.83 disappointed; stock fell ~9% after hours",
+      "category": "earnings",
+      "sources": [
+        "Investing.com",
+        "TipRanks",
+        "TheStreet",
+        "MarketBeat"
       ]
     },
     {
       "ticker": "MRVL",
-      "company": "Marvell Technology",
-      "reason": "Down 4% to $228.31; pre-earnings position trimming ahead of Aug 27 report; part of broader chip sector selloff; stock was up 179% YTD through Friday before today's decline; put/call ratio at 0.56 still skews to calls",
+      "company": "Marvell Technology Inc.",
+      "reason": "Stock up ~5% as multiple Wall Street firms raise price targets ahead of Q2 earnings (reports Aug 27); Benchmark upgraded MRVL; call options activity surging ahead of report",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Schaeffer's Research",
+        "Nasdaq.com"
+      ]
+    },
+    {
+      "ticker": "KURA",
+      "company": "Kura Oncology Inc.",
+      "reason": "Stock up ~11% after CEO Troy Wilson disclosed purchase of 100,000 shares of common stock in SEC filing at ~$12.39/share \u2014 significant insider buying signal",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "MarketChameleon"
+      ]
+    },
+    {
+      "ticker": "DT",
+      "company": "Dynatrace Inc.",
+      "reason": "Upgraded to Overweight from Equal Weight at Morgan Stanley; price target raised to $65 from $58; MS believes demand will propel 20%+ growth and margin expansion over next two years; stock up ~3%",
+      "category": "upgrade",
+      "sources": [
+        "247 Wall St.",
+        "Benzinga",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "FOUR",
+      "company": "Shift4 Payments Inc.",
+      "reason": "Upgraded to Overweight from Equal Weight at Wells Fargo; price target raised to $59 from $55; firm cites \"improved setup\" post-Q2 and multiple expansion opportunities; stock up ~4%",
+      "category": "upgrade",
+      "sources": [
+        "CNBC",
+        "247 Wall St.",
+        "Benzinga"
+      ]
+    },
+    {
+      "ticker": "SCI",
+      "company": "Service Corporation International",
+      "reason": "Q2 2026 EPS $0.90 (up from $0.88 YoY); revenue $1.10B vs $1.07B YoY; management reaffirmed full-year guidance and announced major share buyback expansion; stock up ~4.9%",
       "category": "earnings",
       "sources": [
-        "24/7 Wall St.",
         "Yahoo Finance",
-        "CNBC"
+        "Simply Wall St",
+        "MarketBeat"
       ]
     },
     {
-      "ticker": "SNDK",
-      "company": "Sandisk",
-      "reason": "Down 6-10.5%; part of AI chip trade unwind alongside Micron, Marvell; sell-side noted \"Parabolic 7\" trade unwinding; iShares Semiconductor ETF (SOXX) down 3%; Coherent and Lumentum also dropped 4%+",
+      "ticker": "CMG",
+      "company": "Chipotle Mexican Grill",
+      "reason": "Downgraded to Neutral from Outperform at Baird; price target cut to $40 from $44; Baird wrote \"CMG may need to spend more to grow less\" citing margin pressure and cautious setup into earnings",
+      "category": "downgrade",
+      "sources": [
+        "Yahoo Finance",
+        "Investing.com",
+        "Quiver Quant"
+      ]
+    },
+    {
+      "ticker": "DRI",
+      "company": "Darden Restaurants",
+      "reason": "Upgraded to Outperform from Neutral at Baird; price target raised to $250 from $220; viewed as core casual dining holding with \"reliable sales drivers, strong execution, and durable growth algorithm\"",
+      "category": "upgrade",
+      "sources": [
+        "Yahoo Finance",
+        "Investing.com"
+      ]
+    },
+    {
+      "ticker": "FL",
+      "company": "Foot Locker Inc.",
+      "reason": "Swung to $80M loss in Q2 (90-day period); proforma comparable sales fell 3.6% due to athletic footwear headwinds and fewer product launches; Dick's cut Foot Locker full-year comp outlook to flat/-2% from +1.5-3%",
+      "category": "earnings",
+      "sources": [
+        "TechTimes",
+        "Modern Retail",
+        "Sportico"
+      ]
+    },
+    {
+      "ticker": "NKE",
+      "company": "Nike Inc.",
+      "reason": "Stock slid after Dick's Sporting Goods Q2 results signaled broad athletic footwear market slump and fewer Nike product launches; Dick's cited Nike brand promotional environment as headwind",
       "category": "sector",
       "sources": [
-        "CNBC",
-        "Yahoo Finance",
-        "Charles Schwab"
+        "MoneyCheck",
+        "Sportico",
+        "Benzinga"
       ]
     },
     {
-      "ticker": "MU",
-      "company": "Micron Technology",
-      "reason": "Down 5.8% as AI chip sell-off deepened; SK Hynix also sank; Nasdaq 100 fell 0.69% in early trade led by semiconductor weakness; chip stocks dragged on broader tech sector",
-      "category": "sector",
+      "ticker": "FIVE",
+      "company": "Five Below Inc.",
+      "reason": "Downgraded from Buy to Hold at Loop Capital by analyst Anthony Chukumba; price target set at $250; analyst no longer bullish on near-term outlook",
+      "category": "downgrade",
       "sources": [
-        "CNBC",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "EXPE",
-      "company": "Expedia Group",
-      "reason": "Up 5.1% to intraday record; Evercore ISI raised price target to Street-high $430 (from $375); company reported strong Q2 with 12% gross bookings and 14% revenue growth YoY; increased full-year guidance",
-      "category": "upgrade",
-      "sources": [
-        "Bloomberg",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "HIMS",
-      "company": "Hims & Hers Health",
-      "reason": "Down 9%; Visa Inc. placed the telehealth platform on notice for excessive customer complaints in its weight-loss subscription business \u2014 a significant business and reputational risk for a company reliant on payment processing",
-      "category": "news",
-      "sources": [
-        "Bloomberg",
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "COIN",
-      "company": "Coinbase Global",
-      "reason": "Among S&P 500 winners; crypto regulatory optimism (White House pushing Clarity Act for durable crypto-market rules) and Bitcoin strength (+23% for the week) drove digital-asset equities broadly higher; Coinbase surged on renewed institutional crypto ETF interest",
-      "category": "news",
-      "sources": [
-        "Trefis",
-        "CNBC",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "MSTR",
-      "company": "Strategy (MicroStrategy)",
-      "reason": "Best-performing Nasdaq 100 stock today, up 2.9%; Bitcoin proxy continues rallying as crypto optimism builds around Clarity Act legislation and BTC's strong weekly gain",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "HDFCSky"
-      ]
-    },
-    {
-      "ticker": "CLS",
-      "company": "Celestica",
-      "reason": "UBS upgraded to Buy from Neutral, raised price target to $430 from $410; AI infrastructure buildout beneficiary; upgrade reflects confidence in data center supply chain demand",
-      "category": "upgrade",
-      "sources": [
-        "Yahoo Finance",
-        "24/7 Wall St."
-      ]
-    },
-    {
-      "ticker": "PHM",
-      "company": "PulteGroup",
-      "reason": "Wolfe Research upgraded to Outperform from Peer Perform with $158 target; homebuilders in focus amid US-Canada tariff tensions and housing market resilience narrative",
-      "category": "upgrade",
-      "sources": [
-        "Yahoo Finance",
-        "24/7 Wall St."
+        "Benzinga",
+        "247 Wall St."
       ]
     }
   ]
