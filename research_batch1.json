@@ -1,137 +1,132 @@
 {
-  "report_date": "2026-08-21",
+  "report_date": "2026-08-24",
   "batch": 1,
   "market_tone": "Mixed",
   "key_themes": [
-    "Crypto rally on White House Clarity Act push; Bitcoin surges above $70K for weekly +22% gain",
-    "Treasury yield volatility weighs on equities; major indexes post weekly losses despite Friday recovery",
-    "AI chip stocks in focus ahead of Nvidia Aug 26 earnings; BMO initiates NVDA and AVGO at Outperform",
-    "Moderna/Merck mRNA cancer vaccine Phase 3 success drives biotech surge",
-    "Consumer resilience: BJ's Wholesale Q2 earnings beat with record membership and raised outlook"
+    "Chip sector selloff ahead of Nvidia/Marvell earnings (Aug 26-27)",
+    "Iran sanctions and US-Canada tariff threats weigh on macro sentiment",
+    "Crypto/fintech rally on Clarity Act optimism and Bitcoin strength",
+    "Moderna mRNA cancer vaccine Phase 3 breakthrough drives biotech momentum",
+    "AI spending debate: Alibaba $10.2B dilutive share sale vs. AI optimism",
+    "Jackson Hole Fed symposium (new Chair Warsh) in focus this week"
   ],
-  "sp500": {
-    "value": "7,674.37",
-    "change": "+0.43%"
-  },
-  "nasdaq": {
-    "value": "26,180.45",
-    "change": "+0.43%"
-  },
+  "sp500": {"value": "7,674.37", "change": "+0.4%"},
+  "nasdaq": {"value": "26,180.46", "change": "+0.4%"},
   "stocks": [
-    {
-      "ticker": "MRNA",
-      "company": "Moderna",
-      "discussion_driver": "Moderna surged ~177% on Aug 19 after reporting positive Phase 3 results for its personalized mRNA cancer vaccine (intismeran autogene + Keytruda) in advanced melanoma — the biggest single-day biotech move in years. After a 23.5% pullback on Aug 20 as profit-taking set in, shares rebounded ~11.9% on Aug 21. The landmark trial validates Moderna's oncology platform but consensus price targets have not yet fully repriced to reflect the new pipeline value.",
-      "bull_case": [
-        "Phase 3 success in melanoma opens a massive oncology market; partnership with Merck accelerates commercialization of personalized mRNA cancer vaccines across multiple tumor types",
-        "mRNA platform versatility positions Moderna for multiple vaccine and therapeutic franchises beyond COVID, with the cancer vaccine data serving as proof-of-concept for the technology"
-      ],
-      "bear_case": [
-        "Stock jumped 177% in a single session and is extremely overbought (RSI ~92); analyst consensus price target of $89.33 is still 40% below the current price, suggesting further volatility and potential mean reversion",
-        "Revenue remains heavily concentrated in COVID vaccines with ongoing uncertainty about long-term demand; Moderna has been unprofitable and needs cancer vaccine approvals and commercialization to achieve sustainable earnings"
-      ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$149.20",
-      "price_target": "$89.33 (-40.1%)",
-      "pe_ratio": "N/A",
-      "rsi": "92.21",
-      "vs_52wk_high": "-15.5% below high ($176.66)",
-      "analyst_rating": "Hold",
-      "sector": "Healthcare - Biotechnology",
-      "sources": ["CNBC", "Forbes", "FX Leaders", "TipRanks", "StocksToTrade"],
-      "price_history_5d": [63.04, 174.45, 133.32, 149.20]
-    },
     {
       "ticker": "HOOD",
       "company": "Robinhood Markets",
-      "discussion_driver": "Robinhood surged ~13% over the week as Bitcoin broke above $70K following a White House crypto meeting where Trump urged Congress to pass the Digital Asset Market Clarity Act. The company is a direct beneficiary of increased crypto trading volumes and is expanding into private markets and tokenization. Goldman Sachs raised its HOOD price target to $123 and analyst consensus sits at 'Buy' with a $119.82 average target, representing ~10.8% upside from the Aug 21 close.",
+      "discussion_driver": "Robinhood delivered a blowout Q2 with $1.31B revenue (+32% YoY), as CEO confirmed equity trading volumes surpassed the 2021 GameStop peak and options hit record highs. Goldman Sachs raised its price target to $123, making HOOD the top S&P 500 performer on Aug 24 with a +13.7% surge, bolstered by Bitcoin strength and Clarity Act crypto-regulation optimism.",
       "bull_case": [
-        "Bitcoin surpassing $70K with a 22% weekly gain drives massive crypto trading volumes on Robinhood's platform; the Digital Asset Market Clarity Act would provide a major regulatory tailwind for expanded crypto products and revenue growth",
-        "Robinhood's push into private markets and asset tokenization expands its total addressable market beyond retail stock and crypto trading, with a growing user base and sticky subscription revenue diversifying income"
+        "Q2 revenue of $1.31B grew 32% YoY with equity trading volumes surpassing the 2021 GameStop peak and options at record highs, demonstrating exceptional platform growth momentum",
+        "Bitcoin rally and Clarity Act crypto-regulation optimism could drive continued growth in digital asset trading revenue, a key differentiator from traditional brokers"
       ],
       "bear_case": [
-        "Stock is trading 29.7% below its 52-week high of $153.86, reflecting broader market skepticism; HOOD is highly correlated to crypto market sentiment which can reverse sharply and trigger rapid volume declines",
-        "P/E of 42x reflects high growth expectations that may be difficult to sustain if crypto sentiment shifts; heavy retail participation creates volatility that can cut both ways"
+        "Stock is 32.6% below its 52-week high of $153.86, reflecting earlier significant selling pressure and elevated valuation concerns at 47x earnings",
+        "Robinhood's revenue is highly dependent on trading volumes and crypto prices, which are cyclical and can reverse sharply during market downturns or regulatory shifts"
       ],
       "recommendation": "Buy",
-      "current_price": "$108.16",
-      "price_target": "$119.82 (+10.8%)",
-      "pe_ratio": "42.19",
-      "rsi": "62.51",
-      "vs_52wk_high": "-29.7% below high ($153.86)",
-      "analyst_rating": "Buy",
-      "sector": "Financial Services - Online Brokerage",
-      "sources": ["CNBC", "StocksToTrade", "Cryptonomist", "TipRanks", "24/7 Wall St."],
-      "price_history_5d": [96.25, 100.80, 108.16]
-    },
-    {
-      "ticker": "COIN",
-      "company": "Coinbase Global",
-      "discussion_driver": "Coinbase rose ~9% on Aug 21 as Bitcoin surged above $70K and regulatory clarity tailwinds built momentum. The company achieved a third consecutive all-time high in crypto market share at 10.3% in Q2 2026 and received regulatory approval for an Abu Dhabi tokenization hub. Piper Sandler raised its price target to $310 from $285. While the near-term rally is strong, the stock remains ~54% below its 52-week high of $402.16, indicating significant room for recovery.",
-      "bull_case": [
-        "Bitcoin's 22% weekly gain and broader crypto rally directly boosts Coinbase's trading volumes; the White House push for the Digital Asset Market Clarity Act represents a potential structural shift in US crypto regulation that would benefit the largest regulated exchange",
-        "Coinbase's record 10.3% crypto market share in Q2, Abu Dhabi hub approval, and expanding tokenization initiatives position it as the institutional-grade crypto infrastructure play as adoption broadens globally"
-      ],
-      "bear_case": [
-        "The 52-week high of $402.16 is 117% above current price — previous rally peaks have demonstrated severe drawdown risk when crypto sentiment reverses, showing COIN is deeply cyclical and prone to large corrections",
-        "Regulatory environment remains volatile globally despite US progress; any adverse ruling, exchange hack, or crypto market downturn would simultaneously crush trading volumes and crypto asset valuations, creating a double-negative hit"
-      ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$185.21",
-      "price_target": "$241.49 (+30.4%)",
-      "pe_ratio": "33.90",
+      "current_price": "$103.75",
+      "price_target": "$119.93 (+15.6%)",
+      "pe_ratio": "47.88",
       "rsi": "N/A",
-      "vs_52wk_high": "-53.9% below high ($402.16)",
+      "vs_52wk_high": "-32.6% below high ($153.86)",
       "analyst_rating": "Buy",
-      "sector": "Financial Services - Cryptocurrency Exchange",
-      "sources": ["CNBC", "CryptoTimes", "StocksToTrade", "TipRanks", "StockAnalysis"],
-      "price_history_5d": [146.24, 160.20, 172.35, 185.21]
+      "sector": "Financial Services - Digital Brokerage",
+      "sources": ["Yahoo Finance", "CNBC", "StockAnalysis", "TipRanks"],
+      "price_history_5d": []
     },
     {
-      "ticker": "BJ",
-      "company": "BJ's Wholesale Club",
-      "discussion_driver": "BJ's Wholesale Club delivered a strong Q2 FY2026 earnings beat before the open on Aug 21, reporting adj. EPS of $1.36 vs. $1.17 consensus (+16.2% beat) and revenue of $6.23B (+15.7% YoY). The company reached a record 8.5M club members and raised its full-year EPS outlook to $4.60-$4.80, driving a ~4% stock pop. Analyst consensus remains 'Buy' with a $111.41 average price target, implying ~18.3% upside from current levels.",
+      "ticker": "MRNA",
+      "company": "Moderna",
+      "discussion_driver": "Moderna's Phase 3 INTerpath-001 trial success for its personalized mRNA cancer vaccine (intismeran autogene + Keytruda) with Merck triggered a historic 177% single-day surge on Aug 19 to a 52-week high of $176.66. By Aug 24, the stock has pulled back to $139.76 on heavy profit-taking while remaining deeply overbought (RSI 92.21), with consensus analyst price targets far below current price.",
       "bull_case": [
-        "Record 8.5M club memberships and a 16.2% EPS beat with raised full-year guidance demonstrates exceptional consumer spending resilience; the membership model provides recurring high-margin revenue and strong customer retention",
-        "BJ's 15.7% YoY revenue growth in a challenging macro environment highlights its value-proposition competitive moat as consumers continue to shift toward warehouse club shopping for cost savings"
+        "Phase 3 success in melanoma is the first positive final-stage mRNA cancer therapy result, validating Moderna's platform and opening a massive oncology revenue stream via the Merck partnership",
+        "Commercial launch of a personalized mRNA cancer vaccine with Merck's Keytruda could generate multi-billion dollar peak sales and catalyze further pipeline expansions in other tumor types"
       ],
       "bear_case": [
-        "Stock is still 22.2% below its 52-week high of $121.10 and the wholesale retail sector faces potential margin pressure from tariff impacts on imported goods and rising supply chain costs",
-        "Intense competition from Costco and Walmart's Sam's Club limits pricing power and expansion runway; BJ's is the smallest of the three major warehouse clubs and has less geographic diversification"
+        "Stock is deeply overbought (RSI 92.21) and trades 57% above the consensus analyst price target of $89.33, creating significant downside risk as profit-taking pressure continues",
+        "Moderna has negative EPS (-$7.99 TTM) and commercialization of the cancer vaccine will take years; near-term fundamental support for the elevated price is limited"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$139.76",
+      "price_target": "$89.33 (-36.1%)",
+      "pe_ratio": "N/A",
+      "rsi": "92.21",
+      "vs_52wk_high": "-20.9% below high ($176.66)",
+      "analyst_rating": "Hold",
+      "sector": "Healthcare - Biotechnology",
+      "sources": ["Forbes", "Yahoo Finance", "CNBC", "TradingKey", "CapitalStreetFX"],
+      "price_history_5d": [63.00, 174.38, 144.73, 139.76]
+    },
+    {
+      "ticker": "BABA",
+      "company": "Alibaba Group",
+      "discussion_driver": "Alibaba launched a historic $10.2B follow-on share offering (largest-ever primary follow-on by an HK-listed company) at a 3.6% discount to fund AI infrastructure expansion, sending Hong Kong shares down 9.5% and US-listed BABA lower on Aug 24. Despite a 75% drop in Q2 net income from heavy AI capex, cloud revenue surged 45% (22-quarter high), keeping 38 of 39 analysts bullish with an average target of $189.22.",
+      "bull_case": [
+        "Cloud revenue surged 45% in Q2 (22-quarter high), demonstrating powerful AI monetization momentum and reaffirming Alibaba's leadership in Chinese cloud computing",
+        "38 of 39 analysts rate BABA a Buy or Strong Buy with average price target of $189.22, implying 58.6% upside — deep value relative to its AI growth trajectory"
+      ],
+      "bear_case": [
+        "Q2 net income fell 75% as AI capex surged; the $10.2B dilutive share offering raises concerns about whether capital-intensive AI investments will generate sufficient shareholder returns",
+        "US-China geopolitical tensions, regulatory risks in China, and ongoing margin compression from aggressive AI spending pose persistent and significant headwinds"
       ],
       "recommendation": "Buy",
-      "current_price": "$94.21",
-      "price_target": "$111.41 (+18.3%)",
-      "pe_ratio": "23.95",
-      "rsi": "N/A",
-      "vs_52wk_high": "-22.2% below high ($121.10)",
-      "analyst_rating": "Buy",
-      "sector": "Consumer Staples - Wholesale Club Retail",
-      "sources": ["CNBC", "Benzinga", "Schaeffer's Research", "StockAnalysis", "24/7 Wall St."],
-      "price_history_5d": [91.30, 94.21]
+      "current_price": "$119.34",
+      "price_target": "$189.22 (+58.6%)",
+      "pe_ratio": "27.24",
+      "rsi": "46.03",
+      "vs_52wk_high": "-38.0% below high ($192.67)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Consumer Cyclical - E-Commerce / Technology",
+      "sources": ["Bloomberg", "Yahoo Finance", "CNBC", "VantageMarkets", "Schaeffer's Investment Research"],
+      "price_history_5d": [130.57, 119.34]
     },
     {
       "ticker": "NVDA",
       "company": "Nvidia",
-      "discussion_driver": "NVIDIA is building toward its FY Q2 2027 earnings on Aug 26, and the stock gained as Nasdaq snapped a 5-day losing streak on improved AI sentiment. BMO Capital initiated Outperform coverage with a $340 price target, while 62 analysts hold a Strong Buy consensus with a $304.73 average target — 40.5% above the current price. The stock is only 8.3% off its 52-week high, reflecting the market's continued confidence in AI infrastructure spending as a durable theme.",
+      "discussion_driver": "All eyes are on Nvidia ahead of its Aug 26 earnings report, where analysts forecast 87% EPS growth for FY2027 and expect another significant beat. The stock fell on Aug 24 as part of the broader chip sector selloff (SOXX -3%), pulling back from its 52-week high of $236.54. With 62 analysts at Strong Buy consensus and average target of $304.73, the market awaits AI demand signals from the earnings call.",
       "bull_case": [
-        "BMO Capital's $340 initiation and 62-analyst Strong Buy consensus with $304.73 average target signal broad institutional conviction; the Aug 26 earnings report is expected to showcase continued Blackwell GPU ramp and record data center revenue driven by AI training and inference demand",
-        "NVIDIA sits at the center of the AI infrastructure build-out as hyperscalers (Microsoft, Google, Amazon, Meta) continue ramping data center capex; sovereign AI and enterprise GPU demand provide multiple incremental growth vectors beyond just the hyperscalers"
+        "62-analyst Strong Buy consensus with average price target of $304.73 (+46.1% upside) and 87% EPS growth forecast for FY2027 reflect undiminished confidence in sustained AI accelerator demand",
+        "Nvidia holds dominant market share in AI training and inference chips with no credible near-term challenger; hyperscaler capex remains robust and secular AI demand trends are intact"
       ],
       "bear_case": [
-        "Earnings on Aug 26 carry significant execution risk; any miss on data center revenue guidance, Blackwell shipment delays, or softer-than-expected Q3 outlook could trigger a sharp selloff from what remains an elevated valuation",
-        "China AI chip export restrictions remain an ongoing headwind, and any escalation in trade policy could remove a meaningful revenue segment; broader macro uncertainty and rising bond yields weigh on high-multiple growth stocks"
+        "Extreme expectations heading into earnings create a high bar; even strong results could disappoint if guidance misses elevated consensus, risking a sharp sell-the-news reaction",
+        "Broader chip sector selloff and macro headwinds (Iran sanctions, tariff concerns) could continue to weigh on the stock regardless of fundamental results"
       ],
       "recommendation": "Buy",
-      "current_price": "$216.85",
-      "price_target": "$304.73 (+40.5%)",
-      "pe_ratio": "33.16",
-      "rsi": "58.88",
-      "vs_52wk_high": "-8.3% below high ($236.54)",
+      "current_price": "$208.64",
+      "price_target": "$304.73 (+46.1%)",
+      "pe_ratio": "32.88",
+      "rsi": "58.90",
+      "vs_52wk_high": "-11.8% below high ($236.54)",
       "analyst_rating": "Strong Buy",
       "sector": "Technology - Semiconductors",
-      "sources": ["Yahoo Finance", "Bloomberg", "247wallst.com", "TipRanks", "StockAnalysis"],
-      "price_history_5d": [216.85]
+      "sources": ["Yahoo Finance", "Motley Fool", "CNBC", "StockAnalysis", "Tickzen"],
+      "price_history_5d": [214.72, 208.64]
+    },
+    {
+      "ticker": "MRVL",
+      "company": "Marvell Technology",
+      "discussion_driver": "Marvell Technology faces its Aug 27 earnings report after a spectacular year-to-date run (~179% through the prior week), boosted by a $12B Google AI custom chip deal that pushed the stock to $252. Pre-earnings profit-taking combined with the broader chip sector selloff dragged MRVL down 4% to $228.08 on Aug 24, but 44 analysts maintain a Strong Buy rating with average target of $263.94, anchored by the company's growing custom ASIC leadership for AI hyperscalers.",
+      "bull_case": [
+        "The $12B Google AI custom chip (ASIC) deal and Marvell's broadening hyperscaler partnerships position it as a leading custom silicon provider for AI infrastructure with a growing and diversified revenue base",
+        "44 analysts maintain a Strong Buy consensus with average target of $263.94; put/call ratio of 0.56 skews to calls, reflecting market conviction heading into earnings"
+      ],
+      "bear_case": [
+        "Pre-earnings position trimming and chip sector selloff pulled MRVL 30.9% below its 52-week high of $329.88; any earnings miss or guidance shortfall on Aug 27 could trigger a sharp correction",
+        "Trailing PE of 81.46x prices in aggressive growth; competition from in-house chip development by hyperscalers and peers could erode the custom silicon moat over time"
+      ],
+      "recommendation": "Buy",
+      "current_price": "$228.08",
+      "price_target": "$263.94 (+15.7%)",
+      "pe_ratio": "81.46",
+      "rsi": "50.34",
+      "vs_52wk_high": "-30.9% below high ($329.88)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Technology - Semiconductors",
+      "sources": ["24/7 Wall St.", "Yahoo Finance", "CNBC", "HistoricalOptionData"],
+      "price_history_5d": [252.00, 237.04, 228.08]
     }
   ]
 }
