@@ -1,75 +1,75 @@
 {
-  "report_date": "2026-08-21",
+  "report_date": "2026-08-24",
   "batch": 3,
   "stocks": [
     {
-      "ticker": "EFX",
-      "company": "Equifax Inc.",
-      "discussion_driver": "Equifax received a bullish upgrade from Rothschild & Co Redburn to Buy with a raised price target of $235 (from $214), citing improving credit data cycle dynamics and an anticipated recovery in the mortgage market. Trading nearly 29% below its 52-week high, the stock offers meaningful upside to the consensus target if credit and mortgage activity continues to normalize.",
+      "ticker": "MSTR",
+      "company": "Strategy Inc. (formerly MicroStrategy)",
+      "discussion_driver": "Strategy was the best-performing Nasdaq 100 stock on August 24, gaining 2.9% as Bitcoin surged over 23% for the week amid regulatory optimism around the Clarity Act. MSTR functions as a leveraged Bitcoin proxy, holding over 258K BTC, and institutional interest in crypto ETFs is broadening its shareholder base. The stock has recovered from its June 2026 low of $81.81 but remains 66.8% below its 52-week high.",
       "bull_case": [
-        "Mortgage market recovery expected to drive a significant uptick in credit data inquiries, directly boosting Equifax's core analytics and data revenue streams",
-        "Rothschild upgrade highlights improving credit data cycle as consumers and businesses increase borrowing activity, strengthening demand across all Equifax business segments"
+        "Bitcoin price appreciation directly inflates MSTR's balance sheet value; holding 258K+ BTC provides leveraged upside to any sustained crypto rally",
+        "The Clarity Act and growing regulatory legitimacy for crypto creates institutional demand tailwinds that could drive Bitcoin and MSTR significantly higher"
       ],
       "bear_case": [
-        "High sensitivity to the interest rate environment—prolonged elevated rates or a recession could suppress mortgage originations and credit activity, materially cutting EFX revenue",
-        "Ongoing cybersecurity and data breach risk could trigger regulatory penalties, litigation costs, and customer attrition, as past incidents have demonstrated"
+        "Stock carries no traditional earnings power (negative EPS of -$38.78), making valuation purely speculative and vulnerable to any Bitcoin price reversal",
+        "Still down 66.8% from its 52-week high of $365.21, with ongoing dilution risk as MSTR regularly issues shares and convertible debt to fund Bitcoin purchases"
+      ],
+      "recommendation": "Speculative Buy",
+      "current_price": "$121.40",
+      "price_target": "$229.07 (+88.7%)",
+      "pe_ratio": "N/A",
+      "rsi": "50.72",
+      "vs_52wk_high": "-66.8% below high ($365.21)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Technology - Bitcoin/Crypto Proxy",
+      "sources": ["CNBC", "HDFCSky", "MarketBeat", "StocksToTrade", "Robinhood"],
+      "price_history_5d": [119.25]
+    },
+    {
+      "ticker": "CLS",
+      "company": "Celestica Inc.",
+      "discussion_driver": "UBS upgraded Celestica to Buy from Neutral on August 24, raising its price target to $430 from $410, citing AI infrastructure demand strength and data center supply chain growth. The stock has pulled back 39.4% from its 52-week high of $474.02, offering a potential re-entry into a primary AI infrastructure beneficiary. Celestica has tripled over the past year on the back of hyperscaler capex expansion.",
+      "bull_case": [
+        "Celestica is a key AI infrastructure supply chain beneficiary, with growing orders from hyperscalers as data center buildout accelerates globally",
+        "UBS upgrade reinforces the thesis and the 39% pullback from highs offers a more attractive entry point with 38%+ upside to analyst consensus targets"
+      ],
+      "bear_case": [
+        "Elevated P/E of 36.31 leaves little room for error if AI infrastructure spending decelerates or customer concentration risk materializes",
+        "The 39.4% decline from its 52-week high signals potential overextension in the AI supply chain trade with additional downside possible if sentiment shifts"
       ],
       "recommendation": "Buy",
-      "current_price": "$194.07",
-      "price_target": "$220.81 (+13.8%)",
-      "pe_ratio": "32.08",
+      "current_price": "$287.20",
+      "price_target": "$397.00 (+38.3%)",
+      "pe_ratio": "36.31",
       "rsi": "N/A",
-      "vs_52wk_high": "-28.6% below high ($271.84)",
-      "analyst_rating": "Buy",
-      "sector": "Financial Services - Credit Data & Analytics",
-      "sources": ["24/7 Wall St.", "Investing.com", "Rothschild & Co Redburn", "StockAnalysis", "WallStreetZen", "TipRanks"],
-      "price_history_5d": [185.58, 192.41, 194.07]
+      "vs_52wk_high": "-39.4% below high ($474.02)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Technology - AI Infrastructure / EMS",
+      "sources": ["Yahoo Finance", "24/7 Wall St.", "UBS Research", "Barclays", "GuruFocus"],
+      "price_history_5d": [310.59, 302.00, 296.55]
     },
     {
-      "ticker": "TSLA",
-      "company": "Tesla Inc.",
-      "discussion_driver": "Tesla gained 5.37% on Friday, August 21, as part of the broad S&P 500 market recovery, ranking among the session's biggest gainers on strong retail investor enthusiasm. TD Cowen reiterated its Buy rating and $460 target on August 14 citing FSD and robotaxi progress. With Nvidia earnings approaching August 26, AI-adjacent names including Tesla could see continued momentum and volatility.",
+      "ticker": "PHM",
+      "company": "PulteGroup Inc.",
+      "discussion_driver": "Wolfe Research upgraded PulteGroup from Peer Perform to Outperform on August 24 with a $158 price target, highlighting homebuilder resilience amid US-Canada tariff tensions. PHM trades at a historically low P/E of 12.25 near its 52-week high, suggesting the market is pricing in continued earnings strength. Analyst consensus target of $143.14 reflects broad confidence in PulteGroup's backlog and market positioning.",
       "bull_case": [
-        "TD Cowen reiterates Buy with $460 target citing FSD progress and robotaxi deployment potential as a massive multi-billion dollar addressable market that could transform Tesla's revenue mix",
-        "Retail investor enthusiasm and strong brand loyalty continue to support the stock, with Tesla among the S&P 500's biggest gainers on broad market recovery days, demonstrating persistent demand"
+        "Low P/E of 12.25 is historically cheap for a top-tier homebuilder, with significant potential for multiple expansion as the housing market weathers tariff impacts better than feared",
+        "Wolfe Research upgrade with $158 target (21.5% upside) and Citizens $145 target reflect broad institutional confidence in PulteGroup's execution and demand pipeline"
       ],
       "bear_case": [
-        "Extreme trailing P/E of ~350x leaves no margin for execution shortfalls; any disappointment in autonomous driving timelines or EV delivery numbers could trigger a severe selloff",
-        "BYD and other Chinese EV makers intensify global competition, creating pricing pressure and threatening Tesla's market share and margins in key growth markets"
+        "US-Canada tariff tensions and potential lumber and materials cost pressures could compress margins and weigh on earnings for homebuilders through H2 2026",
+        "Any slowdown in consumer confidence or mortgage rate spike could reduce new home demand in PulteGroup's key markets, pressuring the order backlog"
       ],
-      "recommendation": "Hold",
-      "current_price": "$357.28",
-      "price_target": "$396.62 (+11.0%)",
-      "pe_ratio": "349.6",
+      "recommendation": "Buy",
+      "current_price": "$130.05",
+      "price_target": "$143.14 (+10.1%)",
+      "pe_ratio": "12.25",
       "rsi": "N/A",
-      "vs_52wk_high": "-26.9% below high ($488.54)",
+      "vs_52wk_high": "-8.8% below high ($142.56)",
       "analyst_rating": "Buy",
-      "sector": "Consumer Discretionary - EVs",
-      "sources": ["CNBC", "TheStreet", "TD Cowen via Yahoo Finance", "StockAnalysis", "24/7 Wall St.", "The Motley Fool"],
-      "price_history_5d": [342.27, 351.12, 346.81, 357.28]
-    },
-    {
-      "ticker": "HUBB",
-      "company": "Hubbell Incorporated",
-      "discussion_driver": "Hubbell was freshly initiated by Baird at Outperform with a $555 price target, highlighting strong secular tailwinds from electrical grid modernization and AI data center buildout. Despite reporting a Q2 2026 earnings beat and raising full-year guidance, shares have slipped nearly 8% over the past week from ~$511 to ~$470 as rising net debt from the NSI acquisition clouded the otherwise-positive fundamental picture.",
-      "bull_case": [
-        "Baird's Outperform initiation with $555 target cites powerful secular tailwinds from grid modernization and data center buildout; management backed this by raising full-year sales and EPS guidance after a strong Q2 beat",
-        "Growing multi-year infrastructure spending tied to AI data center expansion creates sustained demand for Hubbell's electrical components, switchgear, and grid solutions"
-      ],
-      "bear_case": [
-        "Post-earnings share price declined ~5% despite a Q2 beat and raised guidance, with analysts flagging rising NSI acquisition net debt as a concern that could compress free cash flow and limit financial flexibility",
-        "If organic growth disappoints or interest rates remain elevated, acquisition integration costs and heavier debt load could weigh materially on returns and dividend growth expectations"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$469.76",
-      "price_target": "$544.84 (+16.0%)",
-      "pe_ratio": "28.79",
-      "rsi": "N/A",
-      "vs_52wk_high": "-16.9% below high ($565.50)",
-      "analyst_rating": "Buy",
-      "sector": "Industrials - Electrical Equipment",
-      "sources": ["24/7 Wall St.", "MarketBeat", "Baird", "GuruFocus", "SahmCapital", "StockAnalysis", "ChartMill"],
-      "price_history_5d": [511.39, 483.86, 469.76]
+      "sector": "Consumer Discretionary - Homebuilders",
+      "sources": ["Yahoo Finance", "24/7 Wall St.", "Wolfe Research", "Citi", "Daily Political"],
+      "price_history_5d": [130.68, 127.67, 128.97]
     }
   ]
 }
