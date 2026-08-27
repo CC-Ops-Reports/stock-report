@@ -1,135 +1,129 @@
 {
-  "report_date": "2026-08-25",
+  "report_date": "2026-08-26",
   "batch": 1,
-  "market_tone": "Mixed",
+  "market_tone": "Bullish",
   "key_themes": [
-    "Nvidia earnings anticipation drives chip stock rally ahead of Wednesday report",
-    "Athletic footwear sector in turmoil as Dick's Sporting Goods crashes 31% on Foot Locker losses",
-    "Moderna recovers on cancer vaccine momentum; personalized mRNA melanoma trial milestone"
+    "Nvidia AI earnings blowout confirms accelerating AI infrastructure demand — AWS buying 2M Nvidia GPUs",
+    "Tariff relief turbocharges retailers: ANF surges 40%+, Kohl's raises guidance on $150M refund",
+    "Software sector bifurcates: enterprise cloud (Salesforce, CrowdStrike, Okta) surges after hours while consumer software (Intuit, Zoom) struggles on guidance misses"
   ],
-  "sp500": {
-    "value": "7,677.28",
-    "change": "+0.32%"
-  },
-  "nasdaq": {
-    "value": "N/A",
-    "change": "+0.60%"
-  },
+  "sp500": {"value": "7,677.24", "change": "+0.3%"},
+  "nasdaq": {"value": "26,151.30", "change": "+0.7%"},
   "stocks": [
-    {
-      "ticker": "DKS",
-      "company": "DICK'S Sporting Goods",
-      "discussion_driver": "DICK'S reported Q2 EPS of $3.53 (vs $3.78 estimate) and revenue of $5.59B (vs $5.65B estimate), then slashed full-year EPS guidance to $11-$12 from $13.50-$14.50, blaming Foot Locker losses and a broad athletic footwear slump. The stock suffered its worst single-day decline in company history, falling over 24-30%, and set a new 52-week low, raising urgent questions about the durability of the sporting goods retail model.",
-      "bull_case": [
-        "Extreme oversold valuation at ~13.7x trailing earnings could attract value buyers if athletic footwear headwinds prove temporary and World Cup 2026 demand materializes",
-        "Fast Break store remodel program and potential Nike product launch normalization could restore comp sales momentum in the back half"
-      ],
-      "bear_case": [
-        "Guidance cut of nearly 20% at the midpoint ($11-12 vs $13.50-14.50) signals a structural deterioration in the athletic footwear category, not a one-quarter blip",
-        "Analyst price targets (~$240) were set before the crash and will be heavily revised downward; risk of multiple further target cuts and rating downgrades"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$135.80",
-      "price_target": "$239.68 (+76.5%)",
-      "pe_ratio": "13.70",
-      "rsi": "N/A",
-      "vs_52wk_high": "-44.4% below high ($244.38)",
-      "analyst_rating": "Buy",
-      "sector": "Consumer Cyclical - Retail",
-      "sources": ["CNBC", "Seeking Alpha", "Motley Fool", "Gurufocus", "StockAnalysis"],
-      "price_history_5d": [183.23, 179.33, 135.80]
-    },
     {
       "ticker": "NVDA",
       "company": "NVIDIA Corporation",
-      "discussion_driver": "NVIDIA reports Q2 fiscal 2027 earnings after market close tomorrow (August 26), with analysts expecting $2.09 EPS (+100% YoY) and $92.2B revenue (+97% YoY). The stock is up ~2% today as chip stocks broadly rally in anticipation, with 58 of 61 covering analysts rating it Buy or Strong Buy — making this the most consequential tech earnings event of the quarter.",
+      "discussion_driver": "Q2 FY27 earnings delivered a massive beat — EPS $2.22 vs $2.09 expected, revenue $96.2B (+106% YoY), data center segment hit $89B. Amazon's commitment to buy 2 million Nvidia GPUs confirmed the AI infrastructure supercycle is accelerating. Stock gapped up post-earnings after closing at $209.66 on Aug 26.",
       "bull_case": [
-        "Consensus analyst target of $304.73 implies 43.6% upside; 58 of 61 analysts rate Buy/Strong Buy, reflecting unmatched AI accelerator demand across hyperscalers",
-        "Data center revenue has grown triple-digits for consecutive quarters; Blackwell GPU ramp and sovereign AI spending wave represent structural multi-year growth tailwinds"
+        "AI infrastructure supercycle driving unprecedented data center GPU demand — AWS committed to buying 2M Nvidia GPUs, confirming durable secular demand",
+        "Revenue grew 106% YoY to $96.2B with Q3 guidance of $108B well above $104.2B consensus estimate, demonstrating no visible slowdown in hyper-growth"
       ],
       "bear_case": [
-        "Stock trades near its 52-week high ahead of earnings — any guidance disappointment or slowing growth rate vs. elevated expectations could trigger a sharp correction",
-        "At ~32x trailing earnings, valuation is compressed only if growth continues accelerating; export control risks to China and rising competition from AMD MI400 pose real threats"
+        "Elevated valuation at 32x trailing earnings with stock up ~19.7% over 52 weeks makes near-term correction risk material on any guidance miss",
+        "Geopolitical and export control risks to China could limit GPU sales and curtail future revenue growth in a key global market"
       ],
       "recommendation": "Buy",
-      "current_price": "$212.29",
-      "price_target": "$304.73 (+43.6%)",
-      "pe_ratio": "31.93",
+      "current_price": "$218.90",
+      "price_target": "$305.41 (+39.5%)",
+      "pe_ratio": "32.63",
       "rsi": "N/A",
-      "vs_52wk_high": "-10.2% below high ($236.54)",
+      "vs_52wk_high": "-7.5% below high ($236.54)",
       "analyst_rating": "Strong Buy",
       "sector": "Technology - Semiconductors",
-      "sources": ["Yahoo Finance", "Kiplinger", "Motley Fool", "Intellectia", "StockAnalysis"],
-      "price_history_5d": [219.12, 214.72, 208.48, 212.29]
+      "sources": ["CNBC", "Kiplinger", "TipRanks", "Benzinga", "StockAnalysis", "Investing.com"],
+      "price_history_5d": [213.05, 209.66, 218.90]
     },
     {
-      "ticker": "MRNA",
-      "company": "Moderna Inc.",
-      "discussion_driver": "Moderna surged ~13.65% as investors continued to buy the dip following last week's landmark Phase 3 success of intismeran autogene (personalized mRNA cancer vaccine) in melanoma. Wolfe Research upgraded from Underperform to Peer Perform and BofA raised its target to $170, signaling growing credibility in Moderna's oncology pivot, though most analysts remain skeptical with a consensus target well below the current stock price.",
+      "ticker": "ANF",
+      "company": "Abercrombie & Fitch",
+      "discussion_driver": "Surged 37-42% after Q2 earnings beat with EPS $4.17 (including $1.75/share tariff refund benefit) and a $100M tariff cash refund boosting the balance sheet. Revenue rose 4.8% YoY to $1.27B and full-year guidance was raised, triggering one of the biggest single-day retail moves of 2026 and setting a new 52-week high at $149.26.",
       "bull_case": [
-        "Personalized mRNA cancer vaccine platform could represent a multi-billion dollar commercial opportunity if FDA approval is secured — a true paradigm shift in oncology",
-        "mFLUSIVA flu vaccine approval reduces total dependence on COVID revenue; pipeline diversification lowers single-product binary risk"
+        "$100M tariff refund provides immediate cash boost and $1.75/share EPS benefit demonstrates outsized relief for tariff-exposed retailers that now have pricing flexibility",
+        "Raised full-year guidance signals management confidence in sustained consumer spending strength across all three brand segments"
       ],
       "bear_case": [
-        "Wall Street analyst consensus price target of $99.82 is 34.5% below the current price, reflecting deep skepticism about near-term commercial viability and ongoing cash burn",
-        "Commercializing a personalized cancer vaccine at scale faces major manufacturing and reimbursement hurdles; timelines to meaningful revenue are measured in years, not quarters"
+        "Stock now trades 30% above analyst consensus price target of $115.25, meaning near-term upside is limited until analysts revise targets post-earnings",
+        "The tariff refund is a one-time benefit that does not address underlying competitive pressures in the teen and young-adult apparel market"
       ],
       "recommendation": "Hold",
-      "current_price": "$152.48",
-      "price_target": "$99.82 (-34.5%)",
-      "pe_ratio": "N/A",
-      "rsi": "N/A",
-      "vs_52wk_high": "-13.7% below high ($176.66)",
-      "analyst_rating": "Hold",
-      "sector": "Healthcare - Biotechnology",
-      "sources": ["Yahoo Finance", "Forbes", "Blockonomi", "StocksToTrade", "MarketScreener"],
-      "price_history_5d": [176.60, 144.73, 138.89, 152.48]
+      "current_price": "$149.26",
+      "price_target": "$115.25 (-22.8%)",
+      "pe_ratio": "10.2",
+      "rsi": "63.40",
+      "vs_52wk_high": "0.0% (at new 52-week high of $149.26)",
+      "analyst_rating": "Moderate Buy",
+      "sector": "Consumer Discretionary - Retail Apparel",
+      "sources": ["CNBC", "Yahoo Finance", "24/7 Wall St.", "Investing.com", "MarketBeat", "TipRanks"],
+      "price_history_5d": [110.14, 149.26]
     },
     {
-      "ticker": "AMD",
-      "company": "Advanced Micro Devices",
-      "discussion_driver": "AMD jumped ~4.9% after Raymond James upgraded the stock to Strong Buy and raised its price target to $641 (from $565), implying ~35% upside from recent levels. The move is part of a broader chip sector rally building ahead of NVIDIA's earnings report tomorrow, with AMD's Q2 Data Center revenue having grown 107% YoY to a record $6.7B, reinforcing its AI infrastructure credentials.",
+      "ticker": "CRM",
+      "company": "Salesforce",
+      "discussion_driver": "After-hours surge of +12-13% on Q2 beat: EPS $5.90 vs $3.27 consensus (+$2.63 beat), revenue $11.3B. AI Agentforce automation drove margin expansion and full-year 2027 EPS guidance was raised to $16.67-$16.71. Stock remains 44% below its 52-week high of $369, suggesting significant recovery runway despite the strong report.",
       "bull_case": [
-        "Raymond James sees $641 price target (Strong Buy); data center revenue growing 107% YoY with MI400 GPU roadmap positioned to capture enterprise AI workloads competing with NVIDIA",
-        "189.70% gain over the past 52 weeks reflects genuine AI-driven earnings growth, not multiple expansion — consensus $613 target implies further upside"
+        "AI Agentforce platform delivering real margin expansion with EPS beating consensus by 80% and full-year guidance raised — monetization of AI investment is materializing",
+        "Stock trades 44% below its 52-week high of $369 and analyst consensus target of $242 implies +18% upside from current levels, offering compelling risk/reward post-selloff"
       ],
       "bear_case": [
-        "Trading at 121x trailing earnings with an extremely high valuation — any macro deceleration in AI infrastructure spending would disproportionately punish AMD's premium multiple",
-        "NVIDIA holds dominant 70-80% market share in AI accelerators; AMD's MI-series adoption is growing but faces entrenched customer relationships and CUDA ecosystem lock-in"
+        "Stock down 28-30% YTD and 30%+ from 52-week high despite earnings strength, reflecting lingering investor concerns about AI-native competitors disrupting traditional CRM workflows",
+        "Revenue growth decelerating vs. prior years as market saturation and competition from AI-native startups intensifies in core sales and service verticals"
       ],
       "recommendation": "Buy",
-      "current_price": "$475.00",
-      "price_target": "$613.09 (+29.1%)",
-      "pe_ratio": "121.29",
+      "current_price": "$205.69",
+      "price_target": "$242.64 (+18.0%)",
+      "pe_ratio": "23.81",
       "rsi": "N/A",
-      "vs_52wk_high": "-18.8% below high ($584.73)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Technology - Semiconductors",
-      "sources": ["CNBC", "247 Wall St.", "Benzinga", "StockAnalysis", "MarketBeat"],
-      "price_history_5d": [466.42, 473.25, 456.75, 475.00]
+      "vs_52wk_high": "-44.3% below high ($369.00)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - Cloud Software",
+      "sources": ["CNBC", "Yahoo Finance", "Investing.com", "StockAnalysis", "MarketBeat", "Public.com"],
+      "price_history_5d": [209.06, 205.69]
+    },
+    {
+      "ticker": "CRWD",
+      "company": "CrowdStrike Holdings",
+      "discussion_driver": "Jumped 10-12% after hours on Q2 earnings beat: EPS $0.31, revenue $1.47B (+26% YoY), and record net new ARR of $332.8M (+51% YoY). Full-year 2027 revenue guidance raised to $5.99-6.01B. CEO George Kurtz cited the 'Mythos moment' — accelerating AI adoption demand for security — as enterprises scramble to secure AI deployments.",
+      "bull_case": [
+        "Record net new ARR of $332.8M (+51% YoY) signals accelerating platform consolidation as enterprises shift to unified AI-native cybersecurity",
+        "Annual recurring revenue of $5.84B growing 25% YoY with raised full-year guidance confirms highly predictable, durable revenue growth in an essential category"
+      ],
+      "bear_case": [
+        "Stock now trading above analyst consensus target of $210.54 and near its 52-week high of $227.50, limiting near-term upside after the post-earnings gap-up",
+        "Extremely high trailing PE of 185x leaves little margin for error — any deceleration in ARR growth or macro slowdown in enterprise IT spending could trigger significant multiple compression"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$225.10",
+      "price_target": "$210.54 (-6.5%)",
+      "pe_ratio": "185.24",
+      "rsi": "N/A",
+      "vs_52wk_high": "-1.1% below high ($227.50)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - Cybersecurity",
+      "sources": ["CNBC", "Yahoo Finance", "Investing.com", "StockAnalysis", "QZ.com", "247wallst.com"],
+      "price_history_5d": [185.38, 188.63, 225.10]
     },
     {
       "ticker": "INTU",
-      "company": "Intuit Inc.",
-      "discussion_driver": "Intuit posted a strong Q4 2026 beat (EPS $4.03 vs $3.54 estimate, revenue $4.4B topping expectations), but fell ~9% after-hours as FY2027 EPS guidance of $22.88-$23.12 missed the $23.83 consensus and Q1 2027 EPS guidance of $2.44-$2.48 dramatically missed the $4.02 consensus, raising concerns about the pace of its AI-driven consumer and SMB platform transition.",
+      "company": "Intuit",
+      "discussion_driver": "Fell 6-9% despite beating Q4 earnings (EPS $4.03 vs $3.59 consensus) after issuing FY27 EPS guidance of $22.88-$23.12 — well below analyst consensus of $27.30. The guidance miss dragged the broader software sector, with ServiceNow and Workday falling ~2% in sympathy. Stock now trades 55% below its 52-week high, reflecting an extended re-rating.",
       "bull_case": [
-        "TurboTax Live showing 36% revenue growth and 38% customer growth; new AI-driven consumption-based pricing model expands total addressable market across tax, accounting, and payments",
-        "25 Buy ratings vs 2 Sell; analyst consensus target of $427 implies 18.4% upside from current depressed levels, and the stock has already absorbed a ~49% drawdown from 52-week highs"
+        "Core TurboTax and QuickBooks franchises retain dominant market share with high switching costs and growing subscription revenue providing recurring cash flow stability",
+        "Analyst consensus price target of $427 implies 26.7% upside as valuation has compressed significantly from prior peaks, potentially creating a value entry point"
       ],
       "bear_case": [
-        "Q1 2027 EPS guidance of $2.44-$2.48 vs. $4.02 consensus is a massive miss, suggesting the AI monetization ramp is slower and lumpier than the market expected",
-        "The stock is -49% from its 52-week high of $705.08, indicating prolonged investor disappointment with the growth-vs-valuation profile; further multiple compression is possible"
+        "FY27 EPS guidance of $22.88-$23.12 came in 16% below analyst consensus of $27.30, signaling structural headwinds from AI-native competitors disrupting tax preparation and bookkeeping",
+        "Stock already down 55% from its 52-week high before this earnings-day decline, suggesting a prolonged re-rating rather than a temporary dip, with the 200-day MA far above current price"
       ],
       "recommendation": "Hold",
-      "current_price": "$360.53",
-      "price_target": "$427.00 (+18.4%)",
+      "current_price": "$337.00",
+      "price_target": "$427.00 (+26.7%)",
       "pe_ratio": "20.74",
       "rsi": "71.36",
-      "vs_52wk_high": "-48.9% below high ($705.08)",
+      "vs_52wk_high": "-55.1% below high ($750.55)",
       "analyst_rating": "Buy",
       "sector": "Technology - Financial Software",
-      "sources": ["Investing.com", "TipRanks", "TheStreet", "MarketBeat", "StockStory"],
-      "price_history_5d": [363.87, 367.00, 369.92, 360.53]
+      "sources": ["CNBC", "TheStreet", "Benzinga", "StockAnalysis", "Clearank", "MacroTrends"],
+      "price_history_5d": [367.00, 361.90, 357.46, 337.00]
     }
   ]
 }
