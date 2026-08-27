@@ -1,81 +1,36 @@
 {
-  "report_date": "2026-08-26",
+  "report_date": "2026-08-27",
   "market_tone": "Bullish",
   "key_themes": [
-    "Nvidia AI earnings blowout confirms accelerating AI infrastructure demand \u2014 AWS buying 2M Nvidia GPUs",
-    "Tariff relief turbocharges retailers: ANF surges 40%+, Kohl's raises guidance on $150M refund",
-    "Software sector bifurcates: enterprise cloud (Salesforce, CrowdStrike, Okta) surges after hours while consumer software (Intuit, Zoom) struggles on guidance misses"
+    "Nvidia Q2 blowout drives AI/chip rally \u2014 revenue $96.2B (+106% YoY), guided Q3 to $106-110B",
+    "Software earnings sweep \u2014 Salesforce, CrowdStrike, Okta all crushed estimates; cybersecurity sector surges",
+    "Jackson Hole in focus \u2014 new Fed Chair Kevin Warsh speaks Friday; markets parsing rate path signals"
   ],
   "sp500": {
-    "value": "7,677.24",
-    "change": "+0.3%"
+    "value": "7,720.49",
+    "change": "+0.58%"
   },
   "nasdaq": {
-    "value": "26,151.30",
-    "change": "+0.7%"
+    "value": "26,168.46",
+    "change": "+0.39%"
   },
   "stocks": [
     {
       "ticker": "NVDA",
-      "company": "NVIDIA Corporation",
-      "reason": "Q2 FY27 earnings blowout after hours: EPS $2.22 vs $2.09 expected, revenue $96.2B (+106% YoY), data center $89B; Q3 guidance $108B vs $104.2B estimate; Amazon AWS announced purchase of 2M Nvidia GPUs",
+      "company": "Nvidia Corporation",
+      "reason": "Q2 revenue $96.2B beat est. $92.27B (+106% YoY); EPS $2.22 vs $2.09 est.; guided Q3 to $106-110B; stock up ~9%",
       "category": "earnings",
       "sources": [
+        "Bloomberg",
         "CNBC",
-        "Kiplinger",
-        "TipRanks",
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "ANF",
-      "company": "Abercrombie & Fitch",
-      "reason": "Surged 37-42% after Q2 earnings beat (EPS $4.17 including $1.75/share tariff refund benefit), $100M tariff refund, and raised full-year guidance; revenue up 4.8% YoY to $1.27B",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance",
-        "24/7 Wall St.",
-        "Investing.com"
+        "Forbes",
+        "Yahoo Finance"
       ]
     },
     {
       "ticker": "CRM",
-      "company": "Salesforce",
-      "reason": "After-hours surge +12% on Q2 beat: EPS $5.90 ($2.63 above consensus), revenue $11.3B; full-year 2027 EPS guidance raised to $16.67-$16.71; AI Agentforce automation driving margin expansion",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance",
-        "Investing.com"
-      ]
-    },
-    {
-      "ticker": "CRWD",
-      "company": "CrowdStrike Holdings",
-      "reason": "After-hours +10% on Q2 earnings beat (EPS $0.31, revenue $1.47B); full-year 2027 revenue guidance raised to $5.99-6.01B; strong platform consolidation and gross retention metrics",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance",
-        "Investing.com"
-      ]
-    },
-    {
-      "ticker": "INTU",
-      "company": "Intuit",
-      "reason": "Fell 9.2% after beating Q4 earnings but issuing weak next-year guidance; weak forward outlook dragged software sector lower \u2014 ServiceNow and Workday each fell ~2%",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "TheStreet",
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "ZM",
-      "company": "Zoom Communications",
-      "reason": "Fell 6-7% after Q3 guidance missed: EPS outlook $1.46-$1.48 vs FactSet estimate of $1.50; overshadowed strong fiscal Q2 earnings beat",
+      "company": "Salesforce, Inc.",
+      "reason": "Q2 adjusted EPS $5.90 crushed LSEG estimate of $3.27; stock jumped ~12% on earnings beat",
       "category": "earnings",
       "sources": [
         "CNBC",
@@ -83,42 +38,30 @@
       ]
     },
     {
-      "ticker": "DKS",
-      "company": "Dick's Sporting Goods",
-      "reason": "Plunged ~30% after Q2 earnings miss (EPS $3.53 vs $3.76 expected) and sharply slashed full-year EPS guidance to $11-$12 from $13.50-$14.50, citing Foot Locker weakness; also downgraded to Hold at Truist today",
+      "ticker": "CRWD",
+      "company": "CrowdStrike Holdings",
+      "reason": "Q2 revenue and EPS beat consensus; full-year earnings guidance topped estimates; stock surged ~19%",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "Seeking Alpha",
-        "Yahoo Finance",
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "URBN",
-      "company": "Urban Outfitters",
-      "reason": "Reported record Q2 results after hours: net income $240.7M, EPS $2.78, total net sales up 10.4% YoY to record $1.66B; strong consumer spending at all three brands",
-      "category": "earnings",
-      "sources": [
-        "GlobeNewswire",
-        "CNBC",
-        "MarketBeat"
+        "Yahoo Finance"
       ]
     },
     {
       "ticker": "OKTA",
-      "company": "Okta",
-      "reason": "Reported Q2 earnings after market close on Aug 26; cybersecurity name surged in after-hours session alongside Salesforce and CrowdStrike as AI-driven security demand remains strong",
+      "company": "Okta, Inc.",
+      "reason": "Q2 adjusted EPS $1.05 on revenue $805M beat expectations; raised full-year guidance; stock up 27%; also upgraded by BofA to Neutral",
       "category": "earnings",
       "sources": [
-        "Yahoo Finance",
-        "Investing.com"
+        "CNBC",
+        "247wallst.com",
+        "Yahoo Finance"
       ]
     },
     {
-      "ticker": "META",
-      "company": "Meta Platforms",
-      "reason": "Gained 2-3% after the company and state attorneys general reached a settlement in a lawsuit alleging Meta deliberately made its social media applications addictive for teenagers",
+      "ticker": "GPS",
+      "company": "Gap Inc.",
+      "reason": "Stock jumped ~15% on news Michael Francis named new Old Navy CEO (starts Nov. 2), offsetting mixed Q2 results; also up ~14% in after-hours",
       "category": "news",
       "sources": [
         "CNBC",
@@ -126,20 +69,29 @@
       ]
     },
     {
-      "ticker": "SEDG",
-      "company": "SolarEdge Technologies",
-      "reason": "Upgraded to Buy from Neutral at UBS today with target raised to $42 from $36; also featured in premarket movers as solar sector gains momentum",
-      "category": "upgrade",
+      "ticker": "WEN",
+      "company": "Wendy's Company",
+      "reason": "Stock fell ~15% after Reuters reported Trian Fund Management (Nelson Peltz) does not plan to bid for the company due to strategic concerns",
+      "category": "news",
       "sources": [
         "CNBC",
-        "Yahoo Finance",
-        "247wallst.com"
+        "Reuters"
       ]
     },
     {
-      "ticker": "KSS",
-      "company": "Kohl's",
-      "reason": "Rose ~2% after raising full-year outlook, boosted by $150M in tariff refunds received in Q2 and restarting share buybacks of up to $100M in 2026",
+      "ticker": "HRL",
+      "company": "Hormel Foods Corporation",
+      "reason": "Q3 earnings released; stock tumbled ~9% as full-year guidance ($1.45-$1.51 EPS, $12.1-12.2B revenue) disappointed the Street",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "SEC Filing"
+      ]
+    },
+    {
+      "ticker": "BBY",
+      "company": "Best Buy Co., Inc.",
+      "reason": "Q2 earnings and revenue beat estimates but stock fell ~4% on cautious analyst outlook due to little-changed profit margins; also downgraded by Wall Street",
       "category": "earnings",
       "sources": [
         "CNBC",
@@ -147,32 +99,72 @@
       ]
     },
     {
-      "ticker": "ARGX",
-      "company": "argenx SE",
-      "reason": "Upgraded to Buy from Neutral at UBS with price target dramatically raised to $1,400 from $960, highlighting strong pipeline momentum in autoimmune therapies",
-      "category": "upgrade",
+      "ticker": "ADSK",
+      "company": "Autodesk, Inc.",
+      "reason": "Q2 revenue and profit topped expectations; stock gained ~6.21% in after-hours trading despite guidance that potentially disappointed",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Benzinga",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "WDAY",
+      "company": "Workday, Inc.",
+      "reason": "Q2 fiscal 2027 earnings reported after close; stock up ~1.48% in extended hours; entered report with 91% beat probability and four straight EPS beats",
+      "category": "earnings",
       "sources": [
         "Yahoo Finance",
+        "MarketBeat"
+      ]
+    },
+    {
+      "ticker": "PANW",
+      "company": "Palo Alto Networks",
+      "reason": "Surged ~13% in sympathy with cybersecurity sector rally led by CrowdStrike and Okta earnings beats; Rosenblatt raised Rubrik price target boosting sector",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "FSLR",
+      "company": "First Solar, Inc.",
+      "reason": "Upgraded to Outperform from Market Perform at BMO Capital with $265 price target; part of Thursday top analyst calls",
+      "category": "upgrade",
+      "sources": [
         "247wallst.com",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "ANF",
+      "company": "Abercrombie & Fitch Co.",
+      "reason": "Downgraded to Neutral from Buy at Citigroup with $156 price target; shares fell on news",
+      "category": "downgrade",
+      "sources": [
+        "Yahoo Finance",
+        "247wallst.com"
+      ]
+    },
+    {
+      "ticker": "DLTR",
+      "company": "Dollar Tree, Inc.",
+      "reason": "Q2 fiscal 2026 earnings reported before open; consensus revenue $4.85B (+6.3% YoY) and EPS $1.11 (+44.2% YoY); market reaction tied to guidance",
+      "category": "earnings",
+      "sources": [
+        "SEC Filing",
+        "Yahoo Finance",
         "Benzinga"
       ]
     },
     {
-      "ticker": "TEAM",
-      "company": "Atlassian",
-      "reason": "Initiated at Outperform by RBC Capital with $215 price target; initiation highlights strong enterprise software demand and AI-driven product expansion",
-      "category": "upgrade",
-      "sources": [
-        "247wallst.com",
-        "CNBC",
-        "DailyTradeAlert"
-      ]
-    },
-    {
-      "ticker": "NOW",
-      "company": "ServiceNow",
-      "reason": "Fell ~2% as Intuit's weak forward guidance triggered broad software sector selloff; ServiceNow and Workday were among the biggest sympathy losers in the enterprise software space",
-      "category": "sector",
+      "ticker": "VEEV",
+      "company": "Veeva Systems Inc.",
+      "reason": "Q2 earnings reported after close; analysts modeling $396.22M revenue and EPS of $0.04; subscription ARR growth and net retention in focus; mentioned in CNBC midday movers",
+      "category": "earnings",
       "sources": [
         "CNBC",
         "Yahoo Finance"
