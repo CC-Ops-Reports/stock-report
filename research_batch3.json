@@ -1,121 +1,121 @@
 {
-  "report_date": "2026-08-25",
+  "report_date": "2026-08-26",
   "batch": 3,
   "stocks": [
     {
-      "ticker": "CMG",
-      "company": "Chipotle Mexican Grill",
-      "discussion_driver": "Baird downgraded CMG to Neutral from Outperform on August 24, cutting the price target to $40 from $44 and citing 'CMG may need to spend more to grow less' due to margin pressure and a cautious setup ahead of earnings. The stock had already been under pressure from an August 4 salmonella outbreak linked to jalapeños at Minnesota locations, which pushed shares down ~10% before a partial recovery. Despite the headwinds, 51 analysts maintain a Buy/Strong Buy consensus with a median target of $45, seeing the dip as a potential entry point.",
+      "ticker": "SEDG",
+      "company": "SolarEdge Technologies, Inc.",
+      "discussion_driver": "UBS upgraded SEDG from Neutral to Buy with a $42 price target, citing an FCC ban on foreign-made inverters as a major policy tailwind — the rule affects ~50% of the domestic market, positioning SolarEdge to capture market share and pricing power in a supply-constrained environment. The company also returned to non-GAAP operating profitability in Q2 2026, its first since Q2 2023, with revenue of $346M (+19.6% YoY), boosting the turnaround narrative.",
       "bull_case": [
-        "Strong Q2 2026 results with raised full-year guidance demonstrate resilient consumer demand and best comp quarter in several periods, providing a fundamental foundation for recovery",
-        "Consensus Buy rating from 51 analysts with a median price target of $45 implies 32% upside; Chipotle has a proven track record of recovering brand trust after prior food safety events (E. coli 2015-2018)"
+        "FCC ban on foreign inverter imports creates a supply-constrained domestic market, giving SolarEdge a meaningful competitive advantage and the ability to raise prices as cheaper imports are restricted — UBS sees 40% upside from this policy shift alone",
+        "Q2 2026 marked the company's return to non-GAAP operating profitability with revenue up 19.6% YoY and Q2 revenue beating consensus ($346.2M vs. $341.2M estimated), demonstrating that the operational recovery is underway"
       ],
       "bear_case": [
-        "August salmonella/cyclospora outbreak could cause lasting consumer confidence damage and depress comparable sales for multiple quarters, with litigation risk still unresolved",
-        "Baird downgrade highlights structural margin compression ahead; stock remains below 200-day moving average ($34.84), signaling the intermediate uptrend has not fully repaired"
+        "Company remains GAAP unprofitable (trailing P/E negative) and Q3 2026 guidance of $310M-$340M implies a sequential revenue step-down, tempering near-term growth expectations",
+        "Grandfathered inverter models can continue to ship under the FCC rule, meaning competitive relief will play out gradually over quarters — the supply tightening is not immediate"
       ],
-      "recommendation": "Hold",
-      "current_price": "$34.00",
-      "price_target": "$43.03 (+26.6%)",
-      "pe_ratio": "34.19",
-      "rsi": "51.1",
-      "vs_52wk_high": "-22.7% below high ($43.99)",
-      "analyst_rating": "Buy",
-      "sector": "Consumer Discretionary - Restaurants",
-      "sources": ["247 Wall St.", "Motley Fool", "Baird (via Benzinga)", "TradingKey", "TOPONE Markets", "Investing.com"],
-      "price_history_5d": [34.66, 34.50, 34.20, 33.80, 33.50]
+      "recommendation": "Speculative Buy",
+      "current_price": "$33.09",
+      "price_target": "$38.00 (+14.8%)",
+      "pe_ratio": "N/A (unprofitable)",
+      "rsi": "33.38",
+      "vs_52wk_high": "-57.9% below high ($78.51)",
+      "analyst_rating": "Hold",
+      "sector": "Technology - Solar Energy / Inverters",
+      "sources": ["CNBC", "UBS Research", "Yahoo Finance", "247wallst.com", "Investing.com", "FinancialContent"],
+      "price_history_5d": [30.30, 30.83, 29.88, 30.00, 33.09]
     },
     {
-      "ticker": "DRI",
-      "company": "Darden Restaurants",
-      "discussion_driver": "Baird upgraded DRI to Outperform from Neutral on August 25, raising the price target to $250 from $220 and describing Darden as a 'core casual dining holding' with 'reliable sales drivers, strong execution, and durable growth algorithm.' The upgrade drove the stock up approximately 4% and to a new 52-week high, distinguishing Darden from broader casual dining weakness. The company's Olive Garden, LongHorn Steakhouse, and fine dining portfolio give it diversification and pricing power that smaller chains lack.",
+      "ticker": "KSS",
+      "company": "Kohl's Corporation",
+      "discussion_driver": "Kohl's reported Q2 2026 earnings with revenue of $3.32B (below $3.4B estimate) and comparable sales declining 0.9%, but a $150M tariff refund boosted gross margin by 305 bps and allowed the company to raise full-year EPS guidance to $1.80-$2.40 from $1.00-$1.60 and restart $100M in share buybacks. The stock fell ~6% as investors viewed the margin improvement as largely one-time and management warned of negative fall margins amid increased promotional activity heading into the holiday season.",
       "bull_case": [
-        "Baird's $250 price target with a Outperform upgrade validates the company's multi-brand execution advantage; BofA's high target of $276 suggests institutional conviction in a sustained re-rating",
-        "Darden's diversified restaurant portfolio (Olive Garden, LongHorn, Yard House, Capital Grille) provides resilience across consumer spending environments, with loyalty programs driving repeat traffic"
+        "$150M in tariff refunds (with $40M more expected) provided a substantial near-term earnings boost, while restarted share buybacks of up to $100M signal management's confidence in the balance sheet",
+        "Comparable sales declines are slowing from prior quarters and raised full-year guidance reflects management's conviction in business stabilization — CEO highlighted improving consumer trends at all price points"
       ],
       "bear_case": [
-        "Stock trading near and at new 52-week highs (~$234) means much of the upgrade thesis may already be priced in; consensus average PT of ~$228 is below current price, limiting near-term upside",
-        "Broader casual dining sector faces headwinds from consumer spending normalization post-pandemic; food and labor cost inflation could squeeze margins despite pricing power"
+        "Revenue missed estimates and comparable sales declined 0.9%, with management warning that fall margins will turn negative as the company increases promotions ahead of a critical holiday season — structural demand weakness persists",
+        "The bulk of Q2's earnings beat was driven by a one-time $150M tariff refund (contributing ~$1.75/share) rather than sustainable underlying demand recovery, making business quality questionable at current valuations"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$17.30",
+      "price_target": "$16.33 (-5.6%)",
+      "pe_ratio": "7.51",
+      "rsi": "60",
+      "vs_52wk_high": "-31.4% below high ($25.22)",
+      "analyst_rating": "Hold",
+      "sector": "Consumer Discretionary - Department Stores",
+      "sources": ["CNBC", "Yahoo Finance", "Investing.com", "WWD", "Chain Store Age", "TradingView/Benzinga"],
+      "price_history_5d": [17.90, 18.00, 18.30, 17.80, 17.30]
+    },
+    {
+      "ticker": "ARGX",
+      "company": "argenx SE",
+      "discussion_driver": "UBS dramatically upgraded ARGX from Neutral to Buy with a $1,400 price target (raised from $960), citing a clearer pathway for the company's flagship drug Vyvgart to reach ~$20B in peak sales — 15% above analyst consensus. Separately, Phase III ALKIVIA trial data showed VYVGART met its primary endpoint in autoimmune myositis, sparking a 16.6% single-day surge on August 17 and driving shares to new 52-week highs above $1,040.",
+      "bull_case": [
+        "Vyvgart is approaching blockbuster status with UBS modeling $18B peak sales; multiple Phase 3 readouts in 2026-2027, including empasiprubart in MMN (expected Q4 2026 readout), could mark argenx's first non-Vyvgart drug launch and meaningfully reduce key-drug concentration risk",
+        "ALKIVIA Phase III success in autoimmune myositis opens a major new indication for Vyvgart, validating the platform's broad applicability across autoimmune diseases and substantially expanding the total addressable market"
+      ],
+      "bear_case": [
+        "Stock is trading near its 52-week high after a 16.6% single-day surge and a major analyst upgrade, creating elevated valuation risk and potential for profit-taking after the significant run-up in a short period",
+        "Heavy reliance on a single drug (Vyvgart) remains a structural concentration risk — if empasiprubart or other pipeline assets disappoint in Phase 3 readouts, the key-drug dependency concern will resurface and pressure the stock"
       ],
       "recommendation": "Buy",
-      "current_price": "$234.00",
-      "price_target": "$228.38 (-2.4%)",
-      "pe_ratio": "20.5",
+      "current_price": "$1,039.78",
+      "price_target": "$1,118.28 (+7.5%)",
+      "pe_ratio": "32.97",
       "rsi": "N/A",
-      "vs_52wk_high": "At new 52-week high (~$234.00)",
+      "vs_52wk_high": "-0.9% below high ($1,048.76)",
       "analyst_rating": "Buy",
-      "sector": "Consumer Discretionary - Casual Dining",
-      "sources": ["Yahoo Finance", "Baird (via Yahoo Finance, Investing.com)", "StockAnalysis", "eToro", "Benzinga"],
-      "price_history_5d": [220.00, 220.50, 221.60, 225.56, 234.00]
+      "sector": "Healthcare - Biotechnology / Immunology",
+      "sources": ["UBS Research", "Investing.com", "Seeking Alpha", "Yahoo Finance", "GuruFocus", "247wallst.com", "Benzinga"],
+      "price_history_5d": [1035.00, 1048.76, 1040.00, 1038.12, 1039.78]
     },
     {
-      "ticker": "FL",
-      "company": "Foot Locker Inc.",
-      "discussion_driver": "Foot Locker swung to an $80M loss in Q2 2026 as proforma comparable sales fell 3.6%, hit by athletic footwear market headwinds and fewer Nike product launches. Dick's Sporting Goods, reporting on the same day, cut Foot Locker's full-year comparable sales outlook to flat/-2% from a prior +1.5-3% expectation, validating the deteriorating trend. BofA cut its price target to $20 from $25, implying meaningful downside from current levels. The stock's consensus target of ~$23.47 now sits below the current trading price.",
+      "ticker": "TEAM",
+      "company": "Atlassian Corporation",
+      "discussion_driver": "RBC Capital initiated Atlassian at Outperform with a $215 price target, highlighting conservative ARR guidance, AI-driven seat growth via the Rovo AI assistant, and strong Q4 FY2026 results ($1.77B revenue, $1.87 adjusted EPS beat). The stock fell ~3.9% on August 26 as Intuit's weak FY2027 guidance triggered a broad enterprise software selloff, despite TEAM's own fundamentals showing significant improvement.",
       "bull_case": [
-        "Athletic footwear cycles are historically mean-reverting; a normalization of Nike's product launch cadence could drive rapid comparable sales recovery in FY2027",
-        "Foot Locker's store optimization program and loyalty platform (FLX) are multi-year investments that could deliver operating leverage once the macro headwind passes"
+        "RBC's Outperform initiation ($215 target) joins a 32-analyst Strong Buy consensus as Q4 FY2026 results ($1.77B revenue, $1.87 adj. EPS) beat expectations, validating Atlassian's positioning as an AI-powered enterprise platform in the $67B collaboration software market",
+        "The Rovo AI assistant and deep integration with Jira/Confluence create high enterprise switching costs and expanding seat growth; Atlassian is positioned to benefit from AI adoption, not be disrupted by it"
       ],
       "bear_case": [
-        "$80M Q2 loss and -3.6% comparable sales confirm the athletic footwear market is in a deeper cyclical trough than previously expected; full-year comp now guided to flat/-2%",
-        "BofA price target of $20 (17% below current price) and consensus target of $23.47 (below current price) reflect widespread analyst skepticism; DKS earnings signaled further Nike promotional headwinds ahead"
+        "RSI above 75 indicates overbought conditions and the stock has rallied +200% from its April 2026 lows, making it particularly vulnerable to further sector rotation as software spending concerns spread from Intuit's guidance miss",
+        "GAAP trailing P/E is negative (company is losing money on a GAAP basis), and any macro deceleration in enterprise IT spending could pressure ARR growth and compress the premium valuation multiples"
       ],
-      "recommendation": "Sell",
-      "current_price": "$24.01",
-      "price_target": "$23.47 (-2.2%)",
-      "pe_ratio": "19.13",
+      "recommendation": "Hold",
+      "current_price": "$160.00",
+      "price_target": "$187.93 (+17.5%)",
+      "pe_ratio": "N/A (trailing; GAAP loss-making)",
+      "rsi": "75",
+      "vs_52wk_high": "-13.0% below high ($184.00)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Technology - Enterprise Software / Collaboration",
+      "sources": ["RBC Capital Markets", "247wallst.com", "CNBC", "Seeking Alpha", "Tickzen", "DailyTradeAlert"],
+      "price_history_5d": [163.00, 164.00, 165.50, 166.49, 160.00]
+    },
+    {
+      "ticker": "NOW",
+      "company": "ServiceNow, Inc.",
+      "discussion_driver": "ServiceNow fell ~2-3% as Intuit's weak FY2027 guidance triggered a broad enterprise software selloff, with investors fearing AI-native tools could compress SaaS pricing power across the sector. NOW is already down ~27% over the past 12 months amid the 2026 SaaS reset, but 49 analysts maintain Strong Buy ratings with a $142 consensus target — Bank of America recently raised its target to $150, arguing the selloff is overdone given NOW's AI workflow platform strength and deep enterprise integrations.",
+      "bull_case": [
+        "Trading ~37% below its 52-week high with 49 analysts rating it Strong Buy and a $142 consensus target, NOW offers significant mean-reversion potential; BofA argues the stock could be 56% undervalued relative to its AI workflow platform value",
+        "ServiceNow's deep enterprise integrations and AI-powered Now Platform create high switching costs and position the company as a beneficiary — rather than a victim — of AI-driven workflow automation adoption"
+      ],
+      "bear_case": [
+        "The 2026 SaaS selloff reflects genuine investor concern that AI-native tools could compress seat growth, reduce pricing power, and reset long-term growth assumptions for mature enterprise software platforms — and these fears have not yet been disproven",
+        "Trailing P/E of 67 remains elevated even after the sharp decline; if AI disruption fears translate into actual revenue misses in upcoming quarters, there is further multiple compression risk below current levels"
+      ],
+      "recommendation": "Buy",
+      "current_price": "$123.00",
+      "price_target": "$142.23 (+15.6%)",
+      "pe_ratio": "67.34",
       "rsi": "N/A",
-      "vs_52wk_high": "-17.9% below high ($29.24)",
-      "analyst_rating": "Hold",
-      "sector": "Consumer Discretionary - Athletic Retail",
-      "sources": ["TipRanks", "StockAnalysis", "Stockopedia", "BofA (via TipRanks)", "Modern Retail", "Sportico"],
-      "price_history_5d": [24.01]
-    },
-    {
-      "ticker": "NKE",
-      "company": "Nike Inc.",
-      "discussion_driver": "Nike shares were already under pressure at 12-year lows before Dick's Sporting Goods' Q2 earnings on August 25 confirmed a broad athletic footwear market slump with fewer Nike product launches and a promotional pricing environment. NKE trades near its 52-week low of $38.86, down nearly 50% from the 52-week high of $80.17, as the market grapples with weakening brand momentum, elevated inventory, and ongoing questions about new CEO execution. JPMorgan has stated FY2028 at the earliest represents stabilization rather than recovery.",
-      "bull_case": [
-        "NKE trades at 18.6x trailing PE, roughly 50% below its historical average, creating a compelling value setup for long-term investors if the new CEO's product pipeline refresh gains traction",
-        "International markets (China, Europe) recovering at uneven pace; a re-acceleration in Asia and returning sports-cycle momentum could drive a sharp multiple re-rating from deeply depressed levels"
-      ],
-      "bear_case": [
-        "Dick's Sporting Goods Q2 results confirmed fewer Nike launches and persistent promotional headwinds; the athletic footwear cycle shows no imminent inflection point through at least Q3 2026",
-        "Stock is -49.2% off its 52-week high, trading near a 12-year low with negative price momentum; RSI of 46 (neutral, not oversold) suggests no technical capitulation signal for a bottom"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$40.75",
-      "price_target": "$50.66 (+24.3%)",
-      "pe_ratio": "18.61",
-      "rsi": "46.0",
-      "vs_52wk_high": "-49.2% below high ($80.17)",
-      "analyst_rating": "Hold",
-      "sector": "Consumer Discretionary - Athletic Apparel & Footwear",
-      "sources": ["GuruFocus", "MarketBeat", "StockAnalysis", "TechTimes", "journalarta.com", "Benzinga"],
-      "price_history_5d": [39.80, 40.10, 40.21, 40.75, 40.75]
-    },
-    {
-      "ticker": "FIVE",
-      "company": "Five Below Inc.",
-      "discussion_driver": "Loop Capital analyst Anthony Chukumba downgraded Five Below to Hold from Buy on August 25, setting a $250 price target and citing that the firm's 'bullish fundamental outlook is largely priced in at current levels.' The stock closed at $262.72, above the Loop target and setting a new 52-week high. The downgrade is valuation-driven, not fundamental — Chukumba remains bullish on Five Below's earnings trajectory but wants a more attractive entry point. With RSI at 44.2 and the stock stretching above prior highs, the near-term risk/reward appears balanced.",
-      "bull_case": [
-        "Five Below's discount retail model benefits from ongoing consumer trade-down trends; new store expansion and merchandise refresh supporting strong multi-year earnings growth with a GF Score of 95",
-        "Jefferies maintains a $350 price target reflecting conviction in long-term earnings power; Five Below's teen-focused value proposition remains largely unchallenged in its price tier"
-      ],
-      "bear_case": [
-        "Loop Capital's downgrade flags that the bullish view is fully priced in at $262.72; the consensus mean target of $257 is now below the current trading price, implying limited near-term upside",
-        "Stock has rallied sharply from its 52-week low of $131.40 to new highs, creating elevated short-term downside risk if earnings next week disappoint or broader consumer confidence softens"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$262.72",
-      "price_target": "$257.05 (-2.2%)",
-      "pe_ratio": "25.92",
-      "rsi": "44.23",
-      "vs_52wk_high": "At new 52-week high (~$262.72)",
-      "analyst_rating": "Hold",
-      "sector": "Consumer Discretionary - Discount Retail",
-      "sources": ["Benzinga", "MarketScreener", "TipRanks", "GuruFocus", "Loop Capital (via Benzinga)"],
-      "price_history_5d": [252.00, 256.00, 259.00, 261.50, 262.72]
+      "vs_52wk_high": "-36.8% below high ($194.73)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Technology - Enterprise SaaS / AI Workflow Automation",
+      "sources": ["CNBC", "Yahoo Finance", "247wallst.com", "Bank of America", "Sherwood News", "Sahm Capital", "Greendot Stocks"],
+      "price_history_5d": [124.00, 125.50, 127.70, 125.15, 123.00]
     }
   ]
 }
