@@ -1,173 +1,148 @@
 {
-  "report_date": "2026-08-27",
-  "market_tone": "Bullish",
+  "report_date": "2026-08-28",
+  "market_tone": "Mixed",
   "key_themes": [
-    "Nvidia Q2 blowout drives AI/chip rally \u2014 revenue $96.2B (+106% YoY), guided Q3 to $106-110B",
-    "Software earnings sweep \u2014 Salesforce, CrowdStrike, Okta all crushed estimates; cybersecurity sector surges",
-    "Jackson Hole in focus \u2014 new Fed Chair Kevin Warsh speaks Friday; markets parsing rate path signals"
+    "Jackson Hole hawkish turn: Fed Chair Warsh signals inflation priority, September rate-hike odds spike to 57%",
+    "AI earnings mega-week: NVDA blowout ($96B revenue, +106% YoY), CRM surges 22%+ on Anthropic stake + partnership",
+    "PayPal M&A collapse: Stripe and Advent abandon $53B acquisition bid, shares plunge 13%+"
   ],
   "sp500": {
-    "value": "7,720.49",
-    "change": "+0.58%"
+    "value": "7,710.00",
+    "change": "-0.25%"
   },
   "nasdaq": {
-    "value": "26,168.46",
-    "change": "+0.39%"
+    "value": "26,400.00",
+    "change": "-0.52%"
   },
   "stocks": [
     {
-      "ticker": "NVDA",
-      "company": "Nvidia Corporation",
-      "reason": "Q2 revenue $96.2B beat est. $92.27B (+106% YoY); EPS $2.22 vs $2.09 est.; guided Q3 to $106-110B; stock up ~9%",
-      "category": "earnings",
+      "ticker": "PYPL",
+      "company": "PayPal Holdings",
+      "reason": "Collapsed 13-16% after Stripe and Advent abandoned their reported $53B takeover bid; board had rejected $60.50/share offer as insufficient",
+      "category": "news",
       "sources": [
-        "Bloomberg",
-        "CNBC",
-        "Forbes",
-        "Yahoo Finance"
+        "Benzinga",
+        "Motley Fool",
+        "Seeking Alpha",
+        "Proactive Investors"
       ]
     },
     {
       "ticker": "CRM",
-      "company": "Salesforce, Inc.",
-      "reason": "Q2 adjusted EPS $5.90 crushed LSEG estimate of $3.27; stock jumped ~12% on earnings beat",
+      "company": "Salesforce",
+      "reason": "Continued rally (+3%) following yesterday's 22% surge on Q2 beat (EPS $5.90 vs $3.27 est), $2.6B Anthropic stake gain, and new \"Claudeforce\" AI partnership announcement",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "Yahoo Finance"
+        "Seeking Alpha",
+        "Benzinga",
+        "Motley Fool"
       ]
     },
     {
-      "ticker": "CRWD",
-      "company": "CrowdStrike Holdings",
-      "reason": "Q2 revenue and EPS beat consensus; full-year earnings guidance topped estimates; stock surged ~19%",
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "reason": "Down ~3% despite Wednesday's blowout Q2 beat ($96.22B revenue, +106% YoY; EPS $2.22 vs $2.09 est); sell-the-news pressure amplified by hawkish Fed at Jackson Hole",
       "category": "earnings",
       "sources": [
-        "CNBC",
-        "Yahoo Finance"
+        "Yahoo Finance",
+        "Kiplinger",
+        "Motley Fool"
       ]
     },
     {
-      "ticker": "OKTA",
-      "company": "Okta, Inc.",
-      "reason": "Q2 adjusted EPS $1.05 on revenue $805M beat expectations; raised full-year guidance; stock up 27%; also upgraded by BofA to Neutral",
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "reason": "Gained 4.5% on NVIDIA halo effect; own Q3 earnings due Sept 2 with analysts expecting $29.4B revenue (+84.5% YoY); OpenAI's Jalape\u00f1o AI chip built with Broadcom cited as additional catalyst",
+      "category": "sector",
+      "sources": [
+        "Yahoo Finance",
+        "Benzinga",
+        "Stocktwits"
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "company": "Intel",
+      "reason": "Rose 4.4% on NVIDIA-driven AI chip sector lift; broader chipmaker rally as investors rotate into AI infrastructure adjacent names",
+      "category": "sector",
+      "sources": [
+        "Yahoo Finance",
+        "Benzinga",
+        "Stocktwits"
+      ]
+    },
+    {
+      "ticker": "WDAY",
+      "company": "Workday",
+      "reason": "Fell ~5% after hours; Q2 beat (EPS $2.75 vs $2.61 est, revenue $2.65B) overshadowed by Q3 subscription revenue guidance of $2.515B implying deceleration; Capital One cut to Equal Weight",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "247wallst.com",
-        "Yahoo Finance"
+        "Yahoo Finance",
+        "Daily Trade Alert"
+      ]
+    },
+    {
+      "ticker": "ADSK",
+      "company": "Autodesk",
+      "reason": "Dropped 6% after Q2 beat (EPS $3.30, revenue $2.05B) was undermined by full-year FY2027 EPS guidance midpoint below analyst expectations; construction/real estate billings concerns",
+      "category": "earnings",
+      "sources": [
+        "Investing.com",
+        "Earnings Edge"
+      ]
+    },
+    {
+      "ticker": "MRVL",
+      "company": "Marvell Technology",
+      "reason": "High-stakes after-hours earnings report with options implying 9.58% move ($20.8B at stake); analysts expect EPS $0.87 on $2.71B revenue (+35% YoY) driven by AI data center custom silicon demand",
+      "category": "earnings",
+      "sources": [
+        "Benzinga",
+        "CNBC",
+        "Newsquawk"
+      ]
+    },
+    {
+      "ticker": "RBRK",
+      "company": "Rubrik",
+      "reason": "Tumbled 10% in sell-the-news reaction despite massive Q2 beat (EPS $0.20 vs $0.04 est, revenue $427M) and raised full-year guidance to $1.69B",
+      "category": "earnings",
+      "sources": [
+        "Investing.com",
+        "Earnings Edge"
       ]
     },
     {
       "ticker": "GPS",
       "company": "Gap Inc.",
-      "reason": "Stock jumped ~15% on news Michael Francis named new Old Navy CEO (starts Nov. 2), offsetting mixed Q2 results; also up ~14% in after-hours",
-      "category": "news",
+      "reason": "Surged 9% after Q2 beat (EPS $0.52, revenue $3.7B) and upbeat full-year FY2026 EPS guidance of $2.35-$2.45; improved gross margins and turnaround momentum at Old Navy and Gap brands",
+      "category": "earnings",
       "sources": [
-        "CNBC",
+        "Investing.com",
         "Yahoo Finance"
       ]
     },
     {
-      "ticker": "WEN",
-      "company": "Wendy's Company",
-      "reason": "Stock fell ~15% after Reuters reported Trian Fund Management (Nelson Peltz) does not plan to bid for the company due to strategic concerns",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "Reuters"
-      ]
-    },
-    {
-      "ticker": "HRL",
-      "company": "Hormel Foods Corporation",
-      "reason": "Q3 earnings released; stock tumbled ~9% as full-year guidance ($1.45-$1.51 EPS, $12.1-12.2B revenue) disappointed the Street",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "SEC Filing"
-      ]
-    },
-    {
-      "ticker": "BBY",
-      "company": "Best Buy Co., Inc.",
-      "reason": "Q2 earnings and revenue beat estimates but stock fell ~4% on cautious analyst outlook due to little-changed profit margins; also downgraded by Wall Street",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "ADSK",
-      "company": "Autodesk, Inc.",
-      "reason": "Q2 revenue and profit topped expectations; stock gained ~6.21% in after-hours trading despite guidance that potentially disappointed",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Benzinga",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "WDAY",
-      "company": "Workday, Inc.",
-      "reason": "Q2 fiscal 2027 earnings reported after close; stock up ~1.48% in extended hours; entered report with 91% beat probability and four straight EPS beats",
+      "ticker": "ULTA",
+      "company": "Ulta Beauty",
+      "reason": "Raised full-year EPS forecast to $28.70-$29.00 (from $28.36-$28.80) after Q2 earnings beat; bullish signal for consumer discretionary heading into back half",
       "category": "earnings",
       "sources": [
         "Yahoo Finance",
-        "MarketBeat"
+        "Investing.com"
       ]
     },
     {
-      "ticker": "PANW",
-      "company": "Palo Alto Networks",
-      "reason": "Surged ~13% in sympathy with cybersecurity sector rally led by CrowdStrike and Okta earnings beats; Rosenblatt raised Rubrik price target boosting sector",
-      "category": "sector",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "FSLR",
-      "company": "First Solar, Inc.",
-      "reason": "Upgraded to Outperform from Market Perform at BMO Capital with $265 price target; part of Thursday top analyst calls",
-      "category": "upgrade",
-      "sources": [
-        "247wallst.com",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "ANF",
-      "company": "Abercrombie & Fitch Co.",
-      "reason": "Downgraded to Neutral from Buy at Citigroup with $156 price target; shares fell on news",
-      "category": "downgrade",
-      "sources": [
-        "Yahoo Finance",
-        "247wallst.com"
-      ]
-    },
-    {
-      "ticker": "DLTR",
-      "company": "Dollar Tree, Inc.",
-      "reason": "Q2 fiscal 2026 earnings reported before open; consensus revenue $4.85B (+6.3% YoY) and EPS $1.11 (+44.2% YoY); market reaction tied to guidance",
+      "ticker": "AFRM",
+      "company": "Affirm Holdings",
+      "reason": "Surged post-earnings on massive Q4 beat; EPS $4.62 crushed $0.85 consensus estimate; Q1 revenue guidance of $1.19-$1.22B also topped Wall Street; BNPL demand remains strong",
       "category": "earnings",
       "sources": [
-        "SEC Filing",
         "Yahoo Finance",
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "VEEV",
-      "company": "Veeva Systems Inc.",
-      "reason": "Q2 earnings reported after close; analysts modeling $396.22M revenue and EPS of $0.04; subscription ARR growth and net retention in focus; mentioned in CNBC midday movers",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance"
+        "Investing.com",
+        "Bloomberg"
       ]
     }
   ]
