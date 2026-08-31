@@ -1,148 +1,147 @@
 {
-  "report_date": "2026-08-28",
-  "market_tone": "Mixed",
+  "report_date": "2026-08-31",
+  "market_tone": "Bearish",
   "key_themes": [
-    "Jackson Hole hawkish turn: Fed Chair Warsh signals inflation priority, September rate-hike odds spike to 57%",
-    "AI earnings mega-week: NVDA blowout ($96B revenue, +106% YoY), CRM surges 22%+ on Anthropic stake + partnership",
-    "PayPal M&A collapse: Stripe and Advent abandon $53B acquisition bid, shares plunge 13%+"
+    "US-Iran military tensions spike oil prices above $85, pressuring equities",
+    "California wildfire liability bill (SB 492) omits utility protection, crushing PCG and EIX",
+    "PayPal deal collapse after Stripe and Advent abandon $53B takeover bid"
   ],
   "sp500": {
-    "value": "7,710.00",
-    "change": "-0.25%"
+    "value": "7,686.14",
+    "change": "-0.33%"
   },
   "nasdaq": {
-    "value": "26,400.00",
-    "change": "-0.52%"
+    "value": "26,370.89",
+    "change": "-0.12%"
   },
   "stocks": [
     {
-      "ticker": "PYPL",
-      "company": "PayPal Holdings",
-      "reason": "Collapsed 13-16% after Stripe and Advent abandoned their reported $53B takeover bid; board had rejected $60.50/share offer as insufficient",
+      "ticker": "PCG",
+      "company": "PG&E Corporation",
+      "reason": "Plunged 18% after California lawmakers introduced SB 492 wildfire bill that omits liability shield for investor-owned utilities, prompting multiple analyst downgrades including Mizuho cut to Neutral",
       "category": "news",
       "sources": [
-        "Benzinga",
-        "Motley Fool",
+        "Bloomberg",
+        "Yahoo Finance",
         "Seeking Alpha",
-        "Proactive Investors"
+        "24/7 Wall St."
       ]
     },
     {
-      "ticker": "CRM",
-      "company": "Salesforce",
-      "reason": "Continued rally (+3%) following yesterday's 22% surge on Q2 beat (EPS $5.90 vs $3.27 est), $2.6B Anthropic stake gain, and new \"Claudeforce\" AI partnership announcement",
-      "category": "earnings",
+      "ticker": "EIX",
+      "company": "Edison International",
+      "reason": "Crashed 23% \u2014 worst single-day decline since 2001 \u2014 as California SB 492 wildfire bill leaves utilities fully exposed to uncapped wildfire liabilities; Mizuho downgraded to Neutral with $70 target (from $86)",
+      "category": "news",
       "sources": [
-        "CNBC",
+        "Bloomberg",
+        "Benzinga",
+        "Yahoo Finance",
+        "Seeking Alpha"
+      ]
+    },
+    {
+      "ticker": "SRE",
+      "company": "Sempra Energy",
+      "reason": "Sank alongside PCG and EIX as California SB 492 wildfire legislation omits liability protection for all investor-owned utilities in the state",
+      "category": "news",
+      "sources": [
         "Seeking Alpha",
-        "Benzinga",
-        "Motley Fool"
+        "Bloomberg"
       ]
     },
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "reason": "Down ~3% despite Wednesday's blowout Q2 beat ($96.22B revenue, +106% YoY; EPS $2.22 vs $2.09 est); sell-the-news pressure amplified by hawkish Fed at Jackson Hole",
-      "category": "earnings",
+      "ticker": "PYPL",
+      "company": "PayPal Holdings",
+      "reason": "Fell ~13% after Bloomberg reported Advent International and Stripe abandoned their $53B ($60.50/share) takeover bid; Mizuho cut target to $51, Loop Capital to $50",
+      "category": "news",
       "sources": [
         "Yahoo Finance",
-        "Kiplinger",
-        "Motley Fool"
+        "Seeking Alpha",
+        "Quartz"
       ]
     },
     {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "reason": "Gained 4.5% on NVIDIA halo effect; own Q3 earnings due Sept 2 with analysts expecting $29.4B revenue (+84.5% YoY); OpenAI's Jalape\u00f1o AI chip built with Broadcom cited as additional catalyst",
-      "category": "sector",
+      "ticker": "HWM",
+      "company": "Howmet Aerospace",
+      "reason": "Dropped 8% after Elon Musk announced via social media that SpaceX will cast natural-gas turbine blades and vanes in-house, raising demand concerns for specialized suppliers",
+      "category": "news",
       "sources": [
-        "Yahoo Finance",
-        "Benzinga",
-        "Stocktwits"
+        "Seeking Alpha",
+        "CNBC"
       ]
     },
     {
-      "ticker": "INTC",
-      "company": "Intel",
-      "reason": "Rose 4.4% on NVIDIA-driven AI chip sector lift; broader chipmaker rally as investors rotate into AI infrastructure adjacent names",
-      "category": "sector",
-      "sources": [
-        "Yahoo Finance",
-        "Benzinga",
-        "Stocktwits"
-      ]
-    },
-    {
-      "ticker": "WDAY",
-      "company": "Workday",
-      "reason": "Fell ~5% after hours; Q2 beat (EPS $2.75 vs $2.61 est, revenue $2.65B) overshadowed by Q3 subscription revenue guidance of $2.515B implying deceleration; Capital One cut to Equal Weight",
-      "category": "earnings",
+      "ticker": "HLF",
+      "company": "Herbalife",
+      "reason": "Fell 13% after announcing CEO Stephan Gratziani will depart effective October 31, with CFO John DeSimone named interim CEO; leadership uncertainty hits already-pressured stock",
+      "category": "news",
       "sources": [
         "CNBC",
-        "Yahoo Finance",
-        "Daily Trade Alert"
-      ]
-    },
-    {
-      "ticker": "ADSK",
-      "company": "Autodesk",
-      "reason": "Dropped 6% after Q2 beat (EPS $3.30, revenue $2.05B) was undermined by full-year FY2027 EPS guidance midpoint below analyst expectations; construction/real estate billings concerns",
-      "category": "earnings",
-      "sources": [
-        "Investing.com",
-        "Earnings Edge"
-      ]
-    },
-    {
-      "ticker": "MRVL",
-      "company": "Marvell Technology",
-      "reason": "High-stakes after-hours earnings report with options implying 9.58% move ($20.8B at stake); analysts expect EPS $0.87 on $2.71B revenue (+35% YoY) driven by AI data center custom silicon demand",
-      "category": "earnings",
-      "sources": [
-        "Benzinga",
-        "CNBC",
-        "Newsquawk"
-      ]
-    },
-    {
-      "ticker": "RBRK",
-      "company": "Rubrik",
-      "reason": "Tumbled 10% in sell-the-news reaction despite massive Q2 beat (EPS $0.20 vs $0.04 est, revenue $427M) and raised full-year guidance to $1.69B",
-      "category": "earnings",
-      "sources": [
-        "Investing.com",
-        "Earnings Edge"
-      ]
-    },
-    {
-      "ticker": "GPS",
-      "company": "Gap Inc.",
-      "reason": "Surged 9% after Q2 beat (EPS $0.52, revenue $3.7B) and upbeat full-year FY2026 EPS guidance of $2.35-$2.45; improved gross margins and turnaround momentum at Old Navy and Gap brands",
-      "category": "earnings",
-      "sources": [
-        "Investing.com",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "ULTA",
-      "company": "Ulta Beauty",
-      "reason": "Raised full-year EPS forecast to $28.70-$29.00 (from $28.36-$28.80) after Q2 earnings beat; bullish signal for consumer discretionary heading into back half",
-      "category": "earnings",
-      "sources": [
-        "Yahoo Finance",
         "Investing.com"
       ]
     },
     {
-      "ticker": "AFRM",
-      "company": "Affirm Holdings",
-      "reason": "Surged post-earnings on massive Q4 beat; EPS $4.62 crushed $0.85 consensus estimate; Q1 revenue guidance of $1.19-$1.22B also topped Wall Street; BNPL demand remains strong",
+      "ticker": "GME",
+      "company": "GameStop Corp.",
+      "reason": "Rose ~5% after reporting preliminary Q2 results showing a loss of $0.36/share, beating estimates of -$0.42; also amended convertible note exchange capping dilution with $358M cash payment",
       "category": "earnings",
       "sources": [
-        "Yahoo Finance",
-        "Investing.com",
+        "Schaeffer's Investment Research",
+        "TipRanks",
+        "Benzinga"
+      ]
+    },
+    {
+      "ticker": "SAIC",
+      "company": "Science Applications International",
+      "reason": "Gained 4% after raising full-year EPS guidance to $10.65-$10.75 (from $9.90-$10.10) and revenue outlook to $7.2-$7.3B following strong quarterly results",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Seeking Alpha"
+      ]
+    },
+    {
+      "ticker": "CVX",
+      "company": "Chevron Corporation",
+      "reason": "Rose with energy sector as US-Iran military exchange drove crude oil above $85/barrel, lifting Treasury yields and boosting integrated oil majors",
+      "category": "sector",
+      "sources": [
+        "CNBC",
         "Bloomberg"
+      ]
+    },
+    {
+      "ticker": "AGCO",
+      "company": "AGCO Corporation",
+      "reason": "Rallied ~4% after Baird upgraded to Outperform from Neutral with $150 target (from $120), citing margin recovery potential and Fendt brand market share gains pushing EPS toward $10 by 2027",
+      "category": "upgrade",
+      "sources": [
+        "Yahoo Finance",
+        "24/7 Wall St.",
+        "Investing.com"
+      ]
+    },
+    {
+      "ticker": "DE",
+      "company": "Deere & Company",
+      "reason": "Jumped ~4% after Baird upgraded to Outperform from Neutral with $800 target (from $640), calling Deere the \"cleanest setup\" in ag equipment on high North America row-crop exposure",
+      "category": "upgrade",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance",
+        "AOL Finance"
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple Inc.",
+      "reason": "Gained on dual analyst upgrades: Rothschild/Redburn raised to Buy with $400 target; HSBC upgraded to Buy with $366 target, both citing AI product pipeline as \"operational turning point\"",
+      "category": "upgrade",
+      "sources": [
+        "Yahoo Finance",
+        "Alpha Spread",
+        "CNBC"
       ]
     }
   ]
