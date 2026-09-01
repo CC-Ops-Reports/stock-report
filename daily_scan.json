@@ -1,147 +1,172 @@
 {
-  "report_date": "2026-08-31",
-  "market_tone": "Bearish",
+  "report_date": "2026-09-01",
+  "market_tone": "Mixed",
   "key_themes": [
-    "US-Iran military tensions spike oil prices above $85, pressuring equities",
-    "California wildfire liability bill (SB 492) omits utility protection, crushing PCG and EIX",
-    "PayPal deal collapse after Stripe and Advent abandon $53B takeover bid"
+    "U.S.-Iran Strait of Hormuz tensions spike oil prices and pressure equities",
+    "Rising Treasury yields weigh on tech and growth stocks",
+    "California wildfire liability crisis crushes utility stocks",
+    "Apple CEO transition: John Ternus officially takes helm from Tim Cook",
+    "mRNA cancer vaccine momentum continues to lift biotech sector"
   ],
   "sp500": {
-    "value": "7,686.14",
-    "change": "-0.33%"
+    "value": "7,659.79",
+    "change": "-0.35%"
   },
   "nasdaq": {
     "value": "26,370.89",
-    "change": "-0.12%"
+    "change": "-1.02%"
   },
   "stocks": [
     {
-      "ticker": "PCG",
-      "company": "PG&E Corporation",
-      "reason": "Plunged 18% after California lawmakers introduced SB 492 wildfire bill that omits liability shield for investor-owned utilities, prompting multiple analyst downgrades including Mizuho cut to Neutral",
+      "ticker": "FRVO",
+      "company": "Fervo Energy",
+      "reason": "Surged 28% on world's largest enhanced geothermal PPA \u2014 396 MW power deal with Google at Cape Station Utah project; volume 851% above average",
       "category": "news",
       "sources": [
-        "Bloomberg",
-        "Yahoo Finance",
-        "Seeking Alpha",
-        "24/7 Wall St."
-      ]
-    },
-    {
-      "ticker": "EIX",
-      "company": "Edison International",
-      "reason": "Crashed 23% \u2014 worst single-day decline since 2001 \u2014 as California SB 492 wildfire bill leaves utilities fully exposed to uncapped wildfire liabilities; Mizuho downgraded to Neutral with $70 target (from $86)",
-      "category": "news",
-      "sources": [
-        "Bloomberg",
-        "Benzinga",
-        "Yahoo Finance",
-        "Seeking Alpha"
-      ]
-    },
-    {
-      "ticker": "SRE",
-      "company": "Sempra Energy",
-      "reason": "Sank alongside PCG and EIX as California SB 492 wildfire legislation omits liability protection for all investor-owned utilities in the state",
-      "category": "news",
-      "sources": [
-        "Seeking Alpha",
-        "Bloomberg"
-      ]
-    },
-    {
-      "ticker": "PYPL",
-      "company": "PayPal Holdings",
-      "reason": "Fell ~13% after Bloomberg reported Advent International and Stripe abandoned their $53B ($60.50/share) takeover bid; Mizuho cut target to $51, Loop Capital to $50",
-      "category": "news",
-      "sources": [
-        "Yahoo Finance",
-        "Seeking Alpha",
-        "Quartz"
-      ]
-    },
-    {
-      "ticker": "HWM",
-      "company": "Howmet Aerospace",
-      "reason": "Dropped 8% after Elon Musk announced via social media that SpaceX will cast natural-gas turbine blades and vanes in-house, raising demand concerns for specialized suppliers",
-      "category": "news",
-      "sources": [
-        "Seeking Alpha",
+        "Motley Fool",
+        "GuruFocus",
         "CNBC"
-      ]
-    },
-    {
-      "ticker": "HLF",
-      "company": "Herbalife",
-      "reason": "Fell 13% after announcing CEO Stephan Gratziani will depart effective October 31, with CFO John DeSimone named interim CEO; leadership uncertainty hits already-pressured stock",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "Investing.com"
-      ]
-    },
-    {
-      "ticker": "GME",
-      "company": "GameStop Corp.",
-      "reason": "Rose ~5% after reporting preliminary Q2 results showing a loss of $0.36/share, beating estimates of -$0.42; also amended convertible note exchange capping dilution with $358M cash payment",
-      "category": "earnings",
-      "sources": [
-        "Schaeffer's Investment Research",
-        "TipRanks",
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "SAIC",
-      "company": "Science Applications International",
-      "reason": "Gained 4% after raising full-year EPS guidance to $10.65-$10.75 (from $9.90-$10.10) and revenue outlook to $7.2-$7.3B following strong quarterly results",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Seeking Alpha"
-      ]
-    },
-    {
-      "ticker": "CVX",
-      "company": "Chevron Corporation",
-      "reason": "Rose with energy sector as US-Iran military exchange drove crude oil above $85/barrel, lifting Treasury yields and boosting integrated oil majors",
-      "category": "sector",
-      "sources": [
-        "CNBC",
-        "Bloomberg"
-      ]
-    },
-    {
-      "ticker": "AGCO",
-      "company": "AGCO Corporation",
-      "reason": "Rallied ~4% after Baird upgraded to Outperform from Neutral with $150 target (from $120), citing margin recovery potential and Fendt brand market share gains pushing EPS toward $10 by 2027",
-      "category": "upgrade",
-      "sources": [
-        "Yahoo Finance",
-        "24/7 Wall St.",
-        "Investing.com"
-      ]
-    },
-    {
-      "ticker": "DE",
-      "company": "Deere & Company",
-      "reason": "Jumped ~4% after Baird upgraded to Outperform from Neutral with $800 target (from $640), calling Deere the \"cleanest setup\" in ag equipment on high North America row-crop exposure",
-      "category": "upgrade",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance",
-        "AOL Finance"
       ]
     },
     {
       "ticker": "AAPL",
       "company": "Apple Inc.",
-      "reason": "Gained on dual analyst upgrades: Rothschild/Redburn raised to Buy with $400 target; HSBC upgraded to Buy with $366 target, both citing AI product pipeline as \"operational turning point\"",
+      "reason": "Up 2.5% as John Ternus officially becomes CEO, replacing Tim Cook (now executive chairman) on Sept. 1; analyst price target raised to $303+",
+      "category": "news",
+      "sources": [
+        "Motley Fool",
+        "Bloomberg",
+        "TipRanks",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "MRNA",
+      "company": "Moderna",
+      "reason": "Up 6% today (+376% YTD) on continued momentum from mRNA cancer vaccine breakthrough (Phase 3 melanoma trial success with Merck); rising despite GSK Phase III rivalry",
+      "category": "news",
+      "sources": [
+        "24/7 Wall St.",
+        "Yahoo Finance",
+        "Investing.com"
+      ]
+    },
+    {
+      "ticker": "PANW",
+      "company": "Palo Alto Networks",
+      "reason": "Reporting fiscal Q4 2026 earnings after market close; Wall Street expects ~$3.35B revenue (+32% YoY), EPS $0.98; Scotiabank raised price target to $430 from $320",
+      "category": "earnings",
+      "sources": [
+        "TipRanks",
+        "CNBC",
+        "Charles Schwab"
+      ]
+    },
+    {
+      "ticker": "NVS",
+      "company": "Novartis",
+      "reason": "Up 4-5% on positive late-stage trial results for oral multiple sclerosis drug; significant readout for a once-daily pill format",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Charles Schwab"
+      ]
+    },
+    {
+      "ticker": "EIX",
+      "company": "Edison International",
+      "reason": "Continued collapse after -23% prior session; Bank of America downgraded to Neutral from Buy, cut target to $51 from $81 after California wildfire bill omits utility liability cap",
+      "category": "downgrade",
+      "sources": [
+        "Bloomberg",
+        "Yahoo Finance",
+        "24/7 Wall St.",
+        "Bank of America"
+      ]
+    },
+    {
+      "ticker": "PCG",
+      "company": "PG&E Corporation",
+      "reason": "Continued decline after -18% prior session; Bank of America cut to Neutral, slashed target to $13 from $24 on open-ended wildfire liability risk from failed California legislation",
+      "category": "downgrade",
+      "sources": [
+        "Bloomberg",
+        "Yahoo Finance",
+        "MarketScreener",
+        "Bank of America"
+      ]
+    },
+    {
+      "ticker": "HOOD",
+      "company": "Robinhood Markets",
+      "reason": "Up 2%+ after Morgan Stanley upgrade to Overweight from Equal Weight; price target raised to $150 from $124 on improved brokerage outlook",
       "category": "upgrade",
       "sources": [
+        "247 Wall St.",
+        "Benzinga",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "CVX",
+      "company": "Chevron",
+      "reason": "Up ~1% as energy stocks broadly rise alongside oil prices spiking on U.S.-Iran hostilities and cargo ship attacks in the Strait of Hormuz",
+      "category": "sector",
+      "sources": [
+        "CNBC",
         "Yahoo Finance",
-        "Alpha Spread",
-        "CNBC"
+        "Charles Schwab"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA Corporation",
+      "reason": "Down ~1.7% in premarket on WSJ report that Anthropic signed $35B cloud deal backed by Nvidia; broader chip sector fell on rising Treasury yields",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Wall Street Journal"
+      ]
+    },
+    {
+      "ticker": "ZS",
+      "company": "Zscaler",
+      "reason": "Reporting earnings after market close today; Wall Street expects EPS of $0.88; cybersecurity earnings watch alongside sector peer PANW",
+      "category": "earnings",
+      "sources": [
+        "TipRanks",
+        "Earnings Whispers"
+      ]
+    },
+    {
+      "ticker": "DUOL",
+      "company": "Duolingo",
+      "reason": "Upgraded to Outperform from In Line at Evercore ISI; price target doubled to $210 from $105 on strong user growth and monetization outlook",
+      "category": "upgrade",
+      "sources": [
+        "247 Wall St.",
+        "Yahoo Finance",
+        "AOL Finance"
+      ]
+    },
+    {
+      "ticker": "AKAM",
+      "company": "Akamai Technologies",
+      "reason": "Upgraded to Overweight from Neutral at Piper Sandler with new $125 price target; named in Tuesday top analyst calls roundup",
+      "category": "upgrade",
+      "sources": [
+        "247 Wall St.",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum Holdings",
+      "reason": "Dropped more than 5% as photonics and semiconductor-adjacent stocks sold off amid rising yields and risk-off tone in tech",
+      "category": "sector",
+      "sources": [
+        "Charles Schwab",
+        "Yahoo Finance"
       ]
     }
   ]
