@@ -1,52 +1,98 @@
 {
-  "report_date": "2026-08-31",
+  "report_date": "2026-09-01",
   "batch": 3,
   "stocks": [
     {
-      "ticker": "DE",
-      "company": "Deere & Company",
-      "discussion_driver": "Deere surged ~4% on August 31 after Baird upgraded to Outperform with an $800 price target—the highest on the Street—calling it the 'cleanest setup' in agricultural equipment. The upgrade thesis centers on a North America row-crop cycle recovery and Fendt brand market share gains that could push EPS meaningfully higher by 2027. The stock is now near its 52-week high, with momentum indicators approaching overbought territory.",
+      "ticker": "ZS",
+      "company": "Zscaler, Inc.",
+      "discussion_driver": "Zscaler is set to report fiscal Q4 2026 earnings (period ending July 31) after market close today, with Wall Street consensus expecting $875-878M revenue and non-GAAP EPS of $1.08-1.09. The cybersecurity leader's stock has fallen more than 44% from its 52-week high after Q3 FY2026 guidance disappointed investors and triggered a 30% single-day drop in May. Analysts remain broadly bullish — 39 of 47 rate it Buy — but the stock needs a clean beat-and-raise to reverse the downtrend.",
       "bull_case": [
-        "Baird's $800 Outperform target—well above the Street consensus—reflects conviction in a farm income recovery cycle and North America row-crop demand that DE is best-positioned to capture.",
-        "Fendt brand international market share gains and ongoing precision-ag technology adoption provide a durable earnings growth runway beyond the current cycle."
+        "39 of 47 analysts rate ZS a Buy; recent target increases from JPMorgan ($215) and Baird ($220) suggest deep undervaluation after the selloff",
+        "Zero Trust cloud security platform addresses a $75B+ TAM as enterprises accelerate migration away from legacy perimeter-based architectures"
       ],
       "bear_case": [
-        "Trailing P/E of ~37x is approximately 74% above DE's historical average, leaving limited valuation cushion if ag equipment demand disappoints or commodity prices weaken.",
-        "Agricultural equipment demand is highly cyclical and tied to farm income, which remains sensitive to trade policy, weather disruptions, and crop price volatility."
-      ],
-      "recommendation": "Buy",
-      "current_price": "$655.19",
-      "price_target": "$669.00 (+2.1%)",
-      "pe_ratio": "37.1",
-      "rsi": "68",
-      "vs_52wk_high": "-2.8% below high ($674.19)",
-      "analyst_rating": "Moderate Buy",
-      "sector": "Industrials - Agricultural & Construction Machinery",
-      "sources": ["Yahoo Finance", "CNBC", "AOL Finance", "StockAnalysis", "GuruFocus", "ChartMill"],
-      "price_history_5d": [647.50, 649.00, 630.33, 630.33, 655.19]
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple Inc.",
-      "discussion_driver": "Apple gained on August 31 following dual analyst upgrades—Rothschild/Redburn raised to Buy with a $400 target and HSBC to Buy with $366—both citing Apple's AI product pipeline as an 'operational turning point.' The upgrades signal growing Wall Street conviction that Apple Intelligence features will drive a meaningful iPhone upgrade cycle and services acceleration. At $319.70, the stock remains ~7% below its 52-week high, with consensus targets offering modest near-term upside.",
-      "bull_case": [
-        "Simultaneous upgrades from Rothschild/Redburn ($400) and HSBC ($366) reflect growing conviction that Apple's AI integration marks an inflection point for the iPhone upgrade supercycle and services monetization.",
-        "Apple's deeply entrenched ecosystem—1.5B+ active devices, high switching costs, and expanding services revenue—provides durable recurring income that cushions hardware cycle downturns."
-      ],
-      "bear_case": [
-        "At ~36x trailing earnings (33% above historical median), valuation is stretched and the consensus mean price target of ~$325 implies only ~1-5% upside—leaving little margin of safety if AI monetization timelines slip.",
-        "Competition in AI-enabled smartphones from Samsung and Google could limit Apple's ability to command premium pricing, while regulatory pressure on the App Store continues to threaten high-margin services revenue."
+        "Stock remains unprofitable on a trailing basis and has shed 44% from its 52-week high; Q3 FY2026 guidance miss triggered a 30% single-session collapse",
+        "Forward P/E of 41x is difficult to sustain in a rising-rate environment if Q4 guidance disappoints again"
       ],
       "recommendation": "Hold",
-      "current_price": "$319.70",
-      "price_target": "$325.00 (+1.7%)",
-      "pe_ratio": "36.0",
-      "rsi": "57",
-      "vs_52wk_high": "-7.2% below high ($344.57)",
+      "current_price": "$188.38",
+      "price_target": "$193.79 (+2.9%)",
+      "pe_ratio": "N/A",
+      "rsi": "N/A",
+      "vs_52wk_high": "-44.1% below high ($336.99)",
       "analyst_rating": "Buy",
-      "sector": "Technology - Consumer Electronics",
-      "sources": ["Yahoo Finance", "Alpha Spread", "CNBC", "StockAnalysis", "GuruFocus", "Benzinga", "Investing.com"],
-      "price_history_5d": [309.90, 312.00, 314.58, 314.58, 319.70]
+      "sector": "Technology - Cloud Security",
+      "sources": ["TipRanks", "MarketBeat", "CNBC", "JPMorgan", "Baird", "GuruFocus", "StockAnalysis"],
+      "price_history_5d": [168.65, 185.49, 188.38]
+    },
+    {
+      "ticker": "DUOL",
+      "company": "Duolingo, Inc.",
+      "discussion_driver": "Evercore ISI upgraded Duolingo to Outperform from In Line on September 1, more than doubling its price target to $210 from $105, citing strong user growth momentum and improving monetization. The upgrade triggered a ~6% premarket rally, pushing shares to $157 — well above the pre-upgrade consensus target of ~$145. Despite the enthusiasm, Duolingo has missed earnings estimates in its last four consecutive quarters, leaving bulls needing a clean beat in the next report to validate the move.",
+      "bull_case": [
+        "Evercore ISI upgrade to Outperform with $210 price target (doubled from $105) reflects accelerating user growth and improving subscription monetization",
+        "AI-enhanced language learning platform driving strong engagement metrics; multiple analysts (DA Davidson, Wedbush, JPMorgan) racing to raise targets alongside Evercore"
+      ],
+      "bear_case": [
+        "Duolingo has missed earnings estimates in its last four consecutive quarters, most recently by 19.48% for the quarter ending August 5, 2026",
+        "Stock is trading above the pre-upgrade consensus target of ~$145, with significant insider selling and the stock still 55% below its 52-week high of $353"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$157.28",
+      "price_target": "$144.92 (-7.9%)",
+      "pe_ratio": "42.48",
+      "rsi": "65.7",
+      "vs_52wk_high": "-55.4% below high ($353.00)",
+      "analyst_rating": "Hold",
+      "sector": "Technology - EdTech & Consumer Internet",
+      "sources": ["247 Wall St.", "Yahoo Finance", "AOL Finance", "TipRanks", "MacroTrends", "Clearank", "Timothy Sykes"],
+      "price_history_5d": [142.86, 148.36, 157.28]
+    },
+    {
+      "ticker": "AKAM",
+      "company": "Akamai Technologies, Inc.",
+      "discussion_driver": "Akamai Technologies was upgraded to Overweight from Neutral at Piper Sandler with a new $125 price target, with the firm citing the recent stock selloff as a buying opportunity in the CDN and cloud security provider. The stock is up 24.5% year-to-date but trades 35% below its 52-week high of $165 as rising Treasury yields have pressured infrastructure names. At $107, the stock offers significant upside to the consensus analyst target of $143.",
+      "bull_case": [
+        "Piper Sandler upgrade to Overweight with $125 target highlights compelling value after recent selloff; consensus target of $143 implies 34% upside from current levels",
+        "Forward P/E of 16.5x is attractive for a diversified CDN and edge cloud security business with stable recurring revenues and $1.36B annual revenue run-rate"
+      ],
+      "bear_case": [
+        "Trailing P/E of 37.8x and core CDN business facing secular pricing headwinds from hyperscaler competition and commoditization",
+        "Rising Treasury yields and risk-off environment continue to pressure the stock; down 35% from 52-week high despite solid fundamentals"
+      ],
+      "recommendation": "Buy",
+      "current_price": "$107.01",
+      "price_target": "$143.43 (+34.0%)",
+      "pe_ratio": "37.80",
+      "rsi": "67.5",
+      "vs_52wk_high": "-35.3% below high ($165.45)",
+      "analyst_rating": "Hold",
+      "sector": "Technology - CDN & Cloud Security",
+      "sources": ["247 Wall St.", "Yahoo Finance", "StockAnalysis", "TipRanks", "Piper Sandler", "The Cerbat Gem", "MarketBeat"],
+      "price_history_5d": [108.06, 108.62, 107.01]
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum Holdings, Inc.",
+      "discussion_driver": "Lumentum dropped more than 5% on September 1 as rising Treasury yields triggered a broad risk-off selloff in photonics and semiconductor-adjacent technology stocks. Despite the session's pullback, Lumentum's fundamental outlook remains extraordinarily strong — AI-driven demand for its optical components has its order book sold out through 2028, with the CEO citing demand with 'no end in sight.' The stock is 18% below its 52-week high, and 26 analysts maintain Buy ratings with an average target of $1,148, representing 29% upside from current levels.",
+      "bull_case": [
+        "AI datacenters driving insatiable demand for high-speed optical interconnects; company's order book is sold out through 2028 with CEO citing no end to demand in sight",
+        "26 Buy-rated analysts with an average price target of $1,148 (+29% upside); multiple recent initiations from Deutsche Bank ($1,200), Evercore ISI ($1,100), and Mizuho ($1,140)"
+      ],
+      "bear_case": [
+        "Trailing P/E of 96x and EV/EBITDA of 99x leave the stock extremely vulnerable to multiple compression if AI capex spending slows or interest rates remain elevated",
+        "Macro-driven selloffs hit high-multiple photonics names hard — today's 5%+ drop illustrates the sector's rate sensitivity and vulnerability to risk-off episodes"
+      ],
+      "recommendation": "Buy",
+      "current_price": "$890.35",
+      "price_target": "$1,148.43 (+29.0%)",
+      "pe_ratio": "96.38",
+      "rsi": "N/A",
+      "vs_52wk_high": "-18.0% below high ($1,085.68)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - Photonics & Optical Components",
+      "sources": ["MarketBeat", "StockAnalysis", "Deutsche Bank", "Evercore ISI", "Mizuho", "Nasdaq", "TradingKey", "TipRanks"],
+      "price_history_5d": [939.03, 920.88, 874.01]
     }
   ]
 }
