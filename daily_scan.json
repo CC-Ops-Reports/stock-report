@@ -1,123 +1,24 @@
 {
-  "report_date": "2026-09-02",
-  "market_tone": "Mixed",
+  "report_date": "2026-09-03",
+  "market_tone": "Bullish",
   "key_themes": [
-    "AI infrastructure cost pressures weighing on tech margins (PANW, Oracle)",
-    "California wildfire liability legislation crushes utility stocks (PCG, EIX)",
-    "Earnings bifurcation: cloud data winners (Snowflake) vs cautious guidance (HPE)"
+    "Software earnings season drives massive volatility \u2014 Snowflake +22%, Lululemon -18%, Guidewire -19%",
+    "Tesla Cybercab launch event in Austin ignites +7% rally as robotaxi bet crystallizes",
+    "Fed Governor Waller signals rate hold at Sept 15-16 meeting; Treasury yields retreat, lifting risk assets"
   ],
   "sp500": {
-    "value": "7,666.60",
-    "change": "+0.46%"
+    "value": "7,747.71",
+    "change": "+1.06%"
   },
   "nasdaq": {
-    "value": "26,217.83",
-    "change": "+0.45%"
+    "value": "26,584.06",
+    "change": "+1.40%"
   },
   "stocks": [
     {
       "ticker": "SNOW",
       "company": "Snowflake",
-      "reason": "Q2 FY2027 earnings crushed estimates: adj. EPS $0.62 on revenue of $1.55B; shares surged 20%+ after hours",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "TheStreet",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "PCG",
-      "company": "PG&E Corporation",
-      "reason": "California Assembly advanced wildfire liability bill omitting utility liability caps; stock plunged 20%+ to multi-year lows; Mizuho and BMO both downgraded",
-      "category": "news",
-      "sources": [
-        "Yahoo Finance",
-        "Seeking Alpha",
-        "XTB",
-        "24/7 Wall St."
-      ]
-    },
-    {
-      "ticker": "EIX",
-      "company": "Edison International",
-      "reason": "Same California wildfire liability legislation as PCG; shares tumbled 23%, largest single-day decline in over 25 years",
-      "category": "news",
-      "sources": [
-        "Yahoo Finance",
-        "24/7 Wall St.",
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "PANW",
-      "company": "Palo Alto Networks",
-      "reason": "Q4 FY2026 earnings: revenue +34% to $3.41B beat estimates, but gross margin fell 100 bps to 74.8% and cloud cost guidance disappointed; worst two-day drop in 30 months, down ~10% today",
-      "category": "earnings",
-      "sources": [
-        "Benzinga",
-        "CNBC",
-        "TradingKey"
-      ]
-    },
-    {
-      "ticker": "DELL",
-      "company": "Dell Technologies",
-      "reason": "Q2 FY2027 earnings beat on revenue and EPS; raised FY2027 forecast citing AI services strength; stock jumped 14%",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "ChartMill",
-        "TheStreet"
-      ]
-    },
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "reason": "Q3 FY2026 earnings report today; Wall Street consensus: $29.43B revenue (+84% YoY) driven by AI semiconductor demand; high-profile event for AI chip sector",
-      "category": "earnings",
-      "sources": [
-        "MarketBeat",
-        "Yahoo Finance",
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "SIRI",
-      "company": "Sirius XM Holdings",
-      "reason": "Deutsche Bank upgraded to Buy from Hold with $45 price target (50%+ implied upside); shares rose 7%+ intraday",
-      "category": "upgrade",
-      "sources": [
-        "Yahoo Finance",
-        "CNBC",
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "EOSE",
-      "company": "Eos Energy Enterprises",
-      "reason": "Signed agreement with MN8 Energy to supply Google data centers with 86MW solar power, 10MW zinc-based and 70MW lithium-ion energy storage in West Virginia; shares surged 15%",
-      "category": "news",
-      "sources": [
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "ORCL",
-      "company": "Oracle Corporation",
-      "reason": "Fresh round of layoffs effective September 1 (21,000+ jobs cut in FY2026) amid $55.7B AI capex spending; equity issuance concerns; stock trading lower",
-      "category": "news",
-      "sources": [
-        "Yahoo Finance",
-        "TheStreet",
-        "Quartz",
-        "Blockonomi"
-      ]
-    },
-    {
-      "ticker": "HPE",
-      "company": "Hewlett Packard Enterprise",
-      "reason": "Q3 FY2026 earnings: FY2027 EPS growth guidance of 16-20% slightly below FactSet consensus of 18.7%; shares slipped 4%",
+      "reason": "Surged ~22% after Q2 results topped analyst expectations on revenue and EPS; software peers Datadog and ServiceNow also rallied in sympathy",
       "category": "earnings",
       "sources": [
         "CNBC",
@@ -125,54 +26,138 @@
       ]
     },
     {
-      "ticker": "WOOF",
-      "company": "Petco Health and Wellness",
-      "reason": "Q2 earnings beat: adjusted EBITDA margin 8.2% vs 7.4% consensus estimate; shares jumped ~9%",
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "reason": "Jumped more than 7% ahead of the Cybercab launch event in Austin tonight; Tesla unveiled its two-seat, no-steering-wheel robotaxi as it bets on autonomous ride-hailing at software margins",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Reuters",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "LULU",
+      "company": "Lululemon Athletica",
+      "reason": "Tanked ~18% after Q2 revenue missed and full-year EPS guidance slashed to $9.48\u2013$9.73 vs $10.84 consensus; highlighted ongoing softness in North America apparel",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "Yahoo Finance"
+        "Yahoo Finance",
+        "Investing.com"
+      ]
+    },
+    {
+      "ticker": "GWRE",
+      "company": "Guidewire Software",
+      "reason": "Plummeted ~19% despite a Q4 earnings beat; Q1 revenue guidance midpoint of $375M came in below $378.1M consensus, triggering sharp sell-off",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Investing.com"
       ]
     },
     {
       "ticker": "GTLB",
       "company": "GitLab",
-      "reason": "William Blair upgraded to Market Perform from Underperform; also named in CNBC midday movers on strong session",
+      "reason": "Jumped ~10% on strong fiscal Q2 earnings: EPS $0.24 (33% beat), revenue $286M up 21.3% YoY, beating estimates across the board",
+      "category": "earnings",
+      "sources": [
+        "Yahoo Finance",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "CIEN",
+      "company": "Ciena",
+      "reason": "Reported fiscal Q3 earnings beat (EPS $2.11 vs $1.72 est; revenue $1.67B vs $1.63B est) but fell ~9% premarket on mixed FY2027 guidance and supply constraint concerns",
+      "category": "earnings",
+      "sources": [
+        "Investing.com",
+        "Yahoo Finance",
+        "WTOP"
+      ]
+    },
+    {
+      "ticker": "ZS",
+      "company": "Zscaler",
+      "reason": "Q4 adjusted EPS $1.19 vs $1.09 estimate; revenue $898M vs $877M estimate; shares up ~2% after hours following the beat",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Investing.com"
+      ]
+    },
+    {
+      "ticker": "META",
+      "company": "Meta Platforms",
+      "reason": "Rose ~3% after launching Muse Spark 1.3 AI model, reinforcing its AI infrastructure investment thesis ahead of earnings next month",
+      "category": "news",
+      "sources": [
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "reason": "Upgraded to Outperform at Macquarie with $490 target after inline fiscal Q3 results; Macquarie argues Google insourcing risk now priced in after stock fell 24% from 2026 high",
       "category": "upgrade",
       "sources": [
         "Yahoo Finance",
         "CNBC",
-        "24/7 Wall St."
+        "247wallst.com"
       ]
     },
     {
-      "ticker": "TOST",
-      "company": "Toast",
-      "reason": "BNP Paribas downgraded to Neutral from Outperform, trimmed price target to $35 from $38",
+      "ticker": "DELL",
+      "company": "Dell Technologies",
+      "reason": "Jumped 5%+ midday; upgraded to Outperform by Fox Advisors with $625 target; AI server demand cited as key driver",
+      "category": "upgrade",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "DE",
+      "company": "Deere & Company",
+      "reason": "Raised to Outperform from Market Perform at Evercore ISI with $813 target, citing improving ag cycle and margin recovery catalysts heading into FY2027",
+      "category": "upgrade",
+      "sources": [
+        "Yahoo Finance",
+        "247wallst.com",
+        "Daily Trade Alert"
+      ]
+    },
+    {
+      "ticker": "TSN",
+      "company": "Tyson Foods",
+      "reason": "Fell nearly 7% after slashing full-year guidance citing persistent beef-segment margin pressure and softening consumer protein demand",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "MRNA",
+      "company": "Moderna",
+      "reason": "Cut to Sell from Hold at Rothschild & Co Redburn with $81 target; concerns over declining COVID booster revenue and pipeline execution ahead of Q3 earnings",
+      "category": "downgrade",
+      "sources": [
+        "Yahoo Finance",
+        "CNBC",
+        "247wallst.com"
+      ]
+    },
+    {
+      "ticker": "RARE",
+      "company": "Ultragenyx Pharmaceutical",
+      "reason": "Downgraded to Sector Perform from Outperform at RBC Capital; price target cut sharply from $40 to $19 on pipeline risk reassessment",
       "category": "downgrade",
       "sources": [
         "Yahoo Finance",
         "Benzinga"
-      ]
-    },
-    {
-      "ticker": "RKLB",
-      "company": "Rocket Lab USA",
-      "reason": "Berenberg initiated coverage with Buy rating and $83 price target; fresh institutional coverage for the space launch company",
-      "category": "news",
-      "sources": [
-        "Yahoo Finance",
-        "24/7 Wall St."
-      ]
-    },
-    {
-      "ticker": "ALLY",
-      "company": "Ally Financial",
-      "reason": "Raymond James initiated with Strong Buy rating and $55 price target, calling out attractive risk/reward in auto lending",
-      "category": "upgrade",
-      "sources": [
-        "Yahoo Finance",
-        "24/7 Wall St."
       ]
     }
   ]
