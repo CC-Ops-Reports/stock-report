@@ -1,163 +1,177 @@
 {
-  "report_date": "2026-09-03",
-  "market_tone": "Bullish",
+  "report_date": "2026-09-04",
+  "market_tone": "Mixed",
   "key_themes": [
-    "Software earnings season drives massive volatility \u2014 Snowflake +22%, Lululemon -18%, Guidewire -19%",
-    "Tesla Cybercab launch event in Austin ignites +7% rally as robotaxi bet crystallizes",
-    "Fed Governor Waller signals rate hold at Sept 15-16 meeting; Treasury yields retreat, lifting risk assets"
+    "Hot August jobs report (162K vs 53K expected) sparks rate-hike bets, yields jump",
+    "Tech earnings bifurcated: Snowflake and DocuSign beat big, Guidewire and Lululemon crush guidance",
+    "Credit bureau sector rocked by FHFA Director Pulte's regulatory threat to tri-merge standard",
+    "Tesla Cybercab faces NHTSA safety investigation one day after Austin commercial launch"
   ],
   "sp500": {
-    "value": "7,747.71",
-    "change": "+1.06%"
+    "value": "7,718.60",
+    "change": "-0.38%"
   },
   "nasdaq": {
-    "value": "26,584.06",
-    "change": "+1.40%"
+    "value": "26,506.99",
+    "change": "-0.29%"
   },
   "stocks": [
     {
       "ticker": "SNOW",
-      "company": "Snowflake",
-      "reason": "Surged ~22% after Q2 results topped analyst expectations on revenue and EPS; software peers Datadog and ServiceNow also rallied in sympathy",
+      "company": "Snowflake Inc.",
+      "reason": "Surged 22%+ in after-hours/premarket after Q2 FY26 earnings crushed estimates: EPS $0.62 vs $0.45 expected, revenue $1.55B vs $1.48B; product revenue +37% YoY driven by AI products (CoCo, CoWork); full-year guidance raised to $6.07B",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "reason": "Jumped more than 7% ahead of the Cybercab launch event in Austin tonight; Tesla unveiled its two-seat, no-steering-wheel robotaxi as it bets on autonomous ride-hailing at software margins",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "Reuters",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "LULU",
-      "company": "Lululemon Athletica",
-      "reason": "Tanked ~18% after Q2 revenue missed and full-year EPS guidance slashed to $9.48\u2013$9.73 vs $10.84 consensus; highlighted ongoing softness in North America apparel",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
+        "Investing.com",
         "Yahoo Finance",
-        "Investing.com"
+        "IBTimes"
       ]
     },
     {
       "ticker": "GWRE",
-      "company": "Guidewire Software",
-      "reason": "Plummeted ~19% despite a Q4 earnings beat; Q1 revenue guidance midpoint of $375M came in below $378.1M consensus, triggering sharp sell-off",
+      "company": "Guidewire Software Inc.",
+      "reason": "Plunged 22% after Q1 FY2027 revenue guidance of $372-378M midpoint missed consensus by ~3.3%, and ARR outlook disappointed, overshadowing a Q4 FY26 earnings beat ($0.99 EPS vs $0.93 expected)",
       "category": "earnings",
       "sources": [
-        "CNBC",
-        "Investing.com"
-      ]
-    },
-    {
-      "ticker": "GTLB",
-      "company": "GitLab",
-      "reason": "Jumped ~10% on strong fiscal Q2 earnings: EPS $0.24 (33% beat), revenue $286M up 21.3% YoY, beating estimates across the board",
-      "category": "earnings",
-      "sources": [
-        "Yahoo Finance",
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "CIEN",
-      "company": "Ciena",
-      "reason": "Reported fiscal Q3 earnings beat (EPS $2.11 vs $1.72 est; revenue $1.67B vs $1.63B est) but fell ~9% premarket on mixed FY2027 guidance and supply constraint concerns",
-      "category": "earnings",
-      "sources": [
+        "Seeking Alpha",
         "Investing.com",
-        "Yahoo Finance",
-        "WTOP"
+        "RTTNews"
       ]
     },
     {
-      "ticker": "ZS",
-      "company": "Zscaler",
-      "reason": "Q4 adjusted EPS $1.19 vs $1.09 estimate; revenue $898M vs $877M estimate; shares up ~2% after hours following the beat",
+      "ticker": "LULU",
+      "company": "Lululemon Athletica Inc.",
+      "reason": "Fell 17-18% after slashing full-year revenue guidance to $10.35-10.5B (a 5-7% decline); Q2 revenue fell 4% YoY to $2.42B, missing estimates; global comparable sales down ~10%; incoming CEO faces prolonged turnaround",
       "category": "earnings",
       "sources": [
+        "Motley Fool",
+        "Forbes",
+        "Yahoo Finance",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla Inc.",
+      "reason": "Dropped 6% after NHTSA opened investigation into whether the Cybercab was properly self-certified under Federal Motor Vehicle Safety Standards, and Thursday's Austin launch event underwhelmed \u2014 CEO Musk absent, not streamed; Wells Fargo titled note \"TSLA Cybercab Launch Event Underwhelms\"",
+      "category": "news",
+      "sources": [
         "CNBC",
+        "Yahoo Finance",
+        "Seeking Alpha",
+        "Quartz"
+      ]
+    },
+    {
+      "ticker": "FICO",
+      "company": "Fair Isaac Corporation",
+      "reason": "Plunged 21% after FHFA Director Bill Pulte ordered Fannie Mae and Freddie Mac to approve VantageScore 4.0 while accusing credit bureaus of \"cartel-like\" practices and threatening a bi-merge approach that could eliminate one bureau from mortgage pulls",
+      "category": "news",
+      "sources": [
+        "Bloomberg",
+        "Investing.com",
+        "Benzinga"
+      ]
+    },
+    {
+      "ticker": "EFX",
+      "company": "Equifax Inc.",
+      "reason": "Fell sharply alongside FICO and TransUnion on FHFA Director Pulte's directive and threat to the lucrative tri-merge credit reporting standard; Pulte accused bureaus of \"overcharging Americans for far too long\"",
+      "category": "news",
+      "sources": [
+        "Bloomberg",
+        "Benzinga",
         "Investing.com"
       ]
     },
     {
-      "ticker": "META",
-      "company": "Meta Platforms",
-      "reason": "Rose ~3% after launching Muse Spark 1.3 AI model, reinforcing its AI infrastructure investment thesis ahead of earnings next month",
+      "ticker": "TRU",
+      "company": "TransUnion",
+      "reason": "Declined in tandem with EFX and FICO on FHFA Director Pulte's credit bureau regulatory offensive, threatening mandatory bi-merge mortgage credit pulls that would cut a bureau out of the process",
+      "category": "news",
+      "sources": [
+        "Bloomberg",
+        "Investing.com"
+      ]
+    },
+    {
+      "ticker": "SNDK",
+      "company": "Sandisk Corporation",
+      "reason": "Rose 8%+ as the semiconductor sector broadly rallied heading into the long weekend; chip stocks led by Sandisk outperformed the weak tape",
+      "category": "sector",
+      "sources": [
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "AMC",
+      "company": "AMC Entertainment Holdings",
+      "reason": "Gained 6.5% after CEO Adam Aron publicly condemned Robinhood's tokenized stock products for AMC, calling the practice \"contemptible, outrageous, disgusting,\" generating significant retail investor attention",
       "category": "news",
       "sources": [
         "CNBC"
       ]
     },
     {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "reason": "Upgraded to Outperform at Macquarie with $490 target after inline fiscal Q3 results; Macquarie argues Google insourcing risk now priced in after stock fell 24% from 2026 high",
-      "category": "upgrade",
-      "sources": [
-        "Yahoo Finance",
-        "CNBC",
-        "247wallst.com"
-      ]
-    },
-    {
-      "ticker": "DELL",
-      "company": "Dell Technologies",
-      "reason": "Jumped 5%+ midday; upgraded to Outperform by Fox Advisors with $625 target; AI server demand cited as key driver",
-      "category": "upgrade",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "DE",
-      "company": "Deere & Company",
-      "reason": "Raised to Outperform from Market Perform at Evercore ISI with $813 target, citing improving ag cycle and margin recovery catalysts heading into FY2027",
-      "category": "upgrade",
-      "sources": [
-        "Yahoo Finance",
-        "247wallst.com",
-        "Daily Trade Alert"
-      ]
-    },
-    {
-      "ticker": "TSN",
-      "company": "Tyson Foods",
-      "reason": "Fell nearly 7% after slashing full-year guidance citing persistent beef-segment margin pressure and softening consumer protein demand",
+      "ticker": "HOOD",
+      "company": "Robinhood Markets Inc.",
+      "reason": "Showed unusual call options activity (6x average daily volume, 3:1 calls vs puts) with traders targeting the Sept 4 $120 call; shares rose ~4% alongside a Bitcoin price bump",
       "category": "news",
       "sources": [
-        "CNBC",
-        "Yahoo Finance"
+        "Market Rebellion",
+        "Market Chameleon"
       ]
     },
     {
-      "ticker": "MRNA",
-      "company": "Moderna",
-      "reason": "Cut to Sell from Hold at Rothschild & Co Redburn with $81 target; concerns over declining COVID booster revenue and pipeline execution ahead of Q3 earnings",
-      "category": "downgrade",
+      "ticker": "DOCU",
+      "company": "DocuSign Inc.",
+      "reason": "Beat Q2 adjusted earnings and revenue estimates reported after Sept 3 close; raised full-year revenue and non-GAAP operating margin guidance, stock moved higher on strong results",
+      "category": "earnings",
       "sources": [
-        "Yahoo Finance",
-        "CNBC",
-        "247wallst.com"
+        "TheStreet",
+        "CNBC"
       ]
     },
     {
-      "ticker": "RARE",
-      "company": "Ultragenyx Pharmaceutical",
-      "reason": "Downgraded to Sector Perform from Outperform at RBC Capital; price target cut sharply from $40 to $19 on pipeline risk reassessment",
+      "ticker": "PATH",
+      "company": "UiPath Inc.",
+      "reason": "Downgraded by Canaccord Genuity to Hold from Buy (target $17, up from $15) citing the stock's recent rally and a competitive environment described as \"only getting more fluid\" from AI automation pressure",
       "category": "downgrade",
       "sources": [
         "Yahoo Finance",
-        "Benzinga"
+        "247 Wall St."
+      ]
+    },
+    {
+      "ticker": "AMBA",
+      "company": "Ambarella Inc.",
+      "reason": "Downgraded to Hold from Buy at Craig-Hallum with price target slashed to $70 from $95, a significant 26% cut to the target, weighing on the stock",
+      "category": "downgrade",
+      "sources": [
+        "Yahoo Finance",
+        "247 Wall St."
+      ]
+    },
+    {
+      "ticker": "SHEL",
+      "company": "Shell PLC",
+      "reason": "Upgraded to Overweight from Equal Weight at Morgan Stanley with a significant 25% price target hike to $101.30 from $81.60, among the most notable energy analyst calls of the day",
+      "category": "upgrade",
+      "sources": [
+        "Yahoo Finance",
+        "247 Wall St."
+      ]
+    },
+    {
+      "ticker": "HPE",
+      "company": "Hewlett Packard Enterprise Co.",
+      "reason": "Q3 FY26 results (reported Sept 2) showed adjusted EPS $1.11 vs $0.95 expected and revenue $12.21B vs consensus; record revenue driven by strong demand for AI infrastructure servers; stock continued to trade on this beat",
+      "category": "earnings",
+      "sources": [
+        "Yahoo Finance",
+        "CNBC",
+        "HPE Newsroom"
       ]
     }
   ]
