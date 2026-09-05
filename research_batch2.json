@@ -1,121 +1,165 @@
 {
-  "report_date": "2026-09-02",
+  "report_date": "2026-09-04",
   "batch": 2,
   "stocks": [
     {
-      "ticker": "AVGO",
-      "company": "Broadcom Inc.",
-      "discussion_driver": "Q3 FY2026 earnings released after today's close: revenue $29.6B (+86% YoY) and adj. EPS $3.32 beat consensus estimates, but Q4 revenue guidance of $34.8B fell short of the ~$35.2B analyst estimate, sending AVGO down ~5% after hours despite AI chip demand driving 143% YoY AI revenue growth.",
+      "ticker": "EFX",
+      "company": "Equifax Inc.",
+      "discussion_driver": "Equifax fell roughly 6.4% on September 4 after FHFA Director Bill Pulte renewed his offensive against the credit bureaus, calling their pricing 'cartel-like' and explicitly threatening to replace the tri-merge mortgage reporting standard with a bi-merge model that would cut one bureau from every GSE-backed mortgage pull. The stock gapped down 11% at the open from $189.09 to $167.99 before partially recovering to close at $177.05; while EFX co-owns VantageScore — which Pulte simultaneously mandated Fannie and Freddie accept — the structural revenue risk dominated sentiment and overshadowed that silver lining.",
       "bull_case": [
-        "AI revenue growing 143% YoY cements Broadcom as a critical pick-and-shovel AI infrastructure supplier—demand from hyperscaler custom silicon programs remains robust",
-        "Strong Buy consensus from 49 analysts with $526 average price target implies 42%+ upside; BMO initiated Outperform with $455 target just days before earnings"
+        "Equifax co-owns VantageScore alongside Experian and TransUnion; FHFA's directive requiring all GSE lenders to accept VantageScore 4.0 adds an incremental per-origination revenue stream even as Pulte attacks bureau pricing.",
+        "Aggressive AI and data-analytics investment has diversified revenue into workforce solutions, fraud prevention, and financial inclusion verticals, reducing long-term dependence on mortgage credit report fees."
       ],
       "bear_case": [
-        "Q4 revenue guidance of $34.8B disappointed Wall Street; post-earnings guidance compression may trigger multiple de-rating as investors reassess the AI spending trajectory",
-        "Stock trades at a P/E of 69.7x (vs. 5-year historical average of ~40x), leaving significant multiple-compression risk if AI capex cycle moderates"
-      ],
-      "recommendation": "Buy",
-      "current_price": "$369.68",
-      "price_target": "$525.97 (+42.2%)",
-      "pe_ratio": "69.7",
-      "rsi": "N/A",
-      "vs_52wk_high": "-25.3% below high ($495.00)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Technology - Semiconductors",
-      "sources": ["StockAnalysis", "Yahoo Finance", "CNN Markets", "MarketScreener", "Benzinga", "Moomoo"],
-      "price_history_5d": [370.34, 369.68, 369.68]
-    },
-    {
-      "ticker": "SIRI",
-      "company": "Sirius XM Holdings Inc.",
-      "discussion_driver": "Deutsche Bank upgraded SIRI from Hold to Buy and raised its price target from $31 to $45 (51%+ implied upside), citing higher revenue and EBITDA estimates, an improving digital audio advertising outlook, and stability in satellite radio subscriptions; the stock surged ~8% to close at $29.70.",
-      "bull_case": [
-        "Deutsche Bank analyst Bryan Kraft argues SIRI is mispriced due to a disconnect between consensus estimates and achievable 2027-2028 FCF generation, with improving digital ad market providing upside beyond satellite subscriptions",
-        "Cheap valuation at 8.1x trailing P/E with a clear catalyst from a high-profile analyst upgrade; stock remains well below its 52-week high of $32.66"
-      ],
-      "bear_case": [
-        "Broader analyst consensus remains mixed (5 Buy, 4 Hold, 5 Sell); structural pressure from streaming platforms (Spotify, Apple Music) continues to erode satellite radio subscriber counts",
-        "The $45 price target is an outlier versus the $18-$36 range of other analysts; without confirmation from additional upgrades or earnings beats, momentum may fade"
-      ],
-      "recommendation": "Buy",
-      "current_price": "$29.70",
-      "price_target": "$45.00 (+51.5%)",
-      "pe_ratio": "8.1",
-      "rsi": "N/A",
-      "vs_52wk_high": "-9.1% below high ($32.66)",
-      "analyst_rating": "Hold",
-      "sector": "Communication Services - Satellite Radio",
-      "sources": ["Seeking Alpha", "Investing.com", "24/7 Wall St.", "Motley Fool", "Benzinga", "AOL Finance"],
-      "price_history_5d": [27.62, 29.70]
-    },
-    {
-      "ticker": "EOSE",
-      "company": "Eos Energy Enterprises Inc.",
-      "discussion_driver": "Eos Energy signed a landmark commercial agreement with MN8 Energy to supply Google data centers with 86MW of solar, 10MW of its proprietary Z3 aqueous zinc long-duration batteries, and 70MW of lithium-ion storage in West Virginia—a $350M project and Google's first deployment of Eos' American-made Z3 system; shares surged ~19% on the news.",
-      "bull_case": [
-        "Google partnership is a major technology validation for the Z3 zinc battery system and opens a pipeline of potential data center energy storage contracts as hyperscalers race to secure clean power",
-        "Company backlog reached $807M while analyst average price target of ~$7 represents 94%+ upside from current levels; Stifel maintains Buy with $9 target"
-      ],
-      "bear_case": [
-        "Company remains deeply unprofitable—Q2 FY2026 EPS loss of -$1.20 was wider than expected despite $68.8M in revenue; ongoing cash burn raises dilution and financing risk",
-        "Stock is 82% below its 52-week high of $19.86 and was trading below its prior 52-week low before today's rally; thin trading volume amplifies volatility"
-      ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$3.61",
-      "price_target": "$7.00 (+93.9%)",
-      "pe_ratio": "N/A",
-      "rsi": "N/A",
-      "vs_52wk_high": "-81.8% below high ($19.86)",
-      "analyst_rating": "Buy",
-      "sector": "Industrials - Clean Energy Storage",
-      "sources": ["Benzinga", "Motley Fool", "MoneyCheck", "Blockonomi", "TimothySykes", "CNN Markets", "Seeking Alpha"],
-      "price_history_5d": [3.26, 3.20, 3.61]
-    },
-    {
-      "ticker": "ORCL",
-      "company": "Oracle Corporation",
-      "discussion_driver": "Oracle began a fresh wave of layoffs effective September 1—part of a 21,000+ headcount reduction (13% of workforce) in FY2026—as the company contends with $55.7B in AI data center capital expenditure that generated $23.7B more in cash outflow than it produced; equity issuance concerns and the capex burden have weighed on shares, which are down ~26% YTD and 58% below the 52-week high.",
-      "bull_case": [
-        "Oracle's cloud infrastructure (OCI) is a primary beneficiary of AI workload demand; hyperscaler buildout partnerships and multi-cloud database deals provide a durable multi-year revenue growth runway",
-        "Stock trades at a P/E of 23.8x—18% below its 10-year historical average—while analysts maintain an average price target of $243 (66%+ upside), offering significant revaluation potential"
-      ],
-      "bear_case": [
-        "The $55.7B AI capex program has created a $23.7B free cash flow deficit, requiring ongoing equity and debt issuance that dilutes shareholders and weighs on the multiple",
-        "Workforce cuts signal margin pressure rather than efficiency gains; execution risk is high as Oracle attempts to simultaneously grow cloud revenue, manage AI infrastructure debt, and retain talent"
-      ],
-      "recommendation": "Buy",
-      "current_price": "$145.75",
-      "price_target": "$242.69 (+66.5%)",
-      "pe_ratio": "23.79",
-      "rsi": "N/A",
-      "vs_52wk_high": "-57.8% below high ($345.72)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Enterprise Cloud / Database",
-      "sources": ["Yahoo Finance", "TheStreet", "Quartz", "TipRanks", "Barchart", "TradingKey", "fullratio.com"],
-      "price_history_5d": [141.32, 145.75]
-    },
-    {
-      "ticker": "HPE",
-      "company": "Hewlett Packard Enterprise Company",
-      "discussion_driver": "HPE reported Q3 FY2026 earnings after today's close, beating strongly: EPS $1.11 vs $0.93 estimate, revenue $12.21B vs $11.91B estimate (+34% YoY), with AI server orders up 30%+ sequentially and record backlog. However, FY2027 EPS growth guidance of 16-20% fell slightly below the FactSet consensus of 18.7%, sending shares down ~4% after hours despite an otherwise strong report.",
-      "bull_case": [
-        "Record Q3 non-GAAP gross margin of 40%, $958M FCF (highest Q3 result ever), and 42% order growth confirm HPE as a direct AI server infrastructure beneficiary with durable revenue momentum",
-        "Analyst consensus price target of ~$68 implies 30%+ upside from pre-earnings levels; Bank of America maintained a bullish stance raising its target to $82"
-      ],
-      "bear_case": [
-        "FY2027 EPS guidance (16-20% growth) slightly missed the 18.7% consensus, providing a negative catalyst after a 120% YTD rally that may have fully priced in the AI hardware upcycle",
-        "Trailing P/E of 47.8x is elevated for an enterprise hardware company; a deceleration in AI server demand or margin pressures could lead to significant multiple compression from current levels"
+        "Bi-merge adoption would eliminate Equifax from roughly one-third of mortgage credit pulls, directly cutting a high-margin, recurring revenue line that has been a core earnings driver.",
+        "FHFA pricing pressure — lenders cited 40-50% credit report price increases in 2026 — creates political risk for regulatory fee caps that would compress margins industry-wide."
       ],
       "recommendation": "Hold",
-      "current_price": "$51.83",
-      "price_target": "$67.48 (+30.2%)",
-      "pe_ratio": "47.84",
-      "rsi": "N/A",
-      "vs_52wk_high": "-19.3% below high ($64.25)",
+      "current_price": "$177.05",
+      "price_target": "$220.81 (+24.7%)",
+      "pe_ratio": "33.2",
+      "rsi": "46.4",
+      "vs_52wk_high": "-34.9% below high ($271.84)",
       "analyst_rating": "Buy",
-      "sector": "Technology - Enterprise IT / Server Hardware",
-      "sources": ["Benzinga", "Yahoo Finance", "eToro", "Seeking Alpha", "24/7 Wall St.", "Cryptonomist", "Blockonomi"],
-      "price_history_5d": [52.24, 51.83]
+      "sector": "Industrials - Commercial Services (Data & Analytics)",
+      "sources": [
+        "Bloomberg",
+        "Benzinga",
+        "MarketBeat",
+        "StockAnalysis.com",
+        "Investing.com",
+        "Yahoo Finance"
+      ],
+      "price_history_5d": [189.16, 189.09, 177.05]
+    },
+    {
+      "ticker": "TRU",
+      "company": "TransUnion",
+      "discussion_driver": "TransUnion declined in tandem with Equifax and FICO on September 4 as FHFA Director Pulte escalated his credit bureau regulatory offensive, describing the tri-bureau system as 'cartel-like' and endorsing a bi-merge framework that would structurally exclude one bureau from each mortgage credit pull. TRU fell 5.9% to close at $79.88 — nearly 20% below its 52-week high — as investors weighed TransUnion's VantageScore co-ownership as a partial offset against the headline risk of losing a mandated slice of the US mortgage credit report market.",
+      "bull_case": [
+        "As a VantageScore co-owner, TransUnion is positioned to benefit from FHFA's mandate requiring Fannie Mae and Freddie Mac to accept VantageScore 4.0 from all lenders, adding a revenue stream that partially hedges the tri-merge disruption risk.",
+        "International revenue (approximately 40% of total) and diversified financial services and insurance verticals provide meaningful insulation from US mortgage regulatory exposure."
+      ],
+      "bear_case": [
+        "A bi-merge requirement would eliminate one bureau per mortgage pull; TransUnion's comparatively smaller US mortgage market share versus Equifax increases the risk it is the bureau cut from the pull.",
+        "FHFA pricing crackdown targeting 40-50% year-over-year fee increases could force mandated reductions on core credit report products, compressing the margins that fund TRU's ongoing debt paydown and growth investments."
+      ],
+      "recommendation": "Hold",
+      "current_price": "$79.88",
+      "price_target": "$94.38 (+18.2%)",
+      "pe_ratio": "40.0",
+      "rsi": "54.3",
+      "vs_52wk_high": "-19.6% below high ($99.39)",
+      "analyst_rating": "Moderate Buy",
+      "sector": "Industrials - Commercial Services (Data & Credit Analytics)",
+      "sources": [
+        "Bloomberg",
+        "Benzinga",
+        "Investing.com",
+        "Weiss Ratings",
+        "StockAnalysis.com",
+        "MarketBeat"
+      ],
+      "price_history_5d": [83.67, 84.92, 79.88]
+    },
+    {
+      "ticker": "SNDK",
+      "company": "Sandisk Corporation",
+      "discussion_driver": "SanDisk surged more than 8% on September 4 as chip stocks broadly rallied heading into the Labor Day long weekend, with SanDisk outperforming the weak broader tape on sustained AI data-center demand and strong NAND pricing data showing roughly 70% quarter-on-quarter revenue growth in Q2. The extraordinary 574% run in 2026 reflects its position as the S&P 500's top performer year-to-date, yet at $1,718 the stock still trades 27% below its June peak, leaving meaningful recovery potential if the favorable memory pricing cycle holds through year-end.",
+      "bull_case": [
+        "Pure-play NAND flash beneficiary of the AI infrastructure buildout: global NAND revenue surged ~70% QoQ in Q2 2026 as AI data centers consume enormous volumes of flash storage, and SanDisk — now independent after its February 2025 WD spinoff — is the most direct large-cap equity expression of this secular demand wave.",
+        "Consensus analyst target of $2,125 implies 23.7% upside from the September 4 close, backed by 24 analysts at a Buy rating, reflecting confidence that enterprise SSD demand and tight NAND supply will sustain pricing momentum into 2027."
+      ],
+      "bear_case": [
+        "Stock sits 27% below its June 2026 52-week high and an RSI of 75.5 signals technically overbought conditions after the 8% single-day spike, raising near-term pullback risk for a name that has already returned ~574% in 2026.",
+        "NAND memory pricing is notoriously cyclical; any demand softening, macro headwind, or supply expansion from competitors could rapidly reverse the favorable pricing environment that underpins the entire bull thesis."
+      ],
+      "recommendation": "Buy",
+      "current_price": "$1,718.10",
+      "price_target": "$2,125.00 (+23.7%)",
+      "pe_ratio": "21.3",
+      "rsi": "75.5",
+      "vs_52wk_high": "-27.0% below high ($2,354.39)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - Semiconductors & Storage",
+      "sources": [
+        "247wallst.com",
+        "Motley Fool",
+        "FXLeaders",
+        "Forbes",
+        "TipRanks",
+        "FinanceCharts",
+        "Investing.com",
+        "StockAnalysis.com",
+        "MarketBeat"
+      ],
+      "price_history_5d": [1566.70, 1553.40, 1554.99, 1718.10]
+    },
+    {
+      "ticker": "AMC",
+      "company": "AMC Entertainment Holdings",
+      "discussion_driver": "AMC Entertainment shares jumped roughly 6.5% on September 4 after CEO Adam Aron went viral by publicly condemning Robinhood's tokenized AMC stock products as 'contemptible, outrageous, disgusting,' igniting retail investor attention and echoing the meme-stock energy of 2021. Despite the headline-driven pop, analyst consensus sees essentially no upside from current levels — average 12-month price target of $2.72 versus a $2.71 close — and the company's negative trailing earnings and persistent structural headwinds for theater chains limit the fundamental case for the move.",
+      "bull_case": [
+        "CEO Adam Aron's combative public campaign against Robinhood's unauthorized tokenized AMC shares rekindled retail investor attention and the meme-stock dynamic, with potential for regulatory action against tokenized shares to serve as a near-term sentiment catalyst.",
+        "The stock remains well above its 52-week low of $0.93, demonstrating material business stabilization from pandemic lows; any positive surprise in box office attendance or debt restructuring progress could shift the narrative."
+      ],
+      "bear_case": [
+        "Consensus analyst price target of $2.72 sits essentially at the September 4 close of $2.71, meaning the street collectively sees zero meaningful upside — and the gain is entirely sentiment-driven with no change to the underlying fundamentals.",
+        "AMC continues to operate at a loss (no applicable P/E), faces severe structural headwinds from streaming competition and declining theater attendance, and carries a highly leveraged balance sheet that limits financial flexibility."
+      ],
+      "recommendation": "Hold",
+      "current_price": "$2.71",
+      "price_target": "$2.72 (+0.4%)",
+      "pe_ratio": "N/A",
+      "rsi": "50.6",
+      "vs_52wk_high": "-14.8% below high ($3.18)",
+      "analyst_rating": "Hold",
+      "sector": "Consumer Discretionary - Entertainment / Movie Theaters",
+      "sources": [
+        "CoinDesk",
+        "The Block",
+        "Bloomberg",
+        "247WallSt",
+        "StockAnalysis.com",
+        "Benzinga",
+        "Cryptonomist"
+      ],
+      "price_history_5d": [2.54, 2.71]
+    },
+    {
+      "ticker": "HOOD",
+      "company": "Robinhood Markets Inc.",
+      "discussion_driver": "Unusual call options activity on September 4 ran at 6x average daily volume with a 3:1 calls-to-puts ratio, with bullish traders concentrating on the $120 strike expiring that same day. Shares rose approximately 4% alongside a Bitcoin price surge, reinforcing HOOD's tight correlation to crypto market sentiment as it expands into tokenized real-world assets ($600M+ in daily trading) and the Robinhood Chain. The session followed a September 3 Morgan Stanley upgrade to Overweight with a freshly raised $150 price target, layering institutional momentum onto the already-bullish tape.",
+      "bull_case": [
+        "Rapidly diversifying into high-growth verticals: Q2 2026 event contracts revenue grew over 10x YoY to $156M, Bernstein projects full-year prediction-market revenue of ~$586M (+286% YoY), and tokenized real-world assets are clearing $600M in daily trading volume — reducing dependence on legacy commission-rebate revenue and opening large new total addressable markets.",
+        "Super-app model scaling with durable profitability: Q2 2026 net revenues reached $1.31B (+32% YoY) at a 57% adjusted EBITDA margin, with 4.8M Gold subscribers (+39% YoY) and 13 separate business lines each clearing $100M in annual revenue."
+      ],
+      "bear_case": [
+        "Revenue remains cyclically exposed to volatile trading volumes: options, event contracts, and crypto revenues are directly tied to retail sentiment and market activity levels; a low-volatility or risk-off environment has historically caused sharp top-line compression.",
+        "Premium valuation embeds much of the growth story: at ~42x trailing earnings, any regulatory headwind to prediction markets or tokenized assets — or cooling retail engagement — could compress the multiple meaningfully from current levels."
+      ],
+      "recommendation": "Speculative Buy",
+      "current_price": "$122.11",
+      "price_target": "$119.93 (-1.8%)",
+      "pe_ratio": "42.0",
+      "rsi": "N/A",
+      "vs_52wk_high": "-20.6% below high ($153.86)",
+      "analyst_rating": "Buy",
+      "sector": "Financial Services - Retail Brokerage / Fintech",
+      "sources": [
+        "StockAnalysis.com",
+        "AnaChart.com",
+        "Cryptonomist",
+        "Coingape",
+        "Investing.com",
+        "Robinhood IR",
+        "Yahoo Finance",
+        "GuruFocus",
+        "TipRanks",
+        "Forbes",
+        "Morgan Stanley"
+      ],
+      "price_history_5d": []
     }
   ]
 }
