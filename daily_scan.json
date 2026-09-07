@@ -1,11 +1,12 @@
 {
-  "report_date": "2026-09-04",
-  "market_tone": "Mixed",
+  "report_date": "2026-09-07",
+  "market_tone": "Bearish",
   "key_themes": [
-    "Hot August jobs report (162K vs 53K expected) sparks rate-hike bets, yields jump",
-    "Tech earnings bifurcated: Snowflake and DocuSign beat big, Guidewire and Lululemon crush guidance",
-    "Credit bureau sector rocked by FHFA Director Pulte's regulatory threat to tri-merge standard",
-    "Tesla Cybercab faces NHTSA safety investigation one day after Austin commercial launch"
+    "Blowout jobs report (162K vs 53K expected) reignites Fed rate-hike fears, Treasury yields surge",
+    "US-Iran tensions escalate: WTI crude tops $90, Brent near $95, energy stocks outperform",
+    "Consumer brand blowups: Lululemon 3rd guidance cut sends stock to 8-year low; defensive rotation underway",
+    "Apple iPhone 18 + foldable iPhone Ultra event Wednesday Sept 9 \u2014 Morgan Stanley calls it most consequential launch in a decade",
+    "Labor Day market closure (Sept 7); attention turns to Oracle earnings (Sept 10) and CPI (Sept 11)"
   ],
   "sp500": {
     "value": "7,718.60",
@@ -17,161 +18,152 @@
   },
   "stocks": [
     {
-      "ticker": "SNOW",
-      "company": "Snowflake Inc.",
-      "reason": "Surged 22%+ in after-hours/premarket after Q2 FY26 earnings crushed estimates: EPS $0.62 vs $0.45 expected, revenue $1.55B vs $1.48B; product revenue +37% YoY driven by AI products (CoCo, CoWork); full-year guidance raised to $6.07B",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Investing.com",
-        "Yahoo Finance",
-        "IBTimes"
-      ]
-    },
-    {
-      "ticker": "GWRE",
-      "company": "Guidewire Software Inc.",
-      "reason": "Plunged 22% after Q1 FY2027 revenue guidance of $372-378M midpoint missed consensus by ~3.3%, and ARR outlook disappointed, overshadowing a Q4 FY26 earnings beat ($0.99 EPS vs $0.93 expected)",
-      "category": "earnings",
-      "sources": [
-        "Seeking Alpha",
-        "Investing.com",
-        "RTTNews"
-      ]
-    },
-    {
       "ticker": "LULU",
-      "company": "Lululemon Athletica Inc.",
-      "reason": "Fell 17-18% after slashing full-year revenue guidance to $10.35-10.5B (a 5-7% decline); Q2 revenue fell 4% YoY to $2.42B, missing estimates; global comparable sales down ~10%; incoming CEO faces prolonged turnaround",
+      "company": "Lululemon Athletica",
+      "reason": "Stock plunged 17-18% on Sept 4 to 8-year low ($100.13) after Q2 revenue missed ($2.42B vs $2.46B est.) and company slashed FY2026 guidance for third time this year \u2014 new midpoint $10.43B vs analyst consensus of $11.03B",
       "category": "earnings",
       "sources": [
-        "Motley Fool",
-        "Forbes",
         "Yahoo Finance",
+        "Motley Fool",
         "CNBC"
       ]
     },
     {
-      "ticker": "TSLA",
-      "company": "Tesla Inc.",
-      "reason": "Dropped 6% after NHTSA opened investigation into whether the Cybercab was properly self-certified under Federal Motor Vehicle Safety Standards, and Thursday's Austin launch event underwhelmed \u2014 CEO Musk absent, not streamed; Wells Fargo titled note \"TSLA Cybercab Launch Event Underwhelms\"",
-      "category": "news",
+      "ticker": "GWRE",
+      "company": "Guidewire Software",
+      "reason": "Fell 14.5% on Sept 4 after issuing weaker-than-expected Q1 FY2027 revenue forecast despite reporting a Q4 earnings beat",
+      "category": "earnings",
       "sources": [
-        "CNBC",
-        "Yahoo Finance",
         "Seeking Alpha",
-        "Quartz"
+        "Benzinga"
       ]
     },
     {
       "ticker": "FICO",
       "company": "Fair Isaac Corporation",
-      "reason": "Plunged 21% after FHFA Director Bill Pulte ordered Fannie Mae and Freddie Mac to approve VantageScore 4.0 while accusing credit bureaus of \"cartel-like\" practices and threatening a bi-merge approach that could eliminate one bureau from mortgage pulls",
+      "reason": "Sank 12.2% on Sept 4 after FHFA Director Bill Pulte issued immediate directive ending Fair Isaac's effective mortgage-scoring monopoly, threatening core revenue stream",
       "category": "news",
-      "sources": [
-        "Bloomberg",
-        "Investing.com",
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "EFX",
-      "company": "Equifax Inc.",
-      "reason": "Fell sharply alongside FICO and TransUnion on FHFA Director Pulte's directive and threat to the lucrative tri-merge credit reporting standard; Pulte accused bureaus of \"overcharging Americans for far too long\"",
-      "category": "news",
-      "sources": [
-        "Bloomberg",
-        "Benzinga",
-        "Investing.com"
-      ]
-    },
-    {
-      "ticker": "TRU",
-      "company": "TransUnion",
-      "reason": "Declined in tandem with EFX and FICO on FHFA Director Pulte's credit bureau regulatory offensive, threatening mandatory bi-merge mortgage credit pulls that would cut a bureau out of the process",
-      "category": "news",
-      "sources": [
-        "Bloomberg",
-        "Investing.com"
-      ]
-    },
-    {
-      "ticker": "SNDK",
-      "company": "Sandisk Corporation",
-      "reason": "Rose 8%+ as the semiconductor sector broadly rallied heading into the long weekend; chip stocks led by Sandisk outperformed the weak tape",
-      "category": "sector",
-      "sources": [
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "AMC",
-      "company": "AMC Entertainment Holdings",
-      "reason": "Gained 6.5% after CEO Adam Aron publicly condemned Robinhood's tokenized stock products for AMC, calling the practice \"contemptible, outrageous, disgusting,\" generating significant retail investor attention",
-      "category": "news",
-      "sources": [
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "HOOD",
-      "company": "Robinhood Markets Inc.",
-      "reason": "Showed unusual call options activity (6x average daily volume, 3:1 calls vs puts) with traders targeting the Sept 4 $120 call; shares rose ~4% alongside a Bitcoin price bump",
-      "category": "news",
-      "sources": [
-        "Market Rebellion",
-        "Market Chameleon"
-      ]
-    },
-    {
-      "ticker": "DOCU",
-      "company": "DocuSign Inc.",
-      "reason": "Beat Q2 adjusted earnings and revenue estimates reported after Sept 3 close; raised full-year revenue and non-GAAP operating margin guidance, stock moved higher on strong results",
-      "category": "earnings",
       "sources": [
         "TheStreet",
-        "CNBC"
+        "Seeking Alpha"
       ]
     },
     {
-      "ticker": "PATH",
-      "company": "UiPath Inc.",
-      "reason": "Downgraded by Canaccord Genuity to Hold from Buy (target $17, up from $15) citing the stock's recent rally and a competitive environment described as \"only getting more fluid\" from AI automation pressure",
-      "category": "downgrade",
+      "ticker": "NVS",
+      "company": "Novartis",
+      "reason": "Shares fell ~3.6% on Sept 7 (Zurich-listed) after pelacarsen cardiovascular drug failed Phase 3 HORIZON trial \u2014 drug lowered Lp(a) but did not reduce cardiovascular events vs placebo; CHF4.9B market cap erased; analysts had forecast $6B peak U.S. sales",
+      "category": "news",
       "sources": [
-        "Yahoo Finance",
-        "247 Wall St."
+        "Bloomberg",
+        "STAT News",
+        "BioPharma Dive"
       ]
     },
     {
-      "ticker": "AMBA",
-      "company": "Ambarella Inc.",
-      "reason": "Downgraded to Hold from Buy at Craig-Hallum with price target slashed to $70 from $95, a significant 26% cut to the target, weighing on the stock",
-      "category": "downgrade",
+      "ticker": "IONS",
+      "company": "Ionis Pharmaceuticals",
+      "reason": "Declined on Sept 4 alongside partner Novartis after pelacarsen Phase 3 failure; Ionis co-developed the cardiovascular drug; separate PDUFA catalyst approaching Sept 22 (zilganersen for Alexander disease)",
+      "category": "news",
       "sources": [
-        "Yahoo Finance",
-        "247 Wall St."
+        "BioPharma Dive",
+        "Yahoo Finance"
       ]
     },
     {
-      "ticker": "SHEL",
-      "company": "Shell PLC",
-      "reason": "Upgraded to Overweight from Equal Weight at Morgan Stanley with a significant 25% price target hike to $101.30 from $81.60, among the most notable energy analyst calls of the day",
+      "ticker": "AAPL",
+      "company": "Apple",
+      "reason": "Stock near $319 breakout ahead of Sept 9 product event; Morgan Stanley calls iPhone 18 + foldable iPhone Ultra launch \"most consequential in a decade\"; foldable Ultra priced ~$2,000; MS estimates $14B December-quarter foldable revenue contribution",
+      "category": "news",
+      "sources": [
+        "Seeking Alpha",
+        "Yahoo Finance",
+        "24/7 Wall St."
+      ]
+    },
+    {
+      "ticker": "ORCL",
+      "company": "Oracle",
+      "reason": "Earnings due Sept 10 after market close; options market pricing 11.2% swing; analysts expect $19.13B quarterly revenue (+28% YoY) and $1.74 EPS; stock down 19% YTD at $157.62 with $638B order backlog and cloud revenue up 93% prior quarter",
+      "category": "earnings",
+      "sources": [
+        "Blockonomi",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "reason": "Upgraded to Outperform from Neutral at Macquarie with $490 price target on Sept 5; separate downgrade by PhillipCapital on Palo Alto Networks highlighted Broadcom as a preferred AI infrastructure pick",
       "category": "upgrade",
       "sources": [
         "Yahoo Finance",
-        "247 Wall St."
+        "Seeking Alpha"
       ]
     },
     {
-      "ticker": "HPE",
-      "company": "Hewlett Packard Enterprise Co.",
-      "reason": "Q3 FY26 results (reported Sept 2) showed adjusted EPS $1.11 vs $0.95 expected and revenue $12.21B vs consensus; record revenue driven by strong demand for AI infrastructure servers; stock continued to trade on this beat",
-      "category": "earnings",
+      "ticker": "DE",
+      "company": "Deere & Company",
+      "reason": "Raised to Outperform from Market Perform at Evercore ISI with $813 price target; analysts cite improving agricultural equipment cycle and defensive value amid broader market uncertainty",
+      "category": "upgrade",
       "sources": [
-        "Yahoo Finance",
-        "CNBC",
-        "HPE Newsroom"
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "DELL",
+      "company": "Dell Technologies",
+      "reason": "Upgraded to Outperform from Equal Weight at Fox Advisors with $625 price target; AI server demand cited as key growth driver following recent quarterly beat",
+      "category": "upgrade",
+      "sources": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "XOM",
+      "company": "ExxonMobil",
+      "reason": "Energy stocks broadly lifted as US-Iran conflict escalation pushed WTI crude above $90/bbl and Brent near $95; situation described as potential \"largest energy security crisis\" since 1970s oil shocks; Chevron and Valero also posting gains",
+      "category": "sector",
+      "sources": [
+        "Bloomberg",
+        "Reuters",
+        "TradingKey"
+      ]
+    },
+    {
+      "ticker": "CVX",
+      "company": "Chevron",
+      "reason": "Edged higher amid US-Iran escalation driving WTI above $90 and Brent near $95; second round of US strikes on Iran over weekend adds supply-disruption premium to energy sector",
+      "category": "sector",
+      "sources": [
+        "Bloomberg",
+        "Gulf News"
+      ]
+    },
+    {
+      "ticker": "PANW",
+      "company": "Palo Alto Networks",
+      "reason": "Downgraded to Neutral by PhillipCapital; analysts flagged fading conviction despite an upward price target revision; cybersecurity sector facing valuation pressure amid rising rate environment",
+      "category": "downgrade",
+      "sources": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "company": "Alibaba",
+      "reason": "Price target cut by $15 to $165 at Bernstein SocGen due to concerns over equity raise dilution; geopolitical uncertainty around US-China trade war adding additional headwind",
+      "category": "downgrade",
+      "sources": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "CPRT",
+      "company": "Copart",
+      "reason": "Upgraded to Overweight from Neutral at JPMorgan with price target raised to $40 from $32; analyst cited strong used-vehicle market dynamics and operational resilience",
+      "category": "upgrade",
+      "sources": [
+        "Yahoo Finance"
       ]
     }
   ]
