@@ -1,142 +1,153 @@
 {
-  "report_date": "2026-09-08",
+  "report_date": "2026-09-09",
   "market_tone": "Bearish",
   "key_themes": [
-    "Middle East oil crisis: Houthi strikes on Saudi Aramco push Brent crude near $100",
-    "Fed rate hike fears mount after August payrolls crush expectations (162K vs 55K)",
-    "AI chip and infrastructure buildout: Qualcomm-Amazon $60B deal, Bloom Energy joins S&P 500",
-    "Biotech divergence: Roivant surges 20% on Phase 2 win while Novartis hits third trial failure"
+    "Brent crude breaks $100/barrel on US-Iran military conflict, driving energy stocks higher and stoking inflation fears",
+    "10-year Treasury yield spikes to 4.857% (highest since Nov 2023), pressuring equities broadly",
+    "Meta launches Muse AI agent with subscription tiers, decoupling from market selloff; Apple holds iPhone 18/foldable iPhone event"
   ],
   "sp500": {
-    "value": "7,673.52",
-    "change": "-0.58%"
+    "value": "7,636.36",
+    "change": "-0.48%"
   },
   "nasdaq": {
-    "value": "26,421.41",
-    "change": "-0.32%"
+    "value": "26,253.34",
+    "change": "-0.64%"
   },
   "stocks": [
     {
-      "ticker": "ROIV",
-      "company": "Roivant Sciences",
-      "reason": "Surged ~20% after Pulmovant subsidiary Phase 2 trial of mosliciguat showed statistically significant reduction in pulmonary vascular resistance in pulmonary hypertension with ILD patients",
+      "ticker": "META",
+      "company": "Meta Platforms",
+      "reason": "Surged 6.5%+ after launching Muse AI agent with free, $20, and $100/mo subscription tiers; Mizuho raised PT to $750 calling it \"beginning of a substantial product cycle\"",
       "category": "news",
       "sources": [
-        "CNBC"
+        "Motley Fool",
+        "TradingKey",
+        "Yahoo Finance"
       ]
     },
     {
-      "ticker": "NVS",
-      "company": "Novartis",
-      "reason": "Tumbled 13% after Phase 3 results showed del-desiran failed to improve myotonic dystrophy type 1 \u2014 the third drug-trial failure for the company in a single week",
+      "ticker": "AAPL",
+      "company": "Apple",
+      "reason": "iPhone 18 launch event today at Steve Jobs Theater (\"Surprise and shine\" tagline); debut of first foldable iPhone widely expected alongside Apple Watch Series 12",
       "category": "news",
       "sources": [
-        "CNBC"
+        "Reuters",
+        "Investing.com",
+        "247 Wall St"
       ]
     },
     {
-      "ticker": "INTC",
-      "company": "Intel",
-      "reason": "Jumped over 7% after Northland Capital Markets upgraded to Outperform with a $120 price target; stock also named in Tuesday's biggest analyst calls round-up",
-      "category": "upgrade",
+      "ticker": "SIG",
+      "company": "Signet Jewelers",
+      "reason": "Surged ~17% premarket after Q2 earnings beat: adjusted EPS of $2.19 vs $1.74 FactSet estimate",
+      "category": "earnings",
       "sources": [
         "CNBC",
-        "247 Wall St."
+        "Charles Schwab"
+      ]
+    },
+    {
+      "ticker": "CHYM",
+      "company": "Chime Financial",
+      "reason": "Rose ~10.5% after announcing $590M cash acquisition of Stride Bank to obtain national bank charter; raised FY2026 revenue guidance to $2.76B-$2.77B (26-27% growth)",
+      "category": "news",
+      "sources": [
+        "Bloomberg",
+        "Yahoo Finance",
+        "Fintech Global"
       ]
     },
     {
       "ticker": "TTAN",
       "company": "ServiceTitan",
-      "reason": "Crashed 19% after hours after the software company posted current-quarter revenue guidance slightly below analyst forecasts, spooking investors",
+      "reason": "Fell 17-21% on soft Q3 revenue guidance of $285M-$287M vs $288M analyst estimate, despite Q2 beat (EPS $0.40 vs $0.35 est, revenue $292.8M vs $285.9M est)",
       "category": "earnings",
       "sources": [
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "PTON",
-      "company": "Peloton Interactive",
-      "reason": "Slid more than 5% premarket after Morgan Stanley downgraded to Underweight from Equal Weight, citing continued growth headwinds",
-      "category": "downgrade",
-      "sources": [
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "LMT",
-      "company": "Lockheed Martin",
-      "reason": "Rose ~3% on UBS upgrade to Buy from Neutral with $674 target citing underappreciated earnings growth; further boosted by escalating Middle East tensions following Houthi strikes on Saudi Arabia",
-      "category": "upgrade",
-      "sources": [
-        "CNBC",
-        "247 Wall St."
-      ]
-    },
-    {
-      "ticker": "AMGN",
-      "company": "Amgen",
-      "reason": "Slid 10% midday as investors feared Novartis's Phase 3 failure for pelacarsen (cardiovascular) signals similar risk for Amgen's comparable treatment olpasiran",
-      "category": "news",
-      "sources": [
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "QCOM",
-      "company": "Qualcomm",
-      "reason": "Moved higher midday after signing a major AI chip deal with Amazon giving Amazon an option to purchase up to $60B in AI data center chips, further diversifying Qualcomm beyond smartphones",
-      "category": "news",
-      "sources": [
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "GME",
-      "company": "GameStop",
-      "reason": "Reported Q2 2026 earnings after the bell: EPS of $0.27 beat estimates by $0.08 but revenue of $790.2M fell significantly short of the $1.07B consensus; profit rises but full-year outlook raised",
-      "category": "earnings",
-      "sources": [
-        "Yahoo Finance",
-        "Investing.com"
+        "Motley Fool",
+        "ChartMill",
+        "Parameter.io"
       ]
     },
     {
       "ticker": "CASY",
       "company": "Casey's General Stores",
-      "reason": "Dropped ~10% after Q3 earnings beat analyst EPS estimates but management issued below-consensus full-year guidance, disappointing investors",
+      "reason": "Q1 FY2027 results (announced after close Sept 8): diluted EPS up ~28% YoY, inside same-store sales +3.2%, fuel margin 47.8 cents/gallon; raised EBITDA growth guidance to 8-10%",
       "category": "earnings",
       "sources": [
-        "247 Wall St.",
-        "Pluang"
+        "Casey's Investor Relations",
+        "CNBC"
       ]
     },
     {
-      "ticker": "BE",
-      "company": "Bloom Energy",
-      "reason": "Surged ~7% after announcement it will join the S&P 500 on September 21 replacing Molson Coors; UBS raised price target to $325 and reaffirmed Buy, citing AI data center fuel cell demand and Oracle 2.8 GW partnership",
+      "ticker": "XOM",
+      "company": "ExxonMobil",
+      "reason": "Gained on Brent crude breaking $100/barrel for first time since July, triggered by US sinking Iranian tankers in Gulf of Oman; up 40% YTD as oil surges 60%+ in 2026",
+      "category": "sector",
+      "sources": [
+        "Yahoo Finance",
+        "247 Wall St",
+        "Trading Strategy Guides"
+      ]
+    },
+    {
+      "ticker": "CVX",
+      "company": "Chevron",
+      "reason": "Rose alongside energy sector as Brent crude topped $100 on US-Iran hostilities; XLE ETF up ~1% premarket; CVX up 44% YTD",
+      "category": "sector",
+      "sources": [
+        "Yahoo Finance",
+        "Charles Schwab"
+      ]
+    },
+    {
+      "ticker": "FANG",
+      "company": "Diamondback Energy",
+      "reason": "Gained on oil surge past $100/barrel; Q2 FCF of $2.33B and realized oil at $96.82/barrel in Q2; upstream producers capturing biggest gains from Iran conflict premium",
+      "category": "sector",
+      "sources": [
+        "Trading Strategy Guides",
+        "ad-hoc-news"
+      ]
+    },
+    {
+      "ticker": "HAL",
+      "company": "Halliburton",
+      "reason": "Oilfield services beneficiary of $100 crude; Q2 2026 revenue $5.7B (+4% YoY); renewed institutional interest as oil volatility supports oilfield services demand",
+      "category": "sector",
+      "sources": [
+        "ad-hoc-news"
+      ]
+    },
+    {
+      "ticker": "CSR",
+      "company": "Centerspace",
+      "reason": "Jumped ~9% on $8.1B all-stock merger announcement with Independence Realty Trust; deal values CSR at $60.46/share (14.7% premium), expected to close Q4 2026",
       "category": "news",
       "sources": [
-        "Benzinga",
-        "Timothy Sykes",
-        "CNBC"
+        "Seeking Alpha",
+        "InsideArbitrage",
+        "StockTitan"
       ]
     },
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "reason": "Raymond James reiterated Strong Buy following Asia supply chain checks showing robust AI chip demand; also featured in Jim Cramer's Tuesday commentary as a chip stock with more upside",
-      "category": "upgrade",
+      "ticker": "IRT",
+      "company": "Independence Realty Trust",
+      "reason": "Acquiring Centerspace in $8.1B all-stock deal to create leading middle-market multifamily REIT; deal expected ~5% accretive to 2027 Core FFO per share with $24M synergies",
+      "category": "news",
       "sources": [
-        "CNBC"
+        "Yahoo Finance",
+        "StockTitan"
       ]
     },
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "reason": "Deutsche Bank reiterated Buy rating, saying the recent Cybercab investor event gave the firm even greater confidence in Tesla's autonomous vehicle roadmap",
+      "ticker": "TMO",
+      "company": "Thermo Fisher Scientific",
+      "reason": "UBS upgraded to Buy on growth outlook; Q2 beat with adjusted EPS $6.03 on $11.99B revenue; company raised full-year guidance citing increased customer activity",
       "category": "upgrade",
       "sources": [
-        "CNBC"
+        "Investing.com",
+        "BioSpace"
       ]
     }
   ]
