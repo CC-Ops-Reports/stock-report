@@ -1,121 +1,121 @@
 {
-  "report_date": "2026-09-07",
+  "report_date": "2026-09-08",
   "batch": 2,
   "stocks": [
     {
-      "ticker": "AAPL",
-      "company": "Apple Inc.",
-      "discussion_driver": "Apple stock is hovering near $320 ahead of the September 9 product event where iPhone 18 and the foldable iPhone Ultra (~$2,000) will be unveiled. Morgan Stanley calls it 'most consequential in a decade,' estimating $14B December-quarter foldable revenue contribution. The premium-priced foldable is expected to meaningfully expand Apple's blended ASP and could serve as a major upgrade catalyst.",
+      "ticker": "LMT",
+      "company": "Lockheed Martin Corporation",
+      "discussion_driver": "Gained ~3% after UBS upgraded from Neutral to Buy with a $674 price target, citing underappreciated earnings growth driven by missiles and munitions demand, F-35 sustainment contracts, and Trident programs projecting a 9% revenue CAGR through 2028. Escalating Middle East tensions following Houthi strikes on Saudi Aramco — pushing Brent crude near $100 — added defense-sector tailwinds.",
       "bull_case": [
-        "Foldable iPhone Ultra priced at ~$2,000 could drive a multi-year upgrade supercycle with significantly higher ASPs; Morgan Stanley estimates $14B in December-quarter foldable revenue alone",
-        "Services segment continues to compound at double-digit rates, providing durable recurring revenue that cushions hardware cycles and justifies premium valuation multiples"
+        "UBS projects 9% revenue CAGR through 2028 on surging missiles/munitions demand, F-35 sustainment, CH-53K, and Trident programs with underappreciated earnings growth potential",
+        "Escalating Middle East geopolitical tensions post-Houthi attacks on Saudi Aramco drive renewed global defense spending and reinforce LMT as a core beneficiary"
       ],
       "bear_case": [
-        "Premium $2,000 foldable pricing may limit mainstream adoption in a slowing consumer spending environment with Fed rate-hike fears reignited by the blowout August jobs report",
-        "Trailing P/E of 37x is elevated for a mature mega-cap; any product or demand disappointment at the September 9 event could trigger a rapid re-rating lower"
+        "21-analyst consensus rating remains Hold despite UBS upgrade; stock is -22% below 52-week high, suggesting lingering macro and federal budget uncertainty headwinds",
+        "RSI at deeply oversold 12.9 may signal continued institutional selling pressure before any sustained reversal takes hold"
       ],
       "recommendation": "Buy",
-      "current_price": "$320.01",
-      "price_target": "$328.12 (+2.5%)",
-      "pe_ratio": "37.16",
-      "rsi": "57",
-      "vs_52wk_high": "-7.1% below high ($344.57)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Consumer Electronics",
-      "sources": ["Yahoo Finance", "Morgan Stanley", "Seeking Alpha", "24/7 Wall St.", "CNBC"],
-      "price_history_5d": [301.86, 319.97]
+      "current_price": "$539.91",
+      "price_target": "$632.95 (+17.2%)",
+      "pe_ratio": "20.85",
+      "rsi": "12.9",
+      "vs_52wk_high": "-22.0% below high ($692.00)",
+      "analyst_rating": "Hold",
+      "sector": "Industrials - Aerospace & Defense",
+      "sources": ["UBS via parameter.io", "StockAnalysis", "GuruFocus", "Yahoo Finance", "MacroTrends"],
+      "price_history_5d": [524.72, 525.28, 539.91]
     },
     {
-      "ticker": "ORCL",
-      "company": "Oracle Corporation",
-      "discussion_driver": "Oracle reports fiscal Q1 FY2027 earnings on September 10 after market close with options pricing an 11.2% swing; analysts expect $19.13B revenue (+28% YoY) and $1.74 EPS. The stock has collapsed 54% from its 52-week high of $345.72 but carries a $638B cloud order backlog and delivered 93% cloud revenue growth last quarter. Multiple analysts—Jefferies ($290), Barclays ($281), Morgan Stanley ($246)—recently raised targets ahead of the print.",
+      "ticker": "AMGN",
+      "company": "Amgen Inc.",
+      "discussion_driver": "Slid 9% on September 8 as investors feared Novartis's Phase 3 failure for pelacarsen (an Lp(a)-lowering cardiovascular therapy) signals similar risk for Amgen's competing olpasiran program. Sector-wide selling compounded the move despite Amgen's own strong Q2 2026 results — revenues rose 10% YoY to over $10B, 22 products posted double-digit sales gains, and 2026 guidance was raised.",
       "bull_case": [
-        "$638B cloud order backlog provides exceptional multi-year revenue visibility; 93% cloud revenue growth last quarter signals massive enterprise AI infrastructure adoption flowing through Oracle's cloud platform",
-        "Stock is deeply depressed at 54% below its 52-week high, creating asymmetric upside if September 10 earnings confirm the strong growth trajectory that underpins analyst targets ranging from $246 to $290"
+        "Q2 2026 revenues surpassed $10B (+10% YoY) with 22 products posting double-digit sales gains; full-year 2026 guidance raised reflecting robust pipeline execution",
+        "Sell-off driven by sector contagion fear, not Amgen-specific data; olpasiran targets a different patient segment and trial stage from Novartis's failed pelacarsen program"
       ],
       "bear_case": [
-        "The 54% collapse from the 52-week high of $345.72 reflects substantial investor concern; an earnings miss or weak guidance on September 10 could extend the downtrend significantly",
-        "Revenue growth comps become more demanding as the cloud migration matures; any deceleration in hyperscaler AI infrastructure spending would threaten the backlog conversion assumptions"
-      ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$159.70",
-      "price_target": "$242.69 (+51.9%)",
-      "pe_ratio": "25.02",
-      "rsi": "56",
-      "vs_52wk_high": "-53.8% below high ($345.72)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Cloud Computing / Enterprise Software",
-      "sources": ["Yahoo Finance", "Blockonomi", "GuruFocus", "Barclays", "Jefferies", "Morgan Stanley"],
-      "price_history_5d": [158.78]
-    },
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom Inc.",
-      "discussion_driver": "Broadcom was upgraded to Outperform by Macquarie on September 5 with a $490 price target and was named preferred AI infrastructure pick when PhillipCapital downgraded Palo Alto Networks. The stock reported Q3 2026 earnings on September 2 (closing $367.24 that day) but has since pulled back to $357, sitting 28% below its 52-week high. 49 analysts maintain a Strong Buy consensus with an average target of $533, implying 49% upside.",
-      "bull_case": [
-        "Broadcom's custom AI ASICs and networking chips are direct beneficiaries of surging hyperscaler AI infrastructure investment; Citi raised target to $515 and Cantor Fitzgerald to $600 in early September",
-        "49-analyst Strong Buy consensus with $533 average target (49% upside) and multiple September upgrades reinforce strong conviction; stock's 28% pullback from highs offers an attractive re-entry point"
-      ],
-      "bear_case": [
-        "Stock is down 28% from its 52-week high of $495, and DA Davidson lowered target to $350 while TD Cowen cut to $475—dissenting voices signal not all analysts share the bull thesis",
-        "Trailing P/E of ~55x requires sustained strong earnings growth; any deceleration in hyperscaler AI capex would disproportionately hit Broadcom's premium multiple and custom chip pipeline"
-      ],
-      "recommendation": "Buy",
-      "current_price": "$357.07",
-      "price_target": "$533.41 (+49.4%)",
-      "pe_ratio": "55.0",
-      "rsi": "61",
-      "vs_52wk_high": "-27.9% below high ($495.00)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Technology - Semiconductors",
-      "sources": ["Yahoo Finance", "Macquarie", "Citi", "Cantor Fitzgerald", "GuruFocus", "Seeking Alpha"],
-      "price_history_5d": [367.24, 357.07]
-    },
-    {
-      "ticker": "DE",
-      "company": "Deere & Company",
-      "discussion_driver": "Deere was upgraded to Outperform from Market Perform by Evercore ISI with an $813 price target, citing an improving agricultural equipment cycle and defensive value amid rising-rate uncertainty. The stock hit an all-time intraday high of $705.88 on September 3 and is trading near those highs at $692, standing out as a defensive outperformer in a broadly bearish market driven by Fed rate-hike fears and geopolitical risk.",
-      "bull_case": [
-        "Improving agricultural equipment cycle after a multi-year trough; Evercore ISI's $813 price target implies 17% upside and signals strong analyst conviction in the recovery thesis",
-        "Defensive characteristics and counter-cyclical positioning make DE an attractive safe-harbor play amid the market stress created by surging Treasury yields and US-Iran tensions"
-      ],
-      "bear_case": [
-        "Broad analyst consensus target of $643.90 is below current price of $692, suggesting the stock has outpaced fundamental improvements and consensus expectations in the near term",
-        "Rising interest rates from renewed Fed rate-hike fears pressure farm income and equipment financing costs, potentially delaying the agricultural spending recovery underpinning the bull thesis"
+        "Novartis's Phase 3 failure raises legitimate class-level concern about Lp(a)-lowering drugs, creating overhang on olpasiran's regulatory path and investor sentiment",
+        "Stock hit 52-week high of $447.03 two weeks ago and has now pulled back sharply; analyst consensus target of $406.35 implies limited near-term upside from current levels"
       ],
       "recommendation": "Hold",
-      "current_price": "$692.03",
-      "price_target": "$643.90 (-7.0%)",
-      "pe_ratio": "N/A",
-      "rsi": "67",
-      "vs_52wk_high": "-2.0% below high ($705.88)",
+      "current_price": "$397.77",
+      "price_target": "$406.35 (+2.2%)",
+      "pe_ratio": "27.16",
+      "rsi": "N/A",
+      "vs_52wk_high": "-11.0% below high ($447.03)",
       "analyst_rating": "Buy",
-      "sector": "Industrials - Agricultural Machinery",
-      "sources": ["Yahoo Finance", "Evercore ISI", "Benzinga", "GuruFocus", "The Cerbat Gem"],
-      "price_history_5d": [698.37, 694.41]
+      "sector": "Healthcare - Biotechnology",
+      "sources": ["etoro", "StockAnalysis", "AlphaStreet", "Yahoo Finance", "MacroTrends"],
+      "price_history_5d": [441.56, 437.23, 397.77]
     },
     {
-      "ticker": "DELL",
-      "company": "Dell Technologies",
-      "discussion_driver": "Dell surged to near all-time highs after reporting fiscal Q2 2027 earnings on September 1 with $47B revenue (+58% YoY) and a record $95B AI server order backlog — Q2 AI server orders alone hit $60.9B. Fox Advisors upgraded to Outperform with a $625 target, and the stock has gained 310% YTD. Deutsche Bank raised its target to $520 (Hold) while the options-implied volatility reflects continued event-driven momentum.",
+      "ticker": "QCOM",
+      "company": "QUALCOMM Incorporated",
+      "discussion_driver": "Rose 3.2% after signing a landmark deal with Amazon giving Amazon the option to purchase up to $60B in AI data center chips, significantly diversifying Qualcomm beyond its smartphone core. The deal reinforces Qualcomm's AI infrastructure expansion thesis and aligns with the broader AI chip buildout cycle highlighted by Raymond James and Jim Cramer.",
       "bull_case": [
-        "Record $95B AI server order backlog with $60.9B in new orders in Q2 alone provides exceptional multi-quarter revenue visibility; 58% YoY revenue growth confirms Dell's dominant position in AI infrastructure",
-        "Fox Advisors upgrade to Outperform with $625 target reflects accelerating analyst confidence; the company is a primary beneficiary of the broad enterprise and hyperscaler AI capex cycle"
+        "The $60B Amazon AI chip deal marks a major strategic pivot into data center infrastructure, dramatically expanding TAM beyond the smartphone market and reducing cyclical dependence",
+        "10.9% upside to analyst consensus target of $193.10 with RSI at neutral 54.4, providing technical room for momentum continuation as AI infrastructure investment accelerates"
       ],
       "bear_case": [
-        "Stock is up 310% YTD—even with exceptional fundamentals, valuation has become stretched and prices in years of growth, leaving minimal margin for any execution miss or demand softening",
-        "AI server demand is lumpy and dependent on continued hyperscaler capex; any pullback in AI infrastructure spending or supply chain constraints could quickly compress the record order backlog"
+        "Stock remains -33% below its 52-week high of $259.92, reflecting deep competitive concerns; Nvidia's entrenched dominance in AI chips makes QCOM's data center push a challenging uphill battle",
+        "30-analyst consensus rating is Neutral with only 11 recommending buy; persistent smartphone market softness remains a structural headwind alongside the Amazon deal uncertainty"
+      ],
+      "recommendation": "Speculative Buy",
+      "current_price": "$174.09",
+      "price_target": "$193.10 (+10.9%)",
+      "pe_ratio": "19.26",
+      "rsi": "54.4",
+      "vs_52wk_high": "-33.0% below high ($259.92)",
+      "analyst_rating": "Hold",
+      "sector": "Technology - Semiconductors",
+      "sources": ["StockAnalysis", "Yahoo Finance", "MarketBeat", "Vantage Markets", "Barchart"],
+      "price_history_5d": [170.01, 168.74, 174.09]
+    },
+    {
+      "ticker": "GME",
+      "company": "GameStop Corp.",
+      "discussion_driver": "Reported Q2 2026 earnings after the bell with EPS of $0.27 beating estimates by $0.08, but revenue of $790.2M missed the $1.07B consensus by roughly 26% due to an 18.7% YoY revenue decline (lapping the prior year's Nintendo Switch 2 launch); collectibles surged 57% and full-year outlook was raised, reflecting a successful but nascent pivot away from the declining physical game retail model.",
+      "bull_case": [
+        "EPS beat by $0.08 with a raised full-year outlook demonstrates management cost discipline; collectibles segment +57% YoY shows a successful business model pivot is gaining traction",
+        "Bitcoin treasury strategy and brand loyalty among retail investors provide asymmetric upside optionality; company remains profitable and relatively debt-light"
+      ],
+      "bear_case": [
+        "Revenue missed consensus by ~$280M (-26%), reflecting an irreversible secular shift to digital game distribution; physical retail model faces structural headwinds with no clear reversal catalyst",
+        "Analyst consensus price target of ~$13.50 is approximately 30% below current price, suggesting significant overvaluation; active analyst coverage is thin and primarily bearish"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$19.25",
+      "price_target": "$13.50 (-29.9%)",
+      "pe_ratio": "23.44",
+      "rsi": "39.82",
+      "vs_52wk_high": "-31.5% below high ($28.10)",
+      "analyst_rating": "Sell",
+      "sector": "Consumer Discretionary - Specialty Retail",
+      "sources": ["Yahoo Finance", "GuruFocus", "TipRanks", "Investing.com", "StockAnalysis"],
+      "price_history_5d": [19.16, 19.25]
+    },
+    {
+      "ticker": "CASY",
+      "company": "Casey's General Stores, Inc.",
+      "discussion_driver": "Dropped ~10% after-hours following Q3 2026 earnings that beat EPS estimates but featured below-consensus full-year guidance of 2%-5% same-store sales growth and 8%-10% EBITDA growth, disappointing investors expecting stronger forward momentum; management also announced a 14% dividend increase (27 consecutive years of hikes), $1B buyback expansion, and plans to open 120+ new stores in fiscal 2027, though the guidance shortfall dominated sentiment.",
+      "bull_case": [
+        "Management raised shareholder returns: 14% dividend hike marking 27 straight years of increases, $1B buyback authorization expansion, and aggressive 120+ new store openings planned for fiscal 2027",
+        "Buy consensus maintained by analysts across Deutsche Bank, JPMorgan, and BNP Paribas despite target cuts; 27.8% upside to consensus target of $956.28 with resilient fuel and prepared food margins"
+      ],
+      "bear_case": [
+        "Below-consensus full-year guidance of 2%-5% SSS growth triggered a 10% selloff; if this marks a ceiling on growth expectations, a premium PE of 39x — 65% above the 10-year median of 23.6x — is difficult to sustain",
+        "Multiple analyst price target cuts (Deutsche Bank to $927, JPMorgan to $833) reflect reduced confidence in near-term growth trajectory; stock already -19.4% below 52-week high before the after-hours reaction"
       ],
       "recommendation": "Buy",
-      "current_price": "$522.44",
-      "price_target": "$564.46 (+8.0%)",
-      "pe_ratio": "30.58",
+      "current_price": "$748.08",
+      "price_target": "$956.28 (+27.8%)",
+      "pe_ratio": "39.08",
       "rsi": "N/A",
-      "vs_52wk_high": "-2.3% below high ($534.99)",
+      "vs_52wk_high": "-19.4% below high ($927.85)",
       "analyst_rating": "Buy",
-      "sector": "Technology - IT Infrastructure",
-      "sources": ["Yahoo Finance", "StockAnalysis", "Fox Advisors", "Deutsche Bank", "TIKR", "Vantage Markets"],
-      "price_history_5d": [425.00, 492.00, 530.78, 522.60]
+      "sector": "Consumer Staples - Convenience Stores",
+      "sources": ["GuruFocus", "StockAnalysis", "Benzinga", "CNN Markets", "Yahoo Finance", "Deutsche Bank via MarketBeat"],
+      "price_history_5d": [756.09, 748.08]
     }
   ]
 }
