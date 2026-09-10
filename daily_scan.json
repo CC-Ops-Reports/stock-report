@@ -1,153 +1,158 @@
 {
-  "report_date": "2026-09-09",
+  "report_date": "2026-09-10",
   "market_tone": "Bearish",
   "key_themes": [
-    "Brent crude breaks $100/barrel on US-Iran military conflict, driving energy stocks higher and stoking inflation fears",
-    "10-year Treasury yield spikes to 4.857% (highest since Nov 2023), pressuring equities broadly",
-    "Meta launches Muse AI agent with subscription tiers, decoupling from market selloff; Apple holds iPhone 18/foldable iPhone event"
+    "Oil surges past $100/barrel on Middle East tensions (US-Iran conflict, Strait of Hormuz closure) pressuring equities and bond markets",
+    "Oracle Q1 FY2027 blowout earnings: cloud infrastructure revenue +121% YoY, stock surges 6-7%",
+    "Copper stocks tumble 7-8% as tariff uncertainty reverses record rally; Freeport-McMoRan and Southern Copper lead declines"
   ],
   "sp500": {
-    "value": "7,636.36",
-    "change": "-0.48%"
+    "value": "7,594",
+    "change": "-0.6%"
   },
   "nasdaq": {
-    "value": "26,253.34",
-    "change": "-0.64%"
+    "value": "26,103",
+    "change": "-0.7%"
   },
   "stocks": [
     {
-      "ticker": "META",
-      "company": "Meta Platforms",
-      "reason": "Surged 6.5%+ after launching Muse AI agent with free, $20, and $100/mo subscription tiers; Mizuho raised PT to $750 calling it \"beginning of a substantial product cycle\"",
-      "category": "news",
-      "sources": [
-        "Motley Fool",
-        "TradingKey",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "reason": "iPhone 18 launch event today at Steve Jobs Theater (\"Surprise and shine\" tagline); debut of first foldable iPhone widely expected alongside Apple Watch Series 12",
-      "category": "news",
-      "sources": [
-        "Reuters",
-        "Investing.com",
-        "247 Wall St"
-      ]
-    },
-    {
-      "ticker": "SIG",
-      "company": "Signet Jewelers",
-      "reason": "Surged ~17% premarket after Q2 earnings beat: adjusted EPS of $2.19 vs $1.74 FactSet estimate",
+      "ticker": "ORCL",
+      "company": "Oracle Corporation",
+      "reason": "Q1 FY2027 earnings beat: cloud infrastructure revenue +121% to $7.4B, adjusted EPS $1.92 vs $1.74 expected, total revenue $19.35B vs $19.14B consensus; stock up 6-7%",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "Charles Schwab"
+        "Yahoo Finance",
+        "QZ"
       ]
     },
     {
-      "ticker": "CHYM",
-      "company": "Chime Financial",
-      "reason": "Rose ~10.5% after announcing $590M cash acquisition of Stride Bank to obtain national bank charter; raised FY2026 revenue guidance to $2.76B-$2.77B (26-27% growth)",
+      "ticker": "AVAV",
+      "company": "AeroVironment",
+      "reason": "Q1 fiscal earnings crushed estimates: adjusted EPS $0.59 vs $0.25 expected, revenue $480.5M vs $456M consensus; stock jumped 10% on record revenue and strong backlog",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Investrade"
+      ]
+    },
+    {
+      "ticker": "ELV",
+      "company": "Elevance Health",
+      "reason": "CFO stated Q3 EPS tracking ahead of prior outlook; company reaffirmed full-year 2026 earnings guidance, sending shares up ~5%",
       "category": "news",
       "sources": [
-        "Bloomberg",
-        "Yahoo Finance",
-        "Fintech Global"
-      ]
-    },
-    {
-      "ticker": "TTAN",
-      "company": "ServiceTitan",
-      "reason": "Fell 17-21% on soft Q3 revenue guidance of $285M-$287M vs $288M analyst estimate, despite Q2 beat (EPS $0.40 vs $0.35 est, revenue $292.8M vs $285.9M est)",
-      "category": "earnings",
-      "sources": [
-        "Motley Fool",
-        "ChartMill",
-        "Parameter.io"
-      ]
-    },
-    {
-      "ticker": "CASY",
-      "company": "Casey's General Stores",
-      "reason": "Q1 FY2027 results (announced after close Sept 8): diluted EPS up ~28% YoY, inside same-store sales +3.2%, fuel margin 47.8 cents/gallon; raised EBITDA growth guidance to 8-10%",
-      "category": "earnings",
-      "sources": [
-        "Casey's Investor Relations",
         "CNBC"
       ]
     },
     {
-      "ticker": "XOM",
-      "company": "ExxonMobil",
-      "reason": "Gained on Brent crude breaking $100/barrel for first time since July, triggered by US sinking Iranian tankers in Gulf of Oman; up 40% YTD as oil surges 60%+ in 2026",
-      "category": "sector",
+      "ticker": "AEO",
+      "company": "American Eagle Outfitters",
+      "reason": "Stock fell 15% after Q2 earnings: Aerie strength offset by flagship brand softness and 14% inventory cost increase; markdown pressure weighed on outlook",
+      "category": "earnings",
       "sources": [
-        "Yahoo Finance",
-        "247 Wall St",
-        "Trading Strategy Guides"
+        "CNBC",
+        "Investrade"
       ]
     },
     {
-      "ticker": "CVX",
-      "company": "Chevron",
-      "reason": "Rose alongside energy sector as Brent crude topped $100 on US-Iran hostilities; XLE ETF up ~1% premarket; CVX up 44% YTD",
-      "category": "sector",
+      "ticker": "M",
+      "company": "Macy's",
+      "reason": "Raised annual targets but stock slid 5%+ on earnings quality concerns; market discounted ~$0.23/share of EPS beat as non-recurring items",
+      "category": "earnings",
       "sources": [
-        "Yahoo Finance",
-        "Charles Schwab"
+        "CNBC"
       ]
     },
     {
-      "ticker": "FANG",
-      "company": "Diamondback Energy",
-      "reason": "Gained on oil surge past $100/barrel; Q2 FCF of $2.33B and realized oil at $96.82/barrel in Q2; upstream producers capturing biggest gains from Iran conflict premium",
-      "category": "sector",
-      "sources": [
-        "Trading Strategy Guides",
-        "ad-hoc-news"
-      ]
-    },
-    {
-      "ticker": "HAL",
-      "company": "Halliburton",
-      "reason": "Oilfield services beneficiary of $100 crude; Q2 2026 revenue $5.7B (+4% YoY); renewed institutional interest as oil volatility supports oilfield services demand",
-      "category": "sector",
-      "sources": [
-        "ad-hoc-news"
-      ]
-    },
-    {
-      "ticker": "CSR",
-      "company": "Centerspace",
-      "reason": "Jumped ~9% on $8.1B all-stock merger announcement with Independence Realty Trust; deal values CSR at $60.46/share (14.7% premium), expected to close Q4 2026",
-      "category": "news",
-      "sources": [
-        "Seeking Alpha",
-        "InsideArbitrage",
-        "StockTitan"
-      ]
-    },
-    {
-      "ticker": "IRT",
-      "company": "Independence Realty Trust",
-      "reason": "Acquiring Centerspace in $8.1B all-stock deal to create leading middle-market multifamily REIT; deal expected ~5% accretive to 2027 Core FFO per share with $24M synergies",
-      "category": "news",
-      "sources": [
-        "Yahoo Finance",
-        "StockTitan"
-      ]
-    },
-    {
-      "ticker": "TMO",
-      "company": "Thermo Fisher Scientific",
-      "reason": "UBS upgraded to Buy on growth outlook; Q2 beat with adjusted EPS $6.03 on $11.99B revenue; company raised full-year guidance citing increased customer activity",
+      "ticker": "META",
+      "company": "Meta Platforms",
+      "reason": "JPMorgan upgraded to Overweight with $820 price target, citing 'meaningful upside potential' as Meta rolls out AI models and products",
       "category": "upgrade",
       "sources": [
-        "Investing.com",
-        "BioSpace"
+        "CNBC",
+        "247 Wall St."
+      ]
+    },
+    {
+      "ticker": "FCX",
+      "company": "Freeport-McMoRan",
+      "reason": "Stock sank ~8% to $70.43 after Biden administration postponed refined-copper tariff decision, reversing five-session copper rally; largest US copper producer most exposed",
+      "category": "news",
+      "sources": [
+        "Yahoo Finance",
+        "24/7 Wall St.",
+        "MoneyCheck"
+      ]
+    },
+    {
+      "ticker": "SCCO",
+      "company": "Southern Copper",
+      "reason": "Shed more than 6% alongside broader copper sector selloff on tariff uncertainty unwinding record-high copper prices",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "reason": "Fell 4%+ as Netlist filed new patent actions at ITC and federal court targeting Micron DDR5 RDIMM/MRDIMM server memory; broader chip sector also pressured by rising yields and oil",
+      "category": "news",
+      "sources": [
+        "Benzinga",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "AMD",
+      "company": "Advanced Micro Devices",
+      "reason": "Piper Sandler initiated coverage as Overweight, calling AMD a 'market share gainer in CPU servers'; notable analyst action amid semiconductor sector coverage initiation sweep",
+      "category": "upgrade",
+      "sources": [
+        "CNBC",
+        "247 Wall St."
+      ]
+    },
+    {
+      "ticker": "ADBE",
+      "company": "Adobe Inc.",
+      "reason": "Reporting Q3 FY2026 earnings after market close today; expectations high after AI-first ARR tripled to $500M+ in Q2; consensus: $6.69B revenue, $6.08 EPS",
+      "category": "earnings",
+      "sources": [
+        "Yahoo Finance",
+        "Benzinga"
+      ]
+    },
+    {
+      "ticker": "NKE",
+      "company": "Nike",
+      "reason": "Morgan Stanley downgraded to Underweight from Equal Weight, flagging worsening competitive dynamics and continued North America weakness",
+      "category": "downgrade",
+      "sources": [
+        "CNBC",
+        "247 Wall St."
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "reason": "Stock fell ~2% despite Piper Sandler initiating as Overweight (top pick in AI accelerators); broader tech selloff driven by oil surge and rising 10-year yield to 4.90%",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "Benzinga"
+      ]
+    },
+    {
+      "ticker": "RH",
+      "company": "RH (Restoration Hardware)",
+      "reason": "Strong premarket moves ahead of Q2 FY2026 earnings release; company also launched ultra-luxury RH Estates collection with first standalone gallery in Greenwich, CT",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "StockAnalysis"
       ]
     }
   ]
