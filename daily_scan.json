@@ -1,158 +1,180 @@
 {
-  "report_date": "2026-09-10",
-  "market_tone": "Bearish",
+  "report_date": "2026-09-11",
+  "market_tone": "Mixed",
   "key_themes": [
-    "Oil surges past $100/barrel on Middle East tensions (US-Iran conflict, Strait of Hormuz closure) pressuring equities and bond markets",
-    "Oracle Q1 FY2027 blowout earnings: cloud infrastructure revenue +121% YoY, stock surges 6-7%",
-    "Copper stocks tumble 7-8% as tariff uncertainty reverses record rally; Freeport-McMoRan and Southern Copper lead declines"
+    "Hot CPI data (3.4% YoY, core +0.3% monthly) cements near-certain Fed rate hike next week",
+    "Tech/cloud earnings beats drive sector gains despite inflation headwinds (Oracle +7%, HPE +11%)",
+    "M&A activity: Copart acquires ACVA at 45% premium; oil price decline helps stocks snap 4-day losing streak"
   ],
   "sp500": {
-    "value": "7,594",
-    "change": "-0.6%"
+    "value": "7,664.00",
+    "change": "+0.96%"
   },
   "nasdaq": {
-    "value": "26,103",
-    "change": "-0.7%"
+    "value": "26,311.00",
+    "change": "+0.88%"
   },
   "stocks": [
     {
       "ticker": "ORCL",
       "company": "Oracle Corporation",
-      "reason": "Q1 FY2027 earnings beat: cloud infrastructure revenue +121% to $7.4B, adjusted EPS $1.92 vs $1.74 expected, total revenue $19.35B vs $19.14B consensus; stock up 6-7%",
+      "reason": "Fiscal Q1 earnings beat: EPS $1.92 vs $1.74 est, revenue $19.35B vs $19.14B est; shares up ~7% on cloud growth strength",
       "category": "earnings",
       "sources": [
         "CNBC",
         "Yahoo Finance",
-        "QZ"
-      ]
-    },
-    {
-      "ticker": "AVAV",
-      "company": "AeroVironment",
-      "reason": "Q1 fiscal earnings crushed estimates: adjusted EPS $0.59 vs $0.25 expected, revenue $480.5M vs $456M consensus; stock jumped 10% on record revenue and strong backlog",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Investrade"
-      ]
-    },
-    {
-      "ticker": "ELV",
-      "company": "Elevance Health",
-      "reason": "CFO stated Q3 EPS tracking ahead of prior outlook; company reaffirmed full-year 2026 earnings guidance, sending shares up ~5%",
-      "category": "news",
-      "sources": [
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "AEO",
-      "company": "American Eagle Outfitters",
-      "reason": "Stock fell 15% after Q2 earnings: Aerie strength offset by flagship brand softness and 14% inventory cost increase; markdown pressure weighed on outlook",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Investrade"
-      ]
-    },
-    {
-      "ticker": "M",
-      "company": "Macy's",
-      "reason": "Raised annual targets but stock slid 5%+ on earnings quality concerns; market discounted ~$0.23/share of EPS beat as non-recurring items",
-      "category": "earnings",
-      "sources": [
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "META",
-      "company": "Meta Platforms",
-      "reason": "JPMorgan upgraded to Overweight with $820 price target, citing 'meaningful upside potential' as Meta rolls out AI models and products",
-      "category": "upgrade",
-      "sources": [
-        "CNBC",
-        "247 Wall St."
-      ]
-    },
-    {
-      "ticker": "FCX",
-      "company": "Freeport-McMoRan",
-      "reason": "Stock sank ~8% to $70.43 after Biden administration postponed refined-copper tariff decision, reversing five-session copper rally; largest US copper producer most exposed",
-      "category": "news",
-      "sources": [
-        "Yahoo Finance",
-        "24/7 Wall St.",
-        "MoneyCheck"
-      ]
-    },
-    {
-      "ticker": "SCCO",
-      "company": "Southern Copper",
-      "reason": "Shed more than 6% alongside broader copper sector selloff on tariff uncertainty unwinding record-high copper prices",
-      "category": "sector",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron Technology",
-      "reason": "Fell 4%+ as Netlist filed new patent actions at ITC and federal court targeting Micron DDR5 RDIMM/MRDIMM server memory; broader chip sector also pressured by rising yields and oil",
-      "category": "news",
-      "sources": [
-        "Benzinga",
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "AMD",
-      "company": "Advanced Micro Devices",
-      "reason": "Piper Sandler initiated coverage as Overweight, calling AMD a 'market share gainer in CPU servers'; notable analyst action amid semiconductor sector coverage initiation sweep",
-      "category": "upgrade",
-      "sources": [
-        "CNBC",
-        "247 Wall St."
-      ]
-    },
-    {
-      "ticker": "ADBE",
-      "company": "Adobe Inc.",
-      "reason": "Reporting Q3 FY2026 earnings after market close today; expectations high after AI-first ARR tripled to $500M+ in Q2; consensus: $6.69B revenue, $6.08 EPS",
-      "category": "earnings",
-      "sources": [
-        "Yahoo Finance",
+        "TheStreet",
         "Benzinga"
       ]
     },
     {
-      "ticker": "NKE",
-      "company": "Nike",
-      "reason": "Morgan Stanley downgraded to Underweight from Equal Weight, flagging worsening competitive dynamics and continued North America weakness",
-      "category": "downgrade",
+      "ticker": "HPE",
+      "company": "Hewlett Packard Enterprise",
+      "reason": "Top S&P 500 gainer today, up nearly 11%; surge attributed to strong AI server demand narrative following tech conference commentary",
+      "category": "news",
       "sources": [
         "CNBC",
-        "247 Wall St."
+        "Bloomberg",
+        "Yahoo Finance"
       ]
     },
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "reason": "Stock fell ~2% despite Piper Sandler initiating as Overweight (top pick in AI accelerators); broader tech selloff driven by oil surge and rising 10-year yield to 4.90%",
-      "category": "sector",
+      "ticker": "DELL",
+      "company": "Dell Technologies",
+      "reason": "RBC Capital Markets initiated coverage with Outperform rating; shares up nearly 11% on AI-driven infrastructure demand outlook",
+      "category": "upgrade",
       "sources": [
         "CNBC",
+        "247 Wall St.",
         "Benzinga"
       ]
     },
     {
       "ticker": "RH",
       "company": "RH (Restoration Hardware)",
-      "reason": "Strong premarket moves ahead of Q2 FY2026 earnings release; company also launched ultra-luxury RH Estates collection with first standalone gallery in Greenwich, CT",
+      "reason": "Q2 2026 earnings beat: EPS $2.70 vs $1.78 est; revenue $922.15M vs $936.25M est (slight miss); shares up 8.2% on EPS strength",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "StockAnalysis"
+        "Benzinga",
+        "Blockonomi"
+      ]
+    },
+    {
+      "ticker": "ADBE",
+      "company": "Adobe Inc.",
+      "reason": "Q3 earnings beat estimates but stock fell ~3% in extended trading on weak forward guidance; investors disappointed despite top/bottom-line beat",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Benzinga",
+        "Blockonomi"
+      ]
+    },
+    {
+      "ticker": "GME",
+      "company": "GameStop Corp.",
+      "reason": "CEO Ryan Cohen disclosed purchase of 1 million shares at avg $20.375; stores begin reopening nationwide; stock up 3%+",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Benzinga",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "CPRT",
+      "company": "Copart Inc.",
+      "reason": "Announced acquisition of digital dealer auction platform ACVA for $10.50/share cash (~45% premium), implying ~$1.9B equity value",
+      "category": "news",
+      "sources": [
+        "Investrade",
+        "Yahoo Finance",
+        "Market Rebellion"
+      ]
+    },
+    {
+      "ticker": "ACVA",
+      "company": "ACV Auctions Inc.",
+      "reason": "Acquisition target: Copart agreed to acquire ACVA for $10.50/share cash, a ~45% premium; unusual call option volume spike mid-session",
+      "category": "news",
+      "sources": [
+        "Investrade",
+        "Market Rebellion",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "CSCO",
+      "company": "Cisco Systems",
+      "reason": "Biggest percentage gainer in the Dow today (+4.1%) as network infrastructure demand sentiment improves ahead of Fed decision",
+      "category": "sector",
+      "sources": [
+        "Bloomberg",
+        "CNBC",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "ANET",
+      "company": "Arista Networks",
+      "reason": "Management at Citi Global TMT Conference stressed robust AI-driven demand strength; shares gained on bullish commentary",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Bloomberg"
+      ]
+    },
+    {
+      "ticker": "KR",
+      "company": "Kroger Co.",
+      "reason": "Q2 2026 earnings reported pre-bell: EPS ~$1.05 on revenue ~$34.65B; results in focus as consumer spending data watched amid inflation",
+      "category": "earnings",
+      "sources": [
+        "TheStreet",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "FIZZ",
+      "company": "National Beverage Corp.",
+      "reason": "Fiscal Q1 miss: EPS $0.50 on revenue $331M; shares fell more than 5% as La Croix parent disappoints on top and bottom lines",
+      "category": "earnings",
+      "sources": [
+        "TheStreet",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "EXEL",
+      "company": "Exelixis Inc.",
+      "reason": "FDA extended review of experimental colorectal cancer drug combination by 3 months (new decision date March 3, 2027) after major amendment submission",
+      "category": "news",
+      "sources": [
+        "Investrade",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "CHKP",
+      "company": "Check Point Software Technologies",
+      "reason": "Downgraded to Neutral from Outperform at Wedbush; price target cut to $135 from $160 amid cybersecurity sector reassessment",
+      "category": "downgrade",
+      "sources": [
+        "247 Wall St.",
+        "Daily Trade Alert",
+        "Benzinga"
+      ]
+    },
+    {
+      "ticker": "STX",
+      "company": "Seagate Technology Holdings",
+      "reason": "Worst performer in S&P 500 and Nasdaq today, down over 3.4%; storage sector under pressure amid broader hard-drive demand concerns",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "Bloomberg",
+        "Yahoo Finance"
       ]
     }
   ]
