@@ -1,180 +1,171 @@
 {
-  "report_date": "2026-09-11",
+  "report_date": "2026-09-14",
   "market_tone": "Mixed",
   "key_themes": [
-    "Hot CPI data (3.4% YoY, core +0.3% monthly) cements near-certain Fed rate hike next week",
-    "Tech/cloud earnings beats drive sector gains despite inflation headwinds (Oracle +7%, HPE +11%)",
-    "M&A activity: Copart acquires ACVA at 45% premium; oil price decline helps stocks snap 4-day losing streak"
+    "AI safety crisis: Anthropic and OpenAI CEOs call for capability slowdown, OpenAI delays IPO beyond 2026",
+    "Cybersecurity stocks surge as AI threat warnings fuel security spending thesis",
+    "Oil spikes to ~$108/barrel on Saudi pipeline shutdown and US-Iran tensions; 10-year Treasury hits 5%"
   ],
   "sp500": {
-    "value": "7,664.00",
-    "change": "+0.96%"
+    "value": "7,657.00",
+    "change": "+0.9%"
   },
   "nasdaq": {
-    "value": "26,311.00",
-    "change": "+0.88%"
+    "value": "26,333.04",
+    "change": "+1.0%"
   },
   "stocks": [
     {
-      "ticker": "ORCL",
-      "company": "Oracle Corporation",
-      "reason": "Fiscal Q1 earnings beat: EPS $1.92 vs $1.74 est, revenue $19.35B vs $19.14B est; shares up ~7% on cloud growth strength",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance",
-        "TheStreet",
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "HPE",
-      "company": "Hewlett Packard Enterprise",
-      "reason": "Top S&P 500 gainer today, up nearly 11%; surge attributed to strong AI server demand narrative following tech conference commentary",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "Bloomberg",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "DELL",
-      "company": "Dell Technologies",
-      "reason": "RBC Capital Markets initiated coverage with Outperform rating; shares up nearly 11% on AI-driven infrastructure demand outlook",
-      "category": "upgrade",
-      "sources": [
-        "CNBC",
-        "247 Wall St.",
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "RH",
-      "company": "RH (Restoration Hardware)",
-      "reason": "Q2 2026 earnings beat: EPS $2.70 vs $1.78 est; revenue $922.15M vs $936.25M est (slight miss); shares up 8.2% on EPS strength",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Benzinga",
-        "Blockonomi"
-      ]
-    },
-    {
-      "ticker": "ADBE",
-      "company": "Adobe Inc.",
-      "reason": "Q3 earnings beat estimates but stock fell ~3% in extended trading on weak forward guidance; investors disappointed despite top/bottom-line beat",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Benzinga",
-        "Blockonomi"
-      ]
-    },
-    {
-      "ticker": "GME",
-      "company": "GameStop Corp.",
-      "reason": "CEO Ryan Cohen disclosed purchase of 1 million shares at avg $20.375; stores begin reopening nationwide; stock up 3%+",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "Benzinga",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "CPRT",
-      "company": "Copart Inc.",
-      "reason": "Announced acquisition of digital dealer auction platform ACVA for $10.50/share cash (~45% premium), implying ~$1.9B equity value",
-      "category": "news",
-      "sources": [
-        "Investrade",
-        "Yahoo Finance",
-        "Market Rebellion"
-      ]
-    },
-    {
-      "ticker": "ACVA",
-      "company": "ACV Auctions Inc.",
-      "reason": "Acquisition target: Copart agreed to acquire ACVA for $10.50/share cash, a ~45% premium; unusual call option volume spike mid-session",
-      "category": "news",
-      "sources": [
-        "Investrade",
-        "Market Rebellion",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "CSCO",
-      "company": "Cisco Systems",
-      "reason": "Biggest percentage gainer in the Dow today (+4.1%) as network infrastructure demand sentiment improves ahead of Fed decision",
+      "ticker": "CRWD",
+      "company": "CrowdStrike Holdings",
+      "reason": "Surged 15%+ to all-time intraday high of $238.68 as Anthropic/OpenAI AI safety warnings sparked broad cybersecurity sector bid on expanded threat environment thesis",
       "category": "sector",
       "sources": [
-        "Bloomberg",
         "CNBC",
+        "Yahoo Finance",
+        "247WallSt",
+        "Invezz"
+      ]
+    },
+    {
+      "ticker": "ZS",
+      "company": "Zscaler",
+      "reason": "Jumped 12-15% midday as AI safety crisis warnings from Anthropic and OpenAI CEOs fueled a cybersecurity sector rally on the thesis that a dangerous AI threat environment expands security spending",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance",
+        "247WallSt"
+      ]
+    },
+    {
+      "ticker": "PANW",
+      "company": "Palo Alto Networks",
+      "reason": "Rallied ~11-13% on the same AI safety-driven cybersecurity bid that lifted CRWD and ZS; investors rotated into defensive security names amid AI capability fears",
+      "category": "sector",
+      "sources": [
+        "Yahoo Finance",
+        "Seeking Alpha",
+        "247WallSt"
+      ]
+    },
+    {
+      "ticker": "GLW",
+      "company": "Corning Inc.",
+      "reason": "Plunged 12-14% after announcing a $2 billion at-the-market equity offering, shocking investors with dilution fears; dragged the entire optical networking sector lower",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance",
+        "247WallSt",
+        "Motley Fool"
+      ]
+    },
+    {
+      "ticker": "COHR",
+      "company": "Coherent Corp.",
+      "reason": "Fell 11% in contagion from Corning's surprise $2B equity offering announcement, compounded by AI infrastructure slowdown fears from Anthropic CEO's weekend essay",
+      "category": "sector",
+      "sources": [
+        "Yahoo Finance",
+        "247WallSt"
+      ]
+    },
+    {
+      "ticker": "MRVL",
+      "company": "Marvell Technology",
+      "reason": "Dropped 6-7% in premarket and extended losses during the session as AI data center infrastructure stocks sold off following Anthropic CEO Dario Amodei's call to slow AI capability development",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "TradingKey",
         "Yahoo Finance"
       ]
     },
     {
-      "ticker": "ANET",
-      "company": "Arista Networks",
-      "reason": "Management at Citi Global TMT Conference stressed robust AI-driven demand strength; shares gained on bullish commentary",
+      "ticker": "INTC",
+      "company": "Intel Corporation",
+      "reason": "Fell 6.4% as AI slowdown debate hammered chip stocks; also pressured by Apple allowing Mac App Store developers to drop Intel-based Mac support for macOS 13+ apps",
       "category": "news",
       "sources": [
+        "Yahoo Finance",
         "CNBC",
-        "Bloomberg"
+        "StocksToTrade"
+      ]
+    },
+    {
+      "ticker": "XOM",
+      "company": "ExxonMobil",
+      "reason": "Surged with Brent crude near $108 after Saudi Arabia shut its East-West pipeline following attacks; US-Iran Strait of Hormuz tensions and a new Venezuela oil deal added to bullish momentum",
+      "category": "sector",
+      "sources": [
+        "Yahoo Finance",
+        "247WallSt",
+        "OilPrice.com"
+      ]
+    },
+    {
+      "ticker": "CVX",
+      "company": "Chevron",
+      "reason": "Rose sharply toward a new 52-week high on oil spike to ~$108/barrel driven by Saudi pipeline shutdown; near 40.5% gain YTD as CEO Wirth warned prior oil price buffers are now depleted",
+      "category": "sector",
+      "sources": [
+        "Yahoo Finance",
+        "247WallSt",
+        "MarketBeat"
+      ]
+    },
+    {
+      "ticker": "COIN",
+      "company": "Coinbase Global",
+      "reason": "Climbed 8.66% after Compass Point upgraded to Neutral from Sell with a new $177 price target (from $130), citing Bitcoin's four-year cycle tracking historical norms",
+      "category": "upgrade",
+      "sources": [
+        "Yahoo Finance",
+        "CNBC",
+        "Benzinga"
+      ]
+    },
+    {
+      "ticker": "AFRM",
+      "company": "Affirm Holdings",
+      "reason": "Upgraded to Outperform from Peer Perform by Wolfe Research with a $90 price target after underperformance post-strong fiscal Q4 report made risk/reward more favorable",
+      "category": "upgrade",
+      "sources": [
+        "Yahoo Finance",
+        "CNBC",
+        "DailyTradeAlert"
+      ]
+    },
+    {
+      "ticker": "NKE",
+      "company": "Nike Inc.",
+      "reason": "Downgraded to Neutral from Outperform by Baird alongside Dick's Sporting Goods; firm also added bearish fresh picks on Under Armour and Canada Goose through mid-November",
+      "category": "downgrade",
+      "sources": [
+        "Yahoo Finance",
+        "CNBC",
+        "Benzinga"
+      ]
+    },
+    {
+      "ticker": "TER",
+      "company": "Teradyne Inc.",
+      "reason": "Fell ~9.6-11% as semiconductor equipment stocks sold off sector-wide on AI infrastructure slowdown fears after Anthropic CEO's weekend call to slow AI capability development",
+      "category": "sector",
+      "sources": [
+        "Alphastreet",
+        "FinancialContent"
       ]
     },
     {
       "ticker": "KR",
       "company": "Kroger Co.",
-      "reason": "Q2 2026 earnings reported pre-bell: EPS ~$1.05 on revenue ~$34.65B; results in focus as consumer spending data watched amid inflation",
+      "reason": "Shares gained 2.7% after reporting Q2 fiscal 2026 EPS of $1.09, beating the consensus estimate of $1.05; defensive consumer staples drew buyers amid tech sector volatility",
       "category": "earnings",
       "sources": [
-        "TheStreet",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "FIZZ",
-      "company": "National Beverage Corp.",
-      "reason": "Fiscal Q1 miss: EPS $0.50 on revenue $331M; shares fell more than 5% as La Croix parent disappoints on top and bottom lines",
-      "category": "earnings",
-      "sources": [
-        "TheStreet",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "EXEL",
-      "company": "Exelixis Inc.",
-      "reason": "FDA extended review of experimental colorectal cancer drug combination by 3 months (new decision date March 3, 2027) after major amendment submission",
-      "category": "news",
-      "sources": [
-        "Investrade",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "CHKP",
-      "company": "Check Point Software Technologies",
-      "reason": "Downgraded to Neutral from Outperform at Wedbush; price target cut to $135 from $160 amid cybersecurity sector reassessment",
-      "category": "downgrade",
-      "sources": [
-        "247 Wall St.",
-        "Daily Trade Alert",
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "STX",
-      "company": "Seagate Technology Holdings",
-      "reason": "Worst performer in S&P 500 and Nasdaq today, down over 3.4%; storage sector under pressure amid broader hard-drive demand concerns",
-      "category": "sector",
-      "sources": [
-        "CNBC",
-        "Bloomberg",
-        "Yahoo Finance"
+        "Yahoo Finance",
+        "Zacks"
       ]
     }
   ]
