@@ -1,171 +1,149 @@
 {
-  "report_date": "2026-09-14",
-  "market_tone": "Mixed",
+  "report_date": "2026-09-15",
+  "market_tone": "Bearish",
   "key_themes": [
-    "AI safety crisis: Anthropic and OpenAI CEOs call for capability slowdown, OpenAI delays IPO beyond 2026",
-    "Cybersecurity stocks surge as AI threat warnings fuel security spending thesis",
-    "Oil spikes to ~$108/barrel on Saudi pipeline shutdown and US-Iran tensions; 10-year Treasury hits 5%"
+    "Fed rate hike looming \u2014 FOMC meeting underway, first hike since 2023 widely expected Wednesday",
+    "AI spending skepticism and rising Treasury yields drag semiconductors and tech lower",
+    "Earnings misses and deal withdrawals punish consumer and financial names"
   ],
   "sp500": {
-    "value": "7,657.00",
-    "change": "+0.9%"
+    "value": "7,585.73",
+    "change": "-0.45%"
   },
   "nasdaq": {
-    "value": "26,333.04",
-    "change": "+1.0%"
+    "value": "25,981.57",
+    "change": "-0.78%"
   },
   "stocks": [
     {
-      "ticker": "CRWD",
-      "company": "CrowdStrike Holdings",
-      "reason": "Surged 15%+ to all-time intraday high of $238.68 as Anthropic/OpenAI AI safety warnings sparked broad cybersecurity sector bid on expanded threat environment thesis",
-      "category": "sector",
+      "ticker": "PLAY",
+      "company": "Dave & Buster's Entertainment",
+      "reason": "Shares plunged ~17% after Q2 revenue of $544.1M missed the $556.8M estimate and adjusted EBITDA of $98.9M came in well below the $120.4M consensus",
+      "category": "earnings",
       "sources": [
         "CNBC",
-        "Yahoo Finance",
-        "247WallSt",
-        "Invezz"
+        "Bloomberg"
       ]
     },
     {
-      "ticker": "ZS",
-      "company": "Zscaler",
-      "reason": "Jumped 12-15% midday as AI safety crisis warnings from Anthropic and OpenAI CEOs fueled a cybersecurity sector rally on the thesis that a dangerous AI threat environment expands security spending",
-      "category": "sector",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance",
-        "247WallSt"
-      ]
-    },
-    {
-      "ticker": "PANW",
-      "company": "Palo Alto Networks",
-      "reason": "Rallied ~11-13% on the same AI safety-driven cybersecurity bid that lifted CRWD and ZS; investors rotated into defensive security names amid AI capability fears",
-      "category": "sector",
-      "sources": [
-        "Yahoo Finance",
-        "Seeking Alpha",
-        "247WallSt"
-      ]
-    },
-    {
-      "ticker": "GLW",
-      "company": "Corning Inc.",
-      "reason": "Plunged 12-14% after announcing a $2 billion at-the-market equity offering, shocking investors with dilution fears; dragged the entire optical networking sector lower",
+      "ticker": "ENVA",
+      "company": "Enova International",
+      "reason": "Fell more than 15% after withdrawing its regulatory applications for the proposed acquisition of Grasshopper Bancorp, killing the deal",
       "category": "news",
       "sources": [
         "CNBC",
-        "Yahoo Finance",
-        "247WallSt",
-        "Motley Fool"
+        "Bloomberg"
       ]
     },
     {
-      "ticker": "COHR",
-      "company": "Coherent Corp.",
-      "reason": "Fell 11% in contagion from Corning's surprise $2B equity offering announcement, compounded by AI infrastructure slowdown fears from Anthropic CEO's weekend essay",
-      "category": "sector",
+      "ticker": "VEEA",
+      "company": "Veea Inc.",
+      "reason": "Surged 82%+ on a $750M merger agreement with NovaGen Group to launch an Edge AI health platform",
+      "category": "news",
       "sources": [
-        "Yahoo Finance",
-        "247WallSt"
-      ]
-    },
-    {
-      "ticker": "MRVL",
-      "company": "Marvell Technology",
-      "reason": "Dropped 6-7% in premarket and extended losses during the session as AI data center infrastructure stocks sold off following Anthropic CEO Dario Amodei's call to slow AI capability development",
-      "category": "sector",
-      "sources": [
-        "CNBC",
-        "TradingKey",
-        "Yahoo Finance"
+        "Bloomberg",
+        "MarketWatch"
       ]
     },
     {
       "ticker": "INTC",
       "company": "Intel Corporation",
-      "reason": "Fell 6.4% as AI slowdown debate hammered chip stocks; also pressured by Apple allowing Mac App Store developers to drop Intel-based Mac support for macOS 13+ apps",
+      "reason": "Fell ~3.7% amid broad semiconductor selling as AI-spending skepticism intensified; foundry segment remains deeply unprofitable",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "LLY",
+      "company": "Eli Lilly and Company",
+      "reason": "Upgraded to Buy from Hold at Berenberg with price target raised to $1,400 from $1,220 on continued GLP-1 drug demand strength",
+      "category": "upgrade",
+      "sources": [
+        "Benzinga",
+        "AOL Finance"
+      ]
+    },
+    {
+      "ticker": "ETSY",
+      "company": "Etsy Inc.",
+      "reason": "Upgraded to Outperform from Perform at Oppenheimer with price target raised to $525 from $450; featured in premarket movers",
+      "category": "upgrade",
+      "sources": [
+        "CNBC",
+        "Benzinga"
+      ]
+    },
+    {
+      "ticker": "SWKS",
+      "company": "Skyworks Solutions",
+      "reason": "$22B merger with Qorvo in final regulatory approval stages; stock trading 18% above its analyst consensus price target of $68.35",
       "category": "news",
       "sources": [
-        "Yahoo Finance",
         "CNBC",
-        "StocksToTrade"
+        "24/7 Wall St."
       ]
     },
     {
-      "ticker": "XOM",
-      "company": "ExxonMobil",
-      "reason": "Surged with Brent crude near $108 after Saudi Arabia shut its East-West pipeline following attacks; US-Iran Strait of Hormuz tensions and a new Venezuela oil deal added to bullish momentum",
-      "category": "sector",
-      "sources": [
-        "Yahoo Finance",
-        "247WallSt",
-        "OilPrice.com"
-      ]
-    },
-    {
-      "ticker": "CVX",
-      "company": "Chevron",
-      "reason": "Rose sharply toward a new 52-week high on oil spike to ~$108/barrel driven by Saudi pipeline shutdown; near 40.5% gain YTD as CEO Wirth warned prior oil price buffers are now depleted",
-      "category": "sector",
-      "sources": [
-        "Yahoo Finance",
-        "247WallSt",
-        "MarketBeat"
-      ]
-    },
-    {
-      "ticker": "COIN",
-      "company": "Coinbase Global",
-      "reason": "Climbed 8.66% after Compass Point upgraded to Neutral from Sell with a new $177 price target (from $130), citing Bitcoin's four-year cycle tracking historical norms",
-      "category": "upgrade",
-      "sources": [
-        "Yahoo Finance",
-        "CNBC",
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "AFRM",
-      "company": "Affirm Holdings",
-      "reason": "Upgraded to Outperform from Peer Perform by Wolfe Research with a $90 price target after underperformance post-strong fiscal Q4 report made risk/reward more favorable",
-      "category": "upgrade",
-      "sources": [
-        "Yahoo Finance",
-        "CNBC",
-        "DailyTradeAlert"
-      ]
-    },
-    {
-      "ticker": "NKE",
-      "company": "Nike Inc.",
-      "reason": "Downgraded to Neutral from Outperform by Baird alongside Dick's Sporting Goods; firm also added bearish fresh picks on Under Armour and Canada Goose through mid-November",
+      "ticker": "APTV",
+      "company": "Aptiv PLC",
+      "reason": "Downgraded to Neutral from Overweight at JPMorgan with a $56 price target on auto supply chain and EV transition concerns",
       "category": "downgrade",
       "sources": [
-        "Yahoo Finance",
-        "CNBC",
+        "Benzinga",
+        "AOL Finance"
+      ]
+    },
+    {
+      "ticker": "CNTB",
+      "company": "Connect Biopharma Holdings",
+      "reason": "Plunged 29% after releasing mixed topline data for its asthma treatment Rademikibart, raising efficacy doubts",
+      "category": "news",
+      "sources": [
+        "MarketWatch",
         "Benzinga"
       ]
     },
     {
-      "ticker": "TER",
-      "company": "Teradyne Inc.",
-      "reason": "Fell ~9.6-11% as semiconductor equipment stocks sold off sector-wide on AI infrastructure slowdown fears after Anthropic CEO's weekend call to slow AI capability development",
-      "category": "sector",
+      "ticker": "NOC",
+      "company": "Northrop Grumman Corporation",
+      "reason": "Initiated with a Buy rating at Guggenheim with a $612 price target, citing defense budget tailwinds and space program momentum",
+      "category": "upgrade",
       "sources": [
-        "Alphastreet",
-        "FinancialContent"
+        "AOL Finance",
+        "Daily Trade Alert"
       ]
     },
     {
-      "ticker": "KR",
-      "company": "Kroger Co.",
-      "reason": "Shares gained 2.7% after reporting Q2 fiscal 2026 EPS of $1.09, beating the consensus estimate of $1.05; defensive consumer staples drew buyers amid tech sector volatility",
+      "ticker": "ULTA",
+      "company": "Ulta Beauty Inc.",
+      "reason": "Upgraded to Equal Weight from Underweight at Wells Fargo with price target raised to $525 from $450 on improved traffic trends",
+      "category": "upgrade",
+      "sources": [
+        "Benzinga",
+        "AOL Finance"
+      ]
+    },
+    {
+      "ticker": "RIVN",
+      "company": "Rivian Automotive",
+      "reason": "Initiated with a Neutral rating at Citigroup with an $18 price target; Q3 earnings report also scheduled for today",
       "category": "earnings",
       "sources": [
-        "Yahoo Finance",
-        "Zacks"
+        "CNBC",
+        "AOL Finance"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA Corporation",
+      "reason": "Featured in Tuesday analyst calls; AI spending skepticism and rising rate expectations weighed on shares amid broad semiconductor sector selling",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "Motley Fool",
+        "Yahoo Finance"
       ]
     }
   ]
