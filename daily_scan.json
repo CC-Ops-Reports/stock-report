@@ -1,149 +1,137 @@
 {
-  "report_date": "2026-09-15",
+  "report_date": "2026-09-16",
   "market_tone": "Bearish",
   "key_themes": [
-    "Fed rate hike looming \u2014 FOMC meeting underway, first hike since 2023 widely expected Wednesday",
-    "AI spending skepticism and rising Treasury yields drag semiconductors and tech lower",
-    "Earnings misses and deal withdrawals punish consumer and financial names"
+    "Federal Reserve hikes rates 25bps for first time in 3 years; Chair Warsh signals further tightening possible",
+    "Intel and SK Hynix in exploratory talks to produce memory chips at Intel Ohio facility \u2014 first-ever U.S. memory chip production",
+    "Housing market weakness: Lennar Q3 earnings miss, cuts delivery guidance as mortgage rates rise to 6.8%"
   ],
   "sp500": {
-    "value": "7,585.73",
+    "value": "7,551.81",
     "change": "-0.45%"
   },
   "nasdaq": {
-    "value": "25,981.57",
-    "change": "-0.78%"
+    "value": "25,978.42",
+    "change": "-0.01%"
   },
   "stocks": [
     {
-      "ticker": "PLAY",
-      "company": "Dave & Buster's Entertainment",
-      "reason": "Shares plunged ~17% after Q2 revenue of $544.1M missed the $556.8M estimate and adjusted EBITDA of $98.9M came in well below the $120.4M consensus",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Bloomberg"
-      ]
-    },
-    {
-      "ticker": "ENVA",
-      "company": "Enova International",
-      "reason": "Fell more than 15% after withdrawing its regulatory applications for the proposed acquisition of Grasshopper Bancorp, killing the deal",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "Bloomberg"
-      ]
-    },
-    {
-      "ticker": "VEEA",
-      "company": "Veea Inc.",
-      "reason": "Surged 82%+ on a $750M merger agreement with NovaGen Group to launch an Edge AI health platform",
-      "category": "news",
-      "sources": [
-        "Bloomberg",
-        "MarketWatch"
-      ]
-    },
-    {
       "ticker": "INTC",
       "company": "Intel Corporation",
-      "reason": "Fell ~3.7% amid broad semiconductor selling as AI-spending skepticism intensified; foundry segment remains deeply unprofitable",
-      "category": "sector",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "LLY",
-      "company": "Eli Lilly and Company",
-      "reason": "Upgraded to Buy from Hold at Berenberg with price target raised to $1,400 from $1,220 on continued GLP-1 drug demand strength",
-      "category": "upgrade",
-      "sources": [
-        "Benzinga",
-        "AOL Finance"
-      ]
-    },
-    {
-      "ticker": "ETSY",
-      "company": "Etsy Inc.",
-      "reason": "Upgraded to Outperform from Perform at Oppenheimer with price target raised to $525 from $450; featured in premarket movers",
-      "category": "upgrade",
-      "sources": [
-        "CNBC",
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "SWKS",
-      "company": "Skyworks Solutions",
-      "reason": "$22B merger with Qorvo in final regulatory approval stages; stock trading 18% above its analyst consensus price target of $68.35",
+      "reason": "Jumped 3%+ premarket on Reuters report that SK Hynix is in early talks to produce memory chips at Intel's Ohio facility \u2014 either via lease or joint venture with cloud hyperscalers",
       "category": "news",
       "sources": [
-        "CNBC",
-        "24/7 Wall St."
+        "TechCrunch",
+        "Tom's Hardware",
+        "Reuters"
       ]
     },
     {
-      "ticker": "APTV",
-      "company": "Aptiv PLC",
-      "reason": "Downgraded to Neutral from Overweight at JPMorgan with a $56 price target on auto supply chain and EV transition concerns",
-      "category": "downgrade",
-      "sources": [
-        "Benzinga",
-        "AOL Finance"
-      ]
-    },
-    {
-      "ticker": "CNTB",
-      "company": "Connect Biopharma Holdings",
-      "reason": "Plunged 29% after releasing mixed topline data for its asthma treatment Rademikibart, raising efficacy doubts",
+      "ticker": "SKHY",
+      "company": "SK Hynix",
+      "reason": "Rose 3%+ premarket alongside Intel on same report of exploratory talks to build first-ever U.S. memory chip production at Intel's Ohio plant",
       "category": "news",
       "sources": [
-        "MarketWatch",
-        "Benzinga"
+        "TechCrunch",
+        "Reuters",
+        "CNBC"
       ]
     },
     {
-      "ticker": "NOC",
-      "company": "Northrop Grumman Corporation",
-      "reason": "Initiated with a Buy rating at Guggenheim with a $612 price target, citing defense budget tailwinds and space program momentum",
-      "category": "upgrade",
-      "sources": [
-        "AOL Finance",
-        "Daily Trade Alert"
-      ]
-    },
-    {
-      "ticker": "ULTA",
-      "company": "Ulta Beauty Inc.",
-      "reason": "Upgraded to Equal Weight from Underweight at Wells Fargo with price target raised to $525 from $450 on improved traffic trends",
-      "category": "upgrade",
-      "sources": [
-        "Benzinga",
-        "AOL Finance"
-      ]
-    },
-    {
-      "ticker": "RIVN",
-      "company": "Rivian Automotive",
-      "reason": "Initiated with a Neutral rating at Citigroup with an $18 price target; Q3 earnings report also scheduled for today",
+      "ticker": "LEN",
+      "company": "Lennar Corporation",
+      "reason": "Reported Q3 FY2026 EPS of $1.19 vs $2.29 a year earlier; revenue fell to $8.05B from $8.81B; cut full-year delivery guidance to 80,000-81,000 homes citing 6.8% mortgage rates and weak consumer confidence",
       "category": "earnings",
       "sources": [
-        "CNBC",
-        "AOL Finance"
+        "MarketBeat",
+        "TheStreet",
+        "247 Wall St."
       ]
     },
     {
-      "ticker": "NVDA",
-      "company": "NVIDIA Corporation",
-      "reason": "Featured in Tuesday analyst calls; AI spending skepticism and rising rate expectations weighed on shares amid broad semiconductor sector selling",
+      "ticker": "FANG",
+      "company": "Diamondback Energy",
+      "reason": "Fell 8% in midday trading after EIA report showed energy inventories rose last week, sending oil prices down more than 3% and dragging energy sector lower",
       "category": "sector",
       "sources": [
-        "CNBC",
-        "Motley Fool",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum Holdings",
+      "reason": "Rose 8% in midday as AI-infrastructure photonics plays rebounded after several losing sessions; Coherent rose 6% on the same trade",
+      "category": "sector",
+      "sources": [
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "SPCX",
+      "company": "SpaceX",
+      "reason": "Advanced 5% after company announced Starship next test launch set for September 22, 2026, which will also deploy Starlink V3 satellites for the first time",
+      "category": "news",
+      "sources": [
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "EXPE",
+      "company": "Expedia Group",
+      "reason": "Fell premarket after Morgan Stanley downgraded to Underweight from Equal Weight with $235 price target, citing concerns about travel spending softening under higher rates",
+      "category": "downgrade",
+      "sources": [
+        "AOL Finance",
+        "Benzinga"
+      ]
+    },
+    {
+      "ticker": "TCOM",
+      "company": "Trip.com Group",
+      "reason": "Surged premarket after reporting Q2 2026 results beating estimates: adjusted EPS of $1.07 on $2.31B in revenue, benefiting from continued Asia-Pacific travel recovery",
+      "category": "earnings",
+      "sources": [
+        "Seeking Alpha",
         "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "UNP",
+      "company": "Union Pacific Corporation",
+      "reason": "Upgraded to Buy from Neutral at UBS, which raised the price target to $339 from $310, citing improved freight pricing outlook and operational efficiency gains",
+      "category": "upgrade",
+      "sources": [
+        "Daily Trade Alert",
+        "Benzinga"
+      ]
+    },
+    {
+      "ticker": "ALVO",
+      "company": "Alvotech",
+      "reason": "Surged on Barclays double-upgrade from Underweight to Overweight, reflecting increasing confidence in biosimilar pipeline commercialization trajectory",
+      "category": "upgrade",
+      "sources": [
+        "Benzinga",
+        "Seeking Alpha"
+      ]
+    },
+    {
+      "ticker": "JBHT",
+      "company": "J.B. Hunt Transport Services",
+      "reason": "Featured in both CNBC premarket and midday biggest movers lists on September 16; transportation stocks pressured amid Fed rate hike raising cost-of-capital concerns for capital-intensive logistics operators",
+      "category": "sector",
+      "sources": [
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "BROS",
+      "company": "Dutch Bros",
+      "reason": "Initiated with Buy rating at Seaport Research with $50 price target, analyst citing strong unit economics and underpenetrated Western U.S. market expansion opportunity",
+      "category": "upgrade",
+      "sources": [
+        "AOL Finance / Wall Street analyst calls",
+        "Benzinga"
       ]
     }
   ]
