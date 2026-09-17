@@ -1,136 +1,156 @@
 {
-  "report_date": "2026-09-16",
-  "market_tone": "Bearish",
+  "report_date": "2026-09-17",
+  "market_tone": "Mixed",
   "key_themes": [
-    "Federal Reserve hikes rates 25bps for first time in 3 years; Chair Warsh signals further tightening possible",
-    "Intel and SK Hynix in exploratory talks to produce memory chips at Intel Ohio facility \u2014 first-ever U.S. memory chip production",
-    "Housing market weakness: Lennar Q3 earnings miss, cuts delivery guidance as mortgage rates rise to 6.8%"
+    "Federal Reserve hikes rates 25bps to 3.75%-4% (first increase since July 2023)",
+    "AI infrastructure buildout drives power & semiconductor deals (GNRC-Amazon, MRVL-GlobalFoundries)",
+    "SEC grants 5-year tokenized stock trading innovation exemption, lifting crypto-adjacent names"
   ],
   "sp500": {
-    "value": "7,551.81",
-    "change": "-0.45%"
+    "value": "7,612.55",
+    "change": "+0.80%"
   },
   "nasdaq": {
-    "value": "25,978.42",
-    "change": "-0.01%"
+    "value": "26,333.36",
+    "change": "+1.37%"
   },
   "stocks": [
     {
-      "ticker": "INTC",
-      "company": "Intel Corporation",
-      "reason": "Jumped 3%+ premarket on Reuters report that SK Hynix is in early talks to produce memory chips at Intel's Ohio facility \u2014 either via lease or joint venture with cloud hyperscalers",
+      "ticker": "AEMD",
+      "company": "Aethlon Medical",
+      "reason": "Surged ~471% on reverse merger with North Immunology; $180M PIPE to fund IL-13xIL-18 bispecific antibody NOR-101 for atopic dermatitis into clinic",
       "category": "news",
       "sources": [
-        "TechCrunch",
-        "Tom's Hardware",
-        "Reuters"
+        "MedCity News",
+        "BioPharma Dive",
+        "STAT News",
+        "PR Newswire"
       ]
     },
     {
-      "ticker": "SKHY",
-      "company": "SK Hynix",
-      "reason": "Rose 3%+ premarket alongside Intel on same report of exploratory talks to build first-ever U.S. memory chip production at Intel's Ohio plant",
+      "ticker": "GNRC",
+      "company": "Generac Holdings",
+      "reason": "Surged ~19-22% on $8B long-term Amazon data center generator supply deal; Amazon also received warrant for ~1.69M shares, repricing GNRC as AI power infrastructure name",
       "category": "news",
-      "sources": [
-        "TechCrunch",
-        "Reuters",
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "LEN",
-      "company": "Lennar Corporation",
-      "reason": "Reported Q3 FY2026 EPS of $1.19 vs $2.29 a year earlier; revenue fell to $8.05B from $8.81B; cut full-year delivery guidance to 80,000-81,000 homes citing 6.8% mortgage rates and weak consumer confidence",
-      "category": "earnings",
-      "sources": [
-        "MarketBeat",
-        "TheStreet",
-        "247 Wall St."
-      ]
-    },
-    {
-      "ticker": "FANG",
-      "company": "Diamondback Energy",
-      "reason": "Fell 8% in midday trading after EIA report showed energy inventories rose last week, sending oil prices down more than 3% and dragging energy sector lower",
-      "category": "sector",
-      "sources": [
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "LITE",
-      "company": "Lumentum Holdings",
-      "reason": "Rose 8% in midday as AI-infrastructure photonics plays rebounded after several losing sessions; Coherent rose 6% on the same trade",
-      "category": "sector",
-      "sources": [
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "SPCX",
-      "company": "SpaceX",
-      "reason": "Advanced 5% after company announced Starship next test launch set for September 22, 2026, which will also deploy Starlink V3 satellites for the first time",
-      "category": "news",
-      "sources": [
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "EXPE",
-      "company": "Expedia Group",
-      "reason": "Fell premarket after Morgan Stanley downgraded to Underweight from Equal Weight with $235 price target, citing concerns about travel spending softening under higher rates",
-      "category": "downgrade",
-      "sources": [
-        "AOL Finance",
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "TCOM",
-      "company": "Trip.com Group",
-      "reason": "Surged premarket after reporting Q2 2026 results beating estimates: adjusted EPS of $1.07 on $2.31B in revenue, benefiting from continued Asia-Pacific travel recovery",
-      "category": "earnings",
-      "sources": [
-        "Seeking Alpha",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "UNP",
-      "company": "Union Pacific Corporation",
-      "reason": "Upgraded to Buy from Neutral at UBS, which raised the price target to $339 from $310, citing improved freight pricing outlook and operational efficiency gains",
-      "category": "upgrade",
-      "sources": [
-        "Daily Trade Alert",
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "ALVO",
-      "company": "Alvotech",
-      "reason": "Surged on Barclays double-upgrade from Underweight to Overweight, reflecting increasing confidence in biosimilar pipeline commercialization trajectory",
-      "category": "upgrade",
       "sources": [
         "Benzinga",
-        "Seeking Alpha"
+        "Schaeffer's Investment Research",
+        "Proactive Investors"
       ]
     },
     {
-      "ticker": "JBHT",
-      "company": "J.B. Hunt Transport Services",
-      "reason": "Featured in both CNBC premarket and midday biggest movers lists on September 16; transportation stocks pressured amid Fed rate hike raising cost-of-capital concerns for capital-intensive logistics operators",
-      "category": "sector",
+      "ticker": "INTC",
+      "company": "Intel Corporation",
+      "reason": "Jumped ~7.7% on reports of SK Hynix joint venture talks for Ohio memory chip facility; Barclays upgraded to Overweight (from Underperform); Tigress and Northland raised price targets",
+      "category": "upgrade",
       "sources": [
+        "Yahoo Finance",
+        "Motley Fool",
+        "Seeking Alpha",
+        "24/7 Wall St."
+      ]
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "reason": "Gained ~6% after announcing commercial production start at first semiconductor assembly & test facility in Sanand, Gujarat, India; AI memory demand cited as expansion driver",
+      "category": "news",
+      "sources": [
+        "Benzinga",
+        "TradingKey"
+      ]
+    },
+    {
+      "ticker": "MRVL",
+      "company": "Marvell Technology",
+      "reason": "Rose ~4.75% on expanded multi-year GlobalFoundries silicon-germanium manufacturing deal to boost optical interconnect capacity for next-gen AI data center architectures",
+      "category": "news",
+      "sources": [
+        "TradingKey"
+      ]
+    },
+    {
+      "ticker": "ARM",
+      "company": "Arm Holdings",
+      "reason": "Gained as CEO Rene Haas highlighted off-the-charts AI demand and severe supply constraints; SOX semiconductor index rose ~3% led by AI chip names",
+      "category": "news",
+      "sources": [
+        "Investrade",
         "CNBC"
       ]
     },
     {
-      "ticker": "BROS",
-      "company": "Dutch Bros",
-      "reason": "Initiated with Buy rating at Seaport Research with $50 price target, analyst citing strong unit economics and underpenetrated Western U.S. market expansion opportunity",
-      "category": "upgrade",
+      "ticker": "HOOD",
+      "company": "Robinhood Markets",
+      "reason": "Rallied 5%+ after SEC announced 5-year \"Innovation Exemption\" allowing tokenized U.S. stocks to trade on specified blockchain venues; direct beneficiary as retail trading platform",
+      "category": "news",
       "sources": [
-        "AOL Finance / Wall Street analyst calls",
+        "CNBC",
+        "Seeking Alpha",
+        "TradingPedia"
+      ]
+    },
+    {
+      "ticker": "COIN",
+      "company": "Coinbase Global",
+      "reason": "Gained on SEC tokenized stock trading exemption, which opens regulated on-chain equity trading routes where Coinbase operates infrastructure",
+      "category": "news",
+      "sources": [
+        "MarketBeat",
+        "CNBC",
+        "CoinDesk"
+      ]
+    },
+    {
+      "ticker": "CRCL",
+      "company": "Circle Internet Group",
+      "reason": "Moved higher on SEC 5-year tokenized equity innovation exemption; Circle's stablecoin and tokenization infrastructure positioned as settlement layer for on-chain equities",
+      "category": "news",
+      "sources": [
+        "Seeking Alpha",
+        "CoinDesk",
+        "MarketBeat"
+      ]
+    },
+    {
+      "ticker": "CRWV",
+      "company": "CoreWeave",
+      "reason": "Fell on dilution concerns after announcing $3B convertible bond offering plus 35M-share ATM stock sale program (~$2.9B); proceeds for AI cloud infrastructure expansion",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Bloomberg",
+        "KuCoin"
+      ]
+    },
+    {
+      "ticker": "FDX",
+      "company": "FedEx Corporation",
+      "reason": "Q1 FY2027 earnings report due after the close today; analysts forecasting EPS of ~$3.91 on revenue of ~$21.83B; most-anticipated earnings event of the session",
+      "category": "earnings",
+      "sources": [
+        "Earnings Whispers",
+        "Benzinga",
+        "iTiger"
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "reason": "Featured prominently in Thursday analyst calls; Goldman Sachs cut Q3 delivery estimate to 435K (from 490K), maintaining Neutral/$360 PT; multiple analyst desks updated price targets today",
+      "category": "downgrade",
+      "sources": [
+        "CNBC",
+        "Benzinga",
+        "24/7 Wall St."
+      ]
+    },
+    {
+      "ticker": "NOK",
+      "company": "Nokia",
+      "reason": "Jim Cramer called Nokia a \"terrific situation\" on Mad Money and recommended buying; shares gained on the high-profile endorsement amid broader telecom infrastructure attention",
+      "category": "news",
+      "sources": [
         "Benzinga"
       ]
     }
