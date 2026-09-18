@@ -1,157 +1,174 @@
 {
-  "report_date": "2026-09-17",
+  "report_date": "2026-09-18",
   "market_tone": "Mixed",
   "key_themes": [
-    "Federal Reserve hikes rates 25bps to 3.75%-4% (first increase since July 2023)",
-    "AI infrastructure buildout drives power & semiconductor deals (GNRC-Amazon, MRVL-GlobalFoundries)",
-    "SEC grants 5-year tokenized stock trading innovation exemption, lifting crypto-adjacent names"
+    "Fed hikes rates 25 bps (first since 2023), signals more hikes ahead \u2014 \"higher for longer\" rattles markets",
+    "Bitcoin surges past $80,000, lifting crypto stocks sharply",
+    "Pharma clinical trial shock: Xenon Pharmaceuticals halts depression enrollment on safety concerns"
   ],
   "sp500": {
-    "value": "7,612.55",
-    "change": "+0.80%"
+    "value": "7,650.50",
+    "change": "+0.17%"
   },
   "nasdaq": {
-    "value": "26,333.36",
-    "change": "+1.37%"
+    "value": "26,522.55",
+    "change": "+0.39%"
   },
   "stocks": [
     {
-      "ticker": "AEMD",
-      "company": "Aethlon Medical",
-      "reason": "Surged ~471% on reverse merger with North Immunology; $180M PIPE to fund IL-13xIL-18 bispecific antibody NOR-101 for atopic dermatitis into clinic",
+      "ticker": "XENE",
+      "company": "Xenon Pharmaceuticals",
+      "reason": "Stock plunged ~29% after company paused enrollment in azetukalner depression (MDD/BPD) trials due to neuropsychiatric adverse events (confusion, rare psychosis); Deutsche Bank cut to Hold, PT $90\u2192$46; NDA for focal seizures filed simultaneously",
       "category": "news",
       "sources": [
-        "MedCity News",
-        "BioPharma Dive",
-        "STAT News",
-        "PR Newswire"
-      ]
-    },
-    {
-      "ticker": "GNRC",
-      "company": "Generac Holdings",
-      "reason": "Surged ~19-22% on $8B long-term Amazon data center generator supply deal; Amazon also received warrant for ~1.69M shares, repricing GNRC as AI power infrastructure name",
-      "category": "news",
-      "sources": [
+        "CNBC",
         "Benzinga",
-        "Schaeffer's Investment Research",
-        "Proactive Investors"
+        "RTTNews",
+        "GuruFocus"
       ]
     },
     {
-      "ticker": "INTC",
-      "company": "Intel Corporation",
-      "reason": "Jumped ~7.7% on reports of SK Hynix joint venture talks for Ohio memory chip facility; Barclays upgraded to Overweight (from Underperform); Tigress and Northland raised price targets",
-      "category": "upgrade",
+      "ticker": "NFLX",
+      "company": "Netflix",
+      "reason": "Shares fell ~5% after Wells Fargo downgraded to Underweight and cut PT from $80 to $57, citing worrying engagement trends and weaker content slate expected in H2 2026",
+      "category": "downgrade",
       "sources": [
+        "CNBC",
         "Yahoo Finance",
-        "Motley Fool",
-        "Seeking Alpha",
-        "24/7 Wall St."
+        "Benzinga"
       ]
     },
     {
-      "ticker": "MU",
-      "company": "Micron Technology",
-      "reason": "Gained ~6% after announcing commercial production start at first semiconductor assembly & test facility in Sanand, Gujarat, India; AI memory demand cited as expansion driver",
-      "category": "news",
+      "ticker": "MSTR",
+      "company": "Strategy (MicroStrategy)",
+      "reason": "Shares jumped ~12% as Bitcoin crossed $80,000 for the first time; crypto treasury play benefits directly from BTC price surge",
+      "category": "sector",
       "sources": [
-        "Benzinga",
-        "TradingKey"
+        "CNBC",
+        "Seeking Alpha"
       ]
     },
     {
-      "ticker": "MRVL",
-      "company": "Marvell Technology",
-      "reason": "Rose ~4.75% on expanded multi-year GlobalFoundries silicon-germanium manufacturing deal to boost optical interconnect capacity for next-gen AI data center architectures",
-      "category": "news",
+      "ticker": "COIN",
+      "company": "Coinbase",
+      "reason": "Stock surged ~11% on Bitcoin's breakout above $80,000; crypto exchange volumes expected to spike on renewed retail interest",
+      "category": "sector",
       "sources": [
-        "TradingKey"
-      ]
-    },
-    {
-      "ticker": "ARM",
-      "company": "Arm Holdings",
-      "reason": "Gained as CEO Rene Haas highlighted off-the-charts AI demand and severe supply constraints; SOX semiconductor index rose ~3% led by AI chip names",
-      "category": "news",
-      "sources": [
-        "Investrade",
-        "CNBC"
+        "CNBC",
+        "Seeking Alpha"
       ]
     },
     {
       "ticker": "HOOD",
       "company": "Robinhood Markets",
-      "reason": "Rallied 5%+ after SEC announced 5-year \"Innovation Exemption\" allowing tokenized U.S. stocks to trade on specified blockchain venues; direct beneficiary as retail trading platform",
-      "category": "news",
+      "reason": "Shares rose ~8% on Bitcoin's $80K move; retail trading platform sees correlation with crypto market activity and elevated options flow",
+      "category": "sector",
       "sources": [
         "CNBC",
-        "Seeking Alpha",
-        "TradingPedia"
+        "MarketRebellion"
       ]
     },
     {
-      "ticker": "COIN",
-      "company": "Coinbase Global",
-      "reason": "Gained on SEC tokenized stock trading exemption, which opens regulated on-chain equity trading routes where Coinbase operates infrastructure",
+      "ticker": "SNDK",
+      "company": "SanDisk Corporation",
+      "reason": "Stock surged ~6-7% \u2014 leading storage/memory group; stock-specific bid driven by AI data center storage demand, $14B buyback program, and momentum-driven 622% YTD rally",
       "category": "news",
       "sources": [
-        "MarketBeat",
-        "CNBC",
-        "CoinDesk"
+        "247WallSt",
+        "Benzinga",
+        "TradingKey"
       ]
     },
     {
-      "ticker": "CRCL",
-      "company": "Circle Internet Group",
-      "reason": "Moved higher on SEC 5-year tokenized equity innovation exemption; Circle's stablecoin and tokenization infrastructure positioned as settlement layer for on-chain equities",
-      "category": "news",
-      "sources": [
-        "Seeking Alpha",
-        "CoinDesk",
-        "MarketBeat"
-      ]
-    },
-    {
-      "ticker": "CRWV",
-      "company": "CoreWeave",
-      "reason": "Fell on dilution concerns after announcing $3B convertible bond offering plus 35M-share ATM stock sale program (~$2.9B); proceeds for AI cloud infrastructure expansion",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "Bloomberg",
-        "KuCoin"
-      ]
-    },
-    {
-      "ticker": "FDX",
-      "company": "FedEx Corporation",
-      "reason": "Q1 FY2027 earnings report due after the close today; analysts forecasting EPS of ~$3.91 on revenue of ~$21.83B; most-anticipated earnings event of the session",
+      "ticker": "NUE",
+      "company": "Nucor Corporation",
+      "reason": "Shares fell ~6% after Q3 2026 EPS guidance came in weaker than Wall Street consensus; also downgraded by Freedom Broker (Buy\u2192Hold, PT $305\u2192$285); steel sector weakness",
       "category": "earnings",
       "sources": [
-        "Earnings Whispers",
-        "Benzinga",
-        "iTiger"
+        "CNBC",
+        "MarketReader",
+        "GuruFocus"
       ]
     },
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "reason": "Featured prominently in Thursday analyst calls; Goldman Sachs cut Q3 delivery estimate to 435K (from 490K), maintaining Neutral/$360 PT; multiple analyst desks updated price targets today",
-      "category": "downgrade",
+      "ticker": "STLD",
+      "company": "Steel Dynamics",
+      "reason": "Stock down ~4% after Q3 earnings guidance missed expectations alongside sector peer Nucor; soft steel demand and margin pressure cited",
+      "category": "earnings",
       "sources": [
         "CNBC",
-        "Benzinga",
-        "24/7 Wall St."
+        "MarketReader"
       ]
     },
     {
-      "ticker": "NOK",
-      "company": "Nokia",
-      "reason": "Jim Cramer called Nokia a \"terrific situation\" on Mad Money and recommended buying; shares gained on the high-profile endorsement amid broader telecom infrastructure attention",
+      "ticker": "MTSI",
+      "company": "MACOM Technology Solutions",
+      "reason": "Stock rose ~4% after BMO Capital Markets upgraded to Outperform (from Market Perform), maintaining $335 PT; analyst noted attractive valuation following 35%+ decline from 2026 highs",
+      "category": "upgrade",
+      "sources": [
+        "CNBC",
+        "Benzinga"
+      ]
+    },
+    {
+      "ticker": "ETSY",
+      "company": "Etsy Inc.",
+      "reason": "BTIG upgraded from Neutral to Buy with $90 PT (24% upside), citing improved risk-reward after pullback and valuation now in-line with peers on a growth-adjusted basis",
+      "category": "upgrade",
+      "sources": [
+        "Benzinga",
+        "Investing.com",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "SPCX",
+      "company": "SpaceX Corp",
+      "reason": "Heavy options activity and shares up ~4-5%; Starship test scheduled September 22 driving speculative interest; stock volatile since June 2026 IPO at $135",
       "category": "news",
       "sources": [
-        "Benzinga"
+        "CNBC",
+        "Barchart",
+        "SwingTradeNotes"
+      ]
+    },
+    {
+      "ticker": "TCOM",
+      "company": "Trip.com Group",
+      "reason": "Macquarie upgraded to Outperform from Neutral; raised PT to $53.20 from $44.30 on improved China travel outlook",
+      "category": "upgrade",
+      "sources": [
+        "Yahoo Finance",
+        "DailyTradeAlert"
+      ]
+    },
+    {
+      "ticker": "JBHT",
+      "company": "J.B. Hunt Transport Services",
+      "reason": "Citizens upgraded to Outperform from Market Perform with $300 PT (28% upside) on improved freight market outlook heading into Q4",
+      "category": "upgrade",
+      "sources": [
+        "Benzinga",
+        "DailyTradeAlert"
+      ]
+    },
+    {
+      "ticker": "INTA",
+      "company": "Intapp Inc.",
+      "reason": "Shares rose after announcing AI integration with OpenAI's ChatGPT for regulated industries (legal, financial services, accounting), boosting SaaS platform value proposition",
+      "category": "news",
+      "sources": [
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "SUNB",
+      "company": "Sunbelt Rentals",
+      "reason": "Goldman Sachs upgraded to Buy from Neutral; raised PT to $93 from $78 on strong equipment rental demand and infrastructure spending tailwinds",
+      "category": "upgrade",
+      "sources": [
+        "Benzinga",
+        "DailyTradeAlert"
       ]
     }
   ]
