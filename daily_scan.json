@@ -1,117 +1,169 @@
 {
-  "report_date": "2026-09-21",
-  "market_tone": "Bullish",
+  "report_date": "2026-09-22",
+  "market_tone": "Mixed",
   "key_themes": [
-    "AI chip rally: Meta Muse AI agent success drives semiconductor surge (AMD +9%, Intel +13%, ARM +17%)",
-    "US-China trade summit optimism: Trump-Xi summit in Washington boosting risk appetite across tech and materials",
-    "Media M&A milestone: Paramount-WBD merger cleared antitrust as state AGs settle; Greenland minerals deal lifts rare earth plays"
+    "AI stock rally drives Nasdaq to new record high led by Meta Muse adoption and chipmaker surge",
+    "GLP-1 weight loss drug space in focus as Viking Therapeutics soars on maintenance dosing data while Novo Nordisk slides on uninspiring long-term goals",
+    "Quarterly earnings in focus with AutoZone EPS beat and KB Home reporting after close; Berkshire Hathaway crosses 10% stake in Lennar"
   ],
   "sp500": {
-    "value": "7,878",
-    "change": "+1.5%"
+    "value": "7,761.00",
+    "change": "-0.04%"
   },
   "nasdaq": {
-    "value": "27,699",
-    "change": "+2.1%"
+    "value": "27,244.00",
+    "change": "+0.50%"
   },
   "stocks": [
     {
-      "ticker": "AMD",
-      "company": "Advanced Micro Devices",
-      "reason": "Surged ~9-10% to all-time high, crossing $1T market cap for the first time; AI chip demand surge linked to early success of Meta's Muse AI agent; supply-chain report shows 10% price increase planned for Q4",
-      "category": "sector",
-      "sources": ["Bloomberg", "Yahoo Finance", "CNBC", "GuruFocus"]
-    },
-    {
-      "ticker": "INTC",
-      "company": "Intel",
-      "reason": "Jumped ~13% in one of its strongest single-day moves in 2026 as AI agent chip demand narrative revived the semiconductor sector; beneficiary of Meta Muse CPU buildout enthusiasm",
-      "category": "sector",
-      "sources": ["CNBC", "Yahoo Finance"]
-    },
-    {
-      "ticker": "ARM",
-      "company": "Arm Holdings",
-      "reason": "Surged ~16-17% on new Piper Sandler Overweight initiation ($320 PT), Meta custom CPU chip project win, and new Neoverse CSS N4 / AGI CPU product announcements targeting agentic-AI silicon",
-      "category": "upgrade",
-      "sources": ["StocksToTrade", "Yahoo Finance", "Bloomberg"]
+      "ticker": "VKTX",
+      "company": "Viking Therapeutics",
+      "reason": "Surged 31.55% after announcing positive topline results from VK2735 maintenance study showing patients maintained 85-97% of weight loss switching to less-frequent (bi-weekly/monthly) dosing from weekly injections",
+      "category": "news",
+      "sources": [
+        "Benzinga",
+        "TipRanks",
+        "SEC Filing",
+        "PRNewswire"
+      ]
     },
     {
       "ticker": "META",
       "company": "Meta Platforms",
-      "reason": "Continued gains as Muse AI agent (launched Sept 8) surpasses ChatGPT and Claude in iOS downloads; Morgan Stanley sees $30T AI agent market opportunity; multiple analyst price target raises to $796-$820",
+      "reason": "Jumped 11%+ as Muse AI agent topped U.S. App Store charts; analysts raising targets citing Meta's best monthly performance in 13 years driven by widespread AI assistant adoption ahead of Connect 2026",
       "category": "news",
-      "sources": ["Motley Fool", "Yahoo Finance", "Bloomberg"]
+      "sources": [
+        "CNBC",
+        "TradingKey",
+        "CGTN",
+        "Yahoo Finance"
+      ]
     },
     {
-      "ticker": "WBD",
-      "company": "Warner Bros. Discovery",
-      "reason": "Major mover on news that Paramount Skydance settled with state AGs clearing the way for $110B merger with WBD to proceed; WBD shareholders to receive $31/share (147% premium), removing mid-2027 trial delay risk",
-      "category": "news",
-      "sources": ["CNBC", "SEC filings", "Seeking Alpha"]
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "reason": "Shares up ~6.8% driving Nasdaq to new all-time high; AI spending optimism intact with company forecast flagging 70% revenue jump; Trefis and CNBC analyst calls on the stock today",
+      "category": "upgrade",
+      "sources": [
+        "CNBC",
+        "Reuters/Investing.com",
+        "Trefis"
+      ]
     },
     {
-      "ticker": "PSKY",
-      "company": "Paramount Skydance",
-      "reason": "Settlement with California-led AG coalition removes final antitrust obstacle to WBD merger; deal now expected to close without protracted litigation; shares moving on deal certainty",
-      "category": "news",
-      "sources": ["CNBC", "Seeking Alpha"]
+      "ticker": "CRWV",
+      "company": "CoreWeave",
+      "reason": "Rose 2-5% as analyst calls today set price target of $167.84 (94% upside from ~$86); Nvidia-backed AI cloud company posting triple-digit revenue growth; 24/7 Wall St. bullish analysis published today",
+      "category": "upgrade",
+      "sources": [
+        "CNBC",
+        "247WallSt",
+        "ITiger",
+        "TipRanks"
+      ]
     },
     {
-      "ticker": "CRML",
-      "company": "Critical Metals Corp",
-      "reason": "Surged ~38% to $9.30 on dual catalysts: Trump-Denmark agreement giving the US permanent control over Greenland's security and mineral resources; plus new Romanian rare earth refinery study projecting $1.8-2.2B annual revenue",
+      "ticker": "LEN",
+      "company": "Lennar Corporation",
+      "reason": "Rose 5.29% after SEC Form 4 filings revealed Berkshire Hathaway bought $212.4M of shares (Sept 17-21), crossing the 10% ownership threshold despite Lennar's weaker Q3 results",
       "category": "news",
-      "sources": ["Benzinga", "StocksToTrade", "CNBC"]
+      "sources": [
+        "TipRanks",
+        "Benzinga",
+        "Investing.com",
+        "Parameter.io"
+      ]
     },
     {
-      "ticker": "XENE",
-      "company": "Xenon Pharmaceuticals",
-      "reason": "Continued selloff (-30%+ on the session) from Phase 3 trial halt for azetukalner in depression/bipolar indications due to previously unobserved neuropsychiatric adverse events; Deutsche Bank downgraded; NDA for seizure treatment filed but overshadowed by safety news",
-      "category": "news",
-      "sources": ["Benzinga", "Yahoo Finance", "GuruFocus"]
+      "ticker": "AZO",
+      "company": "AutoZone",
+      "reason": "Reported Q4 FY2026 earnings before open: EPS of $56.05 beat $54.14 estimate; revenue of $6.59B missed $6.71B consensus; domestic commercial sales +8.6% YoY; beat aided partly by tariff refunds",
+      "category": "earnings",
+      "sources": [
+        "Benzinga",
+        "247WallSt",
+        "TheStreet"
+      ]
+    },
+    {
+      "ticker": "KBH",
+      "company": "KB Home",
+      "reason": "Reporting Q3 earnings after market close today (4:10 PM ET); expected $0.90 EPS on $1.30B revenue; net orders figure closely watched as housing sector faces mixed signals",
+      "category": "earnings",
+      "sources": [
+        "Benzinga",
+        "247WallSt",
+        "EarningsWhispers"
+      ]
     },
     {
       "ticker": "NVO",
       "company": "Novo Nordisk",
-      "reason": "Fell ~8% after Capital Markets Day failed to provide specific near-term growth targets; investors disappointed by lack of detail on GLP-1 competitive positioning against rivals in the obesity drug market",
+      "reason": "Slid nearly 5% after investors were left unimpressed by company's long-term goals and strategy for competing in the weight loss/GLP-1 market; pressure compounded by Viking's strong maintenance data",
       "category": "news",
-      "sources": ["GuruFocus", "Yahoo Finance", "Benzinga"]
+      "sources": [
+        "CNBC",
+        "TheStreet"
+      ]
     },
     {
-      "ticker": "SPOT",
-      "company": "Spotify Technology",
-      "reason": "Upgraded to Buy from Neutral by Arete with $586 price target; analyst cited improving Premium gross margins and characterizes AI disruption risk as minimal",
-      "category": "upgrade",
-      "sources": ["Yahoo Finance", "TipRanks"]
+      "ticker": "ACN",
+      "company": "Accenture",
+      "reason": "Continued to gain after Friday's 6%+ surge; named Anthropic's first embedded AI model evaluator with both companies committing at least $1B over five years; analyst upgrades following today",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Ad-Hoc-News",
+        "Implicator.ai"
+      ]
     },
     {
-      "ticker": "FSLR",
-      "company": "First Solar",
-      "reason": "Downgraded to Hold from Buy by Deutsche Bank; price target slashed to $245 from $300 citing disappointing Q4 results, weak 2026 guidance, tariff headwinds impacting India-to-US volume flows",
-      "category": "downgrade",
-      "sources": ["Yahoo Finance", "TipRanks"]
-    },
-    {
-      "ticker": "HPQ",
-      "company": "HP Inc.",
-      "reason": "Dropped ~4% despite Q3 earnings beat; company declined to provide FY2027 financial guidance and issued preliminary planning assumption of mid-single-digit PC unit volume decline for CY2027; component shortages squeezing profitability",
-      "category": "earnings",
-      "sources": ["CNBC", "Yahoo Finance", "Benzinga"]
-    },
-    {
-      "ticker": "LRCX",
-      "company": "Lam Research",
-      "reason": "Rose 3%+ as semiconductor equipment stocks rode coattails of AI chip demand rally; beneficiary of AMD/Intel capacity expansion narrative and chipmakers' increased wafer starts for AI accelerators",
+      "ticker": "COIN",
+      "company": "Coinbase Global",
+      "reason": "Up 4%+ as Bitcoin climbed to $85,229 (highest since Jan. 29); crypto sentiment boosted by continued institutional interest; analyst calls on COIN included in Tuesday's top Wall Street actions",
       "category": "sector",
-      "sources": ["CNBC"]
+      "sources": [
+        "CNBC",
+        "TheStreet"
+      ]
     },
     {
-      "ticker": "USAR",
-      "company": "USA Rare Earth",
-      "reason": "Surging on announcement of strategic partnership with Pasqal and Riven Systems to develop AI and quantum computing-assisted rare-earth separation technology; gains amplified by Greenland minerals headline lifting rare earth sector broadly",
+      "ticker": "CLDX",
+      "company": "Celldex Therapeutics",
+      "reason": "Fell 12.19%, leading S&P 500 to the downside today; biotech sector weakness contributing to bifurcated market with growth/AI up and healthcare names under pressure",
       "category": "news",
-      "sources": ["Trefis", "GuruFocus"]
+      "sources": [
+        "TheStreet",
+        "StockAnalysis"
+      ]
+    },
+    {
+      "ticker": "PLNT",
+      "company": "Planet Fitness",
+      "reason": "Dropped 9.08%, one of the largest single-day declines in the S&P 500 today; news-driven selloff contributing to consumer discretionary weakness",
+      "category": "news",
+      "sources": [
+        "TheStreet",
+        "StockAnalysis"
+      ]
+    },
+    {
+      "ticker": "NFLX",
+      "company": "Netflix",
+      "reason": "Featured in Tuesday's biggest Wall Street analyst calls; among the high-profile tech/media names receiving updated coverage as AI content strategy and subscriber metrics drive ongoing discussion",
+      "category": "upgrade",
+      "sources": [
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "reason": "Included in Tuesday's major analyst calls on Wall Street; semiconductor name benefiting from AI infrastructure tailwinds and chipmaker sector rally driving Nasdaq to all-time high today",
+      "category": "upgrade",
+      "sources": [
+        "CNBC"
+      ]
     }
   ]
 }
