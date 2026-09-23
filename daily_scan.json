@@ -1,168 +1,159 @@
 {
-  "report_date": "2026-09-22",
-  "market_tone": "Mixed",
+  "report_date": "2026-09-23",
+  "market_tone": "Bearish",
   "key_themes": [
-    "AI stock rally drives Nasdaq to new record high led by Meta Muse adoption and chipmaker surge",
-    "GLP-1 weight loss drug space in focus as Viking Therapeutics soars on maintenance dosing data while Novo Nordisk slides on uninspiring long-term goals",
-    "Quarterly earnings in focus with AutoZone EPS beat and KB Home reporting after close; Berkshire Hathaway crosses 10% stake in Lennar"
+    "Rising Treasury yields \u2014 5-year hits 5% for first time since 2007, stoking Fed rate-hike fears",
+    "Oil above $101/barrel amplifies inflation worries, weighing on consumer and growth stocks",
+    "Quantum computing breakthrough: IonQ demos first real-time error correction decoder, lifting sector"
   ],
   "sp500": {
-    "value": "7,761.00",
-    "change": "-0.04%"
+    "value": "7,706.03",
+    "change": "-0.75%"
   },
   "nasdaq": {
-    "value": "27,244.00",
-    "change": "+0.50%"
+    "value": "26,936.04",
+    "change": "-1.13%"
   },
   "stocks": [
     {
-      "ticker": "VKTX",
-      "company": "Viking Therapeutics",
-      "reason": "Surged 31.55% after announcing positive topline results from VK2735 maintenance study showing patients maintained 85-97% of weight loss switching to less-frequent (bi-weekly/monthly) dosing from weekly injections",
-      "category": "news",
-      "sources": [
-        "Benzinga",
-        "TipRanks",
-        "SEC Filing",
-        "PRNewswire"
-      ]
-    },
-    {
-      "ticker": "META",
-      "company": "Meta Platforms",
-      "reason": "Jumped 11%+ as Muse AI agent topped U.S. App Store charts; analysts raising targets citing Meta's best monthly performance in 13 years driven by widespread AI assistant adoption ahead of Connect 2026",
+      "ticker": "IONQ",
+      "company": "IonQ Inc.",
+      "reason": "Surged ~12% after announcing industry-first real-time quantum error correction decoder running on a standard CPU, enabling fault-tolerant quantum computing without slowing execution",
       "category": "news",
       "sources": [
         "CNBC",
-        "TradingKey",
-        "CGTN",
+        "Benzinga",
+        "TheStreet"
+      ]
+    },
+    {
+      "ticker": "WOR",
+      "company": "Worthington Enterprises",
+      "reason": "Jumped ~16% on Q1 earnings beat; CEO cited rapidly growing demand for ASME-certified tanks used in liquid cooling systems for data centers as a key growth driver",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Benzinga"
+      ]
+    },
+    {
+      "ticker": "CBRL",
+      "company": "Cracker Barrel Old Country Store",
+      "reason": "Gained ~8% after Q4 FY2026 EPS of $0.99 crushed the $0.10 consensus estimate (890% beat) on revenue of $849.3M vs $828.8M expected",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Investing.com",
         "Yahoo Finance"
       ]
     },
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "reason": "Shares up ~6.8% driving Nasdaq to new all-time high; AI spending optimism intact with company forecast flagging 70% revenue jump; Trefis and CNBC analyst calls on the stock today",
-      "category": "upgrade",
+      "ticker": "MCD",
+      "company": "McDonald's Corp.",
+      "reason": "Fell ~5-6% to fresh 52-week low after Investor Day revealed $8.5B franchisee support plan and delayed 50,000-restaurant target from 2027 to 2028 due to inflation-driven construction costs and weak traffic; UBS and RBC cut price targets",
+      "category": "news",
       "sources": [
         "CNBC",
-        "Reuters/Investing.com",
-        "Trefis"
+        "FX Leaders",
+        "Invezz",
+        "TheStreet"
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "company": "Alibaba Group",
+      "reason": "Moved on launch of Zhenwu V900 AI chip and announcement of plans to operate over 20 gigawatts of global data center capacity by 2032, signaling accelerated AI infrastructure buildout",
+      "category": "news",
+      "sources": [
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "CART",
+      "company": "Maplebear Inc. (Instacart)",
+      "reason": "Rose ~5% after announcing Gopuff will join Instacart Marketplace with Instacart Carrot Ads technology integrated into Gopuff's digital storefront in the U.S., expanding its delivery ecosystem",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "TheStreet"
       ]
     },
     {
       "ticker": "CRWV",
-      "company": "CoreWeave",
-      "reason": "Rose 2-5% as analyst calls today set price target of $167.84 (94% upside from ~$86); Nvidia-backed AI cloud company posting triple-digit revenue growth; 24/7 Wall St. bullish analysis published today",
+      "company": "CoreWeave Inc.",
+      "reason": "UBS analyst Karl Keirstead initiated coverage with Buy rating and $120 price target, citing 112% revenue growth, $104B backlog, and raised 2026 guidance as positives despite heavy debt load",
       "category": "upgrade",
       "sources": [
-        "CNBC",
-        "247WallSt",
-        "ITiger",
-        "TipRanks"
+        "Benzinga",
+        "Daily Trade Alert"
       ]
     },
     {
-      "ticker": "LEN",
-      "company": "Lennar Corporation",
-      "reason": "Rose 5.29% after SEC Form 4 filings revealed Berkshire Hathaway bought $212.4M of shares (Sept 17-21), crossing the 10% ownership threshold despite Lennar's weaker Q3 results",
-      "category": "news",
+      "ticker": "APP",
+      "company": "AppLovin Corp.",
+      "reason": "Slipped ~3.8% after Edgewater Research analyst cautioned that the mobile ad platform's market share expansion has effectively stalled, raising concerns about future growth trajectory",
+      "category": "downgrade",
       "sources": [
-        "TipRanks",
-        "Benzinga",
-        "Investing.com",
-        "Parameter.io"
-      ]
-    },
-    {
-      "ticker": "AZO",
-      "company": "AutoZone",
-      "reason": "Reported Q4 FY2026 earnings before open: EPS of $56.05 beat $54.14 estimate; revenue of $6.59B missed $6.71B consensus; domestic commercial sales +8.6% YoY; beat aided partly by tariff refunds",
-      "category": "earnings",
-      "sources": [
-        "Benzinga",
-        "247WallSt",
+        "Yahoo Finance",
         "TheStreet"
       ]
     },
     {
-      "ticker": "KBH",
-      "company": "KB Home",
-      "reason": "Reporting Q3 earnings after market close today (4:10 PM ET); expected $0.90 EPS on $1.30B revenue; net orders figure closely watched as housing sector faces mixed signals",
-      "category": "earnings",
+      "ticker": "LUV",
+      "company": "Southwest Airlines Co.",
+      "reason": "Flagged for unusual options activity with ~25:1 call-to-put ratio at 10x average daily volume, with heavy targeting of the Sep 25 $44 calls suggesting bullish positioning",
+      "category": "news",
       "sources": [
-        "Benzinga",
-        "247WallSt",
-        "EarningsWhispers"
+        "Market Rebellion"
       ]
     },
     {
-      "ticker": "NVO",
-      "company": "Novo Nordisk",
-      "reason": "Slid nearly 5% after investors were left unimpressed by company's long-term goals and strategy for competing in the weight loss/GLP-1 market; pressure compounded by Viking's strong maintenance data",
-      "category": "news",
+      "ticker": "ERIC",
+      "company": "Telefonaktiebolaget LM Ericsson ADR",
+      "reason": "Fell after Morgan Stanley downgraded to Underweight and cut price target due to margin pressure, declining North America revenue, rising input costs, and elevated valuation",
+      "category": "downgrade",
       "sources": [
-        "CNBC",
+        "Market Rebellion",
         "TheStreet"
       ]
     },
     {
-      "ticker": "ACN",
-      "company": "Accenture",
-      "reason": "Continued to gain after Friday's 6%+ surge; named Anthropic's first embedded AI model evaluator with both companies committing at least $1B over five years; analyst upgrades following today",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "Ad-Hoc-News",
-        "Implicator.ai"
-      ]
-    },
-    {
-      "ticker": "COIN",
-      "company": "Coinbase Global",
-      "reason": "Up 4%+ as Bitcoin climbed to $85,229 (highest since Jan. 29); crypto sentiment boosted by continued institutional interest; analyst calls on COIN included in Tuesday's top Wall Street actions",
+      "ticker": "RGTI",
+      "company": "Rigetti Computing Inc.",
+      "reason": "Rose 5.5%+ in sympathy with IonQ's quantum error correction breakthrough, lifting the broader quantum computing sector",
       "category": "sector",
       "sources": [
-        "CNBC",
+        "Benzinga",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "QBTS",
+      "company": "D-Wave Quantum Inc.",
+      "reason": "Rose 5.5%+ in sympathy with IonQ's quantum error correction milestone, as investors broadly bought quantum computing stocks on the sector-wide catalyst",
+      "category": "sector",
+      "sources": [
+        "Benzinga"
+      ]
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron Technology Inc.",
+      "reason": "Mentioned in multiple analyst upgrade calls highlighting sustained pricing power in high-bandwidth memory (HBM) and a technical buy signal as demand from AI workloads keeps HBM supply sold out",
+      "category": "upgrade",
+      "sources": [
+        "TheStreet",
+        "Motley Fool",
+        "Seeking Alpha"
+      ]
+    },
+    {
+      "ticker": "DNA",
+      "company": "Ginkgo Bioworks Holdings",
+      "reason": "Fell ~3.6% amid analyst concerns over revenue declines, ongoing cash burn, and uncertainty about the company's pivot toward AI-driven autonomous labs",
+      "category": "news",
+      "sources": [
         "TheStreet"
-      ]
-    },
-    {
-      "ticker": "CLDX",
-      "company": "Celldex Therapeutics",
-      "reason": "Fell 12.19%, leading S&P 500 to the downside today; biotech sector weakness contributing to bifurcated market with growth/AI up and healthcare names under pressure",
-      "category": "news",
-      "sources": [
-        "TheStreet",
-        "StockAnalysis"
-      ]
-    },
-    {
-      "ticker": "PLNT",
-      "company": "Planet Fitness",
-      "reason": "Dropped 9.08%, one of the largest single-day declines in the S&P 500 today; news-driven selloff contributing to consumer discretionary weakness",
-      "category": "news",
-      "sources": [
-        "TheStreet",
-        "StockAnalysis"
-      ]
-    },
-    {
-      "ticker": "NFLX",
-      "company": "Netflix",
-      "reason": "Featured in Tuesday's biggest Wall Street analyst calls; among the high-profile tech/media names receiving updated coverage as AI content strategy and subscriber metrics drive ongoing discussion",
-      "category": "upgrade",
-      "sources": [
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "reason": "Included in Tuesday's major analyst calls on Wall Street; semiconductor name benefiting from AI infrastructure tailwinds and chipmaker sector rally driving Nasdaq to all-time high today",
-      "category": "upgrade",
-      "sources": [
-        "CNBC"
       ]
     }
   ]
