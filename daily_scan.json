@@ -1,159 +1,160 @@
 {
-  "report_date": "2026-09-23",
-  "market_tone": "Bearish",
+  "report_date": "2026-09-24",
+  "market_tone": "Mixed",
   "key_themes": [
-    "Rising Treasury yields \u2014 5-year hits 5% for first time since 2007, stoking Fed rate-hike fears",
-    "Oil above $101/barrel amplifies inflation worries, weighing on consumer and growth stocks",
-    "Quantum computing breakthrough: IonQ demos first real-time error correction decoder, lifting sector"
+    "Rising Treasury yields (10-year hits 5.11%, highest since 2007) pressuring equities",
+    "AI infrastructure cracks as Oracle invokes force majeure on $165B Stargate data center over power-permit delays",
+    "Meta Muse AI agent surges to top of App Store in 11 days, sparking 30% monthly rally",
+    "Cybersecurity sector strength driven by AI-security spend (CrowdStrike biggest S&P 500 winner)",
+    "Quantum computing milestone: IonQ demonstrates first real-time end-to-end error correction"
   ],
   "sp500": {
-    "value": "7,706.03",
-    "change": "-0.75%"
+    "value": "7,696",
+    "change": "-0.51%"
   },
   "nasdaq": {
-    "value": "26,936.04",
-    "change": "-1.13%"
+    "value": "24,500",
+    "change": "-0.78%"
   },
   "stocks": [
     {
-      "ticker": "IONQ",
-      "company": "IonQ Inc.",
-      "reason": "Surged ~12% after announcing industry-first real-time quantum error correction decoder running on a standard CPU, enabling fault-tolerant quantum computing without slowing execution",
+      "ticker": "PAYX",
+      "company": "Paychex Inc.",
+      "reason": "Q1 FY2027 earnings (reported Sept 23) sent stock down -8.8% to $104.49 on Sept 24 \u2014 biggest S&P 500 loser; despite 14% diluted EPS growth, market reacted negatively to slowing growth signals",
+      "category": "earnings",
+      "sources": [
+        "Trefis",
+        "Yahoo Finance",
+        "SEC Filing"
+      ]
+    },
+    {
+      "ticker": "META",
+      "company": "Meta Platforms Inc.",
+      "reason": "Muse AI agent reached 560K daily active users in just 11 days, topping App Store charts and dethroning ChatGPT; JPMorgan raised PT to $920; stock +3.5% today, +30% in September",
       "category": "news",
       "sources": [
         "CNBC",
-        "Benzinga",
-        "TheStreet"
-      ]
-    },
-    {
-      "ticker": "WOR",
-      "company": "Worthington Enterprises",
-      "reason": "Jumped ~16% on Q1 earnings beat; CEO cited rapidly growing demand for ASME-certified tanks used in liquid cooling systems for data centers as a key growth driver",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "CBRL",
-      "company": "Cracker Barrel Old Country Store",
-      "reason": "Gained ~8% after Q4 FY2026 EPS of $0.99 crushed the $0.10 consensus estimate (890% beat) on revenue of $849.3M vs $828.8M expected",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Investing.com",
+        "Motley Fool",
         "Yahoo Finance"
       ]
     },
     {
-      "ticker": "MCD",
-      "company": "McDonald's Corp.",
-      "reason": "Fell ~5-6% to fresh 52-week low after Investor Day revealed $8.5B franchisee support plan and delayed 50,000-restaurant target from 2027 to 2028 due to inflation-driven construction costs and weak traffic; UBS and RBC cut price targets",
+      "ticker": "ORCL",
+      "company": "Oracle Corporation",
+      "reason": "Sent force majeure notice on Project Jupiter (New Mexico Stargate data center) seeking to delay payments if campus misses 2028 target; Energy Transfer pipeline delayed to Feb 2027 after permit denials; stock fell -4%",
       "category": "news",
       "sources": [
-        "CNBC",
-        "FX Leaders",
-        "Invezz",
-        "TheStreet"
-      ]
-    },
-    {
-      "ticker": "BABA",
-      "company": "Alibaba Group",
-      "reason": "Moved on launch of Zhenwu V900 AI chip and announcement of plans to operate over 20 gigawatts of global data center capacity by 2032, signaling accelerated AI infrastructure buildout",
-      "category": "news",
-      "sources": [
+        "TechCrunch",
+        "Bloomberg",
         "CNBC"
       ]
     },
     {
-      "ticker": "CART",
-      "company": "Maplebear Inc. (Instacart)",
-      "reason": "Rose ~5% after announcing Gopuff will join Instacart Marketplace with Instacart Carrot Ads technology integrated into Gopuff's digital storefront in the U.S., expanding its delivery ecosystem",
+      "ticker": "BE",
+      "company": "Bloom Energy Corp.",
+      "reason": "Shares tumbled -6% as Oracle invoked force majeure on Project Jupiter \u2014 Bloom Energy is the fuel-cell power provider for the 2.45GW New Mexico Stargate campus and faces direct revenue risk from project delays",
       "category": "news",
       "sources": [
         "CNBC",
-        "TheStreet"
+        "Investing.com",
+        "Bloomberg"
       ]
     },
     {
-      "ticker": "CRWV",
-      "company": "CoreWeave Inc.",
-      "reason": "UBS analyst Karl Keirstead initiated coverage with Buy rating and $120 price target, citing 112% revenue growth, $104B backlog, and raised 2026 guidance as positives despite heavy debt load",
-      "category": "upgrade",
-      "sources": [
-        "Benzinga",
-        "Daily Trade Alert"
-      ]
-    },
-    {
-      "ticker": "APP",
-      "company": "AppLovin Corp.",
-      "reason": "Slipped ~3.8% after Edgewater Research analyst cautioned that the mobile ad platform's market share expansion has effectively stalled, raising concerns about future growth trajectory",
-      "category": "downgrade",
+      "ticker": "IONQ",
+      "company": "IonQ Inc.",
+      "reason": "Stock jumped ~7% after demonstrating the industry's first end-to-end real-time quantum error correction decoder running on a standard CPU, tested on 408 logical qubits across 31.5M quantum operations",
+      "category": "news",
       "sources": [
         "Yahoo Finance",
-        "TheStreet"
-      ]
-    },
-    {
-      "ticker": "LUV",
-      "company": "Southwest Airlines Co.",
-      "reason": "Flagged for unusual options activity with ~25:1 call-to-put ratio at 10x average daily volume, with heavy targeting of the Sep 25 $44 calls suggesting bullish positioning",
-      "category": "news",
-      "sources": [
-        "Market Rebellion"
-      ]
-    },
-    {
-      "ticker": "ERIC",
-      "company": "Telefonaktiebolaget LM Ericsson ADR",
-      "reason": "Fell after Morgan Stanley downgraded to Underweight and cut price target due to margin pressure, declining North America revenue, rising input costs, and elevated valuation",
-      "category": "downgrade",
-      "sources": [
-        "Market Rebellion",
-        "TheStreet"
-      ]
-    },
-    {
-      "ticker": "RGTI",
-      "company": "Rigetti Computing Inc.",
-      "reason": "Rose 5.5%+ in sympathy with IonQ's quantum error correction breakthrough, lifting the broader quantum computing sector",
-      "category": "sector",
-      "sources": [
         "Benzinga",
+        "Motley Fool"
+      ]
+    },
+    {
+      "ticker": "CRWD",
+      "company": "CrowdStrike Holdings Inc.",
+      "reason": "Biggest S&P 500 winner of the day (+5%); Morgan Stanley raised PT to $254 Overweight and Stephens raised to $280 Overweight, both citing CRWD as a key beneficiary of rising AI-security spend",
+      "category": "upgrade",
+      "sources": [
+        "Trefis",
+        "StocksToTrade",
         "CNBC"
       ]
     },
     {
-      "ticker": "QBTS",
-      "company": "D-Wave Quantum Inc.",
-      "reason": "Rose 5.5%+ in sympathy with IonQ's quantum error correction milestone, as investors broadly bought quantum computing stocks on the sector-wide catalyst",
-      "category": "sector",
+      "ticker": "P",
+      "company": "Everpure Inc.",
+      "reason": "Shares surged ~18% midday after Sept 23 Financial Analyst Meeting where the data storage company issued optimistic preliminary 2028 guidance and long-term financial framework; Piper Sandler raised PT to $162",
+      "category": "news",
       "sources": [
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron Technology Inc.",
-      "reason": "Mentioned in multiple analyst upgrade calls highlighting sustained pricing power in high-bandwidth memory (HBM) and a technical buy signal as demand from AI workloads keeps HBM supply sold out",
-      "category": "upgrade",
-      "sources": [
-        "TheStreet",
+        "CNBC",
         "Motley Fool",
         "Seeking Alpha"
       ]
     },
     {
-      "ticker": "DNA",
-      "company": "Ginkgo Bioworks Holdings",
-      "reason": "Fell ~3.6% amid analyst concerns over revenue declines, ongoing cash burn, and uncertainty about the company's pivot toward AI-driven autonomous labs",
+      "ticker": "MSFT",
+      "company": "Microsoft Corporation",
+      "reason": "Reports of Copilot discounts up to 50% for enterprise customers (30% for 1,000+ seats; 50% for 10,000+ seats) tied to an AI super-app launch in October integrating Copilot, AI coding, and agents into one platform",
       "category": "news",
       "sources": [
-        "TheStreet"
+        "The Information",
+        "AnalyticsIndiaMag",
+        "Newsquawk"
+      ]
+    },
+    {
+      "ticker": "CRWV",
+      "company": "CoreWeave Inc.",
+      "reason": "JPMorgan upgraded to Overweight from Neutral with $125 PT (from $120), citing favorable AI compute pricing backdrop; company pivoting to short-term premium contracts at ~3x long-term rates; stock +1.7% premarket",
+      "category": "upgrade",
+      "sources": [
+        "Investing.com",
+        "GF Focus",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "DG",
+      "company": "Dollar General Corp.",
+      "reason": "HSBC upgraded to Buy from Hold, raised PT to $160 from $125 (~30% upside), citing turnaround \"moving from promise to delivery\"; Q2 comparable sales +3.5%; also announced Instacart same-day delivery partnership covering 7,000 stores",
+      "category": "upgrade",
+      "sources": [
+        "Investing.com",
+        "GF Focus",
+        "Seeking Alpha"
+      ]
+    },
+    {
+      "ticker": "VEEV",
+      "company": "Veeva Systems Inc.",
+      "reason": "Top S&P 500 performer after Q2 earnings beat (adj. EPS $2.35 vs $2.22 est.; revenue $928M vs $905M est.); AI Vault CRM winning major biopharma deals; Wells Fargo and Raymond James both set $330 price targets",
+      "category": "earnings",
+      "sources": [
+        "StocksToTrade",
+        "Simply Wall St",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "NBIS",
+      "company": "Nebius Group N.V.",
+      "reason": "Bank of America raised 2026, 2027, and 2028 revenue estimates citing strong AI cloud infrastructure demand and favorable compute pricing; shares advanced more than 6%",
+      "category": "upgrade",
+      "sources": [
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "ETSY",
+      "company": "Etsy Inc.",
+      "reason": "Arete downgraded to Neutral from Buy with PT $81 (from $85), saying Etsy deserves to trade at a discount to eBay given slower platform growth and weakening e-commerce trends",
+      "category": "downgrade",
+      "sources": [
+        "Yahoo Finance",
+        "Benzinga"
       ]
     }
   ]
