@@ -1,159 +1,147 @@
 {
-  "report_date": "2026-09-24",
+  "report_date": "2026-09-25",
   "market_tone": "Mixed",
   "key_themes": [
-    "Rising Treasury yields (10-year hits 5.11%, highest since 2007) pressuring equities",
-    "AI infrastructure cracks as Oracle invokes force majeure on $165B Stargate data center over power-permit delays",
-    "Meta Muse AI agent surges to top of App Store in 11 days, sparking 30% monthly rally",
-    "Cybersecurity sector strength driven by AI-security spend (CrowdStrike biggest S&P 500 winner)",
-    "Quantum computing milestone: IonQ demonstrates first real-time end-to-end error correction"
+    "AI infrastructure mega-deals (Akamai-Anthropic $11.6B cloud contract)",
+    "Treasury yield surge pressuring equity markets heading into Q4",
+    "Oil prices drop on Iran diplomatic hopes; geopolitical easing"
   ],
   "sp500": {
-    "value": "7,696",
-    "change": "-0.51%"
+    "value": "7,743.41",
+    "change": "+0.51%"
   },
   "nasdaq": {
-    "value": "24,500",
-    "change": "-0.78%"
+    "value": "27,068.72",
+    "change": "+0.50%"
   },
   "stocks": [
     {
-      "ticker": "PAYX",
-      "company": "Paychex Inc.",
-      "reason": "Q1 FY2027 earnings (reported Sept 23) sent stock down -8.8% to $104.49 on Sept 24 \u2014 biggest S&P 500 loser; despite 14% diluted EPS growth, market reacted negatively to slowing growth signals",
-      "category": "earnings",
-      "sources": [
-        "Trefis",
-        "Yahoo Finance",
-        "SEC Filing"
-      ]
-    },
-    {
-      "ticker": "META",
-      "company": "Meta Platforms Inc.",
-      "reason": "Muse AI agent reached 560K daily active users in just 11 days, topping App Store charts and dethroning ChatGPT; JPMorgan raised PT to $920; stock +3.5% today, +30% in September",
+      "ticker": "AKAM",
+      "company": "Akamai Technologies",
+      "reason": "Surged 21%+ after announcing a 7-year, $11.6B cloud services commitment from Anthropic; deal includes option to expand by additional $9B and a warrant for Anthropic to buy ~5% of shares at $111.33",
       "category": "news",
       "sources": [
         "CNBC",
-        "Motley Fool",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "ORCL",
-      "company": "Oracle Corporation",
-      "reason": "Sent force majeure notice on Project Jupiter (New Mexico Stargate data center) seeking to delay payments if campus misses 2028 target; Energy Transfer pipeline delayed to Feb 2027 after permit denials; stock fell -4%",
-      "category": "news",
-      "sources": [
-        "TechCrunch",
         "Bloomberg",
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "BE",
-      "company": "Bloom Energy Corp.",
-      "reason": "Shares tumbled -6% as Oracle invoked force majeure on Project Jupiter \u2014 Bloom Energy is the fuel-cell power provider for the 2.45GW New Mexico Stargate campus and faces direct revenue risk from project delays",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "Investing.com",
-        "Bloomberg"
-      ]
-    },
-    {
-      "ticker": "IONQ",
-      "company": "IonQ Inc.",
-      "reason": "Stock jumped ~7% after demonstrating the industry's first end-to-end real-time quantum error correction decoder running on a standard CPU, tested on 408 logical qubits across 31.5M quantum operations",
-      "category": "news",
-      "sources": [
-        "Yahoo Finance",
-        "Benzinga",
-        "Motley Fool"
-      ]
-    },
-    {
-      "ticker": "CRWD",
-      "company": "CrowdStrike Holdings Inc.",
-      "reason": "Biggest S&P 500 winner of the day (+5%); Morgan Stanley raised PT to $254 Overweight and Stephens raised to $280 Overweight, both citing CRWD as a key beneficiary of rising AI-security spend",
-      "category": "upgrade",
-      "sources": [
-        "Trefis",
-        "StocksToTrade",
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "P",
-      "company": "Everpure Inc.",
-      "reason": "Shares surged ~18% midday after Sept 23 Financial Analyst Meeting where the data storage company issued optimistic preliminary 2028 guidance and long-term financial framework; Piper Sandler raised PT to $162",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "Motley Fool",
-        "Seeking Alpha"
-      ]
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft Corporation",
-      "reason": "Reports of Copilot discounts up to 50% for enterprise customers (30% for 1,000+ seats; 50% for 10,000+ seats) tied to an AI super-app launch in October integrating Copilot, AI coding, and agents into one platform",
-      "category": "news",
-      "sources": [
-        "The Information",
-        "AnalyticsIndiaMag",
-        "Newsquawk"
-      ]
-    },
-    {
-      "ticker": "CRWV",
-      "company": "CoreWeave Inc.",
-      "reason": "JPMorgan upgraded to Overweight from Neutral with $125 PT (from $120), citing favorable AI compute pricing backdrop; company pivoting to short-term premium contracts at ~3x long-term rates; stock +1.7% premarket",
-      "category": "upgrade",
-      "sources": [
-        "Investing.com",
-        "GF Focus",
         "Yahoo Finance"
       ]
     },
     {
-      "ticker": "DG",
-      "company": "Dollar General Corp.",
-      "reason": "HSBC upgraded to Buy from Hold, raised PT to $160 from $125 (~30% upside), citing turnaround \"moving from promise to delivery\"; Q2 comparable sales +3.5%; also announced Instacart same-day delivery partnership covering 7,000 stores",
-      "category": "upgrade",
-      "sources": [
-        "Investing.com",
-        "GF Focus",
-        "Seeking Alpha"
-      ]
-    },
-    {
-      "ticker": "VEEV",
-      "company": "Veeva Systems Inc.",
-      "reason": "Top S&P 500 performer after Q2 earnings beat (adj. EPS $2.35 vs $2.22 est.; revenue $928M vs $905M est.); AI Vault CRM winning major biopharma deals; Wells Fargo and Raymond James both set $330 price targets",
-      "category": "earnings",
-      "sources": [
-        "StocksToTrade",
-        "Simply Wall St",
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "NBIS",
-      "company": "Nebius Group N.V.",
-      "reason": "Bank of America raised 2026, 2027, and 2028 revenue estimates citing strong AI cloud infrastructure demand and favorable compute pricing; shares advanced more than 6%",
-      "category": "upgrade",
-      "sources": [
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "ETSY",
-      "company": "Etsy Inc.",
-      "reason": "Arete downgraded to Neutral from Buy with PT $81 (from $85), saying Etsy deserves to trade at a discount to eBay given slower platform growth and weakening e-commerce trends",
+      "ticker": "NKE",
+      "company": "Nike",
+      "reason": "BofA Securities downgraded to Underperform from Neutral and cut price target from $47 to $30; cited weak wholesale momentum, China sales challenges, and turnaround timeline pushed to FY2028",
       "category": "downgrade",
       "sources": [
+        "Benzinga",
+        "Investing.com",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "SNPS",
+      "company": "Synopsys",
+      "reason": "HSBC upgraded to Buy from Hold and raised price target to $700 from $490; analyst cited new business model positioning company as high-growth AI beneficiary",
+      "category": "upgrade",
+      "sources": [
+        "Benzinga",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "TWLO",
+      "company": "Twilio",
+      "reason": "Shares fell after analyst argued investors overestimated Twilio benefit from Meta's Muse AI agent launch; stock had rallied ~30% since Sept. 8 launch but analyst cited competition and stretched valuation",
+      "category": "downgrade",
+      "sources": [
+        "Investing.com",
         "Yahoo Finance",
+        "FinancialContent"
+      ]
+    },
+    {
+      "ticker": "CMCSA",
+      "company": "Comcast",
+      "reason": "Keybanc downgraded to Underweight from Sector Weight with a $18 price target; multiple analysts cut price targets on broadband competition concerns and slower subscriber trends",
+      "category": "downgrade",
+      "sources": [
+        "Benzinga",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "MMM",
+      "company": "3M",
+      "reason": "Bernstein upgraded to Market Perform from Underperform and raised price target from $145 to $171; analyst Varun Govindaraj turned less bearish on the industrial conglomerate",
+      "category": "upgrade",
+      "sources": [
+        "Benzinga",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "AMD",
+      "company": "Advanced Micro Devices",
+      "reason": "Seaport Research downgraded to Neutral from Buy; supply chain checks indicate slowing growth in AMD's AI accelerator business",
+      "category": "downgrade",
+      "sources": [
+        "Benzinga",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "reason": "MoffettNathanson upgraded to Neutral from Sell with a $225 price target; analyst moved off the sell rating as near-term concerns eased",
+      "category": "upgrade",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "reason": "Among most active stocks, rising 1.4% to $1,082.80 ahead of Q4 2026 earnings due Sept. 29 after close; estimated EPS of $31.15 and revenue near $50B",
+      "category": "earnings",
+      "sources": [
+        "StockMarketWatch",
+        "Kiplinger"
+      ]
+    },
+    {
+      "ticker": "GENI",
+      "company": "Genius Sports",
+      "reason": "Jumped 13% after JPMorgan initiated coverage with an Overweight rating; sports data and betting analytics company seen as beneficiary of expanding sports media rights",
+      "category": "upgrade",
+      "sources": [
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "SCHL",
+      "company": "Scholastic Corporation",
+      "reason": "Slid over 10% after reporting fiscal Q1 loss wider than expected; adjusted loss of $3.63 per share vs. $2.52 per share year-ago; revenue of $216.8M declined 4% year-over-year",
+      "category": "earnings",
+      "sources": [
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "ARCT",
+      "company": "Arcturus Therapeutics",
+      "reason": "Gained 6.92% amid biotech sector strength; sector at near-record highs with active FDA calendar and robust M&A activity in September 2026",
+      "category": "sector",
+      "sources": [
+        "Yahoo Finance",
+        "BioPharma Dive"
+      ]
+    },
+    {
+      "ticker": "FFBC",
+      "company": "First Financial Bancorp",
+      "reason": "Truist Securities upgraded to Buy from Hold and raised price target from $35 to $37; regional bank seen as attractively valued amid stabilizing rate environment",
+      "category": "upgrade",
+      "sources": [
         "Benzinga"
       ]
     }
