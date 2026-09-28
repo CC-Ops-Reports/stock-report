@@ -1,148 +1,161 @@
 {
-  "report_date": "2026-09-25",
-  "market_tone": "Mixed",
+  "report_date": "2026-09-28",
+  "market_tone": "Bearish",
   "key_themes": [
-    "AI infrastructure mega-deals (Akamai-Anthropic $11.6B cloud contract)",
-    "Treasury yield surge pressuring equity markets heading into Q4",
-    "Oil prices drop on Iran diplomatic hopes; geopolitical easing"
+    "Rising Treasury yields (10-year at 5.24%, 19-year high) pressuring equities",
+    "Oil spike on U.S.-Iran tensions after Trump rejected Strait of Hormuz reopening deal",
+    "AI tech dominates headlines: Nvidia buyback, AMD acquires World Labs, MongoDB CEO exits to Meta"
   ],
   "sp500": {
-    "value": "7,743.41",
-    "change": "+0.51%"
+    "value": "7,683.69",
+    "change": "-0.8%"
   },
   "nasdaq": {
-    "value": "27,068.72",
-    "change": "+0.50%"
+    "value": "26,820.38",
+    "change": "-0.9%"
   },
   "stocks": [
     {
-      "ticker": "AKAM",
-      "company": "Akamai Technologies",
-      "reason": "Surged 21%+ after announcing a 7-year, $11.6B cloud services commitment from Anthropic; deal includes option to expand by additional $9B and a warrant for Anthropic to buy ~5% of shares at $111.33",
+      "ticker": "KOD",
+      "company": "Kodiak Sciences",
+      "reason": "Shares surged ~156% after Phase 3 DAYBREAK trial of Zenkuda (tarcocimab tedromer) met all primary endpoints in wet age-related macular degeneration; 54% of patients achieved 6-month durability at year one",
+      "category": "news",
+      "sources": [
+        "GurúFocus",
+        "BioSpace",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "MDB",
+      "company": "MongoDB",
+      "reason": "Stock fell ~18% after CEO CJ Desai announced departure to join Meta as Chief Enterprise Platform Officer; Dev Ittycheria named interim president and CEO",
       "category": "news",
       "sources": [
         "CNBC",
-        "Bloomberg",
-        "Yahoo Finance"
+        "Motley Fool",
+        "StocksToTrade"
       ]
     },
     {
-      "ticker": "NKE",
-      "company": "Nike",
-      "reason": "BofA Securities downgraded to Underperform from Neutral and cut price target from $47 to $30; cited weak wholesale momentum, China sales challenges, and turnaround timeline pushed to FY2028",
-      "category": "downgrade",
+      "ticker": "BA",
+      "company": "Boeing",
+      "reason": "Shares dropped ~7% after FAA said it will not certify the 737 Max 10 until it assesses a newly discovered software glitch",
+      "category": "news",
       "sources": [
-        "Benzinga",
-        "Investing.com",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "SNPS",
-      "company": "Synopsys",
-      "reason": "HSBC upgraded to Buy from Hold and raised price target to $700 from $490; analyst cited new business model positioning company as high-growth AI beneficiary",
-      "category": "upgrade",
-      "sources": [
-        "Benzinga",
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "TWLO",
-      "company": "Twilio",
-      "reason": "Shares fell after analyst argued investors overestimated Twilio benefit from Meta's Muse AI agent launch; stock had rallied ~30% since Sept. 8 launch but analyst cited competition and stretched valuation",
-      "category": "downgrade",
-      "sources": [
-        "Investing.com",
-        "Yahoo Finance",
-        "FinancialContent"
-      ]
-    },
-    {
-      "ticker": "CMCSA",
-      "company": "Comcast",
-      "reason": "Keybanc downgraded to Underweight from Sector Weight with a $18 price target; multiple analysts cut price targets on broadband competition concerns and slower subscriber trends",
-      "category": "downgrade",
-      "sources": [
-        "Benzinga",
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "MMM",
-      "company": "3M",
-      "reason": "Bernstein upgraded to Market Perform from Underperform and raised price target from $145 to $171; analyst Varun Govindaraj turned less bearish on the industrial conglomerate",
-      "category": "upgrade",
-      "sources": [
-        "Benzinga",
-        "CNBC"
+        "CNBC",
+        "GurúFocus"
       ]
     },
     {
       "ticker": "AMD",
       "company": "Advanced Micro Devices",
-      "reason": "Seaport Research downgraded to Neutral from Buy; supply chain checks indicate slowing growth in AMD's AI accelerator business",
-      "category": "downgrade",
+      "reason": "Stock fell ~4% after announcing $8.2B all-stock acquisition of World Labs, an AI spatial-intelligence research firm co-founded by Fei-Fei Li; market concerned about valuation",
+      "category": "news",
       "sources": [
-        "Benzinga",
+        "TipRanks",
+        "GurúFocus",
+        "Benzinga"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "reason": "Outperformed market, rising ~1%, after announcing a new $150B share buyback authorization and unveiling a software platform for AI developers to set agent safeguards",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "CurrentLogic"
+      ]
+    },
+    {
+      "ticker": "BE",
+      "company": "Bloom Energy",
+      "reason": "Shares fell ~8% on a September 28 lead-plaintiff deadline in federal securities litigation over alleged misleading disclosures on Chinese scandium oxide supply reliance; Oracle also invoked force majeure on Project Jupiter",
+      "category": "news",
+      "sources": [
+        "TradingKey",
         "CNBC"
       ]
     },
     {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "reason": "MoffettNathanson upgraded to Neutral from Sell with a $225 price target; analyst moved off the sell rating as near-term concerns eased",
-      "category": "upgrade",
+      "ticker": "RBLX",
+      "company": "Roblox",
+      "reason": "Jefferies downgraded to Underperform from Hold with $38 price target (18% downside) citing slower-than-expected monetization growth in U.S. and Canadian markets",
+      "category": "downgrade",
       "sources": [
         "CNBC",
+        "DailyTradeAlert"
+      ]
+    },
+    {
+      "ticker": "AESI",
+      "company": "Atlas Energy Solutions",
+      "reason": "Led non-S&P market gainers with a +13.5% surge, benefiting from oil price spike driven by U.S.-Iran geopolitical tensions pushing crude toward $95/bbl",
+      "category": "sector",
+      "sources": [
+        "Trefis",
+        "TheStreet"
+      ]
+    },
+    {
+      "ticker": "MCHP",
+      "company": "Microchip Technology",
+      "reason": "Rose ~5.4% to lead S&P 500 tech gainers as AI semiconductor demand drove buying interest; outperformed broader market selloff",
+      "category": "sector",
+      "sources": [
+        "Trefis",
         "Yahoo Finance"
       ]
     },
     {
-      "ticker": "MU",
-      "company": "Micron Technology",
-      "reason": "Among most active stocks, rising 1.4% to $1,082.80 ahead of Q4 2026 earnings due Sept. 29 after close; estimated EPS of $31.15 and revenue near $50B",
-      "category": "earnings",
+      "ticker": "GEN",
+      "company": "Gen Digital",
+      "reason": "S&P 500's weakest performer, falling ~6.3% on no specific catalyst, likely reflecting broad risk-off rotation out of cybersecurity names amid rising yields",
+      "category": "news",
       "sources": [
-        "StockMarketWatch",
-        "Kiplinger"
+        "Trefis",
+        "Yahoo Finance"
       ]
     },
     {
-      "ticker": "GENI",
-      "company": "Genius Sports",
-      "reason": "Jumped 13% after JPMorgan initiated coverage with an Overweight rating; sports data and betting analytics company seen as beneficiary of expanding sports media rights",
+      "ticker": "FSLR",
+      "company": "First Solar",
+      "reason": "KeyBanc upgraded to Sector Weight from Underweight, joining a wave of clean-energy analyst actions following improved domestic manufacturing outlook",
       "category": "upgrade",
       "sources": [
-        "CNBC"
+        "CNBC",
+        "DailyTradeAlert"
       ]
     },
     {
-      "ticker": "SCHL",
-      "company": "Scholastic Corporation",
-      "reason": "Slid over 10% after reporting fiscal Q1 loss wider than expected; adjusted loss of $3.63 per share vs. $2.52 per share year-ago; revenue of $216.8M declined 4% year-over-year",
-      "category": "earnings",
-      "sources": [
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "ARCT",
-      "company": "Arcturus Therapeutics",
-      "reason": "Gained 6.92% amid biotech sector strength; sector at near-record highs with active FDA calendar and robust M&A activity in September 2026",
-      "category": "sector",
+      "ticker": "PEP",
+      "company": "PepsiCo",
+      "reason": "Deutsche Bank downgraded to Hold from Buy and cut price target to $138 from $155, citing softening consumer spending trends and ongoing volume pressures in North America",
+      "category": "downgrade",
       "sources": [
         "Yahoo Finance",
-        "BioPharma Dive"
+        "CNBC"
       ]
     },
     {
-      "ticker": "FFBC",
-      "company": "First Financial Bancorp",
-      "reason": "Truist Securities upgraded to Buy from Hold and raised price target from $35 to $37; regional bank seen as attractively valued amid stabilizing rate environment",
+      "ticker": "APLD",
+      "company": "Applied Digital",
+      "reason": "Jones Trading initiated with Buy rating and $70 price target, citing strong AI data center pipeline and improving capital structure",
       "category": "upgrade",
       "sources": [
-        "Benzinga"
+        "Yahoo Finance",
+        "DailyTradeAlert"
+      ]
+    },
+    {
+      "ticker": "XOM",
+      "company": "Exxon Mobil",
+      "reason": "Rose ~1.4% in early trading as Brent crude surged above $107 after Trump rejected Iran's proposal to reopen the Strait of Hormuz, stoking supply disruption fears",
+      "category": "sector",
+      "sources": [
+        "CurrentLogic",
+        "NBC News"
       ]
     }
   ]
