@@ -1,137 +1,166 @@
 {
-  "report_date": "2026-09-29",
-  "market_tone": "Bearish",
+  "report_date": "2026-09-30",
+  "market_tone": "Mixed",
   "key_themes": [
-    "Consumer confidence collapsed to 12-year low (81.9 in September, worst since 2014), stoking inflation and rate-hike fears",
-    "FICO credit-score monopoly disrupted: Fannie/Freddie open mortgage pricing to VantageScore rival, crushing FICO shares 26%",
-    "AI M&A wave intensifies: AMD acquires Fei-Fei Li's World Labs for $8.2B in all-stock deal to challenge Nvidia in physical AI"
+    "PCE inflation below expectations eases Fed rate hike fears heading into Q4",
+    "Defense sector surge: Boeing wins $20B Navy F/A-XX sixth-gen fighter contract",
+    "Biotech/pharma volatility: landmark patent ruling sends UTHR up 15%, LQDA down 25%; IOVA soars 31% on guidance raise"
   ],
   "sp500": {
-    "value": "7,668.42",
-    "change": "-0.20%"
+    "value": "7,651.54",
+    "change": "-0.25%"
   },
   "nasdaq": {
-    "value": "24,190.00",
-    "change": "-0.40%"
+    "value": "26,861.06",
+    "change": "+0.24%"
   },
   "stocks": [
     {
       "ticker": "FICO",
       "company": "Fair Isaac Corporation",
-      "reason": "Shares plunged ~26% after FHFA head Bill Pulte announced Fannie/Freddie will adopt unified mortgage pricing model incorporating VantageScore 4.0 (TransUnion), ending FICO mortgage credit-score dominance",
+      "reason": "Shares crashed ~26% after FHFA announced VantageScore 4.0 and Classic FICO will share the same mortgage loan-level pricing adjustment grid, breaking FICO's effective monopoly on mortgage scoring; BofA downgraded to Neutral cutting PT to $700 from $1,400; Rocket Mortgage said VantageScore will become its preferred model in Q4",
       "category": "news",
       "sources": [
         "CNBC",
-        "Yahoo Finance",
-        "Schaeffer's Investment Research",
-        "24/7 Wall St."
+        "Bloomberg",
+        "Forbes",
+        "Yahoo Finance"
       ]
     },
     {
       "ticker": "IOVA",
       "company": "Iovance Biotherapeutics",
-      "reason": "Shares surged 30%+ after raising 2026 revenue guidance to $410M-$420M (from $350M-$370M), beating $402.8M consensus, on accelerating Amtagvi demand; Goldman Sachs resumed Buy at $15",
+      "reason": "Shares surged ~31.5% after raising 2026 full-year revenue guidance to $410-$420M from $350-$370M on strong commercial demand for Amtagvi (lifileucel); H.C. Wainwright raised PT to $20 from $9; stock hit new 52-week high",
       "category": "news",
       "sources": [
-        "GuruFocus",
+        "Benzinga",
         "Yahoo Finance",
-        "Quiver Quantitative"
+        "Barclays",
+        "Goldman Sachs"
+      ]
+    },
+    {
+      "ticker": "LQDA",
+      "company": "Liquidia Corporation",
+      "reason": "Shares plunged ~25% after U.S. District Court in Delaware ruled Liquidia infringed on a United Therapeutics patent covering its pulmonary arterial hypertension drug",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Reuters"
+      ]
+    },
+    {
+      "ticker": "UTHR",
+      "company": "United Therapeutics",
+      "reason": "Shares surged ~15% after winning the Delaware patent infringement case against Liquidia, protecting its pulmonary arterial hypertension drug franchise",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Reuters"
       ]
     },
     {
       "ticker": "CCL",
       "company": "Carnival Corporation",
-      "reason": "Shares surged ~11% on record Q3 results: non-GAAP EPS $1.43 vs $1.35 est, revenue $8.44B vs $8.39B est; all-time high net income $1.9B; raised FY2026 EPS guidance to $2.24; 2027 bookings at record levels",
+      "reason": "Shares jumped ~13.4% after Q3 FY2026 earnings beat \u2014 adjusted EPS of $1.43 vs $1.36 consensus; cruise demand remains robust heading into holiday booking season",
       "category": "earnings",
       "sources": [
-        "MarketBeat",
-        "GuruFocus",
+        "Yahoo Finance",
+        "Zacks",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "BA",
+      "company": "Boeing",
+      "reason": "U.S. Navy awarded Boeing a $20B+ contract to develop the sixth-generation F/A-XX strike fighter, replacing the F/A-18 Super Hornet fleet; Boeing now holds both U.S. sixth-gen fighter programs (F-47 Air Force + F/A-XX Navy)",
+      "category": "news",
+      "sources": [
+        "Defense Post",
+        "Washington Times",
+        "GuruFocus"
+      ]
+    },
+    {
+      "ticker": "NOC",
+      "company": "Northrop Grumman",
+      "reason": "Shares fell ~3.5% premarket after losing the Navy F/A-XX sixth-generation fighter jet competition to Boeing",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Defense Post"
+      ]
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "reason": "Reported Q4 FY2026 after the close: EPS $33.42 vs $31.61 expected; revenue $54.23B vs $51.07B expected; Q1 FY2027 guidance above consensus ($38.15 EPS vs $35.40 est, revenue ~$61.5B vs $57B est); stock modestly lower after hours on gross margin guidance of 86.25% vs prior Q's 87.0%",
+      "category": "earnings",
+      "sources": [
+        "Bloomberg",
+        "TheStreet",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "MRNA",
+      "company": "Moderna",
+      "reason": "Shares fell ~7% after Citi downgraded to Sell from Neutral with $80 PT (implying ~60% downside); analysts say valuation unsustainable after 222% rally since INTerpath-001 trial results",
+      "category": "downgrade",
+      "sources": [
+        "CNBC",
         "Yahoo Finance"
       ]
     },
     {
-      "ticker": "BE",
-      "company": "Bloom Energy",
-      "reason": "Shares rose ~12% on Jefferies PT raise to $264 from $229 citing $25B Brookfield financing deal and 2GW capacity target, plus sustained AI data-center power demand following S&P 500 inclusion on Sept 21",
-      "category": "upgrade",
+      "ticker": "ROG",
+      "company": "Rogers Corporation",
+      "reason": "Shares surged ~10% after raising full-year EPS guidance to ~$3.80 (ex-items) vs FactSet consensus of $3.65, driven by stronger-than-expected advanced electronics segment",
+      "category": "earnings",
       "sources": [
-        "Benzinga",
-        "MarketBeat",
-        "StocksToTrade"
+        "CNBC",
+        "Benzinga"
       ]
     },
     {
-      "ticker": "AMD",
-      "company": "Advanced Micro Devices",
-      "reason": "In focus after announcing $8.2B all-stock acquisition of World Labs (Fei-Fei Li AI startup); Li joins as Chief Scientist and EVP; escalates AMD rivalry with Nvidia in physical AI and robotics simulation",
-      "category": "news",
+      "ticker": "FORM",
+      "company": "FormFactor",
+      "reason": "Shares rose ~8% after Deutsche Bank initiated coverage with a Buy rating and $200 price target on the semiconductor test equipment maker, citing HBM/advanced packaging testing tailwinds",
+      "category": "upgrade",
       "sources": [
-        "Bloomberg",
         "CNBC",
-        "TechCrunch",
-        "Reuters"
+        "247WallSt"
       ]
     },
     {
       "ticker": "KMX",
       "company": "CarMax",
-      "reason": "Q2 earnings beat: EPS $1.16 vs $0.73 est (+59% beat); revenue $7.88B vs $7.06B est; retail/wholesale unit sales up 14.7% YoY; company plans to resume buybacks in Q4 FY2026",
+      "reason": "Shares climbed ~4.7% after Q2 FY2027 adjusted EPS of $1.16 significantly beat the $0.68 consensus; used vehicle demand and financing margins both exceeded expectations",
       "category": "earnings",
       "sources": [
-        "Benzinga",
-        "GuruFocus",
-        "MarketBeat"
+        "Yahoo Finance",
+        "Zacks"
       ]
     },
     {
-      "ticker": "SPCX",
-      "company": "SpaceX",
-      "reason": "Shares active after TD Cowen initiated coverage with Buy rating; Starship successfully reached orbit deploying 26 Starlink satellites and performed controlled landing burn in Pacific Ocean",
+      "ticker": "TGT",
+      "company": "Target Corporation",
+      "reason": "HSBC upgraded to Buy from Hold, raising price target to $190 from $125, seeing improved risk/reward as consumer discretionary stabilizes heading into holiday season",
       "category": "upgrade",
       "sources": [
-        "CNBC"
+        "Yahoo Finance",
+        "CNBC",
+        "247WallSt"
       ]
     },
     {
-      "ticker": "NFLX",
-      "company": "Netflix",
-      "reason": "Upgraded to Buy from Hold at Deutsche Bank with $95 price target; stock down 22% YTD after WBD deal collapse, Deutsche Bank sees current valuation as buying opportunity",
-      "category": "upgrade",
+      "ticker": "HOOD",
+      "company": "Robinhood Markets",
+      "reason": "Shares rose ~2% premarket after announcing an in-app AI trading agent plus upcoming launch of 24/7 stock trading and perpetual futures for U.S. users",
+      "category": "news",
       "sources": [
-        "Benzinga",
-        "Newsquawk",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "WBD",
-      "company": "Warner Bros. Discovery",
-      "reason": "Downgraded to Sell by Argus; Paramount Skydance acquisition at $31/share now imminent following antitrust clearance, with spread effectively closed leaving minimal upside from current price",
-      "category": "downgrade",
-      "sources": [
-        "GuruFocus",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "PEP",
-      "company": "PepsiCo",
-      "reason": "Downgraded by J.P. Morgan from Overweight to Neutral; price target cut 19% to $138; North America salty snacks (Frito-Lay) underperforming despite international FIFA World Cup momentum",
-      "category": "downgrade",
-      "sources": [
-        "Newsquawk",
-        "GuruFocus",
-        "24/7 Wall St."
-      ]
-    },
-    {
-      "ticker": "KR",
-      "company": "Kroger",
-      "reason": "Upgraded to Buy from Hold at Melius Research with $80 price target; analyst sees improving competitive positioning and valuation upside in grocery as consumers trade down amid inflation",
-      "category": "upgrade",
-      "sources": [
-        "24/7 Wall St.",
-        "Yahoo Finance"
+        "CNBC",
+        "Bloomberg"
       ]
     }
   ]
