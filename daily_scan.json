@@ -1,166 +1,174 @@
 {
-  "report_date": "2026-09-30",
+  "report_date": "2026-10-01",
   "market_tone": "Mixed",
   "key_themes": [
-    "PCE inflation below expectations eases Fed rate hike fears heading into Q4",
-    "Defense sector surge: Boeing wins $20B Navy F/A-XX sixth-gen fighter contract",
-    "Biotech/pharma volatility: landmark patent ruling sends UTHR up 15%, LQDA down 25%; IOVA soars 31% on guidance raise"
+    "10-year Treasury yield near 24-year highs (~5.24-5.34%) pressuring equities",
+    "Q4 earnings season opens with ACN beat lifting consulting/IT services sector",
+    "AI momentum continues: Alphabet Gemini 4 Argon launch, Synopsys-AWS/OpenAI deals, Micron blowout memory results"
   ],
   "sp500": {
-    "value": "7,651.54",
-    "change": "-0.25%"
+    "value": "7,666.45",
+    "change": "+0.19%"
   },
   "nasdaq": {
-    "value": "26,861.06",
-    "change": "+0.24%"
+    "value": "26,871.60",
+    "change": "+0.04%"
   },
   "stocks": [
     {
-      "ticker": "FICO",
-      "company": "Fair Isaac Corporation",
-      "reason": "Shares crashed ~26% after FHFA announced VantageScore 4.0 and Classic FICO will share the same mortgage loan-level pricing adjustment grid, breaking FICO's effective monopoly on mortgage scoring; BofA downgraded to Neutral cutting PT to $700 from $1,400; Rocket Mortgage said VantageScore will become its preferred model in Q4",
-      "category": "news",
+      "ticker": "ACN",
+      "company": "Accenture",
+      "reason": "Surged ~21% after crushing fiscal Q4 earnings: EPS beat + strong FY2027 revenue outlook raised guidance",
+      "category": "earnings",
       "sources": [
         "CNBC",
-        "Bloomberg",
-        "Forbes",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "IOVA",
-      "company": "Iovance Biotherapeutics",
-      "reason": "Shares surged ~31.5% after raising 2026 full-year revenue guidance to $410-$420M from $350-$370M on strong commercial demand for Amtagvi (lifileucel); H.C. Wainwright raised PT to $20 from $9; stock hit new 52-week high",
-      "category": "news",
-      "sources": [
-        "Benzinga",
         "Yahoo Finance",
-        "Barclays",
-        "Goldman Sachs"
+        "TheStreet"
       ]
     },
     {
-      "ticker": "LQDA",
-      "company": "Liquidia Corporation",
-      "reason": "Shares plunged ~25% after U.S. District Court in Delaware ruled Liquidia infringed on a United Therapeutics patent covering its pulmonary arterial hypertension drug",
+      "ticker": "SNPS",
+      "company": "Synopsys",
+      "reason": "Jumped ~12% at Investor Day: announced $1B+ multiyear AWS deal and strategic partnership with OpenAI",
       "category": "news",
       "sources": [
         "CNBC",
-        "Reuters"
+        "Seeking Alpha"
       ]
     },
     {
       "ticker": "UTHR",
       "company": "United Therapeutics",
-      "reason": "Shares surged ~15% after winning the Delaware patent infringement case against Liquidia, protecting its pulmonary arterial hypertension drug franchise",
+      "reason": "Surged ~13% after federal court ruled Liquidia infringed patents on pulmonary hypertension drug Yutrepia; BTIG upgraded to Buy ($728 target)",
+      "category": "news",
+      "sources": [
+        "247 Wall St.",
+        "Benzinga",
+        "Investing.com"
+      ]
+    },
+    {
+      "ticker": "LQDA",
+      "company": "Liquidia",
+      "reason": "Collapsed 50%+ after losing patent infringement ruling to United Therapeutics on inhaled treprostinil lung treatment",
+      "category": "news",
+      "sources": [
+        "247 Wall St.",
+        "Benzinga"
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet",
+      "reason": "Gained ~2% after unveiling Gemini 4 Argon, its most advanced AI model with frontier coding, cybersecurity, and enterprise benchmarks",
       "category": "news",
       "sources": [
         "CNBC",
-        "Reuters"
-      ]
-    },
-    {
-      "ticker": "CCL",
-      "company": "Carnival Corporation",
-      "reason": "Shares jumped ~13.4% after Q3 FY2026 earnings beat \u2014 adjusted EPS of $1.43 vs $1.36 consensus; cruise demand remains robust heading into holiday booking season",
-      "category": "earnings",
-      "sources": [
-        "Yahoo Finance",
-        "Zacks",
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "BA",
-      "company": "Boeing",
-      "reason": "U.S. Navy awarded Boeing a $20B+ contract to develop the sixth-generation F/A-XX strike fighter, replacing the F/A-18 Super Hornet fleet; Boeing now holds both U.S. sixth-gen fighter programs (F-47 Air Force + F/A-XX Navy)",
-      "category": "news",
-      "sources": [
-        "Defense Post",
-        "Washington Times",
-        "GuruFocus"
-      ]
-    },
-    {
-      "ticker": "NOC",
-      "company": "Northrop Grumman",
-      "reason": "Shares fell ~3.5% premarket after losing the Navy F/A-XX sixth-generation fighter jet competition to Boeing",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "Defense Post"
+        "GuruFocus",
+        "The Hacker News"
       ]
     },
     {
       "ticker": "MU",
       "company": "Micron Technology",
-      "reason": "Reported Q4 FY2026 after the close: EPS $33.42 vs $31.61 expected; revenue $54.23B vs $51.07B expected; Q1 FY2027 guidance above consensus ($38.15 EPS vs $35.40 est, revenue ~$61.5B vs $57B est); stock modestly lower after hours on gross margin guidance of 86.25% vs prior Q's 87.0%",
+      "reason": "Q4 FY2026 earnings beat: revenue $54.23B vs $50.45B expected (+379% YoY), EPS $33.42 vs $31.16; Q1 2027 guidance of $61.5B; sixth straight quarterly record driven by HBM/AI demand",
       "category": "earnings",
       "sources": [
-        "Bloomberg",
-        "TheStreet",
-        "CNBC"
+        "CNBC",
+        "Investing.com",
+        "TheStreet"
+      ]
+    },
+    {
+      "ticker": "NKE",
+      "company": "Nike",
+      "reason": "Fell ~6% after hours on Q1 FY2027 miss: revenue $11.21B vs $11.33B expected, China EBIT missed, announced Pace restructuring with $2.5B savings and high-single-digit FY27 revenue decline forecast",
+      "category": "earnings",
+      "sources": [
+        "Yahoo Finance",
+        "TipRanks"
       ]
     },
     {
       "ticker": "MRNA",
       "company": "Moderna",
-      "reason": "Shares fell ~7% after Citi downgraded to Sell from Neutral with $80 PT (implying ~60% downside); analysts say valuation unsustainable after 222% rally since INTerpath-001 trial results",
+      "reason": "Fell ~6% after Citi downgraded to Sell from Neutral; stock had rallied 222% since INTerpath-001 cancer vaccine trial results; Citi says oncology optimism fully priced in at ~$80B market cap",
       "category": "downgrade",
+      "sources": [
+        "Yahoo Finance",
+        "Investing.com",
+        "TipRanks"
+      ]
+    },
+    {
+      "ticker": "CTSH",
+      "company": "Cognizant Technology Solutions",
+      "reason": "Climbed ~11% in sympathy with Accenture's Q4 beat; IT services sector broadly lifted by ACN's strong FY2027 guidance",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "Seeking Alpha"
+      ]
+    },
+    {
+      "ticker": "VICR",
+      "company": "Vicor",
+      "reason": "Jumped ~12% after raising Q3 2026 revenue guidance above consensus, signaling strong data center power-delivery demand",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Seeking Alpha"
+      ]
+    },
+    {
+      "ticker": "MKC",
+      "company": "McCormick",
+      "reason": "Rose ~5% on Q3 earnings beat: EPS $0.86 vs $0.76 expected, revenue $2.02B vs $1.98B consensus; solid consumer and flavor-solutions demand",
+      "category": "earnings",
       "sources": [
         "CNBC",
         "Yahoo Finance"
       ]
     },
     {
-      "ticker": "ROG",
-      "company": "Rogers Corporation",
-      "reason": "Shares surged ~10% after raising full-year EPS guidance to ~$3.80 (ex-items) vs FactSet consensus of $3.65, driven by stronger-than-expected advanced electronics segment",
-      "category": "earnings",
+      "ticker": "RKLB",
+      "company": "Rocket Lab",
+      "reason": "Rose ~4.5% after signing largest-ever Electron commercial launch contract (20 missions); Citi initiated with Buy rating and $105 price target",
+      "category": "news",
       "sources": [
         "CNBC",
-        "Benzinga"
+        "247 Wall St."
       ]
     },
     {
-      "ticker": "FORM",
-      "company": "FormFactor",
-      "reason": "Shares rose ~8% after Deutsche Bank initiated coverage with a Buy rating and $200 price target on the semiconductor test equipment maker, citing HBM/advanced packaging testing tailwinds",
+      "ticker": "OXY",
+      "company": "Occidental Petroleum",
+      "reason": "Goldman Sachs upgraded to Buy from Neutral, raising price target to $69; energy sector remains top S&P 500 sector YTD (+37.6%) amid elevated oil prices",
       "category": "upgrade",
       "sources": [
-        "CNBC",
-        "247WallSt"
-      ]
-    },
-    {
-      "ticker": "KMX",
-      "company": "CarMax",
-      "reason": "Shares climbed ~4.7% after Q2 FY2027 adjusted EPS of $1.16 significantly beat the $0.68 consensus; used vehicle demand and financing margins both exceeded expectations",
-      "category": "earnings",
-      "sources": [
-        "Yahoo Finance",
-        "Zacks"
+        "247 Wall St.",
+        "Daily Trade Alert"
       ]
     },
     {
       "ticker": "TGT",
-      "company": "Target Corporation",
-      "reason": "HSBC upgraded to Buy from Hold, raising price target to $190 from $125, seeing improved risk/reward as consumer discretionary stabilizes heading into holiday season",
+      "company": "Target",
+      "reason": "HSBC upgraded to Buy from Hold with $190 target (from $125), citing strong evidence that traffic-driven recovery is underway and the turnaround is working",
       "category": "upgrade",
       "sources": [
         "Yahoo Finance",
-        "CNBC",
-        "247WallSt"
+        "Daily Trade Alert"
       ]
     },
     {
-      "ticker": "HOOD",
-      "company": "Robinhood Markets",
-      "reason": "Shares rose ~2% premarket after announcing an in-app AI trading agent plus upcoming launch of 24/7 stock trading and perpetual futures for U.S. users",
+      "ticker": "FICO",
+      "company": "Fair Isaac (FICO)",
+      "reason": "Rallied ~8% after FHFA Director Bill Pulte voiced support for FICO's new cost-cutting program; BofA downgraded to Neutral (from Buy) with $700 target following FHFA VantageScore pricing news",
       "category": "news",
       "sources": [
         "CNBC",
-        "Bloomberg"
+        "Seeking Alpha",
+        "Daily Trade Alert"
       ]
     }
   ]
