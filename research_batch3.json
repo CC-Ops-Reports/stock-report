@@ -1,29 +1,121 @@
 {
-  "report_date": "2026-09-29",
+  "report_date": "2026-10-01",
   "batch": 3,
   "stocks": [
     {
-      "ticker": "KR",
-      "company": "The Kroger Co.",
-      "discussion_driver": "Melius Research upgraded Kroger from Hold to Buy with an $80 price target (raised from $75), citing expectations for accelerating earnings growth, improving competitive positioning in grocery, and a compelling valuation discount. The upgrade arrives as today's consumer confidence collapse to a 12-year low (81.9) reinforces the consumer trade-down thesis: inflation-squeezed households shift spending away from restaurants and premium retailers toward value-focused grocery chains. Kroger's digital momentum — including its AI Shopping Assistant and 50%+ of digital growth from under-one-hour convenience orders — underpins the bull case for margin improvement.",
+      "ticker": "MKC",
+      "company": "McCormick & Company, Inc.",
+      "discussion_driver": "McCormick reported Q3 FY2026 earnings on October 1 that beat expectations on both revenue ($2.02B vs $1.98B estimate) and EPS ($0.86 vs $0.76), lifting shares ~5% and reversing a months-long slide toward 52-week lows. Solid consumer spice demand and flavor-solutions strength drove the beat, providing a positive read-through for food-sector earnings season.",
       "bull_case": [
-        "Consumer trade-down driven by inflation and falling confidence funnels grocery traffic to value-oriented chains like Kroger; SNAP usage and private-label adoption rise as lower-income shoppers stretch budgets, boosting volumes and margins on Kroger's own brands.",
-        "Digital and e-commerce acceleration via AI-powered shopping tools, expanded delivery, and retail media growth adds higher-margin revenue streams; new CEO Greg Foran (ex-Walmart) brings operational discipline that could improve cost efficiency and price competitiveness."
+        "Q3 EPS and revenue beat ends a prolonged selling period; analyst Moderate Buy consensus with ~22% upside to average price targets",
+        "Stock trades near historically low valuation levels (8.3x trailing P/E) and close to multi-year lows, setting a potentially favorable risk/reward entry"
       ],
       "bear_case": [
-        "Kroger slashed its 2026 identical-sales guidance to 0.2%–0.8% from an initial 1%–2%, reflecting ongoing competitive pressure from Walmart and Costco; squeezed pricing power and a DOJ refrigerant settlement ($100M investment required) add cost headwinds.",
-        "Reduced SNAP benefits and softer consumer confidence dampen demand from lower-income shoppers; online grocery remains margin-dilutive and could weigh on overall profitability as digital mix increases."
+        "Stock has declined ~31% from its 52-week high, reflecting structural pressure from consumer trade-down to private-label spices and persistent margin compression",
+        "10-year Treasury yield near 5.3% compresses consumer-staples multiples and diminishes appeal of dividend-growth names like McCormick"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$49.86",
+      "price_target": "$60.62 (+21.6%)",
+      "pe_ratio": "8.30",
+      "rsi": "N/A",
+      "vs_52wk_high": "-31.1% below high ($72.41)",
+      "analyst_rating": "Moderate Buy",
+      "sector": "Consumer Staples - Spices & Seasonings",
+      "sources": ["CNBC", "Yahoo Finance", "StockAnalysis", "247 Wall St.", "ChartMill", "Dividendchannel.com"],
+      "price_history_5d": [47.94, 47.50, 48.40, 46.85, 49.86]
+    },
+    {
+      "ticker": "RKLB",
+      "company": "Rocket Lab Corporation",
+      "discussion_driver": "Rocket Lab announced its largest-ever Electron commercial launch contract (20 missions), demonstrating growing demand for dedicated small-satellite launch services. Simultaneously, Citi initiated coverage with a Buy rating and $105 price target, citing Rocket Lab's vertically integrated launch-plus-spacecraft model as a durable differentiator in the commercial space market.",
+      "bull_case": [
+        "Record 20-mission Electron contract adds significant revenue visibility; Citi's $105 Buy target implies ~49% upside, and average analyst consensus target stands at $109",
+        "Expansion into spacecraft manufacturing and the Neutron heavy-lift rocket diversifies beyond small-launch, addressing a TAM well above $10B as government and commercial satellite launches accelerate"
+      ],
+      "bear_case": [
+        "Company is pre-profitable with a forward P/E of 3,847x, requiring flawless execution and sustained commercial momentum to justify the valuation; any launch failure could immediately erode client confidence",
+        "Stock is down ~53% from its May 2026 52-week high, reflecting high-beta volatility inherent to speculative aerospace names; retail-driven sentiment swings can amplify drawdowns"
+      ],
+      "recommendation": "Speculative Buy",
+      "current_price": "$70.73",
+      "price_target": "$109.37 (+54.6%)",
+      "pe_ratio": "N/A",
+      "rsi": "52.91",
+      "vs_52wk_high": "-53.2% below high ($151.00)",
+      "analyst_rating": "Buy",
+      "sector": "Aerospace & Defense - Commercial Space Launch",
+      "sources": ["CNBC", "247 Wall St.", "StockAnalysis", "MarketBeat", "Yahoo Finance", "Trefis"],
+      "price_history_5d": [72.00, 71.50, 70.00, 69.68, 70.73]
+    },
+    {
+      "ticker": "OXY",
+      "company": "Occidental Petroleum Corporation",
+      "discussion_driver": "Goldman Sachs upgraded Occidental to Buy from Neutral and raised its price target to $69 as the energy sector leads all S&P 500 sectors year-to-date (+37.6%). OXY's RSI had fallen near 37 — approaching oversold territory — after a pullback from its 52-week high, while Berkshire Hathaway's strategic 28%+ stake continues to underpin investor confidence.",
+      "bull_case": [
+        "Goldman Sachs Buy upgrade and $69 target signal renewed institutional conviction; energy sector's YTD leadership and elevated oil prices support OXY's cash flow outlook",
+        "RSI near oversold territory (37.35) and ~14% pullback from 52-week high create a favorable technical entry; Berkshire's large ownership stake acts as a strategic floor"
+      ],
+      "bear_case": [
+        "OXY carries ~$18B in net debt from the 2019 Anadarko acquisition, creating cash-flow sensitivity to any sustained oil price decline or demand disruption",
+        "Pre-Goldman consensus was Hold across most coverage; if oil prices retreat from elevated levels, the stock's 17x P/E looks stretched versus energy sector peers"
       ],
       "recommendation": "Buy",
-      "current_price": "$59.51",
-      "price_target": "$70.27 (+18.1%)",
-      "pe_ratio": "33.87",
-      "rsi": "N/A",
-      "vs_52wk_high": "-22.3% below high ($76.58)",
-      "analyst_rating": "Buy",
-      "sector": "Consumer Staples - Grocery Retail",
-      "sources": ["Melius Research", "TipRanks", "GuruFocus", "Yahoo Finance", "24/7 Wall St.", "StockAnalysis.com"],
-      "price_history_5d": [58.56, 58.74, 59.51]
+      "current_price": "$57.84",
+      "price_target": "$68.00 (+17.6%)",
+      "pe_ratio": "17.00",
+      "rsi": "37.35",
+      "vs_52wk_high": "-14.3% below high ($67.45)",
+      "analyst_rating": "Hold",
+      "sector": "Energy - Oil & Gas Exploration & Production",
+      "sources": ["247 Wall St.", "Daily Trade Alert", "StockAnalysis", "Investing.com", "Simply Wall St.", "Kalkine Media"],
+      "price_history_5d": [56.86, 56.50, 54.94, 55.32, 57.84]
+    },
+    {
+      "ticker": "TGT",
+      "company": "Target Corporation",
+      "discussion_driver": "HSBC issued a major upgrade to Buy from Hold with a $190 price target — well above the $163 Street consensus — citing strong evidence that Target's traffic-driven recovery is real and the operational turnaround is gaining traction. The bold upgrade follows Target's near-doubling from its 52-week low of $83.44 and comes despite the company's own FY27 high-single-digit revenue decline forecast.",
+      "bull_case": [
+        "HSBC's $190 Buy target represents 20%+ upside from current levels and could catalyze consensus upgrades; traffic recovery data suggests same-store sales momentum is building",
+        "Stock has held gains well near its 52-week high ($170.75), with RSI at 65 indicating healthy momentum rather than overbought conditions"
+      ],
+      "bear_case": [
+        "High interest rates (10-year near 5.3%) and a potentially softening job market threaten discretionary retail spending that Target depends on for margin recovery",
+        "Turnaround execution risk: management's FY27 guidance implies high-single-digit revenue declines; the recovery thesis requires consistent delivery over multiple quarters"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$157.66",
+      "price_target": "$162.76 (+3.2%)",
+      "pe_ratio": "16.19",
+      "rsi": "65.09",
+      "vs_52wk_high": "-7.7% below high ($170.75)",
+      "analyst_rating": "Hold",
+      "sector": "Consumer Discretionary - Mass Merchandise Retail",
+      "sources": ["Yahoo Finance", "Daily Trade Alert", "StockAnalysis", "GuruFocus", "Barchart", "MacroAxis"],
+      "price_history_5d": [157.45, 157.00, 156.43, 157.19, 157.66]
+    },
+    {
+      "ticker": "FICO",
+      "company": "Fair Isaac Corporation",
+      "discussion_driver": "FICO shares collapsed ~66% from their 52-week high after the FHFA signaled it would support VantageScore as an alternative to FICO for government-backed mortgages, threatening the company's dominant pricing power in its highest-margin franchise. On October 1, the stock bounced ~8% after FHFA Director Bill Pulte voiced support for FICO's cost-cutting program, though the core regulatory battle over mortgage-scoring monopoly power remains unresolved.",
+      "bull_case": [
+        "FHFA Director's Oct 1 endorsement of FICO's Direct License Program suggests regulators may allow a negotiated pricing solution rather than a full VantageScore mandate — a scenario that preserves FICO's core economics",
+        "At ~18x trailing earnings, FICO trades at a deep discount to its historical 60-100x premium multiple; if regulatory fear proves overblown, the stock has substantial recovery potential"
+      ],
+      "bear_case": [
+        "A firm FHFA mandate for VantageScore adoption across conforming loans would directly impair FICO's mortgage royalty revenue — its most predictable and highest-margin income stream — with no comparable replacement",
+        "BofA downgrade to Neutral with a $700 target signals large institutional capitulation; stock momentum remains negative and the regulatory outcome is a binary risk event with no clear timeline"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$665.58",
+      "price_target": "$700.00 (+5.2%)",
+      "pe_ratio": "17.80",
+      "rsi": "31.12",
+      "vs_52wk_high": "-66.7% below high ($1,998.01)",
+      "analyst_rating": "Moderate Buy",
+      "sector": "Technology - Analytics & Financial Software",
+      "sources": ["CNBC", "Seeking Alpha", "Daily Trade Alert", "GuruFocus", "Investing.com", "Benzinga", "StocksToTrade", "Alphastreet"],
+      "price_history_5d": [863.09, 635.60, 617.87, 592.47, 665.58]
     }
   ]
 }
