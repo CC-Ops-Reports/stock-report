@@ -1,137 +1,165 @@
 {
-  "report_date": "2026-09-29",
-  "market_tone": "Bearish",
+  "report_date": "2026-10-02",
+  "market_tone": "Bullish",
   "key_themes": [
-    "Consumer confidence collapsed to 12-year low (81.9 in September, worst since 2014), stoking inflation and rate-hike fears",
-    "FICO credit-score monopoly disrupted: Fannie/Freddie open mortgage pricing to VantageScore rival, crushing FICO shares 26%",
-    "AI M&A wave intensifies: AMD acquires Fei-Fei Li's World Labs for $8.2B in all-stock deal to challenge Nvidia in physical AI"
+    "Weak jobs report cements Fed rate-hold expectations, boosting equities",
+    "AI infrastructure spending accelerates (Synopsys, Broadcom-Anthropic deal)",
+    "Tesla Q3 delivery beat drives EV optimism; Nike Q1 revenue miss pressures consumer names"
   ],
   "sp500": {
-    "value": "7,668.42",
-    "change": "-0.20%"
+    "value": "7,726.00",
+    "change": "+0.7%"
   },
   "nasdaq": {
-    "value": "24,190.00",
-    "change": "-0.40%"
+    "value": "22,480.00",
+    "change": "+1.2%"
   },
   "stocks": [
     {
-      "ticker": "FICO",
-      "company": "Fair Isaac Corporation",
-      "reason": "Shares plunged ~26% after FHFA head Bill Pulte announced Fannie/Freddie will adopt unified mortgage pricing model incorporating VantageScore 4.0 (TransUnion), ending FICO mortgage credit-score dominance",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance",
-        "Schaeffer's Investment Research",
-        "24/7 Wall St."
-      ]
-    },
-    {
-      "ticker": "IOVA",
-      "company": "Iovance Biotherapeutics",
-      "reason": "Shares surged 30%+ after raising 2026 revenue guidance to $410M-$420M (from $350M-$370M), beating $402.8M consensus, on accelerating Amtagvi demand; Goldman Sachs resumed Buy at $15",
-      "category": "news",
-      "sources": [
-        "GuruFocus",
-        "Yahoo Finance",
-        "Quiver Quantitative"
-      ]
-    },
-    {
-      "ticker": "CCL",
-      "company": "Carnival Corporation",
-      "reason": "Shares surged ~11% on record Q3 results: non-GAAP EPS $1.43 vs $1.35 est, revenue $8.44B vs $8.39B est; all-time high net income $1.9B; raised FY2026 EPS guidance to $2.24; 2027 bookings at record levels",
+      "ticker": "TSLA",
+      "company": "Tesla, Inc.",
+      "reason": "Q3 2026 deliveries of 486,532 vehicles beat analyst estimate of 461,100 by 5.4%; stock +5%",
       "category": "earnings",
       "sources": [
-        "MarketBeat",
+        "CNBC",
+        "Electrek",
+        "NotATeslaApp"
+      ]
+    },
+    {
+      "ticker": "NKE",
+      "company": "Nike, Inc.",
+      "reason": "Fiscal Q1 2026 revenue of $11.21B missed $11.33B estimate; China sales -26%; layoff plans announced; stock -6%",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "ACN",
+      "company": "Accenture plc",
+      "reason": "Q4 FY2026 earnings beat with record $22.2B bookings; AI consulting demand dispels disruption fears; stock +15.8%",
+      "category": "earnings",
+      "sources": [
         "GuruFocus",
         "Yahoo Finance"
       ]
     },
     {
-      "ticker": "BE",
-      "company": "Bloom Energy",
-      "reason": "Shares rose ~12% on Jefferies PT raise to $264 from $229 citing $25B Brookfield financing deal and 2GW capacity target, plus sustained AI data-center power demand following S&P 500 inclusion on Sept 21",
-      "category": "upgrade",
-      "sources": [
-        "Benzinga",
-        "MarketBeat",
-        "StocksToTrade"
-      ]
-    },
-    {
-      "ticker": "AMD",
-      "company": "Advanced Micro Devices",
-      "reason": "In focus after announcing $8.2B all-stock acquisition of World Labs (Fei-Fei Li AI startup); Li joins as Chief Scientist and EVP; escalates AMD rivalry with Nvidia in physical AI and robotics simulation",
+      "ticker": "SNPS",
+      "company": "Synopsys, Inc.",
+      "reason": "Investor Day: announced $1B+ multi-year Amazon custom AI silicon deal and OpenAI GPT-Synopsys design platform partnership; FY27 revenue growth ~15% guided; stock +12.8%",
       "category": "news",
       "sources": [
-        "Bloomberg",
-        "CNBC",
-        "TechCrunch",
-        "Reuters"
+        "StocksToTrade",
+        "TradingKey",
+        "GuruFocus"
       ]
     },
     {
-      "ticker": "KMX",
-      "company": "CarMax",
-      "reason": "Q2 earnings beat: EPS $1.16 vs $0.73 est (+59% beat); revenue $7.88B vs $7.06B est; retail/wholesale unit sales up 14.7% YoY; company plans to resume buybacks in Q4 FY2026",
-      "category": "earnings",
+      "ticker": "FICO",
+      "company": "Fair Isaac Corporation",
+      "reason": "FHFA announced VantageScore added alongside FICO on single mortgage-pricing grid; stock tumbled ~15-22%, down 60% YTD",
+      "category": "news",
+      "sources": [
+        "Yahoo Finance",
+        "RTTNews",
+        "Investing.com"
+      ]
+    },
+    {
+      "ticker": "ON",
+      "company": "ON Semiconductor Corp.",
+      "reason": "Revised Synaptics acquisition to $123/share all-cash ($5.7B) from prior $7B stock deal; eliminates dilution; stock +6.5%",
+      "category": "news",
+      "sources": [
+        "Yahoo Finance",
+        "247WallSt",
+        "QuiverQuant"
+      ]
+    },
+    {
+      "ticker": "SYNA",
+      "company": "Synaptics Inc.",
+      "reason": "ON Semiconductor revised buyout offer to $123/share all-cash, providing value certainty; stock +14%",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "247WallSt",
+        "QuiverQuant"
+      ]
+    },
+    {
+      "ticker": "SMMT",
+      "company": "Summit Therapeutics Inc.",
+      "reason": "AstraZeneca made $2B strategic equity investment; partnership to evaluate ivonescimab combo therapy; stock +17.1%",
+      "category": "news",
       "sources": [
         "Benzinga",
-        "GuruFocus",
-        "MarketBeat"
+        "BioXconomy",
+        "ContractPharma"
+      ]
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom Inc.",
+      "reason": "Reuters: Broadcom to lend Anthropic up to $42B for chip infrastructure; cements Anthropic as largest design customer; stock +3%",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance"
       ]
     },
     {
       "ticker": "SPCX",
       "company": "SpaceX",
-      "reason": "Shares active after TD Cowen initiated coverage with Buy rating; Starship successfully reached orbit deploying 26 Starlink satellites and performed controlled landing burn in Pacific Ocean",
-      "category": "upgrade",
+      "reason": "NASA Crew-13 ISS launch success + Google AI satellite mission + Starship Flight 14 first orbital Starlink payload deployment; stock +6-7%",
+      "category": "news",
       "sources": [
-        "CNBC"
+        "TipRanks",
+        "Yahoo Finance",
+        "Invezz"
       ]
     },
     {
-      "ticker": "NFLX",
-      "company": "Netflix",
-      "reason": "Upgraded to Buy from Hold at Deutsche Bank with $95 price target; stock down 22% YTD after WBD deal collapse, Deutsche Bank sees current valuation as buying opportunity",
+      "ticker": "RKLB",
+      "company": "Rocket Lab USA, Inc.",
+      "reason": "Announced largest-ever 20-mission Electron contract with Synspective; Citi initiated Buy at $105 target; ARK added 233K shares; stock +4.9%",
+      "category": "news",
+      "sources": [
+        "MarketBeat",
+        "SimplyWallSt"
+      ]
+    },
+    {
+      "ticker": "BP",
+      "company": "BP plc",
+      "reason": "Wells Fargo upgraded to Overweight from Equal Weight, raised PT to $57 from $48; accelerated debt reduction and capital flexibility",
       "category": "upgrade",
       "sources": [
-        "Benzinga",
-        "Newsquawk",
+        "Globe and Mail",
         "Yahoo Finance"
       ]
     },
     {
-      "ticker": "WBD",
-      "company": "Warner Bros. Discovery",
-      "reason": "Downgraded to Sell by Argus; Paramount Skydance acquisition at $31/share now imminent following antitrust clearance, with spread effectively closed leaving minimal upside from current price",
+      "ticker": "XOM",
+      "company": "Exxon Mobil Corporation",
+      "reason": "Wells Fargo downgraded to Equal Weight from Overweight with $182 PT; relative valuation convergence in BP's favor",
       "category": "downgrade",
       "sources": [
-        "GuruFocus",
+        "Globe and Mail",
         "Yahoo Finance"
       ]
     },
     {
-      "ticker": "PEP",
-      "company": "PepsiCo",
-      "reason": "Downgraded by J.P. Morgan from Overweight to Neutral; price target cut 19% to $138; North America salty snacks (Frito-Lay) underperforming despite international FIFA World Cup momentum",
-      "category": "downgrade",
-      "sources": [
-        "Newsquawk",
-        "GuruFocus",
-        "24/7 Wall St."
-      ]
-    },
-    {
-      "ticker": "KR",
-      "company": "Kroger",
-      "reason": "Upgraded to Buy from Hold at Melius Research with $80 price target; analyst sees improving competitive positioning and valuation upside in grocery as consumers trade down amid inflation",
+      "ticker": "OXY",
+      "company": "Occidental Petroleum",
+      "reason": "Goldman Sachs upgraded to Buy from Neutral, raised PT to $69; strong debt reduction outlook and dividend growth potential",
       "category": "upgrade",
       "sources": [
-        "24/7 Wall St.",
-        "Yahoo Finance"
+        "Yahoo Finance",
+        "DailyTradeAlert"
       ]
     }
   ]
