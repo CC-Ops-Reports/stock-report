@@ -1,121 +1,98 @@
 {
-  "report_date": "2026-10-01",
+  "report_date": "2026-10-02",
   "batch": 3,
   "stocks": [
     {
-      "ticker": "MKC",
-      "company": "McCormick & Company, Inc.",
-      "discussion_driver": "McCormick reported Q3 FY2026 earnings on October 1 that beat expectations on both revenue ($2.02B vs $1.98B estimate) and EPS ($0.86 vs $0.76), lifting shares ~5% and reversing a months-long slide toward 52-week lows. Solid consumer spice demand and flavor-solutions strength drove the beat, providing a positive read-through for food-sector earnings season.",
-      "bull_case": [
-        "Q3 EPS and revenue beat ends a prolonged selling period; analyst Moderate Buy consensus with ~22% upside to average price targets",
-        "Stock trades near historically low valuation levels (8.3x trailing P/E) and close to multi-year lows, setting a potentially favorable risk/reward entry"
-      ],
-      "bear_case": [
-        "Stock has declined ~31% from its 52-week high, reflecting structural pressure from consumer trade-down to private-label spices and persistent margin compression",
-        "10-year Treasury yield near 5.3% compresses consumer-staples multiples and diminishes appeal of dividend-growth names like McCormick"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$49.86",
-      "price_target": "$60.62 (+21.6%)",
-      "pe_ratio": "8.30",
-      "rsi": "N/A",
-      "vs_52wk_high": "-31.1% below high ($72.41)",
-      "analyst_rating": "Moderate Buy",
-      "sector": "Consumer Staples - Spices & Seasonings",
-      "sources": ["CNBC", "Yahoo Finance", "StockAnalysis", "247 Wall St.", "ChartMill", "Dividendchannel.com"],
-      "price_history_5d": [47.94, 47.50, 48.40, 46.85, 49.86]
-    },
-    {
       "ticker": "RKLB",
-      "company": "Rocket Lab Corporation",
-      "discussion_driver": "Rocket Lab announced its largest-ever Electron commercial launch contract (20 missions), demonstrating growing demand for dedicated small-satellite launch services. Simultaneously, Citi initiated coverage with a Buy rating and $105 price target, citing Rocket Lab's vertically integrated launch-plus-spacecraft model as a durable differentiator in the commercial space market.",
+      "company": "Rocket Lab USA, Inc.",
+      "discussion_driver": "Rocket Lab secured its largest-ever commercial contract — a 20-mission Electron launch deal with Synspective — while Citi initiated coverage with a Buy rating at a $105 price target and ARK Invest added 233K shares, driving a 4.9% single-session gain. The stock is transitioning its story from pure-play small launcher to vertically integrated space systems provider, with Neutron rocket development in progress. Institutional accumulation and analyst initiations signal growing confidence in the commercial space economy thesis despite continued losses.",
       "bull_case": [
-        "Record 20-mission Electron contract adds significant revenue visibility; Citi's $105 Buy target implies ~49% upside, and average analyst consensus target stands at $109",
-        "Expansion into spacecraft manufacturing and the Neutron heavy-lift rocket diversifies beyond small-launch, addressing a TAM well above $10B as government and commercial satellite launches accelerate"
+        "Largest-ever 20-mission Electron contract with Synspective demonstrates growing commercial momentum and boosts recurring revenue visibility, while multiple Wall Street initiations (Citi Buy at $105, 19 analysts avg $110.25 target) point to ~49% upside from current levels",
+        "ARK Invest and institutional buyers accumulating at current levels signals smart-money conviction; Rocket Lab's vertically integrated model (launch + spacecraft components + Neutron heavy rocket) positions it for multi-year growth in the booming commercial space market"
       ],
       "bear_case": [
-        "Company is pre-profitable with a forward P/E of 3,847x, requiring flawless execution and sustained commercial momentum to justify the valuation; any launch failure could immediately erode client confidence",
-        "Stock is down ~53% from its May 2026 52-week high, reflecting high-beta volatility inherent to speculative aerospace names; retail-driven sentiment swings can amplify drawdowns"
+        "Trading 51% below its 52-week high of $151.00 with a deeply negative P/E ratio — the company has yet to achieve sustained profitability and cash burn remains a concern as Neutron development costs scale",
+        "Intense competition from SpaceX (Falcon 9 and Starship), Blue Origin, and well-funded startups could compress RKLB's launch pricing power; small satellite market growth could slow faster than consensus expects"
       ],
       "recommendation": "Speculative Buy",
-      "current_price": "$70.73",
-      "price_target": "$109.37 (+54.6%)",
-      "pe_ratio": "N/A",
-      "rsi": "52.91",
-      "vs_52wk_high": "-53.2% below high ($151.00)",
+      "current_price": "$73.92",
+      "price_target": "$110.25 (+49.2%)",
+      "pe_ratio": "N/A (unprofitable)",
+      "rsi": "55.7",
+      "vs_52wk_high": "-51.0% below high ($151.00)",
       "analyst_rating": "Buy",
-      "sector": "Aerospace & Defense - Commercial Space Launch",
-      "sources": ["CNBC", "247 Wall St.", "StockAnalysis", "MarketBeat", "Yahoo Finance", "Trefis"],
-      "price_history_5d": [72.00, 71.50, 70.00, 69.68, 70.73]
+      "sector": "Industrials - Aerospace & Defense / Space Launch",
+      "sources": ["MarketBeat", "SimplyWallSt", "Citi Research", "GuruFocus", "public.com", "tickernerd.com"],
+      "price_history_5d": [73.61, 70.46, 73.92]
+    },
+    {
+      "ticker": "BP",
+      "company": "BP plc",
+      "discussion_driver": "Wells Fargo upgraded BP to Overweight from Equal Weight on October 1, simultaneously raising its price target to $57 from $48 — a 28% premium to current levels — while downgrading rival ExxonMobil. The call centers on BP's accelerating debt reduction program and growing capital flexibility as the company unwinds its energy-transition overspend. BP's forward P/E of just 7.9x makes it one of the cheapest large-cap integrated oils, and analyst consensus sits at Buy across 19 covering firms.",
+      "bull_case": [
+        "Wells Fargo's high-conviction upgrade to Overweight with a $57 target (28% upside) underscores BP's improving balance sheet story; accelerated debt reduction and capital flexibility are catalysts for re-rating ahead of peers",
+        "Historically cheap valuation — forward P/E of 7.9x vs. sector average — combined with an attractive dividend yield makes BP a compelling value play; the $32.72 52-week low vs. current $44.50 shows how far sentiment has already recovered"
+      ],
+      "bear_case": [
+        "RSI at 43.67 reflects recent near-term technical weakness; BP faces structural headwinds from its costly energy-transition commitments that have historically weighed on cash generation relative to pure-play E&P peers",
+        "Global oil demand uncertainty and China slowdown risks could compress Brent crude prices, directly pressuring BP's upstream earnings; European energy names also carry geopolitical risk premium"
+      ],
+      "recommendation": "Buy",
+      "current_price": "$44.50",
+      "price_target": "$48.59 (+9.2%) avg; Wells Fargo PT $57.00 (+28.1%)",
+      "pe_ratio": "20.67",
+      "rsi": "43.67",
+      "vs_52wk_high": "-7.8% below high ($48.27)",
+      "analyst_rating": "Buy",
+      "sector": "Energy - Oil & Gas Integrated",
+      "sources": ["Globe and Mail", "Yahoo Finance", "StockAnalysis", "Wells Fargo Research", "public.com"],
+      "price_history_5d": [43.52, 43.99, 44.50]
+    },
+    {
+      "ticker": "XOM",
+      "company": "Exxon Mobil Corporation",
+      "discussion_driver": "Wells Fargo downgraded Exxon Mobil to Equal Weight from Overweight and set a $182 price target, citing relative valuation convergence after BP's re-rating closed the premium gap. The downgrade is a relative call, not a fundamental one — XOM's earnings power remains intact, but the firm sees limited near-term upside vs. cheaper energy peers. The RSI of 32.88 approaches oversold territory, and the stock trades 7% below its 52-week high as oil price softness and the analyst rotation weigh on near-term sentiment.",
+      "bull_case": [
+        "World-class integrated business with Guyana deepwater expansion and Pioneer acquisition synergies driving multi-year production and free cash flow growth; XOM's $11.94 EPS consensus for 2026 supports mid-20s P/E at fair value",
+        "Exceptional capital return track record — decades of dividend growth plus an active buyback program — makes XOM a high-quality defensive anchor in energy portfolios with limited downside risk vs. sector"
+      ],
+      "bear_case": [
+        "Wells Fargo downgraded to Equal Weight with $182 PT as BP's relative value thesis takes institutional flows; XOM's premium multiple vs. peers looks stretched, limiting re-rating potential near-term",
+        "RSI near 32.88 signals downside momentum; softening crude oil prices and a Hold-heavy analyst consensus (15 Hold vs. 7 Buy) reflect the market's cautious stance on further upside from current levels"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$164.01",
+      "price_target": "$173.29 (+5.7%)",
+      "pe_ratio": "21.08",
+      "rsi": "32.88",
+      "vs_52wk_high": "-7.0% below high ($176.41)",
+      "analyst_rating": "Hold",
+      "sector": "Energy - Oil & Gas Integrated",
+      "sources": ["Globe and Mail", "Yahoo Finance", "247WallSt", "TipRanks", "WallStreetZen", "currentlogic.substack.com"],
+      "price_history_5d": [162.52, 161.35, 162.75, 163.25, 164.01]
     },
     {
       "ticker": "OXY",
       "company": "Occidental Petroleum Corporation",
-      "discussion_driver": "Goldman Sachs upgraded Occidental to Buy from Neutral and raised its price target to $69 as the energy sector leads all S&P 500 sectors year-to-date (+37.6%). OXY's RSI had fallen near 37 — approaching oversold territory — after a pullback from its 52-week high, while Berkshire Hathaway's strategic 28%+ stake continues to underpin investor confidence.",
+      "discussion_driver": "Goldman Sachs upgraded Occidental Petroleum to Buy from Neutral, raised its price target to $69, and added the stock to its high-conviction U.S. Conviction List on October 1 — citing strong debt reduction momentum and growing dividend capacity post-CrownRock integration. Warren Buffett's Berkshire Hathaway remains a major holder, providing a valuation floor. While the broader analyst community stays cautious at a Hold consensus, Goldman's conviction-list placement and the 12.8% average upside to consensus targets make OXY a compelling contrarian upgrade candidate.",
       "bull_case": [
-        "Goldman Sachs Buy upgrade and $69 target signal renewed institutional conviction; energy sector's YTD leadership and elevated oil prices support OXY's cash flow outlook",
-        "RSI near oversold territory (37.35) and ~14% pullback from 52-week high create a favorable technical entry; Berkshire's large ownership stake acts as a strategic floor"
+        "Goldman Sachs added OXY to its U.S. Conviction Buy List with a $69 target (18.8% upside), citing impressive debt reduction trajectory and rising dividend growth potential as CrownRock synergies materialize in 2026-2027",
+        "Berkshire Hathaway's large and growing ownership stake provides a strong valuation floor; OXY's Permian Basin assets and carbon capture (STRATOS DAC plant) create a differentiated ESG-plus-growth narrative that attracts long-term institutional capital"
       ],
       "bear_case": [
-        "OXY carries ~$18B in net debt from the 2019 Anadarko acquisition, creating cash-flow sensitivity to any sustained oil price decline or demand disruption",
-        "Pre-Goldman consensus was Hold across most coverage; if oil prices retreat from elevated levels, the stock's 17x P/E looks stretched versus energy sector peers"
+        "Consensus analyst rating is Hold (16 Hold vs. 11 Buy), meaning Goldman's upgrade is a positive outlier — the broader street is not yet convinced; a reversal in crude prices could quickly overwhelm debt-reduction progress",
+        "Stock has declined from its 52-week high of $67.45 to ~$58, reflecting crude price volatility sensitivity; Permian Basin pure-play exposure means OXY is among the first names to suffer when WTI weakens"
       ],
       "recommendation": "Buy",
-      "current_price": "$57.84",
-      "price_target": "$68.00 (+17.6%)",
-      "pe_ratio": "17.00",
-      "rsi": "37.35",
-      "vs_52wk_high": "-14.3% below high ($67.45)",
+      "current_price": "$58.10",
+      "price_target": "$65.54 (+12.8%) avg; Goldman PT $69.00 (+18.8%)",
+      "pe_ratio": "17.14",
+      "rsi": "37.58",
+      "vs_52wk_high": "-13.9% below high ($67.45)",
       "analyst_rating": "Hold",
-      "sector": "Energy - Oil & Gas Exploration & Production",
-      "sources": ["247 Wall St.", "Daily Trade Alert", "StockAnalysis", "Investing.com", "Simply Wall St.", "Kalkine Media"],
-      "price_history_5d": [56.86, 56.50, 54.94, 55.32, 57.84]
-    },
-    {
-      "ticker": "TGT",
-      "company": "Target Corporation",
-      "discussion_driver": "HSBC issued a major upgrade to Buy from Hold with a $190 price target — well above the $163 Street consensus — citing strong evidence that Target's traffic-driven recovery is real and the operational turnaround is gaining traction. The bold upgrade follows Target's near-doubling from its 52-week low of $83.44 and comes despite the company's own FY27 high-single-digit revenue decline forecast.",
-      "bull_case": [
-        "HSBC's $190 Buy target represents 20%+ upside from current levels and could catalyze consensus upgrades; traffic recovery data suggests same-store sales momentum is building",
-        "Stock has held gains well near its 52-week high ($170.75), with RSI at 65 indicating healthy momentum rather than overbought conditions"
-      ],
-      "bear_case": [
-        "High interest rates (10-year near 5.3%) and a potentially softening job market threaten discretionary retail spending that Target depends on for margin recovery",
-        "Turnaround execution risk: management's FY27 guidance implies high-single-digit revenue declines; the recovery thesis requires consistent delivery over multiple quarters"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$157.66",
-      "price_target": "$162.76 (+3.2%)",
-      "pe_ratio": "16.19",
-      "rsi": "65.09",
-      "vs_52wk_high": "-7.7% below high ($170.75)",
-      "analyst_rating": "Hold",
-      "sector": "Consumer Discretionary - Mass Merchandise Retail",
-      "sources": ["Yahoo Finance", "Daily Trade Alert", "StockAnalysis", "GuruFocus", "Barchart", "MacroAxis"],
-      "price_history_5d": [157.45, 157.00, 156.43, 157.19, 157.66]
-    },
-    {
-      "ticker": "FICO",
-      "company": "Fair Isaac Corporation",
-      "discussion_driver": "FICO shares collapsed ~66% from their 52-week high after the FHFA signaled it would support VantageScore as an alternative to FICO for government-backed mortgages, threatening the company's dominant pricing power in its highest-margin franchise. On October 1, the stock bounced ~8% after FHFA Director Bill Pulte voiced support for FICO's cost-cutting program, though the core regulatory battle over mortgage-scoring monopoly power remains unresolved.",
-      "bull_case": [
-        "FHFA Director's Oct 1 endorsement of FICO's Direct License Program suggests regulators may allow a negotiated pricing solution rather than a full VantageScore mandate — a scenario that preserves FICO's core economics",
-        "At ~18x trailing earnings, FICO trades at a deep discount to its historical 60-100x premium multiple; if regulatory fear proves overblown, the stock has substantial recovery potential"
-      ],
-      "bear_case": [
-        "A firm FHFA mandate for VantageScore adoption across conforming loans would directly impair FICO's mortgage royalty revenue — its most predictable and highest-margin income stream — with no comparable replacement",
-        "BofA downgrade to Neutral with a $700 target signals large institutional capitulation; stock momentum remains negative and the regulatory outcome is a binary risk event with no clear timeline"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$665.58",
-      "price_target": "$700.00 (+5.2%)",
-      "pe_ratio": "17.80",
-      "rsi": "31.12",
-      "vs_52wk_high": "-66.7% below high ($1,998.01)",
-      "analyst_rating": "Moderate Buy",
-      "sector": "Technology - Analytics & Financial Software",
-      "sources": ["CNBC", "Seeking Alpha", "Daily Trade Alert", "GuruFocus", "Investing.com", "Benzinga", "StocksToTrade", "Alphastreet"],
-      "price_history_5d": [863.09, 635.60, 617.87, 592.47, 665.58]
+      "sector": "Energy - Oil & Gas E&P",
+      "sources": ["Yahoo Finance", "DailyTradeAlert", "ad-hoc-news.de", "thecerbatgem.com", "StockAnalysis", "Goldman Sachs Research"],
+      "price_history_5d": [56.86, 55.32, 56.87, 58.10]
     }
   ]
 }
