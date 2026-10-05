@@ -1,165 +1,180 @@
 {
-  "report_date": "2026-10-02",
+  "report_date": "2026-10-05",
   "market_tone": "Bullish",
   "key_themes": [
-    "Weak jobs report cements Fed rate-hold expectations, boosting equities",
-    "AI infrastructure spending accelerates (Synopsys, Broadcom-Anthropic deal)",
-    "Tesla Q3 delivery beat drives EV optimism; Nike Q1 revenue miss pressures consumer names"
+    "AI infrastructure mega-cap rally (Nvidia record high, $5.7T market cap)",
+    "Industrial software M&A surge (Schneider Electric acquires PTC for $22.6B)",
+    "SpaceX momentum on triple-launch day and Terafab/TSMC AI chip venture"
   ],
   "sp500": {
-    "value": "7,726.00",
-    "change": "+0.7%"
+    "value": "7,773.95",
+    "change": "+0.66%"
   },
   "nasdaq": {
-    "value": "22,480.00",
-    "change": "+1.2%"
+    "value": "27,477.31",
+    "change": "+1.05%"
   },
   "stocks": [
     {
-      "ticker": "TSLA",
-      "company": "Tesla, Inc.",
-      "reason": "Q3 2026 deliveries of 486,532 vehicles beat analyst estimate of 461,100 by 5.4%; stock +5%",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Electrek",
-        "NotATeslaApp"
-      ]
-    },
-    {
-      "ticker": "NKE",
-      "company": "Nike, Inc.",
-      "reason": "Fiscal Q1 2026 revenue of $11.21B missed $11.33B estimate; China sales -26%; layoff plans announced; stock -6%",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "ACN",
-      "company": "Accenture plc",
-      "reason": "Q4 FY2026 earnings beat with record $22.2B bookings; AI consulting demand dispels disruption fears; stock +15.8%",
-      "category": "earnings",
-      "sources": [
-        "GuruFocus",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "SNPS",
-      "company": "Synopsys, Inc.",
-      "reason": "Investor Day: announced $1B+ multi-year Amazon custom AI silicon deal and OpenAI GPT-Synopsys design platform partnership; FY27 revenue growth ~15% guided; stock +12.8%",
+      "ticker": "PTC",
+      "company": "PTC Inc.",
+      "reason": "Schneider Electric announced $22.6B all-cash acquisition at $205/share (42% premium); stock surged ~34%, top S&P 500 gainer",
       "category": "news",
       "sources": [
-        "StocksToTrade",
-        "TradingKey",
-        "GuruFocus"
-      ]
-    },
-    {
-      "ticker": "FICO",
-      "company": "Fair Isaac Corporation",
-      "reason": "FHFA announced VantageScore added alongside FICO on single mortgage-pricing grid; stock tumbled ~15-22%, down 60% YTD",
-      "category": "news",
-      "sources": [
-        "Yahoo Finance",
-        "RTTNews",
-        "Investing.com"
-      ]
-    },
-    {
-      "ticker": "ON",
-      "company": "ON Semiconductor Corp.",
-      "reason": "Revised Synaptics acquisition to $123/share all-cash ($5.7B) from prior $7B stock deal; eliminates dilution; stock +6.5%",
-      "category": "news",
-      "sources": [
-        "Yahoo Finance",
-        "247WallSt",
-        "QuiverQuant"
-      ]
-    },
-    {
-      "ticker": "SYNA",
-      "company": "Synaptics Inc.",
-      "reason": "ON Semiconductor revised buyout offer to $123/share all-cash, providing value certainty; stock +14%",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "247WallSt",
-        "QuiverQuant"
-      ]
-    },
-    {
-      "ticker": "SMMT",
-      "company": "Summit Therapeutics Inc.",
-      "reason": "AstraZeneca made $2B strategic equity investment; partnership to evaluate ivonescimab combo therapy; stock +17.1%",
-      "category": "news",
-      "sources": [
+        "Seeking Alpha",
         "Benzinga",
-        "BioXconomy",
-        "ContractPharma"
+        "GuruFocus",
+        "CNBC"
       ]
     },
     {
-      "ticker": "AVGO",
-      "company": "Broadcom Inc.",
-      "reason": "Reuters: Broadcom to lend Anthropic up to $42B for chip infrastructure; cements Anthropic as largest design customer; stock +3%",
-      "category": "news",
+      "ticker": "NVDA",
+      "company": "Nvidia Corporation",
+      "reason": "Hit new all-time intraday high of ~$240; market cap reached $5.7T on continued AI chip demand and $150B buyback program announced Sep 28",
+      "category": "sector",
       "sources": [
+        "Yahoo Finance",
         "CNBC",
-        "Yahoo Finance"
+        "247WallSt",
+        "FX Leaders"
       ]
     },
     {
       "ticker": "SPCX",
       "company": "SpaceX",
-      "reason": "NASA Crew-13 ISS launch success + Google AI satellite mission + Starship Flight 14 first orbital Starlink payload deployment; stock +6-7%",
+      "reason": "Gained 7.63%; completed three launches in under 13 hours; Musk announced rebranding AI unit to SpaceXSI and TSMC involvement in Terafab Texas chip venture",
       "category": "news",
       "sources": [
-        "TipRanks",
-        "Yahoo Finance",
-        "Invezz"
+        "TheStreet",
+        "CNBC",
+        "Benzinga",
+        "TradingKey"
       ]
     },
     {
-      "ticker": "RKLB",
-      "company": "Rocket Lab USA, Inc.",
-      "reason": "Announced largest-ever 20-mission Electron contract with Synspective; Citi initiated Buy at $105 target; ARK added 233K shares; stock +4.9%",
+      "ticker": "XP",
+      "company": "XP Inc.",
+      "reason": "Surged ~34% as investors repriced Brazilian fintech toward analyst consensus valuation after prolonged discount period",
       "category": "news",
       "sources": [
-        "MarketBeat",
-        "SimplyWallSt"
+        "TheStreet",
+        "Seeking Alpha"
       ]
     },
     {
-      "ticker": "BP",
-      "company": "BP plc",
-      "reason": "Wells Fargo upgraded to Overweight from Equal Weight, raised PT to $57 from $48; accelerated debt reduction and capital flexibility",
+      "ticker": "MRNA",
+      "company": "Moderna Inc.",
+      "reason": "Gained 6.95% on October 5; among top midday movers on market optimism and biotech sector rotation",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "TheStreet"
+      ]
+    },
+    {
+      "ticker": "ILMN",
+      "company": "Illumina Inc.",
+      "reason": "Moved up 7.85% on October 5; one of the largest percentage gainers among major-cap stocks on the day",
+      "category": "news",
+      "sources": [
+        "TradingKey",
+        "TheStreet"
+      ]
+    },
+    {
+      "ticker": "CHRW",
+      "company": "C.H. Robinson Worldwide",
+      "reason": "Fell 12.40%; agreed to sell Global Forwarding business to RXO in deal with implied value of $5.8B, raising concerns about core business revenue",
+      "category": "news",
+      "sources": [
+        "Seeking Alpha",
+        "TheStreet",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "DKNG",
+      "company": "DraftKings Inc.",
+      "reason": "Gained 5.43%; BofA upgraded to Buy from Neutral ($27 PT) after stock fell 47% in the past year, calling it an attractive entry point",
       "category": "upgrade",
       "sources": [
-        "Globe and Mail",
-        "Yahoo Finance"
+        "Yahoo Finance",
+        "CNBC",
+        "247WallSt"
       ]
     },
     {
-      "ticker": "XOM",
-      "company": "Exxon Mobil Corporation",
-      "reason": "Wells Fargo downgraded to Equal Weight from Overweight with $182 PT; relative valuation convergence in BP's favor",
+      "ticker": "MSFT",
+      "company": "Microsoft Corporation",
+      "reason": "Melius Research upgraded to Buy from Hold ($665 PT), citing AI-driven demand boost; Wells Fargo raised PT to $725; stock up ~1.48%",
+      "category": "upgrade",
+      "sources": [
+        "Yahoo Finance",
+        "GuruFocus",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "WFC",
+      "company": "Wells Fargo & Company",
+      "reason": "Morgan Stanley upgraded to Overweight from Equal Weight, added to Top Pick list with $102 PT; stock gained ~1% on \"growth engine rebuild\" thesis",
+      "category": "upgrade",
+      "sources": [
+        "Yahoo Finance",
+        "NewsQuawk",
+        "247WallSt"
+      ]
+    },
+    {
+      "ticker": "HUBS",
+      "company": "HubSpot Inc.",
+      "reason": "Raymond James downgraded to Market Perform from Outperform; near-term demand headwinds and 2027 packaging changes expected to weigh on net new growth",
       "category": "downgrade",
       "sources": [
-        "Globe and Mail",
-        "Yahoo Finance"
+        "Yahoo Finance",
+        "247WallSt",
+        "NewsQuawk"
       ]
     },
     {
-      "ticker": "OXY",
-      "company": "Occidental Petroleum",
-      "reason": "Goldman Sachs upgraded to Buy from Neutral, raised PT to $69; strong debt reduction outlook and dividend growth potential",
-      "category": "upgrade",
+      "ticker": "TSM",
+      "company": "Taiwan Semiconductor Manufacturing",
+      "reason": "Advanced 2.5% to new 52-week high of $485; Musk confirmed TSMC partnership for Terafab AI chip factories in Texas, driving demand optimism",
+      "category": "news",
+      "sources": [
+        "TheStreet",
+        "TradingKey"
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "company": "Intel Corporation",
+      "reason": "Lost ~3.29% after Musk confirmed TSMC's role in Terafab venture, intensifying competitive fears for Intel's domestic chip manufacturing ambitions",
+      "category": "news",
+      "sources": [
+        "TheStreet",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "GFS",
+      "company": "GlobalFoundries Inc.",
+      "reason": "BNP Paribas downgraded to Neutral from Outperform, slashed PT to $51 from $80; stock fell ~3.33% on valuation reset and semiconductor demand uncertainty",
+      "category": "downgrade",
       "sources": [
         "Yahoo Finance",
-        "DailyTradeAlert"
+        "NewsQuawk",
+        "247WallSt"
+      ]
+    },
+    {
+      "ticker": "V",
+      "company": "Visa Inc.",
+      "reason": "Gained 2.53% as payments sector outperformed; among notable midday movers on broader financial sector strength",
+      "category": "sector",
+      "sources": [
+        "TheStreet",
+        "CNBC"
       ]
     }
   ]
