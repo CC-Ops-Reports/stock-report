@@ -1,60 +1,24 @@
 {
-  "report_date": "2026-10-05",
+  "report_date": "2026-10-06",
   "market_tone": "Bullish",
   "key_themes": [
-    "AI infrastructure mega-cap rally (Nvidia record high, $5.7T market cap)",
-    "Industrial software M&A surge (Schneider Electric acquires PTC for $22.6B)",
-    "SpaceX momentum on triple-launch day and Terafab/TSMC AI chip venture"
+    "M&A wave \u2014 PTC, Option Care Health, and RXO all acquired in multi-billion-dollar deals",
+    "AI infrastructure buildout driving nuclear energy, networking, and chip stocks to records",
+    "Storage sector selloff as Seagate and Western Digital reassess data center demand"
   ],
   "sp500": {
-    "value": "7,773.95",
-    "change": "+0.66%"
+    "value": "7,818.93",
+    "change": "+0.58%"
   },
   "nasdaq": {
-    "value": "27,477.31",
-    "change": "+1.05%"
+    "value": "27,599.79",
+    "change": "+0.45%"
   },
   "stocks": [
     {
       "ticker": "PTC",
       "company": "PTC Inc.",
-      "reason": "Schneider Electric announced $22.6B all-cash acquisition at $205/share (42% premium); stock surged ~34%, top S&P 500 gainer",
-      "category": "news",
-      "sources": [
-        "Seeking Alpha",
-        "Benzinga",
-        "GuruFocus",
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia Corporation",
-      "reason": "Hit new all-time intraday high of ~$240; market cap reached $5.7T on continued AI chip demand and $150B buyback program announced Sep 28",
-      "category": "sector",
-      "sources": [
-        "Yahoo Finance",
-        "CNBC",
-        "247WallSt",
-        "FX Leaders"
-      ]
-    },
-    {
-      "ticker": "SPCX",
-      "company": "SpaceX",
-      "reason": "Gained 7.63%; completed three launches in under 13 hours; Musk announced rebranding AI unit to SpaceXSI and TSMC involvement in Terafab Texas chip venture",
-      "category": "news",
-      "sources": [
-        "TheStreet",
-        "CNBC",
-        "Benzinga",
-        "TradingKey"
-      ]
-    },
-    {
-      "ticker": "XP",
-      "company": "XP Inc.",
-      "reason": "Surged ~34% as investors repriced Brazilian fintech toward analyst consensus valuation after prolonged discount period",
+      "reason": "Schneider Electric agreed to acquire PTC in a $22.6B all-cash deal; shares surged 33.5%",
       "category": "news",
       "sources": [
         "TheStreet",
@@ -62,119 +26,142 @@
       ]
     },
     {
-      "ticker": "MRNA",
-      "company": "Moderna Inc.",
-      "reason": "Gained 6.95% on October 5; among top midday movers on market optimism and biotech sector rotation",
-      "category": "sector",
+      "ticker": "OPCH",
+      "company": "Option Care Health",
+      "reason": "McKesson and Clayton Dubilier & Rice in advanced talks for $5B+ buyout; shares +32.88%",
+      "category": "news",
       "sources": [
         "CNBC",
         "TheStreet"
       ]
     },
     {
-      "ticker": "ILMN",
-      "company": "Illumina Inc.",
-      "reason": "Moved up 7.85% on October 5; one of the largest percentage gainers among major-cap stocks on the day",
+      "ticker": "RXO",
+      "company": "RXO Inc.",
+      "reason": "C.H. Robinson agreed to acquire RXO for $5.8B in cash and stock; shares +22.5%",
       "category": "news",
       "sources": [
-        "TradingKey",
-        "TheStreet"
+        "TheStreet",
+        "Yahoo Finance"
       ]
     },
     {
-      "ticker": "CHRW",
-      "company": "C.H. Robinson Worldwide",
-      "reason": "Fell 12.40%; agreed to sell Global Forwarding business to RXO in deal with implied value of $5.8B, raising concerns about core business revenue",
+      "ticker": "CEG",
+      "company": "Constellation Energy",
+      "reason": "Signed 20-year nuclear power agreement with Google to fuel AI data centers; shares +14.84%",
       "category": "news",
       "sources": [
-        "Seeking Alpha",
+        "CNBC",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "CIEN",
+      "company": "Ciena Corporation",
+      "reason": "Networking equipment maker surged 11.3% on renewed enthusiasm for AI infrastructure buildout",
+      "category": "sector",
+      "sources": [
+        "TheStreet",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "MRVL",
+      "company": "Marvell Technology",
+      "reason": "Shares rose ahead of company Investor Day on Oct 6; featured in CNBC midday movers on AI infrastructure",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Stock Analysis"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "reason": "Hit all-time high as AI chip demand continues; led Nasdaq to back-to-back records",
+      "category": "sector",
+      "sources": [
+        "Yahoo Finance",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "AMD",
+      "company": "Advanced Micro Devices",
+      "reason": "Citi raised price target to $800; shares rose ~2% alongside Nvidia at record highs",
+      "category": "upgrade",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "STX",
+      "company": "Seagate Technology",
+      "reason": "Slumped 9.1% as investors reassessed data center demand and profit outlook for storage",
+      "category": "sector",
+      "sources": [
         "TheStreet",
         "CNBC"
       ]
     },
     {
-      "ticker": "DKNG",
-      "company": "DraftKings Inc.",
-      "reason": "Gained 5.43%; BofA upgraded to Buy from Neutral ($27 PT) after stock fell 47% in the past year, calling it an attractive entry point",
-      "category": "upgrade",
+      "ticker": "MRNA",
+      "company": "Moderna",
+      "reason": "Fell 6.14% on profit-taking after stock hit fresh 52-week high; CNBC midday mover",
+      "category": "news",
       "sources": [
-        "Yahoo Finance",
         "CNBC",
-        "247WallSt"
+        "TheStreet"
       ]
     },
     {
-      "ticker": "MSFT",
-      "company": "Microsoft Corporation",
-      "reason": "Melius Research upgraded to Buy from Hold ($665 PT), citing AI-driven demand boost; Wells Fargo raised PT to $725; stock up ~1.48%",
-      "category": "upgrade",
+      "ticker": "NVAX",
+      "company": "Novavax",
+      "reason": "Declined 10% in a biopharma pullback alongside Moderna; CNBC midday mover",
+      "category": "sector",
+      "sources": [
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "NKE",
+      "company": "Nike Inc.",
+      "reason": "Goldman Sachs aggressively downgraded to Sell with price target slashed to $27.50 today",
+      "category": "downgrade",
       "sources": [
         "Yahoo Finance",
-        "GuruFocus",
-        "CNBC"
+        "Goldman Sachs"
       ]
     },
     {
       "ticker": "WFC",
-      "company": "Wells Fargo & Company",
-      "reason": "Morgan Stanley upgraded to Overweight from Equal Weight, added to Top Pick list with $102 PT; stock gained ~1% on \"growth engine rebuild\" thesis",
+      "company": "Wells Fargo",
+      "reason": "Morgan Stanley upgraded to Overweight and named Top Pick today; positive banking sector view",
       "category": "upgrade",
       "sources": [
         "Yahoo Finance",
-        "NewsQuawk",
-        "247WallSt"
+        "Morgan Stanley"
       ]
     },
     {
-      "ticker": "HUBS",
-      "company": "HubSpot Inc.",
-      "reason": "Raymond James downgraded to Market Perform from Outperform; near-term demand headwinds and 2027 packaging changes expected to weigh on net new growth",
-      "category": "downgrade",
+      "ticker": "META",
+      "company": "Meta Platforms",
+      "reason": "Wells Fargo raised price target by $204 to $1,000 citing AI monetization potential",
+      "category": "upgrade",
       "sources": [
         "Yahoo Finance",
-        "247WallSt",
-        "NewsQuawk"
+        "Wells Fargo Research"
       ]
     },
     {
-      "ticker": "TSM",
-      "company": "Taiwan Semiconductor Manufacturing",
-      "reason": "Advanced 2.5% to new 52-week high of $485; Musk confirmed TSMC partnership for Terafab AI chip factories in Texas, driving demand optimism",
-      "category": "news",
+      "ticker": "STZ",
+      "company": "Constellation Brands",
+      "reason": "Reported fiscal Q2 earnings today; shares fell 4.56% after hours on results",
+      "category": "earnings",
       "sources": [
-        "TheStreet",
-        "TradingKey"
-      ]
-    },
-    {
-      "ticker": "INTC",
-      "company": "Intel Corporation",
-      "reason": "Lost ~3.29% after Musk confirmed TSMC's role in Terafab venture, intensifying competitive fears for Intel's domestic chip manufacturing ambitions",
-      "category": "news",
-      "sources": [
-        "TheStreet",
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "GFS",
-      "company": "GlobalFoundries Inc.",
-      "reason": "BNP Paribas downgraded to Neutral from Outperform, slashed PT to $51 from $80; stock fell ~3.33% on valuation reset and semiconductor demand uncertainty",
-      "category": "downgrade",
-      "sources": [
-        "Yahoo Finance",
-        "NewsQuawk",
-        "247WallSt"
-      ]
-    },
-    {
-      "ticker": "V",
-      "company": "Visa Inc.",
-      "reason": "Gained 2.53% as payments sector outperformed; among notable midday movers on broader financial sector strength",
-      "category": "sector",
-      "sources": [
-        "TheStreet",
-        "CNBC"
+        "CNBC",
+        "Yahoo Finance"
       ]
     }
   ]
