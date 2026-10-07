@@ -1,54 +1,46 @@
 {
-  "report_date": "2026-10-06",
-  "market_tone": "Bullish",
+  "report_date": "2026-10-07",
+  "market_tone": "Bearish",
   "key_themes": [
-    "M&A wave \u2014 PTC, Option Care Health, and RXO all acquired in multi-billion-dollar deals",
-    "AI infrastructure buildout driving nuclear energy, networking, and chip stocks to records",
-    "Storage sector selloff as Seagate and Western Digital reassess data center demand"
+    "Nuclear energy/AI power deals driving utility and energy stocks",
+    "Rising bond yields (10-yr ~5.31%) pulling markets back from records",
+    "M&A activity in healthcare sector; Q3 earnings season kicking off"
   ],
   "sp500": {
-    "value": "7,818.93",
-    "change": "+0.58%"
+    "value": "7,801.77",
+    "change": "-0.22%"
   },
   "nasdaq": {
-    "value": "27,599.79",
-    "change": "+0.45%"
+    "value": "27,538.69",
+    "change": "-0.22%"
   },
   "stocks": [
     {
-      "ticker": "PTC",
-      "company": "PTC Inc.",
-      "reason": "Schneider Electric agreed to acquire PTC in a $22.6B all-cash deal; shares surged 33.5%",
-      "category": "news",
-      "sources": [
-        "TheStreet",
-        "Seeking Alpha"
-      ]
-    },
-    {
       "ticker": "OPCH",
       "company": "Option Care Health",
-      "reason": "McKesson and Clayton Dubilier & Rice in advanced talks for $5B+ buyout; shares +32.88%",
+      "reason": "Surged ~32.7% after McKesson and CD&R announced a ~$5.8B acquisition deal at $32.05/share",
       "category": "news",
       "sources": [
         "CNBC",
-        "TheStreet"
-      ]
-    },
-    {
-      "ticker": "RXO",
-      "company": "RXO Inc.",
-      "reason": "C.H. Robinson agreed to acquire RXO for $5.8B in cash and stock; shares +22.5%",
-      "category": "news",
-      "sources": [
-        "TheStreet",
-        "Yahoo Finance"
+        "Yahoo Finance",
+        "SEC EDGAR"
       ]
     },
     {
       "ticker": "CEG",
       "company": "Constellation Energy",
-      "reason": "Signed 20-year nuclear power agreement with Google to fuel AI data centers; shares +14.84%",
+      "reason": "Jumped ~12.3% after Alphabet signed a $4.3B, 20-year, 890 MW nuclear power purchase agreement",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance",
+        "TheStreet"
+      ]
+    },
+    {
+      "ticker": "VST",
+      "company": "Vistra",
+      "reason": "Surged ~10.8% after DOE announced a $4.2B nuclear investment in Pennsylvania and Ohio, boosting nuclear power demand outlook",
       "category": "news",
       "sources": [
         "CNBC",
@@ -56,111 +48,126 @@
       ]
     },
     {
-      "ticker": "CIEN",
-      "company": "Ciena Corporation",
-      "reason": "Networking equipment maker surged 11.3% on renewed enthusiasm for AI infrastructure buildout",
-      "category": "sector",
+      "ticker": "NEOG",
+      "company": "Neogen Corporation",
+      "reason": "Jumped ~11% after raising fiscal year revenue guidance to $885M-$890M, above prior projections",
+      "category": "earnings",
       "sources": [
-        "TheStreet",
+        "CNBC",
+        "Yahoo Finance",
+        "Benzinga"
+      ]
+    },
+    {
+      "ticker": "PENG",
+      "company": "Penguin Solutions",
+      "reason": "Rose ~14.76% after Q4 beat: adjusted EPS of $1.00 vs $0.77 estimate; revenue $566.7M vs $521M estimate",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Morningstar",
         "Yahoo Finance"
       ]
     },
     {
-      "ticker": "MRVL",
-      "company": "Marvell Technology",
-      "reason": "Shares rose ahead of company Investor Day on Oct 6; featured in CNBC midday movers on AI infrastructure",
+      "ticker": "WOLF",
+      "company": "Wolfspeed",
+      "reason": "Jumped ~27% in after-hours session; specific catalyst emerging after market close",
       "category": "news",
       "sources": [
-        "CNBC",
-        "Stock Analysis"
+        "StockAnalysis",
+        "TheStreet"
       ]
     },
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "reason": "Hit all-time high as AI chip demand continues; led Nasdaq to back-to-back records",
-      "category": "sector",
+      "ticker": "AMD",
+      "company": "Advanced Micro Devices",
+      "reason": "Rose ~2.8% after CEO Lisa Su stated the company expects to significantly boost chip production in 2027",
+      "category": "news",
       "sources": [
         "Yahoo Finance",
         "CNBC"
       ]
     },
     {
-      "ticker": "AMD",
-      "company": "Advanced Micro Devices",
-      "reason": "Citi raised price target to $800; shares rose ~2% alongside Nvidia at record highs",
-      "category": "upgrade",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "STX",
-      "company": "Seagate Technology",
-      "reason": "Slumped 9.1% as investors reassessed data center demand and profit outlook for storage",
-      "category": "sector",
-      "sources": [
-        "TheStreet",
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "MRNA",
-      "company": "Moderna",
-      "reason": "Fell 6.14% on profit-taking after stock hit fresh 52-week high; CNBC midday mover",
-      "category": "news",
+      "ticker": "STZ",
+      "company": "Constellation Brands",
+      "reason": "Fell ~5% despite better-than-expected fiscal Q2 results; investors sold on concerns about forward guidance",
+      "category": "earnings",
       "sources": [
         "CNBC",
         "TheStreet"
       ]
     },
     {
-      "ticker": "NVAX",
-      "company": "Novavax",
-      "reason": "Declined 10% in a biopharma pullback alongside Moderna; CNBC midday mover",
+      "ticker": "FLUT",
+      "company": "Flutter Entertainment",
+      "reason": "Citigroup upgraded to Buy from Neutral today; appeared in Oct. 7 premarket movers list",
+      "category": "upgrade",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance",
+        "Daily Trade Alert"
+      ]
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "reason": "Rose ~3.65% amid renewed AI infrastructure enthusiasm and broader chip sector momentum",
       "category": "sector",
       "sources": [
+        "Investing.com",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "CRWD",
+      "company": "CrowdStrike",
+      "reason": "Fell ~4.04% as investors rotated out of cybersecurity into energy/nuclear plays on Oct. 7",
+      "category": "sector",
+      "sources": [
+        "Investing.com",
         "CNBC"
       ]
     },
     {
-      "ticker": "NKE",
-      "company": "Nike Inc.",
-      "reason": "Goldman Sachs aggressively downgraded to Sell with price target slashed to $27.50 today",
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "reason": "Downgraded by multiple analysts today amid AI sector rotation; appeared in Seeking Alpha top downgrades",
+      "category": "downgrade",
+      "sources": [
+        "Seeking Alpha",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "ALL",
+      "company": "Allstate",
+      "reason": "HSBC upgraded to Buy from Hold on Oct. 7 with $266 price target",
+      "category": "upgrade",
+      "sources": [
+        "Daily Trade Alert",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "APPF",
+      "company": "AppFolio",
+      "reason": "UBS downgraded to Neutral from Buy on Oct. 7, raising target to $220 from $200",
       "category": "downgrade",
       "sources": [
         "Yahoo Finance",
-        "Goldman Sachs"
+        "Daily Trade Alert"
       ]
     },
     {
-      "ticker": "WFC",
-      "company": "Wells Fargo",
-      "reason": "Morgan Stanley upgraded to Overweight and named Top Pick today; positive banking sector view",
-      "category": "upgrade",
-      "sources": [
-        "Yahoo Finance",
-        "Morgan Stanley"
-      ]
-    },
-    {
-      "ticker": "META",
-      "company": "Meta Platforms",
-      "reason": "Wells Fargo raised price target by $204 to $1,000 citing AI monetization potential",
-      "category": "upgrade",
-      "sources": [
-        "Yahoo Finance",
-        "Wells Fargo Research"
-      ]
-    },
-    {
-      "ticker": "STZ",
-      "company": "Constellation Brands",
-      "reason": "Reported fiscal Q2 earnings today; shares fell 4.56% after hours on results",
+      "ticker": "LEVI",
+      "company": "Levi Strauss & Co.",
+      "reason": "Reporting Q3 earnings after the bell on Oct. 7 (4:10 PM ET); early read on consumer apparel demand",
       "category": "earnings",
       "sources": [
-        "CNBC",
+        "Benzinga",
+        "Earnings Whispers",
         "Yahoo Finance"
       ]
     }
