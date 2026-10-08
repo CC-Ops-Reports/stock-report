@@ -1,174 +1,159 @@
 {
-  "report_date": "2026-10-07",
+  "report_date": "2026-10-08",
   "market_tone": "Bearish",
   "key_themes": [
-    "Nuclear energy/AI power deals driving utility and energy stocks",
-    "Rising bond yields (10-yr ~5.31%) pulling markets back from records",
-    "M&A activity in healthcare sector; Q3 earnings season kicking off"
+    "AI growth caution \u2014 tech/AI stocks slide on OpenAI revenue concerns",
+    "Oil price surge on Iran Strait of Hormuz tanker attacks boosts energy names",
+    "M&A activity \u2014 Viatris acquires Pacira for $1.65B; Chipotle acquisition rumor lifts CMG"
   ],
   "sp500": {
-    "value": "7,801.77",
-    "change": "-0.22%"
+    "value": "7,765.36",
+    "change": "-0.47%"
   },
   "nasdaq": {
-    "value": "27,538.69",
-    "change": "-0.22%"
+    "value": "27,193.34",
+    "change": "-1.25%"
   },
   "stocks": [
     {
-      "ticker": "OPCH",
-      "company": "Option Care Health",
-      "reason": "Surged ~32.7% after McKesson and CD&R announced a ~$5.8B acquisition deal at $32.05/share",
+      "ticker": "PCRX",
+      "company": "Pacira BioSciences",
+      "reason": "Viatris agreed to acquire Pacira for $36.50/share in cash (~$1.65B total), announced Oct 8; shares surged ~44%",
       "category": "news",
       "sources": [
+        "SEC 8-K",
         "CNBC",
-        "Yahoo Finance",
-        "SEC EDGAR"
+        "Morningstar"
       ]
     },
     {
-      "ticker": "CEG",
-      "company": "Constellation Energy",
-      "reason": "Jumped ~12.3% after Alphabet signed a $4.3B, 20-year, 890 MW nuclear power purchase agreement",
+      "ticker": "HAE",
+      "company": "Haemonetics",
+      "reason": "Shares rallied 16-17% after CSL confirmed it will complete U.S. rollout of Haemonetics plasmapheresis platform by end of 2027",
       "category": "news",
       "sources": [
-        "CNBC",
-        "Yahoo Finance",
-        "TheStreet"
-      ]
-    },
-    {
-      "ticker": "VST",
-      "company": "Vistra",
-      "reason": "Surged ~10.8% after DOE announced a $4.2B nuclear investment in Pennsylvania and Ohio, boosting nuclear power demand outlook",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "NEOG",
-      "company": "Neogen Corporation",
-      "reason": "Jumped ~11% after raising fiscal year revenue guidance to $885M-$890M, above prior projections",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance",
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "PENG",
-      "company": "Penguin Solutions",
-      "reason": "Rose ~14.76% after Q4 beat: adjusted EPS of $1.00 vs $0.77 estimate; revenue $566.7M vs $521M estimate",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Morningstar",
-        "Yahoo Finance"
+        "CNBC"
       ]
     },
     {
       "ticker": "WOLF",
       "company": "Wolfspeed",
-      "reason": "Jumped ~27% in after-hours session; specific catalyst emerging after market close",
+      "reason": "Surged 15%+ premarket after securing conditional $1.5B 30-year loan from Dept of Defense for domestic silicon carbide production",
       "category": "news",
       "sources": [
-        "StockAnalysis",
-        "TheStreet"
-      ]
-    },
-    {
-      "ticker": "AMD",
-      "company": "Advanced Micro Devices",
-      "reason": "Rose ~2.8% after CEO Lisa Su stated the company expects to significantly boost chip production in 2027",
-      "category": "news",
-      "sources": [
-        "Yahoo Finance",
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "STZ",
-      "company": "Constellation Brands",
-      "reason": "Fell ~5% despite better-than-expected fiscal Q2 results; investors sold on concerns about forward guidance",
-      "category": "earnings",
-      "sources": [
+        "SEC 8-K",
         "CNBC",
-        "TheStreet"
+        "Benzinga"
       ]
     },
     {
-      "ticker": "FLUT",
-      "company": "Flutter Entertainment",
-      "reason": "Citigroup upgraded to Buy from Neutral today; appeared in Oct. 7 premarket movers list",
+      "ticker": "PLTR",
+      "company": "Palantir Technologies",
+      "reason": "Goldman Sachs upgraded to Buy with $230 price target on Oct 8, bucking the broader AI selloff; shares +2%+",
       "category": "upgrade",
       "sources": [
         "CNBC",
-        "Yahoo Finance",
+        "TradingKey",
         "Daily Trade Alert"
       ]
     },
     {
-      "ticker": "MU",
-      "company": "Micron Technology",
-      "reason": "Rose ~3.65% amid renewed AI infrastructure enthusiasm and broader chip sector momentum",
-      "category": "sector",
+      "ticker": "CMG",
+      "company": "Chipotle Mexican Grill",
+      "reason": "Financial Times reported a major coffee chain has explored acquiring Chipotle; shares surged over 6% on M&A speculation",
+      "category": "news",
       "sources": [
-        "Investing.com",
-        "Yahoo Finance"
+        "CNBC",
+        "Financial Times"
       ]
     },
     {
-      "ticker": "CRWD",
-      "company": "CrowdStrike",
-      "reason": "Fell ~4.04% as investors rotated out of cybersecurity into energy/nuclear plays on Oct. 7",
+      "ticker": "SBUX",
+      "company": "Starbucks",
+      "reason": "Shares fell ~5%; cited as the coffee giant reportedly exploring Chipotle acquisition, raising strategic cost concerns among investors",
+      "category": "news",
+      "sources": [
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "MPC",
+      "company": "Marathon Petroleum",
+      "reason": "Energy stocks rallied 4%+ as oil prices spiked following Iran escalation with attacks on tankers in Strait of Hormuz",
       "category": "sector",
       "sources": [
-        "Investing.com",
         "CNBC"
+      ]
+    },
+    {
+      "ticker": "PEP",
+      "company": "PepsiCo",
+      "reason": "Q3 2026 earnings beat: adj. EPS $2.34 vs $2.29 expected; net revenue up 5.6% YoY to $25.27B; reported Oct 8 pre-market",
+      "category": "earnings",
+      "sources": [
+        "SEC 8-K",
+        "Bloomberg",
+        "CNBC",
+        "TipRanks"
       ]
     },
     {
       "ticker": "NVDA",
-      "company": "NVIDIA",
-      "reason": "Downgraded by multiple analysts today amid AI sector rotation; appeared in Seeking Alpha top downgrades",
-      "category": "downgrade",
+      "company": "Nvidia",
+      "reason": "Fell ~3% as AI-related names broadly sold off amid investor caution over AI growth trajectory following OpenAI revenue concerns",
+      "category": "sector",
       "sources": [
-        "Seeking Alpha",
-        "Yahoo Finance"
+        "CNBC",
+        "Yahoo Finance",
+        "Morningstar"
       ]
     },
     {
-      "ticker": "ALL",
-      "company": "Allstate",
-      "reason": "HSBC upgraded to Buy from Hold on Oct. 7 with $266 price target",
+      "ticker": "INTC",
+      "company": "Intel",
+      "reason": "Fell ~5% as semiconductor sector came under pressure amid AI trade caution and rising Treasury yields (10-yr at 5.23%)",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "Morningstar"
+      ]
+    },
+    {
+      "ticker": "GFS",
+      "company": "GlobalFoundries",
+      "reason": "Shares gained ~5% after announcing multiyear $2B manufacturing agreement with TSMC to produce silicon interposers",
+      "category": "news",
+      "sources": [
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "HELE",
+      "company": "Helen of Troy",
+      "reason": "Q3 2026 earnings beat: adj. EPS $0.79 vs $0.50 expected; significant upside surprise reported Oct 8 pre-market",
+      "category": "earnings",
+      "sources": [
+        "TipRanks",
+        "MarketBeat"
+      ]
+    },
+    {
+      "ticker": "CAVA",
+      "company": "CAVA Group",
+      "reason": "Melius Research upgraded to Buy from Hold with $95 price target on Oct 8, citing strong unit economics and expansion outlook",
       "category": "upgrade",
-      "sources": [
-        "Daily Trade Alert",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "APPF",
-      "company": "AppFolio",
-      "reason": "UBS downgraded to Neutral from Buy on Oct. 7, raising target to $220 from $200",
-      "category": "downgrade",
       "sources": [
         "Yahoo Finance",
         "Daily Trade Alert"
       ]
     },
     {
-      "ticker": "LEVI",
-      "company": "Levi Strauss & Co.",
-      "reason": "Reporting Q3 earnings after the bell on Oct. 7 (4:10 PM ET); early read on consumer apparel demand",
-      "category": "earnings",
+      "ticker": "GPN",
+      "company": "Global Payments",
+      "reason": "Oppenheimer raised to Outperform from Perform with $115 price target on Oct 8 amid fintech sector re-rating",
+      "category": "upgrade",
       "sources": [
-        "Benzinga",
-        "Earnings Whispers",
-        "Yahoo Finance"
+        "Daily Trade Alert"
       ]
     }
   ]
