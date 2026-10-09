@@ -1,159 +1,167 @@
 {
-  "report_date": "2026-10-08",
-  "market_tone": "Bearish",
+  "report_date": "2026-10-09",
+  "market_tone": "Bullish",
   "key_themes": [
-    "AI growth caution \u2014 tech/AI stocks slide on OpenAI revenue concerns",
-    "Oil price surge on Iran Strait of Hormuz tanker attacks boosts energy names",
-    "M&A activity \u2014 Viatris acquires Pacira for $1.65B; Chipotle acquisition rumor lifts CMG"
+    "SpaceX Starlink Mobile disrupts telecom sector with $8B nationwide spectrum acquisition",
+    "CMS 2027 Medicare Advantage Star Ratings reshuffle managed-care winners and losers",
+    "Earnings season kick-off as Delta reports mixed Q3; bank earnings start next week"
   ],
   "sp500": {
-    "value": "7,765.36",
-    "change": "-0.47%"
+    "value": "7,811.51",
+    "change": "+0.59%"
   },
   "nasdaq": {
-    "value": "27,193.34",
-    "change": "-1.25%"
+    "value": "27,366.17",
+    "change": "+0.64%"
   },
   "stocks": [
     {
-      "ticker": "PCRX",
-      "company": "Pacira BioSciences",
-      "reason": "Viatris agreed to acquire Pacira for $36.50/share in cash (~$1.65B total), announced Oct 8; shares surged ~44%",
-      "category": "news",
-      "sources": [
-        "SEC 8-K",
-        "CNBC",
-        "Morningstar"
-      ]
-    },
-    {
-      "ticker": "HAE",
-      "company": "Haemonetics",
-      "reason": "Shares rallied 16-17% after CSL confirmed it will complete U.S. rollout of Haemonetics plasmapheresis platform by end of 2027",
-      "category": "news",
-      "sources": [
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "WOLF",
-      "company": "Wolfspeed",
-      "reason": "Surged 15%+ premarket after securing conditional $1.5B 30-year loan from Dept of Defense for domestic silicon carbide production",
-      "category": "news",
-      "sources": [
-        "SEC 8-K",
-        "CNBC",
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "PLTR",
-      "company": "Palantir Technologies",
-      "reason": "Goldman Sachs upgraded to Buy with $230 price target on Oct 8, bucking the broader AI selloff; shares +2%+",
-      "category": "upgrade",
-      "sources": [
-        "CNBC",
-        "TradingKey",
-        "Daily Trade Alert"
-      ]
-    },
-    {
-      "ticker": "CMG",
-      "company": "Chipotle Mexican Grill",
-      "reason": "Financial Times reported a major coffee chain has explored acquiring Chipotle; shares surged over 6% on M&A speculation",
+      "ticker": "HUM",
+      "company": "Humana",
+      "reason": "Surged 12-15% after CMS 2027 Medicare Advantage Star Ratings showed 95% of Humana members in 4-star+ plans, up from 20%; flagship contract jumped from 3.5 to 4 stars, unlocking bonus payments; Barclays upgraded to Overweight, $515 PT",
       "category": "news",
       "sources": [
         "CNBC",
-        "Financial Times"
+        "Seeking Alpha",
+        "Benzinga",
+        "Yahoo Finance"
       ]
     },
     {
-      "ticker": "SBUX",
-      "company": "Starbucks",
-      "reason": "Shares fell ~5%; cited as the coffee giant reportedly exploring Chipotle acquisition, raising strategic cost concerns among investors",
+      "ticker": "TMUS",
+      "company": "T-Mobile",
+      "reason": "Plunged 13.27% \u2014 worst single-day drop in years \u2014 after SpaceX announced ~$8B acquisition of nationwide 800 MHz low-band spectrum from Grain Management, raising direct competition threat for Starlink Mobile vs. US wireless carriers",
       "category": "news",
-      "sources": [
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "MPC",
-      "company": "Marathon Petroleum",
-      "reason": "Energy stocks rallied 4%+ as oil prices spiked following Iran escalation with attacks on tankers in Strait of Hormuz",
-      "category": "sector",
-      "sources": [
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "PEP",
-      "company": "PepsiCo",
-      "reason": "Q3 2026 earnings beat: adj. EPS $2.34 vs $2.29 expected; net revenue up 5.6% YoY to $25.27B; reported Oct 8 pre-market",
-      "category": "earnings",
-      "sources": [
-        "SEC 8-K",
-        "Bloomberg",
-        "CNBC",
-        "TipRanks"
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "reason": "Fell ~3% as AI-related names broadly sold off amid investor caution over AI growth trajectory following OpenAI revenue concerns",
-      "category": "sector",
       "sources": [
         "CNBC",
         "Yahoo Finance",
-        "Morningstar"
+        "Seeking Alpha"
       ]
     },
     {
-      "ticker": "INTC",
-      "company": "Intel",
-      "reason": "Fell ~5% as semiconductor sector came under pressure amid AI trade caution and rising Treasury yields (10-yr at 5.23%)",
-      "category": "sector",
-      "sources": [
-        "CNBC",
-        "Morningstar"
-      ]
-    },
-    {
-      "ticker": "GFS",
-      "company": "GlobalFoundries",
-      "reason": "Shares gained ~5% after announcing multiyear $2B manufacturing agreement with TSMC to produce silicon interposers",
+      "ticker": "VZ",
+      "company": "Verizon",
+      "reason": "Fell 8.75%, worst day since July 2002, on SpaceX Starlink Mobile nationwide spectrum acquisition deal raising fears of a new direct-to-consumer mobile competitor",
       "category": "news",
       "sources": [
-        "CNBC"
+        "CNBC",
+        "Yahoo Finance",
+        "247WallSt"
       ]
     },
     {
-      "ticker": "HELE",
-      "company": "Helen of Troy",
-      "reason": "Q3 2026 earnings beat: adj. EPS $0.79 vs $0.50 expected; significant upside surprise reported Oct 8 pre-market",
-      "category": "earnings",
-      "sources": [
-        "TipRanks",
-        "MarketBeat"
-      ]
-    },
-    {
-      "ticker": "CAVA",
-      "company": "CAVA Group",
-      "reason": "Melius Research upgraded to Buy from Hold with $95 price target on Oct 8, citing strong unit economics and expansion outlook",
-      "category": "upgrade",
+      "ticker": "T",
+      "company": "AT&T",
+      "reason": "Dropped 9.81% on same SpaceX Starlink Mobile spectrum deal; Elon Musk called the spectrum \"the last critical piece of the puzzle\" for nationwide phone coverage",
+      "category": "news",
       "sources": [
         "Yahoo Finance",
-        "Daily Trade Alert"
+        "CNBC",
+        "Seeking Alpha"
       ]
     },
     {
-      "ticker": "GPN",
-      "company": "Global Payments",
-      "reason": "Oppenheimer raised to Outperform from Perform with $115 price target on Oct 8 amid fintech sector re-rating",
+      "ticker": "SPCX",
+      "company": "SpaceX",
+      "reason": "Gained ~4% in morning trade after announcing $8B deal to acquire Grain Management's nationwide 800 MHz low-band spectrum portfolio to expand Starlink Mobile direct-to-smartphone service; FCC also authorized 15,000 next-gen Starlink satellites",
+      "category": "news",
+      "sources": [
+        "Seeking Alpha",
+        "Yahoo Finance",
+        "GuruFocus"
+      ]
+    },
+    {
+      "ticker": "CCI",
+      "company": "Crown Castle",
+      "reason": "Surged ~12% as investors interpreted SpaceX's spectrum acquisition as a signal of accelerating wireless infrastructure build-out, benefiting tower REITs",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "AMT",
+      "company": "American Tower",
+      "reason": "Advanced ~8% alongside other tower REITs on SpaceX spectrum acquisition news driving expectations of increased cell tower demand",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "ALHC",
+      "company": "Alignment Healthcare",
+      "reason": "Plunged ~14-23% after CMS 2027 Star Ratings showed Alignment's largest Medicare Advantage contract fell below the 4-star bonus threshold, threatening significant revenue loss",
+      "category": "news",
+      "sources": [
+        "Seeking Alpha",
+        "StockTwits",
+        "Investing.com"
+      ]
+    },
+    {
+      "ticker": "CVS",
+      "company": "CVS Health",
+      "reason": "Down ~5% as CMS 2027 Medicare Advantage Star Ratings release pressured CVS/Aetna; sector-wide reassessment of managed care bonus payment exposures",
+      "category": "sector",
+      "sources": [
+        "Yahoo Finance",
+        "Investing.com"
+      ]
+    },
+    {
+      "ticker": "MRNA",
+      "company": "Moderna",
+      "reason": "Jumped 9.22% after officially rejoining the Nasdaq-100 Index before market open, triggering index-fund inflows",
+      "category": "news",
+      "sources": [
+        "Yahoo Finance",
+        "Seeking Alpha"
+      ]
+    },
+    {
+      "ticker": "DAL",
+      "company": "Delta Air Lines",
+      "reason": "Q3 earnings: adjusted revenue +16% to $17.6B, EPS $1.72, but cut full-year EPS guidance to $5.10-$5.60 from $6.50-$7.50; stock finished essentially flat as strong revenue offset guidance cut",
+      "category": "earnings",
+      "sources": [
+        "TheStreet",
+        "Yahoo Finance",
+        "Bloomberg"
+      ]
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum",
+      "reason": "Shares jumped ~7% after CEO Michael Hurlston said Lumentum's optical components are sold out through 2029, signaling sustained AI/data center infrastructure demand",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "BA",
+      "company": "Boeing",
+      "reason": "Received Overweight initiation from Barclays, adding to recent positive analyst coverage; part of Barclays' aerospace/defense upgrade wave alongside Archer Aviation and CAE",
       "category": "upgrade",
       "sources": [
-        "Daily Trade Alert"
+        "Benzinga",
+        "Daily Trade Alert",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "reason": "Slipped after reports surfaced that Apple reduced component orders for its next iPhone series due to weaker-than-expected consumer demand signals",
+      "category": "news",
+      "sources": [
+        "Seeking Alpha",
+        "CNBC"
       ]
     }
   ]
