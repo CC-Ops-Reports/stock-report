@@ -1,142 +1,115 @@
 {
-  "report_date": "2026-10-09",
-  "market_tone": "Bullish",
+  "report_date": "2026-10-12",
+  "market_tone": "Mixed",
   "key_themes": [
-    "SpaceX Starlink Mobile disrupts telecom sector with $8B nationwide spectrum acquisition",
-    "CMS 2027 Medicare Advantage Star Ratings reshuffle managed-care winners and losers",
-    "Earnings season kick-off as Delta reports mixed Q3; bank earnings start next week"
+    "Big bank earnings season kicks off Tuesday (JPMorgan, Citigroup, WFC, Goldman Sachs pre-market)",
+    "China CXMT next-gen DRAM announcement hammers memory and storage stocks",
+    "Meta launches Muse AI model boosting AI/software names; optical sector rotates lower"
   ],
   "sp500": {
-    "value": "7,811.51",
-    "change": "+0.59%"
+    "value": "7,807.24",
+    "change": "-0.06%"
   },
   "nasdaq": {
-    "value": "27,366.17",
-    "change": "+0.64%"
+    "value": "27,245.90",
+    "change": "-0.44%"
   },
   "stocks": [
     {
-      "ticker": "HUM",
-      "company": "Humana",
-      "reason": "Surged 12-15% after CMS 2027 Medicare Advantage Star Ratings showed 95% of Humana members in 4-star+ plans, up from 20%; flagship contract jumped from 3.5 to 4 stars, unlocking bonus payments; Barclays upgraded to Overweight, $515 PT",
+      "ticker": "CRM",
+      "company": "Salesforce",
+      "reason": "Bank of America double-upgraded from Underperform to Buy with $285 target; shares +4.33%",
+      "category": "upgrade",
+      "sources": [
+        "CNBC",
+        "Investrade"
+      ]
+    },
+    {
+      "ticker": "EBAY",
+      "company": "eBay",
+      "reason": "Morgan Stanley named top pick and raised price target to $132 from $127; shares +4.12%",
+      "category": "upgrade",
+      "sources": [
+        "CNBC",
+        "TheStreet"
+      ]
+    },
+    {
+      "ticker": "META",
+      "company": "Meta Platforms",
+      "reason": "Unveiled Muse, a new autonomous AI personal assistant model; shares gained 3%+",
       "category": "news",
       "sources": [
         "CNBC",
-        "Seeking Alpha",
-        "Benzinga",
-        "Yahoo Finance"
+        "Parameter.io"
       ]
     },
     {
-      "ticker": "TMUS",
-      "company": "T-Mobile",
-      "reason": "Plunged 13.27% \u2014 worst single-day drop in years \u2014 after SpaceX announced ~$8B acquisition of nationwide 800 MHz low-band spectrum from Grain Management, raising direct competition threat for Starlink Mobile vs. US wireless carriers",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance",
-        "Seeking Alpha"
-      ]
-    },
-    {
-      "ticker": "VZ",
-      "company": "Verizon",
-      "reason": "Fell 8.75%, worst day since July 2002, on SpaceX Starlink Mobile nationwide spectrum acquisition deal raising fears of a new direct-to-consumer mobile competitor",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance",
-        "247WallSt"
-      ]
-    },
-    {
-      "ticker": "T",
-      "company": "AT&T",
-      "reason": "Dropped 9.81% on same SpaceX Starlink Mobile spectrum deal; Elon Musk called the spectrum \"the last critical piece of the puzzle\" for nationwide phone coverage",
-      "category": "news",
-      "sources": [
-        "Yahoo Finance",
-        "CNBC",
-        "Seeking Alpha"
-      ]
-    },
-    {
-      "ticker": "SPCX",
-      "company": "SpaceX",
-      "reason": "Gained ~4% in morning trade after announcing $8B deal to acquire Grain Management's nationwide 800 MHz low-band spectrum portfolio to expand Starlink Mobile direct-to-smartphone service; FCC also authorized 15,000 next-gen Starlink satellites",
-      "category": "news",
-      "sources": [
-        "Seeking Alpha",
-        "Yahoo Finance",
-        "GuruFocus"
-      ]
-    },
-    {
-      "ticker": "CCI",
-      "company": "Crown Castle",
-      "reason": "Surged ~12% as investors interpreted SpaceX's spectrum acquisition as a signal of accelerating wireless infrastructure build-out, benefiting tower REITs",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "AMT",
-      "company": "American Tower",
-      "reason": "Advanced ~8% alongside other tower REITs on SpaceX spectrum acquisition news driving expectations of increased cell tower demand",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "ALHC",
-      "company": "Alignment Healthcare",
-      "reason": "Plunged ~14-23% after CMS 2027 Star Ratings showed Alignment's largest Medicare Advantage contract fell below the 4-star bonus threshold, threatening significant revenue loss",
-      "category": "news",
-      "sources": [
-        "Seeking Alpha",
-        "StockTwits",
-        "Investing.com"
-      ]
-    },
-    {
-      "ticker": "CVS",
-      "company": "CVS Health",
-      "reason": "Down ~5% as CMS 2027 Medicare Advantage Star Ratings release pressured CVS/Aetna; sector-wide reassessment of managed care bonus payment exposures",
-      "category": "sector",
-      "sources": [
-        "Yahoo Finance",
-        "Investing.com"
-      ]
-    },
-    {
-      "ticker": "MRNA",
-      "company": "Moderna",
-      "reason": "Jumped 9.22% after officially rejoining the Nasdaq-100 Index before market open, triggering index-fund inflows",
-      "category": "news",
-      "sources": [
-        "Yahoo Finance",
-        "Seeking Alpha"
-      ]
-    },
-    {
-      "ticker": "DAL",
-      "company": "Delta Air Lines",
-      "reason": "Q3 earnings: adjusted revenue +16% to $17.6B, EPS $1.72, but cut full-year EPS guidance to $5.10-$5.60 from $6.50-$7.50; stock finished essentially flat as strong revenue offset guidance cut",
+      "ticker": "FICO",
+      "company": "Fair Isaac Corporation",
+      "reason": "Top S&P 500 gainer on the session at +10.85%; fiscal Q4 ends September \u2014 likely earnings beat",
       "category": "earnings",
       "sources": [
-        "TheStreet",
         "Yahoo Finance",
-        "Bloomberg"
+        "SmartKarma"
+      ]
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "reason": "China's CXMT announced next-gen denser DRAM design and server-memory modules by year-end; shares -3.88%",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "TheStreet",
+        "Vistapg Global"
+      ]
+    },
+    {
+      "ticker": "SNDK",
+      "company": "Sandisk",
+      "reason": "China's CXMT next-gen DRAM/memory production news hit storage stocks hard; shares -5%+",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "WDC",
+      "company": "Western Digital",
+      "reason": "Caught in memory sector selloff after China CXMT next-gen DRAM announcement; shares -2%+",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "CIEN",
+      "company": "Ciena",
+      "reason": "Optical sector cooled sharply after recent run; shares -8%+ in sector-wide rotation",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "TIKR"
       ]
     },
     {
       "ticker": "LITE",
-      "company": "Lumentum",
-      "reason": "Shares jumped ~7% after CEO Michael Hurlston said Lumentum's optical components are sold out through 2029, signaling sustained AI/data center infrastructure demand",
+      "company": "Lumentum Holdings",
+      "reason": "Optical/photonics sector selloff dragged Lumentum lower; shares -9% on profit-taking",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "TIKR"
+      ]
+    },
+    {
+      "ticker": "BE",
+      "company": "Bloom Energy",
+      "reason": "Profit-taking after massive prior rally; solid oxide fuel cell maker sank -6.93%",
       "category": "news",
       "sources": [
         "CNBC",
@@ -144,24 +117,53 @@
       ]
     },
     {
-      "ticker": "BA",
-      "company": "Boeing",
-      "reason": "Received Overweight initiation from Barclays, adding to recent positive analyst coverage; part of Barclays' aerospace/defense upgrade wave alongside Archer Aviation and CAE",
+      "ticker": "BIIB",
+      "company": "Biogen",
+      "reason": "JPMorgan upgraded from Neutral to Overweight; among top analyst calls of the day",
       "category": "upgrade",
       "sources": [
-        "Benzinga",
         "Daily Trade Alert",
-        "Yahoo Finance"
+        "Investrade"
       ]
     },
     {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "reason": "Slipped after reports surfaced that Apple reduced component orders for its next iPhone series due to weaker-than-expected consumer demand signals",
+      "ticker": "IONQ",
+      "company": "IonQ",
+      "reason": "Named in CNBC midday movers; quantum computing stock active alongside AI/tech theme",
       "category": "news",
       "sources": [
-        "Seeking Alpha",
         "CNBC"
+      ]
+    },
+    {
+      "ticker": "JPM",
+      "company": "JPMorgan Chase",
+      "reason": "Reports Q3 2026 earnings Tuesday pre-market; major pre-positioning ahead of earnings season kickoff",
+      "category": "earnings",
+      "sources": [
+        "TheStreet",
+        "Yahoo Finance",
+        "Digrin"
+      ]
+    },
+    {
+      "ticker": "GS",
+      "company": "Goldman Sachs",
+      "reason": "Reports Q3 2026 earnings Tuesday pre-market; analyst consensus ~$13.33 EPS; in focus today",
+      "category": "earnings",
+      "sources": [
+        "TheStreet",
+        "TipRanks",
+        "Vistapg Global"
+      ]
+    },
+    {
+      "ticker": "RIVN",
+      "company": "Rivian Automotive",
+      "reason": "Seeking Alpha analysts upgraded citing delivery momentum and shareholder catalyst potential",
+      "category": "upgrade",
+      "sources": [
+        "Seeking Alpha"
       ]
     }
   ]
