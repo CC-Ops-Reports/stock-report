@@ -1,169 +1,174 @@
 {
-  "report_date": "2026-10-12",
+  "report_date": "2026-10-13",
   "market_tone": "Mixed",
   "key_themes": [
-    "Big bank earnings season kicks off Tuesday (JPMorgan, Citigroup, WFC, Goldman Sachs pre-market)",
-    "China CXMT next-gen DRAM announcement hammers memory and storage stocks",
-    "Meta launches Muse AI model boosting AI/software names; optical sector rotates lower"
+    "Bank earnings season: Goldman Sachs and UnitedHealth beat estimates; JPMorgan and Wells Fargo disappoint on revenue",
+    "Memory/chip sector selloff: CXMT competition fears hit Micron, Applied Materials, SK Hynix",
+    "M&A surge: Bumble acquired by Ithaca Holdings in $1.3B all-cash deal; AI infrastructure deals lift Fermi"
   ],
   "sp500": {
-    "value": "7,807.24",
-    "change": "-0.06%"
+    "value": "7,805.45",
+    "change": "-0.25%"
   },
   "nasdaq": {
-    "value": "27,245.90",
-    "change": "-0.44%"
+    "value": "27,204.38",
+    "change": "-0.15%"
   },
   "stocks": [
     {
-      "ticker": "CRM",
-      "company": "Salesforce",
-      "reason": "Bank of America double-upgraded from Underperform to Buy with $285 target; shares +4.33%",
-      "category": "upgrade",
+      "ticker": "BMBL",
+      "company": "Bumble Inc.",
+      "reason": "Surged ~56% after announcing all-cash acquisition by Ithaca Holdings valuing the company at $1.3 billion",
+      "category": "news",
       "sources": [
         "CNBC",
-        "Investrade"
+        "TheStreet",
+        "Trefis"
       ]
     },
     {
-      "ticker": "EBAY",
-      "company": "eBay",
-      "reason": "Morgan Stanley named top pick and raised price target to $132 from $127; shares +4.12%",
-      "category": "upgrade",
+      "ticker": "GS",
+      "company": "Goldman Sachs",
+      "reason": "Q3 EPS of $17.01 vs. consensus of $13.02; shares rose ~4% premarket on strong earnings beat",
+      "category": "earnings",
       "sources": [
         "CNBC",
+        "TheStreet",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "UNH",
+      "company": "UnitedHealth Group",
+      "reason": "Q3 results beat expectations; company raised full-year 2026 profit outlook with improved Optum margins; shares +5.28% premarket",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance",
         "TheStreet"
       ]
     },
     {
       "ticker": "META",
       "company": "Meta Platforms",
-      "reason": "Unveiled Muse, a new autonomous AI personal assistant model; shares gained 3%+",
+      "reason": "Shares climbed ~2-3.4% on rollout of Muse Wonder AI model family; Truist raised price target to $1,000",
       "category": "news",
       "sources": [
         "CNBC",
-        "Parameter.io"
+        "TheStreet"
       ]
     },
     {
-      "ticker": "FICO",
-      "company": "Fair Isaac Corporation",
-      "reason": "Top S&P 500 gainer on the session at +10.85%; fiscal Q4 ends September \u2014 likely earnings beat",
+      "ticker": "JPM",
+      "company": "JPMorgan Chase",
+      "reason": "Q3 revenue miss but raised 2026 net interest income guidance; shares ended session -0.9%",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance",
+        "Benzinga"
+      ]
+    },
+    {
+      "ticker": "WFC",
+      "company": "Wells Fargo",
+      "reason": "Q3 profit beat but revenue miss; shares fell ~3% on mixed results",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Motley Fool",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "C",
+      "company": "Citigroup",
+      "reason": "Q3 EPS of $2.85 beat consensus of $2.66; shares moved on headline earnings beat",
       "category": "earnings",
       "sources": [
         "Yahoo Finance",
-        "SmartKarma"
+        "TheStreet",
+        "Benzinga"
       ]
     },
     {
       "ticker": "MU",
       "company": "Micron Technology",
-      "reason": "China's CXMT announced next-gen denser DRAM design and server-memory modules by year-end; shares -3.88%",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "TheStreet",
-        "Vistapg Global"
-      ]
-    },
-    {
-      "ticker": "SNDK",
-      "company": "Sandisk",
-      "reason": "China's CXMT next-gen DRAM/memory production news hit storage stocks hard; shares -5%+",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "WDC",
-      "company": "Western Digital",
-      "reason": "Caught in memory sector selloff after China CXMT next-gen DRAM announcement; shares -2%+",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "CIEN",
-      "company": "Ciena",
-      "reason": "Optical sector cooled sharply after recent run; shares -8%+ in sector-wide rotation",
+      "reason": "Fell ~4.9% as CXMT (Chinese chip maker) announced plans to release a more powerful memory chip by end of 2026, raising competitive fears",
       "category": "sector",
       "sources": [
         "CNBC",
-        "TIKR"
+        "Seeking Alpha"
       ]
     },
     {
-      "ticker": "LITE",
-      "company": "Lumentum Holdings",
-      "reason": "Optical/photonics sector selloff dragged Lumentum lower; shares -9% on profit-taking",
+      "ticker": "AMAT",
+      "company": "Applied Materials",
+      "reason": "Dropped ~6% amid broader semiconductor/memory equipment selloff driven by CXMT competition concerns",
       "category": "sector",
       "sources": [
         "CNBC",
-        "TIKR"
+        "Motley Fool"
       ]
     },
     {
-      "ticker": "BE",
-      "company": "Bloom Energy",
-      "reason": "Profit-taking after massive prior rally; solid oxide fuel cell maker sank -6.93%",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "BIIB",
-      "company": "Biogen",
-      "reason": "JPMorgan upgraded from Neutral to Overweight; among top analyst calls of the day",
-      "category": "upgrade",
-      "sources": [
-        "Daily Trade Alert",
-        "Investrade"
-      ]
-    },
-    {
-      "ticker": "IONQ",
-      "company": "IonQ",
-      "reason": "Named in CNBC midday movers; quantum computing stock active alongside AI/tech theme",
+      "ticker": "AAPL",
+      "company": "Apple Inc.",
+      "reason": "Gained ~1% after unveiling new HomeView smart home hub product at October event",
       "category": "news",
       "sources": [
         "CNBC"
       ]
     },
     {
-      "ticker": "JPM",
-      "company": "JPMorgan Chase",
-      "reason": "Reports Q3 2026 earnings Tuesday pre-market; major pre-positioning ahead of earnings season kickoff",
-      "category": "earnings",
+      "ticker": "FRMI",
+      "company": "Fermi",
+      "reason": "Jumped ~17% after signing credit support agreement with AMD backing the first phase of Project Matador AI/energy buildout in Texas",
+      "category": "news",
       "sources": [
-        "TheStreet",
-        "Yahoo Finance",
-        "Digrin"
+        "CNBC",
+        "TheStreet"
       ]
     },
     {
-      "ticker": "GS",
-      "company": "Goldman Sachs",
-      "reason": "Reports Q3 2026 earnings Tuesday pre-market; analyst consensus ~$13.33 EPS; in focus today",
+      "ticker": "JNJ",
+      "company": "Johnson & Johnson",
+      "reason": "Beat Q3 estimates and raised full-year 2026 guidance; medtech division revenue growth of 2.5% trailed expectations but pharma offset the miss",
       "category": "earnings",
       "sources": [
-        "TheStreet",
-        "TipRanks",
-        "Vistapg Global"
+        "CNBC",
+        "Yahoo Finance"
       ]
     },
     {
-      "ticker": "RIVN",
-      "company": "Rivian Automotive",
-      "reason": "Seeking Alpha analysts upgraded citing delivery momentum and shareholder catalyst potential",
+      "ticker": "VFC",
+      "company": "VF Corporation",
+      "reason": "Multiple upgrades today: Truist raised to Buy with $20 PT (from $14); Piper Sandler upgraded to Overweight with $20 PT",
       "category": "upgrade",
       "sources": [
-        "Seeking Alpha"
+        "Yahoo Finance",
+        "247WallSt",
+        "Benzinga"
+      ]
+    },
+    {
+      "ticker": "ADBE",
+      "company": "Adobe Inc.",
+      "reason": "Downgraded by analyst with price target cut to $267; no longer rated Bullish amid valuation concerns",
+      "category": "downgrade",
+      "sources": [
+        "Yahoo Finance",
+        "Benzinga"
+      ]
+    },
+    {
+      "ticker": "ASTS",
+      "company": "AST SpaceMobile",
+      "reason": "Piper Sandler downgraded to Neutral from Overweight; price target slashed from $98 to $54",
+      "category": "downgrade",
+      "sources": [
+        "Benzinga",
+        "247WallSt"
       ]
     }
   ]
