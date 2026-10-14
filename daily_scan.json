@@ -1,35 +1,45 @@
 {
-  "report_date": "2026-10-13",
-  "market_tone": "Mixed",
+  "report_date": "2026-10-14",
+  "market_tone": "Bearish",
   "key_themes": [
-    "Bank earnings season: Goldman Sachs and UnitedHealth beat estimates; JPMorgan and Wells Fargo disappoint on revenue",
-    "Memory/chip sector selloff: CXMT competition fears hit Micron, Applied Materials, SK Hynix",
-    "M&A surge: Bumble acquired by Ithaca Holdings in $1.3B all-cash deal; AI infrastructure deals lift Fermi"
+    "Hot CPI (3.7% YoY, 0.6% MoM) sparks Fed rate-hike fears, driving broad selloff",
+    "AI stocks under pressure as rising yields hit CoreWeave bonds and Oracle growth narrative",
+    "Big bank earnings mixed: BAC misses on $1.2B regulatory penalty, MS and BLK beat"
   ],
   "sp500": {
-    "value": "7,805.45",
-    "change": "-0.25%"
+    "value": "7,718.94",
+    "change": "-1.11%"
   },
   "nasdaq": {
-    "value": "27,204.38",
-    "change": "-0.15%"
+    "value": "26,692.87",
+    "change": "-1.88%"
   },
   "stocks": [
     {
-      "ticker": "BMBL",
-      "company": "Bumble Inc.",
-      "reason": "Surged ~56% after announcing all-cash acquisition by Ithaca Holdings valuing the company at $1.3 billion",
+      "ticker": "CRWV",
+      "company": "CoreWeave",
+      "reason": "Fell ~15% as Bloomberg reported sharp selloff in CoreWeave bonds; AI debt concerns amplified by hot CPI rate-hike fears",
       "category": "news",
       "sources": [
         "CNBC",
-        "TheStreet",
-        "Trefis"
+        "Bloomberg",
+        "TheStreet"
       ]
     },
     {
-      "ticker": "GS",
-      "company": "Goldman Sachs",
-      "reason": "Q3 EPS of $17.01 vs. consensus of $13.02; shares rose ~4% premarket on strong earnings beat",
+      "ticker": "BSP",
+      "company": "Bending Spoons",
+      "reason": "Surged ~40% after Berkshire Hathaway announced a new $330M investment following $600M IPO stake",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Morningstar"
+      ]
+    },
+    {
+      "ticker": "BAC",
+      "company": "Bank of America",
+      "reason": "Dropped ~7% after Q3 earnings miss driven by a $1.2B money-laundering regulatory penalty",
       "category": "earnings",
       "sources": [
         "CNBC",
@@ -38,137 +48,125 @@
       ]
     },
     {
-      "ticker": "UNH",
-      "company": "UnitedHealth Group",
-      "reason": "Q3 results beat expectations; company raised full-year 2026 profit outlook with improved Optum margins; shares +5.28% premarket",
-      "category": "earnings",
+      "ticker": "DELL",
+      "company": "Dell Technologies",
+      "reason": "Fell ~8% after Barclays downgraded to Equal Weight from Overweight, flagging caution on IT hardware",
+      "category": "downgrade",
       "sources": [
-        "CNBC",
         "Yahoo Finance",
+        "247WallSt",
         "TheStreet"
       ]
     },
     {
-      "ticker": "META",
-      "company": "Meta Platforms",
-      "reason": "Shares climbed ~2-3.4% on rollout of Muse Wonder AI model family; Truist raised price target to $1,000",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "TheStreet"
-      ]
-    },
-    {
-      "ticker": "JPM",
-      "company": "JPMorgan Chase",
-      "reason": "Q3 revenue miss but raised 2026 net interest income guidance; shares ended session -0.9%",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance",
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "WFC",
-      "company": "Wells Fargo",
-      "reason": "Q3 profit beat but revenue miss; shares fell ~3% on mixed results",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Motley Fool",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "C",
-      "company": "Citigroup",
-      "reason": "Q3 EPS of $2.85 beat consensus of $2.66; shares moved on headline earnings beat",
-      "category": "earnings",
-      "sources": [
-        "Yahoo Finance",
-        "TheStreet",
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron Technology",
-      "reason": "Fell ~4.9% as CXMT (Chinese chip maker) announced plans to release a more powerful memory chip by end of 2026, raising competitive fears",
+      "ticker": "ORCL",
+      "company": "Oracle",
+      "reason": "Dropped ~8.8% as hotter-than-expected CPI lifted Treasury yields and rattled AI/cloud growth stocks",
       "category": "sector",
       "sources": [
-        "CNBC",
-        "Seeking Alpha"
+        "Yahoo Finance",
+        "VistaP Global"
       ]
     },
     {
-      "ticker": "AMAT",
-      "company": "Applied Materials",
-      "reason": "Dropped ~6% amid broader semiconductor/memory equipment selloff driven by CXMT competition concerns",
-      "category": "sector",
-      "sources": [
-        "CNBC",
-        "Motley Fool"
-      ]
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple Inc.",
-      "reason": "Gained ~1% after unveiling new HomeView smart home hub product at October event",
+      "ticker": "IONQ",
+      "company": "IonQ",
+      "reason": "Fell ~8% after announcing a $2 billion equity offering, raising dilution concerns",
       "category": "news",
       "sources": [
         "CNBC"
       ]
     },
     {
-      "ticker": "FRMI",
-      "company": "Fermi",
-      "reason": "Jumped ~17% after signing credit support agreement with AMD backing the first phase of Project Matador AI/energy buildout in Texas",
+      "ticker": "LQDA",
+      "company": "Liquidia",
+      "reason": "Gained ~26% premarket and held gains as legal overhang eased following favorable court development",
       "category": "news",
       "sources": [
+        "Yahoo Finance",
+        "Morningstar"
+      ]
+    },
+    {
+      "ticker": "ASML",
+      "company": "ASML Holding",
+      "reason": "Reported Q3 net sales of \u20ac11.7B and guided Q4 to \u20ac14.2\u2013\u20ac15.2B; strong gross margin of 57.5%",
+      "category": "earnings",
+      "sources": [
         "CNBC",
+        "Benzinga",
         "TheStreet"
       ]
     },
     {
-      "ticker": "JNJ",
-      "company": "Johnson & Johnson",
-      "reason": "Beat Q3 estimates and raised full-year 2026 guidance; medtech division revenue growth of 2.5% trailed expectations but pharma offset the miss",
+      "ticker": "MS",
+      "company": "Morgan Stanley",
+      "reason": "Beat Q3 estimates with $3.03 EPS vs $2.91 expected on $20.34B revenue; stock up modestly",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "Yahoo Finance"
+        "TheStreet",
+        "Benzinga"
       ]
     },
     {
-      "ticker": "VFC",
-      "company": "VF Corporation",
-      "reason": "Multiple upgrades today: Truist raised to Buy with $20 PT (from $14); Piper Sandler upgraded to Overweight with $20 PT",
+      "ticker": "WOLF",
+      "company": "Wolfspeed",
+      "reason": "Fell ~16% midday, one of the session's largest decliners amid broad tech and semiconductor pressure",
+      "category": "sector",
+      "sources": [
+        "Morningstar",
+        "ChartMill"
+      ]
+    },
+    {
+      "ticker": "AMGN",
+      "company": "Amgen",
+      "reason": "Rose ~3% after UBS upgraded the stock; healthcare defensives outperformed in the risk-off session",
       "category": "upgrade",
       "sources": [
-        "Yahoo Finance",
-        "247WallSt",
-        "Benzinga"
+        "TheStreet",
+        "VistaP Global"
       ]
     },
     {
-      "ticker": "ADBE",
-      "company": "Adobe Inc.",
-      "reason": "Downgraded by analyst with price target cut to $267; no longer rated Bullish amid valuation concerns",
-      "category": "downgrade",
+      "ticker": "LMT",
+      "company": "Lockheed Martin",
+      "reason": "Upgraded to Buy by Vertical Research with $600 target; defense stocks firmed on Iran conflict headlines",
+      "category": "upgrade",
       "sources": [
-        "Yahoo Finance",
-        "Benzinga"
+        "247WallSt",
+        "Daily Trade Alert"
       ]
     },
     {
-      "ticker": "ASTS",
-      "company": "AST SpaceMobile",
-      "reason": "Piper Sandler downgraded to Neutral from Overweight; price target slashed from $98 to $54",
-      "category": "downgrade",
+      "ticker": "FAST",
+      "company": "Fastenal",
+      "reason": "Reported Q3 EPS of $0.35 (up 19.8% YoY) on $2.46B net sales; Q3 net income rose 19.7%",
+      "category": "earnings",
       "sources": [
         "Benzinga",
-        "247WallSt"
+        "TheStreet"
+      ]
+    },
+    {
+      "ticker": "ALB",
+      "company": "Albemarle",
+      "reason": "Upgraded by Mizuho to Outperform from Neutral with $130 target on improved lithium demand outlook",
+      "category": "upgrade",
+      "sources": [
+        "247WallSt",
+        "Daily Trade Alert"
+      ]
+    },
+    {
+      "ticker": "SOFI",
+      "company": "SoFi Technologies",
+      "reason": "Fell ~7% after Keefe, Bruyette & Woods cut price target to $15 with Underperform rating amid insider sale news",
+      "category": "downgrade",
+      "sources": [
+        "StocksToTrade",
+        "Yahoo Finance"
       ]
     }
   ]
