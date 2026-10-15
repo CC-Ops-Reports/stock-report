@@ -1,172 +1,175 @@
 {
-  "report_date": "2026-10-14",
-  "market_tone": "Bearish",
+  "report_date": "2026-10-15",
+  "market_tone": "Mixed",
   "key_themes": [
-    "Hot CPI (3.7% YoY, 0.6% MoM) sparks Fed rate-hike fears, driving broad selloff",
-    "AI stocks under pressure as rising yields hit CoreWeave bonds and Oracle growth narrative",
-    "Big bank earnings mixed: BAC misses on $1.2B regulatory penalty, MS and BLK beat"
+    "AI hardware spending concerns weigh on chip and server stocks; VanEck SMH on 8-day losing streak",
+    "Record TSMC Q3 2026 earnings confirm AI chip demand remains robust despite sector selloff",
+    "Q3 financial earnings season underway (Schwab, IBKR, Alcoa, PNC); corporate M&A active (PAG take-private, Varonis/Proofpoint deal)"
   ],
   "sp500": {
-    "value": "7,718.94",
-    "change": "-1.11%"
+    "value": "7,824.00",
+    "change": "+0.2%"
   },
   "nasdaq": {
-    "value": "26,692.87",
-    "change": "-1.88%"
+    "value": "27,285.00",
+    "change": "+0.2%"
   },
   "stocks": [
     {
-      "ticker": "CRWV",
-      "company": "CoreWeave",
-      "reason": "Fell ~15% as Bloomberg reported sharp selloff in CoreWeave bonds; AI debt concerns amplified by hot CPI rate-hike fears",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "Bloomberg",
-        "TheStreet"
-      ]
-    },
-    {
-      "ticker": "BSP",
-      "company": "Bending Spoons",
-      "reason": "Surged ~40% after Berkshire Hathaway announced a new $330M investment following $600M IPO stake",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "Morningstar"
-      ]
-    },
-    {
-      "ticker": "BAC",
-      "company": "Bank of America",
-      "reason": "Dropped ~7% after Q3 earnings miss driven by a $1.2B money-laundering regulatory penalty",
+      "ticker": "TSM",
+      "company": "Taiwan Semiconductor Manufacturing",
+      "reason": "Reported record Q3 2026 results before open: revenue NT$1,494B (+50.9% YoY), EPS US$4.60/ADR, beat estimates; guided Q4 revenue to $52.3-54.3B; sixth consecutive record quarter driven by AI chip demand",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "TheStreet",
-        "Yahoo Finance"
+        "SEC 6-K",
+        "TrendForce",
+        "Crypto Briefing"
+      ]
+    },
+    {
+      "ticker": "RKLB",
+      "company": "Rocket Lab USA",
+      "reason": "Stock fell ~10-11% after company announced delay of Neutron rocket launch to 2027, pushing back key growth catalyst; appeared in CNBC midday and premarket movers lists",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Seeking Alpha"
+      ]
+    },
+    {
+      "ticker": "PAG",
+      "company": "Penske Automotive Group",
+      "reason": "Surged ~8% after board approved $212/share take-private deal by Motown Acquisition Corp. (Penske Corp. + Mitsui); enterprise value ~$16.3B; transaction expected to close Q4 FY March 2027",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "SEC 8-K",
+        "Seeking Alpha",
+        "Auto Remarketing"
+      ]
+    },
+    {
+      "ticker": "CROX",
+      "company": "Crocs Inc.",
+      "reason": "Jumped ~6% after Barclays upgraded to Overweight from Equal Weight and raised price target from $118 to $139; analyst cited improving brand momentum",
+      "category": "upgrade",
+      "sources": [
+        "CNBC",
+        "Benzinga",
+        "Daily Trade Alert"
+      ]
+    },
+    {
+      "ticker": "KMB",
+      "company": "Kimberly-Clark",
+      "reason": "Rose ~4% after company issued preliminary Q3 2026 results that topped Wall Street estimates; consumer staples sector outperformed on the session, up 2%+ and ~9% for October",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "SEC 8-K"
+      ]
+    },
+    {
+      "ticker": "EFX",
+      "company": "Equifax",
+      "reason": "Led S&P 500 gainers with +7.25% surge on the session per Smartkarma market movers data; among top percentage gainers in the index",
+      "category": "news",
+      "sources": [
+        "Smartkarma",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "RDDT",
+      "company": "Reddit",
+      "reason": "Second-largest S&P 500 gainer at +7.24% on the session per Smartkarma market movers data; strong move in social media platform stock",
+      "category": "news",
+      "sources": [
+        "Smartkarma",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "FICO",
+      "company": "Fair Isaac Corporation",
+      "reason": "Third-largest S&P 500 gainer at +6.99% on the session per Smartkarma market movers data; credit scoring/analytics company",
+      "category": "news",
+      "sources": [
+        "Smartkarma",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "HPE",
+      "company": "Hewlett Packard Enterprise",
+      "reason": "Led S&P 500 decliners with -7.10% drop as AI server hardware stocks continued to sell off; VanEck Semiconductor ETF on 8-day losing streak amid concerns over AI infrastructure spending",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "Smartkarma",
+        "Seeking Alpha"
       ]
     },
     {
       "ticker": "DELL",
       "company": "Dell Technologies",
-      "reason": "Fell ~8% after Barclays downgraded to Equal Weight from Overweight, flagging caution on IT hardware",
+      "reason": "Fell ~6.80% as AI server hardware names sold off broadly; Barclays downgrade added further pressure; second-largest S&P 500 decliner on the session",
       "category": "downgrade",
       "sources": [
-        "Yahoo Finance",
-        "247WallSt",
-        "TheStreet"
+        "CNBC",
+        "Smartkarma",
+        "Benzinga"
       ]
     },
     {
-      "ticker": "ORCL",
-      "company": "Oracle",
-      "reason": "Dropped ~8.8% as hotter-than-expected CPI lifted Treasury yields and rattled AI/cloud growth stocks",
+      "ticker": "CRWV",
+      "company": "CoreWeave",
+      "reason": "Volatile session: fell sharply in premarket then recovered to turn positive; featured in both CNBC premarket and midday movers amid broader AI cloud/chip uncertainty",
       "category": "sector",
-      "sources": [
-        "Yahoo Finance",
-        "VistaP Global"
-      ]
-    },
-    {
-      "ticker": "IONQ",
-      "company": "IonQ",
-      "reason": "Fell ~8% after announcing a $2 billion equity offering, raising dilution concerns",
-      "category": "news",
       "sources": [
         "CNBC"
       ]
     },
     {
-      "ticker": "LQDA",
-      "company": "Liquidia",
-      "reason": "Gained ~26% premarket and held gains as legal overhang eased following favorable court development",
-      "category": "news",
-      "sources": [
-        "Yahoo Finance",
-        "Morningstar"
-      ]
-    },
-    {
-      "ticker": "ASML",
-      "company": "ASML Holding",
-      "reason": "Reported Q3 net sales of \u20ac11.7B and guided Q4 to \u20ac14.2\u2013\u20ac15.2B; strong gross margin of 57.5%",
+      "ticker": "SCHW",
+      "company": "Charles Schwab",
+      "reason": "Reported Q3 2026 earnings before open: adj EPS $1.69 beat estimates, revenue rose 17% YoY but slightly missed analyst revenue consensus of $6.96B; shares fell on the slight revenue miss",
       "category": "earnings",
       "sources": [
-        "CNBC",
-        "Benzinga",
-        "TheStreet"
-      ]
-    },
-    {
-      "ticker": "MS",
-      "company": "Morgan Stanley",
-      "reason": "Beat Q3 estimates with $3.03 EPS vs $2.91 expected on $20.34B revenue; stock up modestly",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "TheStreet",
+        "Investrade",
+        "SEC 8-K",
         "Benzinga"
       ]
     },
     {
-      "ticker": "WOLF",
-      "company": "Wolfspeed",
-      "reason": "Fell ~16% midday, one of the session's largest decliners amid broad tech and semiconductor pressure",
-      "category": "sector",
-      "sources": [
-        "Morningstar",
-        "ChartMill"
-      ]
-    },
-    {
-      "ticker": "AMGN",
-      "company": "Amgen",
-      "reason": "Rose ~3% after UBS upgraded the stock; healthcare defensives outperformed in the risk-off session",
-      "category": "upgrade",
-      "sources": [
-        "TheStreet",
-        "VistaP Global"
-      ]
-    },
-    {
-      "ticker": "LMT",
-      "company": "Lockheed Martin",
-      "reason": "Upgraded to Buy by Vertical Research with $600 target; defense stocks firmed on Iran conflict headlines",
-      "category": "upgrade",
-      "sources": [
-        "247WallSt",
-        "Daily Trade Alert"
-      ]
-    },
-    {
-      "ticker": "FAST",
-      "company": "Fastenal",
-      "reason": "Reported Q3 EPS of $0.35 (up 19.8% YoY) on $2.46B net sales; Q3 net income rose 19.7%",
+      "ticker": "IBKR",
+      "company": "Interactive Brokers",
+      "reason": "Fell ~1% after hours after Q3 2026 earnings missed analyst expectations; among CNBC after-hours movers",
       "category": "earnings",
       "sources": [
-        "Benzinga",
-        "TheStreet"
+        "CNBC"
       ]
     },
     {
-      "ticker": "ALB",
-      "company": "Albemarle",
-      "reason": "Upgraded by Mizuho to Outperform from Neutral with $130 target on improved lithium demand outlook",
-      "category": "upgrade",
+      "ticker": "AA",
+      "company": "Alcoa",
+      "reason": "Rose ~2% after hours after reporting better-than-expected Q3 2026 earnings; among CNBC after-hours movers",
+      "category": "earnings",
       "sources": [
-        "247WallSt",
-        "Daily Trade Alert"
+        "CNBC",
+        "MarketBeat"
       ]
     },
     {
-      "ticker": "SOFI",
-      "company": "SoFi Technologies",
-      "reason": "Fell ~7% after Keefe, Bruyette & Woods cut price target to $15 with Underperform rating amid insider sale news",
-      "category": "downgrade",
+      "ticker": "VRNS",
+      "company": "Varonis Systems",
+      "reason": "Rose 2%+ after hours after Proofpoint (Thoma Bravo-backed) agreed to acquire it in all-cash deal valued at ~$6.3B; confirms cybersecurity M&A remains active",
+      "category": "news",
       "sources": [
-        "StocksToTrade",
-        "Yahoo Finance"
+        "CNBC",
+        "Verdict",
+        "BankInfoSecurity"
       ]
     }
   ]
