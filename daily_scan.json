@@ -1,152 +1,75 @@
 {
-  "report_date": "2026-10-15",
-  "market_tone": "Mixed",
+  "report_date": "2026-10-16",
+  "market_tone": "Bearish",
   "key_themes": [
-    "AI hardware spending concerns weigh on chip and server stocks; VanEck SMH on 8-day losing streak",
-    "Record TSMC Q3 2026 earnings confirm AI chip demand remains robust despite sector selloff",
-    "Q3 financial earnings season underway (Schwab, IBKR, Alcoa, PNC); corporate M&A active (PAG take-private, Varonis/Proofpoint deal)"
+    "AI infrastructure bubble fears \u2013 rising borrowing costs for data center buildout weigh on hyperscalers",
+    "Hot CPI data renews Fed rate hike concerns, pushing Treasury yields higher",
+    "Q3 earnings season delivers mixed results \u2013 materials and energy beat, transports disappoint"
   ],
   "sp500": {
-    "value": "7,824.00",
-    "change": "+0.2%"
+    "value": "7,650.00",
+    "change": "-1.2%"
   },
   "nasdaq": {
-    "value": "27,285.00",
-    "change": "+0.2%"
+    "value": "26,128.00",
+    "change": "-2.2%"
   },
   "stocks": [
     {
-      "ticker": "TSM",
-      "company": "Taiwan Semiconductor Manufacturing",
-      "reason": "Reported record Q3 2026 results before open: revenue NT$1,494B (+50.9% YoY), EPS US$4.60/ADR, beat estimates; guided Q4 revenue to $52.3-54.3B; sixth consecutive record quarter driven by AI chip demand",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "SEC 6-K",
-        "TrendForce",
-        "Crypto Briefing"
-      ]
-    },
-    {
-      "ticker": "RKLB",
-      "company": "Rocket Lab USA",
-      "reason": "Stock fell ~10-11% after company announced delay of Neutron rocket launch to 2027, pushing back key growth catalyst; appeared in CNBC midday and premarket movers lists",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "Seeking Alpha"
-      ]
-    },
-    {
-      "ticker": "PAG",
-      "company": "Penske Automotive Group",
-      "reason": "Surged ~8% after board approved $212/share take-private deal by Motown Acquisition Corp. (Penske Corp. + Mitsui); enterprise value ~$16.3B; transaction expected to close Q4 FY March 2027",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "SEC 8-K",
-        "Seeking Alpha",
-        "Auto Remarketing"
-      ]
-    },
-    {
-      "ticker": "CROX",
-      "company": "Crocs Inc.",
-      "reason": "Jumped ~6% after Barclays upgraded to Overweight from Equal Weight and raised price target from $118 to $139; analyst cited improving brand momentum",
-      "category": "upgrade",
-      "sources": [
-        "CNBC",
-        "Benzinga",
-        "Daily Trade Alert"
-      ]
-    },
-    {
-      "ticker": "KMB",
-      "company": "Kimberly-Clark",
-      "reason": "Rose ~4% after company issued preliminary Q3 2026 results that topped Wall Street estimates; consumer staples sector outperformed on the session, up 2%+ and ~9% for October",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "SEC 8-K"
-      ]
-    },
-    {
-      "ticker": "EFX",
-      "company": "Equifax",
-      "reason": "Led S&P 500 gainers with +7.25% surge on the session per Smartkarma market movers data; among top percentage gainers in the index",
-      "category": "news",
-      "sources": [
-        "Smartkarma",
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "RDDT",
-      "company": "Reddit",
-      "reason": "Second-largest S&P 500 gainer at +7.24% on the session per Smartkarma market movers data; strong move in social media platform stock",
-      "category": "news",
-      "sources": [
-        "Smartkarma",
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "FICO",
-      "company": "Fair Isaac Corporation",
-      "reason": "Third-largest S&P 500 gainer at +6.99% on the session per Smartkarma market movers data; credit scoring/analytics company",
-      "category": "news",
-      "sources": [
-        "Smartkarma",
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "HPE",
-      "company": "Hewlett Packard Enterprise",
-      "reason": "Led S&P 500 decliners with -7.10% drop as AI server hardware stocks continued to sell off; VanEck Semiconductor ETF on 8-day losing streak amid concerns over AI infrastructure spending",
-      "category": "sector",
-      "sources": [
-        "CNBC",
-        "Smartkarma",
-        "Seeking Alpha"
-      ]
-    },
-    {
-      "ticker": "DELL",
-      "company": "Dell Technologies",
-      "reason": "Fell ~6.80% as AI server hardware names sold off broadly; Barclays downgrade added further pressure; second-largest S&P 500 decliner on the session",
-      "category": "downgrade",
-      "sources": [
-        "CNBC",
-        "Smartkarma",
-        "Benzinga"
-      ]
-    },
-    {
       "ticker": "CRWV",
       "company": "CoreWeave",
-      "reason": "Volatile session: fell sharply in premarket then recovered to turn positive; featured in both CNBC premarket and midday movers amid broader AI cloud/chip uncertainty",
+      "reason": "Fell ~10% midday, extending a 20% three-session collapse as AI infrastructure debt fears and rising rates hammer the GPU cloud provider",
       "category": "sector",
+      "sources": [
+        "CNBC",
+        "TheStreet",
+        "Bloomberg"
+      ]
+    },
+    {
+      "ticker": "MRNA",
+      "company": "Moderna",
+      "reason": "Dropped 9.85% to $213.20 in broad risk-off selling tied to AI bubble anxiety and inflation concerns hitting high-valuation biotech",
+      "category": "sector",
+      "sources": [
+        "TheStreet",
+        "Insider Monkey"
+      ]
+    },
+    {
+      "ticker": "TWLO",
+      "company": "Twilio",
+      "reason": "Led S&P 500 decliners, falling 10\u201313% as analyst downgrades and macro pressure accelerated selling",
+      "category": "downgrade",
+      "sources": [
+        "ChartMill",
+        "TheStreet"
+      ]
+    },
+    {
+      "ticker": "FOXF",
+      "company": "Fox Factory Holding",
+      "reason": "Tumbled 9% after CEO Mike Dennison abruptly resigned and company trimmed full-year revenue guidance",
+      "category": "news",
       "sources": [
         "CNBC"
       ]
     },
     {
-      "ticker": "SCHW",
-      "company": "Charles Schwab",
-      "reason": "Reported Q3 2026 earnings before open: adj EPS $1.69 beat estimates, revenue rose 17% YoY but slightly missed analyst revenue consensus of $6.96B; shares fell on the slight revenue miss",
-      "category": "earnings",
+      "ticker": "NFLX",
+      "company": "Netflix",
+      "reason": "Down ~2% after streaming giant announced a leadership shake-up, unnerving investors already on edge about tech valuations",
+      "category": "news",
       "sources": [
-        "Investrade",
-        "SEC 8-K",
-        "Benzinga"
+        "CNBC",
+        "TheStreet"
       ]
     },
     {
-      "ticker": "IBKR",
-      "company": "Interactive Brokers",
-      "reason": "Fell ~1% after hours after Q3 2026 earnings missed analyst expectations; among CNBC after-hours movers",
-      "category": "earnings",
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "reason": "Rose ~5% premarket after unveiling the second-generation Roadster featuring SpaceX-developed thrusters, sparking renewed enthusiasm",
+      "category": "news",
       "sources": [
         "CNBC"
       ]
@@ -154,22 +77,78 @@
     {
       "ticker": "AA",
       "company": "Alcoa",
-      "reason": "Rose ~2% after hours after reporting better-than-expected Q3 2026 earnings; among CNBC after-hours movers",
+      "reason": "Surged 6%+ on better-than-expected Q3 earnings, outperforming amid broad market weakness",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "MarketBeat"
+        "TheStreet"
       ]
     },
     {
-      "ticker": "VRNS",
-      "company": "Varonis Systems",
-      "reason": "Rose 2%+ after hours after Proofpoint (Thoma Bravo-backed) agreed to acquire it in all-cash deal valued at ~$6.3B; confirms cybersecurity M&A remains active",
-      "category": "news",
+      "ticker": "JBHT",
+      "company": "J.B. Hunt Transport Services",
+      "reason": "Slipped ~3% after reporting mixed Q3 results that missed on key freight metrics",
+      "category": "earnings",
+      "sources": [
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "TRV",
+      "company": "The Travelers Companies",
+      "reason": "Fell ~4% despite Q3 EPS of $9.18 beating estimates, as investors focused on catastrophe loss exposure",
+      "category": "earnings",
       "sources": [
         "CNBC",
-        "Verdict",
-        "BankInfoSecurity"
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "KMI",
+      "company": "Kinder Morgan",
+      "reason": "Advanced 4.2% ahead of Q3 earnings report, benefiting from energy sector strength as AI power demand boosts natural gas pipeline outlook",
+      "category": "earnings",
+      "sources": [
+        "Insider Monkey"
+      ]
+    },
+    {
+      "ticker": "SMTC",
+      "company": "Semtech",
+      "reason": "Gained 4.36% after the semiconductor maker raised its full-year guidance, bucking the broader chip selloff",
+      "category": "earnings",
+      "sources": [
+        "TheStreet"
+      ]
+    },
+    {
+      "ticker": "MOG.A",
+      "company": "Moog",
+      "reason": "Rose 4%+ after Morgan Stanley upgraded shares to Overweight from Equal Weight, citing missile and defense program momentum",
+      "category": "upgrade",
+      "sources": [
+        "CNBC",
+        "TipRanks"
+      ]
+    },
+    {
+      "ticker": "HONA",
+      "company": "Honeywell Aerospace Technologies",
+      "reason": "Led S&P 500 gainers, advancing ~4% to $169.59; defense and aerospace demand plus potential short squeeze cited",
+      "category": "sector",
+      "sources": [
+        "ChartMill",
+        "TheStreet"
+      ]
+    },
+    {
+      "ticker": "WDAY",
+      "company": "Workday",
+      "reason": "Fell on multiple analyst downgrades today including KeyBanc cut to Sector Perform, pressuring enterprise software names broadly",
+      "category": "downgrade",
+      "sources": [
+        "Benzinga",
+        "Daily Trade Alert"
       ]
     }
   ]
