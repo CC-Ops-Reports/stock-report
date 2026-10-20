@@ -1,45 +1,92 @@
 {
-  "report_date": "2026-10-19",
+  "report_date": "2026-10-20",
   "market_tone": "Mixed",
   "key_themes": [
-    "Tech/AI rebound after worst Nasdaq week since spring; semis lead recovery",
-    "Biotech surge: Merck KGaA acquires Silence Therapeutics; Disc Medicine APOLLO trial win",
-    "Steel earnings beat lifts industrials; heavy earnings week ahead with Tesla, Meta, Netflix"
+    "Q3 earnings season peak driving large stock-specific moves",
+    "Salesforce acquires Braze for $5.66B \u2014 marquee M&A deal of the day",
+    "Value/cyclical rotation as tech names show mixed guidance; SMCI and SpaceX strong but Netflix disappoints"
   ],
   "sp500": {
-    "value": "7,690.73",
-    "change": "+0.41%"
+    "value": "7,713",
+    "change": "+0.3%"
   },
   "nasdaq": {
-    "value": "26,430.89",
-    "change": "+1.11%"
+    "value": "26,380",
+    "change": "-0.2%"
   },
   "stocks": [
     {
-      "ticker": "SLN",
-      "company": "Silence Therapeutics",
-      "reason": "Merck KGaA agreed to acquire the company in an all-cash deal at $20/ADS, a ~130% premium to the prior close",
+      "ticker": "BRZE",
+      "company": "Braze",
+      "reason": "Salesforce agreed to acquire Braze for $47.50/share ($5.66B deal); stock halted premarket then surged ~51% to $45.57",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Motley Fool"
+      ]
+    },
+    {
+      "ticker": "EFX",
+      "company": "Equifax",
+      "reason": "Q3 adj EPS $2.26 beat consensus of $2.20; shares jumped ~12% on earnings beat despite trimming 2026 revenue guidance",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Investing.com"
+      ]
+    },
+    {
+      "ticker": "MYGN",
+      "company": "Myriad Genetics",
+      "reason": "Stock surged ~35% after announcing definitive agreement to sell prenatal health testing business to Labcorp",
+      "category": "news",
+      "sources": [
+        "Investing.com",
+        "Chartmill"
+      ]
+    },
+    {
+      "ticker": "SMCI",
+      "company": "Super Micro Computer",
+      "reason": "Raised fiscal Q1 revenue guidance to $18.5\u201319.5B from prior $14.5\u201315.5B on increased AI server demand; stock +11\u201313% after hours",
       "category": "news",
       "sources": [
         "Benzinga",
-        "RTT News"
+        "Investing.com"
       ]
     },
     {
-      "ticker": "IRON",
-      "company": "Disc Medicine",
-      "reason": "APOLLO Phase 3 trial of bitopertin in erythropoietic protoporphyria (EPP) met all primary and secondary endpoints",
-      "category": "news",
+      "ticker": "HAS",
+      "company": "Hasbro",
+      "reason": "Q3 results beat expectations; raised revenue growth outlook for the year; shares up 5%+",
+      "category": "earnings",
       "sources": [
-        "TipRanks",
-        "Yahoo Finance",
-        "BioWorld"
+        "CNBC"
       ]
     },
     {
-      "ticker": "CLF",
-      "company": "Cleveland-Cliffs",
-      "reason": "Q3 earnings beat: adjusted EPS of $0.28 vs $0.21 estimate; shares surged ~16% on the report",
+      "ticker": "NOC",
+      "company": "Northrop Grumman",
+      "reason": "Q3 earnings beat despite revenue slightly below consensus; shares rose ~5%",
+      "category": "earnings",
+      "sources": [
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "MMM",
+      "company": "3M",
+      "reason": "Q3 adj EPS $2.50 beat + raised full-year 2026 guidance; also announced Amazon data-center supply deal; shares surged",
+      "category": "earnings",
+      "sources": [
+        "Seeking Alpha",
+        "Investrade"
+      ]
+    },
+    {
+      "ticker": "GM",
+      "company": "General Motors",
+      "reason": "Q3 earnings beat estimates but stock fell ~7%; announced $20B buyback with no timeline; investors unimpressed by vague capital return",
       "category": "earnings",
       "sources": [
         "CNBC",
@@ -47,114 +94,72 @@
       ]
     },
     {
-      "ticker": "MRVL",
-      "company": "Marvell Technology",
-      "reason": "Gained ~7% as semiconductor sector rebounded sharply; AI chipmaker leads recovery after worst Nasdaq week since spring",
-      "category": "sector",
+      "ticker": "RAIL",
+      "company": "FreightCar America",
+      "reason": "Stock plunged ~31.5% after company cut its outlook; one of the largest percentage decliners in the session",
+      "category": "news",
       "sources": [
-        "CNBC",
-        "Seeking Alpha"
+        "Seeking Alpha",
+        "StockAnalysis"
       ]
     },
     {
-      "ticker": "SNDK",
-      "company": "Sandisk",
-      "reason": "Rose ~6% in semiconductor/memory rebound; AI trade buying as investors buy the dip after prior week sell-off",
-      "category": "sector",
+      "ticker": "NFLX",
+      "company": "Netflix",
+      "reason": "Q3 revenue $12.87B (+12% YoY) in line with estimates but Q4 guidance missed; shares fell ~5% after hours",
+      "category": "earnings",
       "sources": [
         "CNBC",
-        "Seeking Alpha"
+        "Investing.com"
       ]
     },
     {
-      "ticker": "CRWV",
-      "company": "CoreWeave",
-      "reason": "Goldman Sachs upgraded to Buy from Neutral; stock had fallen 25% the prior week, seen as oversold AI infrastructure play",
-      "category": "upgrade",
-      "sources": [
-        "Benzinga",
-        "Daily Trade Alert"
-      ]
-    },
-    {
-      "ticker": "DDOG",
-      "company": "Datadog",
-      "reason": "Bernstein upgraded to Outperform from Market Perform, citing improved enterprise AI observability demand outlook",
-      "category": "upgrade",
+      "ticker": "ISRG",
+      "company": "Intuitive Surgical",
+      "reason": "Q3 adj EPS beat but $450M pre-tax antitrust settlement charge crushed GAAP results; stock slid 7\u201311% after hours",
+      "category": "earnings",
       "sources": [
         "CNBC",
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "AMZN",
-      "company": "Amazon",
-      "reason": "Morgan Stanley named AMZN a top pick and raised its price target; shares rose ~5%",
-      "category": "upgrade",
-      "sources": [
-        "CNBC",
-        "Globe and Mail"
-      ]
-    },
-    {
-      "ticker": "INTC",
-      "company": "Intel",
-      "reason": "JPMorgan upgraded to Neutral from Underweight; shares climbed ~4% on the analyst action",
-      "category": "upgrade",
-      "sources": [
-        "CNBC",
-        "Seeking Alpha"
+        "Investing.com"
       ]
     },
     {
       "ticker": "SPCX",
       "company": "SpaceX",
-      "reason": "Shares rebounded to ~$150 ahead of Q3 earnings report due after-close on October 20; Elon Musk pledged shares to every child in America in a PR move",
-      "category": "news",
+      "reason": "Q3 revenue jumped 161% to $14.58B; shares rose ~2\u20137% in after-hours trading on blowout growth",
+      "category": "earnings",
       "sources": [
-        "GuruFocus",
-        "FX Leaders",
-        "Benzinga"
+        "CNBC"
       ]
     },
     {
-      "ticker": "AMP",
-      "company": "Ameriprise Financial",
-      "reason": "Bank of America double-downgraded to Underperform from Buy; price target slashed to $445 from $570, implying ~11% further downside",
+      "ticker": "AAPL",
+      "company": "Apple",
+      "reason": "Loop Capital downgraded from Buy to Hold today; Apple is a Dow component and the cut weighed on sentiment",
+      "category": "downgrade",
+      "sources": [
+        "Benzinga",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "VG",
+      "company": "Venture Global",
+      "reason": "Wells Fargo upgraded to Overweight from Equal Weight, raising target from $15 to $21, citing confidence in 2GW AI data-center strategy",
+      "category": "upgrade",
+      "sources": [
+        "Daily Trade Alert",
+        "Finwire"
+      ]
+    },
+    {
+      "ticker": "ZTS",
+      "company": "Zoetis",
+      "reason": "Jefferies downgraded from Buy to Hold, cutting price target from $103 to $83 on today's coverage change",
       "category": "downgrade",
       "sources": [
         "Benzinga",
         "Daily Trade Alert"
-      ]
-    },
-    {
-      "ticker": "BXP",
-      "company": "BXP Inc.",
-      "reason": "Piper Sandler downgraded from Overweight to Neutral, cut price target from $72 to $64 on office REIT outlook concerns",
-      "category": "downgrade",
-      "sources": [
-        "Benzinga",
-        "Daily Trade Alert"
-      ]
-    },
-    {
-      "ticker": "STLD",
-      "company": "Steel Dynamics",
-      "reason": "Reporting Q3 earnings after the close today; riding steel sector sentiment boosted by Cleveland-Cliffs earnings beat",
-      "category": "earnings",
-      "sources": [
-        "Investing.com",
-        "StockTitan"
-      ]
-    },
-    {
-      "ticker": "CCK",
-      "company": "Crown Holdings",
-      "reason": "Reporting Q3 earnings after the close today; packaging sector watch amid industrials rebound",
-      "category": "earnings",
-      "sources": [
-        "Investing.com",
-        "StockTitan"
       ]
     }
   ]
