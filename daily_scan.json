@@ -1,122 +1,108 @@
 {
-  "report_date": "2026-10-20",
+  "report_date": "2026-10-21",
   "market_tone": "Mixed",
   "key_themes": [
-    "Q3 earnings season peak driving large stock-specific moves",
-    "Salesforce acquires Braze for $5.66B \u2014 marquee M&A deal of the day",
-    "Value/cyclical rotation as tech names show mixed guidance; SMCI and SpaceX strong but Netflix disappoints"
+    "SpaceX-Tesla potential merger dominates headlines after Musk confirms special committees",
+    "Big Tech earnings week delivers mixed bag: META beats, NFLX misses, IBM beats, TSLA inline",
+    "AI hardware names rally (SMCI, Dell) on data-center demand; healthcare tech names drag (ISRG, DXCM)"
   ],
   "sp500": {
-    "value": "7,713",
-    "change": "+0.3%"
+    "value": "7,757.17",
+    "change": "+0.58%"
   },
   "nasdaq": {
-    "value": "26,380",
-    "change": "-0.2%"
+    "value": "26,450.00",
+    "change": "+0.40%"
   },
   "stocks": [
     {
-      "ticker": "BRZE",
-      "company": "Braze",
-      "reason": "Salesforce agreed to acquire Braze for $47.50/share ($5.66B deal); stock halted premarket then surged ~51% to $45.57",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "Motley Fool"
-      ]
-    },
-    {
-      "ticker": "EFX",
-      "company": "Equifax",
-      "reason": "Q3 adj EPS $2.26 beat consensus of $2.20; shares jumped ~12% on earnings beat despite trimming 2026 revenue guidance",
+      "ticker": "SPCX",
+      "company": "SpaceX",
+      "reason": "Q3 revenue surged 161% to $14.58B, beating $12.94B estimate; Musk confirmed SpaceX and Tesla formed special committees to discuss a potential merger; stock up ~10%",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "Investing.com"
+        "Yahoo Finance",
+        "Benzinga"
       ]
     },
     {
-      "ticker": "MYGN",
-      "company": "Myriad Genetics",
-      "reason": "Stock surged ~35% after announcing definitive agreement to sell prenatal health testing business to Labcorp",
-      "category": "news",
-      "sources": [
-        "Investing.com",
-        "Chartmill"
-      ]
-    },
-    {
-      "ticker": "SMCI",
-      "company": "Super Micro Computer",
-      "reason": "Raised fiscal Q1 revenue guidance to $18.5\u201319.5B from prior $14.5\u201315.5B on increased AI server demand; stock +11\u201313% after hours",
-      "category": "news",
-      "sources": [
-        "Benzinga",
-        "Investing.com"
-      ]
-    },
-    {
-      "ticker": "HAS",
-      "company": "Hasbro",
-      "reason": "Q3 results beat expectations; raised revenue growth outlook for the year; shares up 5%+",
-      "category": "earnings",
-      "sources": [
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "NOC",
-      "company": "Northrop Grumman",
-      "reason": "Q3 earnings beat despite revenue slightly below consensus; shares rose ~5%",
-      "category": "earnings",
-      "sources": [
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "MMM",
-      "company": "3M",
-      "reason": "Q3 adj EPS $2.50 beat + raised full-year 2026 guidance; also announced Amazon data-center supply deal; shares surged",
-      "category": "earnings",
-      "sources": [
-        "Seeking Alpha",
-        "Investrade"
-      ]
-    },
-    {
-      "ticker": "GM",
-      "company": "General Motors",
-      "reason": "Q3 earnings beat estimates but stock fell ~7%; announced $20B buyback with no timeline; investors unimpressed by vague capital return",
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "reason": "Stock up ~3% intraday on SpaceX merger speculation; Q3 adjusted EPS $0.48, revenue $28.05B reported after close; stock swung AH as operating income fell 56% YoY despite top-line beat",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "Seeking Alpha"
+        "Yahoo Finance"
       ]
     },
     {
-      "ticker": "RAIL",
-      "company": "FreightCar America",
-      "reason": "Stock plunged ~31.5% after company cut its outlook; one of the largest percentage decliners in the session",
-      "category": "news",
+      "ticker": "META",
+      "company": "Meta Platforms",
+      "reason": "Q3 revenue $64.6B (+26% YoY) beat $63.32B estimate; company announced 2-for-1 stock split; raised Q4 guidance to $73-76B; stock up ~3% after hours",
+      "category": "earnings",
       "sources": [
-        "Seeking Alpha",
-        "StockAnalysis"
+        "CNBC",
+        "Yahoo Finance",
+        "TipRanks"
       ]
     },
     {
       "ticker": "NFLX",
       "company": "Netflix",
-      "reason": "Q3 revenue $12.87B (+12% YoY) in line with estimates but Q4 guidance missed; shares fell ~5% after hours",
-      "category": "earnings",
+      "reason": "Q3 revenue in-line but company narrowed 2026 forecast; Needham downgraded to Hold from Buy without price target; stock fell ~5-7% on the session",
+      "category": "downgrade",
       "sources": [
         "CNBC",
-        "Investing.com"
+        "Seeking Alpha",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "SMCI",
+      "company": "Super Micro Computer",
+      "reason": "Stock surged ~9% after company raised its fiscal Q1 revenue outlook, boosting AI data-center hardware sentiment alongside Dell and other server names",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Chartmill"
       ]
     },
     {
       "ticker": "ISRG",
       "company": "Intuitive Surgical",
-      "reason": "Q3 adj EPS beat but $450M pre-tax antitrust settlement charge crushed GAAP results; stock slid 7\u201311% after hours",
+      "reason": "Q3 results disappointed investors; stock fell ~7% premarket and held losses through session; Erste Group upgraded to Buy from Hold on the pullback",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Benzinga"
+      ]
+    },
+    {
+      "ticker": "DXCM",
+      "company": "Dexcom",
+      "reason": "Led S&P 500 decliners on October 21 session, falling ~6%; continuous glucose monitoring space facing competitive headwinds",
+      "category": "sector",
+      "sources": [
+        "Chartmill",
+        "Morningstar"
+      ]
+    },
+    {
+      "ticker": "IBM",
+      "company": "IBM",
+      "reason": "Q3 EPS $2.95 beat $2.86 estimate; revenue $17.1B beat $16.82B consensus; shares initially gained 4% after hours before paring some gains",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Investing.com",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "LRCX",
+      "company": "Lam Research",
+      "reason": "Reported Q3 earnings after the close on October 21; named as an after-hours mover by CNBC alongside META, TSLA, IBM; semiconductor equipment sector in focus during earnings week",
       "category": "earnings",
       "sources": [
         "CNBC",
@@ -124,38 +110,28 @@
       ]
     },
     {
-      "ticker": "SPCX",
-      "company": "SpaceX",
-      "reason": "Q3 revenue jumped 161% to $14.58B; shares rose ~2\u20137% in after-hours trading on blowout growth",
-      "category": "earnings",
-      "sources": [
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "reason": "Loop Capital downgraded from Buy to Hold today; Apple is a Dow component and the cut weighed on sentiment",
+      "ticker": "CMG",
+      "company": "Chipotle Mexican Grill",
+      "reason": "TD Cowen downgraded to Hold from Buy and slashed price target to $32 from $44; among the most prominent analyst downgrades of the day",
       "category": "downgrade",
       "sources": [
         "Benzinga",
-        "Yahoo Finance"
+        "Daily Trade Alert"
       ]
     },
     {
-      "ticker": "VG",
-      "company": "Venture Global",
-      "reason": "Wells Fargo upgraded to Overweight from Equal Weight, raising target from $15 to $21, citing confidence in 2GW AI data-center strategy",
-      "category": "upgrade",
+      "ticker": "ILMN",
+      "company": "Illumina",
+      "reason": "Shares rose ~6% and was among S&P 500 top gainers; appeared on both S&P 500 gap movers and top movers lists for the October 21 session",
+      "category": "news",
       "sources": [
-        "Daily Trade Alert",
-        "Finwire"
+        "Chartmill"
       ]
     },
     {
-      "ticker": "ZTS",
-      "company": "Zoetis",
-      "reason": "Jefferies downgraded from Buy to Hold, cutting price target from $103 to $83 on today's coverage change",
+      "ticker": "ACN",
+      "company": "Accenture",
+      "reason": "Baird analyst David Koning downgraded to Neutral from Outperform; one of Wednesday's prominent analyst call downgrades in the IT services sector",
       "category": "downgrade",
       "sources": [
         "Benzinga",
