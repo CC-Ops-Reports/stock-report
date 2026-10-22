@@ -1,141 +1,155 @@
 {
-  "report_date": "2026-10-21",
-  "market_tone": "Mixed",
+  "report_date": "2026-10-22",
+  "market_tone": "Bearish",
   "key_themes": [
-    "SpaceX-Tesla potential merger dominates headlines after Musk confirms special committees",
-    "Big Tech earnings week delivers mixed bag: META beats, NFLX misses, IBM beats, TSLA inline",
-    "AI hardware names rally (SMCI, Dell) on data-center demand; healthcare tech names drag (ISRG, DXCM)"
+    "Tech selloff on AI spending concerns dragged Nasdaq down 2.6%",
+    "Strong Q3 earnings from defensives (P&G, Lockheed, Blackstone) vs mixed mega-cap tech (Tesla cautious, Meta beat)",
+    "Heavy analyst activity: AI/semiconductor upgrades (Broadcom) vs consumer/media downgrades (Netflix, Chipotle, Meta)"
   ],
   "sp500": {
-    "value": "7,757.17",
-    "change": "+0.58%"
+    "value": "7,663.43",
+    "change": "-1.2%"
   },
   "nasdaq": {
-    "value": "26,450.00",
-    "change": "+0.40%"
+    "value": "26,008.86",
+    "change": "-2.6%"
   },
   "stocks": [
     {
-      "ticker": "SPCX",
-      "company": "SpaceX",
-      "reason": "Q3 revenue surged 161% to $14.58B, beating $12.94B estimate; Musk confirmed SpaceX and Tesla formed special committees to discuss a potential merger; stock up ~10%",
+      "ticker": "META",
+      "company": "Meta Platforms",
+      "reason": "Q3 earnings beat with Q4 guidance above estimates; announced 2-for-1 stock split and new non-voting share class; shares rose ~4% after hours",
       "category": "earnings",
       "sources": [
-        "CNBC",
         "Yahoo Finance",
-        "Benzinga"
+        "Investing.com",
+        "TipRanks"
       ]
     },
     {
       "ticker": "TSLA",
       "company": "Tesla",
-      "reason": "Stock up ~3% intraday on SpaceX merger speculation; Q3 adjusted EPS $0.48, revenue $28.05B reported after close; stock swung AH as operating income fell 56% YoY despite top-line beat",
+      "reason": "Q3 EPS $0.48 and revenue $28.05B beat estimates, but GAAP net income fell 43% YoY, energy storage missed, Musk issued cautious comments and lower long-term sales goal; shares fell ~2% after hours",
       "category": "earnings",
       "sources": [
-        "CNBC",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "META",
-      "company": "Meta Platforms",
-      "reason": "Q3 revenue $64.6B (+26% YoY) beat $63.32B estimate; company announced 2-for-1 stock split; raised Q4 guidance to $73-76B; stock up ~3% after hours",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance",
-        "TipRanks"
-      ]
-    },
-    {
-      "ticker": "NFLX",
-      "company": "Netflix",
-      "reason": "Q3 revenue in-line but company narrowed 2026 forecast; Needham downgraded to Hold from Buy without price target; stock fell ~5-7% on the session",
-      "category": "downgrade",
-      "sources": [
-        "CNBC",
-        "Seeking Alpha",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "SMCI",
-      "company": "Super Micro Computer",
-      "reason": "Stock surged ~9% after company raised its fiscal Q1 revenue outlook, boosting AI data-center hardware sentiment alongside Dell and other server names",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "Chartmill"
-      ]
-    },
-    {
-      "ticker": "ISRG",
-      "company": "Intuitive Surgical",
-      "reason": "Q3 results disappointed investors; stock fell ~7% premarket and held losses through session; Erste Group upgraded to Buy from Hold on the pullback",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "DXCM",
-      "company": "Dexcom",
-      "reason": "Led S&P 500 decliners on October 21 session, falling ~6%; continuous glucose monitoring space facing competitive headwinds",
-      "category": "sector",
-      "sources": [
-        "Chartmill",
-        "Morningstar"
-      ]
-    },
-    {
-      "ticker": "IBM",
-      "company": "IBM",
-      "reason": "Q3 EPS $2.95 beat $2.86 estimate; revenue $17.1B beat $16.82B consensus; shares initially gained 4% after hours before paring some gains",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
         "Investing.com",
-        "Yahoo Finance"
+        "Yahoo Finance",
+        "TipRanks",
+        "Seeking Alpha"
+      ]
+    },
+    {
+      "ticker": "PG",
+      "company": "Procter & Gamble",
+      "reason": "Fiscal Q1 beat on both top and bottom lines; shares rose ~6% intraday, led the Dow gainers",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Seeking Alpha"
+      ]
+    },
+    {
+      "ticker": "LMT",
+      "company": "Lockheed Martin",
+      "reason": "Q3 results beat expectations and full-year 2026 guidance raised; shares rose ~5%",
+      "category": "earnings",
+      "sources": [
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "BX",
+      "company": "Blackstone",
+      "reason": "Q3 profit beat analyst estimates; shares gained ~6%",
+      "category": "earnings",
+      "sources": [
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "LUV",
+      "company": "Southwest Airlines",
+      "reason": "Shares rose ~5% on earnings, but company cut full-year adjusted EPS outlook to $2.60-$2.85 from prior $3.25-$4.25 guidance",
+      "category": "earnings",
+      "sources": [
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "TTMI",
+      "company": "TTM Technologies",
+      "reason": "Plunged ~28% after Q4 EPS guidance midpoint missed consensus by $0.01, triggering a sharp selloff",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Seeking Alpha"
+      ]
+    },
+    {
+      "ticker": "SPOT",
+      "company": "Spotify",
+      "reason": "Shares rose ~5% premarket after Q4 revenue guidance came in above analyst expectations",
+      "category": "earnings",
+      "sources": [
+        "CNBC"
       ]
     },
     {
       "ticker": "LRCX",
       "company": "Lam Research",
-      "reason": "Reported Q3 earnings after the close on October 21; named as an after-hours mover by CNBC alongside META, TSLA, IBM; semiconductor equipment sector in focus during earnings week",
+      "reason": "Reported fiscal Q1 2027 earnings after the close; among the day's most active after-hours movers alongside Meta, IBM, and Tesla",
       "category": "earnings",
       "sources": [
-        "CNBC",
-        "Investing.com"
+        "Investing.com",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "reason": "Upgraded from Hold to Buy citing record Q3 results, surging AI semiconductor revenue, and upgraded multi-year AI guidance improving valuation outlook",
+      "category": "upgrade",
+      "sources": [
+        "Seeking Alpha"
+      ]
+    },
+    {
+      "ticker": "NFLX",
+      "company": "Netflix",
+      "reason": "Downgraded by Wolfe Research from Outperform to Peer Perform; shares fell ~6% and were among S&P 500's biggest decliners",
+      "category": "downgrade",
+      "sources": [
+        "247wallst",
+        "Seeking Alpha",
+        "Trefis"
       ]
     },
     {
       "ticker": "CMG",
       "company": "Chipotle Mexican Grill",
-      "reason": "TD Cowen downgraded to Hold from Buy and slashed price target to $32 from $44; among the most prominent analyst downgrades of the day",
+      "reason": "TD Cowen downgraded to Hold with $32 target citing soft October same-store sales; shares fell ~5.2%",
       "category": "downgrade",
       "sources": [
-        "Benzinga",
+        "NEXUS Research",
         "Daily Trade Alert"
       ]
     },
     {
-      "ticker": "ILMN",
-      "company": "Illumina",
-      "reason": "Shares rose ~6% and was among S&P 500 top gainers; appeared on both S&P 500 gap movers and top movers lists for the October 21 session",
+      "ticker": "HXL",
+      "company": "Hexcel",
+      "reason": "Shares slumped ~11% intraday, among S&P 500's biggest decliners on the session",
+      "category": "earnings",
+      "sources": [
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "UAL",
+      "company": "United Airlines",
+      "reason": "Heavy unusual options activity: call volume 546% above daily average (123,676 contracts) ahead of upcoming earnings; quarterly revenue grew but EPS slightly missed",
       "category": "news",
       "sources": [
-        "Chartmill"
-      ]
-    },
-    {
-      "ticker": "ACN",
-      "company": "Accenture",
-      "reason": "Baird analyst David Koning downgraded to Neutral from Outperform; one of Wednesday's prominent analyst call downgrades in the IT services sector",
-      "category": "downgrade",
-      "sources": [
-        "Benzinga",
-        "Daily Trade Alert"
+        "MarketBeat"
       ]
     }
   ]
