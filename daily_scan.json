@@ -1,47 +1,66 @@
 {
-  "report_date": "2026-10-22",
-  "market_tone": "Bearish",
+  "report_date": "2026-10-23",
+  "market_tone": "Mixed",
   "key_themes": [
-    "Tech selloff on AI spending concerns dragged Nasdaq down 2.6%",
-    "Strong Q3 earnings from defensives (P&G, Lockheed, Blackstone) vs mixed mega-cap tech (Tesla cautious, Meta beat)",
-    "Heavy analyst activity: AI/semiconductor upgrades (Broadcom) vs consumer/media downgrades (Netflix, Chipotle, Meta)"
+    "Middle East tensions drove crude oil above $100/barrel, lifting energy stocks",
+    "Q3 earnings season in full swing with mixed results across sectors",
+    "AI spending concerns weighed on broader market despite cybersecurity strength"
   ],
   "sp500": {
-    "value": "7,663.43",
-    "change": "-1.2%"
+    "value": "7,623.68",
+    "change": "-0.52%"
   },
   "nasdaq": {
-    "value": "26,008.86",
-    "change": "-2.6%"
+    "value": "17,840.00",
+    "change": "+0.50%"
   },
   "stocks": [
     {
-      "ticker": "META",
-      "company": "Meta Platforms",
-      "reason": "Q3 earnings beat with Q4 guidance above estimates; announced 2-for-1 stock split and new non-voting share class; shares rose ~4% after hours",
+      "ticker": "RNG",
+      "company": "RingCentral",
+      "reason": "Surged ~15% after beating Q3 earnings estimates and raising full-year guidance on cloud communications growth",
       "category": "earnings",
       "sources": [
-        "Yahoo Finance",
-        "Investing.com",
-        "TipRanks"
+        "CNBC",
+        "Seeking Alpha",
+        "TheStreet"
       ]
     },
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "reason": "Q3 EPS $0.48 and revenue $28.05B beat estimates, but GAAP net income fell 43% YoY, energy storage missed, Musk issued cautious comments and lower long-term sales goal; shares fell ~2% after hours",
-      "category": "earnings",
+      "ticker": "CCI",
+      "company": "Crown Castle",
+      "reason": "Jumped 11.65% on reports SpaceX is in direct discussions to lease access to U.S. cell sites",
+      "category": "news",
       "sources": [
-        "Investing.com",
-        "Yahoo Finance",
-        "TipRanks",
+        "CNBC",
         "Seeking Alpha"
       ]
     },
     {
-      "ticker": "PG",
-      "company": "Procter & Gamble",
-      "reason": "Fiscal Q1 beat on both top and bottom lines; shares rose ~6% intraday, led the Dow gainers",
+      "ticker": "BE",
+      "company": "Bloom Energy",
+      "reason": "Fell ~11% despite Q3 earnings beat and guidance raise; investors concerned about persistent negative cash flow and high capex",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "TheStreet"
+      ]
+    },
+    {
+      "ticker": "DECK",
+      "company": "Deckers Outdoor",
+      "reason": "Dropped ~8% after mixed fiscal Q2 2027 results; Piper Sandler cut to Underweight with $75 target (from $100)",
+      "category": "downgrade",
+      "sources": [
+        "CNBC",
+        "Benzinga",
+        "247wallst.com"
+      ]
+    },
+    {
+      "ticker": "RHI",
+      "company": "Robert Half International",
+      "reason": "Rose ~9% after Q3 earnings beat, signaling resilience in professional staffing demand",
       "category": "earnings",
       "sources": [
         "CNBC",
@@ -49,107 +68,74 @@
       ]
     },
     {
-      "ticker": "LMT",
-      "company": "Lockheed Martin",
-      "reason": "Q3 results beat expectations and full-year 2026 guidance raised; shares rose ~5%",
-      "category": "earnings",
-      "sources": [
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "BX",
-      "company": "Blackstone",
-      "reason": "Q3 profit beat analyst estimates; shares gained ~6%",
-      "category": "earnings",
-      "sources": [
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "LUV",
-      "company": "Southwest Airlines",
-      "reason": "Shares rose ~5% on earnings, but company cut full-year adjusted EPS outlook to $2.60-$2.85 from prior $3.25-$4.25 guidance",
-      "category": "earnings",
-      "sources": [
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "TTMI",
-      "company": "TTM Technologies",
-      "reason": "Plunged ~28% after Q4 EPS guidance midpoint missed consensus by $0.01, triggering a sharp selloff",
+      "ticker": "AXP",
+      "company": "American Express",
+      "reason": "Fell 3%+ despite Q3 EPS beat ($4.68 vs $4.47 est.) and raised 2026 outlook after announcing ~5% global workforce reduction",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "Seeking Alpha"
-      ]
-    },
-    {
-      "ticker": "SPOT",
-      "company": "Spotify",
-      "reason": "Shares rose ~5% premarket after Q4 revenue guidance came in above analyst expectations",
-      "category": "earnings",
-      "sources": [
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "LRCX",
-      "company": "Lam Research",
-      "reason": "Reported fiscal Q1 2027 earnings after the close; among the day's most active after-hours movers alongside Meta, IBM, and Tesla",
-      "category": "earnings",
-      "sources": [
-        "Investing.com",
+        "TheStreet",
         "Yahoo Finance"
       ]
     },
     {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "reason": "Upgraded from Hold to Buy citing record Q3 results, surging AI semiconductor revenue, and upgraded multi-year AI guidance improving valuation outlook",
-      "category": "upgrade",
+      "ticker": "CRWD",
+      "company": "CrowdStrike Holdings",
+      "reason": "Gained ~6% as cybersecurity sector broadly rallied; benefit from ongoing enterprise security spending",
+      "category": "sector",
       "sources": [
+        "CNBC",
         "Seeking Alpha"
+      ]
+    },
+    {
+      "ticker": "PANW",
+      "company": "Palo Alto Networks",
+      "reason": "Gained ~6% alongside CrowdStrike in broad cybersecurity sector strength on Oct 23",
+      "category": "sector",
+      "sources": [
+        "CNBC"
       ]
     },
     {
       "ticker": "NFLX",
       "company": "Netflix",
-      "reason": "Downgraded by Wolfe Research from Outperform to Peer Perform; shares fell ~6% and were among S&P 500's biggest decliners",
+      "reason": "Downgraded by both Wolfe Research and Needham citing weaker engagement trends and decelerating revenue growth",
       "category": "downgrade",
       "sources": [
-        "247wallst",
-        "Seeking Alpha",
-        "Trefis"
+        "Stocktwits",
+        "Benzinga",
+        "247wallst.com"
       ]
     },
     {
-      "ticker": "CMG",
-      "company": "Chipotle Mexican Grill",
-      "reason": "TD Cowen downgraded to Hold with $32 target citing soft October same-store sales; shares fell ~5.2%",
-      "category": "downgrade",
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "reason": "Upgraded by BNP Paribas and CLSA amid renewed speculation about a potential SpaceX merger or closer strategic tie-up",
+      "category": "upgrade",
       "sources": [
-        "NEXUS Research",
-        "Daily Trade Alert"
+        "Stocktwits",
+        "Investing.com"
       ]
     },
     {
-      "ticker": "HXL",
-      "company": "Hexcel",
-      "reason": "Shares slumped ~11% intraday, among S&P 500's biggest decliners on the session",
-      "category": "earnings",
+      "ticker": "CVX",
+      "company": "Chevron",
+      "reason": "Energy stocks broadly surged as WTI crude futures broke above $100/barrel on escalating Middle East tensions",
+      "category": "sector",
       "sources": [
-        "CNBC"
+        "CNBC",
+        "TheStreet"
       ]
     },
     {
-      "ticker": "UAL",
-      "company": "United Airlines",
-      "reason": "Heavy unusual options activity: call volume 546% above daily average (123,676 contracts) ahead of upcoming earnings; quarterly revenue grew but EPS slightly missed",
+      "ticker": "SKHY",
+      "company": "SK Hynix (US-listed ADR)",
+      "reason": "U.S.-traded shares jumped 4%+ after SK Hynix suspended plans for the U.S. debut of its Solidigm memory business",
       "category": "news",
       "sources": [
-        "MarketBeat"
+        "CNBC",
+        "Seeking Alpha"
       ]
     }
   ]
