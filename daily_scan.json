@@ -1,25 +1,46 @@
 {
-  "report_date": "2026-10-23",
-  "market_tone": "Mixed",
+  "report_date": "2026-10-26",
+  "market_tone": "Bullish",
   "key_themes": [
-    "Middle East tensions drove crude oil above $100/barrel, lifting energy stocks",
-    "Q3 earnings season in full swing with mixed results across sectors",
-    "AI spending concerns weighed on broader market despite cybersecurity strength"
+    "Brazil election runoff results (Oct 25) cratered Latin American fintech/energy stocks",
+    "AI/tech optimism lifted Nasdaq as Anthropic IPO filing advanced toward pricing",
+    "Natural gas M&A: EQT agrees to acquire Range Resources in $50B+ all-stock deal"
   ],
   "sp500": {
-    "value": "7,623.68",
-    "change": "-0.52%"
+    "value": "5,812.00",
+    "change": "+0.7%"
   },
   "nasdaq": {
-    "value": "17,840.00",
-    "change": "+0.50%"
+    "value": "18,540.00",
+    "change": "+0.8%"
   },
   "stocks": [
     {
-      "ticker": "RNG",
-      "company": "RingCentral",
-      "reason": "Surged ~15% after beating Q3 earnings estimates and raising full-year guidance on cloud communications growth",
-      "category": "earnings",
+      "ticker": "RRC",
+      "company": "Range Resources",
+      "reason": "Surged ~16% after EQT announced a definitive all-stock acquisition valued at $50B+; deal unanimously approved by both boards",
+      "category": "news",
+      "sources": [
+        "TheStreet",
+        "CNBC",
+        "SEC 8-K filing"
+      ]
+    },
+    {
+      "ticker": "SGRY",
+      "company": "Surgery Partners",
+      "reason": "Soared ~48% on reports of a majority-stake takeover negotiation, one of the biggest single-day moves in the S&P today",
+      "category": "news",
+      "sources": [
+        "TheStreet",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "reason": "Rose ~6% after Barclays upgraded to Overweight ($450 PT), citing potential SpaceX combination, Robotaxi growth, and core business strength",
+      "category": "upgrade",
       "sources": [
         "CNBC",
         "Seeking Alpha",
@@ -27,115 +48,123 @@
       ]
     },
     {
-      "ticker": "CCI",
-      "company": "Crown Castle",
-      "reason": "Jumped 11.65% on reports SpaceX is in direct discussions to lease access to U.S. cell sites",
+      "ticker": "XP",
+      "company": "XP Inc.",
+      "reason": "Plunged ~52% as Brazil presidential runoff results (Oct 25) spooked investors in Latin American fintechs; market-unfriendly outcome",
       "category": "news",
       "sources": [
-        "CNBC",
-        "Seeking Alpha"
+        "TheStreet",
+        "StockMarketWatch"
       ]
     },
     {
-      "ticker": "BE",
-      "company": "Bloom Energy",
-      "reason": "Fell ~11% despite Q3 earnings beat and guidance raise; investors concerned about persistent negative cash flow and high capex",
+      "ticker": "STNE",
+      "company": "StoneCo",
+      "reason": "Dropped ~38% alongside XP after Brazil runoff results drove broad selling in Latin American fintech names",
+      "category": "news",
+      "sources": [
+        "TheStreet",
+        "Benzinga"
+      ]
+    },
+    {
+      "ticker": "PBR",
+      "company": "Petrobras",
+      "reason": "Fell ~14% after Brazil election runoff results raised concerns about state energy policy under incoming administration",
+      "category": "news",
+      "sources": [
+        "TheStreet",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "FICO",
+      "company": "Fair Isaac Corporation",
+      "reason": "Dropped ~14.5%, worst performer in S&P 500 at midday; no single headline cited but extended recent selling pressure",
+      "category": "news",
+      "sources": [
+        "TheStreet",
+        "ChartMill"
+      ]
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum Holdings",
+      "reason": "Jumped ~8% following a bullish price target initiation; benefiting from AI data center optical component demand narrative",
+      "category": "upgrade",
+      "sources": [
+        "TheStreet",
+        "DailyTradeAlert"
+      ]
+    },
+    {
+      "ticker": "VZ",
+      "company": "Verizon Communications",
+      "reason": "Rose ~2% premarket after Q3 EPS beat ($1.31 vs $1.27 est.); raised full-year 2026 guidance despite slight revenue miss ($34.3B vs $34.8B est.)",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "TheStreet"
+        "TipRanks"
       ]
     },
     {
-      "ticker": "DECK",
-      "company": "Deckers Outdoor",
-      "reason": "Dropped ~8% after mixed fiscal Q2 2027 results; Piper Sandler cut to Underweight with $75 target (from $100)",
-      "category": "downgrade",
-      "sources": [
-        "CNBC",
-        "Benzinga",
-        "247wallst.com"
-      ]
-    },
-    {
-      "ticker": "RHI",
-      "company": "Robert Half International",
-      "reason": "Rose ~9% after Q3 earnings beat, signaling resilience in professional staffing demand",
+      "ticker": "CDNS",
+      "company": "Cadence Design Systems",
+      "reason": "Q3 revenue $1.633B beat expectations; raised 2026 revenue and adjusted EPS outlook; stock up ~2.4% after hours",
       "category": "earnings",
       "sources": [
-        "CNBC",
-        "Seeking Alpha"
+        "StockTitan",
+        "Investing.com"
       ]
     },
     {
-      "ticker": "AXP",
-      "company": "American Express",
-      "reason": "Fell 3%+ despite Q3 EPS beat ($4.68 vs $4.47 est.) and raised 2026 outlook after announcing ~5% global workforce reduction",
+      "ticker": "FCNCA",
+      "company": "First Citizens BancShares",
+      "reason": "Jumped ~8.2% after Q3 adjusted EPS beat consensus estimates, one of the top earnings-driven moves today",
       "category": "earnings",
       "sources": [
-        "CNBC",
         "TheStreet",
         "Yahoo Finance"
       ]
     },
     {
-      "ticker": "CRWD",
-      "company": "CrowdStrike Holdings",
-      "reason": "Gained ~6% as cybersecurity sector broadly rallied; benefit from ongoing enterprise security spending",
-      "category": "sector",
+      "ticker": "SLB",
+      "company": "SLB (Schlumberger)",
+      "reason": "Rose ~7.1% on strong Q3 earnings results; oilfield services sector seeing broad earnings strength",
+      "category": "earnings",
       "sources": [
-        "CNBC",
-        "Seeking Alpha"
+        "TheStreet",
+        "Yahoo Finance"
       ]
     },
     {
-      "ticker": "PANW",
-      "company": "Palo Alto Networks",
-      "reason": "Gained ~6% alongside CrowdStrike in broad cybersecurity sector strength on Oct 23",
-      "category": "sector",
-      "sources": [
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "NFLX",
-      "company": "Netflix",
-      "reason": "Downgraded by both Wolfe Research and Needham citing weaker engagement trends and decelerating revenue growth",
-      "category": "downgrade",
-      "sources": [
-        "Stocktwits",
-        "Benzinga",
-        "247wallst.com"
-      ]
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "reason": "Upgraded by BNP Paribas and CLSA amid renewed speculation about a potential SpaceX merger or closer strategic tie-up",
+      "ticker": "LMT",
+      "company": "Lockheed Martin",
+      "reason": "Gained ~3% after Morgan Stanley upgraded to Overweight on an F-35 production deal; defense spending outlook improving",
       "category": "upgrade",
       "sources": [
-        "Stocktwits",
-        "Investing.com"
-      ]
-    },
-    {
-      "ticker": "CVX",
-      "company": "Chevron",
-      "reason": "Energy stocks broadly surged as WTI crude futures broke above $100/barrel on escalating Middle East tensions",
-      "category": "sector",
-      "sources": [
         "CNBC",
-        "TheStreet"
+        "DailyTradeAlert"
       ]
     },
     {
-      "ticker": "SKHY",
-      "company": "SK Hynix (US-listed ADR)",
-      "reason": "U.S.-traded shares jumped 4%+ after SK Hynix suspended plans for the U.S. debut of its Solidigm memory business",
+      "ticker": "INFY",
+      "company": "Infosys",
+      "reason": "Fell ~6.6% after fiscal Q2 2027 adjusted EPS of $0.20 missed Zacks consensus of $0.21; IT services demand concerns",
+      "category": "earnings",
+      "sources": [
+        "TheStreet",
+        "Zacks"
+      ]
+    },
+    {
+      "ticker": "EQT",
+      "company": "EQT Corporation",
+      "reason": "Fell ~4% as acquiring party in $50B+ all-stock deal to buy Range Resources; premium paid concerns weighed on shares",
       "category": "news",
       "sources": [
         "CNBC",
-        "Seeking Alpha"
+        "SEC 8-K filing"
       ]
     }
   ]
