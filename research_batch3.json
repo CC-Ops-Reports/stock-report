@@ -1,52 +1,121 @@
 {
-  "report_date": "2026-10-23",
+  "report_date": "2026-10-26",
   "batch": 3,
   "stocks": [
     {
-      "ticker": "CVX",
-      "company": "Chevron Corporation",
-      "discussion_driver": "Chevron surged alongside the broader energy sector after WTI crude futures broke above $100/barrel, driven by escalating Middle East tensions. As one of the world's largest integrated oil and gas companies, Chevron is a direct beneficiary of elevated commodity prices, and market expectations are building ahead of its Q3 earnings report on October 30. Bank of America raised its price target to $252 on October 21, the latest in a series of analyst upgrades as the stock hit all-time closing highs.",
+      "ticker": "FCNCA",
+      "company": "First Citizens BancShares",
+      "discussion_driver": "Surged ~8.2% on Oct 23 after Q3 2026 adjusted EPS beat consensus estimates, setting a new 52-week intraday high of $2,429.96; the bank's continued integration of SVB assets and disciplined credit quality drove the earnings beat, keeping investor focus on NIM trajectory and net interest income growth.",
       "bull_case": [
-        "Crude oil above $100/barrel materially boosts Chevron's revenue and free cash flow, with Q3 earnings due Oct 30 expected to reflect the strong commodity price environment and Permian production exceeding 1 million boe/day",
-        "Successful Hess integration delivering synergies ahead of schedule, plus 39 consecutive years of dividend growth and $7.12 annualized yield provide durable shareholder returns regardless of commodity cycle"
+        "Strong Q3 2026 EPS beat demonstrates SVB acquisition remains accretive to earnings; franchise is one of the best-run regional banks with disciplined cost management and improving loan quality",
+        "Trading at only ~12.7x trailing earnings, FCNCA remains attractively valued relative to super-regional peers, with potential NIM recovery as the rate environment stabilizes"
       ],
       "bear_case": [
-        "Stock is trading above the broad analyst consensus target of ~$213 (28 analysts, Oct 13), leaving it vulnerable to a sharp correction if Middle East tensions ease and oil prices retreat",
-        "EIA projects Brent crude falling to ~$79/barrel in 2027 as geopolitical risk premium fades and OPEC supply returns, which would compress margins and free cash flow significantly"
+        "Net interest margin declined 3 basis points quarter-over-quarter, signaling ongoing spread compression in a competitive deposit environment that could limit earnings growth",
+        "JP Morgan downgraded to Underweight with a $2,200 price target (well below current price), citing limited upside and concentrated risk from the large inherited SVB loan and securities portfolio"
       ],
-      "recommendation": "Buy",
-      "current_price": "$229.17",
-      "price_target": "$213.42 (-6.9%)",
-      "pe_ratio": "21.73",
+      "recommendation": "Hold",
+      "current_price": "$2,387.93",
+      "price_target": "$2,384.38 (-0.1%)",
+      "pe_ratio": "12.73",
       "rsi": "N/A",
-      "vs_52wk_high": "Near all-time high (52-wk high ~$226.78 set Oct 21; intraday ~$230.74 on Oct 23)",
-      "analyst_rating": "Moderate Buy",
-      "sector": "Energy - Integrated Oil & Gas",
-      "sources": ["MarketBeat", "Bank of America", "247wallst.com", "Macrotrends", "Finviz", "CNBC", "TheStreet"],
-      "price_history_5d": [224.37, 225.71, 226.78, 226.68, 229.17]
+      "vs_52wk_high": "-1.7% below high ($2,429.96)",
+      "analyst_rating": "Hold",
+      "sector": "Financials - Regional Banking",
+      "sources": ["Yahoo Finance", "GuruFocus", "TheStreet", "Investing.com"],
+      "price_history_5d": [2120.39, 2143.91, 2196.76, 2375.84, 2387.93]
     },
     {
-      "ticker": "SKHY",
-      "company": "SK Hynix Inc. (ADR)",
-      "discussion_driver": "SK Hynix's US-traded ADR jumped 4%+ after the company suspended plans for the U.S. IPO of its Solidigm memory business, removing a capital overhang and shareholder dilution risk. SK Hynix is the global leader in high-bandwidth memory (HBM) chips critical to AI GPU infrastructure, with 55-60% market share, and a wave of analyst initiations has been overwhelmingly bullish with average price targets exceeding $252. The stock remains well below its 52-week high despite strong HBM demand fundamentals, with next earnings expected around October 27.",
+      "ticker": "SLB",
+      "company": "SLB (Schlumberger)",
+      "discussion_driver": "Rose ~7.1% on Oct 23 after Q3 2026 earnings beat estimates on strong international drilling demand and mega-contract wins; the company's accelerating pivot toward AI-driven digital oilfield solutions and data analytics is emerging as a meaningful second growth engine alongside traditional oilfield services.",
       "bull_case": [
-        "Dominant HBM market leadership (~55-60% share) for AI/GPU applications, with HBM4 pricing expected to rise 50%+ as demand outpaces supply; 37 analysts rate it Strong Buy with average targets near $254",
-        "Stock trades at only ~8x trailing earnings despite being at the center of an AI-driven memory supercycle, offering compelling value relative to long-term free cash flow potential through 2028"
+        "Q3 2026 EPS of $0.64 beat consensus estimates, driven by mega contract wins and international expansion; digital services revenue growing as a percentage of total, supporting higher-margin recurring revenue",
+        "Consensus price target of ~$62.35 implies ~17.5% upside from current levels, and major analysts maintain Buy/Overweight ratings (UBS Buy at $70, Barclays Overweight at $63, Piper Sandler at $65)"
       ],
       "bear_case": [
-        "HBM market share declining from ~63% (2025) to ~56% (2026) as Samsung and Micron ramp competitive products, threatening SK Hynix's pricing power and margin premium",
-        "Morningstar cut its fair value estimate citing weaker-than-expected memory price forecasts for 2026-2028; ADR structure and South Korea geopolitical/currency risk add volatility not reflected in analyst models"
+        "Q3 EPS fell 7.2% year-over-year as North American drilling activity softens and pricing pressure increases; top-line growth is clearly decelerating",
+        "Multiple analysts cut price targets in October 2026 (Barclays to $63, UBS to $70 from $75), reflecting cautious outlook on global drilling activity amid oil price and demand uncertainty"
+      ],
+      "recommendation": "Buy",
+      "current_price": "$53.05",
+      "price_target": "$62.35 (+17.5%)",
+      "pe_ratio": "25.75",
+      "rsi": "N/A",
+      "vs_52wk_high": "-12.2% below high ($60.46)",
+      "analyst_rating": "Buy",
+      "sector": "Energy - Oilfield Services",
+      "sources": ["MarketBeat", "GuruFocus", "Investing.com", "TheStreet", "StockAnalysis", "SLB Investor Relations"],
+      "price_history_5d": [49.98, 51.10, 49.55, 53.06, 53.05]
+    },
+    {
+      "ticker": "LMT",
+      "company": "Lockheed Martin",
+      "discussion_driver": "Gained ~3% on Oct 26 as Morgan Stanley upgraded to Overweight with an $835 price target, citing the finalization of an F-35 production deal with the Pentagon and an improving defense budget outlook; stock reached a 14-month high as institutional buyers responded to the upgrade call.",
+      "bull_case": [
+        "Morgan Stanley's Overweight upgrade with $835 target implies 31%+ upside, citing F-35 production ramp and record order backlog that provides multi-year earnings visibility and cash flow predictability",
+        "Defense spending tailwinds remain structurally strong with geopolitical tensions sustaining elevated DoD and NATO budgets; Lockheed's unique position as primary F-35 contractor gives durable pricing power"
+      ],
+      "bear_case": [
+        "Broad analyst consensus remains Hold/Neutral; JPMorgan ($665 Neutral), Jefferies ($615 Hold), and BofA ($620 Neutral) all have targets well below Morgan Stanley's $835 outlier, suggesting the upgrade may be an outlier view",
+        "F-35 program faces ongoing cost negotiation friction with the Pentagon; any contract renegotiation or production delays could pressure near-term margins and dampen EPS"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$635.20",
+      "price_target": "$633.12 (-0.3%)",
+      "pe_ratio": "22.36",
+      "rsi": "N/A",
+      "vs_52wk_high": "-8.2% below high ($692.00)",
+      "analyst_rating": "Hold",
+      "sector": "Industrials - Aerospace & Defense",
+      "sources": ["CNBC", "DailyTradeAlert", "GuruFocus", "ChartMill", "WallStreetZen", "Lockheed Martin IR"],
+      "price_history_5d": [548.71, 551.51, 589.91, 604.18, 635.20]
+    },
+    {
+      "ticker": "INFY",
+      "company": "Infosys",
+      "discussion_driver": "Fell ~6.6% after fiscal Q2 2027 adjusted EPS of $0.20 missed the Zacks consensus of $0.21; IT services demand headwinds continue as enterprise clients tighten discretionary spending globally, extending INFY's significant underperformance in 2026 as the market re-rates IT services multiples lower.",
+      "bull_case": [
+        "Stock had already rebounded 16% from its 52-week low before Q2 results, suggesting a valuation floor is forming; at ~15.7x trailing earnings, INFY trades at a discount to US IT services peers",
+        "Jefferies raised its INR price target from 1,020 to 1,160 on Oct 21, 2026, signaling some analysts see the selloff as overdone and expect a demand recovery in H2 FY27 as enterprise IT budgets reset"
+      ],
+      "bear_case": [
+        "Q2 FY27 EPS missed consensus and Goldman Sachs cut its target to $10.40 (Neutral), implying further downside; consensus analyst price target of ~$11.45 is below the current ADR price of ~$12.35",
+        "IT services demand remains under multi-quarter pressure from enterprise cost-cutting cycles; global macro uncertainty and cautious IT budget approvals pose ongoing headwinds to revenue and margin guidance"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$12.35",
+      "price_target": "$11.45 (-7.3%)",
+      "pe_ratio": "15.76",
+      "rsi": "48.23",
+      "vs_52wk_high": "N/A",
+      "analyst_rating": "Hold",
+      "sector": "Technology - IT Services",
+      "sources": ["TheStreet", "Zacks", "MarketBeat", "IndMoney", "Morningstar", "Ad-Hoc-News"],
+      "price_history_5d": [12.96, 13.40, 13.22, 12.35, 12.22]
+    },
+    {
+      "ticker": "EQT",
+      "company": "EQT Corporation",
+      "discussion_driver": "Fell ~4% on Oct 26 as the acquirer in its announced $50B+ all-stock deal to buy Range Resources; while the deal is strategically compelling — creating the dominant Appalachian natural gas producer — markets penalized EQT for the premium paid and share dilution, with Q3 earnings scheduled for Oct 27-28.",
+      "bull_case": [
+        "The RRC acquisition creates the largest natural gas producer in the Appalachian basin, delivering massive scale economies, midstream synergies, and enhanced LNG export optionality that could significantly expand long-term free cash flow",
+        "Consensus analyst target of ~$66.52 implies ~25% upside from current levels; TipRanks cites Strong Buy consensus, and long-term natural gas demand from LNG exports and data center power growth is a secular tailwind"
+      ],
+      "bear_case": [
+        "All-stock transaction dilutes existing shareholders and the premium paid to RRC creates significant execution and integration risk; deal was unanimously approved by both boards but market responded negatively",
+        "Natural gas prices remain volatile; any sustained price weakness post-acquisition would pressure the combined entity's economics, free cash flow, and debt service capacity at the new, larger scale"
       ],
       "recommendation": "Speculative Buy",
-      "current_price": "$137.08",
-      "price_target": "$252.21 (+84.0%)",
-      "pe_ratio": "8.03",
+      "current_price": "$53.11",
+      "price_target": "$66.52 (+25.2%)",
+      "pe_ratio": "11.0",
       "rsi": "N/A",
-      "vs_52wk_high": "-31.4% below high ($199.87)",
+      "vs_52wk_high": "-22.2% below high ($68.24)",
       "analyst_rating": "Strong Buy",
-      "sector": "Technology - Semiconductor Memory",
-      "sources": ["Investing.com", "TipRanks", "Seeking Alpha", "MarketBeat", "Morningstar", "CNBC", "Seeking Alpha"],
-      "price_history_5d": [142.87, 139.79, 143.25, 131.69, 137.08]
+      "sector": "Energy - Natural Gas E&P",
+      "sources": ["CNBC", "SEC 8-K filing", "StockAnalysis", "TipRanks", "Metacap", "247WallSt"],
+      "price_history_5d": [54.84, 54.07, 54.67, 55.63, 53.11]
     }
   ]
 }
