@@ -1,170 +1,170 @@
 {
-  "report_date": "2026-10-26",
+  "report_date": "2026-10-27",
   "market_tone": "Bullish",
   "key_themes": [
-    "Brazil election runoff results (Oct 25) cratered Latin American fintech/energy stocks",
-    "AI/tech optimism lifted Nasdaq as Anthropic IPO filing advanced toward pricing",
-    "Natural gas M&A: EQT agrees to acquire Range Resources in $50B+ all-stock deal"
+    "Anthropic IPO S-1 filing fuels AI/chip stock rally for second day",
+    "Heavy earnings season: SOFI, PNR, JBLU, RCL, UPS all beat and raise; BA, HOOD miss",
+    "Federal Reserve meeting begins; rate hold widely expected"
   ],
   "sp500": {
-    "value": "5,812.00",
-    "change": "+0.7%"
+    "value": "7,722.60",
+    "change": "+0.60%"
   },
   "nasdaq": {
-    "value": "18,540.00",
-    "change": "+0.8%"
+    "value": "26,477.81",
+    "change": "+1.18%"
   },
   "stocks": [
     {
-      "ticker": "RRC",
-      "company": "Range Resources",
-      "reason": "Surged ~16% after EQT announced a definitive all-stock acquisition valued at $50B+; deal unanimously approved by both boards",
-      "category": "news",
-      "sources": [
-        "TheStreet",
-        "CNBC",
-        "SEC 8-K filing"
-      ]
-    },
-    {
-      "ticker": "SGRY",
-      "company": "Surgery Partners",
-      "reason": "Soared ~48% on reports of a majority-stake takeover negotiation, one of the biggest single-day moves in the S&P today",
-      "category": "news",
-      "sources": [
-        "TheStreet",
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "reason": "Rose ~6% after Barclays upgraded to Overweight ($450 PT), citing potential SpaceX combination, Robotaxi growth, and core business strength",
-      "category": "upgrade",
+      "ticker": "SOFI",
+      "company": "SoFi Technologies",
+      "reason": "Surged ~15% after Q3 beat on consumer lending; raised full-year 2026 guidance",
+      "category": "earnings",
       "sources": [
         "CNBC",
-        "Seeking Alpha",
-        "TheStreet"
+        "Motley Fool",
+        "Yahoo Finance"
       ]
     },
     {
-      "ticker": "XP",
-      "company": "XP Inc.",
-      "reason": "Plunged ~52% as Brazil presidential runoff results (Oct 25) spooked investors in Latin American fintechs; market-unfriendly outcome",
-      "category": "news",
+      "ticker": "PNR",
+      "company": "Pentair",
+      "reason": "Jumped ~13% after Q3 revenue and EPS beat; lifted full-year revenue guidance",
+      "category": "earnings",
       "sources": [
-        "TheStreet",
-        "StockMarketWatch"
-      ]
-    },
-    {
-      "ticker": "STNE",
-      "company": "StoneCo",
-      "reason": "Dropped ~38% alongside XP after Brazil runoff results drove broad selling in Latin American fintech names",
-      "category": "news",
-      "sources": [
-        "TheStreet",
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "PBR",
-      "company": "Petrobras",
-      "reason": "Fell ~14% after Brazil election runoff results raised concerns about state energy policy under incoming administration",
-      "category": "news",
-      "sources": [
-        "TheStreet",
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "FICO",
-      "company": "Fair Isaac Corporation",
-      "reason": "Dropped ~14.5%, worst performer in S&P 500 at midday; no single headline cited but extended recent selling pressure",
-      "category": "news",
-      "sources": [
-        "TheStreet",
+        "CNBC",
         "ChartMill"
       ]
     },
     {
-      "ticker": "LITE",
-      "company": "Lumentum Holdings",
-      "reason": "Jumped ~8% following a bullish price target initiation; benefiting from AI data center optical component demand narrative",
-      "category": "upgrade",
-      "sources": [
-        "TheStreet",
-        "DailyTradeAlert"
-      ]
-    },
-    {
-      "ticker": "VZ",
-      "company": "Verizon Communications",
-      "reason": "Rose ~2% premarket after Q3 EPS beat ($1.31 vs $1.27 est.); raised full-year 2026 guidance despite slight revenue miss ($34.3B vs $34.8B est.)",
+      "ticker": "JBLU",
+      "company": "JetBlue Airways",
+      "reason": "Rose 20%+ after guiding to wider Q4 margins; reversed prior-day decline on restructuring fears",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "TipRanks"
+        "Yahoo Finance"
       ]
     },
     {
-      "ticker": "CDNS",
-      "company": "Cadence Design Systems",
-      "reason": "Q3 revenue $1.633B beat expectations; raised 2026 revenue and adjusted EPS outlook; stock up ~2.4% after hours",
+      "ticker": "RCL",
+      "company": "Royal Caribbean Group",
+      "reason": "Up ~8% after Q3 earnings topped estimates and company raised full-year guidance",
       "category": "earnings",
       "sources": [
-        "StockTitan",
+        "CNBC",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "reason": "Up ~4-5%: DA Davidson upgraded to Buy with $400 PT; Anthropic S-1 revealed $161B in committed Broadcom chip purchases",
+      "category": "upgrade",
+      "sources": [
+        "Yahoo Finance",
+        "Benzinga",
+        "Bloomberg",
+        "CryptoBriefing"
+      ]
+    },
+    {
+      "ticker": "BA",
+      "company": "Boeing",
+      "reason": "Fell ~9% on mixed Q3: revenue beat but adjusted loss wider than feared; CEO warned 737 production targets will be missed this year",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Rock & Turner Substack"
+      ]
+    },
+    {
+      "ticker": "DELL",
+      "company": "Dell Technologies",
+      "reason": "Rose ~8% after announcing expansion of cybersecurity capabilities across AI environments",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "ChartMill"
+      ]
+    },
+    {
+      "ticker": "NBIS",
+      "company": "Nebius Group",
+      "reason": "Surged ~11% as AI infrastructure play benefiting from Anthropic IPO S-1 filing; cited alongside Astera Labs and Western Digital in tech rally",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "Seeking Alpha",
+        "TradingView"
+      ]
+    },
+    {
+      "ticker": "XYL",
+      "company": "Xylem",
+      "reason": "Steepest S&P 500 decliner, down ~12%; quarterly results disappointed investors",
+      "category": "earnings",
+      "sources": [
+        "ChartMill"
+      ]
+    },
+    {
+      "ticker": "UPS",
+      "company": "United Parcel Service",
+      "reason": "Q3 adjusted earnings and revenue both beat estimates; company raised full-year guidance",
+      "category": "earnings",
+      "sources": [
+        "Rock & Turner Substack",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "HUBS",
+      "company": "HubSpot",
+      "reason": "UBS downgraded to Neutral from Buy on valuation concerns",
+      "category": "downgrade",
+      "sources": [
+        "Yahoo Finance",
+        "Daily Trade Alert"
+      ]
+    },
+    {
+      "ticker": "HOOD",
+      "company": "Robinhood Markets",
+      "reason": "Fell ~5% after Q3 double miss on both revenue and adjusted EPS",
+      "category": "earnings",
+      "sources": [
+        "24/7 Wall St.",
         "Investing.com"
       ]
     },
     {
-      "ticker": "FCNCA",
-      "company": "First Citizens BancShares",
-      "reason": "Jumped ~8.2% after Q3 adjusted EPS beat consensus estimates, one of the top earnings-driven moves today",
+      "ticker": "MANH",
+      "company": "Manhattan Associates",
+      "reason": "Up ~12% after hours on strong Q3 earnings beat",
       "category": "earnings",
       "sources": [
-        "TheStreet",
+        "ChartMill",
+        "StockAnalysis"
+      ]
+    },
+    {
+      "ticker": "CSGP",
+      "company": "CoStar Group",
+      "reason": "Fell ~11% after hours despite Q3 earnings and revenue beat; $730M acquisition announcement spooked investors",
+      "category": "earnings",
+      "sources": [
+        "Investing.com"
+      ]
+    },
+    {
+      "ticker": "MRNA",
+      "company": "Moderna",
+      "reason": "William Blair downgraded to Market Perform from Outperform citing valuation after large year-to-date gain",
+      "category": "downgrade",
+      "sources": [
+        "Daily Trade Alert",
         "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "SLB",
-      "company": "SLB (Schlumberger)",
-      "reason": "Rose ~7.1% on strong Q3 earnings results; oilfield services sector seeing broad earnings strength",
-      "category": "earnings",
-      "sources": [
-        "TheStreet",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "LMT",
-      "company": "Lockheed Martin",
-      "reason": "Gained ~3% after Morgan Stanley upgraded to Overweight on an F-35 production deal; defense spending outlook improving",
-      "category": "upgrade",
-      "sources": [
-        "CNBC",
-        "DailyTradeAlert"
-      ]
-    },
-    {
-      "ticker": "INFY",
-      "company": "Infosys",
-      "reason": "Fell ~6.6% after fiscal Q2 2027 adjusted EPS of $0.20 missed Zacks consensus of $0.21; IT services demand concerns",
-      "category": "earnings",
-      "sources": [
-        "TheStreet",
-        "Zacks"
-      ]
-    },
-    {
-      "ticker": "EQT",
-      "company": "EQT Corporation",
-      "reason": "Fell ~4% as acquiring party in $50B+ all-stock deal to buy Range Resources; premium paid concerns weighed on shares",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "SEC 8-K filing"
       ]
     }
   ]
