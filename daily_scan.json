@@ -1,169 +1,168 @@
 {
-  "report_date": "2026-10-27",
-  "market_tone": "Bullish",
+  "report_date": "2026-10-28",
+  "market_tone": "Mixed",
   "key_themes": [
-    "Anthropic IPO S-1 filing fuels AI/chip stock rally for second day",
-    "Heavy earnings season: SOFI, PNR, JBLU, RCL, UPS all beat and raise; BA, HOOD miss",
-    "Federal Reserve meeting begins; rate hold widely expected"
+    "Fed holds rates steady in split vote, markets digest Big Tech earnings",
+    "Chip sector rallies third day on SK Hynix record quarterly profit; Micron, AMD, Nvidia all higher",
+    "Alphabet and Fortinet plunge after hours on earnings miss and guidance concerns, dragging cybersecurity sector"
   ],
   "sp500": {
-    "value": "7,722.60",
-    "change": "+0.60%"
+    "value": "7,742.00",
+    "change": "+0.2%"
   },
   "nasdaq": {
-    "value": "26,477.81",
-    "change": "+1.18%"
+    "value": "26,549.85",
+    "change": "+0.3%"
   },
   "stocks": [
     {
-      "ticker": "SOFI",
-      "company": "SoFi Technologies",
-      "reason": "Surged ~15% after Q3 beat on consumer lending; raised full-year 2026 guidance",
+      "ticker": "GOOG",
+      "company": "Alphabet Inc.",
+      "reason": "Q3 EPS $2.12 missed $3.00 estimate by 29%; $8.7B equity investment loss crushed profitability; search revenue soft at $63.35B vs $64.85B expected; shares fell ~9-10% after hours despite Google Cloud doubling revenue to $30.7B",
       "category": "earnings",
       "sources": [
-        "CNBC",
-        "Motley Fool",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "PNR",
-      "company": "Pentair",
-      "reason": "Jumped ~13% after Q3 revenue and EPS beat; lifted full-year revenue guidance",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "ChartMill"
-      ]
-    },
-    {
-      "ticker": "JBLU",
-      "company": "JetBlue Airways",
-      "reason": "Rose 20%+ after guiding to wider Q4 margins; reversed prior-day decline on restructuring fears",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "RCL",
-      "company": "Royal Caribbean Group",
-      "reason": "Up ~8% after Q3 earnings topped estimates and company raised full-year guidance",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "reason": "Up ~4-5%: DA Davidson upgraded to Buy with $400 PT; Anthropic S-1 revealed $161B in committed Broadcom chip purchases",
-      "category": "upgrade",
-      "sources": [
-        "Yahoo Finance",
         "Benzinga",
-        "Bloomberg",
-        "CryptoBriefing"
+        "Investing.com",
+        "Yahoo Finance"
       ]
     },
     {
-      "ticker": "BA",
-      "company": "Boeing",
-      "reason": "Fell ~9% on mixed Q3: revenue beat but adjusted loss wider than feared; CEO warned 737 production targets will be missed this year",
+      "ticker": "FTNT",
+      "company": "Fortinet Inc.",
+      "reason": "Q3 beat estimates (EPS $0.91 vs $0.86 est, revenue $2.08B vs $2.06B est) but shares plunged 20-25% after hours on valuation concerns and guidance skepticism",
       "category": "earnings",
       "sources": [
-        "CNBC",
-        "Rock & Turner Substack"
+        "Seeking Alpha",
+        "GuruFocus",
+        "Benzinga"
       ]
     },
     {
-      "ticker": "DELL",
-      "company": "Dell Technologies",
-      "reason": "Rose ~8% after announcing expansion of cybersecurity capabilities across AI environments",
+      "ticker": "VRT",
+      "company": "Vertiv Holdings",
+      "reason": "Q3 earnings beat and raised full-year guidance; led S&P 500 gainers up ~15.6% as AI data center infrastructure demand drives higher margins",
+      "category": "earnings",
+      "sources": [
+        "Morningstar",
+        "CNBC",
+        "Chartmill"
+      ]
+    },
+    {
+      "ticker": "WING",
+      "company": "Wingstop Inc.",
+      "reason": "Q3 results beat estimates; shares jumped ~15% in midday trading on strong same-store sales growth",
+      "category": "earnings",
+      "sources": [
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "WEN",
+      "company": "Wendy's Co.",
+      "reason": "Shares volatile: surged ~15% midday on reports Nelson Peltz Trian Fund preparing a $1.4B take-private bid, then fell ~13% after Trian shelved the plans",
       "category": "news",
       "sources": [
-        "CNBC",
-        "ChartMill"
+        "Reuters",
+        "Yahoo Finance",
+        "Barchart"
       ]
     },
     {
-      "ticker": "NBIS",
-      "company": "Nebius Group",
-      "reason": "Surged ~11% as AI infrastructure play benefiting from Anthropic IPO S-1 filing; cited alongside Astera Labs and Western Digital in tech rally",
-      "category": "sector",
-      "sources": [
-        "CNBC",
-        "Seeking Alpha",
-        "TradingView"
-      ]
-    },
-    {
-      "ticker": "XYL",
-      "company": "Xylem",
-      "reason": "Steepest S&P 500 decliner, down ~12%; quarterly results disappointed investors",
+      "ticker": "FFIV",
+      "company": "F5 Inc.",
+      "reason": "Led S&P 500 losers down 20.64%; downgraded by Piper Sandler (Overweight to Neutral) on earnings day",
       "category": "earnings",
       "sources": [
-        "ChartMill"
+        "CNBC",
+        "Chartmill",
+        "DailyTradeAlert"
       ]
     },
     {
-      "ticker": "UPS",
-      "company": "United Parcel Service",
-      "reason": "Q3 adjusted earnings and revenue both beat estimates; company raised full-year guidance",
-      "category": "earnings",
-      "sources": [
-        "Rock & Turner Substack",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "HUBS",
-      "company": "HubSpot",
-      "reason": "UBS downgraded to Neutral from Buy on valuation concerns",
+      "ticker": "ENPH",
+      "company": "Enphase Energy",
+      "reason": "Shares fell ~17% after forecasting lower Q4 sales; downgraded by Oppenheimer from Outperform to Perform",
       "category": "downgrade",
       "sources": [
+        "CNBC",
+        "Morningstar",
+        "DailyTradeAlert"
+      ]
+    },
+    {
+      "ticker": "AXGN",
+      "company": "Axogen Inc.",
+      "reason": "Q3 revenue up 26.2% YoY; company raised full-year revenue forecast; shares surged ~31%",
+      "category": "earnings",
+      "sources": [
+        "Morningstar",
+        "Chartmill"
+      ]
+    },
+    {
+      "ticker": "GMAB",
+      "company": "Genmab A/S",
+      "reason": "Shares up ~28-33% on positive Phase 3 head and neck cancer trial results",
+      "category": "news",
+      "sources": [
+        "Morningstar"
+      ]
+    },
+    {
+      "ticker": "LH",
+      "company": "Labcorp",
+      "reason": "Raised full-year guidance; shares up ~10% in midday trading on stronger-than-expected Q3 results",
+      "category": "earnings",
+      "sources": [
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "reason": "Up ~6% as SK Hynix record quarterly profit boosted memory chip sector for third consecutive day; recently upgraded to Strong Buy",
+      "category": "sector",
+      "sources": [
         "Yahoo Finance",
-        "Daily Trade Alert"
+        "Seeking Alpha"
+      ]
+    },
+    {
+      "ticker": "PANW",
+      "company": "Palo Alto Networks",
+      "reason": "Fell ~6.7% in sympathy with Fortinet post-earnings cybersecurity sector selloff; CrowdStrike and Zscaler also lower",
+      "category": "sector",
+      "sources": [
+        "Benzinga"
+      ]
+    },
+    {
+      "ticker": "LOGI",
+      "company": "Logitech International",
+      "reason": "Fell 11-12% after Q3 report: operating income below expectations despite adjusted EPS beat",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Morningstar"
       ]
     },
     {
       "ticker": "HOOD",
       "company": "Robinhood Markets",
-      "reason": "Fell ~5% after Q3 double miss on both revenue and adjusted EPS",
+      "reason": "Fell ~8% in premarket after reporting weaker-than-expected Q3 profits",
       "category": "earnings",
       "sources": [
-        "24/7 Wall St.",
-        "Investing.com"
+        "Yahoo Finance",
+        "CNBC"
       ]
     },
     {
-      "ticker": "MANH",
-      "company": "Manhattan Associates",
-      "reason": "Up ~12% after hours on strong Q3 earnings beat",
-      "category": "earnings",
+      "ticker": "AMD",
+      "company": "Advanced Micro Devices",
+      "reason": "Up ~3% as AI chip stocks rallied for third consecutive day on SK Hynix record profit signaling strong HBM demand",
+      "category": "sector",
       "sources": [
-        "ChartMill",
-        "StockAnalysis"
-      ]
-    },
-    {
-      "ticker": "CSGP",
-      "company": "CoStar Group",
-      "reason": "Fell ~11% after hours despite Q3 earnings and revenue beat; $730M acquisition announcement spooked investors",
-      "category": "earnings",
-      "sources": [
-        "Investing.com"
-      ]
-    },
-    {
-      "ticker": "MRNA",
-      "company": "Moderna",
-      "reason": "William Blair downgraded to Market Perform from Outperform citing valuation after large year-to-date gain",
-      "category": "downgrade",
-      "sources": [
-        "Daily Trade Alert",
         "Yahoo Finance"
       ]
     }
