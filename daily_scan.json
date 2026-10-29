@@ -1,168 +1,170 @@
 {
-  "report_date": "2026-10-28",
-  "market_tone": "Mixed",
+  "report_date": "2026-10-29",
+  "market_tone": "Bearish",
   "key_themes": [
-    "Fed holds rates steady in split vote, markets digest Big Tech earnings",
-    "Chip sector rallies third day on SK Hynix record quarterly profit; Micron, AMD, Nvidia all higher",
-    "Alphabet and Fortinet plunge after hours on earnings miss and guidance concerns, dragging cybersecurity sector"
+    "Big Tech earnings divergence \u2014 Alphabet worst day ever on AI spending doubts",
+    "M&A surge \u2014 ADT acquired for $15.3B, DoorDash buys Instacart",
+    "Cybersecurity earnings pain \u2014 ServiceNow and Fortinet collapse on weak outlooks"
   ],
   "sp500": {
-    "value": "7,742.00",
-    "change": "+0.2%"
+    "value": "7,720.39",
+    "change": "-0.3%"
   },
   "nasdaq": {
-    "value": "26,549.85",
-    "change": "+0.3%"
+    "value": "26,184.73",
+    "change": "-1.4%"
   },
   "stocks": [
     {
-      "ticker": "GOOG",
-      "company": "Alphabet Inc.",
-      "reason": "Q3 EPS $2.12 missed $3.00 estimate by 29%; $8.7B equity investment loss crushed profitability; search revenue soft at $63.35B vs $64.85B expected; shares fell ~9-10% after hours despite Google Cloud doubling revenue to $30.7B",
+      "ticker": "ADT",
+      "company": "ADT Inc.",
+      "reason": "Surged ~33% after agreeing to be acquired by Thrive Holdings in $15.3B all-cash deal expected to close Q1 2027",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Bloomberg"
+      ]
+    },
+    {
+      "ticker": "GKOS",
+      "company": "Glaukos Corporation",
+      "reason": "Surged ~33% after Q3 revenue of $211M crushed the $168M FactSet consensus estimate, up 58% YoY",
       "category": "earnings",
       "sources": [
-        "Benzinga",
-        "Investing.com",
+        "CNBC",
+        "Seeking Alpha"
+      ]
+    },
+    {
+      "ticker": "CVNA",
+      "company": "Carvana Co.",
+      "reason": "Rose ~16% after record Q3 results beat expectations; SEC also closed previously disclosed investigation without enforcement action",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Seeking Alpha"
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet Inc.",
+      "reason": "Dropped ~12% \u2014 worst single day in company history \u2014 after Q3 earnings miss with negative free cash flow of -$9.07B and core search revenue of $63.35B vs $64.96B estimate",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "TheStreet",
         "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "NOW",
+      "company": "ServiceNow Inc.",
+      "reason": "Fell ~25% after Q3 earnings report disappointed; shares gapped down following after-hours selloff from prior session",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "StockTitan"
       ]
     },
     {
       "ticker": "FTNT",
       "company": "Fortinet Inc.",
-      "reason": "Q3 beat estimates (EPS $0.91 vs $0.86 est, revenue $2.08B vs $2.06B est) but shares plunged 20-25% after hours on valuation concerns and guidance skepticism",
+      "reason": "Dropped ~20% following Q3 earnings beat overshadowed by soft guidance; shares plunged in after-hours session",
       "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Benzinga"
+      ]
+    },
+    {
+      "ticker": "LLY",
+      "company": "Eli Lilly and Company",
+      "reason": "Gained ~6.6% after Q3 beat: adjusted EPS of $7.48 vs $6.26 estimate; revenue of $24.4B vs $22.61B estimate",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "CAT",
+      "company": "Caterpillar Inc.",
+      "reason": "Fell ~9% after Q3 results disappointed; weighed on the Dow as industrial demand signals weakened",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "ChartMill"
+      ]
+    },
+    {
+      "ticker": "XRX",
+      "company": "Xerox Holdings Corporation",
+      "reason": "Crashed ~40% \u2014 largest decliner of the session \u2014 after cutting full-year revenue and profit forecasts",
+      "category": "news",
       "sources": [
         "Seeking Alpha",
-        "GuruFocus",
-        "Benzinga"
+        "StockTitan"
       ]
     },
     {
-      "ticker": "VRT",
-      "company": "Vertiv Holdings",
-      "reason": "Q3 earnings beat and raised full-year guidance; led S&P 500 gainers up ~15.6% as AI data center infrastructure demand drives higher margins",
+      "ticker": "INTC",
+      "company": "Intel Corporation",
+      "reason": "Fell ~18-20% after hours after Q3 earnings beat was overshadowed by weak Q4 revenue guidance below prior quarter",
       "category": "earnings",
       "sources": [
-        "Morningstar",
         "CNBC",
-        "Chartmill"
+        "Yahoo Finance",
+        "StockTitan"
       ]
     },
     {
-      "ticker": "WING",
-      "company": "Wingstop Inc.",
-      "reason": "Q3 results beat estimates; shares jumped ~15% in midday trading on strong same-store sales growth",
+      "ticker": "AMZN",
+      "company": "Amazon.com Inc.",
+      "reason": "Fell ~6% after hours after slight Q3 miss: revenue $201.9B vs $202.2B estimate, EPS $1.89 vs $1.97 estimate; capex concerns weighed",
       "category": "earnings",
       "sources": [
-        "CNBC"
+        "Yahoo Finance",
+        "24/7 Wall St.",
+        "StockTitan"
       ]
     },
     {
-      "ticker": "WEN",
-      "company": "Wendy's Co.",
-      "reason": "Shares volatile: surged ~15% midday on reports Nelson Peltz Trian Fund preparing a $1.4B take-private bid, then fell ~13% after Trian shelved the plans",
+      "ticker": "DASH",
+      "company": "DoorDash Inc.",
+      "reason": "In focus after announcing agreement to acquire Maplebear (Instacart) at $65/share, an 11% premium to prior close",
       "category": "news",
       "sources": [
-        "Reuters",
-        "Yahoo Finance",
-        "Barchart"
-      ]
-    },
-    {
-      "ticker": "FFIV",
-      "company": "F5 Inc.",
-      "reason": "Led S&P 500 losers down 20.64%; downgraded by Piper Sandler (Overweight to Neutral) on earnings day",
-      "category": "earnings",
-      "sources": [
         "CNBC",
-        "Chartmill",
-        "DailyTradeAlert"
+        "Bloomberg"
       ]
     },
     {
-      "ticker": "ENPH",
-      "company": "Enphase Energy",
-      "reason": "Shares fell ~17% after forecasting lower Q4 sales; downgraded by Oppenheimer from Outperform to Perform",
-      "category": "downgrade",
-      "sources": [
-        "CNBC",
-        "Morningstar",
-        "DailyTradeAlert"
-      ]
-    },
-    {
-      "ticker": "AXGN",
-      "company": "Axogen Inc.",
-      "reason": "Q3 revenue up 26.2% YoY; company raised full-year revenue forecast; shares surged ~31%",
-      "category": "earnings",
-      "sources": [
-        "Morningstar",
-        "Chartmill"
-      ]
-    },
-    {
-      "ticker": "GMAB",
-      "company": "Genmab A/S",
-      "reason": "Shares up ~28-33% on positive Phase 3 head and neck cancer trial results",
+      "ticker": "CART",
+      "company": "Maplebear Inc. (Instacart)",
+      "reason": "Shares jumped ~11% after DoorDash announced $65/share all-cash acquisition offer",
       "category": "news",
       "sources": [
-        "Morningstar"
-      ]
-    },
-    {
-      "ticker": "LH",
-      "company": "Labcorp",
-      "reason": "Raised full-year guidance; shares up ~10% in midday trading on stronger-than-expected Q3 results",
-      "category": "earnings",
-      "sources": [
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron Technology",
-      "reason": "Up ~6% as SK Hynix record quarterly profit boosted memory chip sector for third consecutive day; recently upgraded to Strong Buy",
-      "category": "sector",
-      "sources": [
-        "Yahoo Finance",
-        "Seeking Alpha"
-      ]
-    },
-    {
-      "ticker": "PANW",
-      "company": "Palo Alto Networks",
-      "reason": "Fell ~6.7% in sympathy with Fortinet post-earnings cybersecurity sector selloff; CrowdStrike and Zscaler also lower",
-      "category": "sector",
-      "sources": [
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "LOGI",
-      "company": "Logitech International",
-      "reason": "Fell 11-12% after Q3 report: operating income below expectations despite adjusted EPS beat",
-      "category": "earnings",
-      "sources": [
         "CNBC",
-        "Morningstar"
+        "Bloomberg"
       ]
     },
     {
-      "ticker": "HOOD",
-      "company": "Robinhood Markets",
-      "reason": "Fell ~8% in premarket after reporting weaker-than-expected Q3 profits",
+      "ticker": "MSFT",
+      "company": "Microsoft Corporation",
+      "reason": "Bucked Big Tech selloff with positive Q3 earnings; Azure cloud growth beat expectations, stark contrast to Alphabet",
       "category": "earnings",
       "sources": [
-        "Yahoo Finance",
-        "CNBC"
+        "TheStreet",
+        "Yahoo Finance"
       ]
     },
     {
-      "ticker": "AMD",
-      "company": "Advanced Micro Devices",
-      "reason": "Up ~3% as AI chip stocks rallied for third consecutive day on SK Hynix record profit signaling strong HBM demand",
-      "category": "sector",
+      "ticker": "MRK",
+      "company": "Merck & Co. Inc.",
+      "reason": "Led Dow Jones gainers on October 29; Q3 earnings beat estimates as pharmaceutical business showed resilience",
+      "category": "earnings",
       "sources": [
+        "ChartMill",
         "Yahoo Finance"
       ]
     }
