@@ -1,157 +1,99 @@
 {
-  "report_date": "2026-10-29",
+  "report_date": "2026-10-30",
   "market_tone": "Bearish",
   "key_themes": [
-    "Big Tech earnings divergence \u2014 Alphabet worst day ever on AI spending doubts",
-    "M&A surge \u2014 ADT acquired for $15.3B, DoorDash buys Instacart",
-    "Cybersecurity earnings pain \u2014 ServiceNow and Fortinet collapse on weak outlooks"
+    "Big Tech AI earnings disappointment (Intel worst day since 1974, Reddit/Alphabet selloff)",
+    "October ends as Nasdaq worst month since March 2025 amid AI spending concerns",
+    "Energy sector beats (Chevron, Exxon refining strength) offset tech carnage"
   ],
   "sp500": {
-    "value": "7,720.39",
-    "change": "-0.3%"
+    "value": "7,600.00",
+    "change": "-1.8%"
   },
   "nasdaq": {
-    "value": "26,184.73",
-    "change": "-1.4%"
+    "value": "25,437.00",
+    "change": "-2.9%"
   },
   "stocks": [
     {
-      "ticker": "ADT",
-      "company": "ADT Inc.",
-      "reason": "Surged ~33% after agreeing to be acquired by Thrive Holdings in $15.3B all-cash deal expected to close Q1 2027",
-      "category": "news",
+      "ticker": "INTC",
+      "company": "Intel Corporation",
+      "reason": "Collapsed ~29% \u2014 worst single-day decline since 1974 \u2014 after Q3 earnings showed a weaker-than-expected Q4 revenue forecast ($358-366M vs $377M prior quarter); B of A cut from Buy to Neutral, slashing PT from $145 to $100",
+      "category": "earnings",
       "sources": [
+        "TheStreet",
         "CNBC",
-        "Bloomberg"
+        "Reuters",
+        "247WallSt"
       ]
     },
     {
-      "ticker": "GKOS",
-      "company": "Glaukos Corporation",
-      "reason": "Surged ~33% after Q3 revenue of $211M crushed the $168M FactSet consensus estimate, up 58% YoY",
+      "ticker": "RDDT",
+      "company": "Reddit Inc.",
+      "reason": "Fell ~25-29%, its worst day ever, after beating Q3 EPS expectations but guiding Q4 revenue below forecasts; also hit by reports of massive search-traffic losses to Google AI products and a Citizens downgrade",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "Seeking Alpha"
-      ]
-    },
-    {
-      "ticker": "CVNA",
-      "company": "Carvana Co.",
-      "reason": "Rose ~16% after record Q3 results beat expectations; SEC also closed previously disclosed investigation without enforcement action",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Seeking Alpha"
+        "SeekingAlpha",
+        "Reuters"
       ]
     },
     {
       "ticker": "GOOGL",
       "company": "Alphabet Inc.",
-      "reason": "Dropped ~12% \u2014 worst single day in company history \u2014 after Q3 earnings miss with negative free cash flow of -$9.07B and core search revenue of $63.35B vs $64.96B estimate",
+      "reason": "Suffered its worst day ever on Q3 miss \u2014 negative free cash flow of $9.1B vs -$3.5B consensus \u2014 deepening AI monetization concerns; Citizens downgraded to Market Perform from Outperform",
       "category": "earnings",
       "sources": [
-        "CNBC",
         "TheStreet",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "NOW",
-      "company": "ServiceNow Inc.",
-      "reason": "Fell ~25% after Q3 earnings report disappointed; shares gapped down following after-hours selloff from prior session",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "StockTitan"
-      ]
-    },
-    {
-      "ticker": "FTNT",
-      "company": "Fortinet Inc.",
-      "reason": "Dropped ~20% following Q3 earnings beat overshadowed by soft guidance; shares plunged in after-hours session",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "LLY",
-      "company": "Eli Lilly and Company",
-      "reason": "Gained ~6.6% after Q3 beat: adjusted EPS of $7.48 vs $6.26 estimate; revenue of $24.4B vs $22.61B estimate",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "CAT",
-      "company": "Caterpillar Inc.",
-      "reason": "Fell ~9% after Q3 results disappointed; weighed on the Dow as industrial demand signals weakened",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "ChartMill"
-      ]
-    },
-    {
-      "ticker": "XRX",
-      "company": "Xerox Holdings Corporation",
-      "reason": "Crashed ~40% \u2014 largest decliner of the session \u2014 after cutting full-year revenue and profit forecasts",
-      "category": "news",
-      "sources": [
-        "Seeking Alpha",
-        "StockTitan"
-      ]
-    },
-    {
-      "ticker": "INTC",
-      "company": "Intel Corporation",
-      "reason": "Fell ~18-20% after hours after Q3 earnings beat was overshadowed by weak Q4 revenue guidance below prior quarter",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance",
-        "StockTitan"
+        "StockTitan",
+        "Reuters"
       ]
     },
     {
       "ticker": "AMZN",
       "company": "Amazon.com Inc.",
-      "reason": "Fell ~6% after hours after slight Q3 miss: revenue $201.9B vs $202.2B estimate, EPS $1.89 vs $1.97 estimate; capex concerns weighed",
+      "reason": "Fell sharply in premarket after Q3 report raised AI capex concerns; featured among biggest premarket decliners alongside Intel and Reddit as cloud/AI spending scrutiny intensified",
       "category": "earnings",
       "sources": [
-        "Yahoo Finance",
-        "24/7 Wall St.",
-        "StockTitan"
-      ]
-    },
-    {
-      "ticker": "DASH",
-      "company": "DoorDash Inc.",
-      "reason": "In focus after announcing agreement to acquire Maplebear (Instacart) at $65/share, an 11% premium to prior close",
-      "category": "news",
-      "sources": [
         "CNBC",
-        "Bloomberg"
+        "Investing.com"
       ]
     },
     {
-      "ticker": "CART",
-      "company": "Maplebear Inc. (Instacart)",
-      "reason": "Shares jumped ~11% after DoorDash announced $65/share all-cash acquisition offer",
-      "category": "news",
+      "ticker": "TWLO",
+      "company": "Twilio Inc.",
+      "reason": "Dropped ~17% after offering a disappointing Q4 organic revenue growth forecast, despite beating current-quarter earnings estimates",
+      "category": "earnings",
       "sources": [
-        "CNBC",
-        "Bloomberg"
+        "SeekingAlpha",
+        "TheStreet"
       ]
     },
     {
-      "ticker": "MSFT",
-      "company": "Microsoft Corporation",
-      "reason": "Bucked Big Tech selloff with positive Q3 earnings; Azure cloud growth beat expectations, stark contrast to Alphabet",
+      "ticker": "CDNA",
+      "company": "CareDx Inc.",
+      "reason": "Surged ~22% \u2014 biggest S&P gainer \u2014 after raising its 2026 revenue forecast; the transplant diagnostics company posted a strong quarterly beat",
+      "category": "earnings",
+      "sources": [
+        "SeekingAlpha",
+        "TheStreet",
+        "ChartMill"
+      ]
+    },
+    {
+      "ticker": "REGN",
+      "company": "Regeneron Pharmaceuticals",
+      "reason": "Rose ~11.6% after reporting a strong Q3 earnings beat and raising its full-year outlook; one of the day's top large-cap gainers amid a broad tech selloff",
+      "category": "earnings",
+      "sources": [
+        "TheStreet",
+        "SeekingAlpha"
+      ]
+    },
+    {
+      "ticker": "LLY",
+      "company": "Eli Lilly and Company",
+      "reason": "Gained ~6.6% after Q3 adjusted EPS of $7.48 crushed the $5.38 consensus estimate; provided a bright spot for healthcare amid the tech-led selloff",
       "category": "earnings",
       "sources": [
         "TheStreet",
@@ -159,12 +101,72 @@
       ]
     },
     {
-      "ticker": "MRK",
-      "company": "Merck & Co. Inc.",
-      "reason": "Led Dow Jones gainers on October 29; Q3 earnings beat estimates as pharmaceutical business showed resilience",
+      "ticker": "MA",
+      "company": "Mastercard Incorporated",
+      "reason": "Climbed ~4.2% after Q3 results beat estimates on both revenue and earnings; strong cross-border transaction growth cited",
       "category": "earnings",
       "sources": [
-        "ChartMill",
+        "TheStreet",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "CVX",
+      "company": "Chevron Corporation",
+      "reason": "Reported Q3 2026 earnings on Oct 30 (conf. call 11am ET); featured in premarket movers as energy sector tracked amid broad market selloff",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Kiplinger"
+      ]
+    },
+    {
+      "ticker": "XOM",
+      "company": "Exxon Mobil Corporation",
+      "reason": "Reported Q3 earnings today; refining segment became its top earner for the first time in at least five years, highlighting downstream strength",
+      "category": "earnings",
+      "sources": [
+        "TheStreet",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "HONA",
+      "company": "Honeywell Aerospace Technologies",
+      "reason": "Downgraded by BMO Capital's Daniel DiCicco from Outperform to Market Perform; price target cut from $213 to $181 on reduced growth expectations",
+      "category": "downgrade",
+      "sources": [
+        "Benzinga",
+        "247WallSt"
+      ]
+    },
+    {
+      "ticker": "GEV",
+      "company": "GE Vernova Inc.",
+      "reason": "Upgraded by HSBC from Hold to Buy on Oct 30; power grid and energy transition tailwinds cited as key catalysts",
+      "category": "upgrade",
+      "sources": [
+        "247WallSt",
+        "DailyTradeAlert"
+      ]
+    },
+    {
+      "ticker": "DASH",
+      "company": "DoorDash Inc.",
+      "reason": "Upgraded by Wedbush from Neutral to Outperform on Oct 30; improving unit economics and international expansion momentum cited",
+      "category": "upgrade",
+      "sources": [
+        "247WallSt",
+        "DailyTradeAlert"
+      ]
+    },
+    {
+      "ticker": "MRK",
+      "company": "Merck & Co. Inc.",
+      "reason": "Rose ~3.8% on a quarterly earnings beat; Keytruda oncology franchise strength continued to drive results",
+      "category": "earnings",
+      "sources": [
+        "TheStreet",
         "Yahoo Finance"
       ]
     }
