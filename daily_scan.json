@@ -1,173 +1,173 @@
 {
-  "report_date": "2026-10-30",
-  "market_tone": "Bearish",
+  "report_date": "2026-11-02",
+  "market_tone": "Mixed",
   "key_themes": [
-    "Big Tech AI earnings disappointment (Intel worst day since 1974, Reddit/Alphabet selloff)",
-    "October ends as Nasdaq worst month since March 2025 amid AI spending concerns",
-    "Energy sector beats (Chevron, Exxon refining strength) offset tech carnage"
+    "Tech/AI sell-off led by Oracle dilution fears dragged Nasdaq lower",
+    "Oil plunges 7.6% on US-Iran diplomatic hopes, lifting travel and industrials",
+    "Earnings season in full swing: Apple, Palantir, IDEXX, Tempus AI, Marriott all reported"
   ],
   "sp500": {
-    "value": "7,600.00",
-    "change": "-1.8%"
+    "value": "7,541.40",
+    "change": "-0.5%"
   },
   "nasdaq": {
-    "value": "25,437.00",
-    "change": "-2.9%"
+    "value": "25,164.32",
+    "change": "-1.1%"
   },
   "stocks": [
     {
-      "ticker": "INTC",
-      "company": "Intel Corporation",
-      "reason": "Collapsed ~29% \u2014 worst single-day decline since 1974 \u2014 after Q3 earnings showed a weaker-than-expected Q4 revenue forecast ($358-366M vs $377M prior quarter); B of A cut from Buy to Neutral, slashing PT from $145 to $100",
+      "ticker": "IDXX",
+      "company": "IDEXX Laboratories",
+      "reason": "Q3 revenue of $1.21B beat estimates; company raised full-year 2026 revenue and earnings guidance, sending shares up 16-20%",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "ChartMill",
+        "247WallSt"
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "reason": "Reported Q3 earnings after the bell; iPhone 18 Pro demand drove a beat on revenue, but stock slipped ~1% AH on weak margin outlook",
       "category": "earnings",
       "sources": [
         "TheStreet",
         "CNBC",
-        "Reuters",
+        "StockTitan"
+      ]
+    },
+    {
+      "ticker": "PLTR",
+      "company": "Palantir Technologies",
+      "reason": "Q3 revenue topped $2B, beating estimates; stock roughly flat after hours following initial pop",
+      "category": "earnings",
+      "sources": [
+        "247WallSt",
+        "CNBC",
+        "STL.News"
+      ]
+    },
+    {
+      "ticker": "TEM",
+      "company": "Tempus AI",
+      "reason": "Q3 results beat estimates and company raised full-year revenue outlook; stock surged ~12% intraday",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Seeking Alpha"
+      ]
+    },
+    {
+      "ticker": "MAR",
+      "company": "Marriott International",
+      "reason": "Q3 adjusted EPS of $3.02 beat the $2.84 estimate; benefited from strong travel demand as oil prices fell",
+      "category": "earnings",
+      "sources": [
+        "TheStreet"
+      ]
+    },
+    {
+      "ticker": "EL",
+      "company": "Estee Lauder",
+      "reason": "Fiscal Q1 results beat expectations; shares rose ~3.2% in premarket trading",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "PremarketPrice"
+      ]
+    },
+    {
+      "ticker": "ORCL",
+      "company": "Oracle",
+      "reason": "Announced $10B stock offering and $10B senior notes sale to fund AI cloud infrastructure buildout; stock fell 6-9%",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "MarketScreener"
+      ]
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum Holdings",
+      "reason": "Marvell announced an all-stock acquisition of Lumentum; LITE shares fell ~18% on deal terms",
+      "category": "news",
+      "sources": [
+        "ChartMill",
+        "Seeking Alpha"
+      ]
+    },
+    {
+      "ticker": "MRVL",
+      "company": "Marvell Technology",
+      "reason": "Acquiring Lumentum in an all-stock deal; MRVL shares fell 9-13% on dilution concerns",
+      "category": "news",
+      "sources": [
+        "Seeking Alpha",
+        "MarketScreener"
+      ]
+    },
+    {
+      "ticker": "INO",
+      "company": "Inovio Pharmaceuticals",
+      "reason": "FDA approval sent shares surging 224-266% in premarket trading; largest single-session mover of the day",
+      "category": "news",
+      "sources": [
+        "Benzinga",
+        "Seeking Alpha"
+      ]
+    },
+    {
+      "ticker": "CRWD",
+      "company": "CrowdStrike Holdings",
+      "reason": "Deutsche Bank upgraded to Buy from Hold; raised price target to $300 from $240; shares up ~3.4% premarket",
+      "category": "upgrade",
+      "sources": [
+        "Benzinga",
+        "CNBC",
+        "DailyTradeAlert"
+      ]
+    },
+    {
+      "ticker": "RIVN",
+      "company": "Rivian Automotive",
+      "reason": "UBS upgraded to Buy from Neutral with $17 price target; shares rose ~3.8% premarket",
+      "category": "upgrade",
+      "sources": [
+        "Benzinga",
+        "CNBC",
+        "247WallSt"
+      ]
+    },
+    {
+      "ticker": "COIN",
+      "company": "Coinbase Global",
+      "reason": "Morgan Stanley downgraded to Underweight; slashed price target from $258 to $120 on bearish crypto outlook",
+      "category": "downgrade",
+      "sources": [
+        "Benzinga",
+        "Yahoo Finance",
         "247WallSt"
       ]
     },
     {
       "ticker": "RDDT",
-      "company": "Reddit Inc.",
-      "reason": "Fell ~25-29%, its worst day ever, after beating Q3 EPS expectations but guiding Q4 revenue below forecasts; also hit by reports of massive search-traffic losses to Google AI products and a Citizens downgrade",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "SeekingAlpha",
-        "Reuters"
-      ]
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet Inc.",
-      "reason": "Suffered its worst day ever on Q3 miss \u2014 negative free cash flow of $9.1B vs -$3.5B consensus \u2014 deepening AI monetization concerns; Citizens downgraded to Market Perform from Outperform",
-      "category": "earnings",
-      "sources": [
-        "TheStreet",
-        "StockTitan",
-        "Reuters"
-      ]
-    },
-    {
-      "ticker": "AMZN",
-      "company": "Amazon.com Inc.",
-      "reason": "Fell sharply in premarket after Q3 report raised AI capex concerns; featured among biggest premarket decliners alongside Intel and Reddit as cloud/AI spending scrutiny intensified",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Investing.com"
-      ]
-    },
-    {
-      "ticker": "TWLO",
-      "company": "Twilio Inc.",
-      "reason": "Dropped ~17% after offering a disappointing Q4 organic revenue growth forecast, despite beating current-quarter earnings estimates",
-      "category": "earnings",
-      "sources": [
-        "SeekingAlpha",
-        "TheStreet"
-      ]
-    },
-    {
-      "ticker": "CDNA",
-      "company": "CareDx Inc.",
-      "reason": "Surged ~22% \u2014 biggest S&P gainer \u2014 after raising its 2026 revenue forecast; the transplant diagnostics company posted a strong quarterly beat",
-      "category": "earnings",
-      "sources": [
-        "SeekingAlpha",
-        "TheStreet",
-        "ChartMill"
-      ]
-    },
-    {
-      "ticker": "REGN",
-      "company": "Regeneron Pharmaceuticals",
-      "reason": "Rose ~11.6% after reporting a strong Q3 earnings beat and raising its full-year outlook; one of the day's top large-cap gainers amid a broad tech selloff",
-      "category": "earnings",
-      "sources": [
-        "TheStreet",
-        "SeekingAlpha"
-      ]
-    },
-    {
-      "ticker": "LLY",
-      "company": "Eli Lilly and Company",
-      "reason": "Gained ~6.6% after Q3 adjusted EPS of $7.48 crushed the $5.38 consensus estimate; provided a bright spot for healthcare amid the tech-led selloff",
-      "category": "earnings",
-      "sources": [
-        "TheStreet",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "MA",
-      "company": "Mastercard Incorporated",
-      "reason": "Climbed ~4.2% after Q3 results beat estimates on both revenue and earnings; strong cross-border transaction growth cited",
-      "category": "earnings",
-      "sources": [
-        "TheStreet",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "CVX",
-      "company": "Chevron Corporation",
-      "reason": "Reported Q3 2026 earnings on Oct 30 (conf. call 11am ET); featured in premarket movers as energy sector tracked amid broad market selloff",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Kiplinger"
-      ]
-    },
-    {
-      "ticker": "XOM",
-      "company": "Exxon Mobil Corporation",
-      "reason": "Reported Q3 earnings today; refining segment became its top earner for the first time in at least five years, highlighting downstream strength",
-      "category": "earnings",
-      "sources": [
-        "TheStreet",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "HONA",
-      "company": "Honeywell Aerospace Technologies",
-      "reason": "Downgraded by BMO Capital's Daniel DiCicco from Outperform to Market Perform; price target cut from $213 to $181 on reduced growth expectations",
+      "company": "Reddit",
+      "reason": "Loop Capital downgraded to Hold from Buy; target cut dramatically from $250 to $100",
       "category": "downgrade",
       "sources": [
-        "Benzinga",
+        "Yahoo Finance",
         "247WallSt"
       ]
     },
     {
-      "ticker": "GEV",
-      "company": "GE Vernova Inc.",
-      "reason": "Upgraded by HSBC from Hold to Buy on Oct 30; power grid and energy transition tailwinds cited as key catalysts",
-      "category": "upgrade",
+      "ticker": "UAL",
+      "company": "United Airlines",
+      "reason": "Shares soared ~7% as oil prices plunged 7.6% on US-Iran peace talks, significantly cutting fuel cost outlook",
+      "category": "sector",
       "sources": [
-        "247WallSt",
-        "DailyTradeAlert"
-      ]
-    },
-    {
-      "ticker": "DASH",
-      "company": "DoorDash Inc.",
-      "reason": "Upgraded by Wedbush from Neutral to Outperform on Oct 30; improving unit economics and international expansion momentum cited",
-      "category": "upgrade",
-      "sources": [
-        "247WallSt",
-        "DailyTradeAlert"
-      ]
-    },
-    {
-      "ticker": "MRK",
-      "company": "Merck & Co. Inc.",
-      "reason": "Rose ~3.8% on a quarterly earnings beat; Keytruda oncology franchise strength continued to drive results",
-      "category": "earnings",
-      "sources": [
-        "TheStreet",
-        "Yahoo Finance"
+        "MarketScreener",
+        "StockTitan"
       ]
     }
   ]
