@@ -1,173 +1,150 @@
 {
-  "report_date": "2026-11-02",
+  "report_date": "2026-11-03",
   "market_tone": "Mixed",
   "key_themes": [
-    "Tech/AI sell-off led by Oracle dilution fears dragged Nasdaq lower",
-    "Oil plunges 7.6% on US-Iran diplomatic hopes, lifting travel and industrials",
-    "Earnings season in full swing: Apple, Palantir, IDEXX, Tempus AI, Marriott all reported"
+    "Peak earnings season: AMD, Arista, Shopify, SMCI, Fiserv all reported Q3 2026",
+    "AI/data center demand surge: AMD datacenter revenue nearly doubled YoY",
+    "Chip stocks rebound after Monday tech selloff; midterm Election Day backdrop"
   ],
   "sp500": {
-    "value": "7,541.40",
-    "change": "-0.5%"
+    "value": "7,568.92",
+    "change": "+0.4%"
   },
   "nasdaq": {
-    "value": "25,164.32",
-    "change": "-1.1%"
+    "value": "25,372.01",
+    "change": "+0.83%"
   },
   "stocks": [
     {
-      "ticker": "IDXX",
-      "company": "IDEXX Laboratories",
-      "reason": "Q3 revenue of $1.21B beat estimates; company raised full-year 2026 revenue and earnings guidance, sending shares up 16-20%",
+      "ticker": "AMD",
+      "company": "Advanced Micro Devices",
+      "reason": "Q3 2026 earnings beat: EPS $2.09 vs $1.97 est; data center revenue $8.5B, up 97% YoY; stock +8% after hours",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "ChartMill",
-        "247WallSt"
+        "Yahoo Finance",
+        "SEC 8-K"
+      ]
+    },
+    {
+      "ticker": "ANET",
+      "company": "Arista Networks",
+      "reason": "Q3 2026 earnings beat: revenue $3.66B vs $3.33B est (+58% YoY); Q4 guidance above consensus; stock +8-9% after hours",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Motley Fool",
+        "Investing.com"
+      ]
+    },
+    {
+      "ticker": "SMCI",
+      "company": "Super Micro Computer",
+      "reason": "Q1 FY2027 earnings after close; pre-announced revenue $18.5-19.5B vs $14.5-15.5B prior guidance; stock +4% into report",
+      "category": "earnings",
+      "sources": [
+        "Investing.com",
+        "MarketBeat"
+      ]
+    },
+    {
+      "ticker": "SHOP",
+      "company": "Shopify",
+      "reason": "Q3 2026 earnings: revenue +32% to $3.74B (in line), EPS beat, but GMV and subscription revenue missed; stock dropped ~5-15%",
+      "category": "earnings",
+      "sources": [
+        "Investing.com",
+        "StockStory",
+        "Motley Fool"
+      ]
+    },
+    {
+      "ticker": "FISV",
+      "company": "Fiserv",
+      "reason": "Q3 2026 earnings beat; doubled cost-savings target to $1B under Project Elevate; $500M buyback announced; stock +10-13%",
+      "category": "earnings",
+      "sources": [
+        "Benzinga",
+        "Yahoo Finance",
+        "Stocktwits"
       ]
     },
     {
       "ticker": "AAPL",
       "company": "Apple",
-      "reason": "Reported Q3 earnings after the bell; iPhone 18 Pro demand drove a beat on revenue, but stock slipped ~1% AH on weak margin outlook",
+      "reason": "FQ4 2026 earnings (reported Monday after close): iPad sales missed estimates; margin forecast disappointed; stock -2% today",
       "category": "earnings",
       "sources": [
-        "TheStreet",
         "CNBC",
-        "StockTitan"
+        "BNN Bloomberg"
       ]
     },
     {
       "ticker": "PLTR",
       "company": "Palantir Technologies",
-      "reason": "Q3 revenue topped $2B, beating estimates; stock roughly flat after hours following initial pop",
-      "category": "earnings",
-      "sources": [
-        "247WallSt",
-        "CNBC",
-        "STL.News"
-      ]
-    },
-    {
-      "ticker": "TEM",
-      "company": "Tempus AI",
-      "reason": "Q3 results beat estimates and company raised full-year revenue outlook; stock surged ~12% intraday",
+      "reason": "Q3 2026 earnings (reported Monday): adjusted EPS beat but stock fell 2%; Deutsche Bank reiterates buy; investor skepticism on valuation",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "Seeking Alpha"
+        "Deutsche Bank analyst call"
       ]
     },
     {
-      "ticker": "MAR",
-      "company": "Marriott International",
-      "reason": "Q3 adjusted EPS of $3.02 beat the $2.84 estimate; benefited from strong travel demand as oil prices fell",
-      "category": "earnings",
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "reason": "Rose 2.3%, strongest upward force on S&P 500 today as chip stocks rebounded from Monday's AI-infrastructure selloff",
+      "category": "sector",
       "sources": [
-        "TheStreet"
-      ]
-    },
-    {
-      "ticker": "EL",
-      "company": "Estee Lauder",
-      "reason": "Fiscal Q1 results beat expectations; shares rose ~3.2% in premarket trading",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "PremarketPrice"
-      ]
-    },
-    {
-      "ticker": "ORCL",
-      "company": "Oracle",
-      "reason": "Announced $10B stock offering and $10B senior notes sale to fund AI cloud infrastructure buildout; stock fell 6-9%",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "MarketScreener"
-      ]
-    },
-    {
-      "ticker": "LITE",
-      "company": "Lumentum Holdings",
-      "reason": "Marvell announced an all-stock acquisition of Lumentum; LITE shares fell ~18% on deal terms",
-      "category": "news",
-      "sources": [
-        "ChartMill",
-        "Seeking Alpha"
-      ]
-    },
-    {
-      "ticker": "MRVL",
-      "company": "Marvell Technology",
-      "reason": "Acquiring Lumentum in an all-stock deal; MRVL shares fell 9-13% on dilution concerns",
-      "category": "news",
-      "sources": [
-        "Seeking Alpha",
-        "MarketScreener"
-      ]
-    },
-    {
-      "ticker": "INO",
-      "company": "Inovio Pharmaceuticals",
-      "reason": "FDA approval sent shares surging 224-266% in premarket trading; largest single-session mover of the day",
-      "category": "news",
-      "sources": [
-        "Benzinga",
-        "Seeking Alpha"
-      ]
-    },
-    {
-      "ticker": "CRWD",
-      "company": "CrowdStrike Holdings",
-      "reason": "Deutsche Bank upgraded to Buy from Hold; raised price target to $300 from $240; shares up ~3.4% premarket",
-      "category": "upgrade",
-      "sources": [
-        "Benzinga",
-        "CNBC",
-        "DailyTradeAlert"
-      ]
-    },
-    {
-      "ticker": "RIVN",
-      "company": "Rivian Automotive",
-      "reason": "UBS upgraded to Buy from Neutral with $17 price target; shares rose ~3.8% premarket",
-      "category": "upgrade",
-      "sources": [
-        "Benzinga",
-        "CNBC",
-        "247WallSt"
+        "BNN Bloomberg",
+        "Yahoo Finance"
       ]
     },
     {
       "ticker": "COIN",
       "company": "Coinbase Global",
-      "reason": "Morgan Stanley downgraded to Underweight; slashed price target from $258 to $120 on bearish crypto outlook",
-      "category": "downgrade",
-      "sources": [
-        "Benzinga",
-        "Yahoo Finance",
-        "247WallSt"
-      ]
-    },
-    {
-      "ticker": "RDDT",
-      "company": "Reddit",
-      "reason": "Loop Capital downgraded to Hold from Buy; target cut dramatically from $250 to $100",
-      "category": "downgrade",
-      "sources": [
-        "Yahoo Finance",
-        "247WallSt"
-      ]
-    },
-    {
-      "ticker": "UAL",
-      "company": "United Airlines",
-      "reason": "Shares soared ~7% as oil prices plunged 7.6% on US-Iran peace talks, significantly cutting fuel cost outlook",
+      "reason": "Rallied 8% Tuesday after sliding 15% over prior three sessions; crypto sentiment recovery ahead of midterm election results",
       "category": "sector",
       "sources": [
-        "MarketScreener",
-        "StockTitan"
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "BE",
+      "company": "Bloom Energy",
+      "reason": "Barclays upgraded to Overweight today; shares gained ~10% on AI power infrastructure demand thesis",
+      "category": "upgrade",
+      "sources": [
+        "CNBC",
+        "Barclays analyst call"
+      ]
+    },
+    {
+      "ticker": "GEV",
+      "company": "GE Vernova",
+      "reason": "Rose ~7% on renewed AI power infrastructure demand; among top S&P 500 gainers for the session",
+      "category": "sector",
+      "sources": [
+        "Investing.com",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "MRVL",
+      "company": "Marvell Technology",
+      "reason": "Fell ~13% Monday after announcing $115B acquisition of Lumentum; deal overhang continued to weigh on stock today",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Investing.com"
+      ]
+    },
+    {
+      "ticker": "SWKS",
+      "company": "Skyworks Solutions",
+      "reason": "Named in CNBC's after-hours movers alongside AMD, Arista, SMCI; earnings reported after November 3 close",
+      "category": "earnings",
+      "sources": [
+        "CNBC"
       ]
     }
   ]
