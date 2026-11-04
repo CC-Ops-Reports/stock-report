@@ -1,150 +1,171 @@
 {
-  "report_date": "2026-11-03",
-  "market_tone": "Mixed",
+  "report_date": "2026-11-04",
+  "market_tone": "Bullish",
   "key_themes": [
-    "Peak earnings season: AMD, Arista, Shopify, SMCI, Fiserv all reported Q3 2026",
-    "AI/data center demand surge: AMD datacenter revenue nearly doubled YoY",
-    "Chip stocks rebound after Monday tech selloff; midterm Election Day backdrop"
+    "Democratic midterm sweep removes political uncertainty, triggering broad market rally",
+    "Strong tech/AI earnings from AMD and AppLovin ease AI spending fears",
+    "Oil collapses ~7%, relieving inflation concerns and boosting consumer/transport stocks"
   ],
   "sp500": {
-    "value": "7,568.92",
-    "change": "+0.4%"
+    "value": "7,688.62",
+    "change": "+1.58%"
   },
   "nasdaq": {
-    "value": "25,372.01",
-    "change": "+0.83%"
+    "value": "25,736.51",
+    "change": "+1.44%"
   },
   "stocks": [
     {
       "ticker": "AMD",
       "company": "Advanced Micro Devices",
-      "reason": "Q3 2026 earnings beat: EPS $2.09 vs $1.97 est; data center revenue $8.5B, up 97% YoY; stock +8% after hours",
+      "reason": "Q3 2026 earnings beat: adjusted EPS $2.09 vs $1.94 est; data center revenue surged 97% YoY; Q4 guidance ~$17B revenue; stock jumped 7%+ premarket",
       "category": "earnings",
       "sources": [
         "CNBC",
         "Yahoo Finance",
+        "Investing.com",
         "SEC 8-K"
       ]
     },
     {
-      "ticker": "ANET",
-      "company": "Arista Networks",
-      "reason": "Q3 2026 earnings beat: revenue $3.66B vs $3.33B est (+58% YoY); Q4 guidance above consensus; stock +8-9% after hours",
+      "ticker": "APP",
+      "company": "AppLovin",
+      "reason": "Q3 earnings double beat: revenue $2.18B vs $2.08B est, EPS $4.30 vs $4.04 est; Q4 guidance $2.37-2.40B above $2.25B consensus; stock surged 20%+ after hours",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "Motley Fool",
+        "Benzinga",
         "Investing.com"
       ]
     },
     {
-      "ticker": "SMCI",
-      "company": "Super Micro Computer",
-      "reason": "Q1 FY2027 earnings after close; pre-announced revenue $18.5-19.5B vs $14.5-15.5B prior guidance; stock +4% into report",
+      "ticker": "DUOL",
+      "company": "Duolingo",
+      "reason": "Q3 earnings beat on revenue ($309M vs $303M est) and 29% DAU growth to 64.9M; raised FY2026 guidance; shares +27% intraday \u2014 best day since 2022",
       "category": "earnings",
       "sources": [
-        "Investing.com",
+        "Yahoo Finance",
+        "Benzinga",
         "MarketBeat"
       ]
     },
     {
-      "ticker": "SHOP",
-      "company": "Shopify",
-      "reason": "Q3 2026 earnings: revenue +32% to $3.74B (in line), EPS beat, but GMV and subscription revenue missed; stock dropped ~5-15%",
+      "ticker": "DDOG",
+      "company": "Datadog",
+      "reason": "Q3 beat on EPS ($0.81 vs $0.64 est) and revenue ($1.2B vs $1.14B est), but Q4 revenue guidance midpoint below Q3 actual implied growth slowdown; stock fell ~10%",
       "category": "earnings",
       "sources": [
         "Investing.com",
-        "StockStory",
-        "Motley Fool"
+        "Yahoo Finance",
+        "MarketBeat"
       ]
     },
     {
-      "ticker": "FISV",
-      "company": "Fiserv",
-      "reason": "Q3 2026 earnings beat; doubled cost-savings target to $1B under Project Elevate; $500M buyback announced; stock +10-13%",
+      "ticker": "NVO",
+      "company": "Novo Nordisk",
+      "reason": "Q3 sales $11.90B beat $11.39B est; Wegovy pill obesity sales surged 22% at CER; raised FY2026 outlook; shares rose ~5% intraday",
       "category": "earnings",
       "sources": [
         "Benzinga",
-        "Yahoo Finance",
-        "Stocktwits"
+        "XTB"
       ]
     },
     {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "reason": "FQ4 2026 earnings (reported Monday after close): iPad sales missed estimates; margin forecast disappointed; stock -2% today",
+      "ticker": "QCOM",
+      "company": "Qualcomm",
+      "reason": "Fiscal Q4 slight earnings beat but current-quarter EPS guidance of $2.15-$2.35 missed analyst estimate of $2.26; stock fell ~6% after hours",
       "category": "earnings",
-      "sources": [
-        "CNBC",
-        "BNN Bloomberg"
-      ]
-    },
-    {
-      "ticker": "PLTR",
-      "company": "Palantir Technologies",
-      "reason": "Q3 2026 earnings (reported Monday): adjusted EPS beat but stock fell 2%; Deutsche Bank reiterates buy; investor skepticism on valuation",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Deutsche Bank analyst call"
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "reason": "Rose 2.3%, strongest upward force on S&P 500 today as chip stocks rebounded from Monday's AI-infrastructure selloff",
-      "category": "sector",
-      "sources": [
-        "BNN Bloomberg",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "COIN",
-      "company": "Coinbase Global",
-      "reason": "Rallied 8% Tuesday after sliding 15% over prior three sessions; crypto sentiment recovery ahead of midterm election results",
-      "category": "sector",
       "sources": [
         "CNBC"
       ]
     },
     {
-      "ticker": "BE",
-      "company": "Bloom Energy",
-      "reason": "Barclays upgraded to Overweight today; shares gained ~10% on AI power infrastructure demand thesis",
-      "category": "upgrade",
+      "ticker": "KD",
+      "company": "Kyndryl Holdings",
+      "reason": "Q3 earnings beat: EPS $0.42 vs $0.38 est; revenue $3.65B vs $3.62B est; stock surged ~26% \u2014 largest single-day gain in company history",
+      "category": "earnings",
       "sources": [
-        "CNBC",
-        "Barclays analyst call"
+        "MarketBeat",
+        "Yahoo Finance",
+        "Benzinga"
       ]
     },
     {
       "ticker": "GEV",
       "company": "GE Vernova",
-      "reason": "Rose ~7% on renewed AI power infrastructure demand; among top S&P 500 gainers for the session",
+      "reason": "Fell ~10.6% amid broader energy sector selloff after Democratic midterm sweep raised concerns over fossil fuel policy and power infrastructure spending priorities",
       "category": "sector",
       "sources": [
-        "Investing.com",
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "MRVL",
-      "company": "Marvell Technology",
-      "reason": "Fell ~13% Monday after announcing $115B acquisition of Lumentum; deal overhang continued to weigh on stock today",
-      "category": "news",
-      "sources": [
-        "CNBC",
         "Investing.com"
       ]
     },
     {
-      "ticker": "SWKS",
-      "company": "Skyworks Solutions",
-      "reason": "Named in CNBC's after-hours movers alongside AMD, Arista, SMCI; earnings reported after November 3 close",
+      "ticker": "ADBE",
+      "company": "Adobe",
+      "reason": "Citigroup downgraded Adobe to Sell from Neutral, cutting price target to $207 from $250, citing slowing Creative Cloud demand and AI competition headwinds",
+      "category": "downgrade",
+      "sources": [
+        "Benzinga",
+        "247wallst.com",
+        "DailyTradeAlert"
+      ]
+    },
+    {
+      "ticker": "VST",
+      "company": "Vistra Energy",
+      "reason": "KeyBanc downgraded Vistra to Sector Weight from Overweight, citing policy risk following Democratic midterm wins that may shift energy regulation",
+      "category": "downgrade",
+      "sources": [
+        "247wallst.com",
+        "DailyTradeAlert"
+      ]
+    },
+    {
+      "ticker": "EXPE",
+      "company": "Expedia Group",
+      "reason": "Q3 beat on earnings but Q4 revenue guidance weaker-than-expected; stock dropped 7%+ after hours on the disappointing forward outlook",
       "category": "earnings",
       "sources": [
         "CNBC"
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "company": "Amazon",
+      "reason": "Led mega-cap gains with ~7% surge; benefited from Democratic midterm outcome and AI infrastructure spend optimism following AMD strong data center results",
+      "category": "sector",
+      "sources": [
+        "Investing.com",
+        "TradingKey"
+      ]
+    },
+    {
+      "ticker": "CPNG",
+      "company": "Coupang",
+      "reason": "Citi upgraded Coupang to Buy from Neutral, citing accelerating Korean e-commerce growth and improved profitability outlook",
+      "category": "upgrade",
+      "sources": [
+        "247wallst.com",
+        "DailyTradeAlert"
+      ]
+    },
+    {
+      "ticker": "SMCI",
+      "company": "Super Micro Computer",
+      "reason": "Shares rose 7%+ after reporting fiscal Q1 earnings and revenue well above Wall Street estimates; recovered amid broader AI infrastructure rally",
+      "category": "earnings",
+      "sources": [
+        "Investing.com"
+      ]
+    },
+    {
+      "ticker": "DJT",
+      "company": "Trump Media & Technology Group",
+      "reason": "Fell 7.4% in premarket trading after Democrats swept midterm elections, removing perceived political tailwinds for the politically linked media company",
+      "category": "news",
+      "sources": [
+        "Investing.com",
+        "StockTwits"
       ]
     }
   ]
