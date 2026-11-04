@@ -1,121 +1,75 @@
 {
-  "report_date": "2026-11-02",
+  "report_date": "2026-11-03",
   "batch": 3,
   "stocks": [
     {
-      "ticker": "CRWD",
-      "company": "CrowdStrike Holdings",
-      "discussion_driver": "Deutsche Bank upgraded CrowdStrike to Buy from Hold on November 2, raising its price target to $300 from $240, citing strong AI-powered cybersecurity momentum and platform expansion. Shares rose ~3.4% premarket even as broader tech sold off on Oracle dilution fears, reinforcing CRWD's outperformer status in the cybersecurity space.",
+      "ticker": "GEV",
+      "company": "GE Vernova",
+      "discussion_driver": "GEV surged ~7% on November 3 amid a broad AI power infrastructure rally, with stocks like Bloom Energy and GEV leading S&P 500 gains. The stock had been sliding ~23% below its July 2026 all-time high of $1,195.94. Guggenheim maintained its $1,400 target (60%+ upside) the day prior, and GE Vernova reported Q3 2026 earnings on October 28 which appears to have caused initial volatility before the AI power demand thesis reasserted itself.",
       "bull_case": [
-        "Leading AI-native Falcon platform is expanding into identity protection, cloud security, and next-gen SIEM, growing total addressable market and cross-sell revenue",
-        "Multiple high-conviction analyst upgrades in 2026 (Morgan Stanley, Wolfe Research, Deutsche Bank) reflect accelerating enterprise adoption and a durable competitive moat"
+        "AI data center buildout driving explosive demand for GE Vernova's gas turbines and grid infrastructure; company raised full-year guidance at Q3 2026 earnings with record order backlog",
+        "Guggenheim maintains $1,400 price target representing 60%+ upside; multiple analysts see GEV as a primary beneficiary of the accelerating U.S. power infrastructure replacement cycle"
       ],
       "bear_case": [
-        "Extremely stretched valuation at ~174x forward earnings leaves virtually no margin for execution missteps in any quarter",
-        "Intensifying competition from Palo Alto Networks, Microsoft Defender, and SentinelOne could compress pricing power and slow customer expansion rates"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$258.00",
-      "price_target": "$266.33 (+3.2%)",
-      "pe_ratio": "N/A (forward ~174x)",
-      "rsi": "~50",
-      "vs_52wk_high": "-7.5% below high ($278.86)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Technology - Cybersecurity",
-      "sources": ["Benzinga", "CNBC", "DailyTradeAlert", "GuruFocus", "StockAnalysis", "MarketBeat", "TipRanks"],
-      "price_history_5d": []
-    },
-    {
-      "ticker": "RIVN",
-      "company": "Rivian Automotive",
-      "discussion_driver": "UBS upgraded Rivian to Buy from Neutral on November 2 with a $17 price target, calling the recent selloff a buying opportunity and citing improving R2 demand signals and AI-driven production efficiency gains. Shares jumped ~8.5% on the day, among the largest single-session gains for the EV maker in months.",
-      "bull_case": [
-        "R2 platform launch targets a mass-market price point below $50K, dramatically expanding Rivian's addressable audience and expected to ramp production in 2026-2027",
-        "Volkswagen joint venture provides strategic capital infusion, technology sharing, and a pathway to global manufacturing scale that reduces Rivian's capital intensity"
-      ],
-      "bear_case": [
-        "Persistent cash burn with profitability still years away creates ongoing dilution risk and vulnerability to any tightening in capital markets",
-        "Intensifying EV competition from Ford F-150 Lightning, GM, Tesla Cybertruck, and Chinese OEMs threatens market share in the pickup/SUV segment"
-      ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$13.20",
-      "price_target": "$18.16 (+37.6%)",
-      "pe_ratio": "N/A",
-      "rsi": "N/A",
-      "vs_52wk_high": "-41.8% below high ($22.69)",
-      "analyst_rating": "Hold",
-      "sector": "Consumer Discretionary - EVs",
-      "sources": ["Benzinga", "CNBC", "247WallSt", "MarketBeat", "StockAnalysis", "CoinCentral"],
-      "price_history_5d": []
-    },
-    {
-      "ticker": "COIN",
-      "company": "Coinbase Global",
-      "discussion_driver": "Morgan Stanley downgraded Coinbase to Underweight on November 2, slashing its price target 53% from $258 to $120, citing weakening trading volumes, a softer revenue outlook, and rising uncertainty in crypto markets. Barclays also holds an Underweight rating at $120, signaling growing institutional skepticism even as the consensus Buy target sits near $215.",
-      "bull_case": [
-        "Dominant US crypto exchange with diversified and growing revenue from staking, institutional custody, and its Layer 2 Base network, reducing reliance on volatile trading fees",
-        "Potential regulatory clarity from a more crypto-friendly US policy environment could unlock a new wave of institutional adoption and trading volume"
-      ],
-      "bear_case": [
-        "Revenue remains highly correlated to crypto price cycles; a sustained bear market would sharply compress earnings and potentially eliminate profitability",
-        "Morgan Stanley and Barclays both maintain Underweight ratings at $120, implying ~14% downside from current levels if bearish thesis plays out"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$140.00",
-      "price_target": "$211.47 (+51.1%)",
-      "pe_ratio": "N/A",
-      "rsi": "N/A",
-      "vs_52wk_high": "-65.2% below high ($402.16)",
-      "analyst_rating": "Hold",
-      "sector": "Financial Services - Crypto Exchange",
-      "sources": ["Benzinga", "Yahoo Finance", "247WallSt", "GuruFocus", "CoinDesk", "TheStreet", "MarketBeat"],
-      "price_history_5d": []
-    },
-    {
-      "ticker": "RDDT",
-      "company": "Reddit",
-      "discussion_driver": "Loop Capital downgraded Reddit to Hold from Buy on November 2, cutting its price target dramatically from $250 to $100 amid concerns about valuation and growth deceleration. Goldman Sachs trimmed its target to $140, Wells Fargo cut to $110, and DA Davidson lowered to $125 the same day, marking a broad-based analyst reset for the stock after a sharp decline from 2026 highs.",
-      "bull_case": [
-        "Reddit's unique community data and user-generated content is increasingly valuable for AI training licensing deals, creating a growing high-margin revenue stream independent of advertising",
-        "International expansion and ongoing advertising platform maturation provide pathways to re-accelerate revenue growth from currently depressed levels"
-      ],
-      "bear_case": [
-        "Multiple simultaneous analyst target cuts and downgrade signals a fundamental reset in growth expectations, with the stock down over 66% from its 52-week high",
-        "Competition from TikTok, X (formerly Twitter), and emerging AI-native social platforms threatens Reddit's advertising market share and user engagement trajectory"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$94.00",
-      "price_target": "$118.75 (+26.3%)",
-      "pe_ratio": "19.2",
-      "rsi": "N/A",
-      "vs_52wk_high": "-66.8% below high ($282.95)",
-      "analyst_rating": "Hold",
-      "sector": "Communication Services - Social Media",
-      "sources": ["Yahoo Finance", "247WallSt", "GuruFocus", "StockAnalysis", "MarketBeat", "TheStreet"],
-      "price_history_5d": []
-    },
-    {
-      "ticker": "UAL",
-      "company": "United Airlines",
-      "discussion_driver": "United Airlines shares soared ~7% on November 2 as oil prices plunged 7.6% following reports of US-Iran diplomatic progress. Jet fuel is UAL's single largest operating cost, so a sharp crude decline dramatically improves the near-term margin outlook and reframes the stock's risk profile heading into winter travel season.",
-      "bull_case": [
-        "A 7.6% single-day crude oil decline tied to potential US-Iran deal could provide sustained fuel cost relief, with jet fuel costs potentially falling 8-12% on an annualized basis",
-        "Strong premium cabin demand and transatlantic travel momentum continue to support revenue per seat mile, with analyst consensus implying ~45% upside to $157 targets"
-      ],
-      "bear_case": [
-        "Oil price relief may prove temporary if US-Iran talks stall or collapse; any reversal in crude would quickly erase the margin benefit that drove today's rally",
-        "UAL carries significant debt from pandemic-era restructuring, leaving it vulnerable in a macroeconomic slowdown and limiting financial flexibility if fuel costs re-escalate"
+        "Stock is 23% below its July 2026 52-week high of $1,195.94; Jefferies removed GEV from its Franchise Pick list and Argus cut target to $1,100, signaling institutional momentum may be softening",
+        "50-day moving average ($932.95) and 200-day moving average ($941.39) are both above the current price, indicating the stock remains in a technical downtrend despite today's bounce"
       ],
       "recommendation": "Buy",
-      "current_price": "$109.00",
-      "price_target": "$157.76 (+44.7%)",
-      "pe_ratio": "9.55",
-      "rsi": "55",
-      "vs_52wk_high": "-21.4% below high ($138.77)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Industrials - Airlines",
-      "sources": ["MarketScreener", "StockTitan", "Benzinga", "StockAnalysis", "VCPScanner"],
-      "price_history_5d": []
+      "current_price": "$918.36",
+      "price_target": "$1,144.20 (+24.6%)",
+      "pe_ratio": "22.42",
+      "rsi": "N/A",
+      "vs_52wk_high": "-23.2% below high ($1,195.94)",
+      "analyst_rating": "Moderate Buy",
+      "sector": "Industrials - Power Infrastructure",
+      "sources": ["CNBC", "Yahoo Finance", "MarketBeat", "Guggenheim analyst call", "Investing.com", "TradingKey"],
+      "price_history_5d": [882.00, 892.00, 862.00, 858.00, 862.25]
+    },
+    {
+      "ticker": "MRVL",
+      "company": "Marvell Technology",
+      "discussion_driver": "MRVL has been in freefall since announcing a $115 billion all-stock acquisition of Lumentum, with the deal triggering a 12.72% single-day selloff on November 2 and a 37% decline over the prior month. Multiple top-tier firms downgraded the stock (BofA to Neutral/$225, TD Cowen to Hold/$175) over dilution and strategic-focus concerns. Morgan Stanley argues the selloff is overdone, keeping a $300 target on the strength of Marvell's AI custom ASIC franchise for hyperscalers.",
+      "bull_case": [
+        "Marvell holds a leading position in custom AI silicon (ASICs) for hyperscalers including Google and Amazon; this high-margin, durable revenue stream was what drove the stock to double in early 2026",
+        "Consensus average target of ~$300 implies over 74% upside from current levels; Morgan Stanley and Susquehanna argue the Lumentum selloff is overdone and the core AI chip business is unimpaired"
+      ],
+      "bear_case": [
+        "The $115B all-stock Lumentum acquisition creates massive share dilution and shifts strategic focus away from high-growth AI chip design toward optical networking hardware",
+        "BofA downgraded to Neutral ($225 target), TD Cowen cut to Hold ($175 target), and Wells Fargo flagged 'material headwinds' — institutional selling pressure is likely to persist through the deal overhang"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$171.97",
+      "price_target": "$300.00 (+74.4%)",
+      "pe_ratio": "56.2",
+      "rsi": "N/A",
+      "vs_52wk_high": "-45.7% below high ($316.43)",
+      "analyst_rating": "Moderate Buy",
+      "sector": "Semiconductors - AI/Data Center",
+      "sources": ["TradingKey", "MarketBeat", "StockAnalysis", "TipRanks", "24/7 Wall St.", "Morgan Stanley analyst call", "Trefis", "StockStory"],
+      "price_history_5d": [251.65, 218.35, 196.40, 196.80, 171.41]
+    },
+    {
+      "ticker": "SWKS",
+      "company": "Skyworks Solutions",
+      "discussion_driver": "Skyworks reported fiscal Q4 2026 earnings after the November 3 close: revenue of $1.046B and non-GAAP EPS of $1.28. Despite the apparent beat, the stock dropped ~17% in after-hours trading to ~$70.90, suggesting guidance was well below analyst expectations. This follows the completion of SWKS's Qorvo acquisition on October 5, 2026, which expanded RF semiconductor capabilities but has introduced integration complexity and margin pressure.",
+      "bull_case": [
+        "The completed Qorvo merger creates a dominant RF semiconductor platform serving both Apple and Android OEMs, significantly expanding SWKS's total addressable market in mobile and IoT",
+        "Morgan Stanley raised its target to $95 from $72, viewing the Qorvo combination as strategically transformative and a catalyst for long-term market share gains in RF content"
+      ],
+      "bear_case": [
+        "Stock dropped ~17% after Q4 2026 earnings release on November 3, suggesting near-term guidance is well below consensus estimates — the first major post-merger earnings test has disappointed",
+        "Analyst consensus is 'Hold' with average target of $80.04, implying downside from the pre-earnings price; BofA maintains Underperform with a $78 target citing continued margin and integration risk"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$85.52",
+      "price_target": "$80.04 (-6.4%)",
+      "pe_ratio": "N/A",
+      "rsi": "N/A",
+      "vs_52wk_high": "-7.9% below high ($92.80)",
+      "analyst_rating": "Hold",
+      "sector": "Semiconductors - RF/Wireless",
+      "sources": ["SEC 8-K FY2026", "Investing.com", "MarketBeat", "Yahoo Finance", "CNBC", "StockAnalysis"],
+      "price_history_5d": [87.23, 86.50, 85.75, 85.60, 85.52]
     }
   ]
 }
