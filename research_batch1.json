@@ -1,135 +1,129 @@
 {
-  "report_date": "2026-11-02",
+  "report_date": "2026-11-03",
   "batch": 1,
   "market_tone": "Mixed",
   "key_themes": [
-    "Tech/AI sell-off led by Oracle dilution fears dragged Nasdaq lower",
-    "Oil plunges 7.6% on US-Iran diplomatic hopes, lifting travel and industrials",
-    "Earnings season in full swing: Apple, Palantir, IDEXX, Tempus AI, Marriott all reported"
+    "Peak earnings season: AMD, Arista, Shopify, SMCI, Fiserv all reported Q3 2026",
+    "AI/data center demand surge: AMD datacenter revenue nearly doubled YoY",
+    "Chip stocks rebound after Monday tech selloff; midterm Election Day backdrop"
   ],
-  "sp500": {
-    "value": "7,541.40",
-    "change": "-0.5%"
-  },
-  "nasdaq": {
-    "value": "25,164.32",
-    "change": "-1.1%"
-  },
+  "sp500": {"value": "7,568.92", "change": "+0.4%"},
+  "nasdaq": {"value": "25,372.01", "change": "+0.83%"},
   "stocks": [
     {
-      "ticker": "IDXX",
-      "company": "IDEXX Laboratories",
-      "discussion_driver": "IDEXX reported Q3 EPS of $4.01, beating the $3.71 estimate, with Q3 revenue of $1.21B also topping forecasts. The company raised full-year 2026 guidance, sending shares up ~22%. Despite softer U.S. clinic visit volumes, higher diagnostic testing frequency per visit drove the beat. Post-earnings analyst price targets cluster in the $627–$750 range.",
+      "ticker": "AMD",
+      "company": "Advanced Micro Devices",
+      "discussion_driver": "AMD reported Q3 2026 earnings with EPS of $2.09 (vs $1.97 est.) and data center revenue surging 97% YoY to $8.5B, confirming AMD as a key AI chip beneficiary. The stock had sold off sharply in the prior sessions but bounced on Q4 revenue guidance of approximately $17B. Goldman Sachs reaffirmed a Buy rating with a $700 price target immediately following the report.",
       "bull_case": [
-        "Q3 EPS beat by $0.30 with full-year 2026 guidance raised, signaling sustained operational momentum despite softer clinic traffic trends",
-        "Recurring revenue from growing installed base of diagnostic instruments across global veterinary clinics provides durable, high-margin revenue streams"
+        "Data center revenue nearly doubled YoY to $8.5B, confirming AMD is gaining share in AI infrastructure alongside NVIDIA",
+        "Q4 guidance of ~$17B revenue and consistent EPS beats signal durable earnings momentum into 2027"
       ],
       "bear_case": [
-        "Declining U.S. clinic visit volumes could weigh on consumables revenue growth if testing-per-visit offsets fade or plateau",
-        "Forward valuation remains elevated at ~37x forward P/E, leaving little margin for any guidance shortfall or macro deterioration"
+        "Elevated trailing P/E of ~105x creates significant downside risk if AI spending growth decelerates or misses",
+        "NVIDIA's dominant share in AI training chips limits AMD's near-term addressable market expansion"
       ],
       "recommendation": "Buy",
-      "current_price": "$671.64",
-      "price_target": "$694.42 (+3.4%)",
-      "pe_ratio": "40.50",
+      "current_price": "$487.75",
+      "price_target": "$649.38 (+33.1%)",
+      "pe_ratio": "104.88",
       "rsi": "N/A",
-      "vs_52wk_high": "-12.8% below high ($769.98)",
-      "analyst_rating": "Moderate Buy",
-      "sector": "Healthcare - Veterinary Diagnostics",
-      "sources": ["Benzinga", "StockAnalysis", "MarketBeat", "Walnut Invest"],
-      "price_history_5d": [561.24, 562.93, 575.98, 551.21, 671.64]
+      "vs_52wk_high": "-26.0% below high ($659.00)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Technology - Semiconductors",
+      "sources": ["CNBC", "StockAnalysis", "Goldman Sachs", "TipRanks", "Yahoo Finance"],
+      "price_history_5d": [578.44, 566.42, 504.80, 466.84, 487.75]
     },
     {
-      "ticker": "AAPL",
-      "company": "Apple Inc.",
-      "discussion_driver": "Apple reported fiscal Q4 2026 earnings on November 2 with iPhone 18 Pro driving an 18% YoY surge in iPhone revenue and a top-line beat. However, shares slipped ~1.8% as management guided for weaker margins in coming quarters, dimming the profitability outlook. The stock sits near its 52-week high and analyst consensus target with limited near-term upside.",
+      "ticker": "ANET",
+      "company": "Arista Networks",
+      "discussion_driver": "Arista Networks posted Q3 2026 revenue of $3.66B (vs $3.33B est.), a 58% YoY surge, with Q4 guidance also exceeding consensus estimates. After the close the stock jumped ~10% to ~$186, signaling continued AI network infrastructure demand from hyperscalers. Evercore ISI and Citi both maintain price targets near $248-250.",
       "bull_case": [
-        "iPhone 18 Pro demand drove 18% YoY iPhone sales growth and a revenue beat, demonstrating continued consumer appetite for Apple's premium hardware cycle",
-        "Services segment continues compounding at high margins, providing durable recurring revenue that reduces dependence on hardware unit volumes"
+        "Revenue growth of 58% YoY vastly outpaced already-high expectations, reflecting surging AI data-center networking demand from cloud hyperscalers",
+        "Q4 guidance above consensus and strong analyst targets imply continued double-digit growth well into 2027"
       ],
       "bear_case": [
-        "Management guided for weaker gross margins in upcoming quarters, raising concerns about profitability trajectory and potentially capping multiple expansion",
-        "Stock trades near 40x trailing P/E and at analyst consensus price target, leaving minimal upside on current Street estimates"
+        "Premium trailing P/E of ~55x leaves little margin for error if AI capex spending by hyperscalers plateaus",
+        "High customer concentration with Microsoft and Meta creates vulnerability to any single large customer cutback"
+      ],
+      "recommendation": "Buy",
+      "current_price": "$169.91",
+      "price_target": "$243.59 (+43.4%)",
+      "pe_ratio": "55.24",
+      "rsi": "N/A",
+      "vs_52wk_high": "-21.8% below high ($217.41)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Technology - Networking",
+      "sources": ["CNBC", "StockAnalysis", "Evercore ISI", "Yahoo Finance", "MarketBeat"],
+      "price_history_5d": [186.72, 184.22, 168.86, 164.14, 169.91]
+    },
+    {
+      "ticker": "SMCI",
+      "company": "Super Micro Computer",
+      "discussion_driver": "Super Micro Computer reported Q1 FY2027 results with pre-announced revenue of $18.5-19.5B—far above its prior $14.5-15.5B guidance—as AI server demand surged. Options markets had priced in a ~12.5% move on earnings day. Despite spectacular top-line growth, the company disclosed significant cash drain alongside its revenue surge, keeping investor skepticism elevated.",
+      "bull_case": [
+        "Pre-announced revenue of $18.5-19.5B nearly doubled prior guidance, confirming SMCI's position as a key AI server assembly beneficiary",
+        "Trailing P/E of ~10x offers deep value relative to AI-adjacent peers, implying significant upside if ongoing accounting concerns are resolved"
+      ],
+      "bear_case": [
+        "Ongoing accounting scrutiny and compliance concerns present existential regulatory and audit risk that has historically pressured the stock",
+        "Rapid cash drain despite sales quadrupling raises serious questions about working capital management and financial health"
       ],
       "recommendation": "Hold",
-      "current_price": "$338.32",
-      "price_target": "$340.49 (+0.6%)",
-      "pe_ratio": "39.50",
+      "current_price": "$31.39",
+      "price_target": "$43.27 (+37.8%)",
+      "pe_ratio": "9.92",
       "rsi": "N/A",
-      "vs_52wk_high": "-3.8% below high ($351.73)",
+      "vs_52wk_high": "-49.7% below high ($62.37)",
+      "analyst_rating": "Hold",
+      "sector": "Technology - Server Hardware",
+      "sources": ["Investing.com", "MarketBeat", "Benzinga", "CNN Markets", "Invezz"],
+      "price_history_5d": [32.95, 30.44, 31.39]
+    },
+    {
+      "ticker": "SHOP",
+      "company": "Shopify",
+      "discussion_driver": "Shopify reported Q3 2026 revenue of $3.74B (+32% YoY), in-line with estimates, but gross merchandise volume of $119.1B missed analyst expectations, sending shares down ~9%. DA Davidson cut its price target to $180 citing valuation concerns at 60x 2027 FCF. Subscription revenue also fell short, amplifying investor concern over slowing GMV growth at the high trailing P/E.",
+      "bull_case": [
+        "Revenue growth of 32% YoY demonstrates resilient e-commerce platform adoption and merchant base expansion",
+        "EPS beat despite GMV miss shows improving unit economics and operating leverage building in the business model"
+      ],
+      "bear_case": [
+        "GMV miss and subscription revenue shortfall signal potential market share pressure from Amazon and emerging e-commerce competitors",
+        "Trailing P/E of ~96x is difficult to justify if revenue growth decelerates below 25%, leaving the stock vulnerable to multiple compression"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$142.57",
+      "price_target": "$176.88 (+24.0%)",
+      "pe_ratio": "96.00",
+      "rsi": "N/A",
+      "vs_52wk_high": "-21.6% below high ($181.85)",
       "analyst_rating": "Buy",
-      "sector": "Technology - Consumer Electronics",
-      "sources": ["CNBC", "Motley Fool", "MarketBeat", "FX Leaders"],
-      "price_history_5d": [347.10, 343.83, 348.91, 344.63, 338.32]
+      "sector": "Technology - E-Commerce",
+      "sources": ["Investing.com", "StockStory", "Motley Fool", "DA Davidson", "Yahoo Finance"],
+      "price_history_5d": [168.22, 166.89, 157.49, 156.22, 142.57]
     },
     {
-      "ticker": "PLTR",
-      "company": "Palantir Technologies",
-      "discussion_driver": "Palantir reported Q3 2026 revenue of $2.31B, up 96% YoY, beating estimates and raising its full-year outlook on the back of accelerating AI Platform adoption. Despite the strong print, shares fell 3.1% on November 2 and dipped further in after-hours trading as investors weigh whether the extraordinary growth justifies a 157x trailing P/E multiple. The stock is 16% below its October 52-week high.",
+      "ticker": "FISV",
+      "company": "Fiserv",
+      "discussion_driver": "Fiserv beat Q3 2026 earnings and doubled its cost-savings target to $1B under Project Elevate, while announcing a $500M share buyback. Shares surged 10-13% on the strong execution. Goldman Sachs raised its target to $61 and KBW sits at $65, though BofA reinstated at Underperform with a $48 target and the consensus average of $57.55 is now slightly below the current price.",
       "bull_case": [
-        "Q3 revenue grew 96% YoY to $2.31B with raised full-year guidance, reflecting rapid AI Platform (AIP) adoption across both government and commercial clients",
-        "Expanding commercial segment diversifies revenue beyond government contracts and positions Palantir as a key enterprise AI infrastructure vendor"
+        "Doubled Project Elevate cost-savings target to $1B demonstrates management execution discipline and meaningful margin expansion runway",
+        "$500M buyback combined with Q3 beat signals high confidence in sustained free cash flow generation and shareholder returns"
       ],
       "bear_case": [
-        "Trailing P/E of ~157x and forward P/E of ~97x are extreme even for a high-growth software company, making the stock highly vulnerable to any growth deceleration",
-        "Shares have declined 16% from the October 52-week high and fell further after Q3 earnings, signaling investor caution at current valuation levels"
-      ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$178.34",
-      "price_target": "$212.50 (+19.1%)",
-      "pe_ratio": "157.46",
-      "rsi": "41.86",
-      "vs_52wk_high": "-16.2% below high ($212.94)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Software/AI",
-      "sources": ["StockAnalysis", "MarketBeat", "Benzinga", "Investing.com"],
-      "price_history_5d": [198.73, 196.81, 196.42, 184.11, 178.34]
-    },
-    {
-      "ticker": "TEM",
-      "company": "Tempus AI, Inc.",
-      "discussion_driver": "Tempus AI reported Q3 2026 revenue of $411.5M, up 23% YoY, beating estimates and raising full-year 2026 guidance to $1.60–1.605B. Shares surged ~9% on November 2, aided by a multi-year data partnership with Bristol Myers Squibb. Despite strong growth, the company remains GAAP loss-making and shares have now run past the average analyst price target of ~$75.",
-      "bull_case": [
-        "Q3 revenue of $411.5M grew 23% YoY with raised full-year guidance, and pharma data deals (Bristol Myers Squibb) establish recurring high-value AI-driven revenue streams",
-        "Narrowing GAAP losses combined with accelerating top-line growth suggest a credible path toward profitability as the AI drug discovery market scales"
-      ],
-      "bear_case": [
-        "Company remains GAAP unprofitable with TTM EPS of -$1.44 and no trailing P/E, making traditional valuation difficult and the stock sensitive to sentiment shifts",
-        "Shares trade above the ~$75 analyst consensus target following the earnings surge, suggesting Street forecasts have not yet caught up with the stock price"
+        "BofA's Underperform rating at $48 reflects concerns about organic revenue growth deceleration in the core fintech business",
+        "Consensus analyst target of $57.55 is now slightly below the current price post-earnings surge, limiting near-term upside per the consensus view"
       ],
       "recommendation": "Hold",
-      "current_price": "$78.48",
-      "price_target": "$75.06 (-4.4%)",
-      "pe_ratio": "N/A",
+      "current_price": "$58.40",
+      "price_target": "$61.00 (+4.5%)",
+      "pe_ratio": "11.20",
       "rsi": "N/A",
-      "vs_52wk_high": "-13.3% below high ($90.53)",
-      "analyst_rating": "Moderate Buy",
-      "sector": "Healthcare - AI Technology",
-      "sources": ["RTTNews", "StockAnalysis", "Yahoo Finance", "247WallSt"],
-      "price_history_5d": [72.15, 76.61, 77.84, 72.22, 78.48]
-    },
-    {
-      "ticker": "MAR",
-      "company": "Marriott International, Inc.",
-      "discussion_driver": "Marriott beat Q3 estimates with adjusted EPS of $3.02 vs. the $2.84 consensus and raised its full-year profit outlook, sending shares to a new 52-week intraday high of $433.30 on November 2. The stock also caught a sector-wide tailwind from oil prices plunging 7.6% on US-Iran diplomatic progress, meaningfully lowering the travel sector's cost outlook. However, shares now trade above the average analyst price target of ~$391.",
-      "bull_case": [
-        "Q3 EPS of $3.02 beat estimates by $0.18 with raised full-year guidance, supported by resilient travel demand and strong group and leisure bookings",
-        "Oil price plunge of 7.6% driven by US-Iran diplomatic progress improves the structural cost outlook for the travel sector and should support hotel occupancy trends"
-      ],
-      "bear_case": [
-        "Shares have outrun analyst consensus target (~$391 vs. ~$419 current price), suggesting that the Q3 beat and oil tailwind are already priced in at current levels",
-        "A reversal in oil prices or deterioration in global macro conditions could quickly unwind the travel sector's post-earnings tailwind"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$419.35",
-      "price_target": "$391.00 (-6.8%)",
-      "pe_ratio": "36.80",
-      "rsi": "N/A",
-      "vs_52wk_high": "-3.2% below high ($433.30)",
-      "analyst_rating": "Moderate Buy",
-      "sector": "Consumer Discretionary - Hotels & Hospitality",
-      "sources": ["Benzinga", "CNBC", "Rallies.ai", "Investing.com"],
-      "price_history_5d": [390.23, 394.40, 399.65, 399.30, 419.35]
+      "vs_52wk_high": "-17.1% below high ($70.41)",
+      "analyst_rating": "Hold",
+      "sector": "Financial Technology",
+      "sources": ["Benzinga", "Yahoo Finance", "Goldman Sachs", "StockAnalysis", "Forbes"],
+      "price_history_5d": [47.86, 48.48, 50.02, 51.93, 58.40]
     }
   ]
 }
