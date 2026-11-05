@@ -1,75 +1,121 @@
 {
-  "report_date": "2026-11-03",
+  "report_date": "2026-11-04",
   "batch": 3,
   "stocks": [
     {
-      "ticker": "GEV",
-      "company": "GE Vernova",
-      "discussion_driver": "GEV surged ~7% on November 3 amid a broad AI power infrastructure rally, with stocks like Bloom Energy and GEV leading S&P 500 gains. The stock had been sliding ~23% below its July 2026 all-time high of $1,195.94. Guggenheim maintained its $1,400 target (60%+ upside) the day prior, and GE Vernova reported Q3 2026 earnings on October 28 which appears to have caused initial volatility before the AI power demand thesis reasserted itself.",
+      "ticker": "EXPE",
+      "company": "Expedia Group",
+      "discussion_driver": "Expedia's Q3 2026 earnings beat EPS estimates but Q4 revenue guidance came in weaker than expected, sending shares down 7%+ in after-hours trading on November 4. The disappointing forward outlook raises concerns about travel demand deceleration heading into 2027.",
       "bull_case": [
-        "AI data center buildout driving explosive demand for GE Vernova's gas turbines and grid infrastructure; company raised full-year guidance at Q3 2026 earnings with record order backlog",
-        "Guggenheim maintains $1,400 price target representing 60%+ upside; multiple analysts see GEV as a primary beneficiary of the accelerating U.S. power infrastructure replacement cycle"
+        "Strong brand portfolio spanning Expedia, Hotels.com, and Vrbo with sticky customer relationships; Q3 results showed operational resilience despite macro headwinds",
+        "Attractive valuation at ~17x trailing P/E with potential margin expansion as AI-driven personalization improves booking conversion and reduces customer acquisition costs"
       ],
       "bear_case": [
-        "Stock is 23% below its July 2026 52-week high of $1,195.94; Jefferies removed GEV from its Franchise Pick list and Argus cut target to $1,100, signaling institutional momentum may be softening",
-        "50-day moving average ($932.95) and 200-day moving average ($941.39) are both above the current price, indicating the stock remains in a technical downtrend despite today's bounce"
+        "Weak Q4 guidance signals potential travel demand softening; Wells Fargo cut price target to $275 (Equal Weight), reflecting near-term concern",
+        "Competitive pressure from Booking.com and Airbnb intensifying in core North American and European leisure travel markets"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$285.77",
+      "price_target": "$316.37 (+10.7%)",
+      "pe_ratio": "17.13",
+      "rsi": "N/A",
+      "vs_52wk_high": "-16.4% below high ($342.00)",
+      "analyst_rating": "Buy",
+      "sector": "Consumer Discretionary - Online Travel",
+      "sources": ["TipRanks", "MarketBeat", "StockAnalysis", "Wells Fargo", "Melius Research"],
+      "price_history_5d": [275.53, 282.73, 285.93, 285.77]
+    },
+    {
+      "ticker": "AMZN",
+      "company": "Amazon.com",
+      "discussion_driver": "Amazon surged ~7% on November 4 as a key mega-cap beneficiary of the Democratic midterm sweep and positive AI-driven sentiment following AMD's strong data center results. AWS cloud growth and Amazon's AI infrastructure buildout remain the primary catalysts driving the Strong Buy consensus.",
+      "bull_case": [
+        "AWS market leadership with strong pricing power; Q3 2026 showed AWS powered ~66% of total operating profit with accelerating AI-driven enterprise cloud adoption",
+        "Rapidly scaling advertising and AI services driving structural margin expansion; Strong Buy consensus across 59 analysts with average $326 target implies ~22% upside"
+      ],
+      "bear_case": [
+        "Elevated capital expenditure on AI infrastructure and logistics weighs on near-term free cash flow, as highlighted by the February 2026 reaction to a $200B capex plan",
+        "Macro slowdown could reduce enterprise AWS spending and compress consumer discretionary e-commerce volumes simultaneously"
       ],
       "recommendation": "Buy",
-      "current_price": "$918.36",
-      "price_target": "$1,144.20 (+24.6%)",
-      "pe_ratio": "22.42",
-      "rsi": "N/A",
-      "vs_52wk_high": "-23.2% below high ($1,195.94)",
-      "analyst_rating": "Moderate Buy",
-      "sector": "Industrials - Power Infrastructure",
-      "sources": ["CNBC", "Yahoo Finance", "MarketBeat", "Guggenheim analyst call", "Investing.com", "TradingKey"],
-      "price_history_5d": [882.00, 892.00, 862.00, 858.00, 862.25]
+      "current_price": "$267.90",
+      "price_target": "$326.74 (+21.9%)",
+      "pe_ratio": "21.6",
+      "rsi": "43.86",
+      "vs_52wk_high": "-6.7% below high ($287.16)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Consumer Discretionary - eCommerce/Cloud",
+      "sources": ["StockAnalysis", "MarketBeat", "TipRanks", "GuruFocus", "Freedom Broker", "rallies.ai"],
+      "price_history_5d": [254.60, 243.79, 240.35, 248.89, 267.90]
     },
     {
-      "ticker": "MRVL",
-      "company": "Marvell Technology",
-      "discussion_driver": "MRVL has been in freefall since announcing a $115 billion all-stock acquisition of Lumentum, with the deal triggering a 12.72% single-day selloff on November 2 and a 37% decline over the prior month. Multiple top-tier firms downgraded the stock (BofA to Neutral/$225, TD Cowen to Hold/$175) over dilution and strategic-focus concerns. Morgan Stanley argues the selloff is overdone, keeping a $300 target on the strength of Marvell's AI custom ASIC franchise for hyperscalers.",
+      "ticker": "CPNG",
+      "company": "Coupang",
+      "discussion_driver": "Citi upgraded Coupang to Buy on November 4, citing accelerating Korean e-commerce growth and improved profitability outlook. The stock surged 11.7% on the upgrade, adding momentum to positive Q3 results reported November 3 and reinforcing optimism around CPNG's regional expansion.",
       "bull_case": [
-        "Marvell holds a leading position in custom AI silicon (ASICs) for hyperscalers including Google and Amazon; this high-margin, durable revenue stream was what drove the stock to double in early 2026",
-        "Consensus average target of ~$300 implies over 74% upside from current levels; Morgan Stanley and Susquehanna argue the Lumentum selloff is overdone and the core AI chip business is unimpaired"
+        "Dominant Korean e-commerce market share backed by Rocket Delivery network effects; Citi and Deutsche Bank upgrades signal growing analyst confidence in the profitability trajectory",
+        "Average analyst price target of $23.34 implies 37%+ upside; regional expansion into Taiwan and Southeast Asia adds a long-term growth runway beyond the core Korean market"
       ],
       "bear_case": [
-        "The $115B all-stock Lumentum acquisition creates massive share dilution and shifts strategic focus away from high-growth AI chip design toward optical networking hardware",
-        "BofA downgraded to Neutral ($225 target), TD Cowen cut to Hold ($175 target), and Wells Fargo flagged 'material headwinds' — institutional selling pressure is likely to persist through the deal overhang"
+        "High forward valuation (~63x P/E) relative to current earnings, combined with a pending ~$410M regulatory fine, represents meaningful cash and multiple compression risk",
+        "Intense competition from Naver Shopping and domestic Korean rivals; potential Amazon Korea entry could pressure market share and pricing"
       ],
-      "recommendation": "Hold",
-      "current_price": "$171.97",
-      "price_target": "$300.00 (+74.4%)",
-      "pe_ratio": "56.2",
-      "rsi": "N/A",
-      "vs_52wk_high": "-45.7% below high ($316.43)",
-      "analyst_rating": "Moderate Buy",
-      "sector": "Semiconductors - AI/Data Center",
-      "sources": ["TradingKey", "MarketBeat", "StockAnalysis", "TipRanks", "24/7 Wall St.", "Morgan Stanley analyst call", "Trefis", "StockStory"],
-      "price_history_5d": [251.65, 218.35, 196.40, 196.80, 171.41]
-    },
-    {
-      "ticker": "SWKS",
-      "company": "Skyworks Solutions",
-      "discussion_driver": "Skyworks reported fiscal Q4 2026 earnings after the November 3 close: revenue of $1.046B and non-GAAP EPS of $1.28. Despite the apparent beat, the stock dropped ~17% in after-hours trading to ~$70.90, suggesting guidance was well below analyst expectations. This follows the completion of SWKS's Qorvo acquisition on October 5, 2026, which expanded RF semiconductor capabilities but has introduced integration complexity and margin pressure.",
-      "bull_case": [
-        "The completed Qorvo merger creates a dominant RF semiconductor platform serving both Apple and Android OEMs, significantly expanding SWKS's total addressable market in mobile and IoT",
-        "Morgan Stanley raised its target to $95 from $72, viewing the Qorvo combination as strategically transformative and a catalyst for long-term market share gains in RF content"
-      ],
-      "bear_case": [
-        "Stock dropped ~17% after Q4 2026 earnings release on November 3, suggesting near-term guidance is well below consensus estimates — the first major post-merger earnings test has disappointed",
-        "Analyst consensus is 'Hold' with average target of $80.04, implying downside from the pre-earnings price; BofA maintains Underperform with a $78 target citing continued margin and integration risk"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$85.52",
-      "price_target": "$80.04 (-6.4%)",
+      "recommendation": "Speculative Buy",
+      "current_price": "$17.01",
+      "price_target": "$23.34 (+37.2%)",
       "pe_ratio": "N/A",
       "rsi": "N/A",
-      "vs_52wk_high": "-7.9% below high ($92.80)",
+      "vs_52wk_high": "-47.4% below high ($32.35)",
+      "analyst_rating": "Buy",
+      "sector": "Consumer Discretionary - eCommerce",
+      "sources": ["StockAnalysis", "TipRanks", "247wallst.com", "Heygotrade", "Deutsche Bank", "Citi"],
+      "price_history_5d": [14.57, 14.37, 15.23, 17.01]
+    },
+    {
+      "ticker": "SMCI",
+      "company": "Super Micro Computer",
+      "discussion_driver": "Super Micro Computer beat fiscal Q1 2026 estimates with sales roughly quadrupling year-over-year on AI server demand, triggering a 7%+ after-hours pop on November 3 before reversing to a 5.7% decline by the November 4 close amid persistent cash flow concerns and margin pressure scrutiny.",
+      "bull_case": [
+        "AI infrastructure buildout drives exceptional server demand; company raised FY2027 revenue guidance to $72-82B, showcasing massive scale potential in the AI hardware cycle",
+        "Raymond James raised price target to $65 (Outperform) post-earnings; multiple Buy-rated analysts see significant upside from current depressed levels"
+      ],
+      "bear_case": [
+        "Thin hardware margins and ongoing free cash flow drain cast doubt on profitability sustainability; Goldman Sachs initiated with Sell at $26 citing limited margin visibility",
+        "History of accounting scrutiny combined with high hyperscaler customer concentration creates execution and financial reporting risk"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$29.60",
+      "price_target": "$43.27 (+46.2%)",
+      "pe_ratio": "9.35",
+      "rsi": "N/A",
+      "vs_52wk_high": "-52.5% below high ($62.36)",
       "analyst_rating": "Hold",
-      "sector": "Semiconductors - RF/Wireless",
-      "sources": ["SEC 8-K FY2026", "Investing.com", "MarketBeat", "Yahoo Finance", "CNBC", "StockAnalysis"],
-      "price_history_5d": [87.23, 86.50, 85.75, 85.60, 85.52]
+      "sector": "Information Technology - AI Servers",
+      "sources": ["StockAnalysis", "Investing.com", "MarketBeat", "Raymond James", "Goldman Sachs", "24/7 Wall St.", "Finbold"],
+      "price_history_5d": [31.39, 29.60]
+    },
+    {
+      "ticker": "DJT",
+      "company": "Trump Media & Technology Group",
+      "discussion_driver": "Trump Media & Technology Group fell sharply after Democrats swept the November 2026 midterm elections, removing the political tailwinds that had supported the stock. With minimal revenue, persistent net losses, and limited institutional coverage, DJT trades primarily as a political sentiment proxy rather than a fundamentals-driven investment.",
+      "bull_case": [
+        "Strong brand recognition among Truth Social's core user base provides a loyal audience for potential content and media expansion",
+        "Any shift in political sentiment or new platform partnerships could attract speculative buying interest and reverse near-term selling pressure"
+      ],
+      "bear_case": [
+        "Company generates minimal revenue with no credible path to profitability; stock is structurally dependent on political sentiment rather than business fundamentals",
+        "Democratic midterm sweep removes the core political catalyst; securities.io reports the stock has fallen ~92% over five years with continued structural headwinds"
+      ],
+      "recommendation": "Sell",
+      "current_price": "$4.53",
+      "price_target": "N/A",
+      "pe_ratio": "N/A",
+      "rsi": "N/A",
+      "vs_52wk_high": "-78.3% below high ($20.92)",
+      "analyst_rating": "Sell",
+      "sector": "Communication Services - Social Media",
+      "sources": ["Invezz", "StockAnalysis", "Investing.com", "Heygotrade", "Securities.io", "Finviz"],
+      "price_history_5d": [5.66, 5.95, 4.53]
     }
   ]
 }
