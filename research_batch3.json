@@ -1,121 +1,121 @@
 {
-  "report_date": "2026-11-04",
+  "report_date": "2026-11-05",
   "batch": 3,
   "stocks": [
     {
-      "ticker": "EXPE",
-      "company": "Expedia Group",
-      "discussion_driver": "Expedia's Q3 2026 earnings beat EPS estimates but Q4 revenue guidance came in weaker than expected, sending shares down 7%+ in after-hours trading on November 4. The disappointing forward outlook raises concerns about travel demand deceleration heading into 2027.",
+      "ticker": "DKNG",
+      "company": "DraftKings Inc.",
+      "discussion_driver": "DraftKings plunged 18-24% after hours on November 5, 2026 after missing Q3 2026 estimates, cutting full-year revenue guidance, and issuing below-consensus FY2027 earnings projections — extending its year-to-date decline to over 30% and intensifying concerns about competitive positioning against FanDuel/Flutter and the company's uncertain path to profitability.",
       "bull_case": [
-        "Strong brand portfolio spanning Expedia, Hotels.com, and Vrbo with sticky customer relationships; Q3 results showed operational resilience despite macro headwinds",
-        "Attractive valuation at ~17x trailing P/E with potential margin expansion as AI-driven personalization improves booking conversion and reduces customer acquisition costs"
+        "Market leader in U.S. sports betting with strong brand equity and mobile-first platform, with structural growth runway as additional states legalize wagering.",
+        "Management's renewed focus on cost discipline and marketing efficiency could accelerate the path to profitability in 2027-2028 as the market matures."
       ],
       "bear_case": [
-        "Weak Q4 guidance signals potential travel demand softening; Wells Fargo cut price target to $275 (Equal Weight), reflecting near-term concern",
-        "Competitive pressure from Booking.com and Airbnb intensifying in core North American and European leisure travel markets"
+        "Repeated guidance cuts and Q3 earnings miss signal execution problems and rising competitive pressure from FanDuel/Flutter, potentially eroding market share and unit economics.",
+        "Company remains unprofitable with heavy marketing spend and negative EPS, casting doubt on free cash flow generation with sharply reduced near-term visibility."
       ],
       "recommendation": "Hold",
-      "current_price": "$285.77",
-      "price_target": "$316.37 (+10.7%)",
-      "pe_ratio": "17.13",
+      "current_price": "$23.03",
+      "price_target": "$32.79 (+42.4%)",
+      "pe_ratio": "N/A",
+      "rsi": "45",
+      "vs_52wk_high": "-26.0% below high ($31.12)",
+      "analyst_rating": "Moderate Buy",
+      "sector": "Consumer Discretionary - Online Sports Betting",
+      "sources": ["CNBC", "Yahoo Finance", "MarketBeat", "24/7 Wall St.", "Sanford C. Bernstein"],
+      "price_history_5d": [20.72, 20.91, 21.81, 21.93, 23.11]
+    },
+    {
+      "ticker": "TEAM",
+      "company": "Atlassian Corporation",
+      "discussion_driver": "Atlassian dropped 15%+ after hours on November 5, 2026 after reporting cloud subscription growth that disappointed investors and guiding weaker-than-expected data center revenue for FY2027, compounding a year-to-date decline and stoking fears of a broader enterprise software spending slowdown heading into 2027.",
+      "bull_case": [
+        "Atlassian's platform (Jira, Confluence, Trello) remains deeply embedded in enterprise DevOps workflows with high switching costs and durable recurring revenue, providing resilience through spending cycles.",
+        "AI integrations via Atlassian Intelligence and ongoing cloud migration tailwinds represent a multi-year growth driver as enterprises modernize software development toolchains."
+      ],
+      "bear_case": [
+        "Post-earnings guidance cut signals slowing cloud migration adoption and enterprise IT budget pressures, raising questions about near-term revenue visibility and execution risk.",
+        "Elevated valuation relative to decelerating growth prospects — even after the AH selloff — leaves limited margin of safety if cloud growth continues to slow or competition intensifies."
+      ],
+      "recommendation": "Hold",
+      "current_price": "$183.19",
+      "price_target": "$230.20 (+25.7%)",
+      "pe_ratio": "N/A",
       "rsi": "N/A",
-      "vs_52wk_high": "-16.4% below high ($342.00)",
+      "vs_52wk_high": "-20.3% below high ($229.96)",
       "analyst_rating": "Buy",
-      "sector": "Consumer Discretionary - Online Travel",
-      "sources": ["TipRanks", "MarketBeat", "StockAnalysis", "Wells Fargo", "Melius Research"],
-      "price_history_5d": [275.53, 282.73, 285.93, 285.77]
+      "sector": "Technology - Enterprise Software",
+      "sources": ["CNBC", "StockAnalysis", "MarketBeat", "Yahoo Finance", "Cantor Fitzgerald", "TD Cowen"],
+      "price_history_5d": [191.72, 187.08, 191.05, 189.88, 183.19]
     },
     {
-      "ticker": "AMZN",
-      "company": "Amazon.com",
-      "discussion_driver": "Amazon surged ~7% on November 4 as a key mega-cap beneficiary of the Democratic midterm sweep and positive AI-driven sentiment following AMD's strong data center results. AWS cloud growth and Amazon's AI infrastructure buildout remain the primary catalysts driving the Strong Buy consensus.",
+      "ticker": "FROG",
+      "company": "JFrog Ltd.",
+      "discussion_driver": "JFrog surged ~26% after hours on November 5, 2026 after reporting Q3 2026 revenue of $179.2M, beating analyst estimates and demonstrating robust cloud ARR growth — a standout positive amid the broader tech selloff — confirming that demand for its DevSecOps platform remains resilient even amid macroeconomic and regulatory headwinds.",
       "bull_case": [
-        "AWS market leadership with strong pricing power; Q3 2026 showed AWS powered ~66% of total operating profit with accelerating AI-driven enterprise cloud adoption",
-        "Rapidly scaling advertising and AI services driving structural margin expansion; Strong Buy consensus across 59 analysts with average $326 target implies ~22% upside"
+        "JFrog's DevSecOps platform is a critical software supply chain infrastructure layer with strong net dollar retention and expanding enterprise contracts, providing durable recurring revenue.",
+        "Q3 2026 earnings beat demonstrates platform resilience amid broader tech spending caution, and cloud revenue acceleration supports a compelling long-term growth narrative."
       ],
       "bear_case": [
-        "Elevated capital expenditure on AI infrastructure and logistics weighs on near-term free cash flow, as highlighted by the February 2026 reaction to a $200B capex plan",
-        "Macro slowdown could reduce enterprise AWS spending and compress consumer discretionary e-commerce volumes simultaneously"
-      ],
-      "recommendation": "Buy",
-      "current_price": "$267.90",
-      "price_target": "$326.74 (+21.9%)",
-      "pe_ratio": "21.6",
-      "rsi": "43.86",
-      "vs_52wk_high": "-6.7% below high ($287.16)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Consumer Discretionary - eCommerce/Cloud",
-      "sources": ["StockAnalysis", "MarketBeat", "TipRanks", "GuruFocus", "Freedom Broker", "rallies.ai"],
-      "price_history_5d": [254.60, 243.79, 240.35, 248.89, 267.90]
-    },
-    {
-      "ticker": "CPNG",
-      "company": "Coupang",
-      "discussion_driver": "Citi upgraded Coupang to Buy on November 4, citing accelerating Korean e-commerce growth and improved profitability outlook. The stock surged 11.7% on the upgrade, adding momentum to positive Q3 results reported November 3 and reinforcing optimism around CPNG's regional expansion.",
-      "bull_case": [
-        "Dominant Korean e-commerce market share backed by Rocket Delivery network effects; Citi and Deutsche Bank upgrades signal growing analyst confidence in the profitability trajectory",
-        "Average analyst price target of $23.34 implies 37%+ upside; regional expansion into Taiwan and Southeast Asia adds a long-term growth runway beyond the core Korean market"
-      ],
-      "bear_case": [
-        "High forward valuation (~63x P/E) relative to current earnings, combined with a pending ~$410M regulatory fine, represents meaningful cash and multiple compression risk",
-        "Intense competition from Naver Shopping and domestic Korean rivals; potential Amazon Korea entry could pressure market share and pricing"
+        "High valuation relative to current profits requires continued execution on rapid growth rates, leaving the stock vulnerable to any deceleration in cloud ARR growth.",
+        "Competition from GitHub (Microsoft), GitLab, and other DevOps incumbents could pressure JFrog's market share and pricing power over time."
       ],
       "recommendation": "Speculative Buy",
-      "current_price": "$17.01",
-      "price_target": "$23.34 (+37.2%)",
+      "current_price": "$77.62",
+      "price_target": "$110.67 (+42.6%)",
       "pe_ratio": "N/A",
-      "rsi": "N/A",
-      "vs_52wk_high": "-47.4% below high ($32.35)",
+      "rsi": "39",
+      "vs_52wk_high": "-26.6% below high ($105.76)",
       "analyst_rating": "Buy",
-      "sector": "Consumer Discretionary - eCommerce",
-      "sources": ["StockAnalysis", "TipRanks", "247wallst.com", "Heygotrade", "Deutsche Bank", "Citi"],
-      "price_history_5d": [14.57, 14.37, 15.23, 17.01]
+      "sector": "Technology - DevSecOps",
+      "sources": ["CNBC", "Yahoo Finance", "MarketBeat", "Cantor Fitzgerald", "StoneX", "Investing.com"],
+      "price_history_5d": [94.39, 85.11, 88.49, 86.34, 77.62]
     },
     {
-      "ticker": "SMCI",
-      "company": "Super Micro Computer",
-      "discussion_driver": "Super Micro Computer beat fiscal Q1 2026 estimates with sales roughly quadrupling year-over-year on AI server demand, triggering a 7%+ after-hours pop on November 3 before reversing to a 5.7% decline by the November 4 close amid persistent cash flow concerns and margin pressure scrutiny.",
+      "ticker": "CRWV",
+      "company": "CoreWeave Inc.",
+      "discussion_driver": "CoreWeave fell ~12% on November 5, 2026 as the AI data center capacity provider was swept up in the post-election selloff following Democratic Congressional wins, with regulation fears and potential data center permitting restrictions raising direct concerns about CoreWeave's capital-intensive expansion roadmap and already-compressed valuation.",
       "bull_case": [
-        "AI infrastructure buildout drives exceptional server demand; company raised FY2027 revenue guidance to $72-82B, showcasing massive scale potential in the AI hardware cycle",
-        "Raymond James raised price target to $65 (Outperform) post-earnings; multiple Buy-rated analysts see significant upside from current depressed levels"
+        "CoreWeave holds long-term contracted revenue from major AI hyperscalers (Microsoft, OpenAI), providing revenue visibility that partially insulates it from near-term demand uncertainty.",
+        "Structural AI compute demand remains robust regardless of near-term regulation, and CoreWeave's specialized GPU cloud infrastructure positions it favorably for the multi-year AI infrastructure buildout."
       ],
       "bear_case": [
-        "Thin hardware margins and ongoing free cash flow drain cast doubt on profitability sustainability; Goldman Sachs initiated with Sell at $26 citing limited margin visibility",
-        "History of accounting scrutiny combined with high hyperscaler customer concentration creates execution and financial reporting risk"
+        "Post-election AI regulation fears and potential data center permitting restrictions could directly impact CoreWeave's expansion plans and capex-heavy growth model, increasing execution risk.",
+        "Company remains unprofitable with heavy capital expenditure requirements and customer concentration with Microsoft and OpenAI, creating significant business risk if contracts are not renewed or expanded."
       ],
       "recommendation": "Hold",
-      "current_price": "$29.60",
-      "price_target": "$43.27 (+46.2%)",
-      "pe_ratio": "9.35",
-      "rsi": "N/A",
-      "vs_52wk_high": "-52.5% below high ($62.36)",
-      "analyst_rating": "Hold",
-      "sector": "Information Technology - AI Servers",
-      "sources": ["StockAnalysis", "Investing.com", "MarketBeat", "Raymond James", "Goldman Sachs", "24/7 Wall St.", "Finbold"],
-      "price_history_5d": [31.39, 29.60]
-    },
-    {
-      "ticker": "DJT",
-      "company": "Trump Media & Technology Group",
-      "discussion_driver": "Trump Media & Technology Group fell sharply after Democrats swept the November 2026 midterm elections, removing the political tailwinds that had supported the stock. With minimal revenue, persistent net losses, and limited institutional coverage, DJT trades primarily as a political sentiment proxy rather than a fundamentals-driven investment.",
-      "bull_case": [
-        "Strong brand recognition among Truth Social's core user base provides a loyal audience for potential content and media expansion",
-        "Any shift in political sentiment or new platform partnerships could attract speculative buying interest and reverse near-term selling pressure"
-      ],
-      "bear_case": [
-        "Company generates minimal revenue with no credible path to profitability; stock is structurally dependent on political sentiment rather than business fundamentals",
-        "Democratic midterm sweep removes the core political catalyst; securities.io reports the stock has fallen ~92% over five years with continued structural headwinds"
-      ],
-      "recommendation": "Sell",
-      "current_price": "$4.53",
-      "price_target": "N/A",
+      "current_price": "$43.66",
+      "price_target": "$129.41 (+196.5%)",
       "pe_ratio": "N/A",
       "rsi": "N/A",
-      "vs_52wk_high": "-78.3% below high ($20.92)",
-      "analyst_rating": "Sell",
-      "sector": "Communication Services - Social Media",
-      "sources": ["Invezz", "StockAnalysis", "Investing.com", "Heygotrade", "Securities.io", "Finviz"],
-      "price_history_5d": [5.66, 5.95, 4.53]
+      "vs_52wk_high": "-68.4% below high ($138.25)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - AI/Cloud Infrastructure",
+      "sources": ["Benzinga", "Yahoo Finance", "MarketBeat", "Citigroup", "Investtech"],
+      "price_history_5d": [54.87, 50.15, 53.74, 48.42, 43.66]
+    },
+    {
+      "ticker": "FSLR",
+      "company": "First Solar Inc.",
+      "discussion_driver": "First Solar drew positive analyst attention on November 5, 2026 when William Blair upgraded the stock to Outperform from Market Perform, citing Democratic Congressional wins as a catalyst for maintaining IRA clean energy incentives and accelerating utility-scale solar demand — making FSLR one of the few tech-adjacent names to outperform amid a broad market selloff.",
+      "bull_case": [
+        "Democratic Congressional wins reinforce IRA clean energy incentives, directly benefiting First Solar as the leading U.S.-based domestic solar manufacturer with tariff-advantaged manufacturing capacity.",
+        "First Solar's thin-film cadmium telluride technology offers a differentiated position versus Chinese solar manufacturers, backed by a multi-year manufacturing backlog providing strong revenue visibility."
+      ],
+      "bear_case": [
+        "The stock trades 39% below its 52-week high, reflecting persistent concerns about module ASP pressure, rising global solar competition, and potential policy uncertainty in a divided government.",
+        "Capital-intensive manufacturing expansions and potential commodity cost volatility could compress margins if demand growth disappoints or clean energy policy support weakens in future legislative cycles."
+      ],
+      "recommendation": "Buy",
+      "current_price": "$194.51",
+      "price_target": "$257.38 (+32.3%)",
+      "pe_ratio": "11.26",
+      "rsi": "56",
+      "vs_52wk_high": "-39.4% below high ($320.95)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - Clean Energy/Solar Manufacturing",
+      "sources": ["CNBC", "Yahoo Finance", "MarketBeat", "William Blair", "Mizuho", "Baird"],
+      "price_history_5d": [174.40, 182.05, 185.90, 194.51]
     }
   ]
 }
