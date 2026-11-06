@@ -1,167 +1,163 @@
 {
-  "report_date": "2026-11-05",
-  "market_tone": "Bearish",
+  "report_date": "2026-11-06",
+  "market_tone": "Mixed",
   "key_themes": [
-    "AI chip selloff on post-election regulation fears \u2014 Democrats won Congress Tuesday, raising fears of stricter AI rules and data center permitting; VIX spiked 39%, wiping ~$2.2T in market cap",
-    "Earnings season divergence \u2014 big beats from AppLovin, Cloudflare, Airbnb and JFrog contrast sharply with misses from DraftKings and Atlassian",
-    "Nasdaq slides into correction territory \u2014 chip and AI infrastructure names led broad tech decline, with Nasdaq down ~4.7% midday"
+    "AI/tech stocks rebound from Thursday's historic 4.4% S&P 500 selloff driven by AI spending concerns",
+    "Q3 earnings season delivers major surprises \u2014 Moderna, Airbnb, Cloudflare, AppLovin beat; Axon, Atlassian, Five9 disappoint",
+    "Post-US midterm election uncertainty weighing on AI regulation outlook and broader tech valuations"
   ],
   "sp500": {
-    "value": "7,572.00",
-    "change": "-3.4%"
+    "value": "7,376.86",
+    "change": "+0.32%"
   },
   "nasdaq": {
-    "value": "25,261.00",
-    "change": "-4.7%"
+    "value": "24,579.42",
+    "change": "+1.09%"
   },
   "stocks": [
     {
-      "ticker": "NVDA",
-      "company": "Nvidia Corporation",
-      "reason": "Dropped ~7.5% as AI chip selloff accelerated; election results sparked fears of Democratic-led AI regulation and tighter data center permitting, hitting the entire AI infrastructure complex",
-      "category": "sector",
-      "sources": [
-        "Benzinga",
-        "Yahoo Finance",
-        "247wallst.com"
-      ]
-    },
-    {
-      "ticker": "AMD",
-      "company": "Advanced Micro Devices",
-      "reason": "Fell ~13-15% despite reporting record 97% year-over-year growth in data center revenue; sold off with the broader AI chip sector on AI regulation fears after Democratic election wins",
+      "ticker": "MRNA",
+      "company": "Moderna",
+      "reason": "Q3 2026 earnings beat: revenue $1.31B vs $892M expected; raised full-year revenue growth outlook to 15-25% from prior guidance of up to 10%; shares surged ~10%",
       "category": "earnings",
       "sources": [
-        "Yahoo Finance",
-        "KuCoin",
-        "CedarNews"
+        "CNBC",
+        "Investing.com",
+        "Yahoo Finance"
       ]
     },
     {
       "ticker": "APP",
-      "company": "AppLovin Corporation",
-      "reason": "Surged ~30% \u2014 largest S&P 500 gainer on Nov 5 \u2014 on strong Q3 earnings beat driven by AI-powered mobile ad growth, bucking the broader tech selloff",
+      "company": "AppLovin",
+      "reason": "Q3 2026 revenue and EPS beat estimates; Q4 guidance topped forecasts; shares surged ~16.5% premarket on mobile advertising strength",
       "category": "earnings",
-      "sources": [
-        "Chartmill",
-        "Seeking Alpha",
-        "iTiger"
-      ]
-    },
-    {
-      "ticker": "SNDK",
-      "company": "SanDisk Corporation",
-      "reason": "Biggest S&P 500 loser, down ~17.7%, as profit-taking hit the name following its extended multi-year rally; compounded by sector-wide weakness in chip stocks",
-      "category": "sector",
-      "sources": [
-        "Chartmill",
-        "TipRanks"
-      ]
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla Inc.",
-      "reason": "Dropped ~11% midday; appeared in CNBC's biggest midday movers list as part of a broader tech rout, with the AI-driven market selloff dragging high-multiple growth names",
-      "category": "sector",
-      "sources": [
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron Technology",
-      "reason": "Fell sharply as part of the AI chip selloff; named in CNBC's midday movers on Nov 5 alongside Nvidia and AMD as data center build-out stocks faced post-election regulatory headwinds",
-      "category": "sector",
       "sources": [
         "CNBC",
         "Benzinga"
       ]
     },
     {
-      "ticker": "TRIP",
-      "company": "Tripadvisor Inc.",
-      "reason": "Plunged ~22% midday after a leadership shakeup and weak forward guidance weighed heavily on the travel platform",
+      "ticker": "NET",
+      "company": "Cloudflare",
+      "reason": "Q3 2026 earnings with current-quarter guidance above Street expectations; shares jumped ~12-19% on strong enterprise demand signals",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "ABNB",
+      "company": "Airbnb",
+      "reason": "Q3 2026 EPS $3.16 beat consensus of $2.85; shares rose ~13% premarket on strong travel demand and improved profitability",
+      "category": "earnings",
+      "sources": [
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "JFROG",
+      "company": "JFrog",
+      "reason": "Raised full-year 2026 guidance; shares surged ~23% premarket on software DevOps platform momentum",
+      "category": "earnings",
+      "sources": [
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "VST",
+      "company": "Vistra",
+      "reason": "Q3 2026 EPS $3.01 beat $2.71 consensus; raised 2026 EBITDA guidance midpoint; announced $1.5B share buyback; shares surged ~10% driven by AI power demand",
+      "category": "earnings",
+      "sources": [
+        "RTTNews",
+        "xTB",
+        "PR Newswire"
+      ]
+    },
+    {
+      "ticker": "DKNG",
+      "company": "DraftKings",
+      "reason": "Q3 2026 after-hours loss wider than expected; full-year guidance cut; shares fell ~22% on prediction-market competition pressure from Kalshi",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "AXON",
+      "company": "Axon Enterprise",
+      "reason": "Q3 2026 EPS and revenue missed Wall Street estimates; weak Q4 guidance; shares dropped ~18% \u2014 biggest daily decline in months",
+      "category": "earnings",
+      "sources": [
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "TEAM",
+      "company": "Atlassian",
+      "reason": "Fiscal Q2 data-center revenue expected to decline ~14% year-over-year; shares dropped ~18%+ on cloud migration headwinds",
+      "category": "earnings",
+      "sources": [
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "FIVN",
+      "company": "Five9",
+      "reason": "Cut full-year adjusted EPS guidance; announced $325M acquisition of Level AI; Evercore ISI downgraded to In Line; shares fell ~17%",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "247WallSt"
+      ]
+    },
+    {
+      "ticker": "LRCX",
+      "company": "Lam Research",
+      "reason": "Board authorized $25 billion stock buyback program \u2014 one of largest in semiconductor sector history; shares gained ~9-11%",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Investing.com"
+      ]
+    },
+    {
+      "ticker": "IONQ",
+      "company": "IonQ",
+      "reason": "Raised full-year 2026 revenue guidance; shares jumped ~17% on quantum computing commercial traction",
+      "category": "earnings",
+      "sources": [
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "MCHP",
+      "company": "Microchip Technology",
+      "reason": "Weak current-quarter guidance; shares fell ~14% on semiconductor demand softness in automotive and industrial end markets",
+      "category": "earnings",
+      "sources": [
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "FLY",
+      "company": "Firefly Aerospace",
+      "reason": "Announced ~$1.3B deal with AST SpaceMobile for launch services; shares surged ~30% on major commercial space contract",
       "category": "news",
       "sources": [
         "CNBC"
       ]
     },
     {
-      "ticker": "U",
-      "company": "Unity Software",
-      "reason": "Rose ~22% premarket after reporting strong Q3 2026 results; named in CNBC's premarket movers for Nov 5 alongside Shake Shack and Qualcomm",
-      "category": "earnings",
-      "sources": [
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "NET",
-      "company": "Cloudflare Inc.",
-      "reason": "Jumped 14-17% after hours after Q3 earnings beat \u2014 adjusted EPS of $0.38-$0.43 vs. $0.34 expected \u2014 and raised full-year profit outlook for the third time in 2026",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "RollingOut",
-        "Investing.com"
-      ]
-    },
-    {
-      "ticker": "ABNB",
-      "company": "Airbnb Inc.",
-      "reason": "Rose ~7-11% after hours on strong Q3 beat: EPS of $3.16 vs. $2.85 expected, revenue of $4.87B vs. $4.75B consensus; raised full-year outlook citing \"growth mode\"",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "DKNG",
-      "company": "DraftKings Inc.",
-      "reason": "Plunged 18-24% after hours after missing Q3 estimates and slashing full-year guidance; 2027 earnings forecast also fell short of analyst projections",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Investing.com"
-      ]
-    },
-    {
-      "ticker": "TEAM",
-      "company": "Atlassian Corporation",
-      "reason": "Dropped 15%+ after hours on weaker data center revenue guidance; weakness in cloud infrastructure spending weighed on the enterprise software name",
-      "category": "earnings",
-      "sources": [
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "FROG",
-      "company": "JFrog Ltd.",
-      "reason": "Surged ~26% after hours after reporting Q3 revenue of $179.2M, beating estimates; named in CNBC's biggest after-hours movers for Nov 5",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Investing.com"
-      ]
-    },
-    {
-      "ticker": "CRWV",
-      "company": "CoreWeave Inc.",
-      "reason": "Fell ~12% as the AI data center capacity provider was swept up in the broader AI infrastructure selloff following election-driven regulation fears",
-      "category": "sector",
-      "sources": [
-        "Benzinga",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "FSLR",
-      "company": "First Solar Inc.",
-      "reason": "Named in CNBC's Thursday analyst calls; William Blair upgraded to Outperform from Market Perform, citing election results as a catalyst for utility-scale solar demand",
+      "ticker": "BDX",
+      "company": "Becton Dickinson",
+      "reason": "Wells Fargo upgraded to Overweight from Equal Weight, raising price target to $242 from $170 on medical device recovery thesis",
       "category": "upgrade",
       "sources": [
-        "CNBC"
+        "247WallSt",
+        "TipRanks"
       ]
     }
   ]
