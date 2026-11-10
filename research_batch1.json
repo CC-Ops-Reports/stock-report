@@ -1,129 +1,135 @@
 {
-  "report_date": "2026-11-06",
+  "report_date": "2026-11-09",
   "batch": 1,
-  "market_tone": "Mixed",
+  "market_tone": "Bullish",
   "key_themes": [
-    "AI/tech stocks rebound from Thursday's historic 4.4% S&P 500 selloff driven by AI spending concerns",
-    "Q3 earnings season delivers major surprises — Moderna, Airbnb, Cloudflare, AppLovin beat; Axon, Atlassian, Five9 disappoint",
-    "Post-US midterm election uncertainty weighing on AI regulation outlook and broader tech valuations"
+    "AI chip bifurcation: Nvidia CEO probe sends stock down while AMD surges 13%+ on Oppenheimer upgrade",
+    "Broad tech and semiconductor recovery: Nasdaq posts best session since April, up 2.74%",
+    "Oil drops 4%+ on eased Iran tensions, lifting sentiment; mixed after-hours earnings add volatility"
   ],
-  "sp500": {"value": "7,376.86", "change": "+0.32%"},
-  "nasdaq": {"value": "24,579.42", "change": "+1.09%"},
+  "sp500": {
+    "value": "7,550.00",
+    "change": "+2.35%"
+  },
+  "nasdaq": {
+    "value": "25,253.00",
+    "change": "+2.74%"
+  },
   "stocks": [
     {
-      "ticker": "MRNA",
-      "company": "Moderna",
-      "discussion_driver": "Moderna shattered Q3 2026 estimates with $1.31B in revenue versus $892M expected, then raised full-year revenue growth guidance to 15-25% from prior guidance of up to 10%. Shares surged roughly 10% on the week as investors cheered a major earnings beat, though analyst consensus targets remain significantly below current trading levels.",
+      "ticker": "NVDA",
+      "company": "NVIDIA Corporation",
+      "discussion_driver": "Nvidia's board opened an independent investigation into CEO Jensen Huang following foreign intelligence and espionage reports, sending shares down ~4-6% while the broader chip sector rallied strongly. Aletheia Capital downgraded to Hold amid leadership uncertainty, though 60+ Wall Street analysts maintain a Strong Buy consensus with an average price target of $327.",
       "bull_case": [
-        "Q3 2026 revenue massively exceeded expectations ($1.31B vs $892M), signaling a potential inflection point in Moderna's commercial pipeline beyond COVID vaccines",
-        "Raised full-year revenue growth guidance to 15-25% signals accelerating commercial momentum and improving path to profitability"
+        "Dominant AI chip market position with 61-analyst Strong Buy consensus and $327 average price target representing 83% upside from current levels",
+        "Blackwell GPU architecture continues to drive record data center demand; near-term CEO headwinds are unlikely to derail the structural AI growth thesis"
       ],
       "bear_case": [
-        "Analyst consensus price target of ~$138 is roughly 46% below current price, suggesting most of Wall Street views the stock as significantly overvalued at current levels",
-        "Company continues to report negative EPS (trailing -$7.98), meaning profitable operations remain uncertain and dependent on continued revenue execution"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$254.19",
-      "price_target": "$138.37 (-45.6%)",
-      "pe_ratio": "N/A",
-      "rsi": "N/A",
-      "vs_52wk_high": "-2.6% below high ($261.00)",
-      "analyst_rating": "Hold",
-      "sector": "Healthcare - Biotechnology",
-      "sources": ["StockAnalysis", "Yahoo Finance", "Morningstar", "Investing.com"],
-      "price_history_5d": [220.83, 228.44, 258.38, 241.46, 254.19]
-    },
-    {
-      "ticker": "APP",
-      "company": "AppLovin",
-      "discussion_driver": "AppLovin delivered a blowout Q3 2026 earnings report with revenue and EPS crushing consensus estimates, and Q4 guidance topped forecasts; shares surged ~31% as the company demonstrated strength in its AI-powered mobile advertising platform, with the stock up roughly 71% from its 52-week low in the span of a week.",
-      "bull_case": [
-        "AI-powered mobile advertising engine drove Q3 2026 earnings and Q4 guidance well above consensus, reinforcing the company's leading market position in mobile monetization",
-        "Stock is trading roughly 47% below its December 2025 all-time high of $738, offering significant recovery upside if digital advertising conditions normalize"
-      ],
-      "bear_case": [
-        "Mobile advertising spending is cyclical and macro-sensitive; any slowdown in digital ad budgets could quickly reverse the recent earnings momentum",
-        "Steep 47% decline from the $738 all-time high reflects the market's concern about growth durability and concentration risk in the mobile gaming vertical"
+        "CEO investigation creates material headline risk and potential leadership disruption at a critical product cycle moment",
+        "AI chip export restrictions to China and ongoing regulatory scrutiny continue to cap international revenue potential"
       ],
       "recommendation": "Buy",
-      "current_price": "$391.23",
-      "price_target": "$451.50 (+15.4%)",
-      "pe_ratio": "26.24",
+      "current_price": "$178.67",
+      "price_target": "$326.92 (+82.9%)",
+      "pe_ratio": "54.38",
       "rsi": "N/A",
-      "vs_52wk_high": "-47.0% below high ($738.01)",
-      "analyst_rating": "Moderate Buy",
-      "sector": "Technology - Mobile Advertising",
-      "sources": ["StockAnalysis", "MarketBeat", "GuruFocus", "Investing.com", "Heygotrade"],
-      "price_history_5d": [228.85, 245.51, 271.75, 356.10, 391.23]
+      "vs_52wk_high": "-26.6% below high ($243.37)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Technology - Semiconductors",
+      "sources": ["StockAnalysis", "CNBC", "Daily Political", "Heygotrade"],
+      "price_history_5d": [206.69, 200.13, 181.60, 186.64, 178.67]
     },
     {
-      "ticker": "NET",
-      "company": "Cloudflare",
-      "discussion_driver": "Cloudflare reported Q3 2026 earnings after the Nov 5 close with current-quarter guidance above Street expectations, sparking a ~20% premarket jump to ~$293; the results underscored strong enterprise network security demand, though several analysts trimmed price targets citing stretched peer multiples even as JPMorgan upgraded the stock.",
+      "ticker": "AMD",
+      "company": "Advanced Micro Devices",
+      "discussion_driver": "AMD surged ~13% on November 9 after Oppenheimer upgraded to Outperform with a $600 price target, citing a strong earnings call and Google Cloud's selection of AMD MI-series chips for new workloads. The rally fully recovered the 17% selloff from November 5, with CEO Lisa Su calling the prior decline 'short-sighted.'",
       "bull_case": [
-        "Q3 2026 results with above-consensus Q4 guidance signal continued enterprise security spending momentum, particularly around AI-network traffic management and Zero Trust adoption",
-        "JPMorgan upgrade alongside multiple analyst reaffirmations post-earnings reflects growing conviction in Cloudflare's platform-layer competitive positioning in the AI infrastructure buildout"
+        "Strong AI GPU market share gains with Google Cloud chip selection validating the MI-series roadmap against Nvidia; stock has more than doubled in 2026 YTD",
+        "Oppenheimer Outperform upgrade and near-unanimous Buy consensus from 55+ analysts reflect growing confidence in AMD's AI and server CPU competitive positioning"
       ],
       "bear_case": [
-        "Several analysts cut price targets post-earnings (RBC to $350, Scotiabank to $360, Cantor Fitzgerald to $310) citing stretched valuation relative to cybersecurity peers, limiting near-term upside",
-        "Negative GAAP P/E means the stock is priced entirely on future growth expectations; any forward guidance miss could cause outsized multiple compression given elevated valuation"
+        "Stock shed nearly 30% in 30 days leading into the November 9 recovery, illustrating extreme volatility and heavy reliance on AI sentiment",
+        "Stock remains 22.8% below the 52-week high of $658.52, suggesting significant overhead resistance even after the recovery rally"
       ],
       "recommendation": "Hold",
-      "current_price": "$293.00",
-      "price_target": "$333.61 (+13.9%)",
+      "current_price": "$508.58",
+      "price_target": "$598.24 (+17.6%)",
       "pe_ratio": "N/A",
       "rsi": "N/A",
-      "vs_52wk_high": "-18.8% below high ($360.93)",
-      "analyst_rating": "Moderate Buy",
-      "sector": "Technology - Cybersecurity/Networking",
-      "sources": ["MarketBeat", "StockAnalysis", "Benzinga", "Investing.com", "Yahoo Finance"],
-      "price_history_5d": [273.62, 266.58, 244.99, 293.00]
+      "vs_52wk_high": "-22.8% below high ($658.52)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - Semiconductors",
+      "sources": ["247wallst", "Benzinga", "Bloomberg", "Yahoo Finance", "Motley Fool"],
+      "price_history_5d": [483.90, 488.78, 404.40, 449.04, 508.58]
     },
     {
-      "ticker": "ABNB",
-      "company": "Airbnb",
-      "discussion_driver": "Airbnb's Q3 2026 EPS of $3.16 beat consensus of $2.85 and revenue grew 19% YoY to its best quarter in three years; management also announced a $12 billion share buyback and plans to develop its own AI agent, sending shares to new 52-week highs above $190 as the company officially reentered growth mode.",
+      "ticker": "COHR",
+      "company": "Coherent Corp",
+      "discussion_driver": "Coherent beat fiscal Q1 earnings with non-GAAP EPS of $2.09 vs. consensus and revenue surging 50% YoY to $2.37B driven by AI data center optical transceiver demand. The company guided Q2 revenue of $2.55-2.75B well above consensus, driving a 16-18% single-day stock surge. JPMorgan cited 100% potential upside at current levels.",
       "bull_case": [
-        "Q3 2026 EPS and revenue both beat consensus, with 19% YoY revenue growth marking a reacceleration in travel demand and improved platform monetization",
-        "$12 billion share buyback authorization provides strong capital return signal and meaningful EPS tailwind, while AI agent development opens new platform revenue streams"
+        "AI data center optical transceiver demand is structurally accelerating, with 50% YoY revenue growth and an above-consensus Q2 guidance raise signaling continued momentum",
+        "Consensus Buy rating and 62.6% upside to the $369 average price target from multiple major banks including JPMorgan ($385 target, Buy) and Citi ($440 target, Buy)"
       ],
       "bear_case": [
-        "Stock is approaching analyst consensus price targets (~$194), leaving limited near-term upside unless analysts meaningfully revise estimates higher following the earnings beat",
-        "Travel demand is cyclical and competitive pressures from hotels and alternative short-term rental platforms could moderate growth rates from currently elevated levels"
+        "Multiple analysts cut price targets in the week of earnings (Needham to $340, Rosenblatt to $400, BofA to $240) despite maintaining Buy ratings, signaling near-term execution uncertainty",
+        "Stock trades 48% below its 52-week high of $440 and faces margin pressure risk if AI infrastructure spending moderates or component pricing declines"
       ],
-      "recommendation": "Hold",
-      "current_price": "$189.99",
-      "price_target": "$193.85 (+2.0%)",
-      "pe_ratio": "38.24",
+      "recommendation": "Buy",
+      "current_price": "$227.21",
+      "price_target": "$369.40 (+62.6%)",
+      "pe_ratio": "39.92",
       "rsi": "N/A",
-      "vs_52wk_high": "-2.3% below high ($194.50)",
-      "analyst_rating": "Moderate Buy",
-      "sector": "Consumer Discretionary - Travel/Hospitality",
-      "sources": ["StockAnalysis", "MarketBeat", "Benzinga", "Motley Fool", "Yahoo Finance", "Schaeffer's"],
-      "price_history_5d": [171.11, 176.37, 169.00, 189.99]
+      "vs_52wk_high": "-48.4% below high ($440.00)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - Optical Components",
+      "sources": ["Heygotrade", "StockAnalysis", "Yahoo Finance", "Morningstar", "GuruFocus"],
+      "price_history_5d": [207.49, 195.09, 169.76, 192.81, 227.21]
     },
     {
-      "ticker": "JFROG",
-      "company": "JFrog",
-      "discussion_driver": "JFrog raised its full-year 2026 guidance, sending shares surging ~23% premarket as investors rewarded the DevOps software platform's accelerating enterprise traction; multiple analysts raised price targets post-earnings (Truist to $120, Guggenheim to $125), citing AI-driven software delivery workflows as a key growth catalyst for the DevSecOps platform.",
+      "ticker": "MPWR",
+      "company": "Monolithic Power Systems",
+      "discussion_driver": "Monolithic Power Systems surged ~17% on November 9 as AI-driven demand for analog power management chips lifted the broader semiconductor sector. MPWR's power delivery ICs are critical components in GPU clusters and AI server racks, giving the company direct structural exposure to hyperscaler AI infrastructure expansion and rising power density requirements.",
       "bull_case": [
-        "Full-year 2026 guidance raise signals sustained momentum in enterprise DevSecOps platform adoption, with AI-enhanced software delivery tools driving new customer wins and expansion revenue",
-        "Multiple analyst target raises post-earnings (Truist to $120, Guggenheim to $125) reflect growing confidence in JFrog's execution and competitive positioning in the developer toolchain"
+        "Best-in-class power management ICs for AI GPU clusters provide direct structural exposure to data center build-out; Strong Buy consensus with $1,821 average price target implying 32% upside",
+        "Consecutive analyst upgrades and target raises from Rosenblatt ($1,700), Truist ($1,906), and Stifel ($1,900) reflect growing confidence in AI server power demand runway"
       ],
       "bear_case": [
-        "Negative trailing P/E and elevated forward P/E (~96x) mean any guidance miss or growth deceleration could trigger significant multiple compression in this richly valued name",
-        "Competitive pressure from cloud hyperscalers (AWS CodeArtifact, Azure Artifacts, Google Artifact Registry) offering bundled DevOps tooling could erode JFrog's enterprise pricing power"
+        "High trailing P/E of ~87x leaves significant downside risk; a single-day 10.3% drop on November 5 illustrates extreme sentiment sensitivity to AI spending narrative shifts",
+        "Customer concentration in hyperscaler data center creates cyclical exposure if AI infrastructure capital spending guidance is reduced by any major cloud provider"
       ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$100.19",
-      "price_target": "$111.81 (+11.6%)",
-      "pe_ratio": "N/A",
+      "recommendation": "Buy",
+      "current_price": "$1,382.34",
+      "price_target": "$1,820.64 (+31.7%)",
+      "pe_ratio": "87.43",
       "rsi": "N/A",
-      "vs_52wk_high": "-5.3% below high ($105.76)",
-      "analyst_rating": "Moderate Buy",
-      "sector": "Technology - Software/DevOps",
-      "sources": ["MarketBeat", "TipRanks", "StockScan", "Eulerpool", "The Cerbat Gem", "Heygotrade"],
-      "price_history_5d": [85.11, 88.49, 86.34, 74.62, 100.19]
+      "vs_52wk_high": "-19.3% below high ($1,714.09)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Technology - Analog Semiconductors",
+      "sources": ["Heygotrade", "GuruFocus", "247wallst", "StockAnalysis", "MarketBeat"],
+      "price_history_5d": [1328.30, 1131.43, 1190.44, 1382.34]
+    },
+    {
+      "ticker": "CEG",
+      "company": "Constellation Energy",
+      "discussion_driver": "Constellation Energy beat Q3 earnings consensus and raised full-year adjusted EPS guidance to $11.50-$12.50/share, driving a 10%+ single-day stock surge. The company's nuclear fleet is uniquely positioned to meet AI data center 24/7 clean power demands through long-term power purchase agreements, making it a preferred clean energy partner for hyperscalers.",
+      "bull_case": [
+        "Nuclear power's 24/7 baseload capability makes CEG the preferred clean energy partner for AI hyperscalers requiring firm renewable power; multiple long-term PPA announcements reinforce revenue visibility",
+        "Q3 earnings beat and guidance raise demonstrate strong operational execution; Buy consensus with $338 average price target representing 22% upside from current levels"
+      ],
+      "bear_case": [
+        "Stock remains 33% below its 52-week high of $412.70, reflecting lingering investor concerns about nuclear regulatory risks and valuation after prior AI power euphoria",
+        "Nuclear plant relicensing requirements, life extension capital costs, and potential policy changes create regulatory uncertainty that could delay or reduce capacity growth plans"
+      ],
+      "recommendation": "Buy",
+      "current_price": "$276.09",
+      "price_target": "$337.77 (+22.3%)",
+      "pe_ratio": "22.69",
+      "rsi": "N/A",
+      "vs_52wk_high": "-33.1% below high ($412.70)",
+      "analyst_rating": "Buy",
+      "sector": "Utilities - Nuclear Energy",
+      "sources": ["GuruFocus", "StockAnalysis", "TipRanks", "TheStreet", "Yahoo Finance"],
+      "price_history_5d": [263.40, 245.72, 239.65, 249.95, 276.09]
     }
   ]
 }
