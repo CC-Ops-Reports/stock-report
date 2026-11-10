@@ -1,178 +1,165 @@
 {
-  "report_date": "2026-11-09",
-  "market_tone": "Bullish",
+  "report_date": "2026-11-10",
+  "market_tone": "Bearish",
   "key_themes": [
-    "AI chip bifurcation: Nvidia CEO probe sends stock down while AMD surges 13%+ on Oppenheimer upgrade",
-    "Broad tech and semiconductor recovery: Nasdaq posts best session since April, up 2.74%",
-    "Oil drops 4%+ on eased Iran tensions, lifting sentiment; mixed after-hours earnings add volatility"
+    "Hot October CPI (core +0.3% vs +0.2% est) reignites Fed rate-hike fears, 10-yr yield near 5%",
+    "Earnings season: AAON surges 19% on record sales; Hims & Hers tumbles 17% on EBITDA guide cut",
+    "Nvidia CEO Jensen Huang under board investigation drags AI/chip stocks lower"
   ],
   "sp500": {
-    "value": "7,550.00",
-    "change": "+2.35%"
+    "value": "7,520.93",
+    "change": "-0.38%"
   },
   "nasdaq": {
-    "value": "25,253.00",
-    "change": "+2.74%"
+    "value": "25,065.88",
+    "change": "-0.74%"
   },
   "stocks": [
     {
       "ticker": "NVDA",
-      "company": "Nvidia",
-      "reason": "Board opened investigation into CEO Jensen Huang over foreign intelligence/espionage reports; Aletheia downgraded to Hold; stock fell ~4-6% while broader chip sector rallied",
+      "company": "Nvidia Corporation",
+      "reason": "Fell ~5-6% as board investigation into CEO Jensen Huang deepened; compounded by rate-hike fears from hot CPI data ahead of upcoming earnings",
       "category": "news",
       "sources": [
         "CNBC",
-        "Yahoo Finance",
         "TheStreet",
-        "247wallst"
+        "Bloomberg"
       ]
     },
     {
-      "ticker": "AMD",
-      "company": "Advanced Micro Devices",
-      "reason": "Oppenheimer upgraded to Outperform with $600 price target citing strong earnings call and fireside chat; stock surged ~13% recovering entire Nov 5 selloff",
-      "category": "upgrade",
-      "sources": [
-        "247wallst",
-        "Benzinga",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "COHR",
-      "company": "Coherent Corp",
-      "reason": "Q1 fiscal earnings beat: non-GAAP EPS $2.09 vs consensus; revenue +50% YoY to $2.37B; Q2 guidance of $2.55-2.75B above consensus; stock rose ~16-18%",
+      "ticker": "AAON",
+      "company": "AAON Inc.",
+      "reason": "Surged ~19% after reporting record Q3 sales of $707.4M and raising full-year 2026 revenue forecast",
       "category": "earnings",
       "sources": [
-        "Investing.com",
-        "StreetInsider",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "MPWR",
-      "company": "Monolithic Power Systems",
-      "reason": "Surged 16.67% on Monday as AI-driven chip demand rally lifted power management semiconductors; among top gainers in chip sector split session",
-      "category": "sector",
-      "sources": [
-        "247wallst",
+        "Business Upturn",
+        "Seeking Alpha",
         "TheStreet"
       ]
     },
     {
-      "ticker": "CEG",
-      "company": "Constellation Energy",
-      "reason": "Q3 earnings beat consensus; raised full-year EPS guidance to $11.50-$12.50/share; stock gained over 10% on strong nuclear/clean energy demand outlook",
+      "ticker": "HIMS",
+      "company": "Hims & Hers Health",
+      "reason": "Dropped ~17%, session's biggest decliner, after company slashed 2026 adjusted EBITDA guidance well below consensus",
       "category": "earnings",
       "sources": [
-        "TipRanks",
+        "Seeking Alpha",
         "TheStreet",
+        "Motley Fool"
+      ]
+    },
+    {
+      "ticker": "TTD",
+      "company": "The Trade Desk",
+      "reason": "Jumped ~19% in after-hours trading after Q3 results (reported Nov 9 AH) beat estimates across the board",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Seeking Alpha"
+      ]
+    },
+    {
+      "ticker": "META",
+      "company": "Meta Platforms",
+      "reason": "Rose 5%+ after JPMorgan added Meta to its Focus List, citing advertising revenue resilience",
+      "category": "upgrade",
+      "sources": [
+        "Motley Fool",
         "Yahoo Finance"
       ]
     },
     {
-      "ticker": "NET",
-      "company": "Cloudflare",
-      "reason": "Rose ~10% as investors rotated into broader AI infrastructure names amid Nvidia pullback; benefited from renewed interest in AI network/edge plays",
-      "category": "sector",
+      "ticker": "SE",
+      "company": "Sea Limited",
+      "reason": "Gained 8.1% on stronger-than-expected Q3 revenue, beating analyst estimates",
+      "category": "earnings",
+      "sources": [
+        "Motley Fool",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "SANM",
+      "company": "Sanmina Corporation",
+      "reason": "Jumped ~19% after fiscal Q4 results and fiscal 2027 guidance significantly exceeded analyst expectations",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Seeking Alpha"
+      ]
+    },
+    {
+      "ticker": "TTWO",
+      "company": "Take-Two Interactive",
+      "reason": "Rose after Q2 earnings beat; CEO noted GTA VI pre-orders running ahead of expectations despite ~15% revenue decline",
+      "category": "earnings",
       "sources": [
         "TheStreet",
         "CNBC"
       ]
     },
     {
-      "ticker": "SANM",
-      "company": "Sanmina",
-      "reason": "Surged 18-22% after hours on Q4 earnings: adjusted EPS $4.43 vs $3.27 expected; revenue $3.86B; full-year EPS guidance topped consensus",
-      "category": "earnings",
+      "ticker": "NET",
+      "company": "Cloudflare",
+      "reason": "Upgraded to Buy from Sell at DZ Bank with a $300 price target on improving revenue-growth outlook",
+      "category": "upgrade",
       "sources": [
-        "CNBC",
-        "Benzinga",
-        "Investing.com"
+        "24/7 Wall St.",
+        "Yahoo Finance",
+        "Daily Trade Alert"
       ]
     },
     {
-      "ticker": "RKLB",
-      "company": "Rocket Lab",
-      "reason": "Rose 10% during session ahead of Q3 earnings; fell ~3-5% after hours after reporting wider-than-expected loss of $0.12/share vs $0.07 expected; revenue $268M",
-      "category": "earnings",
+      "ticker": "DKNG",
+      "company": "DraftKings",
+      "reason": "Dual downgrade: Berenberg cut to Hold (target $20 from $27.50) and Wells Fargo cut to Equal Weight (target $21 from $30) on competitive pressures",
+      "category": "downgrade",
       "sources": [
-        "247wallst",
-        "Benzinga",
-        "Yahoo Finance"
+        "24/7 Wall St.",
+        "Yahoo Finance",
+        "Globe and Mail"
       ]
     },
     {
-      "ticker": "HIMS",
-      "company": "Hims & Hers Health",
-      "reason": "Dropped 10%+ during session ahead of Q3 earnings; fell additional ~10% after hours: revenue +49% YoY but missed EPS estimates and gross margins contracted sharply",
-      "category": "earnings",
-      "sources": [
-        "247wallst",
-        "CNBC",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "reason": "Rose ~5% as robo-taxi service expanded into additional cities, reinforcing autonomous vehicle growth narrative",
-      "category": "news",
+      "ticker": "GEV",
+      "company": "GE Vernova",
+      "reason": "Fell ~7% as one of the S&P 500's worst performers on November 10; rate-sensitive energy infrastructure stocks hit by hot CPI data",
+      "category": "sector",
       "sources": [
         "TheStreet",
         "Yahoo Finance"
       ]
     },
     {
-      "ticker": "DKNG",
-      "company": "DraftKings",
-      "reason": "Stifel downgraded to Hold from Buy; price target cut to $21 from $32 amid concerns about competitive pressure and growth deceleration",
-      "category": "downgrade",
+      "ticker": "LEN",
+      "company": "Lennar Corporation",
+      "reason": "Dropped ~4.4% as homebuilders were among the hardest-hit sectors after hot CPI raised odds of a December Fed rate hike, pushing mortgage rates higher",
+      "category": "sector",
       "sources": [
-        "247wallst",
-        "Benzinga",
-        "Daily Trade Alert"
+        "BNN Bloomberg",
+        "TheStreet"
       ]
     },
     {
-      "ticker": "TAP",
-      "company": "Molson Coors Beverage",
-      "reason": "JPMorgan downgraded to Underweight from Neutral with $37 target; also fell in after-hours session; weak sector outlook",
-      "category": "downgrade",
-      "sources": [
-        "247wallst",
-        "CNBC",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "PDD",
-      "company": "PDD Holdings",
-      "reason": "Morgan Stanley cut to Equal Weight from Overweight; price target slashed to $90 from $129; stock slipped ~3-4% in afternoon session",
-      "category": "downgrade",
-      "sources": [
-        "247wallst",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "ROL",
-      "company": "Rollins",
-      "reason": "Citigroup upgraded to Buy from Neutral; price target raised to $49 from $32 citing strong pest control demand fundamentals",
-      "category": "upgrade",
-      "sources": [
-        "247wallst",
-        "Benzinga"
-      ]
-    },
-    {
-      "ticker": "TTWO",
-      "company": "Take-Two Interactive",
-      "reason": "Reporting Q2 earnings after close just 10 days before GTA VI scheduled launch; stock in focus as investors await guidance on blockbuster title release",
+      "ticker": "CRWV",
+      "company": "CoreWeave",
+      "reason": "After-hours mover: Q3 revenue of $3.66B beat guidance range; company raised full-year 2026 revenue outlook, shares volatile in extended trading",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "247wallst"
+        "Earnings Whispers",
+        "TipRanks"
+      ]
+    },
+    {
+      "ticker": "RIOT",
+      "company": "Riot Platforms",
+      "reason": "Upgraded to Buy from Hold at Jefferies; price target raised sharply to $28 from $13 on improved Bitcoin mining economics and hashrate expansion",
+      "category": "upgrade",
+      "sources": [
+        "Benzinga",
+        "24/7 Wall St.",
+        "Seeking Alpha"
       ]
     }
   ]
