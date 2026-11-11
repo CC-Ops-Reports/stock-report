@@ -1,165 +1,177 @@
 {
-  "report_date": "2026-11-10",
-  "market_tone": "Bearish",
+  "report_date": "2026-11-11",
+  "market_tone": "Bullish",
   "key_themes": [
-    "Hot October CPI (core +0.3% vs +0.2% est) reignites Fed rate-hike fears, 10-yr yield near 5%",
-    "Earnings season: AAON surges 19% on record sales; Hims & Hers tumbles 17% on EBITDA guide cut",
-    "Nvidia CEO Jensen Huang under board investigation drags AI/chip stocks lower"
+    "AI infrastructure rally led by CoreWeave earnings beat",
+    "Semiconductor and memory stock surge (Micron, Sandisk, Nvidia rebound)",
+    "Photonics stocks soar on AI connectivity demand (Coherent, Lumentum)"
   ],
   "sp500": {
-    "value": "7,520.93",
-    "change": "-0.38%"
+    "value": "7,619.38",
+    "change": "+1.31%"
   },
   "nasdaq": {
-    "value": "25,065.88",
-    "change": "-0.74%"
+    "value": "25,466.19",
+    "change": "+1.60%"
   },
   "stocks": [
     {
+      "ticker": "CRWV",
+      "company": "CoreWeave",
+      "reason": "Surged 20%+ after Q3 earnings beat \u2014 lost less than feared ($1.27/share) on $3.66B revenue, and raised full-year revenue outlook",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "TheStreet",
+        "Yahoo Finance",
+        "Investing.com"
+      ]
+    },
+    {
       "ticker": "NVDA",
-      "company": "Nvidia Corporation",
-      "reason": "Fell ~5-6% as board investigation into CEO Jensen Huang deepened; compounded by rate-hike fears from hot CPI data ahead of upcoming earnings",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "TheStreet",
-        "Bloomberg"
-      ]
-    },
-    {
-      "ticker": "AAON",
-      "company": "AAON Inc.",
-      "reason": "Surged ~19% after reporting record Q3 sales of $707.4M and raising full-year 2026 revenue forecast",
-      "category": "earnings",
-      "sources": [
-        "Business Upturn",
-        "Seeking Alpha",
-        "TheStreet"
-      ]
-    },
-    {
-      "ticker": "HIMS",
-      "company": "Hims & Hers Health",
-      "reason": "Dropped ~17%, session's biggest decliner, after company slashed 2026 adjusted EBITDA guidance well below consensus",
-      "category": "earnings",
-      "sources": [
-        "Seeking Alpha",
-        "TheStreet",
-        "Motley Fool"
-      ]
-    },
-    {
-      "ticker": "TTD",
-      "company": "The Trade Desk",
-      "reason": "Jumped ~19% in after-hours trading after Q3 results (reported Nov 9 AH) beat estimates across the board",
+      "company": "Nvidia",
+      "reason": "Rose ~2.87% as CoreWeave results reignited AI trade; separately downgraded by Baird to Neutral with price target slashed to $200 from $500",
       "category": "earnings",
       "sources": [
         "CNBC",
+        "Yahoo Finance",
+        "247WallSt",
         "Seeking Alpha"
       ]
     },
     {
-      "ticker": "META",
-      "company": "Meta Platforms",
-      "reason": "Rose 5%+ after JPMorgan added Meta to its Focus List, citing advertising revenue resilience",
-      "category": "upgrade",
+      "ticker": "SNDK",
+      "company": "Sandisk",
+      "reason": "Jumped ~16%, S&P 500 top gainer, riding memory sector rally sparked by AI chip demand",
+      "category": "sector",
       "sources": [
-        "Motley Fool",
-        "Yahoo Finance"
+        "CNBC",
+        "ChartMill",
+        "Seeking Alpha"
       ]
     },
     {
-      "ticker": "SE",
-      "company": "Sea Limited",
-      "reason": "Gained 8.1% on stronger-than-expected Q3 revenue, beating analyst estimates",
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "reason": "Gained ~13% as memory stocks surged in sympathy with Sandisk and broader AI semiconductor rally",
+      "category": "sector",
+      "sources": [
+        "Investing.com",
+        "Motley Fool",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "COHR",
+      "company": "Coherent Corp",
+      "reason": "Soared ~12% on AI data-center photonics demand thesis following CoreWeave earnings beat",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "StockTitan"
+      ]
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum Holdings",
+      "reason": "Jumped ~14% in photonics rally alongside Coherent as AI infrastructure spending outlook improved",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "StockTitan"
+      ]
+    },
+    {
+      "ticker": "GLW",
+      "company": "Corning",
+      "reason": "Rose 10%+ after Jefferies initiated coverage with Buy rating today; also featured in CNBC biggest movers list",
+      "category": "upgrade",
+      "sources": [
+        "CNBC",
+        "247WallSt",
+        "Investing.com"
+      ]
+    },
+    {
+      "ticker": "FOSL",
+      "company": "Fossil Group",
+      "reason": "Jumped ~27% premarket and held gains after Q3 surprise profit and raised FY2026 revenue guidance",
       "category": "earnings",
       "sources": [
-        "Motley Fool",
-        "Yahoo Finance"
+        "Benzinga",
+        "Investing.com",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "BE",
+      "company": "Bloom Energy",
+      "reason": "Rose ~16.1%, leading S&P 500 gainers on the day tied to energy/AI power infrastructure demand",
+      "category": "news",
+      "sources": [
+        "ChartMill",
+        "StockTitan"
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "reason": "Hit new all-time record high; upgraded to Buy by China Renaissance with $425 price target today",
+      "category": "upgrade",
+      "sources": [
+        "TheStreet",
+        "247WallSt",
+        "Globe and Mail"
       ]
     },
     {
       "ticker": "SANM",
       "company": "Sanmina Corporation",
-      "reason": "Jumped ~19% after fiscal Q4 results and fiscal 2027 guidance significantly exceeded analyst expectations",
+      "reason": "Surged ~19% after hours (Nov 10) after electronic manufacturing services provider issued guidance well above Street estimates",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "Seeking Alpha"
+        "Investing.com"
       ]
     },
     {
       "ticker": "TTWO",
       "company": "Take-Two Interactive",
-      "reason": "Rose after Q2 earnings beat; CEO noted GTA VI pre-orders running ahead of expectations despite ~15% revenue decline",
-      "category": "earnings",
-      "sources": [
-        "TheStreet",
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "NET",
-      "company": "Cloudflare",
-      "reason": "Upgraded to Buy from Sell at DZ Bank with a $300 price target on improving revenue-growth outlook",
-      "category": "upgrade",
-      "sources": [
-        "24/7 Wall St.",
-        "Yahoo Finance",
-        "Daily Trade Alert"
-      ]
-    },
-    {
-      "ticker": "DKNG",
-      "company": "DraftKings",
-      "reason": "Dual downgrade: Berenberg cut to Hold (target $20 from $27.50) and Wells Fargo cut to Equal Weight (target $21 from $30) on competitive pressures",
-      "category": "downgrade",
-      "sources": [
-        "24/7 Wall St.",
-        "Yahoo Finance",
-        "Globe and Mail"
-      ]
-    },
-    {
-      "ticker": "GEV",
-      "company": "GE Vernova",
-      "reason": "Fell ~7% as one of the S&P 500's worst performers on November 10; rate-sensitive energy infrastructure stocks hit by hot CPI data",
-      "category": "sector",
-      "sources": [
-        "TheStreet",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "LEN",
-      "company": "Lennar Corporation",
-      "reason": "Dropped ~4.4% as homebuilders were among the hardest-hit sectors after hot CPI raised odds of a December Fed rate hike, pushing mortgage rates higher",
-      "category": "sector",
-      "sources": [
-        "BNN Bloomberg",
-        "TheStreet"
-      ]
-    },
-    {
-      "ticker": "CRWV",
-      "company": "CoreWeave",
-      "reason": "After-hours mover: Q3 revenue of $3.66B beat guidance range; company raised full-year 2026 revenue outlook, shares volatile in extended trading",
+      "reason": "Gained ~4% after hours (Nov 10) after fiscal Q2 earnings and revenue beat analyst expectations",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "Earnings Whispers",
-        "TipRanks"
+        "Investing.com"
       ]
     },
     {
-      "ticker": "RIOT",
-      "company": "Riot Platforms",
-      "reason": "Upgraded to Buy from Hold at Jefferies; price target raised sharply to $28 from $13 on improved Bitcoin mining economics and hashrate expansion",
-      "category": "upgrade",
+      "ticker": "STLD",
+      "company": "Steel Dynamics",
+      "reason": "Rose ~4% after hours (Nov 10) after announcing additional $3 billion share repurchase authorization",
+      "category": "news",
       "sources": [
-        "Benzinga",
-        "24/7 Wall St.",
-        "Seeking Alpha"
+        "CNBC",
+        "Investing.com"
+      ]
+    },
+    {
+      "ticker": "GEVO",
+      "company": "Gevo",
+      "reason": "Surged ~31% after reporting record quarterly revenue in Q3 results released today",
+      "category": "earnings",
+      "sources": [
+        "StockTitan",
+        "StockMarketWatch"
+      ]
+    },
+    {
+      "ticker": "INVZ",
+      "company": "Innoviz Technologies",
+      "reason": "Fell ~27% after Q3 revenue miss and weak forward guidance disappointed investors",
+      "category": "earnings",
+      "sources": [
+        "StockTitan",
+        "Yahoo Finance"
       ]
     }
   ]
