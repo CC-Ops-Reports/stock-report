@@ -1,98 +1,121 @@
 {
-  "report_date": "2026-11-10",
+  "report_date": "2026-11-11",
   "batch": 3,
   "stocks": [
     {
-      "ticker": "GEV",
-      "company": "GE Vernova Inc.",
-      "discussion_driver": "GEV fell ~7% on November 10 as one of the S&P 500's worst performers after October CPI printed hotter than expected, reigniting Fed rate-hike fears that hammered rate-sensitive energy infrastructure names. The stock is now ~35% below its July 2026 all-time high of $1,195.94 despite a strong power-grid modernization thesis driven by AI data center demand. Investors will watch whether the multi-year backlog and sold-out gas turbine capacity through 2030 can sustain earnings even if rates stay elevated.",
+      "ticker": "SANM",
+      "company": "Sanmina Corporation",
+      "discussion_driver": "Sanmina surged ~19% in after-hours trading on Nov 10 after reporting FY2026 results showing revenue up 79% to $14.5B on ZT Systems integration, with FY2027 guidance of $17.5–19.5B well above Street estimates. JPMorgan lowered its target to $230 (Neutral) while BofA raised to $280 (Buy), reflecting divergent views on sustainability of AI infrastructure buildout.",
       "bull_case": [
-        "Massive AI-driven power demand is structural: data-center electrification orders hit $2.4B in Q1 2026 alone (more than all of 2025 combined) and gas turbine capacity is effectively sold out through 2030, underpinning multi-year revenue visibility",
-        "Strong free cash flow (~24% FCF margin on $39B+ TTM revenue) and rising profitability as the offshore Wind segment losses stabilize, with Wall Street consensus target of $1,144 implying ~49% upside from current levels"
+        "ZT Systems integration delivers transformative scale, with FY2026 non-GAAP EPS surging over 100% to $13.28 and free cash flow of $541M supporting $393M in buybacks",
+        "AI and cloud infrastructure spending remains robust, with management projecting ~27% revenue growth and ~24% EPS growth in FY2027 as hyperscaler demand continues"
       ],
       "bear_case": [
-        "Wind segment continues to drag on results with ongoing losses, warranty charges, and offshore project delays that could limit overall margin expansion",
-        "Stock carries a demanding valuation and high beta (1.58), leaving it highly sensitive to any Fed rate surprise, AI spending deceleration, or order slowdown after a 100%+ run from its IPO price"
+        "Stock is down ~46% from its 52-week high of $288.68, suggesting the market already priced in peak AI EMS demand and execution risk remains on ZT Systems integration",
+        "JPMorgan downgraded to Neutral and cut price target to $230, noting variability in legacy general-purpose compute programs and $84M in one-time acquisition charges weighing on GAAP results"
       ],
       "recommendation": "Hold",
-      "current_price": "$768.65",
-      "price_target": "$1,144.20 (+48.9%)",
-      "pe_ratio": "21.77",
+      "current_price": "$155.43",
+      "price_target": "$250.00 (+60.8%)",
+      "pe_ratio": "27.81",
       "rsi": "N/A",
-      "vs_52wk_high": "-35.7% below high ($1,195.94)",
-      "analyst_rating": "Moderate Buy",
-      "sector": "Energy / Industrials - Power Generation & Grid Infrastructure",
-      "sources": ["MarketBeat", "Yahoo Finance", "Trefis", "TIKR", "Walnut Invest", "Fox Business"],
-      "price_history_5d": [832.83, 770.51, 770.80, 829.34, 768.65]
+      "vs_52wk_high": "-46.1% below high ($288.68)",
+      "analyst_rating": "Hold",
+      "sector": "Technology - Electronic Manufacturing Services",
+      "sources": ["Yahoo Finance", "CNBC", "Investing.com", "Panabee", "MarketBeat", "JPMorgan", "BofA"],
+      "price_history_5d": [143.77, 130.23, 134.68, 149.64, 155.43]
     },
     {
-      "ticker": "LEN",
-      "company": "Lennar Corporation",
-      "discussion_driver": "Lennar dropped ~4.4% on November 10 as one of the hardest-hit homebuilder stocks after October CPI came in hotter than expected (+0.3% core vs. +0.2% est.), raising odds of a December Fed rate hike and pushing mortgage rates higher. With management already flagging that rate buydown incentives are essential to maintain affordability and Q3 guidance well below consensus, the macro backdrop heading into the spring selling season looks increasingly challenging. Analyst consensus is a rare Sell, with an average target of $78.87 implying further downside.",
+      "ticker": "TTWO",
+      "company": "Take-Two Interactive Software",
+      "discussion_driver": "Take-Two gained ~4% after hours on Nov 10 after fiscal Q2 2027 earnings beat on EPS, though net bookings of $1.6B came in below its own guidance. The imminent GTA VI launch on November 19, 2026 is the dominant catalyst, with the title expected to be one of the largest entertainment releases in history. Multiple analysts reiterated Buy ratings following results.",
       "bull_case": [
-        "Lennar's operational scale and steady delivery cadence (20,840 homes in Q3 2026) provide resilience, with a backlog of 16,818 homes offering near-term revenue visibility",
-        "Valuation is historically cheap at ~0.64x sales vs. 3.2x for the S&P 500, and any unexpected rate moderation or Fed pivot could sharply rerate homebuilder stocks higher"
+        "GTA VI launches November 19, 2026 — widely expected to generate billions in revenue and reignite the franchise cycle, with 22 of 25 analysts rated Buy and a consensus target of ~$284",
+        "Fiscal Q2 results demonstrated solid underlying engagement trends, and the pipeline beyond GTA VI includes multiple major title releases through 2028"
       ],
       "bear_case": [
-        "Hot CPI reignites rate-hike fears, pushing mortgage rates higher and directly eroding the affordability that Lennar's rate buydown incentives are designed to bridge - a losing battle if the Fed hikes in December",
-        "Q3 2026 earnings missed with weak Q4 guidance ($1.30-$1.65 EPS vs. $1.86 consensus) and management explicitly said near-term Fed rate cuts are 'off the table for practical purposes'"
+        "Net bookings for Q2 came in below the company's own guidance, raising execution concerns ahead of the pivotal GTA VI launch that the stock has been pricing in for years",
+        "Stock is not profitable on a trailing basis (P/E N/A) and carries a significant cost structure; GTA VI must deliver outsized sales to justify the current ~$224 price vs. the 52-week high of $265.65"
+      ],
+      "recommendation": "Buy",
+      "current_price": "$231.31",
+      "price_target": "$284.00 (+22.8%)",
+      "pe_ratio": "N/A",
+      "rsi": "N/A",
+      "vs_52wk_high": "-12.9% below high ($265.65)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Entertainment - Video Games",
+      "sources": ["CNBC", "Investing.com", "MarketBeat", "TD Cowen", "BTIG", "Yahoo Finance", "Gotrade"],
+      "price_history_5d": [213.36, 214.87, 207.40, 224.64, 231.31]
+    },
+    {
+      "ticker": "STLD",
+      "company": "Steel Dynamics",
+      "discussion_driver": "Steel Dynamics rose ~4% after hours on Nov 10 after announcing a new $3 billion share repurchase authorization, underscoring management's confidence in the balance sheet despite steel sector headwinds. The stock had lagged the broader market by ~15% over three months due to steel pricing pressure, making the buyback signal meaningful. Analyst consensus remains Moderate Buy.",
+      "bull_case": [
+        "$3B buyback authorization signals strong free cash flow generation and management confidence at current levels; balance sheet flexibility supports both capital return and growth investment",
+        "Long-term beneficiary of U.S. infrastructure spending and reshoring trends; Steel Dynamics' electric arc furnace model carries lower costs and emissions than integrated peers"
+      ],
+      "bear_case": [
+        "Steel sector faces overcapacity and global pricing pressure; the stock has underperformed the market by ~15.4% over three months, and near-term earnings visibility is constrained by commodity cycles",
+        "Stock is ~17% below its 52-week high with no clear near-term catalyst beyond the buyback; macro slowdown risk could weigh on demand from construction and auto sectors"
+      ],
+      "recommendation": "Buy",
+      "current_price": "$238.99",
+      "price_target": "$275.17 (+15.1%)",
+      "pe_ratio": "16.45",
+      "rsi": "N/A",
+      "vs_52wk_high": "-17.2% below high ($288.74)",
+      "analyst_rating": "Moderate Buy",
+      "sector": "Materials - Steel",
+      "sources": ["CNBC", "Investing.com", "MarketBeat", "GuruFocus", "StockAnalysis", "Stockanalysis.com"],
+      "price_history_5d": [221.90, 224.51, 227.56, 236.12, 238.99]
+    },
+    {
+      "ticker": "GEVO",
+      "company": "Gevo Inc.",
+      "discussion_driver": "Gevo surged ~31% on Nov 11 after reporting record Q3 quarterly revenue and an earnings beat ($0.12/share vs. $0.03 estimate) on $82.95M in revenue. H.C. Wainwright reaffirmed its Buy rating and $14 price target the same day, citing Gevo's sustainable aviation fuel (SAF) technology and growing demand for low-carbon fuels in aviation. The company remains pre-commercial scale but showed strong progress.",
+      "bull_case": [
+        "Record Q3 revenue with an EPS beat of $0.12 vs. $0.03 expected demonstrates accelerating progress toward commercial-scale SAF production amid growing regulatory mandates for sustainable aviation fuel",
+        "H.C. Wainwright reaffirmed Buy and $14 price target on the same day as earnings; SAF demand is structurally growing as airlines face decarbonization targets globally"
+      ],
+      "bear_case": [
+        "Stock remains 39% below its 52-week high even after today's surge, reflecting persistent concerns about the long path to profitability and capital needs for full-scale SAF facilities",
+        "Pre-revenue at meaningful scale; EPS has been deeply negative on a trailing basis (-$0.89 TTM), and the SAF industry faces technology risk, feedstock costs, and execution timelines"
+      ],
+      "recommendation": "Speculative Buy",
+      "current_price": "$1.80",
+      "price_target": "$5.05 (+180.6%)",
+      "pe_ratio": "N/A",
+      "rsi": "N/A",
+      "vs_52wk_high": "-39.4% below high ($2.97)",
+      "analyst_rating": "Buy",
+      "sector": "Energy - Sustainable Aviation Fuel / Clean Energy",
+      "sources": ["Investing.com", "H.C. Wainwright", "StockTitan", "StockMarketWatch", "MarketBeat", "Yahoo Finance", "StockInvest.us"],
+      "price_history_5d": [1.22, 1.39, 1.47, 1.80]
+    },
+    {
+      "ticker": "INVZ",
+      "company": "Innoviz Technologies",
+      "discussion_driver": "Innoviz Technologies fell ~27% on Nov 11 after Q3 2026 results showed a severe revenue miss ($12.1M actual vs. $21.33M estimated) and a sharply reduced FY2026 guidance of $44–46M vs. the $70.23M consensus. The company announced a ~20% workforce reduction and is pivoting toward defense and homeland security markets, which currently represent only ~10% of revenue. The stock is now trading near multi-year lows around $0.18.",
+      "bull_case": [
+        "Defense pivot adds a new, potentially high-margin revenue stream; management expects defense/homeland security to grow from ~10% to 20–30% of revenue in 2027",
+        "GF Value analysis suggests 888% upside, indicating the stock may be deeply undervalued if the company can stabilize and grow its LiDAR customer base"
+      ],
+      "bear_case": [
+        "Catastrophic guidance cut — FY2026 revenue now expected at $44–46M vs. $70.23M consensus — signals fundamental customer or demand shortfall with limited management visibility",
+        "Stock trades at $0.18, down ~89.8% from its 52-week high of $1.76, reflecting severe deterioration in the automotive LiDAR market; workforce cuts add execution risk during transition"
       ],
       "recommendation": "Sell",
-      "current_price": "$87.55",
-      "price_target": "$78.87 (-9.9%)",
-      "pe_ratio": "17.13",
-      "rsi": "N/A",
-      "vs_52wk_high": "-34.5% below high ($133.76)",
-      "analyst_rating": "Sell",
-      "sector": "Consumer Discretionary - Homebuilders",
-      "sources": ["MarketBeat", "Yahoo Finance", "Trefis", "StockInvest.us", "StockTwits", "BNN Bloomberg", "TheStreet"],
-      "price_history_5d": [92.19, 91.59, 88.74, 91.58, 87.55]
-    },
-    {
-      "ticker": "CRWV",
-      "company": "CoreWeave Inc.",
-      "discussion_driver": "CoreWeave reported Q3 2026 results after the bell on November 10 with revenue of $3.66B beating guidance and a raised full-year 2026 revenue outlook, sending shares volatile in extended trading. The stock has been in a severe downtrend since its May 2026 high of $138.25 and is now down over 65% from that peak, trading around $47. The earnings beat provides a potential catalyst for recovery but the company still faces concerns about its massive capital requirements and concentrated dependence on Nvidia GPU supply.",
-      "bull_case": [
-        "Q3 2026 revenue of $3.66B beat the guidance range and the full-year 2026 outlook raise signals that hyperscaler-level demand for GPU cloud computing is accelerating, with consensus analyst target of $131+ implying ~179% upside",
-        "CoreWeave occupies a unique position as the dominant dedicated GPU cloud provider, giving it pricing power with AI labs and enterprises that cannot access sufficient capacity from general-purpose hyperscalers"
-      ],
-      "bear_case": [
-        "The stock is down 66% from its May 2026 high, reflecting persistent concerns about extreme capital intensity requiring continuous debt financing, Nvidia GPU supply dependency, and the risk that hyperscalers (AWS, Azure, Google) build competing capacity",
-        "HSBC maintains a Reduce rating with a $39 price target below current levels, arguing intrinsic value is limited by customer concentration risk and deteriorating unit economics as competition intensifies"
-      ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$47.04",
-      "price_target": "$131.53 (+179.6%)",
+      "current_price": "$0.18",
+      "price_target": "$0.50 (+177.8%)",
       "pe_ratio": "N/A",
       "rsi": "N/A",
-      "vs_52wk_high": "-66.0% below high ($138.25)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Cloud Infrastructure / AI GPU Computing",
-      "sources": ["Benzinga", "StockAnalysis", "Investing.com", "Yahoo Finance", "CNBC", "Earnings Whispers", "TipRanks", "Morningstar"],
-      "price_history_5d": [48.42, 43.66, 46.40, 48.98, 47.04]
-    },
-    {
-      "ticker": "RIOT",
-      "company": "Riot Platforms Inc.",
-      "discussion_driver": "Riot Platforms received dual bullish analyst actions on November 10: Jefferies upgraded to Buy with a $28 target citing improved Bitcoin mining economics and aggressive hashrate expansion, while JPMorgan raised its price target to $28 (maintaining Overweight) on the company's growing AI data center business. The stock had recovered from lows near $11.50 but remains ~41% below its June 2026 high of $30.32. The upgrades highlight Wall Street's belief that RIOT's pivot toward AI data center leasing diversifies the business beyond volatile Bitcoin mining.",
-      "bull_case": [
-        "Jefferies and JPMorgan upgrades on the same day signal growing analyst confidence in RIOT's AI data center strategy, with its largest-ever AI data center lease signed recently demonstrating a credible diversification away from pure Bitcoin mining volatility",
-        "Improved Bitcoin mining economics (higher prices, expanding hashrate) combined with the AI infrastructure buildout creates a dual-revenue model; 21 of 22 analysts rate it Buy/Strong Buy with a median target of $28.25 implying 58% upside"
-      ],
-      "bear_case": [
-        "Bitcoin price volatility creates extreme earnings uncertainty - GAAP earnings remain negative despite adjusted profitability, and any significant Bitcoin price correction would sharply impair mining revenues and the investment thesis",
-        "Rising energy costs, Antminer hardware depreciation, and increasing global mining competition continuously pressure margins; the company requires ongoing capital raises that dilute shareholders"
-      ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$17.83",
-      "price_target": "$28.25 (+58.4%)",
-      "pe_ratio": "N/A",
-      "rsi": "N/A",
-      "vs_52wk_high": "-41.2% below high ($30.32)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Bitcoin Mining / Crypto Infrastructure",
-      "sources": ["Benzinga", "24/7 Wall St.", "Seeking Alpha", "ClearRank", "Guru Focus", "Fox Business", "Morningstar", "JPMorgan via Investing.com"],
-      "price_history_5d": [15.37, 12.81, 14.76, 17.66, 17.83]
+      "vs_52wk_high": "-89.8% below high ($1.76)",
+      "analyst_rating": "Hold",
+      "sector": "Technology - LiDAR / Autonomous Vehicles",
+      "sources": ["StockTitan", "Yahoo Finance", "Investing.com", "MarketBeat", "GuruFocus", "TradingKey", "DailyPolitical"],
+      "price_history_5d": [0.197, 0.210, 0.224, 0.221, 0.18]
     }
   ]
 }
