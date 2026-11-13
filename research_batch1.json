@@ -1,135 +1,129 @@
 {
-  "report_date": "2026-11-11",
+  "report_date": "2026-11-12",
   "batch": 1,
-  "market_tone": "Bullish",
+  "market_tone": "Bearish",
   "key_themes": [
-    "AI infrastructure rally led by CoreWeave earnings beat",
-    "Semiconductor and memory stock surge (Micron, Sandisk, Nvidia rebound)",
-    "Photonics stocks soar on AI connectivity demand (Coherent, Lumentum)"
+    "NVIDIA CEO Jensen Huang resigned effective immediately amid personal scandal (alleged affair with Chinese spy), triggering broad AI/neocloud selloff",
+    "AI infrastructure earnings surge: Cisco and Applied Materials both post record quarterly revenues driven by AI demand",
+    "Rising Treasury yields hit 5.10%, fueling inflation fears and broad market pressure"
   ],
-  "sp500": {
-    "value": "7,619.38",
-    "change": "+1.31%"
-  },
-  "nasdaq": {
-    "value": "25,466.19",
-    "change": "+1.60%"
-  },
+  "sp500": {"value": "7,592", "change": "-0.35%"},
+  "nasdaq": {"value": "25,366", "change": "-0.39%"},
   "stocks": [
-    {
-      "ticker": "CRWV",
-      "company": "CoreWeave, Inc.",
-      "discussion_driver": "CoreWeave surged ~25% after Q3 earnings beat — the company lost only $1.27/share on $3.66B revenue (better than feared) and raised its full-year revenue outlook. As a major AI infrastructure provider and NVIDIA's largest cloud customer, the strong results reignited the broader AI trade across the market.",
-      "bull_case": [
-        "AI infrastructure demand is accelerating with no signs of slowdown, and CoreWeave is uniquely positioned as a pure-play cloud provider for GPU-intensive workloads",
-        "Revenue beat and raised full-year guidance demonstrate strong execution and growing hyperscaler customer commitments"
-      ],
-      "bear_case": [
-        "Company remains deeply unprofitable with high capital expenditure requirements to build and maintain AI data center infrastructure",
-        "Stock was recently downgraded by Stifel (target cut to $60 from $120, Hold) reflecting concerns about valuation and profitability timeline"
-      ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$60.77",
-      "price_target": "$118.69 (+95.3%)",
-      "pe_ratio": "N/A",
-      "rsi": "N/A",
-      "vs_52wk_high": "-56.0% below high ($138.25)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Cloud Computing/AI Infrastructure",
-      "sources": ["Yahoo Finance", "MarketBeat", "StockAnalysis", "Benzinga", "Investing.com", "Motley Fool"],
-      "price_history_5d": [43.66, 48.98, 48.73, 60.77]
-    },
     {
       "ticker": "NVDA",
       "company": "NVIDIA Corporation",
-      "discussion_driver": "Nvidia rebounded 2.87% on November 11 as CoreWeave's strong Q3 results reignited the AI trade narrative and validated ongoing GPU demand. The stock had been under pressure after Baird downgraded it to Neutral with a price target slashed from $500 to $200. Q3 earnings on November 17 will be the next major catalyst.",
+      "discussion_driver": "CEO Jensen Huang resigned effective immediately amid personal scandal including an alleged affair with a reported Chinese intelligence asset. CFO Colette Kress was named Interim CEO while the board conducts a search for a permanent replacement. Multiple analysts issued downgrades including Bernstein, Oppenheimer, and Evercore ISI, triggering a broad AI sector selloff.",
       "bull_case": [
-        "Blackwell GPU architecture is ramping strongly and AI data center demand from hyperscalers remains extremely robust, as evidenced by CoreWeave's raised guidance",
-        "Trading at ~22x trailing earnings — cheap for a dominant platform company with AI-driven secular growth tailwinds"
+        "Dominant AI chip market share with 85%+ datacenter GPU market; H200 and Blackwell GPU demand pipeline remains robust despite leadership change",
+        "AI infrastructure spending supercycle continues with $500B+ projected datacenter capex; NVIDIA's CUDA moat protects revenue even during transition"
       ],
       "bear_case": [
-        "Baird downgrade to Neutral (PT cut from $500 to $200) reflects growing concerns about whether hyperscaler AI capex spending is sustainable at current levels",
-        "Stock is down ~28.6% from 52-week high, suggesting market skepticism is building ahead of the November 17 earnings report"
+        "Abrupt CEO resignation with no seasoned internal successor creates deep leadership uncertainty at a critical competitive juncture",
+        "Alleged Chinese intelligence connection could trigger regulatory scrutiny, government contract losses, and enterprise customer attrition"
       ],
-      "recommendation": "Buy",
-      "current_price": "$173.73",
-      "price_target": "$340.15 (+95.8%)",
-      "pe_ratio": "21.96",
+      "recommendation": "Hold",
+      "current_price": "$166.19",
+      "price_target": "$287.01 (+72.7%)",
+      "pe_ratio": "21.1",
       "rsi": "N/A",
-      "vs_52wk_high": "-28.6% below high ($243.37)",
-      "analyst_rating": "Strong Buy",
+      "vs_52wk_high": "-31.7% below high ($243.37)",
+      "analyst_rating": "Moderate Buy",
       "sector": "Technology - Semiconductors",
-      "sources": ["Yahoo Finance", "MarketBeat", "Benzinga", "Chartmill", "Investing.com", "Motley Fool"],
-      "price_history_5d": [181.60, 186.64, 178.67, 168.89, 173.73]
+      "sources": ["StockTitan", "CNBC", "Morningstar", "MarketBeat", "Benzinga"],
+      "price_history_5d": [186.64, 178.67, 168.89, 173.73, 166.19]
     },
     {
-      "ticker": "SNDK",
-      "company": "SanDisk Corporation",
-      "discussion_driver": "SanDisk jumped ~16.5% to close above $1,000 on November 11, riding the AI-driven memory sector rally ignited by CoreWeave's earnings beat. The company also recently announced an 8-for-1 stock split effective November 20, 2026, further boosting investor sentiment. Memory stocks surged broadly on the thesis that AI chip demand will drive sustained NAND flash consumption.",
+      "ticker": "CRWV",
+      "company": "CoreWeave",
+      "discussion_driver": "CoreWeave surged 25% on strong Q3 earnings beat and 2026 revenue guidance raise to $13.3B, declaring it is sold out through 2027. The rally sharply reversed when NVIDIA CEO Jensen Huang resigned, as CRWV is heavily dependent on NVDA GPUs for its AI cloud infrastructure, raising fears about supply chain disruption.",
       "bull_case": [
-        "AI-driven demand for NAND flash memory and high-bandwidth storage is a multi-year structural tailwind with no near-term supply glut",
-        "8-for-1 stock split on November 20 increases retail accessibility; stock trades at a low 7.1x trailing P/E with a $2,056 analyst consensus target"
+        "Record Q3 earnings beat with 2026 guidance raised to $13.3B; fully booked AI cloud capacity through 2027 provides strong revenue visibility",
+        "Largest independent AI-focused cloud platform with long-term hyperscaler contracts reducing customer concentration risk"
       ],
       "bear_case": [
-        "Stock remains 57.5% below its 52-week high of $2,354, suggesting the market sees significant headwinds or prior rally was overdone",
-        "Memory markets are inherently cyclical; rapid NAND pricing deterioration has historically punished storage stocks when demand softens"
+        "Critical dependency on NVIDIA GPU supply means NVDA leadership upheaval poses direct supply chain and pricing uncertainty risk",
+        "Stock still down 59% from 52-week high; high financial leverage combined with NVDA concentration risk could trigger further institutional selling"
       ],
-      "recommendation": "Buy",
-      "current_price": "$1,001.66",
-      "price_target": "$2,056.23 (+105.3%)",
-      "pe_ratio": "7.10",
+      "recommendation": "Speculative Buy",
+      "current_price": "$56.45",
+      "price_target": "$129.51 (+129.4%)",
+      "pe_ratio": "N/A",
       "rsi": "N/A",
-      "vs_52wk_high": "-57.5% below high ($2,354.39)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Technology - Data Storage/Memory",
-      "sources": ["GuruFocus", "StockAnalysis", "MarketBeat", "Investing.com", "LeverageShares"],
-      "price_history_5d": [806.43, 835.06, 886.51, 859.99, 1001.66]
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron Technology, Inc.",
-      "discussion_driver": "Micron surged ~13.6% on November 11, rallying in sympathy with SanDisk and the broader AI memory sector following CoreWeave's earnings beat. The stock had been in a steep correction (down ~34% from 52-week highs), but analyst consensus remains strongly bullish with a $1,562 average price target, underpinned by high-bandwidth memory demand for AI training.",
-      "bull_case": [
-        "High-bandwidth memory (HBM) demand for AI model training is a multi-year growth driver and Micron is one of only three HBM suppliers globally",
-        "Stock trades at approximately 10.9x trailing earnings with overwhelming analyst support (45 Buy/Strong Buy ratings) and $1,562 average price target implying 90% upside"
-      ],
-      "bear_case": [
-        "DRAM and NAND markets are historically cyclical; any slowdown in AI capex or memory oversupply could quickly erode pricing and margins",
-        "RSI was 35.82 (near oversold) before the Nov 11 bounce, reflecting persistent negative momentum with stock still 34.3% below 52-week high"
-      ],
-      "recommendation": "Buy",
-      "current_price": "$823.86",
-      "price_target": "$1,562.00 (+89.6%)",
-      "pe_ratio": "10.90",
-      "rsi": "35.82",
-      "vs_52wk_high": "-34.3% below high ($1,254.61)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Technology - Semiconductors/Memory",
-      "sources": ["GuruFocus", "Heygotrade", "StockAnalysis", "247WallSt", "Investing.com", "Motley Fool"],
-      "price_history_5d": [656.39, 690.00, 733.15, 725.11, 823.86]
-    },
-    {
-      "ticker": "COHR",
-      "company": "Coherent Corp.",
-      "discussion_driver": "Coherent jumped ~9.2% on November 11 as the AI data-center photonics demand thesis was validated by CoreWeave's earnings beat and raised guidance. The company had reported fiscal Q1 results the week prior and guided for 60%+ revenue growth with its first $4B quarterly revenue by FY2028. After a sharp post-earnings selloff, the stock is now recovering strongly.",
-      "bull_case": [
-        "AI data center optical interconnects and transceivers are a structural multi-year growth market, and Coherent is a leading supplier to hyperscalers",
-        "Company guided for 60%+ revenue growth through FY2028 with its first $4B quarter, and Citigroup raised its price target to $440 on November 6"
-      ],
-      "bear_case": [
-        "Stock trades at 34.8x trailing P/E and remains 46.7% below its 52-week high of $440, with Morgan Stanley maintaining Equal Weight at a reduced $325 target",
-        "Multiple analyst firms have recently trimmed price targets (Rosenblatt cut from $500 to $400, Morgan Stanley from $375 to $325), reflecting near-term execution concerns"
-      ],
-      "recommendation": "Buy",
-      "current_price": "$234.51",
-      "price_target": "$374.85 (+59.8%)",
-      "pe_ratio": "34.80",
-      "rsi": "N/A",
-      "vs_52wk_high": "-46.7% below high ($440.00)",
+      "vs_52wk_high": "-59.2% below high ($138.25)",
       "analyst_rating": "Buy",
-      "sector": "Technology - Photonics/Communications",
-      "sources": ["GuruFocus", "MarketBeat", "StockAnalysis", "Heygotrade", "247WallSt", "Yahoo Finance"],
-      "price_history_5d": [169.76, 192.81, 228.64, 214.75, 234.51]
+      "sector": "Technology - Cloud Computing",
+      "sources": ["24/7 Wall St.", "Motley Fool", "CNBC", "Benzinga", "Investing.com"],
+      "price_history_5d": [46.40, 48.98, 48.73, 60.77, 56.45]
+    },
+    {
+      "ticker": "CSCO",
+      "company": "Cisco Systems",
+      "discussion_driver": "Cisco reported record fiscal Q1 FY2027 revenue of $18.5B, up 24% YoY, beating adjusted EPS of $1.40 versus the $1.32 consensus. The company raised full-year revenue guidance to $74.8B-$75.8B driven by surging AI networking demand. Shares rose approximately 3% after hours following the report.",
+      "bull_case": [
+        "Record quarterly revenue of $18.5B reflects successful pivot to AI networking with strong enterprise and hyperscaler adoption",
+        "Full-year guidance raise to $74.8B-$75.8B signals multi-quarter AI infrastructure momentum well ahead of analyst expectations"
+      ],
+      "bear_case": [
+        "Morgan Stanley downgraded to Equal Weight with $120 target, citing limited near-term upside after the stock's strong recovery run",
+        "Rising 5.10% Treasury yields elevate the cost of capital and may slow enterprise IT refresh cycles"
+      ],
+      "recommendation": "Buy",
+      "current_price": "$102.01",
+      "price_target": "$136.00 (+33.3%)",
+      "pe_ratio": "30.6",
+      "rsi": "N/A",
+      "vs_52wk_high": "-21.8% below high ($130.37)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - Networking",
+      "sources": ["CNBC", "Benzinga", "Investing.com", "StockAnalysis", "TipRanks"],
+      "price_history_5d": [93.85, 98.65, 98.15, 100.76, 102.01]
+    },
+    {
+      "ticker": "AMAT",
+      "company": "Applied Materials",
+      "discussion_driver": "Applied Materials reported record fiscal Q4 FY2026 revenue of $10.41B, up 53% YoY, beating analyst estimates. The company issued strong Q1 FY2027 guidance of $11.1B versus the $10.84B consensus, citing AI chip manufacturing equipment demand. Despite the earnings beat, shares remain well below their 52-week high amid broader semiconductor sector volatility.",
+      "bull_case": [
+        "Record Q4 revenue up 53% YoY with above-consensus Q1 guidance reflects accelerating AI-driven semiconductor fab investment cycle",
+        "Sustained AI chip capacity expansion by TSMC, Samsung, and Intel drives multi-year equipment backlog and revenue visibility"
+      ],
+      "bear_case": [
+        "Stock down 47% from 52-week high signals market concern about peak semiconductor capex cycle and potential multiple compression",
+        "Rising Treasury yields and potential macro slowdown could cause major fab customers to trim or delay equipment orders"
+      ],
+      "recommendation": "Buy",
+      "current_price": "$387.90",
+      "price_target": "$620.78 (+60.0%)",
+      "pe_ratio": "34.09",
+      "rsi": "N/A",
+      "vs_52wk_high": "-47.6% below high ($739.67)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Technology - Semiconductor Equipment",
+      "sources": ["TipRanks", "CryptoBriefing", "Investing.com", "24/7 Wall St.", "Yahoo Finance", "StockAnalysis"],
+      "price_history_5d": [332.72, 370.55, 372.53, 395.08, 380.95]
+    },
+    {
+      "ticker": "AMD",
+      "company": "Advanced Micro Devices",
+      "discussion_driver": "AMD was upgraded by William Blair to Outperform and gained approximately 4% as investors rotated capital from NVIDIA following CEO Jensen Huang's resignation. The stock is up 142% YTD after a strong earnings beat and has surged over 36% in just the past 5 trading days as the market reprices AMD as a primary beneficiary of any NVIDIA leadership vacuum.",
+      "bull_case": [
+        "William Blair upgrade and NVDA CEO resignation catalyst drives institutional rotation; MI300X GPU gaining enterprise AI market share rapidly",
+        "Up 142% YTD with strong earnings beat confirms AMD's execution and competitive credibility in AI accelerator market"
+      ],
+      "bear_case": [
+        "Trailing P/E of 125x and 36% gain in 5 days creates extreme near-term pullback risk if NVDA leadership situation resolves favorably",
+        "If NVIDIA quickly names a credible permanent CEO, the NVDA rotation trade reverses and AMD loses its leadership-vacuum premium"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$581.23",
+      "price_target": "$640.11 (+10.1%)",
+      "pe_ratio": "125.0",
+      "rsi": "N/A",
+      "vs_52wk_high": "-11.7% below high ($658.52)",
+      "analyst_rating": "Moderate Buy",
+      "sector": "Technology - Semiconductors",
+      "sources": ["Benzinga", "24/7 Wall St.", "AOL Finance", "MarketBeat", "Yahoo Finance"],
+      "price_history_5d": [449.04, 508.58, 515.21, 552.90, 581.23]
     }
   ]
 }
