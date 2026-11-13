@@ -1,166 +1,170 @@
 {
-  "report_date": "2026-11-12",
+  "report_date": "2026-11-13",
   "market_tone": "Bearish",
   "key_themes": [
-    "NVIDIA CEO Jensen Huang resigned effective immediately amid personal scandal (alleged affair with Chinese spy), triggering broad AI/neocloud selloff",
-    "AI infrastructure earnings surge: Cisco and Applied Materials both post record quarterly revenues driven by AI demand",
-    "Rising Treasury yields hit 5.10%, fueling inflation fears and broad market pressure"
+    "Nvidia CEO Jensen Huang resignation triggers AI-chip sector selloff",
+    "Rising Treasury yields (10-yr hits 5%) and Fed rate hike expectations",
+    "Rotation from tech into defensive stocks; Apple hits intraday record"
   ],
   "sp500": {
-    "value": "7,592",
-    "change": "-0.35%"
+    "value": "7,562.00",
+    "change": "-0.4%"
   },
   "nasdaq": {
-    "value": "25,366",
-    "change": "-0.39%"
+    "value": "25,136.27",
+    "change": "-0.9%"
   },
   "stocks": [
     {
       "ticker": "NVDA",
-      "company": "NVIDIA Corporation",
-      "reason": "CEO Jensen Huang resigned effective immediately amid personal scandal including alleged affair with a reported Chinese spy; Colette Kress (CFO) named Interim CEO; multiple analyst downgrades (Bernstein, Oppenheimer, Evercore ISI)",
+      "company": "Nvidia Corporation",
+      "reason": "CEO Jensen Huang resigned Nov 12 citing extramarital affair scandal; HSBC, Bernstein, GF Securities all downgraded stock today; 6th straight weekly loss, longest since 2012; below $4T market cap for first time since July 2025",
       "category": "news",
       "sources": [
         "CNBC",
-        "ABC News",
-        "Benzinga",
-        "SEC 8-K"
-      ]
-    },
-    {
-      "ticker": "CRWV",
-      "company": "CoreWeave",
-      "reason": "Fell 6.37% on Thursday as NVIDIA CEO resignation spooked AI infrastructure investors; CoreWeave is heavily reliant on NVDA GPUs; stock had surged 25% Wednesday on its own strong Q3 earnings beat-and-raise",
-      "category": "news",
-      "sources": [
-        "24/7 Wall St.",
-        "Motley Fool",
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "CSCO",
-      "company": "Cisco Systems",
-      "reason": "Reported record fiscal Q1 FY2027 revenue of $18.5B (+24% YoY), beat adjusted EPS estimate ($1.40 vs $1.32), raised full-year revenue guidance to $74.8B-$75.8B; shares rose ~3% after hours",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Benzinga",
+        "NBC News",
+        "Fox Business",
         "Investing.com"
-      ]
-    },
-    {
-      "ticker": "AMAT",
-      "company": "Applied Materials",
-      "reason": "Record fiscal Q4 FY2026 revenue of $10.41B (+53% YoY), beat estimates; guided Q1 FY2027 to $11.1B vs $10.84B consensus; AI chip demand driving growth",
-      "category": "earnings",
-      "sources": [
-        "TipRanks",
-        "CryptoBriefing",
-        "Investing.com",
-        "24/7 Wall St."
       ]
     },
     {
       "ticker": "AMD",
       "company": "Advanced Micro Devices",
-      "reason": "Upgraded by William Blair to Outperform from Market Perform; shares gained ~4% as investors rotated from NVIDIA to AMD following NVDA CEO resignation news",
-      "category": "upgrade",
+      "reason": "Fell 8.75% today in sympathy AI-chip sell-off triggered by Nvidia leadership crisis and rising Treasury yields",
+      "category": "sector",
       "sources": [
-        "Benzinga",
-        "24/7 Wall St.",
-        "AOL Finance"
+        "Motley Fool",
+        "TheStreet",
+        "Yahoo Finance"
       ]
     },
     {
-      "ticker": "HUBS",
-      "company": "HubSpot",
-      "reason": "Shares rose 7.40% after news that co-founder Brian Halligan is returning to a leadership role, seen as a positive catalyst for strategy and growth",
+      "ticker": "CSCO",
+      "company": "Cisco Systems",
+      "reason": "Fell ~6% despite beating Q1 EPS ($1.40 vs $1.32 est.) and raising guidance; heavy profit-taking after the report",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Investing.com"
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple Inc.",
+      "reason": "Hit intraday record of $360.80 as investors rotated out of AI-chip names into perceived safety plays amid broader tech selloff",
       "category": "news",
       "sources": [
-        "TradingKey",
-        "MSN Finance"
+        "CNBC",
+        "TheStreet"
+      ]
+    },
+    {
+      "ticker": "MOD",
+      "company": "Modine Manufacturing",
+      "reason": "Surged ~28% after Bloomberg reported Samsung is in active takeover talks with the company",
+      "category": "news",
+      "sources": [
+        "Bloomberg",
+        "CNBC",
+        "StockTitan"
+      ]
+    },
+    {
+      "ticker": "CRWV",
+      "company": "CoreWeave",
+      "reason": "Fell sharply today (down ~12% weekly) after earlier earnings-driven surge faded; analysts cited AI-infrastructure spending concerns amid Nvidia leadership vacuum",
+      "category": "sector",
+      "sources": [
+        "Investing.com",
+        "Motley Fool"
       ]
     },
     {
       "ticker": "NBIS",
       "company": "Nebius Group",
-      "reason": "Dropped 16-17% after lowering 2026 revenue outlook to the low end of its $3.0B-$3.4B range due to revenue shifting to 2027; major disappointing guidance cut",
+      "reason": "Fell ~16% after Q3 2026 earnings report: strong revenue but management guided to significantly higher 2026 capex and issued a weak near-term outlook",
       "category": "earnings",
       "sources": [
-        "Motley Fool",
-        "Seeking Alpha",
-        "TipRanks"
+        "CNBC",
+        "Yahoo Finance"
       ]
     },
     {
-      "ticker": "TTEK",
-      "company": "Tetra Tech",
-      "reason": "Jumped nearly 10% after reporting adjusted quarterly EPS of $0.49, above the $0.47 consensus estimate; strong execution highlighted",
+      "ticker": "HTFL",
+      "company": "Heartflow Inc.",
+      "reason": "Dropped ~19% after pricing a $150M secondary share offering at $10.00, well below the prior close of $12.12",
+      "category": "news",
+      "sources": [
+        "StockTitan",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "SBCM",
+      "company": "SBC Medical Group Holdings",
+      "reason": "Rose ~37.6% after reporting strong Q3 2026 earnings results that beat expectations",
       "category": "earnings",
       "sources": [
-        "VistaP Global",
         "StockTitan"
       ]
     },
     {
-      "ticker": "CTVA",
-      "company": "Corteva",
-      "reason": "Fell more than 9% after quarterly revenue of $1.59B missed consensus of approximately $1.77B; one of the largest single-day decliners on earnings",
+      "ticker": "LFTM",
+      "company": "Liftoff Mobile",
+      "reason": "Gained ~22% after quarterly earnings beat and solid forward guidance, one of the day's top gainers",
       "category": "earnings",
       "sources": [
-        "StockTitan",
-        "VistaP Global"
+        "CNBC",
+        "StockTitan"
       ]
     },
     {
-      "ticker": "BABA",
-      "company": "Alibaba Group",
-      "reason": "Upgraded by DZ Bank from Hold to Buy; also named as among the top market cap movers on Thursday alongside NVDA",
+      "ticker": "STE",
+      "company": "Steris plc",
+      "reason": "Gained ~4% after Jefferies upgraded it to Buy today, citing improving surgical procedure volumes",
       "category": "upgrade",
       "sources": [
-        "Investing.com",
-        "AOL Finance"
+        "CNBC"
       ]
     },
     {
-      "ticker": "EVGO",
-      "company": "EVgo",
-      "reason": "Downgraded by Stifel from Buy to Hold (target cut to $2.50) after LS Power made a non-binding $2.00/share acquisition offer; stock faces uncertainty around deal viability",
-      "category": "news",
+      "ticker": "TSLA",
+      "company": "Tesla Inc.",
+      "reason": "Downgraded to Sell by Seeking Alpha analyst Oliver Rodzianko today, citing valuation disconnected from fundamentals",
+      "category": "downgrade",
       "sources": [
         "Seeking Alpha",
-        "Benzinga"
+        "TradingView"
       ]
     },
     {
-      "ticker": "COP",
-      "company": "ConocoPhillips",
-      "reason": "Downgraded by Bernstein to Market Perform from Outperform, with price target trimmed to $122; part of broad energy sector reassessment",
-      "category": "downgrade",
-      "sources": [
-        "24/7 Wall St.",
-        "AOL Finance"
-      ]
-    },
-    {
-      "ticker": "GIS",
-      "company": "General Mills",
-      "reason": "Downgraded by Piper Sandler to Neutral from Overweight, citing dividend risk and pressure on consumer staples amid higher rates",
-      "category": "downgrade",
-      "sources": [
-        "24/7 Wall St.",
-        "AOL Finance"
-      ]
-    },
-    {
-      "ticker": "CLF",
-      "company": "Cleveland-Cliffs",
-      "reason": "Upgraded by Barclays to Equal Weight from Underweight with new $23 price target; improved near-term steel market outlook",
+      "ticker": "DPZ",
+      "company": "Domino's Pizza",
+      "reason": "Upgraded to Outperform by Baird today as part of Friday November 13 analyst actions roundup",
       "category": "upgrade",
       "sources": [
-        "Benzinga",
-        "DailyTradeAlert"
+        "Daily Trade Alert",
+        "Baird"
+      ]
+    },
+    {
+      "ticker": "ECL",
+      "company": "Ecolab Inc.",
+      "reason": "Upgraded to Overweight by Wells Fargo today as part of Friday November 13 analyst actions",
+      "category": "upgrade",
+      "sources": [
+        "Daily Trade Alert",
+        "Wells Fargo"
+      ]
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom Inc.",
+      "reason": "Rose as investors viewed it as a beneficiary of Nvidia's leadership uncertainty in AI-chip space; named among largest market-cap movers on Friday",
+      "category": "sector",
+      "sources": [
+        "Investing.com",
+        "CNBC"
       ]
     }
   ]
