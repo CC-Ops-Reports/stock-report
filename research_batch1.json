@@ -1,129 +1,129 @@
 {
-  "report_date": "2026-11-12",
+  "report_date": "2026-11-13",
   "batch": 1,
   "market_tone": "Bearish",
   "key_themes": [
-    "NVIDIA CEO Jensen Huang resigned effective immediately amid personal scandal (alleged affair with Chinese spy), triggering broad AI/neocloud selloff",
-    "AI infrastructure earnings surge: Cisco and Applied Materials both post record quarterly revenues driven by AI demand",
-    "Rising Treasury yields hit 5.10%, fueling inflation fears and broad market pressure"
+    "Nvidia CEO Jensen Huang resignation triggers AI-chip sector selloff",
+    "Rising Treasury yields (10-yr hits 5%) and Fed rate hike expectations",
+    "Rotation from tech into defensive stocks; Apple hits intraday record"
   ],
-  "sp500": {"value": "7,592", "change": "-0.35%"},
-  "nasdaq": {"value": "25,366", "change": "-0.39%"},
+  "sp500": {"value": "7,562.00", "change": "-0.4%"},
+  "nasdaq": {"value": "25,136.27", "change": "-0.9%"},
   "stocks": [
     {
       "ticker": "NVDA",
-      "company": "NVIDIA Corporation",
-      "discussion_driver": "CEO Jensen Huang resigned effective immediately amid personal scandal including an alleged affair with a reported Chinese intelligence asset. CFO Colette Kress was named Interim CEO while the board conducts a search for a permanent replacement. Multiple analysts issued downgrades including Bernstein, Oppenheimer, and Evercore ISI, triggering a broad AI sector selloff.",
+      "company": "Nvidia Corporation",
+      "discussion_driver": "CEO Jensen Huang resigned November 12 following an extramarital affair scandal, triggering NVDA's sixth consecutive weekly loss—the longest since 2012. HSBC, Bernstein, and GF Securities all downgraded the stock on November 12, with Goldman Sachs cutting its target to $220 and Citigroup to $225. Earnings are scheduled for November 17, adding near-term uncertainty around a leadership vacuum.",
       "bull_case": [
-        "Dominant AI chip market share with 85%+ datacenter GPU market; H200 and Blackwell GPU demand pipeline remains robust despite leadership change",
-        "AI infrastructure spending supercycle continues with $500B+ projected datacenter capex; NVIDIA's CUDA moat protects revenue even during transition"
+        "RSI is deeply oversold at 26, suggesting potential near-term technical rebound; November 17 earnings could surprise to the upside given Blackwell GPU demand continues at scale.",
+        "Nvidia's dominant AI chip position with the Blackwell architecture creates a durable competitive moat that persists beyond any single leader."
       ],
       "bear_case": [
-        "Abrupt CEO resignation with no seasoned internal successor creates deep leadership uncertainty at a critical competitive juncture",
-        "Alleged Chinese intelligence connection could trigger regulatory scrutiny, government contract losses, and enterprise customer attrition"
+        "Leadership vacuum and ongoing board investigation create significant uncertainty about strategic direction and execution at a critical period of AI infrastructure buildout.",
+        "Multiple analyst downgrades (HSBC, Bernstein, GF Securities) and target cuts from Goldman Sachs ($220) and Citigroup ($225) signal continued institutional confidence erosion."
       ],
       "recommendation": "Hold",
-      "current_price": "$166.19",
-      "price_target": "$287.01 (+72.7%)",
-      "pe_ratio": "21.1",
-      "rsi": "N/A",
-      "vs_52wk_high": "-31.7% below high ($243.37)",
-      "analyst_rating": "Moderate Buy",
+      "current_price": "$162.86",
+      "price_target": "$220.00 (+35.1%)",
+      "pe_ratio": "20.6",
+      "rsi": "26",
+      "vs_52wk_high": "-33.1% below high ($243.37)",
+      "analyst_rating": "Hold",
       "sector": "Technology - Semiconductors",
-      "sources": ["StockTitan", "CNBC", "Morningstar", "MarketBeat", "Benzinga"],
-      "price_history_5d": [186.64, 178.67, 168.89, 173.73, 166.19]
-    },
-    {
-      "ticker": "CRWV",
-      "company": "CoreWeave",
-      "discussion_driver": "CoreWeave surged 25% on strong Q3 earnings beat and 2026 revenue guidance raise to $13.3B, declaring it is sold out through 2027. The rally sharply reversed when NVIDIA CEO Jensen Huang resigned, as CRWV is heavily dependent on NVDA GPUs for its AI cloud infrastructure, raising fears about supply chain disruption.",
-      "bull_case": [
-        "Record Q3 earnings beat with 2026 guidance raised to $13.3B; fully booked AI cloud capacity through 2027 provides strong revenue visibility",
-        "Largest independent AI-focused cloud platform with long-term hyperscaler contracts reducing customer concentration risk"
-      ],
-      "bear_case": [
-        "Critical dependency on NVIDIA GPU supply means NVDA leadership upheaval poses direct supply chain and pricing uncertainty risk",
-        "Stock still down 59% from 52-week high; high financial leverage combined with NVDA concentration risk could trigger further institutional selling"
-      ],
-      "recommendation": "Speculative Buy",
-      "current_price": "$56.45",
-      "price_target": "$129.51 (+129.4%)",
-      "pe_ratio": "N/A",
-      "rsi": "N/A",
-      "vs_52wk_high": "-59.2% below high ($138.25)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Cloud Computing",
-      "sources": ["24/7 Wall St.", "Motley Fool", "CNBC", "Benzinga", "Investing.com"],
-      "price_history_5d": [46.40, 48.98, 48.73, 60.77, 56.45]
-    },
-    {
-      "ticker": "CSCO",
-      "company": "Cisco Systems",
-      "discussion_driver": "Cisco reported record fiscal Q1 FY2027 revenue of $18.5B, up 24% YoY, beating adjusted EPS of $1.40 versus the $1.32 consensus. The company raised full-year revenue guidance to $74.8B-$75.8B driven by surging AI networking demand. Shares rose approximately 3% after hours following the report.",
-      "bull_case": [
-        "Record quarterly revenue of $18.5B reflects successful pivot to AI networking with strong enterprise and hyperscaler adoption",
-        "Full-year guidance raise to $74.8B-$75.8B signals multi-quarter AI infrastructure momentum well ahead of analyst expectations"
-      ],
-      "bear_case": [
-        "Morgan Stanley downgraded to Equal Weight with $120 target, citing limited near-term upside after the stock's strong recovery run",
-        "Rising 5.10% Treasury yields elevate the cost of capital and may slow enterprise IT refresh cycles"
-      ],
-      "recommendation": "Buy",
-      "current_price": "$102.01",
-      "price_target": "$136.00 (+33.3%)",
-      "pe_ratio": "30.6",
-      "rsi": "N/A",
-      "vs_52wk_high": "-21.8% below high ($130.37)",
-      "analyst_rating": "Buy",
-      "sector": "Technology - Networking",
-      "sources": ["CNBC", "Benzinga", "Investing.com", "StockAnalysis", "TipRanks"],
-      "price_history_5d": [93.85, 98.65, 98.15, 100.76, 102.01]
-    },
-    {
-      "ticker": "AMAT",
-      "company": "Applied Materials",
-      "discussion_driver": "Applied Materials reported record fiscal Q4 FY2026 revenue of $10.41B, up 53% YoY, beating analyst estimates. The company issued strong Q1 FY2027 guidance of $11.1B versus the $10.84B consensus, citing AI chip manufacturing equipment demand. Despite the earnings beat, shares remain well below their 52-week high amid broader semiconductor sector volatility.",
-      "bull_case": [
-        "Record Q4 revenue up 53% YoY with above-consensus Q1 guidance reflects accelerating AI-driven semiconductor fab investment cycle",
-        "Sustained AI chip capacity expansion by TSMC, Samsung, and Intel drives multi-year equipment backlog and revenue visibility"
-      ],
-      "bear_case": [
-        "Stock down 47% from 52-week high signals market concern about peak semiconductor capex cycle and potential multiple compression",
-        "Rising Treasury yields and potential macro slowdown could cause major fab customers to trim or delay equipment orders"
-      ],
-      "recommendation": "Buy",
-      "current_price": "$387.90",
-      "price_target": "$620.78 (+60.0%)",
-      "pe_ratio": "34.09",
-      "rsi": "N/A",
-      "vs_52wk_high": "-47.6% below high ($739.67)",
-      "analyst_rating": "Strong Buy",
-      "sector": "Technology - Semiconductor Equipment",
-      "sources": ["TipRanks", "CryptoBriefing", "Investing.com", "24/7 Wall St.", "Yahoo Finance", "StockAnalysis"],
-      "price_history_5d": [332.72, 370.55, 372.53, 395.08, 380.95]
+      "sources": ["Benzinga", "StockAnalysis", "Fox Business", "CNBC", "MarketBeat"],
+      "price_history_5d": [178.67, 168.89, 173.73, 166.19, 162.86]
     },
     {
       "ticker": "AMD",
       "company": "Advanced Micro Devices",
-      "discussion_driver": "AMD was upgraded by William Blair to Outperform and gained approximately 4% as investors rotated capital from NVIDIA following CEO Jensen Huang's resignation. The stock is up 142% YTD after a strong earnings beat and has surged over 36% in just the past 5 trading days as the market reprices AMD as a primary beneficiary of any NVIDIA leadership vacuum.",
+      "discussion_driver": "AMD fell 8.75% on November 13 as a sympathy sell-off swept AI-chip names following Nvidia's CEO resignation crisis, reversing a five-day, 45% winning streak. Rising 10-year Treasury yields hitting 5% added additional pressure. AMD's own fundamentals remain strong—the stock was up roughly 142% year-to-date heading into this decline—with strong GPU share gains and no direct leadership exposure to Nvidia's crisis.",
       "bull_case": [
-        "William Blair upgrade and NVDA CEO resignation catalyst drives institutional rotation; MI300X GPU gaining enterprise AI market share rapidly",
-        "Up 142% YTD with strong earnings beat confirms AMD's execution and competitive credibility in AI accelerator market"
+        "The November 13 sympathy sell-off is a macro/sentiment event unrelated to AMD's fundamentals, potentially creating an attractive buying opportunity as AMD continues to gain AI GPU datacenter share.",
+        "2027 revenue is projected to grow over 80% driven by AMD INSTINCT GPU adoption; forward P/E at approximately 25x is far more reasonable than the elevated trailing figure."
       ],
       "bear_case": [
-        "Trailing P/E of 125x and 36% gain in 5 days creates extreme near-term pullback risk if NVDA leadership situation resolves favorably",
-        "If NVIDIA quickly names a credible permanent CEO, the NVDA rotation trade reverses and AMD loses its leadership-vacuum premium"
+        "Trailing P/E of 115x leaves little room for execution error; any guidance miss or slowing AI capex cycle could trigger sharp multiple compression.",
+        "Sector sentiment could remain depressed if Nvidia's leadership crisis prolongs AI infrastructure spending uncertainty across the semiconductor space broadly."
+      ],
+      "recommendation": "Buy",
+      "current_price": "$534.06",
+      "price_target": "$657.49 (+23.1%)",
+      "pe_ratio": "115.74",
+      "rsi": "N/A",
+      "vs_52wk_high": "-18.9% below high ($658.52)",
+      "analyst_rating": "Strong Buy",
+      "sector": "Technology - Semiconductors",
+      "sources": ["Yahoo Finance", "Motley Fool", "24/7 Wall St.", "TradingKey", "Investing.com"],
+      "price_history_5d": [508.58, 515.21, 552.90, 585.30, 534.06]
+    },
+    {
+      "ticker": "CSCO",
+      "company": "Cisco Systems",
+      "discussion_driver": "Cisco beat fiscal Q1 2026 EPS ($1.40 vs $1.32 estimate) and raised full-year guidance on November 12, but heavy profit-taking sent the stock down approximately 6.2% on November 13. Multiple analysts cut price targets post-earnings: Barclays to $109, Piper Sandler to $112, Citigroup to $120 (maintaining Buy), and Truist to $127. AI networking demand through products like Catalyst and Nexus remains a key long-term catalyst.",
+      "bull_case": [
+        "Earnings beat and raised guidance demonstrate operational strength; AI networking products position Cisco well for the next-generation infrastructure buildout supporting the AI wave.",
+        "Trading 26% below its 52-week high with 32% analyst upside to consensus target creates a value entry point for investors after the profit-taking selloff."
+      ],
+      "bear_case": [
+        "Trailing P/E of 30.7x remains well above Cisco's 5-year median P/E of approximately 19.8x, suggesting valuation has not fully normalized even after the post-earnings decline.",
+        "Multiple analyst target cuts post-earnings and persistent profit-taking suggest the stock may need an extended consolidation before the next meaningful leg higher."
       ],
       "recommendation": "Hold",
-      "current_price": "$581.23",
-      "price_target": "$640.11 (+10.1%)",
-      "pe_ratio": "125.0",
+      "current_price": "$95.64",
+      "price_target": "$126.77 (+32.6%)",
+      "pe_ratio": "30.66",
       "rsi": "N/A",
-      "vs_52wk_high": "-11.7% below high ($658.52)",
+      "vs_52wk_high": "-26.6% below high ($130.37)",
       "analyst_rating": "Moderate Buy",
-      "sector": "Technology - Semiconductors",
-      "sources": ["Benzinga", "24/7 Wall St.", "AOL Finance", "MarketBeat", "Yahoo Finance"],
-      "price_history_5d": [449.04, 508.58, 515.21, 552.90, 581.23]
+      "sector": "Technology - Networking",
+      "sources": ["CNBC", "GuruFocus", "MarketBeat", "Investing.com"],
+      "price_history_5d": [98.65, 98.15, 100.76, 102.01, 95.64]
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple Inc.",
+      "discussion_driver": "Apple hit new all-time intraday and closing highs on November 13, closing at $356.27 as investors rotated out of AI-chip names into perceived defensive quality plays amid the broader tech selloff. The stock now trades above the Wall Street consensus price target of $347, suggesting limited near-term analyst-modeled upside. Apple's Services segment growth and brand loyalty underpin the safe-haven rotation.",
+      "bull_case": [
+        "Investor flight-to-quality amid AI sector volatility highlights Apple's defensive characteristics; recurring Services segment revenue provides earnings stability through macro uncertainty.",
+        "Upcoming product cycles incorporating on-device AI features could drive a new iPhone upgrade wave, pushing forward estimates higher and lifting analyst targets above current levels."
+      ],
+      "bear_case": [
+        "Analyst consensus target of $347 is now below the current market price of $356, implying Wall Street models see the stock as fully valued or slightly stretched at current levels.",
+        "P/E of 38x is elevated for a hardware/software hybrid; any macro deterioration, China revenue risk, or rotation back into AI names could trigger meaningful multiple compression from these all-time highs."
+      ],
+      "recommendation": "Hold",
+      "current_price": "$356.27",
+      "price_target": "$347.11 (-2.6%)",
+      "pe_ratio": "38.10",
+      "rsi": "N/A",
+      "vs_52wk_high": "At 52-week high ($356.27, new ATH)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - Consumer Electronics",
+      "sources": ["MacDailyNews", "MarketBeat", "rallies.ai", "StockAnalysis", "CNBC"],
+      "price_history_5d": [350.69, 348.51, 355.63, 354.88, 356.27]
+    },
+    {
+      "ticker": "MOD",
+      "company": "Modine Manufacturing",
+      "discussion_driver": "Bloomberg reported on November 13 that Samsung Electronics is in active takeover talks with Modine Manufacturing, sending the stock surging approximately 28% to around $136. No formal offer has been confirmed; Bloomberg's reported deal valuation was approximately $5.6 billion, implying a per-share value near $105—below current trading levels, which incorporate significant M&A speculation premium. Modine's Analyst and Investor Day is scheduled for November 18.",
+      "bull_case": [
+        "Samsung's strategic interest validates Modine's data-center thermal cooling business as a premier AI infrastructure asset; competitive bidding dynamics could drive a deal price above current levels.",
+        "Data center cooling demand is structurally driven by increasing AI server power density, making Modine a rare independent pure-play cooling company with compelling long-term fundamentals even absent a deal."
+      ],
+      "bear_case": [
+        "No formal offer exists; Samsung has not confirmed the talks, and Bloomberg's reported valuation of approximately $105/share is well below current trading prices, creating sharp downside if talks collapse.",
+        "Modine stock has been in a prolonged downtrend (down approximately 58% from its 52-week high of $323.25); if the deal falls through, fundamentals alone may not support prices above $136."
+      ],
+      "recommendation": "Speculative Buy",
+      "current_price": "$136.00",
+      "price_target": "$219.00 (+61.0%)",
+      "pe_ratio": "42.20",
+      "rsi": "N/A",
+      "vs_52wk_high": "-57.9% below high ($323.25)",
+      "analyst_rating": "Buy",
+      "sector": "Industrials - Thermal Management",
+      "sources": ["Bloomberg", "Motley Fool", "24/7 Wall St.", "Kalkine", "TradingNews", "MarketBeat"],
+      "price_history_5d": [106.67, 106.10, 136.00]
     }
   ]
 }
