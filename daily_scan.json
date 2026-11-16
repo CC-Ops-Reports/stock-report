@@ -1,170 +1,173 @@
 {
-  "report_date": "2026-11-13",
+  "report_date": "2026-11-16",
   "market_tone": "Bearish",
   "key_themes": [
-    "Nvidia CEO Jensen Huang resignation triggers AI-chip sector selloff",
-    "Rising Treasury yields (10-yr hits 5%) and Fed rate hike expectations",
-    "Rotation from tech into defensive stocks; Apple hits intraday record"
+    "AI trade selloff ahead of Nvidia Q3 earnings (CEO departure overhang)",
+    "Anthropic IPO oversubscribed 7x, pricing Wednesday, trading starts Nov 19",
+    "Chip sector broad decline; crypto/AI-linked names hit hardest"
   ],
   "sp500": {
-    "value": "7,562.00",
-    "change": "-0.4%"
+    "value": "7,416.59",
+    "change": "-1.92%"
   },
   "nasdaq": {
-    "value": "25,136.27",
-    "change": "-0.9%"
+    "value": "24,509.76",
+    "change": "-2.49%"
   },
   "stocks": [
     {
       "ticker": "NVDA",
-      "company": "Nvidia Corporation",
-      "reason": "CEO Jensen Huang resigned Nov 12 citing extramarital affair scandal; HSBC, Bernstein, GF Securities all downgraded stock today; 6th straight weekly loss, longest since 2012; below $4T market cap for first time since July 2025",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "NBC News",
-        "Fox Business",
-        "Investing.com"
-      ]
-    },
-    {
-      "ticker": "AMD",
-      "company": "Advanced Micro Devices",
-      "reason": "Fell 8.75% today in sympathy AI-chip sell-off triggered by Nvidia leadership crisis and rising Treasury yields",
-      "category": "sector",
-      "sources": [
-        "Motley Fool",
-        "TheStreet",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "CSCO",
-      "company": "Cisco Systems",
-      "reason": "Fell ~6% despite beating Q1 EPS ($1.40 vs $1.32 est.) and raising guidance; heavy profit-taking after the report",
+      "company": "Nvidia",
+      "reason": "Fell ~4.1% as investors sold ahead of Q3 earnings due Tuesday; AI leadership crisis after CEO Jensen Huang departure news weighed on AI-linked names broadly",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "Investing.com"
-      ]
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple Inc.",
-      "reason": "Hit intraday record of $360.80 as investors rotated out of AI-chip names into perceived safety plays amid broader tech selloff",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "TheStreet"
-      ]
-    },
-    {
-      "ticker": "MOD",
-      "company": "Modine Manufacturing",
-      "reason": "Surged ~28% after Bloomberg reported Samsung is in active takeover talks with the company",
-      "category": "news",
-      "sources": [
-        "Bloomberg",
-        "CNBC",
+        "Yahoo Finance",
         "StockTitan"
       ]
     },
     {
-      "ticker": "CRWV",
-      "company": "CoreWeave",
-      "reason": "Fell sharply today (down ~12% weekly) after earlier earnings-driven surge faded; analysts cited AI-infrastructure spending concerns amid Nvidia leadership vacuum",
+      "ticker": "CGON",
+      "company": "CG Oncology",
+      "reason": "Surged ~14-18% after PIVOT-006 Phase 3 trial met primary endpoint in bladder cancer; drug cut recurrence risk by 68% vs control over 17-month median follow-up",
+      "category": "news",
+      "sources": [
+        "Benzinga",
+        "RTTNews",
+        "Investing.com"
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "company": "Intel",
+      "reason": "Fell ~7% in broad chip selloff; extended losses in after-hours after Nvidia disclosed it slashed its stake in Intel",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Investing.com"
+      ]
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "reason": "Dropped ~7.6% on broad AI/chip sector weakness; class-action DRAM price-collusion lawsuit added pressure",
       "category": "sector",
       "sources": [
+        "Investing.com",
+        "ChartMill",
+        "FX Leaders"
+      ]
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum",
+      "reason": "Plunged ~8%, pacing S&P 500 decliners alongside chip selloff driven by pre-Nvidia-earnings risk-off sentiment",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "SNDK",
+      "company": "SanDisk",
+      "reason": "Dropped ~8%, memory sector hit by broad AI trade selloff ahead of Nvidia earnings",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "TU",
+      "company": "Telus",
+      "reason": "Surged ~26-29% after confirming it received an unsolicited, non-binding takeover proposal from Qu\u00e9becor",
+      "category": "news",
+      "sources": [
+        "Benzinga",
+        "StockTitan",
+        "Investing.com"
+      ]
+    },
+    {
+      "ticker": "COIN",
+      "company": "Coinbase",
+      "reason": "Fell ~6.4% as Bitcoin sold off; crypto-linked stocks broadly declined on risk-off day",
+      "category": "sector",
+      "sources": [
+        "Yahoo Finance",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "TSN",
+      "company": "Tyson Foods",
+      "reason": "Rose ~8.7% after Q4 adjusted EPS of $0.61 beat estimates; also announced 2% dividend increase despite fiscal 2027 sales guidance cut",
+      "category": "earnings",
+      "sources": [
+        "Yahoo Finance",
+        "MarketBeat",
+        "Benzinga"
+      ]
+    },
+    {
+      "ticker": "XPEV",
+      "company": "XPeng",
+      "reason": "Rose ~3.2% after reporting record Q3 revenue of RMB 24.28B (+19.1% YoY); guided Q4 deliveries to 169,000-174,000",
+      "category": "earnings",
+      "sources": [
+        "Yahoo Finance",
+        "MarketBeat"
+      ]
+    },
+    {
+      "ticker": "BIDU",
+      "company": "Baidu",
+      "reason": "Reported Q3 EPS of 6.78 vs estimate of 6.16 (+10% beat); ad revenue weakness was flagged but EPS surprise positive",
+      "category": "earnings",
+      "sources": [
+        "Yahoo Finance",
+        "Seeking Alpha"
+      ]
+    },
+    {
+      "ticker": "IREN",
+      "company": "IREN (Iris Energy)",
+      "reason": "Fell ~10% to 52-week low after company pushed back its $4B ARR target, raising funding concerns for the neocloud operator",
+      "category": "news",
+      "sources": [
+        "Benzinga",
         "Investing.com",
         "Motley Fool"
       ]
     },
     {
-      "ticker": "NBIS",
-      "company": "Nebius Group",
-      "reason": "Fell ~16% after Q3 2026 earnings report: strong revenue but management guided to significantly higher 2026 capex and issued a weak near-term outlook",
-      "category": "earnings",
+      "ticker": "SMMT",
+      "company": "Summit Therapeutics",
+      "reason": "Dropped ~17%, reversing recent gains; no single news catalyst confirmed but appeared in top S&P 500 decliners on high volume",
+      "category": "sector",
+      "sources": [
+        "StockTitan",
+        "Business Upturn"
+      ]
+    },
+    {
+      "ticker": "JNJ",
+      "company": "Johnson & Johnson",
+      "reason": "Rose ~1.4%, bucking market weakness after announcing $2.2B acquisition of clinical-stage biopharma Ollin Biosciences",
+      "category": "news",
       "sources": [
         "CNBC",
         "Yahoo Finance"
       ]
     },
     {
-      "ticker": "HTFL",
-      "company": "Heartflow Inc.",
-      "reason": "Dropped ~19% after pricing a $150M secondary share offering at $10.00, well below the prior close of $12.12",
-      "category": "news",
-      "sources": [
-        "StockTitan",
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "SBCM",
-      "company": "SBC Medical Group Holdings",
-      "reason": "Rose ~37.6% after reporting strong Q3 2026 earnings results that beat expectations",
-      "category": "earnings",
-      "sources": [
-        "StockTitan"
-      ]
-    },
-    {
-      "ticker": "LFTM",
-      "company": "Liftoff Mobile",
-      "reason": "Gained ~22% after quarterly earnings beat and solid forward guidance, one of the day's top gainers",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "StockTitan"
-      ]
-    },
-    {
-      "ticker": "STE",
-      "company": "Steris plc",
-      "reason": "Gained ~4% after Jefferies upgraded it to Buy today, citing improving surgical procedure volumes",
-      "category": "upgrade",
-      "sources": [
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla Inc.",
-      "reason": "Downgraded to Sell by Seeking Alpha analyst Oliver Rodzianko today, citing valuation disconnected from fundamentals",
-      "category": "downgrade",
-      "sources": [
-        "Seeking Alpha",
-        "TradingView"
-      ]
-    },
-    {
-      "ticker": "DPZ",
-      "company": "Domino's Pizza",
-      "reason": "Upgraded to Outperform by Baird today as part of Friday November 13 analyst actions roundup",
-      "category": "upgrade",
-      "sources": [
-        "Daily Trade Alert",
-        "Baird"
-      ]
-    },
-    {
-      "ticker": "ECL",
-      "company": "Ecolab Inc.",
-      "reason": "Upgraded to Overweight by Wells Fargo today as part of Friday November 13 analyst actions",
-      "category": "upgrade",
-      "sources": [
-        "Daily Trade Alert",
-        "Wells Fargo"
-      ]
-    },
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom Inc.",
-      "reason": "Rose as investors viewed it as a beneficiary of Nvidia's leadership uncertainty in AI-chip space; named among largest market-cap movers on Friday",
+      "ticker": "HOOD",
+      "company": "Robinhood Markets",
+      "reason": "Fell ~5.4% in premarket as Bitcoin sold off and crypto-linked equities declined broadly on risk-off sentiment",
       "category": "sector",
       "sources": [
-        "Investing.com",
-        "CNBC"
+        "Yahoo Finance"
       ]
     }
   ]
