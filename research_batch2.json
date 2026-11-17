@@ -1,121 +1,121 @@
 {
-  "report_date": "2026-11-13",
+  "report_date": "2026-11-16",
   "batch": 2,
   "stocks": [
     {
-      "ticker": "CRWV",
-      "company": "CoreWeave",
-      "discussion_driver": "CoreWeave shares fell 6.1% on November 13 as the AI-chip sector selloff deepened following Nvidia CEO Jensen Huang's resignation scandal. The company beat Q3 2026 estimates and raised full-year revenue guidance, triggering a 25% surge on November 11, but the gains quickly faded amid fresh concerns about CoreWeave's heavy Nvidia dependence, $46.9 billion debt load, and leadership vacuum across the AI ecosystem.",
+      "ticker": "SNDK",
+      "company": "SanDisk Corporation",
+      "discussion_driver": "SanDisk fell ~8.6% on November 16, pacing broad chip/AI sector declines as investors de-risked ahead of Nvidia's Q3 earnings. The stock is now down more than 65% from its 2026 52-week high of $2,354.39, with RSI near oversold territory at ~30, while analysts maintain an average price target above $2,000—implying a substantial mean-reversion opportunity if the AI memory cycle recovers.",
       "bull_case": [
-        "CoreWeave beat Q3 2026 estimates and raised full-year revenue guidance, confirming strong fundamental demand for its AI cloud infrastructure from anchor customers including Microsoft",
-        "Analyst consensus remains 'Moderate Buy' with an average price target of $116.66—more than double the current price—suggesting material long-term upside if macro headwinds resolve"
+        "Deeply oversold with RSI ~30 and a ~153% gap to analyst consensus target of $2,047; institutional targets range from $870 to $3,000, with Rosenblatt at $2,400 and Goldman Sachs at $2,200",
+        "NAND memory demand from AI data center buildout remains a secular tailwind; a cyclical recovery expected in 2027 could dramatically improve earnings leverage from current P/E of ~7x"
       ],
       "bear_case": [
-        "CoreWeave carries $46.9 billion in total debt and is heavily dependent on Nvidia for GPU supply; the leadership vacuum at Nvidia creates acute supply-chain and strategic uncertainty",
-        "Barclays cut its target to $85 and Stifel to $60, while the stock sits 61.6% below its 52-week high, signaling that near-term sentiment remains deeply negative"
+        "Stock has collapsed ~66% from its 2026 high, with no specific catalyst yet to reverse the trend; negative momentum and ongoing AI sector risk-off could push lower before recovery",
+        "Memory pricing pressure and an industry DRAM price-collusion class-action lawsuit add headline risk; oversupply conditions in the NAND market may persist longer than consensus expects"
+      ],
+      "recommendation": "Speculative Buy",
+      "current_price": "$809.11",
+      "price_target": "$2,047.38 (+153.0%)",
+      "pe_ratio": "7.1",
+      "rsi": "30.25",
+      "vs_52wk_high": "-65.6% below high ($2,354.39)",
+      "analyst_rating": "Moderate Buy",
+      "sector": "Technology - Data Storage",
+      "sources": ["StockAnalysis", "MarketBeat", "Investing.com", "Public.com", "Macrotrends"],
+      "price_history_5d": [859.99, 977.69, 937.46, 885.01, 809.11]
+    },
+    {
+      "ticker": "TU",
+      "company": "Telus Corporation",
+      "discussion_driver": "Quebecor made an unsolicited C$31 billion (~US$21.7B) cash-and-stock takeover bid for Telus on November 16, sending shares surging up to 29% in early trading before settling ~11-13% higher. Telus's board flagged 'serious concerns' around regulatory approvals, governance, and execution risk, leaving deal outcome highly uncertain and creating a wide deal/no-deal spread in the stock.",
+      "bull_case": [
+        "Quebecor's C$31B offer represents a significant premium to pre-bid trading prices of ~$8.53, confirming strategic value of Telus's wireless, wireline, and healthcare assets across Canada",
+        "If the deal closes, shareholders would receive a material premium; even a prolonged negotiation process could keep the stock elevated as arbitrageurs price in deal probability"
+      ],
+      "bear_case": [
+        "Telus itself cited 'serious concerns' about regulatory and transaction risks; Canadian telecom M&A faces intense CRTC scrutiny and the deal may ultimately be blocked or abandoned",
+        "If deal talks collapse, shares could retrace sharply toward pre-bid levels near $8.53; Telus carries heavy debt with negative TTM EPS (-$0.94), limiting fundamental support"
       ],
       "recommendation": "Hold",
-      "current_price": "$53.13",
-      "price_target": "$116.66 (+119.6%)",
-      "pe_ratio": "-12.02",
+      "current_price": "$9.47",
+      "price_target": "C$10.00 (~$6.98 USD, Hold consensus pre-bid)",
+      "pe_ratio": "N/A",
       "rsi": "N/A",
-      "vs_52wk_high": "-61.6% below high ($138.25)",
-      "analyst_rating": "Moderate Buy",
-      "sector": "Technology - AI Cloud Infrastructure",
-      "sources": ["MarketBeat", "Benzinga", "Motley Fool", "Investing.com"],
-      "price_history_5d": [48.73, 53.13]
+      "vs_52wk_high": "N/A",
+      "analyst_rating": "Hold",
+      "sector": "Communication Services - Telecommunications",
+      "sources": ["BNN Bloomberg", "GuruFocus", "TipRanks", "ProactiveInvestors", "Yahoo Finance"],
+      "price_history_5d": [8.53, 9.47]
     },
     {
-      "ticker": "NBIS",
-      "company": "Nebius Group",
-      "discussion_driver": "Nebius Group dropped approximately 16.9% on November 12 after Q3 2026 earnings beat revenue expectations but guided to significantly higher capital expenditure for 2026 with a weak near-term outlook. Despite firm-level bullishness from Truist (Buy, $245 target) and Rosenblatt (Buy, $304 target), concerns about margin compression and elevated capex spending drove a sharp selloff that extended into the broader AI sector rout on November 13.",
+      "ticker": "COIN",
+      "company": "Coinbase Global Inc.",
+      "discussion_driver": "Coinbase fell ~6.4% on November 16 as Bitcoin sold off on a broad risk-off day driven by pre-Nvidia-earnings AI sector fear. The stock has now declined sharply from its 2026 high of $303.96 and is trading near multi-month lows, with the market pricing in a deteriorating macro environment for crypto despite Coinbase's dominant position as the leading regulated U.S. exchange.",
       "bull_case": [
-        "Nebius is a rapidly growing AI cloud provider with strong revenue momentum, and multiple top analysts maintain Buy ratings with targets well above $225, implying 75%+ upside at consensus from current levels",
-        "The post-earnings selloff is viewed as overdone by several firms—Rosenblatt maintained a $304 target and Truist kept its Buy rating (reducing only to $245)—suggesting capex concerns are already priced in"
+        "Analyst consensus price target of ~$208 implies ~74% upside from current levels; Coinbase remains the dominant regulated crypto exchange with network effects and institutional custody infrastructure that positions it to benefit when the Bitcoin cycle turns",
+        "Long-term crypto adoption tailwinds are intact; a Bitcoin price recovery or regulatory clarity in the U.S. could serve as a significant catalyst for revenue reacceleration"
       ],
       "bear_case": [
-        "Management's guidance for significantly higher 2026 capex and a weak near-term outlook signals that profitability will remain elusive longer than expected, compressing the valuation multiple",
-        "The stock has fallen more than 57% from its 52-week high of $299.86 set in June 2026, and persistent selling from disappointed investors could extend the decline further before stabilizing"
+        "Loss-making on a trailing basis (negative P/E) with Morgan Stanley downgrading to Underweight and cutting target to $120, citing deteriorating confidence in earnings recovery",
+        "Highly correlated to Bitcoin price movements; a prolonged risk-off environment or Bitcoin correction could push COIN below its 52-week low of $125.38, with limited fundamental floor given negative EPS"
       ],
       "recommendation": "Hold",
-      "current_price": "$128.56",
-      "price_target": "$226.00 (+75.9%)",
+      "current_price": "$119.49",
+      "price_target": "$207.92 (+74.0%)",
       "pe_ratio": "N/A",
       "rsi": "N/A",
-      "vs_52wk_high": "-57.1% below high ($299.86)",
+      "vs_52wk_high": "-60.7% below high ($303.96)",
       "analyst_rating": "Buy",
-      "sector": "Technology - AI Cloud Infrastructure",
-      "sources": ["MarketBeat", "StockAnalysis", "StockScan", "TipRanks"],
-      "price_history_5d": [134.00, 128.56]
+      "sector": "Financials - Crypto Exchange / Digital Assets",
+      "sources": ["StockAnalysis", "TipRanks", "MarketBeat", "Public.com", "Investing.com"],
+      "price_history_5d": [136.27, 127.65, 119.49]
     },
     {
-      "ticker": "HTFL",
-      "company": "Heartflow Inc.",
-      "discussion_driver": "Heartflow shares fell approximately 16.5% on November 13 to $50.06 after a dilutive secondary stock offering was priced at a steep discount—just two days after the stock hit a new 52-week high of $60.66 on November 11. Q3 2026 results were strong, with EPS beating consensus by $0.15 and 2026 revenue guidance of $262-264 million topping expectations; this triggered Wells Fargo, Stifel Nicolaus, and Baird to all raise price targets to the $68-70 range on November 13.",
+      "ticker": "TSN",
+      "company": "Tyson Foods Inc.",
+      "discussion_driver": "Tyson Foods surged ~8.7% after Q4 adjusted EPS of $0.61 beat the $0.53 consensus estimate (+15%), and the company announced a 2% dividend increase. However, the company cut its fiscal 2027 sales guidance, dampening expectations for sustained growth. At ~$64 post-earnings with a 52-week high of $69.48 nearby, risk/reward appears balanced and analysts are split between holding and modest upside.",
       "bull_case": [
-        "Heartflow delivered a substantial Q3 2026 EPS beat ($-0.03 vs $-0.18 consensus) and raised revenue guidance to $262-264M, confirming strong commercial traction for its AI-powered cardiac diagnostics platform",
-        "Three major analysts raised targets to $68-70 on November 13 (Wells Fargo $70, Stifel $70, Baird $68), implying 36-40% upside from current prices and reflecting genuine confidence in the growth trajectory"
+        "Q4 EPS beat of 15% over consensus and a 2% dividend increase signal management confidence in cash generation; chicken and beef segment recovery supports improving margin trajectory into fiscal 2027",
+        "Defensive consumer staples positioning provides relative safety in volatile markets; Tyson's scale and diversified protein portfolio (chicken, beef, pork) reduces single-segment risk"
       ],
       "bear_case": [
-        "The company remains unprofitable with a negative P/E near -30, and the dilutive secondary offering signals ongoing capital needs that limit near-term upside and weigh on the share count",
-        "The sharp 16.5% single-day selloff on offering news shows elevated fragility near recent highs, and the broader tech sector rout creates an additional near-term headwind for momentum recovery"
+        "Fiscal 2027 sales guidance cut raises concerns about demand normalization in key protein markets and limits upside from an earnings standpoint after the initial beat-driven surge",
+        "Trailing P/E of 36x is elevated for a food producer facing ongoing margin pressures from feed costs and labor; analyst consensus target of ~$63-66 implies only modest upside from post-earnings levels near $64"
       ],
-      "recommendation": "Buy",
-      "current_price": "$50.06",
-      "price_target": "$68.00 (+35.8%)",
-      "pe_ratio": "-30.10",
+      "recommendation": "Hold",
+      "current_price": "$64.26",
+      "price_target": "$66.30 (+3.2%)",
+      "pe_ratio": "36.31",
       "rsi": "N/A",
-      "vs_52wk_high": "-17.4% below high ($60.66)",
-      "analyst_rating": "Buy",
-      "sector": "Healthcare - AI Diagnostic Imaging",
-      "sources": ["MarketBeat", "CNBC", "Wells Fargo", "Stifel Nicolaus", "Baird"],
-      "price_history_5d": [60.00, 59.92, 50.06]
+      "vs_52wk_high": "-7.5% below high ($69.48)",
+      "analyst_rating": "Hold",
+      "sector": "Consumer Staples - Food Products",
+      "sources": ["Yahoo Finance", "MarketBeat", "StockAnalysis", "Benzinga", "Macrotrends"],
+      "price_history_5d": [60.29, 59.87, 59.26, 58.82, 64.26]
     },
     {
-      "ticker": "SBCM",
-      "company": "SBC Medical Group Holdings",
-      "discussion_driver": "SBC Medical Group Holdings surged approximately 37.6% on November 13, setting a new 52-week high of $6.67 after Q3 2026 results significantly beat expectations with EPS of $0.15 and revenue of $58.58 million above consensus. The Japan-based medical aesthetics and clinic management franchiser demonstrated continued growth across its clinic network in Asia, and the stock moved from a prior close of $5.34 to as high as $6.67 intraday before closing near $6.51.",
+      "ticker": "XPEV",
+      "company": "XPeng Inc.",
+      "discussion_driver": "XPeng rose ~3.2% after reporting record Q3 revenue of RMB 24.28B (+19.1% YoY) and guiding Q4 deliveries to 169,000-174,000 units. Despite the positive results, the stock remains near its 52-week low around $9.37-9.67—down ~60% from the 2026 high—as investors weigh strong operational momentum against persistent losses and intensifying EV price competition from BYD and other domestic Chinese rivals.",
       "bull_case": [
-        "Strong Q3 2026 results—EPS of $0.15 and revenue of $58.58M both beating consensus—validate the company's growing franchise model and clinic expansion strategy across Japan and broader Asia",
-        "The stock trades at a reasonable forward P/E near 12 with analyst targets of $8.00-$11.00, implying 23-69% further upside at a valuation that is not demanding relative to healthcare peers"
+        "Record Q3 revenue (+19.1% YoY) with accelerating deliveries demonstrates XPeng is gaining market share with the MONA and X9 platforms; Q4 guidance of 169,000-174,000 units continues to outpace year-ago levels",
+        "Analyst consensus price target of ~$17.65 implies ~83% upside from current levels; XPeng's AI-driven smart driving technology (XNGP) is a differentiator in China's premium EV segment"
       ],
       "bear_case": [
-        "As a small-cap Japanese medical aesthetics company, SBCM has thin US analyst coverage and limited liquidity, increasing volatility risk and making it vulnerable to sharp reversals on any negative news",
-        "The 37.6% single-session surge risks near-term profit-taking; currency headwinds from yen exposure and the company's limited US investor base could dampen sustained momentum"
+        "JPMorgan recently cut its target to $10 (Underweight), citing fierce competition from BYD's aggressive pricing and compressed margins across the Chinese EV industry with no near-term resolution",
+        "Negative trailing EPS with no clear path to GAAP profitability despite revenue growth; stock is near its 52-week low with ongoing macro headwinds from U.S.-China trade tensions and weak Chinese consumer sentiment"
       ],
-      "recommendation": "Buy",
-      "current_price": "$6.51",
-      "price_target": "$8.00 (+22.9%)",
-      "pe_ratio": "12.25",
-      "rsi": "N/A",
-      "vs_52wk_high": "-2.4% below high ($6.67)",
-      "analyst_rating": "Buy",
-      "sector": "Healthcare - Medical Aesthetics",
-      "sources": ["MarketBeat", "StockAnalysis", "Yahoo Finance"],
-      "price_history_5d": [5.26, 5.34, 6.51]
-    },
-    {
-      "ticker": "LFTM",
-      "company": "Liftoff Mobile",
-      "discussion_driver": "Liftoff Mobile (NASDAQ: LFTO) surged approximately 22% on November 13 after reporting a Q3 2026 earnings blowout, with EPS of $0.47 more than doubling the $0.17 analyst consensus and revenue of $238 million exceeding the high end of guidance. Adjusted EBITDA of $145 million also beat estimates, and four analysts immediately raised price targets on the mobile performance-marketing platform, including Royal Bank of Canada to $38 and BTIG to $31.",
-      "bull_case": [
-        "Q3 2026 EPS of $0.47 nearly tripled the $0.17 consensus estimate, and adjusted EBITDA of $145 million exceeded the top of guidance, demonstrating powerful operating leverage in the mobile advertising platform",
-        "Multiple analyst upgrades post-earnings bring the consensus target to $29.22 (Moderate Buy), implying 28% upside from current levels, with the most bullish target at $38 from Royal Bank of Canada"
-      ],
-      "bear_case": [
-        "The stock is still 24% below its 52-week high of $30.10 and mobile advertising markets are cyclical—any macro-driven slowdown in app-install spending could quickly reverse recent earnings momentum",
-        "Barclays set a target of $30 while Morgan Stanley maintains an equal-weight rating at $20, reflecting divided analyst opinion and risk of a reversion after the earnings-driven gap higher"
-      ],
-      "recommendation": "Buy",
-      "current_price": "$22.79",
-      "price_target": "$29.22 (+28.2%)",
+      "recommendation": "Speculative Buy",
+      "current_price": "$9.67",
+      "price_target": "$17.65 (+82.5%)",
       "pe_ratio": "N/A",
-      "rsi": "62.36",
-      "vs_52wk_high": "-24.3% below high ($30.10)",
-      "analyst_rating": "Moderate Buy",
-      "sector": "Technology - Mobile Performance Marketing",
-      "sources": ["MarketBeat", "Investing.com", "HeyGoTrade", "Robinhood"],
-      "price_history_5d": [18.55, 19.72, 22.79]
+      "rsi": "N/A",
+      "vs_52wk_high": "-60.0% below high ($24.17)",
+      "analyst_rating": "Buy",
+      "sector": "Consumer Discretionary - Electric Vehicles",
+      "sources": ["StockAnalysis", "Investing.com", "Yahoo Finance", "Benzinga", "Morningstar", "Macrotrends"],
+      "price_history_5d": [10.22, 9.46, 9.37, 9.67]
     }
   ]
 }
