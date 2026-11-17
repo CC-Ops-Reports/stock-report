@@ -1,173 +1,169 @@
 {
-  "report_date": "2026-11-16",
+  "report_date": "2026-11-17",
   "market_tone": "Bearish",
   "key_themes": [
-    "AI trade selloff ahead of Nvidia Q3 earnings (CEO departure overhang)",
-    "Anthropic IPO oversubscribed 7x, pricing Wednesday, trading starts Nov 19",
-    "Chip sector broad decline; crypto/AI-linked names hit hardest"
+    "Nvidia earnings beat drives AI/data center stocks higher in after-hours trading",
+    "Broad market selloff: S&P 500 hits lowest close since July, Dow down 1.6%",
+    "Managed care stocks under pressure; software names weakest sector"
   ],
   "sp500": {
-    "value": "7,416.59",
-    "change": "-1.92%"
+    "value": "7,340.53",
+    "change": "-1.03%"
   },
   "nasdaq": {
-    "value": "24,509.76",
-    "change": "-2.49%"
+    "value": "24,328",
+    "change": "-0.74%"
   },
   "stocks": [
     {
       "ticker": "NVDA",
-      "company": "Nvidia",
-      "reason": "Fell ~4.1% as investors sold ahead of Q3 earnings due Tuesday; AI leadership crisis after CEO Jensen Huang departure news weighed on AI-linked names broadly",
+      "company": "Nvidia Corporation",
+      "reason": "Reported Q3 FY2027 earnings after bell: EPS $2.68 vs $2.47 est., revenue $115.8B (up 103% YoY) vs $108.8B est.; guided Q4 to $127.4B-$132.6B; first call with interim CEO Colette Kress after Jensen Huang stepped down; stock up 4%+ AH",
       "category": "earnings",
       "sources": [
-        "CNBC",
         "Yahoo Finance",
-        "StockTitan"
-      ]
-    },
-    {
-      "ticker": "CGON",
-      "company": "CG Oncology",
-      "reason": "Surged ~14-18% after PIVOT-006 Phase 3 trial met primary endpoint in bladder cancer; drug cut recurrence risk by 68% vs control over 17-month median follow-up",
-      "category": "news",
-      "sources": [
-        "Benzinga",
-        "RTTNews",
-        "Investing.com"
-      ]
-    },
-    {
-      "ticker": "INTC",
-      "company": "Intel",
-      "reason": "Fell ~7% in broad chip selloff; extended losses in after-hours after Nvidia disclosed it slashed its stake in Intel",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "Investing.com"
-      ]
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron Technology",
-      "reason": "Dropped ~7.6% on broad AI/chip sector weakness; class-action DRAM price-collusion lawsuit added pressure",
-      "category": "sector",
-      "sources": [
-        "Investing.com",
-        "ChartMill",
-        "FX Leaders"
-      ]
-    },
-    {
-      "ticker": "LITE",
-      "company": "Lumentum",
-      "reason": "Plunged ~8%, pacing S&P 500 decliners alongside chip selloff driven by pre-Nvidia-earnings risk-off sentiment",
-      "category": "sector",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "SNDK",
-      "company": "SanDisk",
-      "reason": "Dropped ~8%, memory sector hit by broad AI trade selloff ahead of Nvidia earnings",
-      "category": "sector",
-      "sources": [
-        "CNBC",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "TU",
-      "company": "Telus",
-      "reason": "Surged ~26-29% after confirming it received an unsolicited, non-binding takeover proposal from Qu\u00e9becor",
-      "category": "news",
-      "sources": [
-        "Benzinga",
-        "StockTitan",
-        "Investing.com"
-      ]
-    },
-    {
-      "ticker": "COIN",
-      "company": "Coinbase",
-      "reason": "Fell ~6.4% as Bitcoin sold off; crypto-linked stocks broadly declined on risk-off day",
-      "category": "sector",
-      "sources": [
-        "Yahoo Finance",
+        "Kiplinger",
+        "ABC News",
         "CNBC"
       ]
     },
     {
-      "ticker": "TSN",
-      "company": "Tyson Foods",
-      "reason": "Rose ~8.7% after Q4 adjusted EPS of $0.61 beat estimates; also announced 2% dividend increase despite fiscal 2027 sales guidance cut",
-      "category": "earnings",
+      "ticker": "SLS",
+      "company": "SELLAS Life Sciences Group",
+      "reason": "Biggest single-day gainer, up approximately 156% at the regular-session close after reporting a positive cancer vaccine trial result",
+      "category": "news",
       "sources": [
-        "Yahoo Finance",
-        "MarketBeat",
-        "Benzinga"
+        "Seeking Alpha",
+        "Morningstar"
       ]
     },
     {
-      "ticker": "XPEV",
-      "company": "XPeng",
-      "reason": "Rose ~3.2% after reporting record Q3 revenue of RMB 24.28B (+19.1% YoY); guided Q4 deliveries to 169,000-174,000",
+      "ticker": "ACM",
+      "company": "AECOM",
+      "reason": "Rose approximately 12.7% after issuing FY2027 EPS guidance of $6.15 to $6.35, above analyst expectations",
       "category": "earnings",
       "sources": [
-        "Yahoo Finance",
-        "MarketBeat"
+        "Seeking Alpha",
+        "Morningstar"
       ]
     },
     {
-      "ticker": "BIDU",
-      "company": "Baidu",
-      "reason": "Reported Q3 EPS of 6.78 vs estimate of 6.16 (+10% beat); ad revenue weakness was flagged but EPS surprise positive",
+      "ticker": "RCAT",
+      "company": "Red Cat Holdings",
+      "reason": "Biggest decliner of the session; company withdrew its full-year 2026 revenue target, sending shares sharply lower in both premarket and regular session",
+      "category": "news",
+      "sources": [
+        "Seeking Alpha",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "DIS",
+      "company": "Walt Disney Company",
+      "reason": "Reported fiscal Q4 results: revenue $25.9B (up 16% YoY), adjusted EPS $1.77 vs $1.11 a year ago, declared $2.00/share dividend; stock closed slightly lower despite beat",
       "category": "earnings",
       "sources": [
-        "Yahoo Finance",
-        "Seeking Alpha"
+        "Investrade",
+        "TipRanks",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "HD",
+      "company": "Home Depot",
+      "reason": "Reported Q3 earnings; analysts expected EPS of $3.84 on revenue of ~$42.8B; investors watching for signs of recovery in home improvement demand",
+      "category": "earnings",
+      "sources": [
+        "Newsquawk",
+        "The Street"
+      ]
+    },
+    {
+      "ticker": "CRWV",
+      "company": "CoreWeave",
+      "reason": "Neocloud/AI infrastructure stock rose approximately 4% in extended trading following Nvidia's strong earnings beat and guidance; benefits from data center buildout theme",
+      "category": "sector",
+      "sources": [
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "NBIS",
+      "company": "Nebius Group",
+      "reason": "AI cloud company rose approximately 6% in extended trading after Nvidia beat and guidance, benefiting from accelerated data center investment narrative",
+      "category": "sector",
+      "sources": [
+        "CNBC"
       ]
     },
     {
       "ticker": "IREN",
-      "company": "IREN (Iris Energy)",
-      "reason": "Fell ~10% to 52-week low after company pushed back its $4B ARR target, raising funding concerns for the neocloud operator",
-      "category": "news",
-      "sources": [
-        "Benzinga",
-        "Investing.com",
-        "Motley Fool"
-      ]
-    },
-    {
-      "ticker": "SMMT",
-      "company": "Summit Therapeutics",
-      "reason": "Dropped ~17%, reversing recent gains; no single news catalyst confirmed but appeared in top S&P 500 decliners on high volume",
+      "company": "Iren Limited",
+      "reason": "Data center/AI infrastructure company rose approximately 4% after Nvidia earnings; Trump administration announced plans to block imports of Chinese data center equipment boosting domestic players",
       "category": "sector",
-      "sources": [
-        "StockTitan",
-        "Business Upturn"
-      ]
-    },
-    {
-      "ticker": "JNJ",
-      "company": "Johnson & Johnson",
-      "reason": "Rose ~1.4%, bucking market weakness after announcing $2.2B acquisition of clinical-stage biopharma Ollin Biosciences",
-      "category": "news",
       "sources": [
         "CNBC",
-        "Yahoo Finance"
+        "Reuters"
       ]
     },
     {
-      "ticker": "HOOD",
-      "company": "Robinhood Markets",
-      "reason": "Fell ~5.4% in premarket as Bitcoin sold off and crypto-linked equities declined broadly on risk-off sentiment",
+      "ticker": "UNH",
+      "company": "UnitedHealth Group",
+      "reason": "Managed care stocks were among the biggest movers Tuesday amid ongoing pressure on the sector; group cited in Seeking Alpha's biggest movers roundup",
       "category": "sector",
       "sources": [
-        "Yahoo Finance"
+        "Seeking Alpha",
+        "Morningstar"
+      ]
+    },
+    {
+      "ticker": "MDT",
+      "company": "Medtronic",
+      "reason": "Piper Sandler upgraded to Overweight from Neutral and raised price target to $120 from $85, citing improved medical device demand outlook",
+      "category": "upgrade",
+      "sources": [
+        "Globe and Mail",
+        "Daily Trade Alert"
+      ]
+    },
+    {
+      "ticker": "UNFI",
+      "company": "United Natural Foods",
+      "reason": "Jumped after Goldman Sachs upgraded to Buy from Neutral, citing improving fundamentals and distribution trends in natural/organic food segment",
+      "category": "upgrade",
+      "sources": [
+        "CNBC",
+        "Globe and Mail"
+      ]
+    },
+    {
+      "ticker": "PEP",
+      "company": "PepsiCo",
+      "reason": "Bernstein downgraded to Underperform and trimmed price target to $128 from $131, citing persistent weakness in North America volumes and competitive pressures",
+      "category": "downgrade",
+      "sources": [
+        "Daily Trade Alert",
+        "Globe and Mail"
+      ]
+    },
+    {
+      "ticker": "ZBH",
+      "company": "Zimmer Biomet Holdings",
+      "reason": "Wells Fargo upgraded from Equal Weight to Overweight and raised price target from $113 to $123, citing recovery in orthopedic procedure volumes",
+      "category": "upgrade",
+      "sources": [
+        "Globe and Mail",
+        "Daily Trade Alert"
+      ]
+    },
+    {
+      "ticker": "CSCO",
+      "company": "Cisco Systems",
+      "reason": "HSBC upgraded to Buy from Hold and raised price target to $133 from $120; stock had fallen 6% the prior Friday despite Q1 earnings beat and raised guidance",
+      "category": "upgrade",
+      "sources": [
+        "CNBC",
+        "Globe and Mail"
       ]
     }
   ]
