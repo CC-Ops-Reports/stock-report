@@ -1,121 +1,121 @@
 {
-  "report_date": "2026-11-16",
+  "report_date": "2026-11-17",
   "batch": 2,
   "stocks": [
     {
-      "ticker": "SNDK",
-      "company": "SanDisk Corporation",
-      "discussion_driver": "SanDisk fell ~8.6% on November 16, pacing broad chip/AI sector declines as investors de-risked ahead of Nvidia's Q3 earnings. The stock is now down more than 65% from its 2026 52-week high of $2,354.39, with RSI near oversold territory at ~30, while analysts maintain an average price target above $2,000—implying a substantial mean-reversion opportunity if the AI memory cycle recovers.",
+      "ticker": "HD",
+      "company": "The Home Depot, Inc.",
+      "discussion_driver": "Home Depot reported Q3 FY2026 earnings on Nov 17, beating analyst estimates and raising its full-year sales outlook. The company also named Richard McPhail as new CEO effective November 23, 2026. Despite the upside surprise, HD closed lower as broad market selling pressure (S&P at July lows) weighed on the stock.",
       "bull_case": [
-        "Deeply oversold with RSI ~30 and a ~153% gap to analyst consensus target of $2,047; institutional targets range from $870 to $3,000, with Rosenblatt at $2,400 and Goldman Sachs at $2,200",
-        "NAND memory demand from AI data center buildout remains a secular tailwind; a cyclical recovery expected in 2027 could dramatically improve earnings leverage from current P/E of ~7x"
+        "Q3 earnings beat with raised full-year sales guidance demonstrates resilience in home improvement demand, and new CEO McPhail brings operational continuity with deep company knowledge",
+        "Pent-up housing turnover demand could accelerate if interest rates ease, as millions of homeowners remain locked into low-rate mortgages and deferred improvement projects accumulate"
       ],
       "bear_case": [
-        "Stock has collapsed ~66% from its 2026 high, with no specific catalyst yet to reverse the trend; negative momentum and ongoing AI sector risk-off could push lower before recovery",
-        "Memory pricing pressure and an industry DRAM price-collusion class-action lawsuit add headline risk; oversupply conditions in the NAND market may persist longer than consensus expects"
+        "Broad market selloff sent HD lower despite a solid earnings beat, reflecting macro concerns that could dampen discretionary home improvement spending",
+        "Housing market transactions remain well below historical averages, limiting the big-ticket renovation spending that drives HD's highest-margin categories"
+      ],
+      "recommendation": "Hold",
+      "current_price": "$339.01",
+      "price_target": "$377.59 (+11.4%)",
+      "pe_ratio": "23.72",
+      "rsi": "N/A",
+      "vs_52wk_high": "-14.7% below high ($397.63)",
+      "analyst_rating": "Buy",
+      "sector": "Consumer Discretionary - Home Improvement Retail",
+      "sources": ["StockAnalysis", "Yahoo Finance", "24/7 Wall St", "Evercore ISI", "JPMorgan", "Truist"],
+      "price_history_5d": [351.31, 348.26, 348.69, 347.51, 339.01]
+    },
+    {
+      "ticker": "CRWV",
+      "company": "CoreWeave, Inc.",
+      "discussion_driver": "CoreWeave rose ~4% in extended trading on Nov 17 after Nvidia's blowout Q3 earnings reaffirmed surging GPU rental demand. CRWV itself reported Q3 results on Nov 11 showing 168% revenue growth and a $132.5B backlog, though the stock has since given back most of its post-earnings 25% jump amid broader AI valuation uncertainty.",
+      "bull_case": [
+        "Q3 revenue up 168% YoY with backlog at $132.5B (up 138% YoY) demonstrates exceptional AI infrastructure demand; management raised full-year guidance above Wall Street expectations",
+        "Direct beneficiary of Nvidia's sustained GPU compute buildout narrative; Nvidia's strong Q4 guidance of $127-133B reaffirms the data center capex cycle that feeds CoreWeave's business"
+      ],
+      "bear_case": [
+        "Stock is down 70% from its 52-week high of $138.25 despite strong revenue, reflecting extreme valuation uncertainty, heavy debt load, and high capital intensity inherent to neocloud infrastructure",
+        "Multiple analysts cut price targets after Q3 results despite the revenue beat; Cantor Fitzgerald reduced target to $100 and Stifel lowered to $60 (Hold), citing customer concentration and competitive risk from hyperscalers"
       ],
       "recommendation": "Speculative Buy",
-      "current_price": "$809.11",
-      "price_target": "$2,047.38 (+153.0%)",
-      "pe_ratio": "7.1",
-      "rsi": "30.25",
-      "vs_52wk_high": "-65.6% below high ($2,354.39)",
-      "analyst_rating": "Moderate Buy",
-      "sector": "Technology - Data Storage",
-      "sources": ["StockAnalysis", "MarketBeat", "Investing.com", "Public.com", "Macrotrends"],
-      "price_history_5d": [859.99, 977.69, 937.46, 885.01, 809.11]
-    },
-    {
-      "ticker": "TU",
-      "company": "Telus Corporation",
-      "discussion_driver": "Quebecor made an unsolicited C$31 billion (~US$21.7B) cash-and-stock takeover bid for Telus on November 16, sending shares surging up to 29% in early trading before settling ~11-13% higher. Telus's board flagged 'serious concerns' around regulatory approvals, governance, and execution risk, leaving deal outcome highly uncertain and creating a wide deal/no-deal spread in the stock.",
-      "bull_case": [
-        "Quebecor's C$31B offer represents a significant premium to pre-bid trading prices of ~$8.53, confirming strategic value of Telus's wireless, wireline, and healthcare assets across Canada",
-        "If the deal closes, shareholders would receive a material premium; even a prolonged negotiation process could keep the stock elevated as arbitrageurs price in deal probability"
-      ],
-      "bear_case": [
-        "Telus itself cited 'serious concerns' about regulatory and transaction risks; Canadian telecom M&A faces intense CRTC scrutiny and the deal may ultimately be blocked or abandoned",
-        "If deal talks collapse, shares could retrace sharply toward pre-bid levels near $8.53; Telus carries heavy debt with negative TTM EPS (-$0.94), limiting fundamental support"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$9.47",
-      "price_target": "C$10.00 (~$6.98 USD, Hold consensus pre-bid)",
+      "current_price": "$49.89",
+      "price_target": "$129.00 (+158.6%)",
       "pe_ratio": "N/A",
       "rsi": "N/A",
-      "vs_52wk_high": "N/A",
-      "analyst_rating": "Hold",
-      "sector": "Communication Services - Telecommunications",
-      "sources": ["BNN Bloomberg", "GuruFocus", "TipRanks", "ProactiveInvestors", "Yahoo Finance"],
-      "price_history_5d": [8.53, 9.47]
-    },
-    {
-      "ticker": "COIN",
-      "company": "Coinbase Global Inc.",
-      "discussion_driver": "Coinbase fell ~6.4% on November 16 as Bitcoin sold off on a broad risk-off day driven by pre-Nvidia-earnings AI sector fear. The stock has now declined sharply from its 2026 high of $303.96 and is trading near multi-month lows, with the market pricing in a deteriorating macro environment for crypto despite Coinbase's dominant position as the leading regulated U.S. exchange.",
-      "bull_case": [
-        "Analyst consensus price target of ~$208 implies ~74% upside from current levels; Coinbase remains the dominant regulated crypto exchange with network effects and institutional custody infrastructure that positions it to benefit when the Bitcoin cycle turns",
-        "Long-term crypto adoption tailwinds are intact; a Bitcoin price recovery or regulatory clarity in the U.S. could serve as a significant catalyst for revenue reacceleration"
-      ],
-      "bear_case": [
-        "Loss-making on a trailing basis (negative P/E) with Morgan Stanley downgrading to Underweight and cutting target to $120, citing deteriorating confidence in earnings recovery",
-        "Highly correlated to Bitcoin price movements; a prolonged risk-off environment or Bitcoin correction could push COIN below its 52-week low of $125.38, with limited fundamental floor given negative EPS"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$119.49",
-      "price_target": "$207.92 (+74.0%)",
-      "pe_ratio": "N/A",
-      "rsi": "N/A",
-      "vs_52wk_high": "-60.7% below high ($303.96)",
+      "vs_52wk_high": "-63.9% below high ($138.25)",
       "analyst_rating": "Buy",
-      "sector": "Financials - Crypto Exchange / Digital Assets",
-      "sources": ["StockAnalysis", "TipRanks", "MarketBeat", "Public.com", "Investing.com"],
-      "price_history_5d": [136.27, 127.65, 119.49]
+      "sector": "Technology - AI Cloud Infrastructure",
+      "sources": ["StockAnalysis", "Benzinga", "24/7 Wall St", "Motley Fool", "MarketBeat", "Citigroup", "Bank of America"],
+      "price_history_5d": [60.77, 56.60, 53.13, 49.88, 49.89]
     },
     {
-      "ticker": "TSN",
-      "company": "Tyson Foods Inc.",
-      "discussion_driver": "Tyson Foods surged ~8.7% after Q4 adjusted EPS of $0.61 beat the $0.53 consensus estimate (+15%), and the company announced a 2% dividend increase. However, the company cut its fiscal 2027 sales guidance, dampening expectations for sustained growth. At ~$64 post-earnings with a 52-week high of $69.48 nearby, risk/reward appears balanced and analysts are split between holding and modest upside.",
+      "ticker": "NBIS",
+      "company": "Nebius Group N.V.",
+      "discussion_driver": "Nebius jumped 10%+ in after-hours trading on Nov 17 after Nvidia's earnings beat reaffirmed accelerating GPU cloud demand. The move followed a brutal 3-session decline of ~31% from $154.69 to $106.04, driven by earnings-week volatility and investor concerns over Nebius's plan to spend more than $3 for every $1 of revenue in 2027.",
       "bull_case": [
-        "Q4 EPS beat of 15% over consensus and a 2% dividend increase signal management confidence in cash generation; chicken and beef segment recovery supports improving margin trajectory into fiscal 2027",
-        "Defensive consumer staples positioning provides relative safety in volatile markets; Tyson's scale and diversified protein portfolio (chicken, beef, pork) reduces single-segment risk"
+        "571% revenue growth and direct AI cloud infrastructure positioning make Nebius a high-beta play on GPU compute demand; $226 analyst consensus target implies over 113% upside from current levels",
+        "Post-Nvidia earnings catalyst validates the neocloud thesis; accelerated data center investment narrative benefits Nebius directly as it scales GPU cluster infrastructure across Europe and globally"
       ],
       "bear_case": [
-        "Fiscal 2027 sales guidance cut raises concerns about demand normalization in key protein markets and limits upside from an earnings standpoint after the initial beat-driven surge",
-        "Trailing P/E of 36x is elevated for a food producer facing ongoing margin pressures from feed costs and labor; analyst consensus target of ~$63-66 implies only modest upside from post-earnings levels near $64"
-      ],
-      "recommendation": "Hold",
-      "current_price": "$64.26",
-      "price_target": "$66.30 (+3.2%)",
-      "pe_ratio": "36.31",
-      "rsi": "N/A",
-      "vs_52wk_high": "-7.5% below high ($69.48)",
-      "analyst_rating": "Hold",
-      "sector": "Consumer Staples - Food Products",
-      "sources": ["Yahoo Finance", "MarketBeat", "StockAnalysis", "Benzinga", "Macrotrends"],
-      "price_history_5d": [60.29, 59.87, 59.26, 58.82, 64.26]
-    },
-    {
-      "ticker": "XPEV",
-      "company": "XPeng Inc.",
-      "discussion_driver": "XPeng rose ~3.2% after reporting record Q3 revenue of RMB 24.28B (+19.1% YoY) and guiding Q4 deliveries to 169,000-174,000 units. Despite the positive results, the stock remains near its 52-week low around $9.37-9.67—down ~60% from the 2026 high—as investors weigh strong operational momentum against persistent losses and intensifying EV price competition from BYD and other domestic Chinese rivals.",
-      "bull_case": [
-        "Record Q3 revenue (+19.1% YoY) with accelerating deliveries demonstrates XPeng is gaining market share with the MONA and X9 platforms; Q4 guidance of 169,000-174,000 units continues to outpace year-ago levels",
-        "Analyst consensus price target of ~$17.65 implies ~83% upside from current levels; XPeng's AI-driven smart driving technology (XNGP) is a differentiator in China's premium EV segment"
-      ],
-      "bear_case": [
-        "JPMorgan recently cut its target to $10 (Underweight), citing fierce competition from BYD's aggressive pricing and compressed margins across the Chinese EV industry with no near-term resolution",
-        "Negative trailing EPS with no clear path to GAAP profitability despite revenue growth; stock is near its 52-week low with ongoing macro headwinds from U.S.-China trade tensions and weak Chinese consumer sentiment"
+        "Plans to spend more than $3 capex for every $1 of revenue in 2027 creates severe cash burn risk; Compass Point cut its price target after the company disclosed higher-than-expected capital expenditure plans",
+        "Down 65% from its 52-week high of $299.86 and carrying a trailing P/E above 250x; extreme valuation multiple and insider selling signal speculative nature with limited margin of safety"
       ],
       "recommendation": "Speculative Buy",
-      "current_price": "$9.67",
-      "price_target": "$17.65 (+82.5%)",
-      "pe_ratio": "N/A",
+      "current_price": "$106.04",
+      "price_target": "$226.00 (+113.1%)",
+      "pe_ratio": "254.32",
       "rsi": "N/A",
-      "vs_52wk_high": "-60.0% below high ($24.17)",
+      "vs_52wk_high": "-64.6% below high ($299.86)",
       "analyst_rating": "Buy",
-      "sector": "Consumer Discretionary - Electric Vehicles",
-      "sources": ["StockAnalysis", "Investing.com", "Yahoo Finance", "Benzinga", "Morningstar", "Macrotrends"],
-      "price_history_5d": [10.22, 9.46, 9.37, 9.67]
+      "sector": "Technology - AI Cloud Computing",
+      "sources": ["StockAnalysis", "Defense World", "24/7 Wall St", "Benzinga", "Finviz", "Compass Point", "Rothschild & Co Redburn"],
+      "price_history_5d": [154.69, 128.64, 115.88, 107.13, 106.04]
+    },
+    {
+      "ticker": "IREN",
+      "company": "IREN Limited",
+      "discussion_driver": "IREN fell 3.5% to a fresh 52-week low on Nov 17 before rebounding ~4% in after-hours trading on Nvidia's earnings beat, which reaffirmed AI data center demand. The stock has collapsed 67% over six months amid a $6B funding need, slipped ARR milestones, and sector-wide neocloud selling, while Soros Fund and Intel both disclosed new stakes at depressed levels.",
+      "bull_case": [
+        "Trump administration plans to block imports of Chinese data center equipment provide a direct competitive tailwind for domestic AI infrastructure operators like IREN, potentially accelerating US-based data center build-out",
+        "Contrarian institutional validation: both Soros Fund Management and Intel disclosed new equity stakes as shares hit multi-year lows, suggesting smart money sees value; RSI near 30 indicates extreme oversold conditions"
+      ],
+      "bear_case": [
+        "Down 67% over 6 months with a $6B funding requirement and missed ARR milestones; stock hit fresh 52-week lows in mid-November and remains in a confirmed downtrend with no visible catalyst to reverse capital market headwinds",
+        "Multiple analysts slashed price targets (JPMorgan to $55, Cantor Fitzgerald to $47, Goldman cut) even while maintaining Buy ratings, suggesting fundamental deterioration that analyst optimism may not fully reflect"
+      ],
+      "recommendation": "Speculative Buy",
+      "current_price": "$15.82",
+      "price_target": "$56.69 (+258.3%)",
+      "pe_ratio": "N/A",
+      "rsi": "29.61",
+      "vs_52wk_high": "-77.6% below high ($70.71)",
+      "analyst_rating": "Buy",
+      "sector": "Technology - AI Data Center Infrastructure & Digital Assets",
+      "sources": ["StockAnalysis", "Benzinga", "24/7 Wall St", "MarketBeat", "Yahoo Finance", "Blockchain.News", "JPMorgan", "Cantor Fitzgerald"],
+      "price_history_5d": [20.84, 19.48, 18.17, 16.39, 15.82]
+    },
+    {
+      "ticker": "UNH",
+      "company": "UnitedHealth Group Incorporated",
+      "discussion_driver": "UnitedHealth fell 5.4% on Nov 17, leading managed care stocks lower in a broad sector selloff cited by Seeking Alpha as among the session's biggest movers. Despite strong Q2 2026 earnings with a raised FY2026 EPS outlook, the managed care sector faces persistent headwinds from elevated medical loss ratios and regulatory uncertainty around Medicare Advantage.",
+      "bull_case": [
+        "Market leader in managed care with raised FY2026 EPS guidance and diversified revenue through the Optum health services segment; 26-analyst Buy consensus with $476 average target implies 22% upside from current levels",
+        "Nov 17 decline looks technically driven by sector-wide selling rather than company-specific deterioration; UNH's fundamentals remain intact with pricing power and scale advantages in managed care"
+      ],
+      "bear_case": [
+        "Managed care sector faces structural headwinds from elevated medical cost trends, with utilization rates running above pre-pandemic norms putting pressure on medical loss ratios across the industry",
+        "Healthcare regulatory risk remains elevated with potential Medicare Advantage rate revisions and ongoing scrutiny of insurer prior authorization practices; sector pressure can be persistent once it begins"
+      ],
+      "recommendation": "Buy",
+      "current_price": "$389.68",
+      "price_target": "$476.16 (+22.2%)",
+      "pe_ratio": "22.93",
+      "rsi": "N/A",
+      "vs_52wk_high": "-10.7% below high ($436.35)",
+      "analyst_rating": "Buy",
+      "sector": "Healthcare - Managed Care",
+      "sources": ["Yahoo Finance", "StockAnalysis", "GuruFocus", "Benzinga", "S&P Global", "Morgan Stanley", "StockAnalysisDaily"],
+      "price_history_5d": [402.94, 405.13, 407.46, 412.02, 389.68]
     }
   ]
 }
