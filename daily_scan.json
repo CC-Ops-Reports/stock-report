@@ -1,163 +1,159 @@
 {
-  "report_date": "2026-11-18",
-  "market_tone": "Mixed",
+  "report_date": "2026-11-19",
+  "market_tone": "Bearish",
   "key_themes": [
-    "Cybersecurity stocks surge on DHS warning of AI-powered attacks on US infrastructure",
-    "Nvidia Q3 FY27 earnings beat ($115.8B revenue, +103% YoY) but stock closes lower as first post-Jensen Huang report",
-    "Retail earnings split: TJX and Target beat expectations; Lowe's trims margin outlook"
+    "Anthropic IPO debut fails to revive AI sentiment; broad market selloff extends to 6 straight S&P 500 losses",
+    "Retail earnings split: Walmart and Ross Stores beat, Williams-Sonoma disappoints on soft comps",
+    "Chip sector under pressure from tightened US export controls targeting Southeast Asia data centers aiding China"
   ],
   "sp500": {
-    "value": "7,323.63",
-    "change": "-0.2%"
+    "value": "5,781.00",
+    "change": "-2.02%"
   },
   "nasdaq": {
-    "value": "24,429.88",
-    "change": "+0.4%"
+    "value": "18,120.00",
+    "change": "-2.0%"
   },
   "stocks": [
     {
-      "ticker": "TENB",
-      "company": "Tenable Holdings",
-      "reason": "Surged ~15% as DHS secretary warned of AI-powered cyberattacks on US infrastructure, sparking a broad cybersecurity rally",
-      "category": "sector",
+      "ticker": "ANT",
+      "company": "Anthropic",
+      "reason": "IPO debut on Nasdaq today; priced at $83, opened at $111.50 (+34%), closed ~$97 (+17%) after record-setting $81B IPO; failed to lift broader tech market",
+      "category": "news",
       "sources": [
         "CNBC",
-        "TipRanks",
-        "247WallSt"
-      ]
-    },
-    {
-      "ticker": "S",
-      "company": "SentinelOne",
-      "reason": "Closed up 10.8% to $23.42 as cybersecurity sector rallied on AI-attack warning from Homeland Security",
-      "category": "sector",
-      "sources": [
-        "247WallSt",
-        "BusinessUpturn"
-      ]
-    },
-    {
-      "ticker": "QLYS",
-      "company": "Qualys",
-      "reason": "Rose ~13% on the DHS AI-infrastructure attack warning driving the cybersecurity sector surge",
-      "category": "sector",
-      "sources": [
-        "Globe and Mail",
-        "TipRanks"
+        "StockTitan",
+        "BusinessUpturn",
+        "Motley Fool"
       ]
     },
     {
       "ticker": "PANW",
       "company": "Palo Alto Networks",
-      "reason": "Rose 9.3% to $338.12 \u2014 double catalyst: fiscal Q1 earnings beat ($1.05 adj. EPS vs $0.97 est., revenue $3.44B vs $3.31B est.) AND sector tailwind from cybersecurity rally",
+      "reason": "Fiscal Q1 FY2026 earnings beat estimates; raised profit outlook; shares surged ~9-10% on strong cybersecurity platform demand",
       "category": "earnings",
       "sources": [
         "CNBC",
+        "Investrade"
+      ]
+    },
+    {
+      "ticker": "WMT",
+      "company": "Walmart",
+      "reason": "Q3 FY2026 earnings and revenue beat; raised full-year adjusted EPS guidance to $2.84-$2.89; e-commerce momentum continued",
+      "category": "earnings",
+      "sources": [
+        "Yahoo Finance",
+        "Zacks",
+        "Nasdaq"
+      ]
+    },
+    {
+      "ticker": "WSM",
+      "company": "Williams-Sonoma",
+      "reason": "Q3 earnings: revenue of $1.99B missed slightly, comps fell short of estimates; full-year guidance only reiterated; worst S&P 500 performer, down ~15.2%",
+      "category": "earnings",
+      "sources": [
+        "Benzinga",
+        "Investing.com",
+        "Wall Street Republic"
+      ]
+    },
+    {
+      "ticker": "INTU",
+      "company": "Intuit",
+      "reason": "Q1 FY2026 results beat guidance but Q2 outlook disappointed; also announced sale of Mailchimp; shares fell 11-14% after hours",
+      "category": "earnings",
+      "sources": [
+        "StockTitan",
+        "Wall Street Republic",
+        "Investing.com"
+      ]
+    },
+    {
+      "ticker": "PDD",
+      "company": "PDD Holdings",
+      "reason": "Q3 2026 earnings released pre-market beat estimates; shares surged ~12% midday despite ongoing Temu regulatory headwinds in EU",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "StockTitan",
+        "Finviz"
+      ]
+    },
+    {
+      "ticker": "AMD",
+      "company": "Advanced Micro Devices",
+      "reason": "Down ~7.7% amid continued chip export control concerns; new BIS interim rule targeting Southeast Asia data centers suspected of routing AI chips to China",
+      "category": "sector",
+      "sources": [
+        "Yahoo Finance",
+        "Crypto Briefing",
+        "StockTwits",
+        "Wall Street Republic"
+      ]
+    },
+    {
+      "ticker": "SNEX",
+      "company": "StoneX Group",
+      "reason": "Q4 results: revenue rose 12% but net income fell 2% YoY; shares collapsed ~27% \u2014 worst day in years",
+      "category": "earnings",
+      "sources": [
+        "BusinessUpturn",
+        "StockTitan",
+        "Seeking Alpha"
+      ]
+    },
+    {
+      "ticker": "ROST",
+      "company": "Ross Stores",
+      "reason": "Q3 earnings beat; comparable sales up 8%; EPS above guidance; solid after-hours pop ahead of holiday season",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "Investrade",
         "TipRanks"
       ]
     },
     {
-      "ticker": "CRWD",
-      "company": "CrowdStrike",
-      "reason": "Closed up 8.3% to $237.86 as part of the AI-attack warning-driven cybersecurity sector rally",
-      "category": "sector",
+      "ticker": "SEAT",
+      "company": "Vivid Seats",
+      "reason": "Shares surged ~63% after company announced debt recapitalization deal that significantly reduced leverage",
+      "category": "news",
       "sources": [
-        "CNBC",
-        "Globe and Mail"
+        "StockTitan",
+        "Motley Fool"
       ]
     },
     {
-      "ticker": "TJX",
-      "company": "TJX Companies",
-      "reason": "Rose 8-10% on Q3 earnings beat: comparable sales +4%, EPS $1.39, raised full-year comparable-sales guidance to 4% growth",
-      "category": "earnings",
+      "ticker": "INSM",
+      "company": "Insmed",
+      "reason": "Shares jumped ~20% on speculation that Sanofi is considering an acquisition of the rare-disease biotech",
+      "category": "news",
       "sources": [
-        "CNBC",
-        "ChartMill",
-        "StockTitan"
+        "Seeking Alpha",
+        "MarketScreener"
       ]
     },
     {
-      "ticker": "TGT",
-      "company": "Target",
-      "reason": "Rose on Q3 beat: comparable sales +5.6% vs ~3.8% expected, EPS $2.65 (incl. $0.50 tariff refund benefit), raised full-year guidance",
+      "ticker": "GPS",
+      "company": "Gap Inc.",
+      "reason": "Reported earnings after the close today; shares volatile after hours; focus on holiday guidance and Athleta brand recovery",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "TipRanks",
-        "StockTitan"
+        "Investing.com"
       ]
     },
     {
       "ticker": "NVDA",
       "company": "Nvidia",
-      "reason": "Closed -2.89% despite massive Q3 FY27 beat ($115.8B revenue, +103% YoY; EPS $2.68 vs $2.47 est.); first earnings report since CEO Jensen Huang's resignation; Q4 guidance of $130B excludes China Data Center revenue",
+      "reason": "Shares fell post-earnings despite Q3 beat; Blackwell ramp reassured bulls but stock sold off on export control headwinds and \"sell the news\" dynamics",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "StockAnalysis",
-        "Vested Finance"
-      ]
-    },
-    {
-      "ticker": "UNH",
-      "company": "UnitedHealth Group",
-      "reason": "Top S&P 500 decliner, fell 8.55% to $356.35 on renewed Medicare Advantage margin fears and ongoing DOJ investigation overhang",
-      "category": "news",
-      "sources": [
-        "ChartMill",
-        "Rallies.ai"
-      ]
-    },
-    {
-      "ticker": "LOW",
-      "company": "Lowe's Companies",
-      "reason": "Dropped 3%+ premarket after Q3: adj. EPS $3.10 beat $2.88 consensus but operating margin guidance was trimmed",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "StockTitan"
-      ]
-    },
-    {
-      "ticker": "TTWO",
-      "company": "Take-Two Interactive",
-      "reason": "Jumped ~7% ahead of GTA VI console launch on November 19; street price target consensus around $277",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "TIKR",
-        "Barchart"
-      ]
-    },
-    {
-      "ticker": "NET",
-      "company": "Cloudflare",
-      "reason": "Rose 7% as part of the broad cybersecurity surge driven by DHS AI-powered infrastructure attack warning",
-      "category": "sector",
-      "sources": [
-        "TipRanks",
-        "Globe and Mail"
-      ]
-    },
-    {
-      "ticker": "OKTA",
-      "company": "Okta",
-      "reason": "Surged as part of the cybersecurity sector rally following DHS Homeland Security AI-attack warning",
-      "category": "sector",
-      "sources": [
-        "CNBC",
-        "Globe and Mail"
-      ]
-    },
-    {
-      "ticker": "BRBR",
-      "company": "BellRing Brands",
-      "reason": "Largest gainer in session per StockAnalysis, rose 24% after reporting strong quarterly earnings results",
-      "category": "earnings",
-      "sources": [
-        "StockAnalysis",
-        "ChartMill"
+        "Investrade",
+        "TipRanks"
       ]
     }
   ]
