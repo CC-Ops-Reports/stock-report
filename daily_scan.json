@@ -1,159 +1,174 @@
 {
-  "report_date": "2026-11-19",
+  "report_date": "2026-11-20",
   "market_tone": "Bearish",
   "key_themes": [
-    "Anthropic IPO debut fails to revive AI sentiment; broad market selloff extends to 6 straight S&P 500 losses",
-    "Retail earnings split: Walmart and Ross Stores beat, Williams-Sonoma disappoints on soft comps",
-    "Chip sector under pressure from tightened US export controls targeting Southeast Asia data centers aiding China"
+    "AI chip rout deepens on Nvidia SEC investigation \u2014 Nasdaq erases 2026 gains",
+    "Anthropic pulls back after historic IPO debut; AI trade unwinds broadly",
+    "Defensive rotation into consumer staples; BILL Holdings take-private deal triggers analyst downgrades"
   ],
   "sp500": {
-    "value": "5,781.00",
-    "change": "-2.02%"
+    "value": "6,910.39",
+    "change": "-3.70%"
   },
   "nasdaq": {
-    "value": "18,120.00",
-    "change": "-2.0%"
+    "value": "22,617.73",
+    "change": "-5.28%"
   },
   "stocks": [
     {
-      "ticker": "ANT",
-      "company": "Anthropic",
-      "reason": "IPO debut on Nasdaq today; priced at $83, opened at $111.50 (+34%), closed ~$97 (+17%) after record-setting $81B IPO; failed to lift broader tech market",
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "reason": "Shares fell 13.65% \u2014 Reuters reported SEC investigating accounting practices/disclosures; also CEO Jensen Huang previously exited; worst single-day drop in AI selloff week",
       "category": "news",
       "sources": [
         "CNBC",
-        "StockTitan",
-        "BusinessUpturn",
-        "Motley Fool"
+        "Reuters",
+        "Investment News",
+        "StockTitan"
       ]
     },
     {
-      "ticker": "PANW",
-      "company": "Palo Alto Networks",
-      "reason": "Fiscal Q1 FY2026 earnings beat estimates; raised profit outlook; shares surged ~9-10% on strong cybersecurity platform demand",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Investrade"
-      ]
-    },
-    {
-      "ticker": "WMT",
-      "company": "Walmart",
-      "reason": "Q3 FY2026 earnings and revenue beat; raised full-year adjusted EPS guidance to $2.84-$2.89; e-commerce momentum continued",
-      "category": "earnings",
-      "sources": [
-        "Yahoo Finance",
-        "Zacks",
-        "Nasdaq"
-      ]
-    },
-    {
-      "ticker": "WSM",
-      "company": "Williams-Sonoma",
-      "reason": "Q3 earnings: revenue of $1.99B missed slightly, comps fell short of estimates; full-year guidance only reiterated; worst S&P 500 performer, down ~15.2%",
-      "category": "earnings",
-      "sources": [
-        "Benzinga",
-        "Investing.com",
-        "Wall Street Republic"
-      ]
-    },
-    {
-      "ticker": "INTU",
-      "company": "Intuit",
-      "reason": "Q1 FY2026 results beat guidance but Q2 outlook disappointed; also announced sale of Mailchimp; shares fell 11-14% after hours",
-      "category": "earnings",
-      "sources": [
-        "StockTitan",
-        "Wall Street Republic",
-        "Investing.com"
-      ]
-    },
-    {
-      "ticker": "PDD",
-      "company": "PDD Holdings",
-      "reason": "Q3 2026 earnings released pre-market beat estimates; shares surged ~12% midday despite ongoing Temu regulatory headwinds in EU",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "StockTitan",
-        "Finviz"
-      ]
-    },
-    {
-      "ticker": "AMD",
-      "company": "Advanced Micro Devices",
-      "reason": "Down ~7.7% amid continued chip export control concerns; new BIS interim rule targeting Southeast Asia data centers suspected of routing AI chips to China",
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "reason": "Down 13.86% in AI chip sector rout tied to Nvidia SEC probe fallout and broader AI trade meltdown",
       "category": "sector",
       "sources": [
-        "Yahoo Finance",
-        "Crypto Briefing",
-        "StockTwits",
-        "Wall Street Republic"
-      ]
-    },
-    {
-      "ticker": "SNEX",
-      "company": "StoneX Group",
-      "reason": "Q4 results: revenue rose 12% but net income fell 2% YoY; shares collapsed ~27% \u2014 worst day in years",
-      "category": "earnings",
-      "sources": [
-        "BusinessUpturn",
+        "CNBC",
         "StockTitan",
         "Seeking Alpha"
       ]
     },
     {
-      "ticker": "ROST",
-      "company": "Ross Stores",
-      "reason": "Q3 earnings beat; comparable sales up 8%; EPS above guidance; solid after-hours pop ahead of holiday season",
-      "category": "earnings",
+      "ticker": "AMD",
+      "company": "Advanced Micro Devices",
+      "reason": "Down 13.37% as AI chip selloff accelerated on Nvidia SEC probe news and risk-off sentiment",
+      "category": "sector",
       "sources": [
         "CNBC",
-        "Investrade",
-        "TipRanks"
+        "StockTitan"
       ]
     },
     {
-      "ticker": "SEAT",
-      "company": "Vivid Seats",
-      "reason": "Shares surged ~63% after company announced debt recapitalization deal that significantly reduced leverage",
+      "ticker": "ANT",
+      "company": "Anthropic",
+      "reason": "Pulled back ~8.7% to ~$88.57 after surging 27% to ~$105 on Thursday IPO debut; first full day of trading as a public company",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Seeking Alpha",
+        "Morningstar"
+      ]
+    },
+    {
+      "ticker": "INTU",
+      "company": "Intuit",
+      "reason": "Down ~10% after cutting FY2027 revenue guidance to $23.08B-$23.37B, missing analyst expectations",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "Seeking Alpha"
+      ]
+    },
+    {
+      "ticker": "GAP",
+      "company": "Gap Inc",
+      "reason": "Up ~11% \u2014 reported strong Q3 earnings results; KGI Securities upgraded to Outperform from Neutral",
+      "category": "earnings",
+      "sources": [
+        "CNBC",
+        "StockTitan"
+      ]
+    },
+    {
+      "ticker": "BILL",
+      "company": "BILL Holdings",
+      "reason": "Multiple analyst downgrades (UBS, TD Cowen, Oppenheimer, JPMorgan, Jefferies) after agreeing to $6B take-private buyout by TPG and Corpay at $63.25/share",
+      "category": "news",
+      "sources": [
+        "Investing.com",
+        "Daily Political",
+        "CNBC",
+        "SEC Filing"
+      ]
+    },
+    {
+      "ticker": "SVRA",
+      "company": "Savara",
+      "reason": "Down ~18% \u2014 FDA announced it would not act by its November 22 PDUFA target date on key drug application",
+      "category": "news",
+      "sources": [
+        "CNBC",
+        "StockTitan"
+      ]
+    },
+    {
+      "ticker": "GPN",
+      "company": "Global Payments",
+      "reason": "Up ~10% \u2014 notable gainer amid broad market selloff on positive company-specific news",
       "category": "news",
       "sources": [
         "StockTitan",
-        "Motley Fool"
+        "Morningstar"
       ]
     },
     {
-      "ticker": "INSM",
-      "company": "Insmed",
-      "reason": "Shares jumped ~20% on speculation that Sanofi is considering an acquisition of the rare-disease biotech",
-      "category": "news",
-      "sources": [
-        "Seeking Alpha",
-        "MarketScreener"
-      ]
-    },
-    {
-      "ticker": "GPS",
-      "company": "Gap Inc.",
-      "reason": "Reported earnings after the close today; shares volatile after hours; focus on holiday guidance and Athleta brand recovery",
+      "ticker": "BJ",
+      "company": "BJ's Wholesale Club",
+      "reason": "Beat Q3 estimates with EPS of $1.73 vs $1.24 consensus on $6.28B revenue; raised full-year outlook",
       "category": "earnings",
       "sources": [
-        "CNBC",
-        "Investing.com"
+        "TipRanks",
+        "StockTitan"
       ]
     },
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "reason": "Shares fell post-earnings despite Q3 beat; Blackwell ramp reassured bulls but stock sold off on export control headwinds and \"sell the news\" dynamics",
-      "category": "earnings",
+      "ticker": "HUM",
+      "company": "Humana",
+      "reason": "Up ~3% \u2014 TD Cowen upgraded to Buy from Hold; benefited from defensive rotation into healthcare",
+      "category": "upgrade",
       "sources": [
         "CNBC",
-        "Investrade",
-        "TipRanks"
+        "StockTitan"
+      ]
+    },
+    {
+      "ticker": "UNH",
+      "company": "UnitedHealth Group",
+      "reason": "Rose on TD Cowen upgrade to Buy from Hold; defensive positioning amid broad market selloff",
+      "category": "upgrade",
+      "sources": [
+        "CNBC",
+        "StockTitan"
+      ]
+    },
+    {
+      "ticker": "WMT",
+      "company": "Walmart",
+      "reason": "Up 2%+ as investors rotated to defensive consumer staples amid AI selloff; held up as one of few S&P 500 gainers",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "StockTitan"
+      ]
+    },
+    {
+      "ticker": "COST",
+      "company": "Costco",
+      "reason": "Up 2%+ in defensive rotation to consumer staples as AI trade unwound sharply",
+      "category": "sector",
+      "sources": [
+        "CNBC",
+        "StockTitan"
+      ]
+    },
+    {
+      "ticker": "PODD",
+      "company": "Insulet",
+      "reason": "Downgraded to Neutral from Overweight by analyst on weakening brand loyalty survey data; price target cut to $158",
+      "category": "downgrade",
+      "sources": [
+        "GuruFocus",
+        "Daily Trade Alert"
       ]
     }
   ]
