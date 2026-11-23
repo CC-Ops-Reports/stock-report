@@ -1,174 +1,167 @@
 {
-  "report_date": "2026-11-20",
-  "market_tone": "Bearish",
+  "report_date": "2026-11-23",
+  "market_tone": "Bullish",
   "key_themes": [
-    "AI chip rout deepens on Nvidia SEC investigation \u2014 Nasdaq erases 2026 gains",
-    "Anthropic pulls back after historic IPO debut; AI trade unwinds broadly",
-    "Defensive rotation into consumer staples; BILL Holdings take-private deal triggers analyst downgrades"
+    "Nvidia CEO Jensen Huang reinstated, triggering massive AI relief rally \u2014 best market day since April 2025",
+    "CrowdStrike acquires Zscaler in $43.9B all-stock deal, reshaping cybersecurity landscape",
+    "AI infrastructure stocks (chips, data centers, power) surge broadly on renewed capex confidence"
   ],
   "sp500": {
-    "value": "6,910.39",
-    "change": "-3.70%"
+    "value": "7,237.17",
+    "change": "+4.73%"
   },
   "nasdaq": {
-    "value": "22,617.73",
-    "change": "-5.28%"
+    "value": "24,089.56",
+    "change": "+6.51%"
   },
   "stocks": [
     {
       "ticker": "NVDA",
-      "company": "Nvidia",
-      "reason": "Shares fell 13.65% \u2014 Reuters reported SEC investigating accounting practices/disclosures; also CEO Jensen Huang previously exited; worst single-day drop in AI selloff week",
+      "company": "Nvidia Corporation",
+      "reason": "Board reinstated Jensen Huang as president, CEO and director before the open; shares surged 31.48% to $165.05, adding nearly $1 trillion in market cap \u2014 the catalyst for a broad AI sector rally",
       "category": "news",
       "sources": [
         "CNBC",
-        "Reuters",
-        "Investment News",
-        "StockTitan"
+        "Yahoo Finance",
+        "Motley Fool",
+        "StockTitan",
+        "247 Wall St."
+      ]
+    },
+    {
+      "ticker": "CRWD",
+      "company": "CrowdStrike Holdings",
+      "reason": "Announced $43.9B all-stock acquisition of Zscaler alongside Q3 FY2027 earnings beat (EPS $0.34 vs $0.31 expected, record net new ARR of $419M); shares fell despite strong results as market digests large deal",
+      "category": "news",
+      "sources": [
+        "SEC 8-K",
+        "CNBC",
+        "Benzinga"
+      ]
+    },
+    {
+      "ticker": "ZS",
+      "company": "Zscaler",
+      "reason": "CrowdStrike announced $43.9B all-stock acquisition at 1.135x exchange ratio; shares surged ~13% on the takeover premium announcement",
+      "category": "news",
+      "sources": [
+        "SEC Filing",
+        "CNBC",
+        "Bloomberg"
       ]
     },
     {
       "ticker": "MU",
       "company": "Micron Technology",
-      "reason": "Down 13.86% in AI chip sector rout tied to Nvidia SEC probe fallout and broader AI trade meltdown",
+      "reason": "Surged 19.2% to $708.66 as AI semiconductor stocks rallied broadly on the Nvidia CEO news, restoring confidence in sustained AI infrastructure spending",
       "category": "sector",
       "sources": [
-        "CNBC",
-        "StockTitan",
-        "Seeking Alpha"
+        "Chartmill",
+        "Investing.com",
+        "CNBC"
       ]
     },
     {
-      "ticker": "AMD",
-      "company": "Advanced Micro Devices",
-      "reason": "Down 13.37% as AI chip selloff accelerated on Nvidia SEC probe news and risk-off sentiment",
+      "ticker": "DELL",
+      "company": "Dell Technologies",
+      "reason": "Rose 21.96% to $339.08 on AI server demand optimism tied to Nvidia's leadership restoration; Dell reports Q3 earnings Tuesday after close \u2014 a key read on enterprise AI server demand",
       "category": "sector",
       "sources": [
+        "Chartmill",
         "CNBC",
-        "StockTitan"
+        "Investing.com"
       ]
     },
     {
-      "ticker": "ANT",
-      "company": "Anthropic",
-      "reason": "Pulled back ~8.7% to ~$88.57 after surging 27% to ~$105 on Thursday IPO debut; first full day of trading as a public company",
-      "category": "news",
+      "ticker": "BE",
+      "company": "Bloom Energy",
+      "reason": "Surged 19.14% to $169.64 as renewed AI infrastructure spending confidence lifted data center power plays; Bloom is a key fuel cell supplier to hyperscalers",
+      "category": "sector",
       "sources": [
-        "CNBC",
-        "Seeking Alpha",
-        "Morningstar"
+        "Chartmill",
+        "CNBC"
       ]
     },
     {
-      "ticker": "INTU",
-      "company": "Intuit",
-      "reason": "Down ~10% after cutting FY2027 revenue guidance to $23.08B-$23.37B, missing analyst expectations",
-      "category": "news",
+      "ticker": "HPE",
+      "company": "Hewlett Packard Enterprise",
+      "reason": "Reported Q4 FY2026 revenue up 50% year-over-year to $14.5B with non-GAAP EPS of $1.43 above guidance; raised fiscal 2027 outlook, confirming strong AI server demand",
+      "category": "earnings",
       "sources": [
+        "HPE Newsroom",
         "CNBC",
-        "Seeking Alpha"
+        "Nasdaq"
       ]
     },
     {
-      "ticker": "GAP",
-      "company": "Gap Inc",
-      "reason": "Up ~11% \u2014 reported strong Q3 earnings results; KGI Securities upgraded to Outperform from Neutral",
+      "ticker": "ZM",
+      "company": "Zoom Communications",
+      "reason": "Reporting Q3 FY2027 earnings after the close; consensus expects EPS ~$1.49 on ~$1.28B revenue; appeared on CNBC's Monday biggest-movers list ahead of the print",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "StockTitan"
+        "EarningsWhispers"
       ]
     },
     {
-      "ticker": "BILL",
-      "company": "BILL Holdings",
-      "reason": "Multiple analyst downgrades (UBS, TD Cowen, Oppenheimer, JPMorgan, Jefferies) after agreeing to $6B take-private buyout by TPG and Corpay at $63.25/share",
-      "category": "news",
-      "sources": [
-        "Investing.com",
-        "Daily Political",
-        "CNBC",
-        "SEC Filing"
-      ]
-    },
-    {
-      "ticker": "SVRA",
-      "company": "Savara",
-      "reason": "Down ~18% \u2014 FDA announced it would not act by its November 22 PDUFA target date on key drug application",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "StockTitan"
-      ]
-    },
-    {
-      "ticker": "GPN",
-      "company": "Global Payments",
-      "reason": "Up ~10% \u2014 notable gainer amid broad market selloff on positive company-specific news",
-      "category": "news",
-      "sources": [
-        "StockTitan",
-        "Morningstar"
-      ]
-    },
-    {
-      "ticker": "BJ",
-      "company": "BJ's Wholesale Club",
-      "reason": "Beat Q3 estimates with EPS of $1.73 vs $1.24 consensus on $6.28B revenue; raised full-year outlook",
+      "ticker": "A",
+      "company": "Agilent Technologies",
+      "reason": "Reported Q4 FY2026 revenue of $2.04B and EPS of $1.86; guided fiscal 2027 revenue to $8.00\u20138.15B; shares rose ~7% after hours on the in-line beat and guidance",
       "category": "earnings",
       "sources": [
         "TipRanks",
-        "StockTitan"
+        "EarningsWhispers",
+        "CNBC"
       ]
     },
     {
-      "ticker": "HUM",
-      "company": "Humana",
-      "reason": "Up ~3% \u2014 TD Cowen upgraded to Buy from Hold; benefited from defensive rotation into healthcare",
+      "ticker": "KYMA",
+      "company": "Kymera Therapeutics",
+      "reason": "Surged 30.40% after mid-stage atopic dermatitis trial met both its primary and all secondary endpoints, validating its targeted protein degradation platform",
+      "category": "news",
+      "sources": [
+        "Chartmill",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "OTLY",
+      "company": "Oatly Group",
+      "reason": "Surged ~109% after the board publicly told shareholders NOT to sell into Verlinvest's $4.13 per ADS tender offer, calling it a significant discount to the trading price",
+      "category": "news",
+      "sources": [
+        "Chartmill",
+        "Bloomberg"
+      ]
+    },
+    {
+      "ticker": "DG",
+      "company": "Dollar General",
+      "reason": "Piper Sandler upgraded to overweight today, citing several upcoming positive catalysts including inventory normalization and store productivity improvements",
       "category": "upgrade",
       "sources": [
         "CNBC",
-        "StockTitan"
+        "Piper Sandler"
       ]
     },
     {
-      "ticker": "UNH",
-      "company": "UnitedHealth Group",
-      "reason": "Rose on TD Cowen upgrade to Buy from Hold; defensive positioning amid broad market selloff",
-      "category": "upgrade",
+      "ticker": "BA",
+      "company": "Boeing",
+      "reason": "Shares rose 4%+ after President Trump stated he expects China to purchase another 250 Boeing jets, signaling a potential diplomatic thaw on aircraft exports",
+      "category": "news",
       "sources": [
         "CNBC",
-        "StockTitan"
+        "Bloomberg"
       ]
     },
     {
-      "ticker": "WMT",
-      "company": "Walmart",
-      "reason": "Up 2%+ as investors rotated to defensive consumer staples amid AI selloff; held up as one of few S&P 500 gainers",
+      "ticker": "NEM",
+      "company": "Newmont Corporation",
+      "reason": "Gold, silver, and copper futures rallied sharply; Newmont and peer gold miners (AngloGold Ashanti, Coeur Mining, Gold Fields) each surged more than 7% on the commodity tailwind",
       "category": "sector",
       "sources": [
         "CNBC",
-        "StockTitan"
-      ]
-    },
-    {
-      "ticker": "COST",
-      "company": "Costco",
-      "reason": "Up 2%+ in defensive rotation to consumer staples as AI trade unwound sharply",
-      "category": "sector",
-      "sources": [
-        "CNBC",
-        "StockTitan"
-      ]
-    },
-    {
-      "ticker": "PODD",
-      "company": "Insulet",
-      "reason": "Downgraded to Neutral from Overweight by analyst on weakening brand loyalty survey data; price target cut to $158",
-      "category": "downgrade",
-      "sources": [
-        "GuruFocus",
-        "Daily Trade Alert"
+        "MarketWatch"
       ]
     }
   ]
