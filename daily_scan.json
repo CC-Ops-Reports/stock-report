@@ -1,175 +1,171 @@
 {
-  "report_date": "2026-11-24",
+  "report_date": "2026-11-25",
   "market_tone": "Mixed",
   "key_themes": [
-    "Chip stock reversal: Nvidia fell ~6% after Monday's 31% AI-fueled surge on Jensen Huang's CEO return",
-    "Retail earnings sweep: ANF, DKS, KSS, BBY, DLTR all beat and raised outlooks ahead of Black Friday",
-    "Pharma mega-M&A: Sanofi announced $41B all-cash acquisition of Insmed, year's biggest deal"
+    "AI/chip sector sell-off: Nasdaq plunged 4% intraday before recovering, dragged by Nvidia, Micron, AMD",
+    "CrowdStrike acquires Zscaler in $43.9B all-stock deal, reshaping cybersecurity landscape",
+    "Earnings divergence: HP Inc. surges on beat while Ambarella and Nutanix crater on weak guidance"
   ],
   "sp500": {
-    "value": "7,680",
-    "change": "-0.5%"
+    "value": "7,186.00",
+    "change": "-0.21%"
   },
   "nasdaq": {
-    "value": "27,185",
-    "change": "-1.5%"
+    "value": "23,586.00",
+    "change": "-0.62%"
   },
   "stocks": [
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "reason": "Fell ~6% as chip stocks gave back part of Monday's +31% surge that followed Jensen Huang's reinstatement as CEO; AMD, Micron, and CoreWeave also dropped sharply",
-      "category": "news",
+      "ticker": "HPQ",
+      "company": "HP Inc.",
+      "reason": "Surged ~11.5% after Q4 earnings beat on top and bottom line with upbeat FY2027 outlook",
+      "category": "earnings",
       "sources": [
+        "Motley Fool",
         "CNBC",
-        "Yahoo Finance",
-        "GuruFocus"
-      ]
-    },
-    {
-      "ticker": "INSM",
-      "company": "Insmed",
-      "reason": "Shares surged ~14% after Sanofi announced $41B all-cash acquisition at $175/share \u2014 largest pharma deal in three years, targeting Insmed's respiratory drug portfolio",
-      "category": "news",
-      "sources": [
-        "CNBC",
-        "Bloomberg",
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "ticker": "ANF",
-      "company": "Abercrombie & Fitch",
-      "reason": "Jumped ~22-25% on record Q3 net sales of $1.44B (+11% YoY), comparable sales +6%, EPS $3.82 vs $3.10 estimate, 16th consecutive quarter of growth",
-      "category": "earnings",
-      "sources": [
-        "Benzinga",
-        "TipRanks",
-        "IBTimes"
-      ]
-    },
-    {
-      "ticker": "DKS",
-      "company": "Dick's Sporting Goods",
-      "reason": "Rose ~16% after Q3 adjusted EPS of $1.94 crushed the $1.41 estimate; revenue +23% to $5.13B including Foot Locker integration, raised FY outlook",
-      "category": "earnings",
-      "sources": [
-        "Benzinga",
-        "TipRanks",
-        "Pomegra"
-      ]
-    },
-    {
-      "ticker": "KSS",
-      "company": "Kohl's",
-      "reason": "Gained ~12-15% on Q3 beat with comparable sales +1.2%, ending a long streak of declines; raised fiscal 2026 earnings guidance",
-      "category": "earnings",
-      "sources": [
-        "Benzinga",
-        "TipRanks",
-        "Pomegra"
-      ]
-    },
-    {
-      "ticker": "BBY",
-      "company": "Best Buy",
-      "reason": "Rose ~2.7% after Q3 adjusted EPS of $1.62 beat the $1.49 estimate, comparable sales +6.1%; raised full-year profit outlook",
-      "category": "earnings",
-      "sources": [
-        "TipRanks",
-        "SEC Filing"
-      ]
-    },
-    {
-      "ticker": "DLTR",
-      "company": "Dollar Tree",
-      "reason": "Shares up after Q3 report raised full-year adjusted EPS guidance to $8.05-$8.25; part of broad retail earnings surge ahead of holiday season",
-      "category": "earnings",
-      "sources": [
-        "TipRanks",
-        "SEC Filing"
+        "StockTitan"
       ]
     },
     {
       "ticker": "AMBA",
       "company": "Ambarella",
-      "reason": "Plunged ~38-44% after hours after Q4 revenue guidance came in well below Street expectations; semiconductor design firm citing weaker demand",
-      "category": "earnings",
-      "sources": [
-        "Seeking Alpha",
-        "CNBC",
-        "Investing.com"
-      ]
-    },
-    {
-      "ticker": "DELL",
-      "company": "Dell Technologies",
-      "reason": "Rose ~4% after hours on massive Q3 beat: adjusted EPS of $9.45 vs $6.56 estimate, revenue $54.94B vs $49.3B expected, driven by AI server demand",
-      "category": "earnings",
-      "sources": [
-        "Investing.com",
-        "CNBC"
-      ]
-    },
-    {
-      "ticker": "ADSK",
-      "company": "Autodesk",
-      "reason": "Fell ~4% after hours despite beating Q3 estimates; full-year guidance was not raised enough to satisfy investors, suggesting growth concerns",
+      "reason": "Plunged ~20% (was -38% premarket) on disappointing revenue guidance for next quarter",
       "category": "earnings",
       "sources": [
         "CNBC",
-        "Cappnotes Substack",
-        "Investing.com"
-      ]
-    },
-    {
-      "ticker": "WDAY",
-      "company": "Workday",
-      "reason": "Sank ~7% after hours on Q3 results showing softer demand; subscription revenue in line but outlook disappointed, signaling enterprise software spending caution",
-      "category": "earnings",
-      "sources": [
-        "iTiger",
         "Investing.com"
       ]
     },
     {
       "ticker": "NTNX",
       "company": "Nutanix",
-      "reason": "Plunged ~16% after hours after Q1 revenue and FY2027 outlook missed analyst expectations; cloud infrastructure spending headwinds",
+      "reason": "Fell ~15% after CEO announced departure upon finding successor and mixed fiscal Q1 results",
       "category": "earnings",
       "sources": [
-        "iTiger",
-        "Investing.com"
+        "CNBC",
+        "Investing.com",
+        "UnusualWhales"
       ]
     },
     {
-      "ticker": "AMD",
-      "company": "Advanced Micro Devices",
-      "reason": "Fell ~7% in sympathy with Nvidia chip selloff; broader AI semiconductor trade under pressure as market digests data-center spending uncertainty",
-      "category": "sector",
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "reason": "Fell ~3.9% as AI sell-off deepened; S&P signaled potential credit rating downgrade over CEO Jensen Huang governance concerns",
+      "category": "news",
       "sources": [
-        "Yahoo Finance",
-        "GuruFocus"
+        "Bloomberg",
+        "CNBC",
+        "StockTitan"
       ]
     },
     {
       "ticker": "MU",
       "company": "Micron Technology",
-      "reason": "Dropped on chip sector rout plus a new Sell analyst downgrade citing cyclical memory downturn risk and reduced NAND orders from Chinese cloud providers",
-      "category": "downgrade",
+      "reason": "Dropped ~10.5% in AI chip sector sell-off; analyst downgrade also flagged today",
+      "category": "sector",
       "sources": [
-        "Seeking Alpha",
-        "TradingView"
+        "Investing.com",
+        "Seeking Alpha"
       ]
     },
     {
-      "ticker": "AMTM",
-      "company": "Amentum",
-      "reason": "Surged ~19% intraday to $24.62 on strong trading activity; defense/government services contractor among top gainers of the session",
+      "ticker": "AMD",
+      "company": "Advanced Micro Devices",
+      "reason": "Fell ~9.3% in broad AI/chip sector sell-off alongside Nvidia and Micron",
+      "category": "sector",
+      "sources": [
+        "Investing.com",
+        "Motley Fool"
+      ]
+    },
+    {
+      "ticker": "CRWD",
+      "company": "CrowdStrike",
+      "reason": "Fell 8%+ on dilution concerns from $43.9B all-stock Zscaler acquisition; Guggenheim upgraded to Buy with $280 price target",
       "category": "news",
       "sources": [
+        "SEC Filing 8-K",
+        "Seeking Alpha",
+        "Benzinga"
+      ]
+    },
+    {
+      "ticker": "ZS",
+      "company": "Zscaler",
+      "reason": "Jumped 13%+ premarket as CrowdStrike acquires Zscaler in $43.9B all-stock deal (1.135 CRWD shares per ZS share)",
+      "category": "news",
+      "sources": [
+        "SEC Filing 8-K/425",
+        "Investing.com"
+      ]
+    },
+    {
+      "ticker": "DE",
+      "company": "Deere & Company",
+      "reason": "Reported Q4 EPS of $3.89 (vs $4.03 consensus) but revenue of $12.12B beat estimate by $1.73B; issued FY2027 net income guidance of $4.5B-$5.25B",
+      "category": "earnings",
+      "sources": [
+        "MarketBeat",
+        "TipRanks"
+      ]
+    },
+    {
+      "ticker": "VRTX",
+      "company": "Vertex Pharmaceuticals",
+      "reason": "Dropped 7.5% after FDA extended review of kidney drug povetacicept by up to 3 months to Feb 28, 2027 (original PDUFA date was Nov 30)",
+      "category": "news",
+      "sources": [
+        "Investing.com",
+        "StockTitan"
+      ]
+    },
+    {
+      "ticker": "VERA",
+      "company": "Vera Therapeutics",
+      "reason": "Surged 16-18% as rival to Vertex in kidney disease market, benefiting from FDA delay on Vertex povetacicept",
+      "category": "news",
+      "sources": [
+        "Investing.com"
+      ]
+    },
+    {
+      "ticker": "CHTR",
+      "company": "Charter Communications",
+      "reason": "Rose ~8.4% as investors rotated into defensive names during the AI chip sell-off",
+      "category": "sector",
+      "sources": [
+        "Motley Fool",
+        "CNBC"
+      ]
+    },
+    {
+      "ticker": "BZ",
+      "company": "Kanzhun (BOSS Zhipin)",
+      "reason": "Gained 12.6% after Q3 revenue rose 11.7% YoY and company announced $500M share buyback program",
+      "category": "earnings",
+      "sources": [
+        "StockTitan"
+      ]
+    },
+    {
+      "ticker": "LI",
+      "company": "Li Auto",
+      "reason": "Rose ~11% after reporting Q3 results; received analyst upgrades from multiple firms today",
+      "category": "earnings",
+      "sources": [
         "StockTitan",
-        "BusinessUpturn"
+        "Daily Political"
+      ]
+    },
+    {
+      "ticker": "INSM",
+      "company": "Insmed",
+      "reason": "Hit by four analyst downgrades in one session: Morgan Stanley, Mizuho, UBS, and HC Wainwright all cut ratings today",
+      "category": "downgrade",
+      "sources": [
+        "Seeking Alpha",
+        "Benzinga",
+        "DailyTradeAlert"
       ]
     }
   ]
