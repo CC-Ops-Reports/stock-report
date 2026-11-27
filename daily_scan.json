@@ -1,144 +1,158 @@
 {
-  "report_date": "2026-11-26",
-  "market_tone": "Mixed",
+  "report_date": "2026-11-27",
+  "market_tone": "Bullish",
   "key_themes": [
-    "AI/chip selloff as Jensen Huang return rally fizzles (Huangover)",
-    "Memory supply concerns weigh on semiconductor sector broadly",
-    "Pre-Thanksgiving earnings flood: mix of beats and punished guidance misses",
-    "Rotation from tech into old-economy and value stocks"
+    "AI/semiconductor sector rebound \u2014 chip stocks bounce sharply from prior week selloff; JPMorgan says AI selloff first phase nearing end",
+    "Brazil political catalyst \u2014 Bradesco chairman Luiz Carlos Trabuco named Finance Minister, sparking EM rally",
+    "Gold/precious metals surge \u2014 spot gold reclaims $3,680/oz, lifting mining stocks"
   ],
   "sp500": {
-    "value": "7,182.78",
-    "change": "-0.25%"
+    "value": "7,297.49",
+    "change": "+1.60%"
   },
   "nasdaq": {
-    "value": "23,585.80",
-    "change": "-0.62%"
+    "value": "24,129.50",
+    "change": "+2.31%"
   },
   "stocks": [
     {
-      "ticker": "NVDA",
-      "company": "Nvidia",
-      "reason": "Down ~4% as \"Huangover\" sets in \u2014 Monday's 31.5% Jensen Huang return rally fizzled; AI spending doubts and hot inflation data triggered broad chip selloff on Nov 25",
+      "ticker": "SNDK",
+      "company": "SanDisk",
+      "reason": "Led S&P 500 with +15.96% gain as memory/NAND stocks rebounded; JPMorgan said AI selloff may be nearing end of first phase; Kioxia demonstrated 1.1-PB flash setup for Nvidia AI rack; stock had fallen ~75% from June peak",
+      "category": "sector",
+      "sources": [
+        "Benzinga",
+        "TradingKey",
+        "Swingfolio"
+      ]
+    },
+    {
+      "ticker": "XP",
+      "company": "XP Inc.",
+      "reason": "Surged ~18% after Brazil President Lula named Bradesco chairman Luiz Carlos Trabuco as next Finance Minister \u2014 seen as market-friendly fiscal signal; Brazilian Ibovespa also jumped",
       "category": "news",
       "sources": [
         "CNBC",
-        "Yahoo Finance",
-        "GuruFocus"
-      ]
-    },
-    {
-      "ticker": "AMBA",
-      "company": "Ambarella",
-      "reason": "Plunged ~25% after reporting Q3 FY2027 miss and devastating Q4 guidance of $70-75M vs $112.6M expected; memory prices crushed consumer IoT demand; broad analyst target cuts (Susquehanna to $50, BofA downgrade to Underperform)",
-      "category": "earnings",
-      "sources": [
-        "Benzinga",
-        "Blockonomi",
-        "MarketBeat"
-      ]
-    },
-    {
-      "ticker": "HPQ",
-      "company": "HP Inc.",
-      "reason": "Rose ~11.5% on Q4 FY2026 earnings beat; adjusted EPS $0.83 vs $0.75 consensus; tariff refunds added $0.15/share; revenue $16B up 9.3% YoY",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "GuruFocus",
-        "Investing.com"
-      ]
-    },
-    {
-      "ticker": "BZ",
-      "company": "Kanzhun",
-      "reason": "Surged ~12.6% after Q3 revenue RMB 2.42B (+11.7% YoY) beat estimates and company announced new $500M share buyback authorization",
-      "category": "earnings",
-      "sources": [
-        "GuruFocus",
-        "MarketBeat",
-        "Business Upturn"
-      ]
-    },
-    {
-      "ticker": "LI",
-      "company": "Li Auto",
-      "reason": "Jumped ~11% on surprise Q3 revenue win; gross margin recovered to 17% from 11% prior quarter; bouncing from Nov 20 record low of $10.35",
-      "category": "earnings",
-      "sources": [
-        "Schaeffer's Investment Research",
-        "Business Upturn"
-      ]
-    },
-    {
-      "ticker": "DKS",
-      "company": "Dick's Sporting Goods",
-      "reason": "Soared ~16% on massive Q3 beat; adjusted EPS $1.94 vs $1.42 estimate; comparable sales +2.6%; raised full-year EPS outlook to $11.40-$12.25",
-      "category": "earnings",
-      "sources": [
-        "CNBC",
-        "Investing.com"
-      ]
-    },
-    {
-      "ticker": "DELL",
-      "company": "Dell Technologies",
-      "reason": "Fell ~5% despite blowout Q3 FY2027 results (EPS $9.45 vs $6.57 est., AI backlog $132.3B); market punished stock on memory cost pressure concerns and fears of peak AI hardware earnings; multiple analyst target cuts",
-      "category": "earnings",
-      "sources": [
-        "Yahoo Finance",
-        "Benzinga",
         "Seeking Alpha",
-        "Investing.com"
+        "Benzinga"
+      ]
+    },
+    {
+      "ticker": "BBD",
+      "company": "Banco Bradesco",
+      "reason": "ADRs surged ~16-18% after its chairman Trabuco accepted invitation to serve as Brazil Finance Minister in January 2027; Bradesco filed Form 6-K confirming the news",
+      "category": "news",
+      "sources": [
+        "Seeking Alpha",
+        "PreMarket Daily",
+        "StockTitan"
+      ]
+    },
+    {
+      "ticker": "ANT",
+      "company": "Anthropic PBC",
+      "reason": "Jumped ~7-11% to reclaim $83 IPO price (priced Nov 19); stock had fallen to $73.85 post-IPO before Friday AI rebound lifted shares back above offering price; Cathie Wood continued buying",
+      "category": "news",
+      "sources": [
+        "Motley Fool",
+        "247WallSt",
+        "CoinPaper"
       ]
     },
     {
       "ticker": "MU",
       "company": "Micron Technology",
-      "reason": "Down ~4.5% after TrendForce reported Chinese cloud providers cut 2027 memory orders; UBS slashed target from $1,625 to $1,100; BNP Paribas Exane downgraded to Hold citing potential oversupply",
-      "category": "downgrade",
+      "reason": "Rose +7.60% in sympathy with SanDisk and broader memory sector rebound; Philadelphia Semiconductor Index gained 4.69%; AI demand narrative supporting NAND/DRAM recovery thesis",
+      "category": "sector",
       "sources": [
-        "Investing.com",
-        "HeyGoTrade",
-        "WiseVoter"
+        "Swingfolio",
+        "Invezz",
+        "Yahoo Finance"
       ]
     },
     {
       "ticker": "AMD",
       "company": "Advanced Micro Devices",
-      "reason": "Fell ~1.75% (intraday low -8.9%) caught in broad AI chip selloff alongside Nvidia and Broadcom; AI spending skepticism after Huang return rally reversal",
+      "reason": "Gained +4.6% in shortened session despite Erste Group downgrading to Hold; chip sector tailwind from JPMorgan AI-selloff commentary overpowered downgrade; AMD down ~28% over prior month",
+      "category": "downgrade",
+      "sources": [
+        "Invezz",
+        "BigGo Finance",
+        "CoinPaper"
+      ]
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "reason": "Rose +3.82% as AI/chip sector rebounded; technology sector up nearly 7% for the week after losing ~12% the prior week; custom AI chip demand narrative intact",
       "category": "sector",
       "sources": [
-        "Yahoo Finance",
-        "UnusualWhales",
-        "GuruFocus"
+        "Invezz",
+        "Investing.com",
+        "Tickeron"
       ]
     },
     {
-      "ticker": "WDAY",
-      "company": "Workday",
-      "reason": "Rose ~2.3% after Q3 FY2027 earnings beat; revenue $2.705B (+11.2% YoY), adjusted EPS $2.82 vs $2.74 estimate; 12-month backlog $9.2B",
-      "category": "earnings",
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "reason": "Gained only +0.80%, lagging chip peers; Bernstein upgraded to Outperform with $200 PT citing Jensen Huang return; gains capped by FT report that Nvidia halted chip exports to Southeast Asia",
+      "category": "upgrade",
+      "sources": [
+        "Investing.com",
+        "TipRanks",
+        "AlphaCheck/Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "company": "Intel",
+      "reason": "Rose ~5% in premarket and carried gains into shortened session as broad semiconductor sector rebounded; part of Philadelphia Semiconductor Index +4.69% move",
+      "category": "sector",
+      "sources": [
+        "Invezz",
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "ticker": "VRTX",
+      "company": "Vertex Pharmaceuticals",
+      "reason": "Fell -5.24% after FDA extended review of povetacicept (IgA nephropathy drug) by up to 3 months; new PDUFA date pushed to Feb 28, 2027; shares had recently hit 52-week high of $571.75",
+      "category": "news",
       "sources": [
         "Benzinga",
-        "SEC filing"
+        "Investing.com",
+        "UnusualWhales"
       ]
     },
     {
-      "ticker": "BBY",
-      "company": "Best Buy",
-      "reason": "Rose ~3% on strongest comparable sales growth in 5 years (+6.1% YoY); Q3 earnings and revenue topped analyst expectations",
-      "category": "earnings",
+      "ticker": "ALVO",
+      "company": "Alvotech",
+      "reason": "Dropped -12.35%; US court granted Janssen preliminary injunction blocking its AVT05 biosimilar copy of Simponi; company plans to appeal; Q3 revenue of $111.6M also missed $125M estimate",
+      "category": "news",
       "sources": [
-        "CNBC"
+        "Benzinga",
+        "StockTitan",
+        "MarketScreener"
       ]
     },
     {
-      "ticker": "ADSK",
-      "company": "Autodesk",
-      "reason": "Fell ~3% despite Q3 earnings beat (EPS $3.20 vs $3.07 est.) and raised Q4 guidance; investors may have been pricing in a larger beat",
-      "category": "earnings",
+      "ticker": "NEM",
+      "company": "Newmont Corporation",
+      "reason": "Rose +3.7-4.4% as gold futures jumped ~4% with spot bullion reclaiming $3,680/oz; AngloGold Ashanti also up 4.7%; precious metals rally driven by holiday-week safe-haven and macro flows",
+      "category": "sector",
       "sources": [
+        "CNBC",
+        "Tickeron",
+        "Traders Union"
+      ]
+    },
+    {
+      "ticker": "NU",
+      "company": "Nu Holdings",
+      "reason": "Rose on the Brazil finance minister announcement alongside XP and Bradesco; Brazilian fintech broadly benefited from improved fiscal policy outlook as Trabuco named to replace outgoing minister",
+      "category": "news",
+      "sources": [
+        "Benzinga",
         "CNBC"
       ]
     }
