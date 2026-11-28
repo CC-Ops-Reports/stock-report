@@ -1,52 +1,75 @@
 {
-  "report_date": "2026-11-26",
+  "report_date": "2026-11-27",
   "batch": 3,
   "stocks": [
     {
-      "ticker": "BBY",
-      "company": "Best Buy Co., Inc.",
-      "discussion_driver": "Best Buy surged ~3% after reporting its strongest comparable sales growth in five years (+6.1% YoY), with Q3 FY2027 earnings and revenue topping analyst expectations. The beat arrives perfectly timed ahead of Black Friday and the holiday electronics season, with management raising its full-year EPS outlook to $11.40–$12.25.",
+      "ticker": "ALVO",
+      "company": "Alvotech SA",
+      "discussion_driver": "A US federal court granted Janssen (J&J) a preliminary injunction blocking Alvotech's AVT05 biosimilar copy of Simponi (golimumab), sending shares down ~12.4% on the day. The company plans to appeal. Q3 revenue of $111.6M also missed the $125M consensus estimate, adding to investor concern about commercial execution.",
       "bull_case": [
-        "Best-in-class comp sales recovery (+6.1% YoY) signals durable consumer demand for electronics; tariff refunds boosted EPS by an estimated $0.15/share and may continue as a tailwind",
-        "Black Friday and holiday season provide near-term revenue catalyst; raised full-year guidance gives management credibility and reduces downside earnings risk"
+        "Broad biosimilar pipeline beyond AVT05: Alvotech has multiple products already approved and commercialized, with additional candidates in Phase 3 development, reducing single-asset dependency over time.",
+        "Analyst consensus of Buy with ~$8.40 average price target implies over 125% upside from current levels; Jefferies recently initiated with Buy and a $9 target, and Barclays upgraded to Overweight with an $8 target in September 2026."
       ],
       "bear_case": [
-        "Stock is trading above most analyst consensus price targets (~$95.64), implying limited near-term upside; Goldman Sachs maintains a Sell rating with an $89 target, citing structural concerns",
-        "Consumer electronics is a discretionary category vulnerable to spending pullbacks; competitive pressure from Amazon and big-box retailers constrains pricing power and margin expansion"
+        "The Janssen preliminary injunction blocks a key revenue-generating product, and appealing patent disputes is costly, slow, and uncertain — a loss on appeal could permanently impair the AVT05 opportunity.",
+        "Q3 revenue miss ($111.6M vs $125M expected) suggests commercial execution risks; stock is down ~43% from its 52-week high, and the technical trend (RSI unavailable) remains weak."
       ],
       "recommendation": "Hold",
-      "current_price": "$102.58",
-      "price_target": "$95.64 (-6.8%)",
-      "pe_ratio": "14.27",
+      "current_price": "$3.69",
+      "price_target": "$8.40 (+127.6%)",
+      "pe_ratio": "N/A",
       "rsi": "N/A",
-      "vs_52wk_high": "-3.9% below high ($106.83)",
-      "analyst_rating": "Hold",
-      "sector": "Consumer Discretionary - Electronics Retail",
-      "sources": ["CNBC", "MarketBeat", "StockAnalysis", "Stifel", "Wells Fargo", "Goldman Sachs"],
-      "price_history_5d": [99.27, 97.95, 97.00, 99.62, 102.58]
+      "vs_52wk_high": "-43.5% below high ($6.53)",
+      "analyst_rating": "Moderate Buy",
+      "sector": "Healthcare - Biopharmaceuticals (Biosimilars)",
+      "sources": ["Benzinga", "MarketBeat", "StockAnalysis", "Jefferies", "Barclays", "GuruFocus"],
+      "price_history_5d": [4.37, 4.25, 4.21, 3.69]
     },
     {
-      "ticker": "ADSK",
-      "company": "Autodesk, Inc.",
-      "discussion_driver": "Autodesk fell ~3% on November 25 despite beating Q3 FY2027 earnings (EPS $3.20 vs $3.07 est.) and raising Q4 guidance, a classic buy-the-rumor sell-the-news reaction after shares had already rallied into the print. The result itself was solid: strength in AEC (architecture, engineering, construction) driven by civil infrastructure and data center demand, plus robust large-enterprise renewals.",
+      "ticker": "NEM",
+      "company": "Newmont Corporation",
+      "discussion_driver": "Newmont surged ~5.3% on November 27 as spot gold reclaimed $3,680/oz, its highest level in recent months. The precious metals rally is driven by holiday-week safe-haven demand and macro uncertainty, with Newmont rising alongside peers AngloGold Ashanti (+4.7%). Gold is a key catalyst for the week as AI/tech stocks rebounded simultaneously.",
       "bull_case": [
-        "Q3 FY2027 EPS beat with raised Q4 guidance; RBC (Outperform, $305), BTIG (Buy), and Rosenblatt (Buy, $375) all maintained positive ratings; 32-analyst consensus target of $317 implies ~27% upside from current levels",
-        "AI-integrated design tools and exposure to long-cycle infrastructure buildouts (data centers, civil engineering) provide durable, subscription-based revenue growth well into 2027 and beyond"
+        "Gold at $3,680/oz drives direct margin expansion for Newmont as the world's largest gold miner; sustained precious metals strength tied to macro uncertainty and central bank buying supports a multi-quarter tailwind.",
+        "Cheap valuation at ~11.6x trailing P/E with an analyst consensus target of $137.20 (+28% upside); 21 analysts maintain a Buy rating, and the stock's rebound from $94 lows shows strong support."
       ],
       "bear_case": [
-        "Stock fell on earnings day despite the beat, signaling that expectations were already elevated; Cantor Fitzgerald initiated at Neutral with a $215 target — the lowest on the Street — citing stretched valuation",
-        "Trading at ~33x trailing earnings; the bull case depends on a significant expansion in profitability that has not yet fully materialized; broad tech selloff risk in a rising-rate or AI-skeptic environment"
+        "Gold prices are highly sensitive to Fed rate policy and USD strength — any hawkish surprise or dollar rally could quickly reverse the metals rally and compress Newmont's margins.",
+        "Stock remains 21% below its 52-week high with RSI at 44.55, indicating neutral-to-weak momentum and no confirmed technical breakout; moving averages are still below the current price."
       ],
-      "recommendation": "Hold",
-      "current_price": "$250.38",
-      "price_target": "$317.44 (+26.8%)",
-      "pe_ratio": "33.40",
-      "rsi": "N/A",
-      "vs_52wk_high": "-21.7% below high ($320.00)",
+      "recommendation": "Buy",
+      "current_price": "$106.87",
+      "price_target": "$137.20 (+28.4%)",
+      "pe_ratio": "11.59",
+      "rsi": "44.55",
+      "vs_52wk_high": "-21.0% below high ($135.29)",
       "analyst_rating": "Buy",
-      "sector": "Technology - Design Software",
-      "sources": ["Investing.com", "MarketBeat", "StockAnalysis", "RBC Capital", "BTIG Research", "Cantor Fitzgerald", "Rosenblatt"],
-      "price_history_5d": [253.00, 243.45, 244.48, 255.33, 258.12]
+      "sector": "Materials - Gold Mining",
+      "sources": ["CNBC", "GuruFocus", "TradingKey", "Finviz", "Lincolnian Online", "Trefis", "Tickeron"],
+      "price_history_5d": [94.68, 100.73, 99.43, 101.44, 106.87]
+    },
+    {
+      "ticker": "NU",
+      "company": "Nu Holdings Ltd.",
+      "discussion_driver": "Nu Holdings rose ~6.6% on November 27 as Brazil's President Lula named Bradesco chairman Luiz Carlos Trabuco as the incoming Finance Minister — a market-friendly fiscal signal that sparked a broad EM rally. As one of Brazil's largest digital banks with over 100 million customers, Nu benefits directly from reduced political risk premium and improved Brazilian macro outlook.",
+      "bull_case": [
+        "Brazil's market-friendly Finance Minister appointment reduces political risk premium and may support BRL stability, directly benefiting Nu's USD-denominated earnings from its large Brazilian customer base.",
+        "Attractive valuation at ~14.75x P/E for a high-growth digital bank with a 35% upside to analyst consensus target of $17.84; UBS maintains Buy with a $17.80 target, and the majority of covering analysts rate it Buy."
+      ],
+      "bear_case": [
+        "BRL currency weakness remains a persistent risk — a weaker Brazilian real directly erodes the USD value of Nu's earnings, and EM markets remain sensitive to shifts in US interest rate expectations.",
+        "Multiple recent analyst target cuts (Susquehanna cut from $16 to $13, UBS cut from $20.50 to $17.80) signal deteriorating near-term sentiment; stock is still down ~31% from its 52-week high of $18.98."
+      ],
+      "recommendation": "Buy",
+      "current_price": "$13.18",
+      "price_target": "$17.84 (+35.4%)",
+      "pe_ratio": "14.75",
+      "rsi": "N/A",
+      "vs_52wk_high": "-30.6% below high ($18.98)",
+      "analyst_rating": "Buy",
+      "sector": "Financial Services - Brazilian Digital Banking",
+      "sources": ["Benzinga", "CNBC", "MarketBeat", "Morningstar", "Macroaxis", "UBS", "Susquehanna", "WiseVoter"],
+      "price_history_5d": [11.27, 11.80, 11.86, 12.36, 13.18]
     }
   ]
 }
